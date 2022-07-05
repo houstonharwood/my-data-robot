@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '*/5 * * * *' # If you enter a time here, note that it will be in UTC
+    - cron:  '*/1 * * * *' # If you enter a time here, note that it will be in UTC
 
 jobs:
   scrape:
