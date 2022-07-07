@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T05:49:26.155Z,61.7194,-152.0983,115.7,1.8,ml,,,,0.54,ak,ak0228n0ayxa,2022-07-07T05:51:44.916Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-07-07T05:05:42.310Z,19.2343330383301,-155.383499145508,32.2900009155273,1.77999997,md,27,147,,0.129999995,hv,hv73067522,2022-07-07T05:08:56.390Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.81,0.99000001,0.0599999987,5,automatic,hv,hv
 2022-07-07T04:32:56.290Z,34.0391667,-117.2006667,15.97,1.12,ml,21,88,0.1083,0.18,ci,ci40298808,2022-07-07T04:36:35.359Z,"2km SW of Redlands, CA",earthquake,0.34,0.88,0.206,26,automatic,ci,ci
 2022-07-07T04:14:45.360Z,38.8208351,-122.833168,14.01,0.7,md,13,113,0.002702,0.13,nc,nc73755646,2022-07-07T05:26:11.969Z,"8km NW of The Geysers, CA",earthquake,2.13,0.78,0.05,3,automatic,nc,nc
-2022-07-07T04:14:23.910Z,17.9966666666667,-67.0056666666667,10.47,2.11,md,16,130,,0.14,pr,pr71357898,2022-07-07T04:38:21.100Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.38,0.67,0.0752649973112756,6,reviewed,pr,pr
+2022-07-07T04:14:23.910Z,17.9966666666667,-67.0056666666667,10.47,2.11,md,16,130,,0.14,pr,pr71357898,2022-07-07T04:38:21.100Z,"Puerto Rico region",earthquake,0.38,0.67,0.0752649973112756,6,reviewed,pr,pr
 2022-07-07T04:11:00.640Z,17.9476666666667,-66.8471666666667,11.55,2.39,md,29,176,,0.17,pr,pr71357893,2022-07-07T04:28:14.210Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.35,0.33,0.156008912057902,19,reviewed,pr,pr
 2022-07-07T04:08:33.680Z,19.4848327636719,-155.434829711914,4.55000019073486,2.28,ml,38,51,,0.200000003,hv,hv73067487,2022-07-07T04:14:04.770Z,"21 km WNW of Volcano, Hawaii",earthquake,0.42,1.28999996,4.07,9,automatic,hv,hv
 2022-07-07T03:56:43.339Z,63.2999,-151.0919,0,1.5,ml,,,,0.81,ak,ak0228mz5n3h,2022-07-07T03:58:47.283Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T22:02:52.990Z,40.4971657,-125.7248306,2.09,2.89,md,36,264,1.058,0.54,nc,nc73755516,2022-07-07T00:50:13.120Z,"123km W of Petrolia, CA",earthquake,5.45,44.57,0.13,6,automatic,nc,nc
 2022-07-06T21:51:37.870Z,35.6641667,-117.4371667,3.63,1.09,ml,11,175,0.08014,0.14,ci,ci40298536,2022-07-06T21:55:12.504Z,"12km SSW of Searles Valley, CA",earthquake,0.71,1.4,0.104,10,automatic,ci,ci
 2022-07-06T21:48:06.960Z,19.2356666666667,-155.385333333333,30.21,1.71,md,24,150,,0.12,hv,hv73067227,2022-07-06T22:15:15.070Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.62,0.94,0.0803259711237783,15,reviewed,hv,hv
-2022-07-06T21:37:41.770Z,39.711,-110.7706667,5.64,1.28,ml,6,255,0.2076,0.13,uu,uu60504702,2022-07-06T21:56:26.430Z,"3 km NE of Kenilworth, Utah",earthquake,2.11,31.61,0.141,2,reviewed,uu,uu
+2022-07-06T21:37:41.770Z,39.711,-110.7706667,5.64,1.28,ml,6,255,0.2076,0.13,uu,uu60504702,2022-07-06T21:56:26.430Z,"Utah",earthquake,2.11,31.61,0.141,2,reviewed,uu,uu
 2022-07-06T21:30:43.330Z,19.174165725708,-155.477996826172,35.0200004577637,2.27,ml,40,78,,0.129999995,hv,hv73067222,2022-07-06T21:46:00.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,0.779999971,3.93,13,automatic,hv,hv
 2022-07-06T21:26:35.837Z,56.5915,-169.1607,10,3.2,mb_lg,30,109,3.019,0.36,us,us6000i0dk,2022-07-07T00:46:44.317Z,"23 km E of Saint George, Alaska",earthquake,8.1,2,0.136,14,reviewed,us,us
 2022-07-06T21:22:00.090Z,38.8373337,-122.8365021,1.93,1.17,md,24,80,0.001483,0.02,nc,nc73755501,2022-07-06T22:02:14.999Z,"10km NW of The Geysers, CA",earthquake,0.2,0.41,0.02,4,automatic,nc,nc
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T06:09:30.945Z,37.3642,-117.137,7.6,0.8,ml,12,142.62,0.117,0.1692,nn,nn00842319,2022-07-07T02:40:24.925Z,"39 km SSE of Goldfield, Nevada",earthquake,,3.1,1.41,9,reviewed,nn,nn
 2022-07-06T06:07:02.600Z,34.7988333,-119.526,20.34,2.25,ml,10,143,0.2696,0.29,ci,ci40297848,2022-07-06T06:13:55.614Z,"31km SSW of Maricopa, CA",earthquake,1.61,3.56,0.25,26,automatic,ci,ci
 2022-07-06T06:07:02.250Z,34.2933333,-119.676,0.72,2.25,ml,30,116,0.1505,0.27,ci,ci40297856,2022-07-06T06:17:47.780Z,"14km S of Santa Barbara, CA",earthquake,0.63,31.61,0.157,27,automatic,ci,ci
-2022-07-06T05:55:56.153Z,64.9203,-150.3999,17.7,1.5,ml,,,,0.59,ak,ak0228lcsz33,2022-07-06T05:57:53.689Z,"14 km SE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
