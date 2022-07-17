@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-17T19:33:14.313Z,68.6752,-148.4491,0,1.6,ml,,,,1.3,ak,ak02293rx1xa,2022-07-17T19:36:08.388Z,"134 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-17T19:21:33.006Z,38.6507,-116.2879,11.8,2.3,ml,12,199.91,1.253,0.3987,nn,nn00843125,2022-07-17T19:25:39.503Z,"91 km SE of Kingston, Nevada",earthquake,,1.9,0.78,7,automatic,nn,nn
 2022-07-17T19:07:29.780Z,18.0068333333333,-66.8913333333333,13.73,2.12,md,8,97,,0.11,pr,pr71359998,2022-07-17T19:20:18.650Z,"2 km WSW of Palomas, Puerto Rico",earthquake,0.61,0.35,0.0514725585318274,7,reviewed,pr,pr
-2022-07-17T19:06:05.180Z,38.8243332,-122.8033371,2.56,1.2,md,25,33,0.005345,0.01,nc,nc73759936,2022-07-17T19:15:10.519Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.05,6,automatic,nc,nc
+2022-07-17T19:06:05.180Z,38.8243332,-122.8033371,2.56,1.2,md,25,33,0.005345,0.01,nc,nc73759936,2022-07-17T19:36:11.665Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.05,6,automatic,nc,nc
 2022-07-17T19:02:05.089Z,38.6169,-116.2339,16,1.8,ml,8,194.79,1.276,0.2778,nn,nn00843124,2022-07-17T19:07:17.014Z,"97 km SE of Kingston, Nevada",earthquake,,2.1,0.24,4,automatic,nn,nn
 2022-07-17T19:00:31.300Z,32.913,-116.2501667,4.15,2.37,ml,61,56,0.06102,0.24,ci,ci40065439,2022-07-17T19:11:15.000Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.27,1.08,0.194,27,automatic,ci,ci
 2022-07-17T18:53:55.900Z,17.997,-66.8868333333333,15.08,2.48,md,9,99,,0.1,pr,pr71359993,2022-07-17T19:12:32.160Z,"2 km N of Maria Antonia, Puerto Rico",earthquake,0.4,0.55,0.0856245505893711,6,reviewed,pr,pr
@@ -72,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T13:03:05.430Z,38.7931671,-122.7294998,2.13,1.19,md,10,172,0.01141,0.02,nc,nc73759776,2022-07-17T14:53:11.889Z,"3km NE of The Geysers, CA",earthquake,0.53,0.94,,1,automatic,nc,nc
 2022-07-17T12:58:36.650Z,-0.0447,123.0735,115.92,5.2,mww,100,21,1.035,0.92,us,us6000i38n,2022-07-17T14:20:59.572Z,"64 km S of Gorontalo, Indonesia",earthquake,6.4,4.7,0.057,30,reviewed,us,us
 2022-07-17T12:53:44.996Z,64.7913,-149.0346,9,2,ml,,,,0.89,ak,ak02293nvdgj,2022-07-17T12:56:46.497Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-17T12:51:41.493Z,39.983,-98.1425,5,3.7,mb,77,25,1.423,0.5,us,us6000i38f,2022-07-17T19:30:56.597Z,"7 km SW of Superior, Nebraska",earthquake,3.9,2,0.153,11,reviewed,us,us
+2022-07-17T12:51:41.493Z,39.983,-98.1425,5,3.7,mb,77,25,1.423,0.5,us,us6000i38f,2022-07-17T19:36:04.940Z,"7 km SW of Superior, Nebraska",earthquake,3.9,2,0.153,11,reviewed,us,us
 2022-07-17T12:45:40.432Z,31.66920131,-104.3305278,6.697143555000001,2,ml,16,59,0.05600040075,0.2,tx,tx2022nwxj,2022-07-17T15:30:42.543Z,"56 km S of Whites City, New Mexico",earthquake,1.151394263,1.00529536,0.2,12,reviewed,tx,tx
 2022-07-17T12:43:52.990Z,18.6853333333333,-155.241333333333,6.55,2.8,ml,37,287,,0.1,hv,hv73077927,2022-07-17T13:21:03.760Z,"55 km SE of Naalehu, Hawaii",earthquake,0.97,0.89,0.172669556631936,7,reviewed,hv,hv
 2022-07-17T12:41:39.107Z,59.6391,-152.8793,85.8,1.5,ml,,,,0.29,ak,ak02293nsseu,2022-07-17T12:44:03.670Z,"60 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -283,6 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T19:59:15.750Z,33.2371667,-116.1025,5.77,1.56,ml,29,43,0.09803,0.24,ci,ci40064751,2022-07-16T20:02:53.429Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.29,0.89,0.163,14,automatic,ci,ci
 2022-07-16T19:58:02.640Z,33.231,-116.106,8.92,2.99,ml,101,20,0.0913,0.19,ci,ci40064743,2022-07-17T15:51:32.941Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.11,0.46,0.118,114,reviewed,ci,ci
 2022-07-16T19:57:03.676Z,60.0383,-153.0408,115.2,1.1,ml,,,,0.35,ak,ak022924itvj,2022-07-16T19:58:44.363Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-07-16T19:39:35.360Z,38.6464,-116.7059,3.9,1.2,ml,8,303.64,0.971,0.1821,nn,nn00843063,2022-07-16T19:44:39.672Z,"70 km SSE of Kingston, Nevada",earthquake,,21,0.17,4,automatic,nn,nn
-2022-07-16T19:38:52.760Z,37.4998322,-121.8233337,4.71,1.43,md,13,84,0.04259,0.04,nc,nc73759371,2022-07-16T21:28:10.564Z,"11km NE of Milpitas, CA",earthquake,0.28,0.43,0.2,9,automatic,nc,nc
-2022-07-16T19:38:11.864Z,62.9084,-151.3337,12,1.4,ml,,,,0.54,ak,ak022924erwi,2022-07-16T19:40:49.096Z,"54 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
