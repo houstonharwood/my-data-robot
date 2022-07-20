@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T20:11:17.800Z,36.1715,-89.6701667,4.42,2.34,md,44,33,0.05749,0.23,nm,nm60400662,2022-07-20T20:44:34.627Z,"2 km SSW of Caruthersville, Missouri",earthquake,0.24,0.42,0.105,35,reviewed,nm,nm
 2022-07-20T20:10:19.600Z,34.9175,-118.5115,2.11,1.63,ml,9,152,0.1575,0.15,ci,ci40066839,2022-07-20T20:13:58.409Z,"18km NNE of Neenach, CA",earthquake,0.57,1.1,0.214,31,automatic,ci,ci
 2022-07-20T20:08:02.970Z,39.427,-110.3008333,-1.37,1.33,ml,8,198,0.01902,0.15,uu,uu60506522,2022-07-20T20:18:18.220Z,"15 km SSE of Sunnyside, Utah",earthquake,1.24,0.87,0.001,2,reviewed,uu,uu
-2022-07-20T19:55:43.810Z,19.405834197998,-155.32666015625,2.6800000667572,2.4,ml,37,47,,0.180000007,hv,hv73082192,2022-07-20T20:01:13.550Z,"10 km WSW of Volcano, Hawaii",earthquake,0.31,0.579999983,4.68,5,automatic,hv,hv
+2022-07-20T19:55:43.760Z,19.4063333333333,-155.326666666667,5.07,2.04,ml,44,43,,0.11,hv,hv73082192,2022-07-20T20:55:26.770Z,"10 km WSW of Volcano, Hawaii",earthquake,0.23,0.5,0.133574115477902,11,reviewed,hv,hv
 2022-07-20T19:48:27.060Z,39.4338333,-110.3288333,-0.97,1.39,ml,7,145,0.01014,0.03,uu,uu60506517,2022-07-20T20:00:47.370Z,"14 km SSE of Sunnyside, Utah",earthquake,0.92,0.35,0.084,2,reviewed,uu,uu
 2022-07-20T19:17:23.790Z,37.5028333,-118.8406667,4.93,1.66,md,25,67,0.08752,0.07,nc,nc73761051,2022-07-20T20:49:13.242Z,"16km WSW of Toms Place, CA",earthquake,0.31,0.81,0.229,25,reviewed,nc,nc
 2022-07-20T19:08:34.833Z,-21.4367,169.4346,10,4.7,mb,46,105,2.184,0.63,us,us7000hs6r,2022-07-20T20:49:50.040Z,"161 km E of Tadine, New Caledonia",earthquake,8.4,1.9,0.084,43,reviewed,us,us
@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T13:14:48.729Z,62.2967,-152.2099,0,1.5,ml,,,,0.72,ak,ak02298muhwo,2022-07-20T13:18:02.259Z,"54 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-20T12:58:21.549Z,37.2929,-114.9959,16,1.1,ml,9,133.91,0.767,0.2927,nn,nn00843276,2022-07-20T13:02:01.370Z,"16 km ESE of Alamo, Nevada",earthquake,,0.8,0.83,5,automatic,nn,nn
 2022-07-20T12:58:03.283Z,66.0583,-148.2473,10,1.1,ml,,,,0.86,ak,ak02298mieb2,2022-07-20T13:01:11.236Z,"38 km E of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-20T12:39:04.930Z,35.5085,-118.3958333,8.66,1.12,ml,18,78,0.1666,0.16,ci,ci40066695,2022-07-20T12:42:34.087Z,"12km SE of Bodfish, CA",earthquake,0.29,1.14,0.142,12,automatic,ci,ci
+2022-07-20T12:39:04.850Z,35.5071667,-118.3953333,7.74,1.13,ml,25,66,0.168,0.12,ci,ci40066695,2022-07-20T20:55:39.917Z,"12km SE of Bodfish, CA",earthquake,0.17,0.87,0.126,12,reviewed,ci,ci
 2022-07-20T12:30:17.213Z,62.052,-149.2563,42.2,1.2,ml,,,,0.22,ak,ak02298mcfbt,2022-07-20T12:31:37.960Z,"33 km ESE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-20T12:16:58.050Z,36.1398333,-117.9891667,1.83,0.64,ml,11,202,0.111,0.12,ci,ci40066687,2022-07-20T13:26:11.328Z,"11km NNW of Coso Junction, CA",earthquake,0.45,0.43,0.08,2,reviewed,ci,ci
 2022-07-20T12:15:52.806Z,38.6782,-116.0935,0.2,1.4,ml,5,152.35,0.863,0.2339,nn,nn00843275,2022-07-20T20:45:34.272Z,"93 km S of Eureka, Nevada",earthquake,,4.3,0,1,reviewed,nn,nn
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T21:13:53.929Z,60.9826,-147.0911,21.5,2.6,ml,,,,0.36,ak,ak0229742exs,2022-07-19T21:53:36.040Z,"25 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-19T21:06:42.000Z,32.7795,-115.2455,14.59,1.84,ml,23,135,0.1472,0.23,ci,ci40066463,2022-07-20T20:22:51.644Z,"13km ESE of Holtville, CA",earthquake,0.46,0.71,0.133,21,reviewed,ci,ci
 2022-07-19T21:00:10.090Z,36.7823334,-121.2563324,11.24,1.52,md,10,203,0.077,0.1,nc,nc73760776,2022-07-20T00:17:24.587Z,"6km E of Tres Pinos, CA",earthquake,1.03,1.85,0.09,9,automatic,nc,nc
-2022-07-19T20:50:25.226Z,61.5049,-150.088,25,1.2,ml,,,,0.6,ak,ak022973oum2,2022-07-19T20:52:16.735Z,"7 km WSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
