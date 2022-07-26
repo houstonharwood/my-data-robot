@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-26T18:48:43.140Z,35.7791667,-117.5735,15.02,0.92,ml,11,162,0.04139,0.28,ci,ci40070095,2022-07-26T18:52:16.008Z,"15km W of Searles Valley, CA",earthquake,1.05,1.12,0.144,9,automatic,ci,ci
 2022-07-26T18:39:36.524Z,38.993,-118.8675,3.6,1.2,ml,12,116.76,0.29,0.1808,nn,nn00843621,2022-07-26T18:44:24.152Z,"6 km NW of Schurz, Nevada",earthquake,,12.3,0.28,8,automatic,nn,nn
 2022-07-26T18:27:10.338Z,61.5994,-148.1609,16.2,0.9,ml,,,,0.25,ak,ak0229in4g97,2022-07-26T18:29:17.142Z,"27 km SE of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-07-26T18:23:34.940Z,38.8383331,-122.807663,2.06,0.85,md,12,58,0.01353,0,nc,nc73763056,2022-07-26T18:33:11.009Z,"8km WNW of Cobb, CA",earthquake,0.29,0.8,,1,automatic,nc,nc
-2022-07-26T18:19:37.940Z,40.7108345,-122.1894989,1.24,1.78,md,5,202,0.06823,0.08,nc,nc73763051,2022-07-26T18:27:11.109Z,"9km NNE of Bella Vista, CA",earthquake,3.26,1.84,0.08,5,automatic,nc,nc
+2022-07-26T18:19:37.940Z,40.7108345,-122.1894989,1.24,1.78,md,5,202,0.06823,0.08,nc,nc73763051,2022-07-26T18:51:15.126Z,"9km NNE of Bella Vista, CA",earthquake,3.26,1.84,0.08,5,automatic,nc,nc
 2022-07-26T18:08:57.714Z,38.7592,-116.0812,0.2,2.4,ml,8,158.41,1.383,0.3608,nn,nn00843620,2022-07-26T18:12:43.970Z,"84 km S of Eureka, Nevada",earthquake,,17.9,0.77,6,automatic,nn,nn
 2022-07-26T17:55:34.430Z,34.0623333,-116.4255,4.06,1.7,ml,55,27,0.03034,0.14,ci,ci40070063,2022-07-26T18:38:02.470Z,"6km S of Yucca Valley, CA",earthquake,0.16,0.39,0.143,24,reviewed,ci,ci
 2022-07-26T17:55:07.135Z,57.258,-153.4557,16.5,1.8,ml,,,,0.56,ak,ak0229imp0ft,2022-07-26T17:57:27.032Z,"10 km NW of Old Harbor, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T16:43:58.650Z,37.5708333,-118.8693333,-0.29,-0.01,md,8,240,0.03726,0.02,nc,nc73763031,2022-07-26T17:42:56.096Z,"12km SE of Mammoth Lakes, CA",earthquake,1,2.27,0.19,7,reviewed,nc,nc
 2022-07-26T16:42:00.800Z,38.2027,-117.7766,0,0.8,ml,9,200.15,0.137,0.2014,nn,nn00843617,2022-07-26T16:45:51.142Z,"35 km SE of Mina, Nevada",earthquake,,12,0.25,6,automatic,nn,nn
 2022-07-26T16:38:36.740Z,33.6773333,-116.7086667,15.36,1.03,ml,48,49,0.03027,0.14,ci,ci40070031,2022-07-26T18:23:34.041Z,"7km S of Idyllwild, CA",earthquake,0.16,0.27,0.187,22,reviewed,ci,ci
+2022-07-26T16:33:01.910Z,46.1955,-122.18883333333333,3.46,0.24,ml,12,128,0.00524,0.09,uw,uw61865696,2022-07-26T18:51:05.150Z,"37 km NNE of Amboy, Washington",earthquake,0.42,0.62,0.13539580220364156,8,reviewed,uw,uw
 2022-07-26T16:31:08.480Z,38.8190002,-122.8118362,1.75,0.5,md,16,72,0.004599,0.02,nc,nc73763026,2022-07-26T16:48:15.321Z,"7km NW of The Geysers, CA",earthquake,0.25,0.52,0.35,2,automatic,nc,nc
 2022-07-26T16:30:56.405Z,61.2732,-151.2327,64.2,1.4,ml,,,,0.26,ak,ak0229ilybqg,2022-07-26T16:33:03.745Z,"16 km NNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-26T16:25:44.529Z,62.924,-149.9099,76.2,1.6,ml,,,,0.55,ak,ak0229ilx88k,2022-07-26T16:28:11.263Z,"53 km N of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-25T19:06:32.520Z,38.8383331,-122.8068314,1.77,0.71,md,14,55,0.01288,0.04,nc,nc73762736,2022-07-25T19:29:22.661Z,"8km WNW of Cobb, CA",earthquake,0.27,0.64,0.14,2,automatic,nc,nc
 2022-07-25T19:05:05.840Z,34.0108333,-116.3276667,10.13,0.94,ml,10,88,0.07795,0.05,ci,ci40069503,2022-07-25T19:40:11.703Z,"14km S of Joshua Tree, CA",earthquake,0.2,0.39,0.276,11,reviewed,ci,ci
 2022-07-25T19:02:03.830Z,39.431,-110.3128333,-0.97,1.82,md,7,194,0.01174,0.06,uu,uu60030724,2022-07-26T16:30:29.280Z,"14 km SSE of Sunnyside, Utah",earthquake,0.85,0.36,0.147,6,reviewed,uu,uu
-2022-07-25T18:54:14.129Z,51.9296,174.916,35,3.5,ml,13,235,0.944,0.3,us,us7000hteb,2022-07-25T20:40:53.040Z,"155 km SE of Attu Station, Alaska",earthquake,8.3,2,0.115,10,reviewed,us,us
