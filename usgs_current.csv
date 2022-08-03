@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-03T21:51:25.460Z,34.4551667,-117.8076667,6.4,0.99,ml,14,94,0.03133,0.14,ci,ci40074607,2022-08-03T21:54:59.915Z,"5km SSW of Llano, CA",earthquake,0.29,0.61,0.148,15,automatic,ci,ci
 2022-08-03T21:40:50.250Z,34.4605,-117.8105,6.35,0.47,ml,7,127,0.02891,0.14,ci,ci40074591,2022-08-03T21:44:23.559Z,"4km SSW of Llano, CA",earthquake,0.39,0.67,0.143,7,automatic,ci,ci
 2022-08-03T21:37:45.650Z,33.6331667,-116.6721667,12.18,0.33,ml,16,62,0.06482,0.11,ci,ci40074583,2022-08-03T21:41:20.757Z,"9km N of Anza, CA",earthquake,0.32,0.49,0.2,8,automatic,ci,ci
 2022-08-03T21:27:03.890Z,34.4523333,-117.8061667,7.87,1.07,ml,17,98,0.03296,0.18,ci,ci40074575,2022-08-03T21:30:37.934Z,"5km SSW of Llano, CA",earthquake,0.36,0.71,0.17,21,automatic,ci,ci
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T13:58:25.780Z,35.9743333,-117.6766667,2.68,1.09,ml,16,63,0.1075,0.14,ci,ci40074287,2022-08-03T16:17:49.063Z,"21km ENE of Little Lake, CA",earthquake,0.23,0.92,0.159,8,reviewed,ci,ci
 2022-08-03T13:56:08.720Z,38.7696667,-122.729,0.85,0.1,md,17,62,0.008687,0.05,nc,nc73763530,2022-08-03T20:46:10.788Z,"2km ESE of The Geysers, CA",earthquake,0.19,0.23,0.066,5,reviewed,nc,nc
 2022-08-03T13:45:52.115Z,38.677,-116.0766,0,2.6,ml,11,102.47,0.876,0.2458,nn,nn00844083,2022-08-03T16:32:53.364Z,"92 km WSW of Preston, Nevada",earthquake,,0,0.3,4,reviewed,nn,nn
-2022-08-03T13:44:47.880Z,34.1608333,-80.7245,3,1.75,md,9,93,0.03411,0.26,se,se60158143,2022-08-03T21:48:59.133Z,"6 km E of Elgin, South Carolina",earthquake,2.09,1.35,0.028,6,reviewed,se,se
+2022-08-03T13:44:47.880Z,34.1608333,-80.7245,3,1.75,md,9,93,0.03411,0.26,se,se60158143,2022-08-03T21:54:03.807Z,"6 km E of Elgin, South Carolina",earthquake,2.09,1.35,0.028,6,reviewed,se,se
 2022-08-03T13:39:34.015Z,64.2631,-150.3692,13.1,1.5,ml,,,,0.55,ak,ak0229vsiol5,2022-08-03T13:41:13.957Z,"57 km W of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-03T13:38:24.820Z,17.9975,-66.5348333333333,5.96,2.31,md,7,157,,0.1,pr,pr71362323,2022-08-03T13:56:04.050Z,"1 km S of Capitanejo, Puerto Rico",earthquake,0.3,0.42,0.129567336482235,3,reviewed,pr,pr
 2022-08-03T13:21:28.490Z,36.029,-117.8313333,2.13,1.04,ml,15,69,0.04986,0.08,ci,ci40074271,2022-08-03T15:58:34.690Z,"11km E of Coso Junction, CA",earthquake,0.14,0.16,0.25,7,reviewed,ci,ci
@@ -131,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T10:56:10.919Z,38.3699,-119.3539,4,1.2,ml,14,84.3,0.071,0.2296,nn,nn00844073,2022-08-03T10:59:20.543Z,"16 km NW of Bridgeport, California",earthquake,,2.1,0.29,9,automatic,nn,nn
 2022-08-03T10:52:58.750Z,38.3821667,-119.3758333,5.83,1.77,md,21,113,0.06028,0.11,nc,nc73763505,2022-08-03T19:44:16.319Z,"17km SSE of Walker, CA",earthquake,0.27,0.41,0.161,27,reviewed,nc,nc
 2022-08-03T10:41:52.200Z,19.4803333333333,-155.586333333333,-0.59,1.08,md,9,108,,0.14,hv,hv73097317,2022-08-03T20:32:33.420Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.29,0.0748029025630431,6,reviewed,hv,hv
+2022-08-03T10:40:18.300Z,46.251,-122.10566666666666,5.61,0.14,ml,10,199,0.02244,0.14,uw,uw61859697,2022-08-03T21:55:15.100Z,"36 km SSE of Morton, Washington",earthquake,0.84,0.58,0.07063091541383032,4,reviewed,uw,uw
 2022-08-03T10:38:34.560Z,38.769,-122.7125,1.74,0.15,md,18,41,0.01037,0.04,nc,nc73763495,2022-08-03T19:34:16.259Z,"2km WSW of Anderson Springs, CA",earthquake,0.24,0.32,0.045,4,reviewed,nc,nc
 2022-08-03T10:32:03.660Z,18.2998333333333,-67.1778333333333,78.88,3.03,md,12,121,,0.26,pr,pr71362293,2022-08-03T11:13:47.320Z,"1 km NE of La Playa, Puerto Rico",earthquake,1.01,0.98,0.0467696072265011,6,reviewed,pr,pr
 2022-08-03T10:27:17.960Z,46.20333333333333,-122.18383333333334,2.46,0.71,ml,22,67,0.003341,0.18,uw,uw61859692,2022-08-03T20:04:57.250Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.51,0.12915437613445213,16,reviewed,uw,uw
