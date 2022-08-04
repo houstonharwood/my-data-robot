@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-04T06:56:47.980Z,38.822834,-122.7651672,1.9,0.95,md,20,120,0.008479,0.04,nc,nc73763930,2022-08-04T06:58:25.362Z,"4km W of Cobb, CA",earthquake,0.26,0.42,0.08,4,automatic,nc,nc
+2022-08-04T06:55:05.631Z,38.1679,-118.2218,8.7,1.3,ml,12,135.96,0.189,0.2471,nn,nn00844152,2022-08-04T06:58:23.108Z,"26 km SSW of Mina, Nevada",earthquake,,1.2,0.26,9,automatic,nn,nn
 2022-08-04T06:50:04.263Z,61.5888,-148.0584,8.6,1.2,ml,,,,1.09,ak,ak0229xbyafe,2022-08-04T06:51:41.200Z,"31 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-04T06:49:23.600Z,38.7929993,-122.8008347,3.48,0.84,md,10,70,0.004983,0.01,nc,nc73763925,2022-08-04T06:50:59.751Z,"4km WNW of The Geysers, CA",earthquake,0.45,1.2,,1,automatic,nc,nc
+2022-08-04T06:49:23.600Z,38.7929993,-122.8008347,3.48,0.84,md,10,70,0.004983,0.01,nc,nc73763925,2022-08-04T06:58:10.948Z,"4km WNW of The Geysers, CA",earthquake,0.45,1.2,,1,automatic,nc,nc
+2022-08-04T06:46:54.604Z,38.166,-117.8414,6.7,0.8,ml,10,173.09,0.097,0.0874,nn,nn00844150,2022-08-04T06:52:41.437Z,"34 km SE of Mina, Nevada",earthquake,,1,0.36,5,automatic,nn,nn
 2022-08-04T06:45:10.101Z,62.3841,-150.0307,67.7,1.1,ml,,,,0.6,ak,ak0229xbx8aq,2022-08-04T06:47:24.099Z,"7 km NNE of Talkeetna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-04T06:32:43.580Z,38.8343315,-122.8021698,2.44,0.85,md,8,87,0.01254,0.01,nc,nc73763920,2022-08-04T06:41:10.822Z,"7km WNW of Cobb, CA",earthquake,0.43,1.2,,1,automatic,nc,nc
 2022-08-04T06:31:37.810Z,35.5241667,-118.3521667,0.42,0.88,ml,10,109,0.1706,0.11,ci,ci40074743,2022-08-04T06:35:08.148Z,"14km ESE of Bodfish, CA",earthquake,0.3,0.6,0.125,9,automatic,ci,ci
@@ -125,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T20:19:40.670Z,35.9795,-118.3433333,1.96,1.71,ml,32,61,0.2171,0.17,ci,ci40074527,2022-08-03T20:46:26.200Z,"26km NNE of Kernville, CA",earthquake,0.21,0.94,0.156,24,reviewed,ci,ci
 2022-08-03T20:06:09.530Z,19.479,-155.5935,-0.26,0.71,md,10,97,,0.11,hv,hv73097877,2022-08-03T20:15:17.430Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.21,0.258844234616978,6,reviewed,hv,hv
 2022-08-03T20:05:08.810Z,36.0913333,-117.8821667,6.45,0.78,ml,10,175,0.03428,0.1,ci,ci40074519,2022-08-03T21:12:39.925Z,"8km NE of Coso Junction, CA",earthquake,0.29,0.28,0.014,2,reviewed,ci,ci
-2022-08-03T20:05:07.370Z,39.1576667,-123.1506667,7.62,1.15,md,13,92,0.1264,0.08,nc,nc73763635,2022-08-04T06:02:10.595Z,"3km NNE of Talmage, CA",earthquake,0.27,1.45,0.108,11,reviewed,nc,nc
+2022-08-03T20:05:07.370Z,39.1576667,-123.1506667,7.62,1.15,md,13,92,0.1264,0.08,nc,nc73763635,2022-08-04T06:58:16.948Z,"3km NNE of Talmage, CA",earthquake,0.27,1.45,0.108,11,reviewed,nc,nc
 2022-08-03T20:04:15.180Z,44.785,-110.7995,5.02,1.03,md,13,106,0.03647,0.16,uu,uu60508242,2022-08-03T20:29:37.390Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.5,0.81,0.429,8,reviewed,uu,uu
 2022-08-03T19:58:24.430Z,36.4106674,-120.9889984,5.14,1.48,md,11,73,0.02803,0.18,nc,nc73763630,2022-08-03T23:44:15.264Z,"19km SE of Pinnacles, CA",earthquake,0.58,1.29,0.2,8,automatic,nc,nc
 2022-08-03T19:55:20.700Z,39.428,-110.3031667,-1.32,1.74,ml,14,168,0.01743,0.15,uu,uu60508237,2022-08-03T20:42:30.420Z,"15 km SSE of Sunnyside, Utah",earthquake,0.74,0.46,0.091,5,reviewed,uu,uu
@@ -294,5 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T07:15:21.810Z,19.4676666666667,-155.602166666667,-1.5,1.43,md,11,84,,0.11,hv,hv73096987,2022-08-03T07:33:37.500Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.27,0.176889611899177,7,reviewed,hv,hv
 2022-08-03T07:13:17.910Z,37.5686667,-118.8625,6.76,0.49,md,18,182,0.03404,0.04,nc,nc73763450,2022-08-03T16:52:16.217Z,"13km SE of Mammoth Lakes, CA",earthquake,0.4,0.86,0.114,14,reviewed,nc,nc
 2022-08-03T07:04:53.220Z,18.7571666666667,-67.824,67.12,3.14,md,17,190,,0.48,pr,pr71362288,2022-08-03T07:52:30.880Z,"64 km ENE of Punta Cana, Dominican Republic",earthquake,3.4,4.55,0.0245805678871518,13,reviewed,pr,pr
-2022-08-03T06:54:41.050Z,19.4545,-155.601333333333,-0.94,1.64,md,10,92,,0.12,hv,hv73096932,2022-08-03T07:04:15.760Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.28,0.0193230002950643,4,reviewed,hv,hv
-2022-08-03T06:53:24.946Z,13.7268,-89.1786,8.742,4,mb,21,119,0.235,0.74,us,us6000i7pb,2022-08-04T05:03:55.112Z,"0 km E of Cuscatancingo, El Salvador",earthquake,4.12,6.222,0.298,3,reviewed,us,us
