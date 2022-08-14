@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T14:02:07.190Z,19.2450008392334,-155.392333984375,34.5299987792969,2.13,ml,46,153,,0.109999999,hv,hv73108842,2022-08-14T15:15:18.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.46,0.50999999,4.12,17,automatic,hv,hv
 2022-08-14T13:50:55.040Z,33.71,-116.755,17.44,0.57,ml,17,71,0.03406,0.13,ci,ci40325352,2022-08-14T14:14:36.290Z,"5km SW of Idyllwild, CA",earthquake,0.38,0.46,0.194,16,reviewed,ci,ci
 2022-08-14T13:44:46.470Z,35.6628333,-117.5041667,2.17,1.27,ml,17,102,0.1704,0.14,ci,ci40325344,2022-08-14T13:48:19.715Z,"15km SW of Searles Valley, CA",earthquake,0.33,1.51,0.137,15,automatic,ci,ci
-2022-08-14T13:44:20.760Z,-32.7728,-179.0086,39.08,6.6,mww,63,67,5.26,0.63,us,us6000iasi,2022-08-14T15:47:21.459Z,"south of the Kermadec Islands",earthquake,10.52,4.452,0.059,28,reviewed,us,us
+2022-08-14T13:44:20.760Z,-32.7728,-179.0086,39.08,6.6,mww,63,67,5.26,0.63,us,us6000iasi,2022-08-14T18:32:34.888Z,"south of the Kermadec Islands",earthquake,10.52,4.452,0.059,28,reviewed,us,us
 2022-08-14T13:39:55.470Z,17.9403333333333,-66.9193333333333,14.85,2.33,md,5,237,,0.06,pr,pr71365873,2022-08-14T13:52:28.080Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.76,0.93,0.0474343308998653,5,reviewed,pr,pr
 2022-08-14T13:35:07.200Z,38.8251648,-122.7990036,3.24,0.84,md,15,53,0.008826,0.01,nc,nc73768035,2022-08-14T14:24:16.919Z,"6km NW of The Geysers, CA",earthquake,0.34,1.25,,1,automatic,nc,nc
 2022-08-14T13:28:00.710Z,38.8400002,-122.8779984,2.65,0.35,md,8,119,0.004615,0.01,nc,nc73768025,2022-08-14T13:59:23.775Z,"13km WNW of The Geysers, CA",earthquake,0.57,0.76,,1,automatic,nc,nc
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T12:14:31.286Z,38.6019,-119.456,1.2,1.4,ml,15,75.13,0.052,0.2333,nn,nn00844952,2022-08-14T12:17:19.467Z,"5 km ESE of Topaz, California",earthquake,,0.9,0.14,11,automatic,nn,nn
 2022-08-14T12:13:08.265Z,37.2922,-117.2652,11.7,0.9,ml,8,130.69,0.009,0.2214,nn,nn00844951,2022-08-14T12:16:35.942Z,"46 km S of Goldfield, Nevada",earthquake,,0.5,0.78,3,automatic,nn,nn
 2022-08-14T12:11:20.790Z,17.9458333333333,-66.8988333333333,14.3,2.67,md,21,188,,0.14,pr,pr71365848,2022-08-14T12:39:54.090Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.51,0.43,0.271044117015937,13,reviewed,pr,pr
-2022-08-14T12:08:23.690Z,37.2471667,-121.6268333,5.61,1.08,md,32,58,0.03877,0.1,nc,nc73768010,2022-08-14T18:25:10.490Z,"13km N of Morgan Hill, CA",earthquake,0.17,0.36,0.196,27,reviewed,nc,nc
+2022-08-14T12:08:23.690Z,37.2471667,-121.6268333,5.61,1.08,md,32,58,0.03877,0.1,nc,nc73768010,2022-08-14T18:41:21.435Z,"13km N of Morgan Hill, CA",earthquake,0.17,0.36,0.196,27,reviewed,nc,nc
 2022-08-14T12:01:53.342Z,56.0965,-149.7057,10.4,2.2,ml,,,,1.17,ak,ak022adym528,2022-08-14T15:41:50.444Z,"230 km SE of Chiniak, Alaska",earthquake,,13.3,,,reviewed,ak,ak
 2022-08-14T11:55:05.780Z,33.1508333,-115.6051667,12.28,1.49,ml,8,149,0.03536,0.2,ci,ci40325312,2022-08-14T11:58:43.829Z,"9km WNW of Calipatria, CA",earthquake,0.76,1.15,0.44,10,automatic,ci,ci
 2022-08-14T11:54:50.740Z,37.4171667,-118.5688333,4.32,1.25,md,15,101,0.1947,0.06,nc,nc73768005,2022-08-14T18:30:18.372Z,"3km E of Round Valley, CA",earthquake,0.5,7.17,0.187,11,reviewed,nc,nc
@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T18:52:23.520Z,35.6311667,-117.4445,6.15,1.39,ml,24,75,0.04684,0.23,ci,ci40324968,2022-08-14T14:22:36.470Z,"16km SSW of Searles Valley, CA",earthquake,0.49,0.9,0.21,17,reviewed,ci,ci
 2022-08-13T18:51:50.340Z,37.5723333,-118.8645,2.06,0.35,md,9,258,0.0332,0.02,nc,nc73767755,2022-08-13T22:47:27.285Z,"12km SE of Mammoth Lakes, CA",earthquake,1.35,1.17,0.22,8,reviewed,nc,nc
 2022-08-13T18:49:08.810Z,17.9471666666667,-66.9165,14.12,2.25,md,6,230,,0.07,pr,pr71365658,2022-08-13T19:03:28.660Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.59,0.44,0.143947612950512,5,reviewed,pr,pr
-2022-08-13T18:41:38.660Z,19.5013333333333,-155.653166666667,3.38,1.51,md,17,55,,0.11,hv,hv73107977,2022-08-13T19:42:45.070Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.67,0.187806555727376,7,reviewed,hv,hv
-2022-08-13T18:40:02.933Z,36.51490021,-98.33423615,6.767305851,1.82,ml,19,94.97138977,0.1327902377,0.2407481196,ok,ok2022purq,2022-08-13T18:42:21.722Z,"6 km WSW of Helena, Oklahoma",earthquake,3.301712481,4.156109907,,14,automatic,ok,ok
