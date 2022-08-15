@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-15T19:23:45.147Z,64.7886,-148.9888,21.7,2.3,ml,,,,0.72,ak,ak022afqg1jm,2022-08-15T19:25:16.098Z,"21 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-15T19:22:34.530Z,32.5995,-116.9798333,3.37,1.6,ml,17,211,0.04269,0.13,ci,ci40325976,2022-08-15T19:26:07.693Z,"7km ESE of Chula Vista, CA",quarry blast,0.74,0.36,0.144,16,automatic,ci,ci
+2022-08-15T19:22:34.530Z,32.5995,-116.9798333,3.37,1.6,ml,17,211,0.04269,0.13,ci,ci40325976,2022-08-15T19:26:19.694Z,"7km ESE of Chula Vista, CA",quarry blast,0.74,0.36,0.144,16,automatic,ci,ci
 2022-08-15T19:08:18.410Z,33.4633333,-116.4325,6.44,0.62,ml,23,55,0.06018,0.16,ci,ci40325968,2022-08-15T19:11:48.606Z,"24km NNW of Borrego Springs, CA",earthquake,0.26,0.71,0.111,17,automatic,ci,ci
 2022-08-15T18:58:30.725Z,36.9613,-114.5463,1.6,1.2,ml,11,342.22,1.129,0.1503,nn,nn00845048,2022-08-15T19:01:57.941Z,"31 km N of Moapa Town, Nevada",earthquake,,1.1,0.34,5,automatic,nn,nn
 2022-08-15T18:56:46.160Z,34.9926667,-118.1951667,0.74,1.5,ml,17,61,0.1169,0.26,ci,ci40325952,2022-08-15T19:00:22.541Z,"7km SSW of Mojave, CA",earthquake,0.52,1.22,0.293,27,automatic,ci,ci
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T05:16:31.810Z,35.8898333,-117.6563333,2.47,1.05,ml,17,77,0.08803,0.14,ci,ci40325624,2022-08-15T15:01:07.379Z,"23km ESE of Little Lake, CA",earthquake,0.25,0.37,0.192,9,reviewed,ci,ci
 2022-08-15T05:14:18.700Z,17.9768333333333,-66.8378333333333,18.61,2.32,md,8,195,,0.1,pr,pr71366033,2022-08-15T05:31:41.540Z,"2 km SW of Indios, Puerto Rico",earthquake,0.61,0.72,0.157174564004215,4,reviewed,pr,pr
 2022-08-15T05:11:35.060Z,35.9798333,-117.3695,-0.25,1.18,ml,11,172,0.113,0.2,ci,ci40325608,2022-08-15T05:15:06.545Z,"24km N of Searles Valley, CA",earthquake,0.72,31.61,0.217,9,automatic,ci,ci
-2022-08-15T05:04:40.200Z,35.769,-117.5796667,9.24,1.48,ml,21,145,0.04884,0.18,ci,ci40325600,2022-08-15T05:08:14.540Z,"16km W of Searles Valley, CA",earthquake,0.48,0.62,0.112,17,automatic,ci,ci
+2022-08-15T05:04:40.250Z,35.7716667,-117.5883333,9.15,1.47,ml,30,60,0.04461,0.15,ci,ci40325600,2022-08-15T19:31:01.380Z,"17km W of Searles Valley, CA",earthquake,0.19,0.44,0.103,17,reviewed,ci,ci
 2022-08-15T04:58:07.130Z,34.1928333,-116.7905,4.12,1.12,ml,48,33,0.1283,0.14,ci,ci40325592,2022-08-15T19:10:54.200Z,"9km SSE of Big Bear City, CA",earthquake,0.15,0.59,0.135,25,reviewed,ci,ci
 2022-08-15T04:55:46.056Z,61.0533,-148.1036,19.9,2.6,ml,,,,0.72,ak,ak022afhpef7,2022-08-15T05:25:32.040Z,"44 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-15T04:51:30.940Z,38.8395004,-122.8216629,2.12,0.83,md,15,84,0.01083,0.02,nc,nc73768275,2022-08-15T05:36:16.243Z,"9km WNW of Cobb, CA",earthquake,0.26,0.65,0.28,3,automatic,nc,nc
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T19:44:56.790Z,37.6041667,-118.9011667,2.67,0.41,md,11,171,0.01373,0.02,nc,nc73768100,2022-08-14T22:23:10.753Z,"8km ESE of Mammoth Lakes, CA",earthquake,0.55,0.83,0.329,10,reviewed,nc,nc
 2022-08-14T19:33:57.810Z,71.6066,-12.2426,10,4.2,mb,32,93,3.363,1.05,us,us6000iauu,2022-08-14T20:22:20.040Z,"147 km WNW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,5.31,1.926,0.102,27,reviewed,us,us
 2022-08-14T19:33:37.530Z,38.793335,-122.802002,2.98,0.63,md,19,46,0.005071,0.02,nc,nc73768095,2022-08-14T20:01:14.923Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.6,0.32,4,automatic,nc,nc
-2022-08-14T19:29:32.752Z,38.335,-118.8842,0,0.7,ml,8,185.91,0.309,0.1052,nn,nn00844972,2022-08-14T19:33:39.935Z,"30 km SW of Hawthorne, Nevada",earthquake,,81.5,0.3,5,automatic,nn,nn
