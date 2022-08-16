@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-16T08:59:08.590Z,38.824501,-122.8071671,2.69,0.94,md,21,35,0.002525,0.01,nc,nc73768670,2022-08-16T09:08:10.382Z,"7km NW of The Geysers, CA",earthquake,0.22,0.48,0.24,3,automatic,nc,nc
+2022-08-16T08:55:34.410Z,19.1805000305176,-155.486831665039,31.6399993896484,2.13000011,md,39,85,,0.109999999,hv,hv73110942,2022-08-16T08:58:41.320Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.47,0.899999976,0.330000013,13,automatic,hv,hv
+2022-08-16T08:39:00.620Z,19.3098333333333,-65.8571666666667,14.31,3.01,md,10,271,,0.4,pr,pr71366288,2022-08-16T08:59:25.330Z,"96 km NNE of San Juan, Puerto Rico",earthquake,4.71,9.78,0.046193383136385,5,reviewed,pr,pr
 2022-08-16T08:35:54.250Z,33.2036667,-115.5195,4.16,1.27,ml,13,127,0.08882,0.16,ci,ci40326288,2022-08-16T08:39:23.969Z,"4km S of Niland, CA",earthquake,0.48,1.7,0.112,21,automatic,ci,ci
 2022-08-16T08:35:10.360Z,19.2296657562256,-155.39616394043,31.8199996948242,1.82000005,md,39,149,,0.119999997,hv,hv73110927,2022-08-16T08:38:20.200Z,"Island of Hawaii, Hawaii",earthquake,0.65,1.01999998,0.540000021,9,automatic,hv,hv
 2022-08-16T08:34:12.247Z,-22.4001,170.3261,34.758,5,mb,37,115,2.671,1.18,us,us6000ib98,2022-08-16T08:53:12.040Z,"southeast of the Loyalty Islands",earthquake,11.41,5.995,0.094,38,reviewed,us,us
@@ -64,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T01:46:19.900Z,35.7553333,-117.5821667,3.21,1.96,ml,28,65,0.06155,0.16,ci,ci40326152,2022-08-16T01:50:01.121Z,"16km W of Searles Valley, CA",earthquake,0.24,0.53,0.102,26,automatic,ci,ci
 2022-08-16T01:24:53.500Z,18.355,-66.2201666666667,58.05,3.38,md,12,159,,0.1,pr,pr71366218,2022-08-16T01:52:29.683Z,"1 km SSW of Pájaros, Puerto Rico",earthquake,0.68,0.62,0.0837916364626294,3,reviewed,pr,pr
 2022-08-16T01:23:07.880Z,33.6473333,-116.7681667,11.56,1.06,ml,34,53,0.05361,0.19,ci,ci40326144,2022-08-16T01:33:37.080Z,"11km SSW of Idyllwild, CA",earthquake,0.26,0.45,0.244,29,automatic,ci,ci
-2022-08-16T01:21:19.037Z,-24.2408,-67.1289,171.228,4.6,mb,30,89,1.604,0.88,us,us6000ib74,2022-08-16T01:43:21.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,6.27,8.494,0.165,11,reviewed,us,us
+2022-08-16T01:21:19.037Z,-24.2408,-67.1289,171.228,4.6,mb,30,89,1.604,0.88,us,us6000ib74,2022-08-16T01:43:21.040Z,"Chile-Argentina border region",earthquake,6.27,8.494,0.165,11,reviewed,us,us
 2022-08-16T01:19:30.270Z,38.8344994,-122.8069992,2.58,0.36,md,8,103,0.01135,0.01,nc,nc73768580,2022-08-16T01:28:10.623Z,"7km W of Cobb, CA",earthquake,0.55,1.7,,1,automatic,nc,nc
 2022-08-16T01:19:14.330Z,38.8338318,-122.8066635,2.31,1.14,md,26,50,0.01076,0.01,nc,nc73768575,2022-08-16T05:08:10.983Z,"7km W of Cobb, CA",earthquake,0.2,0.44,0.05,5,automatic,nc,nc
 2022-08-16T01:15:04.960Z,17.9888333333333,-66.8411666666667,17.6,2.16,md,10,172,,0.08,pr,pr71366208,2022-08-16T01:38:12.540Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.38,0.59,0.142615511284648,7,reviewed,pr,pr
@@ -184,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T13:27:30.960Z,61.3366,-149.9069,29.9,1.7,ml,,,,0.46,ak,ak022afmw9oo,2022-08-15T13:29:19.074Z,"4 km SE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-15T13:22:20.415Z,58.1623,-136.7077,11.2,2.2,ml,,,,0.43,ak,ak022afmv6ah,2022-08-15T13:24:17.437Z,"21 km W of Elfin Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-15T13:22:16.235Z,32.7053833,-100.7130097,6.138142904,2.6,ml,19,57,0.1457457262,0.3,tx,tx2022pxye,2022-08-16T02:24:00.881Z,"8 km NNE of Hermleigh, Texas",earthquake,1.789382781,2.294169101,0.1,13,reviewed,tx,tx
-2022-08-15T13:08:42.520Z,38.8251667,-122.8058333,1.68,1.89,md,53,34,0.003755,0.05,nc,nc73768355,2022-08-16T07:19:18.731Z,"7km NW of The Geysers, CA",earthquake,0.13,0.2,0.201,22,reviewed,nc,nc
+2022-08-15T13:08:42.520Z,38.8251667,-122.8058333,1.68,1.89,md,53,34,0.003755,0.05,nc,nc73768355,2022-08-16T09:05:11.371Z,"7km NW of The Geysers, CA",earthquake,0.13,0.2,0.201,22,reviewed,nc,nc
 2022-08-15T13:08:13.680Z,38.8245,-122.8053333,1.65,1.16,md,41,35,0.003864,0.03,nc,nc73768350,2022-08-16T08:15:11.071Z,"7km NW of The Geysers, CA",earthquake,0.13,0.27,0.063,8,reviewed,nc,nc
 2022-08-15T13:05:10.665Z,33.0671,90.3507,46.842,4.5,mb,51,83,6.835,1.3,us,us6000ib0a,2022-08-15T13:56:41.040Z,"238 km NW of Nagqu, China",earthquake,7.03,8.119,0.068,64,reviewed,us,us
 2022-08-15T13:04:26.456Z,59.0277,-154.1608,33.1,1,ml,,,,0.36,ak,ak022afmragb,2022-08-15T13:16:42.625Z,"57 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -228,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T09:30:09.640Z,33.0633333,-116.3955,14.37,0.62,ml,25,74,0.03846,0.16,ci,ci40325728,2022-08-15T20:13:18.959Z,"19km E of Julian, CA",earthquake,0.23,0.61,0.158,11,reviewed,ci,ci
 2022-08-15T09:26:35.450Z,38.8261681,-122.8031693,2.16,0.74,md,20,34,0.006063,0.01,nc,nc73768320,2022-08-15T10:22:11.033Z,"7km NW of The Geysers, CA",earthquake,0.21,0.58,0.24,3,automatic,nc,nc
 2022-08-15T09:21:00.413Z,54.1823,-159.6303,43.355,2.8,ml,21,214,0.651,0.6,us,us6000ib0u,2022-08-16T04:22:21.040Z,"140 km SSE of Sand Point, Alaska",earthquake,4.1,21.851,0.081,20,reviewed,us,us
-2022-08-15T09:04:37.784Z,38.17,-118.1611,0,0.3,ml,9,160.72,0.263,0.1752,nn,nn00845017,2022-08-15T09:08:22.619Z,"24 km S of Mina, Nevada",earthquake,,0,0.28,4,automatic,nn,nn
