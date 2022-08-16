@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T22:17:45.750Z,61.616,-146.3625,33.2,1.7,ml,,,,0.75,ak,ak022ahfqelr,2022-08-16T22:19:50.991Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-16T22:15:39.740Z,33.3776667,-116.9685,8.05,1.11,ml,45,39,0.05418,0.28,ci,ci40326648,2022-08-16T22:19:08.764Z,"10km WNW of Palomar Observatory, CA",earthquake,0.33,1.35,0.12,27,automatic,ci,ci
 2022-08-16T22:11:48.160Z,18.0176666666667,-65.0131666666667,14.26,2.65,md,3,283,,0.19,pr,pr71366453,2022-08-16T22:22:28.150Z,"36 km SSW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.75,17.92,0.144051080700186,3,reviewed,pr,pr
-2022-08-16T22:06:09.329Z,59.2126,-152.1586,72,4,ml,,,,0.43,ak,ak022ahfnyru,2022-08-16T22:41:43.401Z,"20 km SW of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-08-16T22:06:09.329Z,59.2126,-152.1586,72,4,ml,,,,0.43,ak,ak022ahfnyru,2022-08-16T22:46:48.021Z,"20 km SW of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-08-16T21:46:16.810Z,17.9711666666667,-66.9848333333333,8.66,2.19,md,7,180,,0.07,pr,pr71366448,2022-08-16T22:03:10.040Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.38,0.82,0.0289804088758299,4,reviewed,pr,pr
 2022-08-16T21:43:33.169Z,38.5649,-119.4576,7.2,1.6,ml,9,68.28,0.053,0.3092,nn,nn00845165,2022-08-16T22:18:30.163Z,"4 km E of Coleville, California",earthquake,,0.8,0.19,7,automatic,nn,nn
 2022-08-16T21:42:17.550Z,38.5958328,-119.4274979,-0.54,2.29,md,5,163,0.07305,0.04,nc,nc73768860,2022-08-16T21:49:17.118Z,"10km NNE of Walker, CA",earthquake,0.93,8.61,0.21,5,automatic,nc,nc
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T20:15:30.060Z,36.0886667,-117.8968333,4.26,1.45,ml,24,62,0.04459,0.18,ci,ci40326560,2022-08-16T20:43:44.619Z,"7km NE of Coso Junction, CA",earthquake,0.3,0.6,0.251,17,reviewed,ci,ci
 2022-08-16T20:15:14.170Z,33.249,-116.1071667,3.15,1.27,ml,43,55,0.1061,0.25,ci,ci40326552,2022-08-16T20:55:43.298Z,"12km N of Ocotillo Wells, CA",earthquake,0.24,0.52,0.098,25,reviewed,ci,ci
 2022-08-16T20:15:03.140Z,19.1943340301514,-155.494338989258,34.2299995422363,2.30999994,md,39,147,,0.109999999,hv,hv73111502,2022-08-16T20:18:14.740Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.57,0.879999995,0.360000014,21,automatic,hv,hv
-2022-08-16T20:12:55.948Z,38.1761,-117.7889,12.5,1,ml,8,202.91,0.118,0.033,nn,nn00845141,2022-08-16T20:16:31.583Z,"36 km SE of Mina, Nevada",earthquake,,1.9,0.27,5,automatic,nn,nn
+2022-08-16T20:12:56.519Z,38.184,-117.7871,10.6,0.8,ml,15,165.75,0.124,0.1007,nn,nn00845141,2022-08-16T22:47:00.017Z,"36 km SE of Mina, Nevada",earthquake,,1.7,0.72,6,reviewed,nn,nn
 2022-08-16T20:11:37.310Z,19.2296657562256,-155.464492797852,33.4900016784668,2.08,ml,43,101,,0.109999999,hv,hv73111497,2022-08-16T21:33:37.040Z,"3 km NNE of Pāhala, Hawaii",earthquake,0.51,0.730000019,4.13,8,automatic,hv,hv
 2022-08-16T20:04:06.257Z,36.6127,-116.0193,6,0,ml,8,287.5,0.105,0.0725,nn,nn00845167,2022-08-16T22:34:32.112Z,"31 km W of Indian Springs, Nevada",earthquake,,5.8,0.36,4,reviewed,nn,nn
 2022-08-16T19:50:07.650Z,19.1768341064453,-155.38916015625,32.0499992370605,2.14,ml,44,178,,0.119999997,hv,hv73111457,2022-08-16T19:55:39.120Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.59,0.779999971,5.23,3,automatic,hv,hv
@@ -213,7 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T03:32:57.570Z,39.4268333,-110.2976667,-1.9,1.24,md,6,199,0.02142,0.15,uu,uu60510017,2022-08-16T15:24:11.490Z,"15 km SSE of Sunnyside, Utah",earthquake,2.22,2.13,0.147,5,reviewed,uu,uu
 2022-08-16T03:30:44.128Z,59.6633,-153.9723,12.4,0.8,ml,,,,0.67,ak,ak022ah4hyba,2022-08-16T03:33:07.446Z,"15 km SSE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-16T03:27:02.870Z,33.6188333,-116.7221667,17.09,0.52,ml,28,71,0.04305,0.11,ci,ci40326176,2022-08-16T14:27:47.430Z,"8km NNW of Anza, CA",earthquake,0.18,0.28,0.114,11,reviewed,ci,ci
-2022-08-16T03:23:05.116Z,39.5744,-119.0905,14.5,2.6,ml,26,97.87,0.265,0.1937,nn,nn00845098,2022-08-16T18:53:37.405Z,"14 km ESE of Fernley, Nevada",earthquake,,0.9,0.21,12,reviewed,nn,nn
+2022-08-16T03:23:05.116Z,39.5744,-119.0905,14.5,2.6,ml,26,97.87,0.265,0.1937,nn,nn00845098,2022-08-16T22:48:41.715Z,"14 km ESE of Fernley, Nevada",earthquake,,0.9,0.21,12,reviewed,nn,nn
 2022-08-16T03:14:22.740Z,39.4245,-110.2901667,-3.04,1.43,ml,13,202,0.02706,0.15,uu,uu60510012,2022-08-16T13:19:37.460Z,"16 km SSE of Sunnyside, Utah",earthquake,0.92,2.04,0.08,5,reviewed,uu,uu
 2022-08-16T03:00:16.374Z,37.6246,21.7552,10,4.2,mb,25,116,0.465,0.53,us,us6000ib7m,2022-08-16T22:33:11.040Z,"9 km SSE of Lálas, Greece",earthquake,3.07,1.993,0.235,5,reviewed,us,us
 2022-08-16T02:55:33.480Z,39.4296667,-123.0963333,-0.58,1.81,md,27,76,0.06117,0.12,nc,nc73768605,2022-08-16T06:59:11.614Z,"12km WNW of Lake Pillsbury, CA",earthquake,0.2,0.58,0.101,24,reviewed,nc,nc
