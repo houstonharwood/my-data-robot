@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-18T06:02:20.295Z,38.6015,-119.449,0,1.3,ml,9,80.01,0.058,0.2172,nn,nn00845320,2022-08-18T06:05:20.565Z,"6 km NE of Coleville, California",earthquake,,0.5,0.17,6,automatic,nn,nn
 2022-08-18T05:30:05.580Z,18.011,-66.905,13,2.3,md,25,93,,0.2,pr,pr71366738,2022-08-18T05:50:00.590Z,"2 km NNE of Fuig, Puerto Rico",earthquake,0.44,0.27,0.111317142897818,12,reviewed,pr,pr
 2022-08-18T05:30:04.180Z,32.6406667,-116.3333333,24.66,1.34,ml,8,213,0.2497,0.14,ci,ci40327520,2022-08-18T05:33:39.271Z,"13km ENE of Campo, CA",earthquake,2.24,4.85,0.168,17,automatic,ci,ci
 2022-08-18T05:26:17.090Z,37.9165001,-122.0036697,10.44,1.57,md,13,130,0.05822,0.07,nc,nc73769270,2022-08-18T05:42:15.688Z,"6km ENE of Walnut Creek, CA",earthquake,0.41,0.65,0.18,10,automatic,nc,nc
@@ -94,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T18:50:51.750Z,34.5773333,-118.0286667,9.36,0.89,ml,18,67,0.05016,0.1,ci,ci40327240,2022-08-17T19:01:50.373Z,"7km E of Palmdale, CA",earthquake,0.17,0.46,0.16,15,reviewed,ci,ci
 2022-08-17T18:49:50.500Z,33.7518333,-117.1031667,-0.52,0.71,ml,20,77,0.04714,0.19,ci,ci40327248,2022-08-17T19:10:00.189Z,"3km WNW of Green Acres, CA",quarry blast,0.49,31.61,0.105,12,reviewed,ci,ci
 2022-08-17T18:34:59.350Z,38.7606667,-122.9623333,3.91,1.09,md,36,162,0.04196,0.08,nc,nc73769145,2022-08-17T21:25:11.786Z,"7km SE of Cloverdale, CA",earthquake,0.22,0.55,0.112,11,reviewed,nc,nc
-2022-08-17T18:23:28.360Z,44.20066666666666,-122.699,-0.79,1.48,ml,9,118,0.09258,0.1,uw,uw61873116,2022-08-18T05:14:25.660Z,"18 km SSE of Holley, Oregon",explosion,0.37,31.61,0.3127734582180146,4,reviewed,uw,uw
+2022-08-17T18:23:28.360Z,44.20066666666666,-122.699,-0.79,1.48,ml,9,118,0.09258,0.1,uw,uw61873116,2022-08-18T05:14:25.660Z,"Oregon",explosion,0.37,31.61,0.3127734582180146,4,reviewed,uw,uw
 2022-08-17T18:22:39.550Z,38.8226667,-122.7843333,2.12,0.25,md,10,107,0.009817,0.02,nc,nc73769140,2022-08-18T05:28:16.594Z,"5km W of Cobb, CA",earthquake,0.45,0.63,0.273,2,reviewed,nc,nc
 2022-08-17T18:21:22.931Z,59.8483,-152.8833,103.8,1.2,ml,,,,0.23,ak,ak022aj0wtta,2022-08-17T18:24:02.093Z,"59 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-17T18:21:06.710Z,38.8224983,-122.828331,1.92,0.87,md,19,49,0.005269,0.02,nc,nc73769135,2022-08-17T18:35:10.742Z,"8km NW of The Geysers, CA",earthquake,0.23,0.37,0.28,4,automatic,nc,nc
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T06:21:50.110Z,39.4273333,-110.297,-2.14,1.51,ml,8,183,0.022,0.15,uu,uu60510187,2022-08-17T15:43:35.170Z,"15 km SSE of Sunnyside, Utah",earthquake,1.63,1.85,0.11,4,reviewed,uu,uu
 2022-08-17T06:11:07.640Z,33.4848333,-116.5096667,13.28,1.2,ml,53,55,0.07463,0.14,ci,ci40326824,2022-08-17T17:01:34.470Z,"17km ESE of Anza, CA",earthquake,0.15,0.3,0.191,25,reviewed,ci,ci
 2022-08-17T06:10:48.560Z,33.4895,-116.5023333,13.73,0.91,ml,37,59,0.07192,0.18,ci,ci40326816,2022-08-17T14:22:35.520Z,"18km ESE of Anza, CA",earthquake,0.25,0.48,0.169,27,reviewed,ci,ci
-2022-08-17T05:58:29.468Z,38.2393,-118.3305,6.5,-0.1,ml,7,265.84,0.138,0.0493,nn,nn00845273,2022-08-17T22:12:20.712Z,"25 km SW of Mina, Nevada",earthquake,,3.9,0,1,reviewed,nn,nn
