@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-20T17:40:15.494Z,62.5628,-149.3308,49.8,1.5,ml,,,,0.72,ak,ak022anz1hot,2022-08-20T17:42:34.642Z,"41 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-20T17:25:46.900Z,38.838501,-122.8215027,1.84,1.04,md,19,82,0.01092,0.02,nc,nc73770125,2022-08-20T17:34:10.099Z,"9km WNW of Cobb, CA",earthquake,0.23,0.4,0.16,5,automatic,nc,nc
+2022-08-20T17:25:46.900Z,38.838501,-122.8215027,1.84,1.04,md,19,82,0.01092,0.02,nc,nc73770125,2022-08-20T17:48:12.185Z,"9km WNW of Cobb, CA",earthquake,0.23,0.4,0.16,5,automatic,nc,nc
 2022-08-20T17:21:03.810Z,38.8248329,-122.8125,2.16,0.85,md,8,79,0.002378,0.01,nc,nc73770120,2022-08-20T17:37:13.119Z,"7km NW of The Geysers, CA",earthquake,0.46,1.5,,1,automatic,nc,nc
 2022-08-20T17:19:44.987Z,59.1111,-152.2416,75.9,2.2,ml,,,,0.38,ak,ak022anyx1xe,2022-08-20T17:22:03.629Z,"32 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-20T17:19:00.590Z,19.3414993286133,-155.115325927734,5.30000019073486,2.08,ml,38,188,,0.180000007,hv,hv73115682,2022-08-20T17:24:44.050Z,"13 km S of Fern Forest, Hawaii",earthquake,0.51,0.579999983,3.35,7,automatic,hv,hv
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T16:07:41.633Z,65.162,-149.0029,8.3,0.9,ml,,,,0.75,ak,ak022any91e2,2022-08-20T16:10:45.349Z,"16 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-20T16:06:09.130Z,38.8359985,-122.7978363,2.65,0.85,md,10,67,0.006327,0.01,nc,nc73770100,2022-08-20T16:44:12.825Z,"7km WNW of Cobb, CA",earthquake,0.39,1.31,,1,automatic,nc,nc
 2022-08-20T15:48:27.880Z,19.5036659240723,-155.726333618164,6.71999979019165,1.71000004,md,32,90,,0.310000002,hv,hv73115622,2022-08-20T15:53:58.390Z,"15 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.67,0.709999979,0.670000017,11,automatic,hv,hv
-2022-08-20T15:38:28.660Z,38.8404999,-122.8221664,1.4,1.18,md,19,84,0.01058,0.02,nc,nc73770095,2022-08-20T17:42:14.150Z,"9km WNW of Cobb, CA",earthquake,0.22,0.38,0.01,3,automatic,nc,nc
+2022-08-20T15:38:28.660Z,38.8404999,-122.8221664,1.4,1.18,md,19,84,0.01058,0.02,nc,nc73770095,2022-08-20T17:48:10.185Z,"9km WNW of Cobb, CA",earthquake,0.22,0.38,0.01,3,automatic,nc,nc
 2022-08-20T15:32:55.850Z,38.8434982,-122.8256683,1.81,0.86,md,11,131,0.009101,0.01,nc,nc73770090,2022-08-20T16:12:13.617Z,"9km WNW of Cobb, CA",earthquake,0.6,1.05,,1,automatic,nc,nc
 2022-08-20T15:27:22.940Z,17.8425,-66.8976666666667,7.81,3.21,md,42,231,,0.18,pr,pr71367088,2022-08-20T15:58:28.180Z,"14 km S of Guánica, Puerto Rico",earthquake,0.33,0.52,0.235710732774573,26,reviewed,pr,pr
 2022-08-20T15:25:22.820Z,38.8136673,-122.8216629,2.87,0.35,md,9,81,0.007579,0.02,nc,nc73770080,2022-08-20T17:23:11.041Z,"7km NW of The Geysers, CA",earthquake,0.46,1.24,,1,automatic,nc,nc
@@ -194,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T18:07:04.883Z,60.6885,-145.2186,10.3,1.4,ml,,,,0.73,ak,ak022ambwhby,2022-08-19T22:13:28.929Z,"33 km ENE of Cordova, Alaska",earthquake,,2.7,,,reviewed,ak,ak
 2022-08-19T18:00:55.010Z,36.8021667,-121.5406667,6.75,2.07,md,59,40,0.03233,0.17,nc,nc73769720,2022-08-20T09:30:16.225Z,"5km S of San Juan Bautista, CA",earthquake,0.25,0.44,0.181,56,reviewed,nc,nc
 2022-08-19T17:59:51.290Z,34.0231667,-117.2146667,14.61,0.84,ml,14,92,0.1368,0.09,ci,ci40328456,2022-08-19T18:11:10.518Z,"5km SW of Redlands, CA",earthquake,0.25,0.55,0.043,5,reviewed,ci,ci
-2022-08-19T17:52:47.960Z,33.0628333,-115.0051667,-0.2,1.52,ml,16,83,0.09318,0.28,ci,ci40328440,2022-08-19T18:06:03.942Z,"45km NE of Holtville, CA",quarry blast,0.61,31.61,0.134,8,reviewed,ci,ci
-2022-08-19T17:51:56.605Z,-57.9978,-25.7048,57.153,5.2,mb,112,51,7.08,0.63,us,us6000ic6u,2022-08-20T16:31:26.040Z,"South Sandwich Islands region",earthquake,5.66,5.399,0.056,105,reviewed,us,us
-2022-08-19T17:50:17.540Z,35.9616667,-117.67,4.91,0.39,ml,15,91,0.1145,0.13,ci,ci40328448,2022-08-19T18:30:45.628Z,"22km E of Little Lake, CA",earthquake,0.26,2.05,0.107,4,reviewed,ci,ci
