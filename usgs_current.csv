@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-21T08:55:00.000Z,38.8311653,-122.8170013,1.73,1.18,md,14,57,0.009459,0.02,nc,nc73770345,2022-08-21T09:04:10.632Z,"8km NW of The Geysers, CA",earthquake,0.26,0.71,,1,automatic,nc,nc
+2022-08-21T08:54:43.455Z,38.4954,-117.9028,1.7,0.5,ml,8,234.42,0.207,0.2123,nn,nn00845537,2022-08-21T09:01:15.359Z,"21 km ENE of Mina, Nevada",earthquake,,0,0.54,4,automatic,nn,nn
 2022-08-21T08:47:16.628Z,62.8764,-148.2044,61.2,1.5,ml,,,,0.62,ak,ak022aph9fu6,2022-08-21T08:49:42.423Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-21T08:31:02.310Z,38.8336678,-122.8113327,2.08,0.57,md,20,51,0.0103,0.01,nc,nc73770340,2022-08-21T08:48:11.534Z,"8km W of Cobb, CA",earthquake,0.24,0.47,0.28,3,automatic,nc,nc
 2022-08-21T08:02:45.216Z,38.1764,-117.9477,5.7,0.7,ml,11,150.25,0.037,0.0822,nn,nn00845536,2022-08-21T08:07:45.917Z,"27 km SSE of Mina, Nevada",earthquake,,0.5,0.49,6,automatic,nn,nn
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T06:12:25.030Z,36.695,-121.3361667,3.1,0.78,md,10,148,0.01496,0.07,nc,nc73770295,2022-08-21T07:27:15.076Z,"11km S of Tres Pinos, CA",earthquake,0.55,0.38,0.353,11,reviewed,nc,nc
 2022-08-21T06:07:26.490Z,35.8875,-117.7421667,2.89,0.99,ml,11,147,0.0809,0.24,ci,ci40329080,2022-08-21T06:10:54.697Z,"16km ESE of Little Lake, CA",earthquake,0.5,0.53,0.146,12,automatic,ci,ci
 2022-08-21T06:06:45.960Z,33.483,-116.4375,13.96,0.64,ml,25,76,0.04148,0.2,ci,ci40329072,2022-08-21T06:10:19.515Z,"23km SSW of La Quinta, CA",earthquake,0.41,0.68,0.134,18,automatic,ci,ci
-2022-08-21T05:39:51.560Z,36.6715,-121.3146667,2.27,0.77,md,9,214,0.04408,0.05,nc,nc73770285,2022-08-21T07:16:13.016Z,"13km S of Tres Pinos, CA",earthquake,0.72,0.68,0.268,10,reviewed,nc,nc
+2022-08-21T05:39:51.560Z,36.6715,-121.3146667,2.27,0.77,md,9,214,0.04408,0.05,nc,nc73770285,2022-08-21T09:04:10.782Z,"13km S of Tres Pinos, CA",earthquake,0.72,0.68,0.268,10,reviewed,nc,nc
 2022-08-21T05:36:13.940Z,33.89,-116.8633333,12.67,1.34,ml,43,33,0.0786,0.18,ci,ci40329064,2022-08-21T05:46:56.420Z,"4km SSE of Banning, CA",earthquake,0.22,0.69,0.16,27,automatic,ci,ci
 2022-08-21T05:35:41.170Z,38.838665,-122.8363342,1.25,0.86,md,9,113,0.000666,0.01,nc,nc73770280,2022-08-21T06:16:12.669Z,"10km NW of The Geysers, CA",earthquake,0.35,0.74,,1,automatic,nc,nc
 2022-08-21T05:34:20.593Z,61.9481,-150.0484,32.2,1.2,ml,,,,0.79,ak,ak022apfecyl,2022-08-21T05:36:55.812Z,"22 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -190,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T10:09:14.621Z,62.1371,-151.3414,79.5,1.5,ml,,,,0.52,ak,ak022anuot6u,2022-08-20T10:11:38.639Z,"16 km N of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-20T09:44:57.268Z,32.83905029,-100.9466702,7.60542806,2.808366319,mlv,14,65,0.03929805399,0.3,tx,tx2022qgun,2022-08-20T21:02:34.585Z,"13 km NNW of Snyder, Texas",earthquake,1.054910759,1.635685585,0.09669071179,12,reviewed,tx,tx
 2022-08-20T09:17:11.390Z,17.993,-66.8306666666667,15.13,2.29,md,14,154,,0.16,pr,pr71367058,2022-08-20T10:21:27.050Z,"1 km W of Indios, Puerto Rico",earthquake,0.46,0.62,0.0946520356266896,7,reviewed,pr,pr
-2022-08-20T09:04:10.420Z,34.006,-117.2625,15.53,1.78,ml,65,27,0.06257,0.18,ci,ci40328752,2022-08-20T19:48:08.610Z,"5km S of Loma Linda, CA",earthquake,0.19,0.31,0.194,26,reviewed,ci,ci
-2022-08-20T09:01:40.020Z,39.3765,-122.8963333,1.68,1.92,md,39,77,0.1796,0.11,nc,nc73769970,2022-08-20T21:34:09.483Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.2,1.65,0.099,38,reviewed,nc,nc
