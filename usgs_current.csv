@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-22T14:45:18.040Z,38.8250008,-122.8103333,1.24,0.85,md,8,82,0.001616,0.02,nc,nc73770690,2022-08-22T14:55:11.256Z,"7km NW of The Geysers, CA",earthquake,0.35,0.67,,1,automatic,nc,nc
+2022-08-22T15:03:11.480Z,38.8260002,-122.8111649,2.25,0.85,md,11,87,0.002737,0.02,nc,nc73770700,2022-08-22T15:12:11.360Z,"7km NW of The Geysers, CA",earthquake,0.38,0.94,,1,automatic,nc,nc
+2022-08-22T15:02:13.099Z,64.4108,-146.7419,3.9,2.1,ml,,,,0.45,ak,ak022ar8p62l,2022-08-22T15:04:05.912Z,"8 km WNW of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-22T14:45:18.040Z,38.8250008,-122.8103333,1.24,0.85,md,8,82,0.001616,0.02,nc,nc73770690,2022-08-22T15:02:13.294Z,"7km NW of The Geysers, CA",earthquake,0.35,0.67,,1,automatic,nc,nc
+2022-08-22T13:53:56.005Z,33.0872,69.5104,35.934,4.6,mb,75,97,1.501,0.4,us,us6000icrr,2022-08-22T15:00:08.040Z,"47 km SW of Khōst, Afghanistan",earthquake,8.05,7.07,0.057,94,reviewed,us,us
 2022-08-22T13:50:10.265Z,-34.7773,-71.749,45.311,4.5,mb,45,118,0.276,0.51,us,us6000icrq,2022-08-22T14:47:03.766Z,"38 km WSW of Santa Cruz, Chile",earthquake,4.7,5.173,0.118,22,reviewed,us,us
 2022-08-22T13:50:08.020Z,35.6216667,-117.4341667,10.29,2.1,ml,24,105,0.112,0.15,ci,ci40329768,2022-08-22T14:01:08.630Z,"16km S of Searles Valley, CA",earthquake,0.34,0.71,0.205,26,automatic,ci,ci
 2022-08-22T13:41:00.720Z,35.8941667,-117.7006667,6.76,1.23,ml,13,120,0.1001,0.2,ci,ci40329760,2022-08-22T13:44:22.998Z,"19km ESE of Little Lake, CA",earthquake,0.43,0.93,0.201,15,automatic,ci,ci
@@ -125,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T21:15:02.360Z,34.1516667,-117.3176667,10.79,0.93,ml,18,79,0.06785,0.24,ci,ci40329392,2022-08-21T21:18:39.185Z,"2km E of Muscoy, CA",earthquake,0.42,0.89,0.22,22,automatic,ci,ci
 2022-08-21T21:12:32.280Z,33.8298333,-116.1838333,6.36,0.85,ml,18,111,0.04551,0.13,ci,ci40329384,2022-08-21T21:16:06.474Z,"12km NNE of Indio, CA",earthquake,0.29,0.72,0.149,22,automatic,ci,ci
 2022-08-21T21:00:36.093Z,51.2065,179.1385,35.8,1.8,ml,,,,0.29,ak,ak022apoq0h0,2022-08-22T05:45:32.617Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1.9,,,reviewed,ak,ak
-2022-08-21T20:52:42.050Z,17.9971666666667,-66.8823333333333,15.72,2.34,md,8,91,,0.11,pr,pr71367303,2022-08-22T00:09:01.560Z,"Puerto Rico region",earthquake,0.59,0.52,0.0834201349129442,5,reviewed,pr,pr
+2022-08-21T20:52:42.050Z,17.9971666666667,-66.8823333333333,15.72,2.34,md,8,91,,0.11,pr,pr71367303,2022-08-22T00:09:01.560Z,"2 km SSW of Palomas, Puerto Rico",earthquake,0.59,0.52,0.0834201349129442,5,reviewed,pr,pr
 2022-08-21T20:27:39.120Z,19.1573333740234,-155.491668701172,30.5400009155273,1.83000004,md,24,245,,0.239999995,hv,hv73116917,2022-08-21T20:31:01.900Z,"5 km SSW of Pāhala, Hawaii",earthquake,1.33,1.69000006,0.460000008,5,automatic,hv,hv
 2022-08-21T20:21:17.205Z,62.5133,-149.835,64.7,1.2,ml,,,,0.66,ak,ak022apo92i5,2022-08-21T20:23:37.638Z,"15 km ENE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-21T20:14:08.750Z,62.1853,-145.5038,24.5,1,ml,,,,0.27,ak,ak022apo7fi8,2022-08-22T05:42:33.800Z,"8 km NNE of Glennallen, Alaska",earthquake,,0.8,,,reviewed,ak,ak
@@ -177,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T15:23:13.290Z,38.8338318,-122.8198318,1.52,0.78,md,14,61,0.01291,0.01,nc,nc73770430,2022-08-21T16:35:15.146Z,"8km NW of The Geysers, CA",earthquake,0.29,0.48,0.4,3,automatic,nc,nc
 2022-08-21T15:19:34.401Z,60.7963,-150.4918,13.8,1.5,ml,,,,0.54,ak,ak022apl9ie8,2022-08-21T15:21:38.955Z,"17 km SE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-21T15:14:32.230Z,38.8226662,-122.7853317,1.74,1.05,md,24,42,0.01007,0.02,nc,nc73770425,2022-08-21T16:10:12.022Z,"5km W of Cobb, CA",earthquake,0.2,0.34,0.13,5,automatic,nc,nc
-2022-08-21T15:04:14.225Z,58.3451,-153.4453,71.8,2.5,ml,,,,0.69,ak,ak022apl699g,2022-08-21T15:48:36.040Z,"44 km NW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
