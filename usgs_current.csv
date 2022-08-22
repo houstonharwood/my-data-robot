@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-22T16:35:06.150Z,46.20616666666667,-122.3275,10.14,-0.07,ml,9,246,0.07086,0.17,uw,uw61865222,2022-08-22T17:42:41.070Z,"34 km NNE of Amboy, Washington",earthquake,1.03,0.91,0.07500612407340945,6,reviewed,uw,uw
 2022-08-22T16:35:01.099Z,55.4044,-163.4824,173.009,4.5,mb,102,72,0.55,0.6,us,us6000ictn,2022-08-22T17:07:35.040Z,"54 km WNW of Cold Bay, Alaska",earthquake,7.69,6.258,0.035,239,reviewed,us,us
 2022-08-22T16:23:41.150Z,32.8516667,-116.0123333,11.43,2.77,ml,79,30,0.05048,0.24,ci,ci40329824,2022-08-22T19:23:20.040Z,"13km N of Ocotillo, CA",earthquake,0.19,0.39,0.17,24,reviewed,ci,ci
+2022-08-22T16:05:13.590Z,33.6401667,-116.6851667,12.98,0.11,ml,10,107,0.03019,0.04,ci,ci40329800,2022-08-22T19:57:55.872Z,"10km N of Anza, CA",earthquake,0.24,0.39,0.111,5,reviewed,ci,ci
 2022-08-22T16:00:19.530Z,35.9916667,-117.3965,4.87,1.29,ml,18,122,0.1361,0.12,ci,ci40329792,2022-08-22T18:26:21.679Z,"25km N of Searles Valley, CA",earthquake,0.37,1.43,0.181,11,reviewed,ci,ci
 2022-08-22T15:42:59.200Z,35.7551667,-117.57,10.26,0.8,ml,17,65,0.06445,0.13,ci,ci40329784,2022-08-22T18:21:44.656Z,"15km W of Searles Valley, CA",earthquake,0.23,0.56,0.123,11,reviewed,ci,ci
 2022-08-22T15:37:37.875Z,31.605,-103.972,5,2.9,ml,23,72,0.25,0.5,us,us6000ics8,2022-08-22T16:20:34.040Z,"36 km NNW of Toyah, Texas",earthquake,1.24,1.97,0.041,78,reviewed,us,us
@@ -167,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T23:08:48.410Z,38.793499,-122.7799988,3.58,0.56,md,22,87,0.006197,0.02,nc,nc73770530,2022-08-22T00:40:12.140Z,"3km NW of The Geysers, CA",earthquake,0.3,0.59,0.21,3,automatic,nc,nc
 2022-08-21T23:00:15.590Z,59.988,-153.329833333333,23.95,0.15,ml,5,310,,0.04,av,av91666191,2022-08-22T17:58:44.950Z,"48 km ENE of Pedro Bay, Alaska",earthquake,2.15,1.31,0.285051449759142,5,reviewed,av,av
 2022-08-21T22:59:05.424Z,64.6193,-149.4175,22.9,0.8,ml,,,,0.71,ak,ak022appo1ng,2022-08-22T05:57:41.511Z,"14 km W of Four Mile Road, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2022-08-21T22:54:52.950Z,35.452,-118.2975,1.65,1.01,ml,7,78,0.1894,0.12,ci,ci40329416,2022-08-21T22:58:17.641Z,"23km SE of Bodfish, CA",earthquake,0.51,1.44,0.134,10,automatic,ci,ci
+2022-08-21T22:54:53.040Z,35.4476667,-118.2843333,7.02,1.02,ml,14,75,0.1473,0.08,ci,ci40329416,2022-08-22T19:53:13.221Z,"24km SE of Bodfish, CA",earthquake,0.17,1.33,0.144,10,reviewed,ci,ci
 2022-08-21T22:48:36.200Z,35.077,-95.51866667,7.49,1.89,ml,63,57,0.1313742199,0.27,ok,ok2022qjpw,2022-08-22T12:34:30.343Z,"14 km WSW of Quinton, Oklahoma",earthquake,,0.6,0.23,11,reviewed,ok,ok
 2022-08-21T22:22:22.620Z,34.93133333,-97.289,5,0.92,ml,32,67,0.1565692758,0.35,ok,ok2022qjoz,2022-08-22T16:55:49.430Z,"2 km ENE of Wayne, Oklahoma",earthquake,,1.3,0.26,4,reviewed,ok,ok
 2022-08-21T22:20:55.860Z,38.810833,-122.7925034,3.14,0.73,md,19,60,0.003601,0.02,nc,nc73770510,2022-08-21T23:50:11.839Z,"5km NW of The Geysers, CA",earthquake,0.27,0.56,0.24,3,automatic,nc,nc
@@ -187,4 +188,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T20:21:17.205Z,62.5133,-149.835,64.7,1.2,ml,,,,0.66,ak,ak022apo92i5,2022-08-21T20:23:37.638Z,"15 km ENE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-21T20:14:08.750Z,62.1853,-145.5038,24.5,1,ml,,,,0.27,ak,ak022apo7fi8,2022-08-22T05:42:33.800Z,"8 km NNE of Glennallen, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-08-21T20:06:43.910Z,38.8341675,-122.7993317,2.14,0.97,md,12,95,0.008198,0.01,nc,nc73770485,2022-08-21T20:24:13.628Z,"7km WNW of Cobb, CA",earthquake,0.35,0.8,0.27,2,automatic,nc,nc
-2022-08-21T20:04:14.800Z,33.2326667,-116.734,10.84,0.63,ml,21,52,0.02101,0.19,ci,ci40329376,2022-08-21T20:07:47.637Z,"3km ESE of Lake Henshaw, CA",earthquake,0.33,0.61,0.189,9,automatic,ci,ci
+2022-08-21T20:04:14.670Z,33.2305,-116.7383333,11.43,0.64,ml,21,51,0.01797,0.14,ci,ci40329376,2022-08-22T19:56:07.238Z,"3km ESE of Lake Henshaw, CA",earthquake,0.24,0.53,0.204,7,reviewed,ci,ci
