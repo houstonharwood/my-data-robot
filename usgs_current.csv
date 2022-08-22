@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-22T23:17:37.430Z,35.0251667,-117.6743333,0.28,1.56,ml,19,77,0.09234,0.34,ci,ci40330024,2022-08-22T23:21:17.560Z,"4km NW of Boron, CA",quarry blast,0.95,31.61,0.109,30,automatic,ci,ci
 2022-08-22T23:00:51.710Z,33.0483333,-115.7248333,9.57,1.25,ml,10,87,0.1067,0.28,ci,ci40330016,2022-08-22T23:04:23.471Z,"10km W of Westmorland, CA",earthquake,0.77,2.1,0.226,15,automatic,ci,ci
 2022-08-22T23:00:15.010Z,35.7866667,-117.6286667,9.41,1.27,ml,15,67,0.03851,0.23,ci,ci40330008,2022-08-22T23:03:47.925Z,"19km NNE of Ridgecrest, CA",earthquake,0.51,0.94,0.171,15,automatic,ci,ci
+2022-08-22T23:00:13.870Z,17.9686666666667,-66.9936666666667,7.56,1.86,md,4,186,,0.03,pr,pr71367473,2022-08-22T23:22:20.890Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.46,0.86,0.086353719022872,4,reviewed,pr,pr
 2022-08-22T22:52:33.500Z,35.883,-117.6608333,2.35,1.24,ml,15,56,0.0712,0.19,ci,ci40330000,2022-08-22T22:56:04.307Z,"23km ESE of Little Lake, CA",earthquake,0.33,0.5,0.139,13,automatic,ci,ci
 2022-08-22T22:41:26.890Z,33.3731667,-116.3563333,12.39,0.44,ml,12,101,0.04056,0.09,ci,ci40329992,2022-08-22T22:44:56.233Z,"13km N of Borrego Springs, CA",earthquake,0.36,0.72,0.123,6,automatic,ci,ci
+2022-08-22T22:34:51.190Z,17.9408333333333,-67.0875,10.16,2.04,md,4,291,,0.04,pr,pr71367468,2022-08-22T23:28:17.120Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.7,0.39,0.0956589396504834,4,reviewed,pr,pr
 2022-08-22T22:27:15.485Z,58.4812,-154.8813,10,1,ml,,,,1.04,ak,ak022ard0ke4,2022-08-22T22:29:19.360Z,"104 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-22T22:25:50.670Z,19.246166229248,-155.377334594727,30.9300003051758,2.28,ml,40,195,,0.109999999,hv,hv73118007,2022-08-22T22:39:59.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.79,0.649999976,4.51,4,automatic,hv,hv
 2022-08-22T22:22:25.001Z,61.4721,-149.8966,32.1,1.5,ml,,,,0.83,ak,ak022arczij7,2022-08-22T22:24:56.093Z,"6 km SSE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -32,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-22T20:27:29.160Z,36.06183333,-97.233,7,1.32,ml,47,58,0.159268746,0.23,ok,ok2022qlgs,2022-08-22T21:28:15.460Z,"11 km N of Coyle, Oklahoma",earthquake,,0.7,0.23,4,reviewed,ok,ok
 2022-08-22T20:20:02.370Z,38.7724991,-122.7139969,1.61,0.45,md,7,122,0.01229,0.01,nc,nc73770770,2022-08-22T21:00:13.416Z,"2km W of Anderson Springs, CA",earthquake,0.41,0.46,0.09,2,automatic,nc,nc
 2022-08-22T20:19:51.000Z,36.7813333,-121.5246667,9.83,2.86,md,78,41,0.04085,0.17,nc,nc73770775,2022-08-22T23:13:12.649Z,"7km S of San Juan Bautista, CA",earthquake,0.17,0.3,0.139,142,reviewed,nc,nc
-2022-08-22T20:18:13.070Z,38.7714996,-122.7163315,1.94,1.16,md,14,104,0.01193,0.03,nc,nc73770765,2022-08-22T22:54:11.074Z,"2km W of Anderson Springs, CA",earthquake,0.27,0.32,0.04,5,automatic,nc,nc
+2022-08-22T20:18:13.070Z,38.7714996,-122.7163315,1.94,1.16,md,14,104,0.01193,0.03,nc,nc73770765,2022-08-22T23:26:13.274Z,"2km W of Anderson Springs, CA",earthquake,0.27,0.32,0.04,5,automatic,nc,nc
 2022-08-22T20:07:40.159Z,64.5139,-147.7644,15.4,2,ml,,,,0.56,ak,ak022arbpgrj,2022-08-22T20:09:48.628Z,"32 km S of South Van Horn, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-08-22T20:02:25.240Z,35.0621667,-118.3391667,-1.01,1.13,ml,26,44,0.07143,0.15,ci,ci40329928,2022-08-22T20:18:38.363Z,"13km SE of Tehachapi, CA",quarry blast,0.29,31.61,0.124,21,reviewed,ci,ci
 2022-08-22T19:17:54.420Z,19.441333770752,-155.616165161133,-0.800000011920929,1.83000004,md,23,92,,0.370000005,hv,hv73117922,2022-08-22T19:21:00.290Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.860000014,1.20000005,10,automatic,hv,hv
@@ -226,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T23:54:48.010Z,35.961834,-120.5250015,10.65,0.79,md,10,113,0.0214,0.06,nc,nc73770540,2022-08-22T01:22:11.415Z,"11km NW of Parkfield, CA",earthquake,0.81,2.74,0.1,4,automatic,nc,nc
 2022-08-21T23:49:14.880Z,48.72816666666667,-120.05066666666667,12.78,2.27,ml,15,116,0.2712,0.34,uw,uw61864987,2022-08-22T20:09:27.900Z,"29 km NW of Conconully, Washington",earthquake,0.77,1.17,0.11549629254988814,12,reviewed,uw,uw
 2022-08-21T23:45:51.292Z,60.6642,-146.804,22.7,1.1,ml,,,,0.38,ak,ak022apq6k02,2022-08-22T06:00:25.136Z,"23 km SSW of Tatitlek, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2022-08-21T23:24:46.290Z,33.3198333,-116.3463333,10.59,1.87,ml,67,30,0.0524,0.22,ci,ci40329424,2022-08-22T13:54:46.400Z,"8km NNE of Borrego Springs, CA",earthquake,0.22,0.45,0.213,26,reviewed,ci,ci
-2022-08-21T23:15:55.866Z,55.3685,162.0889,35,4.9,mb,112,85,3.099,0.78,us,us6000icll,2022-08-21T23:37:18.040Z,"98 km SSW of Ust’-Kamchatsk Staryy, Russia",earthquake,7.65,1.881,0.033,281,reviewed,us,us
