@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-29T09:41:23.311Z,61.6762,-146.7022,27.4,3.8,ml,,,,0.48,ak,ak022b2q4dl2,2022-08-29T09:42:31.712Z,"35 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-29T09:43:28.952Z,38.163,-118.1593,0.6,0.2,ml,8,162.98,0.267,0.225,nn,nn00846054,2022-08-29T09:47:44.276Z,"25 km S of Mina, Nevada",earthquake,,0,0.27,6,automatic,nn,nn
+2022-08-29T09:43:16.826Z,61.6125,-146.5668,40.5,2.6,ml,,,,0.87,ak,ak022b2q4sjm,2022-08-29T09:45:41.965Z,"43 km SSE of Nelchina, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-08-29T09:41:23.311Z,61.6762,-146.7022,27.4,3.8,ml,,,,0.48,ak,ak022b2q4dl2,2022-08-29T09:49:46.695Z,"35 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-29T09:40:17.980Z,35.6505,-118.3201667,8.08,0.58,ml,11,109,0.05146,0.11,ci,ci40333704,2022-08-29T09:43:46.413Z,"14km ESE of Wofford Heights, CA",earthquake,0.39,0.51,0.266,5,automatic,ci,ci
 2022-08-29T09:08:04.639Z,38.5253,-119.4793,7.1,0.8,ml,14,153.84,0.038,0.151,nn,nn00846050,2022-08-29T09:10:46.209Z,"1 km N of Walker, California",earthquake,,0.7,0.43,6,automatic,nn,nn
 2022-08-29T09:04:03.505Z,38.1703,-117.9934,0,1,ml,14,115.84,0.029,0.4301,nn,nn00846047,2022-08-29T09:07:26.441Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.22,9,automatic,nn,nn
 2022-08-29T08:42:25.987Z,59.724,-152.8705,104,0.7,ml,,,,0.22,ak,ak022b2pj5xi,2022-08-29T08:43:57.734Z,"58 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -75,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T01:42:11.561Z,35.3054657,-97.89261627,2.058487892,1.86,ml,15,72.77030182,0.08677922189,0.7190083836,ok,ok2022qwqc,2022-08-29T02:03:18.264Z,"4 km E of Minco, Oklahoma",earthquake,3.278327783,2.606583403,,13,automatic,ok,ok
 2022-08-29T01:37:40.999Z,56.6347,-149.6138,10,3.2,ml,21,250,1.984,0.46,us,us7000i38b,2022-08-29T02:38:27.040Z,"194 km SE of Chiniak, Alaska",earthquake,5.29,2.02,0.042,74,reviewed,us,us
 2022-08-29T01:34:09.020Z,38.8223343,-122.809166,1.17,0.99,md,18,39,0.01797,0.03,nc,nc73772925,2022-08-29T03:32:11.273Z,"7km NW of The Geysers, CA",earthquake,0.2,0.68,0.24,2,automatic,nc,nc
-2022-08-29T01:33:51.350Z,17.9686666666667,-67.0001666666667,7.82,2.29,md,5,186,,0.05,pr,pr71368533,2022-08-29T01:53:39.100Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.45,0.23,0.0942207234163333,4,reviewed,pr,pr
+2022-08-29T01:33:51.350Z,17.9686666666667,-67.0001666666667,7.82,2.29,md,5,186,,0.05,pr,pr71368533,2022-08-29T01:53:39.100Z,"Puerto Rico region",earthquake,0.45,0.23,0.0942207234163333,4,reviewed,pr,pr
 2022-08-29T01:28:37.410Z,19.2746658325195,-155.425994873047,31.7299995422363,1.72000003,md,37,173,,0.119999997,hv,hv73124642,2022-08-29T01:31:51.900Z,"9 km NE of Pāhala, Hawaii",earthquake,0.67,0.870000005,0.569999993,3,automatic,hv,hv
 2022-08-29T01:19:21.763Z,63.4076,-151.2947,0,1.1,ml,,,,0.61,ak,ak022b2l86wg,2022-08-29T01:21:02.962Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-29T01:18:18.447Z,4.3626,62.5554,10,4.8,mb,49,102,11.425,0.79,us,us7000i38a,2022-08-29T01:42:21.040Z,"Carlsberg Ridge",earthquake,11.74,1.89,0.069,64,reviewed,us,us
@@ -259,9 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T10:10:32.110Z,48.371833333333335,-122.806,14.1,0.89,ml,12,135,0.08434,0.17,uw,uw61866762,2022-08-28T16:45:55.090Z,"10 km WNW of Ault Field, Washington",earthquake,0.59,0.99,0.16417652414262235,4,reviewed,uw,uw
 2022-08-28T10:08:50.170Z,19.1858329772949,-155.50700378418,34.4500007629395,2.17000008,md,42,92,,0.119999997,hv,hv73123932,2022-08-28T10:12:04.070Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.61,0.939999998,1.70000005,18,automatic,hv,hv
 2022-08-28T10:00:30.600Z,8.7126,126.9405,51.814,4.7,mb,45,111,2.117,0.48,us,us7000i333,2022-08-28T10:21:50.040Z,"71 km E of Marihatag, Philippines",earthquake,9.86,8.234,0.061,81,reviewed,us,us
-2022-08-28T09:48:24.560Z,34.3178333,-116.8901667,7.92,1.04,ml,28,81,0.06,0.18,ci,ci40333064,2022-08-28T09:51:58.662Z,"8km NNW of Big Bear City, CA",earthquake,0.38,0.6,0.168,31,automatic,ci,ci
-2022-08-28T09:45:23.710Z,33.6466667,-116.7185,16.31,0.94,ml,56,39,0.04338,0.2,ci,ci40333056,2022-08-28T15:23:45.477Z,"10km S of Idyllwild, CA",earthquake,0.18,0.33,0.166,32,reviewed,ci,ci
-2022-08-28T09:45:22.530Z,33.651,-116.7113333,15.65,0.62,ml,29,54,0.03604,0.18,ci,ci37441724,2022-08-28T15:32:26.840Z,"10km S of Idyllwild, CA",earthquake,0.29,0.44,0.127,11,reviewed,ci,ci
-2022-08-28T09:45:11.500Z,33.6593333,-116.7065,15.38,0.34,ml,17,74,0.02889,0.1,ci,ci37441740,2022-08-28T15:49:28.928Z,"9km S of Idyllwild, CA",earthquake,0.27,0.41,0.146,6,reviewed,ci,ci
-2022-08-28T09:45:10.650Z,33.6543333,-116.7115,15.58,0.16,ml,21,75,0.03464,0.15,ci,ci37441732,2022-08-28T15:44:27.902Z,"10km S of Idyllwild, CA",earthquake,0.36,0.48,0.19,7,reviewed,ci,ci
-2022-08-28T09:44:18.991Z,31.56937051,-104.0116446,8.008251953,2.4,ml,15,71,0.05002487911,0.3,tx,tx2022qvkn,2022-08-29T08:33:34.270Z,"35 km NW of Toyah, Texas",earthquake,1.259398582,1.994990698,0.2,22,reviewed,tx,tx
