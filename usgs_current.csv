@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T08:57:54.470Z,33.9941667,-118.3008333,1.55,1.06,ml,10,224,0.1274,0.25,ci,ci40334328,2022-08-30T09:01:27.561Z,"4km E of View Park-Windsor Hills, CA",earthquake,1.24,0.82,0.26,15,automatic,ci,ci
 2022-08-30T08:54:04.786Z,61.2083,-151.9457,77.7,1.5,ml,,,,0.6,ak,ak022b4d51ea,2022-08-30T09:00:17.745Z,"46 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-30T08:49:50.942Z,38.1991,-117.8798,15.8,1.3,ml,9,181.57,0.083,0.2298,nn,nn00846109,2022-08-30T08:53:10.003Z,"29 km SE of Mina, Nevada",earthquake,,1.1,0.44,2,automatic,nn,nn
-2022-08-30T08:44:40.750Z,32.413166,-115.2245026,11.68,3.99,mw,37,69,0.06838,0.34,ci,ci40334320,2022-08-30T09:16:13.226Z,"7km NNW of Delta, B.C., MX",earthquake,0.49,1.04,,4,reviewed,ci,ci
+2022-08-30T08:44:40.750Z,32.413166,-115.2245026,11.68,3.99,mw,37,69,0.06838,0.34,ci,ci40334320,2022-08-30T09:49:26.728Z,"7km NNW of Delta, B.C., MX",earthquake,0.49,1.04,,4,reviewed,ci,ci
 2022-08-30T08:41:19.360Z,33.254,-116.265,10.54,1.09,ml,40,37,0.06184,0.22,ci,ci40334312,2022-08-30T08:44:52.460Z,"10km E of Borrego Springs, CA",earthquake,0.31,0.59,0.165,26,automatic,ci,ci
 2022-08-30T08:40:38.300Z,35.5081667,-118.3955,7.91,0.82,ml,13,102,0.1899,0.23,ci,ci40334304,2022-08-30T08:44:03.847Z,"12km SE of Bodfish, CA",earthquake,0.54,3.85,0.114,6,automatic,ci,ci
 2022-08-30T08:35:41.560Z,33.495,-116.5465,12.55,0.43,ml,13,98,0.06367,0.2,ci,ci40334296,2022-08-30T08:39:14.417Z,"14km ESE of Anza, CA",earthquake,0.42,0.98,0.139,8,automatic,ci,ci
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T02:56:36.695Z,31.65862816,-104.2497052,7.828295898,2,ml,14,86,0.01834813185,0.2,tx,tx2022qyob,2022-08-30T06:24:28.591Z,"57 km NW of Toyah, Texas",earthquake,0.8293094728,1.031512335,0.1,12,reviewed,tx,tx
 2022-08-30T02:55:17.140Z,33.4875,-116.9281667,5.17,0.59,ml,18,72,0.131,0.15,ci,ci40334168,2022-08-30T02:58:51.377Z,"8km NW of Aguanga, CA",earthquake,0.29,31.61,0.103,15,automatic,ci,ci
 2022-08-30T02:49:14.300Z,34.011,-117.1633333,14.19,0.76,ml,13,124,0.1095,0.23,ci,ci40334160,2022-08-30T02:52:46.401Z,"5km SSE of Redlands, CA",earthquake,0.53,1.45,0.23,17,automatic,ci,ci
-2022-08-30T02:46:15.680Z,18.2043333333333,-66.2238333333333,10.36,3.25,md,18,79,,0.18,pr,pr71368683,2022-08-30T04:02:14.055Z,"1 km S of Comerío, Puerto Rico",earthquake,0.3,0.54,0.00576422335167326,6,reviewed,pr,pr
+2022-08-30T02:46:15.680Z,18.2043333333333,-66.2238333333333,10.36,3.25,md,18,79,,0.18,pr,pr71368683,2022-08-30T09:49:11.384Z,"1 km S of Comerío, Puerto Rico",earthquake,0.3,0.54,0.00576422335167326,6,reviewed,pr,pr
 2022-08-30T02:46:04.079Z,38.1299,-117.9864,0,1.4,ml,16,130.38,0.023,0.3163,nn,nn00846104,2022-08-30T02:49:38.883Z,"30 km SSE of Mina, Nevada",earthquake,,2.2,0.85,9,automatic,nn,nn
 2022-08-30T02:44:18.610Z,37.6183333,-122.4915,7.73,0.38,md,4,200,0.02302,0.04,nc,nc73773325,2022-08-30T06:36:12.063Z,"1km NW of Pacifica, CA",earthquake,0.44,0.61,0.178,3,reviewed,nc,nc
 2022-08-30T02:34:05.116Z,57.9167,-155.9005,8.7,1.2,ml,,,,0.58,ak,ak022b49g5gf,2022-08-30T02:36:13.184Z,"93 km ESE of Egegik, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T10:08:16.400Z,19.4056663513184,-155.26416015625,0.200000002980232,2.15,ml,19,59,,0.140000001,hv,hv73124982,2022-08-29T10:13:46.760Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.270000011,0.25,6,automatic,hv,hv
 2022-08-29T10:03:05.070Z,37.6276667,-118.8563333,3.04,0.48,md,18,70,0.01013,0.04,nc,nc73773085,2022-08-29T17:10:14.249Z,"11km E of Mammoth Lakes, CA",earthquake,0.32,0.46,0.161,15,reviewed,nc,nc
 2022-08-29T10:00:01.370Z,37.6306667,-118.8538333,1.95,-0.07,md,8,91,0.01372,0.02,nc,nc73773080,2022-08-29T16:06:01.331Z,"11km E of Mammoth Lakes, CA",earthquake,0.41,0.8,0.238,7,reviewed,nc,nc
-2022-08-29T09:50:00.092Z,61.7127,-146.6805,19.9,1.4,ml,,,,0.67,ak,ak022b2q699l,2022-08-29T09:52:31.357Z,"31 km S of Nelchina, Alaska",earthquake,,0.6,,,automatic,ak,ak
