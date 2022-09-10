@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-10T09:00:59.470Z,38.8330002,-122.8151703,2.27,0.85,md,10,61,0.01038,0.03,nc,nc73780026,2022-09-10T09:02:36.977Z,"8km NW of The Geysers, CA",earthquake,0.35,1.44,,1,automatic,nc,nc
-2022-09-10T08:54:23.390Z,38.8296661,-122.8010025,1.77,0.85,md,13,76,0.009456,0.02,nc,nc73780021,2022-09-10T08:56:02.608Z,"7km W of Cobb, CA",earthquake,0.35,0.8,,1,automatic,nc,nc
+2022-09-10T09:22:11.290Z,34.0291672,-116.9893341,8.12,1.63,ml,62,29,0.07806,0.16,ci,ci40098519,2022-09-10T09:24:24.414Z,"5km E of Yucaipa, CA",earthquake,0.2,0.61,0.263,22,automatic,ci,ci
+2022-09-10T09:20:26.290Z,38.5794,-119.4592,9.1,1.1,ml,13,110.14,0.048,0.1152,nn,nn00846726,2022-09-10T09:23:21.230Z,"4 km ENE of Coleville, California",earthquake,,1.2,0.24,7,automatic,nn,nn
+2022-09-10T09:06:51.174Z,38.7059,-118.4611,4.1,0.8,ml,11,188.37,0.091,0.1619,nn,nn00846723,2022-09-10T09:10:19.792Z,"Nevada",earthquake,,3.6,0.44,6,automatic,nn,nn
+2022-09-10T09:00:59.470Z,38.8330002,-122.8151703,2.27,0.85,md,10,61,0.01038,0.03,nc,nc73780026,2022-09-10T09:22:12.748Z,"8km NW of The Geysers, CA",earthquake,0.35,1.44,,1,automatic,nc,nc
+2022-09-10T08:54:23.390Z,38.8296661,-122.8010025,1.77,0.85,md,13,76,0.009456,0.02,nc,nc73780021,2022-09-10T09:11:15.675Z,"7km W of Cobb, CA",earthquake,0.35,0.8,,1,automatic,nc,nc
 2022-09-10T08:40:52.660Z,33.3163333,-116.3375,8.4,1.1,ml,39,50,0.0822,0.2,ci,ci40098511,2022-09-10T08:44:32.435Z,"8km NNE of Borrego Springs, CA",earthquake,0.29,0.86,0.131,27,automatic,ci,ci
 2022-09-10T08:32:00.290Z,17.9681666666667,-66.7843333333333,18.63,2.32,md,15,163,,0.15,pr,pr71370953,2022-09-10T08:44:26.190Z,"Puerto Rico region",earthquake,0.41,0.46,0.188936193738055,10,reviewed,pr,pr
-2022-09-10T08:31:09.090Z,38.8328323,-122.8011703,1.45,0.73,md,12,74,0.01012,0.01,nc,nc73780016,2022-09-10T08:47:15.527Z,"7km W of Cobb, CA",earthquake,0.32,0.93,0.1,2,automatic,nc,nc
+2022-09-10T08:31:09.090Z,38.8328323,-122.8011703,1.45,0.73,md,12,74,0.01012,0.01,nc,nc73780016,2022-09-10T09:11:11.805Z,"7km W of Cobb, CA",earthquake,0.32,0.93,0.1,2,automatic,nc,nc
 2022-09-10T08:26:57.820Z,17.9785,-66.924,11.85,2.19,md,5,172,,0.07,pr,pr71370943,2022-09-10T08:38:24.600Z,"1 km SW of Fuig, Puerto Rico",earthquake,0.6,0.85,0.0485889059107487,4,reviewed,pr,pr
 2022-09-10T08:20:51.630Z,32.9005,-115.525,5.84,1.73,ml,20,87,0.03006,0.22,ci,ci40098503,2022-09-10T08:24:31.100Z,"7km NE of Imperial, CA",earthquake,0.45,0.58,0.261,27,automatic,ci,ci
 2022-09-10T08:19:15.397Z,38.7695,-119.6291,7.7,0.8,ml,11,96.35,0.202,0.1352,nn,nn00846721,2022-09-10T08:22:00.327Z,"California-Nevada border region",earthquake,,3.2,0.43,4,automatic,nn,nn
@@ -202,9 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T09:36:37.030Z,17.9586666666667,-66.8578333333333,10.27,1.91,md,4,317,,0.06,pr,pr71370693,2022-09-09T10:21:32.970Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.8,0.69,0.0473884813148293,4,reviewed,pr,pr
 2022-09-09T09:31:20.500Z,19.16233253479,-155.480499267578,35.1399993896484,1.70000005,md,38,156,,0.150000006,hv,hv73135232,2022-09-09T09:34:31.390Z,"Island of Hawaii, Hawaii",earthquake,0.74,0.99000001,0.349999994,5,automatic,hv,hv
 2022-09-09T09:28:03.606Z,59.3472,-152.8077,74.7,1.5,ml,,,,0.28,ak,ak022bkwy98n,2022-09-09T15:36:55.051Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-09-09T09:22:27.610Z,38.8366661,-122.7923355,1.98,0.33,md,11,52,0.002334,0.01,nc,nc73779691,2022-09-09T09:39:10.057Z,"6km WNW of Cobb, CA",earthquake,0.4,0.74,0.35,2,automatic,nc,nc
-2022-09-09T09:21:55.850Z,38.7916679,-122.7618332,2.58,0.45,md,11,78,0.02044,0.02,nc,nc73779686,2022-09-09T09:44:12.097Z,"2km NNW of The Geysers, CA",earthquake,0.44,1.25,0.4,2,automatic,nc,nc
-2022-09-09T09:17:33.318Z,-8.9316,127.1347,10,5.1,mb,51,36,2.946,1.21,us,us6000iidi,2022-09-09T09:38:00.040Z,"47 km SSE of Lospalos, Timor Leste",earthquake,6.67,1.708,0.083,47,reviewed,us,us
-2022-09-09T09:11:37.620Z,33.234,-116.0658333,8.51,1.09,ml,30,65,0.08127,0.17,ci,ci40098223,2022-09-09T18:23:52.585Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.25,0.94,0.159,21,reviewed,ci,ci
-2022-09-09T09:08:22.793Z,38.1862,-117.9199,11.7,0.9,ml,8,170.03,0.18,0.2279,nn,nn00846673,2022-09-09T09:12:03.605Z,"28 km SE of Mina, Nevada",earthquake,,1.9,0.48,5,automatic,nn,nn
-2022-09-09T09:08:19.530Z,37.3106667,-121.6763333,7.43,1.55,md,44,39,0.04099,0.06,nc,nc73779681,2022-09-10T00:56:11.785Z,"15km E of Seven Trees, CA",earthquake,0.13,0.31,0.289,41,reviewed,nc,nc
