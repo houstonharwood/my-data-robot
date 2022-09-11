@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-11T19:44:30.700Z,38.840168,-122.8793335,2.33,1.23,md,10,114,0.003758,0.02,nc,nc73780476,2022-09-11T19:53:10.975Z,"13km ENE of Cloverdale, CA",earthquake,0.43,0.58,0.23,2,automatic,nc,nc
+2022-09-11T19:44:30.700Z,38.840168,-122.8793335,2.33,1.23,md,10,114,0.003758,0.02,nc,nc73780476,2022-09-11T19:59:13.012Z,"13km ENE of Cloverdale, CA",earthquake,0.43,0.58,0.23,2,automatic,nc,nc
 2022-09-11T19:28:42.380Z,19.1760005950928,-155.490997314453,32.3199996948242,1.88,ml,34,94,,0.150000006,hv,hv73137447,2022-09-11T19:34:12.820Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.59,0.850000024,0.39,3,automatic,hv,hv
 2022-09-11T19:00:28.330Z,38.8241653,-122.8123322,1.95,0.5,md,15,71,0.001924,0.02,nc,nc73780461,2022-09-11T19:33:09.869Z,"7km NW of The Geysers, CA",earthquake,0.28,0.62,0.35,2,automatic,nc,nc
 2022-09-11T18:58:58.980Z,33.6835,-116.7883333,14.64,1,ml,30,78,0.06771,0.17,ci,ci40099031,2022-09-11T19:09:38.740Z,"9km SW of Idyllwild, CA",earthquake,0.29,0.31,0.239,28,automatic,ci,ci
@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T23:16:52.240Z,19.2045001983643,-155.388000488281,30.9599990844727,1.86000001,md,43,159,,0.129999995,hv,hv73136742,2022-09-10T23:20:05.560Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.930000007,0.600000024,16,automatic,hv,hv
 2022-09-10T23:15:43.910Z,36.7898331,-121.5268326,7.34,2.29,md,40,68,0.03424,0.17,nc,nc73780176,2022-09-11T00:24:11.133Z,"6km S of San Juan Bautista, CA",earthquake,0.32,0.62,0.17,34,automatic,nc,nc
 2022-09-10T23:10:44.391Z,-1.1241,98.6239,20,6,mww,110,34,2.63,0.95,us,us6000iisb,2022-09-11T09:14:30.401Z,"175 km WSW of Pariaman, Indonesia",earthquake,6.82,1.818,0.089,12,reviewed,us,us
-2022-09-10T23:06:04.120Z,33.2586667,-115.6473333,2.15,1.59,ml,24,42,0.06078,0.23,ci,ci40098655,2022-09-10T23:09:47.536Z,"12km W of Niland, CA",earthquake,0.32,0.57,0.153,27,automatic,ci,ci
+2022-09-10T23:06:04.060Z,33.2576667,-115.6568333,2.8,1.66,ml,41,41,0.06864,0.23,ci,ci40098655,2022-09-11T20:01:52.441Z,"12km SE of Bombay Beach, CA",earthquake,0.2,0.39,0.153,34,reviewed,ci,ci
 2022-09-10T23:01:26.390Z,33.3256667,-116.3516667,10.79,1.06,ml,49,33,0.013,0.21,ci,ci40098647,2022-09-11T18:57:45.564Z,"8km NNE of Borrego Springs, CA",earthquake,0.2,0.35,0.11,30,reviewed,ci,ci
 2022-09-10T22:57:36.530Z,33.2576667,-115.6533333,2.89,1.46,ml,28,42,0.06585,0.21,ci,ci40098639,2022-09-11T18:49:48.400Z,"13km W of Niland, CA",earthquake,0.23,0.41,0.09,33,reviewed,ci,ci
 2022-09-10T22:51:55.800Z,51.0955,-178.4094,24.528,2.8,ml,15,216,0.524,0.57,us,us6000iite,2022-09-11T02:22:17.040Z,"150 km SW of Adak, Alaska",earthquake,3.16,12.61,0.115,10,reviewed,us,us
@@ -169,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T20:48:11.390Z,17.8961666666667,-66.9601666666667,11.29,2.44,md,7,245,,0.09,pr,pr71371058,2022-09-10T21:35:46.280Z,"10 km SSW of Guánica, Puerto Rico",earthquake,0.7,0.52,0.102139621508438,5,reviewed,pr,pr
 2022-09-10T20:44:48.047Z,63.5841,-152.6749,0,1.4,ml,,,,0.95,ak,ak022bmr5090,2022-09-10T20:46:57.945Z,"37 km SSW of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-10T20:41:12.760Z,38.8288345,-122.7981644,1.33,0.46,md,11,66,0.01077,0.02,nc,nc73780106,2022-09-10T20:58:12.021Z,"6km W of Cobb, CA",earthquake,0.29,0.84,0.39,2,automatic,nc,nc
-2022-09-10T20:11:02.394Z,38.1129,-118.0506,2.7,1.1,ml,10,163.32,0.076,0.1421,nn,nn00846741,2022-09-10T20:14:14.856Z,"31 km S of Mina, Nevada",earthquake,,1.2,0.29,5,automatic,nn,nn
-2022-09-10T19:58:44.589Z,58.0509,-157.2447,15,1.6,ml,,,,1.17,ak,ak022bmqmkei,2022-09-10T20:02:21.087Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
