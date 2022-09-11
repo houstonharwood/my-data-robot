@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-11T22:41:24.940Z,19.1469993591309,-155.485336303711,31.9200000762939,2.11,ml,38,158,,0.119999997,hv,hv73137567,2022-09-11T22:46:56.570Z,"6 km S of Pāhala, Hawaii",earthquake,0.54,1.02999997,5.2,3,automatic,hv,hv
 2022-09-11T21:55:05.120Z,36.5475006,-121.0954971,2.7,2.46,md,24,106,0.05463,0.12,nc,nc73780546,2022-09-11T22:24:35.692Z,"5km ENE of Pinnacles, CA",earthquake,0.29,0.95,0.18,26,automatic,nc,nc
 2022-09-11T21:41:44.020Z,37.6570015,-118.94767,-0.47,1.12,md,9,169,0.04708,0.23,nc,nc73780541,2022-09-11T22:17:14.071Z,"4km NE of Mammoth Lakes, CA",earthquake,2.02,8.3,0.1,8,automatic,nc,nc
-2022-09-11T21:41:24.100Z,37.5466652,-118.9231644,9.29,1.6,md,15,147,0.06563,0.07,nc,nc73780536,2022-09-11T22:05:12.904Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.74,1.24,0.12,14,automatic,nc,nc
+2022-09-11T21:41:24.100Z,37.5466652,-118.9231644,9.29,1.6,md,15,147,0.06563,0.07,nc,nc73780536,2022-09-11T23:48:10.396Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.74,1.24,0.12,14,automatic,nc,nc
 2022-09-11T21:40:31.680Z,37.5653343,-118.925499,8.91,2.2,md,22,102,0.04739,0.04,nc,nc73780531,2022-09-11T23:22:11.244Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.36,0.85,0.16,24,automatic,nc,nc
 2022-09-11T21:37:02.400Z,37.5638351,-118.9261703,9.08,1.56,md,18,157,0.04896,0.02,nc,nc73780526,2022-09-11T23:07:15.155Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.43,0.93,0.13,15,automatic,nc,nc
 2022-09-11T21:33:20.920Z,37.5653343,-118.9264984,9.14,2.92,md,30,95,0.04754,0.03,nc,nc73780521,2022-09-11T22:38:11.087Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.58,0.18,41,automatic,nc,nc
@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-11T03:34:41.456Z,36.9945,-116.3795,2.9,-0.1,ml,11,98.82,0.025,0.091,nn,nn00846768,2022-09-11T03:37:13.760Z,"35 km ENE of Beatty, Nevada",earthquake,,0.6,1.67,5,automatic,nn,nn
 2022-09-11T03:25:57.460Z,38.833168,-122.8095016,2.15,0.85,md,8,95,0.009769,0.02,nc,nc73780306,2022-09-11T03:27:31.736Z,"8km W of Cobb, CA",earthquake,0.41,1.04,,1,automatic,nc,nc
 2022-09-11T03:25:04.110Z,38.8306656,-122.8026657,1.33,0.85,md,9,75,0.009284,0.01,nc,nc73780301,2022-09-11T03:51:12.305Z,"7km W of Cobb, CA",earthquake,0.32,1.12,,1,automatic,nc,nc
-2022-09-11T03:22:07.679Z,-33.1707,-70.9434,67.339,4.5,mwr,45,88,0.185,0.65,us,us7000i74q,2022-09-11T22:27:38.603Z,"14 km NNW of Lampa, Chile",earthquake,4.63,5.791,,,reviewed,us,guc
+2022-09-11T03:22:07.679Z,-33.1707,-70.9434,67.339,4.5,mwr,45,88,0.185,0.65,us,us7000i74q,2022-09-11T23:49:35.410Z,"14 km NNW of Lampa, Chile",earthquake,4.63,5.791,,,reviewed,us,guc
 2022-09-11T03:16:07.057Z,61.2709,-150.3289,25.8,1.2,ml,,,,0.27,ak,ak022bo4dw8x,2022-09-11T03:18:08.815Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-11T03:10:03.370Z,38.8323326,-122.8103333,2.16,0.66,md,13,54,0.008927,0.01,nc,nc73780291,2022-09-11T03:19:10.113Z,"8km W of Cobb, CA",earthquake,0.33,0.8,0.12,2,automatic,nc,nc
 2022-09-11T02:59:33.490Z,33.1548333,-116.0076667,7.05,1.4,ml,45,50,0.03124,0.15,ci,ci40098687,2022-09-11T20:53:18.520Z,"12km E of Ocotillo Wells, CA",earthquake,0.15,0.43,0.122,35,reviewed,ci,ci
@@ -164,6 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-11T01:24:19.369Z,35.3032341,-97.89898682,5,1.84,ml,13,71.23052406,0.08798855543,1.027825453,ok,ok2022rujb,2022-09-11T01:26:32.710Z,"4 km ESE of Minco, Oklahoma",earthquake,4.000732792,,,11,automatic,ok,ok
 2022-09-11T00:42:37.638Z,-5.8136,146.0076,101.426,5,mb,81,68,3.746,0.72,us,us7000i73p,2022-09-11T01:02:21.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,10.22,7.02,0.049,135,reviewed,us,us
 2022-09-11T00:07:32.470Z,38.6016667,-122.8075,9.45,1.18,md,40,47,0.1158,0.14,nc,nc73780186,2022-09-11T18:44:10.725Z,"6km E of Healdsburg, CA",earthquake,0.31,0.7,0.162,19,reviewed,nc,nc
-2022-09-10T23:46:57.827Z,-6.2557,146.4692,90.013,7.6,mww,121,18,3.203,0.79,us,us6000iitd,2022-09-11T14:35:54.015Z,"66 km E of Kainantu, Papua New Guinea",earthquake,5.73,3.2,0.037,70,reviewed,us,us
-2022-09-10T23:42:29.692Z,32.26593018,-101.9263291,4.328491211,2.2,ml,13,66,0.0357191504,0.1,tx,tx2022rufs,2022-09-11T02:28:49.251Z,"19 km NW of Stanton, Texas",earthquake,1.961430203,3.904770154,0.1,15,reviewed,tx,tx
-2022-09-10T23:40:52.570Z,17.9418333333333,-66.856,15.44,1.97,md,7,216,,0.05,pr,pr71371098,2022-09-11T00:21:50.040Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.58,0.53,0.0235808728294891,3,reviewed,pr,pr
