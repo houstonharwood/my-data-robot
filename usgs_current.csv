@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-15T10:18:39.214Z,61.2828,-151.5131,78.6,1.6,ml,,,,0.76,ak,ak022buuptdd,2022-09-15T10:20:13.565Z,"28 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-15T10:03:27.080Z,38.8316667,-122.7976667,2.13,1.12,md,37,40,0.008834,0.04,nc,nc73781896,2022-09-15T18:24:10.995Z,"6km W of Cobb, CA",earthquake,0.14,0.23,0.139,9,reviewed,nc,nc
 2022-09-15T09:48:11.650Z,36.3135,-89.526,10.14,1.1,md,8,108,0.03465,0.11,nm,nm60161643,2022-09-15T13:27:30.420Z,"southeastern Missouri",earthquake,0.76,0.93,0.042,7,reviewed,nm,nm
-2022-09-15T09:41:16.770Z,37.859,-122.2441667,8.6,2.85,md,129,24,0.01849,0.07,nc,nc73781891,2022-09-15T22:31:50.465Z,"3km ESE of Berkeley, CA",earthquake,0.09,0.13,0.166,118,reviewed,nc,nc
+2022-09-15T09:41:16.770Z,37.859,-122.2441667,8.6,2.85,md,129,24,0.01849,0.07,nc,nc73781891,2022-09-15T22:42:24.876Z,"3km ESE of Berkeley, CA",earthquake,0.09,0.13,0.166,118,reviewed,nc,nc
 2022-09-15T09:32:28.960Z,38.7996674,-122.7785034,3.55,0.35,md,6,104,0.01552,0.01,nc,nc73781886,2022-09-15T09:34:03.311Z,"3km NW of The Geysers, CA",earthquake,0.79,1.92,,1,automatic,nc,nc
 2022-09-15T09:22:47.188Z,36.3379,-114.8669,0,1.3,ml,6,338.1,0.287,0.2198,nn,nn00847250,2022-09-15T21:59:06.762Z,"19 km ENE of Nellis Air Force Base, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2022-09-15T09:21:34.729Z,43.1624,-126.6471,10,4.4,mb,26,251,1.619,0.95,us,us7000i88d,2022-09-15T15:18:55.557Z,"off the coast of Oregon",earthquake,3.14,2.015,0.086,39,reviewed,us,us
@@ -204,6 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-15T02:46:46.255Z,31.35951467,-103.7584758,5.848779297,2.3,ml,17,62,0.076114885,0.2,tx,tx2022sbtu,2022-09-15T03:21:43.130Z,"5 km NE of Toyah, Texas",earthquake,1.304110839,2.457766203,0.2,13,reviewed,tx,tx
 2022-09-15T02:43:14.700Z,33.6393333,-116.7166667,12.29,0.49,ml,21,74,0.04635,0.09,ci,ci40100447,2022-09-15T14:11:14.429Z,"10km NNW of Anza, CA",earthquake,0.17,0.28,0.087,7,reviewed,ci,ci
 2022-09-15T02:34:16.053Z,-12.5329,166.5662,80.379,4.6,mb,47,51,2.962,0.66,us,us7000i86c,2022-09-15T05:00:22.040Z,"Santa Cruz Islands",earthquake,9.68,5.76,0.056,94,reviewed,us,us
+2022-09-15T02:23:22.490Z,60.03,-153.0555,3.03,-0.5,ml,5,134,,0.11,av,av91680586,2022-09-15T22:40:22.300Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.58,1.13,0.351238327146934,5,reviewed,av,av
 2022-09-15T02:19:57.050Z,39.4268333,-110.2981667,-2,1.34,ml,9,199,0.02104,0.14,uu,uu60515052,2022-09-15T16:00:40.720Z,"15 km SSE of Sunnyside, Utah",earthquake,1.22,1.2,0.102,5,reviewed,uu,uu
 2022-09-15T02:06:43.190Z,38.8263321,-122.7963333,2.65,0.95,md,23,37,0.01113,0.02,nc,nc73781781,2022-09-15T02:08:16.603Z,"6km W of Cobb, CA",earthquake,0.22,0.47,0.06,4,automatic,nc,nc
 2022-09-15T01:50:39.828Z,60.5362,-147.4349,19.5,2.2,ml,,,,0.41,ak,ak022bupjrvy,2022-09-15T01:52:45.474Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -238,7 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-14T22:56:32.760Z,17.9086666666667,-66.854,17.03,2.26,md,10,229,,0.08,pr,pr71371848,2022-09-14T23:06:54.160Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.156892378603861,7,reviewed,pr,pr
 2022-09-14T22:53:59.551Z,61.48,-149.9138,33.4,1.8,ml,,,,0.4,ak,ak022btej7rn,2022-09-14T22:55:36.794Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-14T22:52:08.620Z,34.018,-116.7166667,15.51,0.93,ml,21,87,0.06063,0.1,ci,ci40100415,2022-09-14T23:58:30.521Z,"13km WSW of Morongo Valley, CA",earthquake,0.21,0.59,0.14,18,reviewed,ci,ci
-2022-09-14T22:45:32.570Z,35.04183333,-97.52716667,5.3,1.95,ml,96,38,0.03149381984,0.33,ok,ok2022sblv,2022-09-15T14:37:35.811Z,"4 km WSW of Washington, Oklahoma",earthquake,,0.5,0.17,6,reviewed,ok,ok
-2022-09-14T22:44:48.850Z,46.9855,-122.18983333333334,-0.54,1.41,ml,19,126,0.01606,0.18,uw,uw61880381,2022-09-14T23:35:56.090Z,"Washington",explosion,0.55,31.61,0.08565197401454738,14,reviewed,uw,uw
-2022-09-14T22:43:27.620Z,38.8364983,-122.7929993,2.16,0.85,md,7,82,0.002818,0.01,nc,nc73781736,2022-09-14T22:45:02.008Z,"6km WNW of Cobb, CA",earthquake,0.73,2.04,,1,automatic,nc,nc
-2022-09-14T22:41:14.093Z,-30.6491,-71.3133,52.778,4.7,mwr,59,84,0.278,0.76,us,us7000i841,2022-09-15T20:54:38.376Z,"12 km WSW of Ovalle, Chile",earthquake,3.17,4.504,0.037,69,reviewed,us,us
