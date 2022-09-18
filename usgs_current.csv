@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-18T14:36:49.350Z,38.3724,-118.9201,8.5,1.1,ml,14,140.43,0.348,0.3553,nn,nn00847399,2022-09-18T14:39:35.381Z,"30 km ENE of Bridgeport, California",earthquake,,3.1,0.31,8,automatic,nn,nn
+2022-09-18T14:30:29.770Z,38.8056679,-122.7835007,1.21,0.84,md,9,173,0.007893,0.03,nc,nc73783176,2022-09-18T14:32:02.986Z,"4km NW of The Geysers, CA",earthquake,0.48,0.78,,1,automatic,nc,nc
 2022-09-18T14:25:44.335Z,58.2842,-154.955,0,0.7,ml,,,,0.63,ak,ak022bzvr3oy,2022-09-18T14:29:04.482Z,"84 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-09-18T14:15:19.429Z,59.207,-153.2753,90.9,1.9,ml,,,,0.34,ak,ak022bzvowli,2022-09-18T14:17:11.683Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-18T14:15:19.429Z,59.207,-153.2753,90.9,1.9,ml,,,,0.34,ak,ak022bzvowli,2022-09-18T14:31:06.040Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-18T14:09:50.780Z,18.7903333333333,-66.6103333333333,58.39,2.83,md,9,256,,0.21,pr,pr71372378,2022-09-18T14:27:20.470Z,"36 km NNE of Arecibo, Puerto Rico",earthquake,1.18,1.94,0.0249080155093346,4,reviewed,pr,pr
 2022-09-18T13:58:34.276Z,64.8986,-148.6456,14.2,1.3,ml,,,,0.5,ak,ak022bzvcpxf,2022-09-18T14:00:47.348Z,"30 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-18T13:54:39.058Z,40.2025,19.8506,8.678,4.5,mb,32,78,0.342,0.82,us,us7000i93a,2022-09-18T14:20:36.040Z,"14 km NE of Himarë, Albania",earthquake,3.03,6.112,0.156,12,reviewed,us,us
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-18T12:38:24.409Z,28.8119,142.8288,10,4.4,mb,32,124,5.01,0.4,us,us7000i931,2022-09-18T12:59:22.040Z,"Bonin Islands, Japan region",earthquake,12.51,1.916,0.107,25,reviewed,us,us
 2022-09-18T12:36:11.600Z,33.8743333,-116.6813333,14.87,0.59,ml,15,78,0.1201,0.2,ci,ci40102447,2022-09-18T12:39:39.698Z,"11km ESE of Cabazon, CA",earthquake,0.46,1.13,0.202,16,automatic,ci,ci
 2022-09-18T12:35:07.170Z,38.7985001,-122.748497,2.64,0.86,md,7,175,0.009017,0.01,nc,nc73783141,2022-09-18T12:36:43.885Z,"2km NNE of The Geysers, CA",earthquake,0.62,0.96,,1,automatic,nc,nc
-2022-09-18T12:19:06.472Z,38.1775,-117.7577,16,0.6,ml,9,209.59,0.108,0.1628,nn,nn00847398,2022-09-18T12:22:31.305Z,"Nevada",earthquake,,5.6,0.35,6,automatic,nn,nn
+2022-09-18T12:19:06.472Z,38.1775,-117.7577,16,0.6,ml,9,209.59,0.108,0.1628,nn,nn00847398,2022-09-18T12:22:31.305Z,"38 km SE of Mina, Nevada",earthquake,,5.6,0.35,6,automatic,nn,nn
 2022-09-18T12:10:25.888Z,61.319,-146.711,21.4,1.4,ml,,,,0.73,ak,ak022bzugzb0,2022-09-18T12:12:15.011Z,"28 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-18T11:56:14.120Z,38.8125,-122.8166656,2.99,1.4,md,24,53,0.01043,0.02,nc,nc73783136,2022-09-18T12:28:12.417Z,"6km NW of The Geysers, CA",earthquake,0.24,0.43,0.05,6,automatic,nc,nc
 2022-09-18T11:47:59.390Z,19.2005004882812,-155.481002807617,33.3800010681152,2.16000009,md,44,83,,0.129999995,hv,hv73143397,2022-09-18T11:51:07.390Z,"0 km SW of Pāhala, Hawaii",earthquake,0.53,0.910000026,1.83000004,18,automatic,hv,hv
@@ -264,5 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T14:58:23.607Z,61.0291,-152.3527,9.8,0.5,ml,,,,0.23,ak,ak022by8eqi3,2022-09-18T03:27:44.133Z,"65 km W of Tyonek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-09-17T14:45:27.915Z,22.9618,121.1927,10,5.5,mww,51,86,0.618,0.92,us,us7000i8v9,2022-09-18T05:40:12.047Z,"Taiwan region",earthquake,4.31,0.44,0.052,35,reviewed,us,us
 2022-09-17T14:45:10.770Z,32.8291667,-117.2488333,12.3,1.29,ml,16,233,0.1036,0.15,ci,ci40101631,2022-09-17T14:48:37.863Z,"3km SE of La Jolla, CA",earthquake,0.76,1.11,0.359,13,automatic,ci,ci
-2022-09-17T14:35:14.181Z,23.112,121.2181,10,5.1,mww,67,98,0.319,1.02,us,us7000i8v0,2022-09-17T21:59:06.940Z,"Taiwan",earthquake,5.79,1.851,0.093,11,reviewed,us,us
-2022-09-17T14:30:13.330Z,64.1612,-148.4841,126.5,2.1,ml,,,,0.53,ak,ak022by88r8f,2022-09-17T16:15:37.040Z,"34 km ENE of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
