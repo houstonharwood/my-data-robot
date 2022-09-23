@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T23:56:33.790Z,19.2268333435059,-155.392669677734,33,2.18,ml,34,163,,0.170000002,hv,hv73148672,2022-09-23T00:02:07.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.7,0.970000029,5.24,3,automatic,hv,hv
 2022-09-22T23:56:29.250Z,19.3173333333333,-155.249,4.18,2.29,md,32,94,,0.13,hv,hv73148667,2022-09-23T00:29:27.050Z,"13 km S of Volcano, Hawaii",earthquake,0.25,1.13,0.186398433589571,10,reviewed,hv,hv
 2022-09-22T23:56:22.420Z,47.1025,-123.06516666666667,18.87,0.8,ml,10,92,0.07164,0.15,uw,uw61873872,2022-09-23T02:25:49.780Z,"12 km SSE of Shelton, Washington",earthquake,0.61,1.04,0.08981643009973261,6,reviewed,uw,uw
-2022-09-22T23:52:58.311Z,35.9341,70.908,122.258,4.4,mb,22,80,2.065,0.95,us,us7000iabv,2022-09-23T00:15:17.040Z,"Hindu Kush region, Afghanistan",earthquake,7.14,11.622,0.179,9,reviewed,us,us
+2022-09-22T23:52:58.311Z,35.9341,70.908,122.258,4.4,mb,22,80,2.065,0.95,us,us7000iabv,2022-09-23T00:15:17.040Z,"56 km N of Pārūn, Afghanistan",earthquake,7.14,11.622,0.179,9,reviewed,us,us
 2022-09-22T23:51:34.287Z,64.0111,-148.794,4.9,1.5,ml,,,,0.53,ak,ak022c6nexxw,2022-09-22T23:53:29.181Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-22T23:13:00.110Z,51.8585,-177.813666666667,7.44,1.17,ml,4,250,,0.04,av,av91683616,2022-09-23T01:27:07.610Z,"81 km W of Adak, Alaska",earthquake,0.57,0.68,0.186499195975507,4,reviewed,av,av
 2022-09-22T23:10:59.110Z,38.8066673,-122.7805023,1.14,0.65,md,12,65,0.006584,0.04,nc,nc73784821,2022-09-22T23:12:35.472Z,"4km NNW of The Geysers, CA",earthquake,0.28,0.56,0.19,3,automatic,nc,nc
@@ -112,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T22:24:54.650Z,40.2205009,-122.6565018,9,2.86,md,24,48,0.1081,0.23,nc,nc73784806,2022-09-23T00:27:20.040Z,"32km NW of Rancho Tehama Reserve, CA",earthquake,0.34,0.77,0.12,35,automatic,nc,nc
 2022-09-22T22:21:04.560Z,19.1861667633057,-155.494003295898,31.5300006866455,1.75999999,md,32,146,,0.109999999,hv,hv73148587,2022-09-22T22:24:32.690Z,"2 km SW of Pāhala, Hawaii",earthquake,0.67,1.08000004,0.730000019,7,automatic,hv,hv
 2022-09-22T22:19:23.371Z,26.1374,126.2206,10,4.6,mb,37,74,1.966,0.61,us,us7000iabm,2022-09-22T22:49:37.040Z,"144 km W of Itoman, Japan",earthquake,7.59,1.932,0.116,22,reviewed,us,us
+2022-09-22T22:16:40.432Z,31.68112746,-104.4749091,6.028735352,2.1,ml,17,70,0.0253674185,0.2,tx,tx2022sqaw,2022-09-23T11:26:54.008Z,"55 km S of Whites City, New Mexico",earthquake,1.97321824,1.363659649,0.2,16,reviewed,tx,tx
 2022-09-22T22:11:44.300Z,18.6041666666667,-67.0223333333333,64.05,2.78,md,18,239,,0.28,pr,pr71372803,2022-09-22T22:29:56.450Z,"11 km N of Isabela, Puerto Rico",earthquake,1.1,1.1,0.0392625880707609,7,reviewed,pr,pr
 2022-09-22T22:10:59.500Z,35.7961667,-120.3475,9.83,2.1,md,47,104,0.02394,0.07,nc,nc73784801,2022-09-23T01:15:14.280Z,"10km NNW of Cholame, CA",earthquake,0.2,0.39,0.144,35,reviewed,nc,nc
 2022-09-22T22:10:53.971Z,60.1563,-152.4353,86.3,1.2,ml,,,,0.39,ak,ak022c6mkrhx,2022-09-22T22:12:48.385Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -315,5 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T11:43:31.535Z,58.2631,-154.9744,1.1,0.1,ml,,,,0.12,ak,ak022c6g7yio,2022-09-22T23:56:38.270Z,"83 km NNW of Karluk, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-09-22T11:39:30.190Z,34.083,-117.269,14.27,0.97,ml,44,75,0.1256,0.16,ci,ci40104263,2022-09-22T17:20:35.616Z,"4km N of Loma Linda, CA",earthquake,0.2,0.42,0.103,15,reviewed,ci,ci
 2022-09-22T11:37:36.030Z,34.44716667,-97.5055,12.87,2.05,ml,77,74,0.08728287212,0.41,ok,ok2022spfv,2022-09-22T12:19:02.688Z,"0 km ESE of Ratliff City, Oklahoma",earthquake,,1.2,0.25,23,reviewed,ok,ok
-2022-09-22T11:31:33.061Z,40.1594,-119.6435,8.2,0.5,ml,5,237.09,0.069,0.1441,nn,nn00847718,2022-09-23T00:02:49.007Z,"Nevada",earthquake,,3,0.32,4,reviewed,nn,nn
-2022-09-22T11:26:38.930Z,19.2514991760254,-155.416168212891,33.060001373291,1.75999999,md,34,139,,0.129999995,hv,hv73148102,2022-09-22T11:29:53.580Z,"8 km NE of Pāhala, Hawaii",earthquake,0.66,0.779999971,0.870000005,3,automatic,hv,hv
