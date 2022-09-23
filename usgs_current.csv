@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-23T10:01:45.913Z,38.0009,-118.7156,3.9,1.1,ml,8,98.42,0.3,0.2992,nn,nn00847735,2022-09-23T10:04:54.994Z,"29 km NW of Benton, California",earthquake,,12.3,0.24,4,automatic,nn,nn
 2022-09-23T09:53:28.606Z,38.4589,-119.3965,0.4,1.1,ml,10,125.62,0.056,0.1807,nn,nn00847733,2022-09-23T09:56:26.895Z,"9 km SE of Walker, California",earthquake,,0.3,0.05,7,automatic,nn,nn
+2022-09-23T09:50:16.407Z,0.1801,123.6085,165.99,4.9,mb,46,61,1.474,0.79,us,us7000iae6,2022-09-23T10:07:54.040Z,"72 km ESE of Gorontalo, Indonesia",earthquake,4.25,7.62,0.056,101,reviewed,us,us
 2022-09-23T09:47:54.400Z,38.8219986,-122.7965012,2.68,0.96,md,18,67,0.01069,0.02,nc,nc73785026,2022-09-23T09:49:31.518Z,"6km NW of The Geysers, CA",earthquake,0.25,0.5,0.18,3,automatic,nc,nc
 2022-09-23T09:46:49.410Z,34.4391667,-119.2663333,11.36,1.48,ml,12,68,0.09391,0.23,ci,ci40104959,2022-09-23T09:50:28.035Z,"2km WSW of Ojai, CA",earthquake,0.57,1.04,0.397,15,automatic,ci,ci
 2022-09-23T09:44:53.180Z,38.8206673,-122.7646637,2.05,0.87,md,11,117,0.01061,0.01,nc,nc73785021,2022-09-23T09:46:26.578Z,"4km W of Cobb, CA",earthquake,0.35,0.74,,2,automatic,nc,nc
@@ -220,7 +222,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T14:41:21.516Z,38.1841,-117.8745,8.1,0.9,ml,12,138.93,0.081,0.1636,nn,nn00847681,2022-09-22T17:04:27.668Z,"30 km SE of Mina, Nevada",earthquake,,1.7,0.19,7,reviewed,nn,nn
 2022-09-22T14:37:56.050Z,44.7833333,-110.7921667,3.26,0.61,md,5,213,0.04184,0.14,uu,uu60517597,2022-09-22T21:33:23.550Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.13,2.64,0.323,6,reviewed,uu,uu
 2022-09-22T14:28:39.384Z,36.8712,-116.0976,7,-0.3,ml,10,85.02,0.069,0.0678,nn,nn00847701,2022-09-22T21:24:36.009Z,"50 km NW of Indian Springs, Nevada",earthquake,,2.3,0.03,2,reviewed,nn,nn
-2022-09-22T14:28:08.547Z,36.8705,-116.0963,7.3,0.6,ml,28,58.35,0.069,0.1244,nn,nn00847679,2022-09-22T17:20:01.012Z,"50 km NW of Indian Springs, Nevada",earthquake,,1,0.36,15,reviewed,nn,nn
+2022-09-22T14:28:08.547Z,36.8705,-116.0963,7.3,0.6,ml,28,58.35,0.069,0.1244,nn,nn00847679,2022-09-22T17:20:01.012Z,"California-Nevada border region",earthquake,,1,0.36,15,reviewed,nn,nn
 2022-09-22T14:23:56.330Z,37.6441667,-118.8431667,5.76,0.74,md,16,103,0.008479,0.04,nc,nc73784611,2022-09-22T16:02:36.659Z,"12km E of Mammoth Lakes, CA",earthquake,0.44,0.63,0.225,14,reviewed,nc,nc
 2022-09-22T14:21:56.590Z,44.7855,-110.7948333,3.59,0.43,md,6,215,0.03974,0.16,uu,uu60517592,2022-09-22T21:32:19.200Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.95,1.68,0.236,5,reviewed,uu,uu
 2022-09-22T14:15:43.637Z,13.5477,-91.8003,28.515,4.4,mb,24,191,1.995,1.01,us,us7000ia6n,2022-09-22T15:41:25.040Z,"83 km S of Champerico, Guatemala",earthquake,6.68,8.933,0.068,63,reviewed,us,us
@@ -253,7 +255,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T13:32:46.990Z,58.2478333333333,-155.076333333333,4.21,0.05,ml,8,104,,0.32,av,av91071783,2022-09-22T20:27:23.490Z,"84 km NNW of Karluk, Alaska",earthquake,0.7,1.54,0.197120530270005,8,reviewed,av,av
 2022-09-22T13:32:46.950Z,58.2456666666667,-155.069333333333,4.15,0.02,ml,7,108,,0.16,av,av91071788,2022-09-22T20:34:23.860Z,"83 km NNW of Karluk, Alaska",earthquake,0.46,0.83,0.175280726102244,7,reviewed,av,av
 2022-09-22T13:32:37.917Z,58.2467,-155.0865,7.7,0.4,ml,,,,0.89,ak,ak022c6hcjll,2022-09-22T20:24:22.550Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-22T13:30:48.170Z,58.2436666666667,-155.0635,4.9,-0.03,ml,7,111,,0.2,av,av91071778,2022-09-22T20:21:16.490Z,"83 km NNW of Karluk, Alaska",earthquake,0.54,0.94,0.155750404932741,7,reviewed,av,av
+2022-09-22T13:30:48.170Z,58.2436666666667,-155.0635,4.9,-0.03,ml,7,111,,0.2,av,av91071778,2022-09-22T20:21:16.490Z,"Alaska Peninsula",earthquake,0.54,0.94,0.155750404932741,7,reviewed,av,av
 2022-09-22T13:28:31.609Z,36.7261,-116.1695,3.7,-0.5,ml,5,166.87,0.035,0.0722,nn,nn00847700,2022-09-22T21:15:16.541Z,"47 km WNW of Indian Springs, Nevada",earthquake,,2.8,0,1,reviewed,nn,nn
 2022-09-22T13:28:29.760Z,58.2384,-155.0837,2.1,0.8,ml,,,,0.25,ak,ak022c6hbo2o,2022-09-22T20:00:53.010Z,"83 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-22T13:28:18.560Z,58.2571666666667,-155.061333333333,5.42,0.22,ml,8,113,,0.14,av,av91071773,2022-09-22T20:04:04.060Z,"84 km NNW of Karluk, Alaska",earthquake,0.35,0.64,0.189757095858057,8,reviewed,av,av
@@ -324,7 +326,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T10:22:35.873Z,40.0685,-119.6738,13.8,-0.4,ml,3,171.84,0.111,0.1192,nn,nn00847717,2022-09-22T23:59:41.948Z,"14 km NNW of Sutcliffe, Nevada",earthquake,,6.4,0.06,2,reviewed,nn,nn
 2022-09-22T10:22:14.190Z,19.4361666666667,-155.616,-1.58,2.4,md,40,75,,0.22,hv,hv73148047,2022-09-22T23:35:05.030Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.33,0.276589615808806,14,reviewed,hv,hv
 2022-09-22T10:21:24.190Z,33.0526667,-116.3605,12.69,1.03,ml,48,47,0.06972,0.19,ci,ci40104247,2022-09-22T16:50:41.721Z,"23km S of Borrego Springs, CA",earthquake,0.19,0.55,0.097,16,reviewed,ci,ci
-2022-09-22T10:14:35.487Z,40.0722,-119.6864,16,1,ml,5,166.96,0.104,0.2045,nn,nn00847716,2022-09-22T23:56:33.660Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.9,0.29,5,reviewed,nn,nn
-2022-09-22T10:12:05.387Z,59.7612,-152.6177,82,1.4,ml,,,,0.36,ak,ak022c6ffvx6,2022-09-22T10:13:44.906Z,"44 km W of Anchor Point, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-09-22T10:02:30.090Z,38.8240013,-122.7988358,3.12,0.68,md,13,43,0.008799,0.01,nc,nc73784581,2022-09-22T10:04:06.848Z,"6km NW of The Geysers, CA",earthquake,0.31,0.71,0.49,3,automatic,nc,nc
-2022-09-22T10:00:52.780Z,33.5075,-116.7653333,7.78,0.93,ml,51,19,0.02966,0.16,ci,ci40104239,2022-09-22T16:42:43.130Z,"10km WSW of Anza, CA",earthquake,0.14,0.42,0.14,24,reviewed,ci,ci
