@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-24T07:18:33.510Z,33.231,-116.7285,11,0.46,ml,19,66,0.02584,0.14,ci,ci40105439,2022-09-24T07:22:05.171Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.46,0.161,9,automatic,ci,ci
+2022-09-24T07:12:18.589Z,61.7117,-149.451,36.7,1.7,ml,,,,0.5,ak,ak022c9oqb42,2022-09-24T07:15:38.489Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-24T07:09:52.650Z,19.2390003204346,-155.389663696289,32.0299987792969,2.11,ml,39,141,,0.159999996,hv,hv73150797,2022-09-24T07:15:23.620Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.52,0.730000019,4.62,4,automatic,hv,hv
+2022-09-24T07:07:05.060Z,19.4379997253418,-155.6318359375,0.980000019073486,2.09,ml,29,69,,0.340000004,hv,hv73150792,2022-09-24T07:12:34.940Z,"24 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,3.02999997,4.46,9,automatic,hv,hv
+2022-09-24T06:58:29.710Z,13.0595,-88.8165,78.338,4.6,mb,145,149,0.63,0.91,us,us7000iapl,2022-09-24T07:14:56.040Z,"38 km SW of Puerto El Triunfo, El Salvador",earthquake,5.73,6.366,0.045,144,reviewed,us,us
+2022-09-24T06:57:27.840Z,19.4838333333333,-155.580166666667,-0.82,1.75,md,10,119,,0.06,hv,hv73150777,2022-09-24T07:06:15.070Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.28,0.0427796671321699,5,reviewed,hv,hv
 2022-09-24T06:47:47.980Z,34.0626667,-117.2505,12.21,1.23,ml,31,39,0.1094,0.16,ci,ci40105431,2022-09-24T06:51:18.983Z,"2km NNE of Loma Linda, CA",earthquake,0.24,0.59,0.264,26,automatic,ci,ci
-2022-09-24T06:43:52.450Z,19.2546666666667,-155.391833333333,30.7,3.48,ml,47,116,,0.14,hv,hv73150752,2022-09-24T06:56:08.624Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.6,0.15312030406397,36,reviewed,hv,hv
+2022-09-24T06:43:52.410Z,19.2488333333333,-155.3935,31.04,3.49,ml,55,118,,0.13,hv,hv73150752,2022-09-24T07:08:18.684Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.51,0.54,0.147058539199213,36,reviewed,hv,hv
 2022-09-24T06:38:09.230Z,33.6598333,-115.8153333,7.79,1.24,ml,28,66,0.05047,0.2,ci,ci40105423,2022-09-24T06:41:42.362Z,"19km NE of North Shore, CA",earthquake,0.29,0.71,0.184,26,automatic,ci,ci
 2022-09-24T06:33:07.020Z,34.059,-117.2466667,12.71,0.84,ml,26,50,0.06734,0.18,ci,ci40105415,2022-09-24T06:44:28.304Z,"2km NE of Loma Linda, CA",earthquake,0.28,0.67,0.194,25,automatic,ci,ci
 2022-09-24T06:32:09.605Z,61.6768,-153.9009,9.2,1.6,ml,,,,0.88,ak,ak022c9o954w,2022-09-24T06:34:14.657Z,"89 km ENE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -275,14 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T07:34:35.100Z,38.777668,-122.7246704,1.73,0.86,md,11,140,0.01094,0.03,nc,nc73784966,2022-09-23T07:36:11.021Z,"3km E of The Geysers, CA",earthquake,0.36,0.53,0.11,4,automatic,nc,nc
 2022-09-23T07:32:08.673Z,62.3584,-149.1543,0,1.9,ml,,,,0.88,ak,ak022c81b86b,2022-09-23T07:34:35.581Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-23T07:29:12.640Z,38.7621667,-122.7176667,1.53,1.11,md,36,50,0.005654,0.06,nc,nc73784961,2022-09-23T19:15:14.147Z,"3km WSW of Anderson Springs, CA",earthquake,0.17,0.22,0.127,12,reviewed,nc,nc
-2022-09-23T07:23:04.053Z,38.1453,-117.9061,7.1,0.8,ml,8,158.57,0.043,0.1801,nn,nn00847728,2022-09-23T16:53:49.213Z,"32 km SSE of Mina, Nevada",earthquake,,1.7,0.32,5,reviewed,nn,nn
-2022-09-23T07:19:15.570Z,-7.6798,127.6154,164.813,4.3,mb,15,82,3.662,0.7,us,us7000iadl,2022-09-23T07:39:04.040Z,"115 km NE of Lospalos, Timor Leste",earthquake,8.51,10.353,0.168,10,reviewed,us,us
-2022-09-23T07:17:11.200Z,19.1761665344238,-156.350662231445,2.28999996185303,2.55999994,md,38,289,,0.170000002,hv,hv73149057,2022-09-23T07:30:06.040Z,"Hawaii region, Hawaii",earthquake,4.62,3.98000002,1,23,automatic,hv,hv
-2022-09-23T07:13:46.266Z,60.6283,-142.6556,18.7,1.9,ml,,,,1.03,ak,ak022c8178gy,2022-09-23T07:16:03.450Z,"90 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-23T07:08:59.158Z,49.7112,155.8911,59.225,4.6,mb,40,133,3.74,0.64,us,us7000iadj,2022-09-23T07:25:42.040Z,"108 km S of Severo-Kuril’sk, Russia",earthquake,10.14,6.583,0.093,34,reviewed,us,us
-2022-09-23T07:07:59.012Z,62.9291,-149.6862,71.3,2.8,ml,,,,0.32,ak,ak022c815yth,2022-09-23T07:17:12.040Z,"57 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-23T07:07:01.530Z,33.5,-116.7825,7.27,0.42,ml,23,46,0.07537,0.12,ci,ci40104927,2022-09-23T20:16:05.872Z,"10km NE of Aguanga, CA",earthquake,0.19,0.92,0.086,14,reviewed,ci,ci
-2022-09-23T07:04:33.800Z,35.6768333,-118.141,8.23,0.76,ml,16,73,0.0847,0.09,ci,ci40104919,2022-09-23T20:13:56.084Z,"27km ESE of Kernville, CA",earthquake,0.21,0.58,0.105,7,reviewed,ci,ci
-2022-09-23T07:01:22.620Z,33.7141667,-116.814,16.09,0.35,ml,10,181,0.08327,0.06,ci,ci40104911,2022-09-23T20:11:05.681Z,"8km ESE of Valle Vista, CA",earthquake,0.4,0.37,0.128,5,reviewed,ci,ci
-2022-09-23T07:01:08.440Z,37.9458333,-122.3121667,6.73,1.18,md,21,41,0.01133,0.06,nc,nc73784946,2022-09-23T22:46:05.008Z,"0km NE of East Richmond Heights, CA",earthquake,0.2,0.4,0.344,12,reviewed,nc,nc
-2022-09-23T07:00:24.970Z,38.7688333,-122.7101667,1.29,1.74,md,51,35,0.008536,0.08,nc,nc73784936,2022-09-23T23:01:15.517Z,"2km WSW of Anderson Springs, CA",earthquake,0.14,0.15,0.135,22,reviewed,nc,nc
