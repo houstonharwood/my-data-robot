@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-24T10:39:41.420Z,34.0491667,-117.2485,15.98,1.72,ml,61,27,0.07154,0.18,ci,ci40105527,2022-09-24T10:43:18.378Z,"1km E of Loma Linda, CA",earthquake,0.2,0.46,0.134,25,automatic,ci,ci
 2022-09-24T10:26:26.587Z,35.24337006,-97.72457886,5.384104252,1.77,ml,14,48.20553589,0.09781773388,0.4634708213,ok,ok2022ssum,2022-09-24T10:29:05.798Z,"1 km NE of Bridge Creek, Oklahoma",earthquake,3.245946192,5.031186636,,12,automatic,ok,ok
+2022-09-24T10:15:19.604Z,18.6273,145.5162,215.23,4.4,mb,40,95,5.048,0.61,us,us7000iaqu,2022-09-24T10:40:48.040Z,"Pagan region, Northern Mariana Islands",earthquake,9.91,8.301,0.098,31,reviewed,us,us
 2022-09-24T10:09:03.450Z,17.9675,-66.8488333333333,14.27,1.83,md,7,221,,0.12,pr,pr71372903,2022-09-24T10:34:35.650Z,"4 km SW of Indios, Puerto Rico",earthquake,0.65,0.5,0.163234151930103,6,reviewed,pr,pr
 2022-09-24T10:07:13.110Z,19.2304992675781,-155.389007568359,31.7600002288818,1.99000001,md,43,146,,0.129999995,hv,hv73150987,2022-09-24T10:30:08.464Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.75,1.00999999,11,automatic,hv,hv
 2022-09-24T10:03:34.050Z,38.8055,-122.7386703,1.16,0.66,md,10,122,0.01715,0.05,nc,nc73785321,2022-09-24T10:05:12.529Z,"2km SW of Cobb, CA",earthquake,0.42,0.74,0.13,3,automatic,nc,nc
@@ -62,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T04:09:30.090Z,33.2348333,-116.7358333,11.42,1.27,ml,44,23,0.01925,0.2,ci,ci40105399,2022-09-24T04:19:47.040Z,"3km ESE of Lake Henshaw, CA",earthquake,0.21,0.55,0.191,26,automatic,ci,ci
 2022-09-24T04:07:56.130Z,38.8113327,-122.7768326,0.54,0.74,md,16,72,0.003572,0.04,nc,nc73785246,2022-09-24T04:09:32.633Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.36,0.19,3,automatic,nc,nc
 2022-09-24T04:03:38.189Z,58.2303,-154.7683,17.9,1.1,ml,,,,0.83,ak,ak022c9mw4d6,2022-09-24T04:04:57.601Z,"75 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-24T04:03:34.050Z,36.545,-121.1003333,2.42,2.5,md,53,63,0.03804,0.15,nc,nc73785241,2022-09-24T10:05:16.645Z,"4km ENE of Pinnacles, CA",earthquake,0.16,0.32,0.162,87,reviewed,nc,nc
+2022-09-24T04:03:34.050Z,36.545,-121.1003333,2.42,2.5,md,53,63,0.03804,0.15,nc,nc73785241,2022-09-24T10:41:41.061Z,"4km ENE of Pinnacles, CA",earthquake,0.16,0.32,0.162,87,reviewed,nc,nc
 2022-09-24T04:01:22.450Z,19.1861667633057,-155.460494995117,31.5499992370605,2.51999998,md,44,112,,0.109999999,hv,hv73150537,2022-09-24T05:08:06.475Z,"2 km SE of Pāhala, Hawaii",earthquake,0.53,0.74000001,1.57000005,20,automatic,hv,hv
 2022-09-24T03:57:36.235Z,61.5924,-149.9667,39.5,1.4,ml,,,,0.45,ak,ak022c9mm99z,2022-09-24T03:59:01.995Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-24T03:44:43.463Z,38.5199,-119.4806,4.1,1,ml,10,154.85,0.037,0.0752,nn,nn00847838,2022-09-24T03:49:27.678Z,"0 km NNW of Walker, California",earthquake,,0.9,0.38,6,automatic,nn,nn
@@ -277,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T11:13:41.930Z,36.2745,-120.4836667,4.73,1.39,md,21,112,0.1101,0.04,nc,nc73785036,2022-09-23T21:30:11.103Z,"19km NW of Coalinga, CA",earthquake,0.33,0.91,0.242,16,reviewed,nc,nc
 2022-09-23T11:01:26.020Z,53.7766666666667,-166.984666666667,8.82,-0.22,ml,5,323,,0.32,av,av91072028,2022-09-23T19:49:15.940Z,"31 km WSW of Unalaska, Alaska",earthquake,2.16,1.26,0.104188947799216,5,reviewed,av,av
 2022-09-23T10:53:55.550Z,35.8273333,-117.6658333,7.96,0.74,ml,15,94,0.05672,0.09,ci,ci40104991,2022-09-23T20:37:38.984Z,"23km N of Ridgecrest, CA",earthquake,0.19,0.42,0.199,7,reviewed,ci,ci
-2022-09-23T10:43:26.390Z,58.4671666666667,-154.589666666667,8.21,-0.26,ml,5,194,,0.28,av,av91072018,2022-09-23T19:39:16.670Z,"Alaska Peninsula",earthquake,1.14,1.52,0.166037671932459,4,reviewed,av,av
-2022-09-23T10:41:19.430Z,33.0041667,-116.2903333,3.94,2.1,ml,56,37,0.05063,0.21,ci,ci40104983,2022-09-23T13:57:21.910Z,"21km SW of Ocotillo Wells, CA",earthquake,0.22,0.95,0.16,26,reviewed,ci,ci
