@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T14:49:03.122Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
+2022-09-25T14:45:39.660Z,33.784,-116.113,2.05,0.83,ml,17,94,0.09127,0.22,ci,ci40106287,2022-09-25T14:49:09.999Z,"12km NE of Indio, CA",earthquake,0.37,0.73,0.127,18,automatic,ci,ci
 2022-09-25T14:36:28.520Z,58.4493,-153.5277,25.9,0.8,ml,,,,0.69,ak,ak022cbgkvdj,2022-09-25T14:39:05.347Z,"56 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-25T14:36:00.846Z,36.6957,-116.2787,6.4,0.4,ml,17,128.54,0.062,0.191,nn,nn00847890,2022-09-25T14:38:39.277Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.94,10,automatic,nn,nn
 2022-09-25T14:31:59.290Z,33.6888333,-116.8,11.05,0.64,ml,17,83,0.07094,0.1,ci,ci40106279,2022-09-25T14:35:37.578Z,"9km SW of Idyllwild, CA",earthquake,0.24,0.37,0.158,17,automatic,ci,ci
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-25T14:19:10.582Z,37.5445,-117.7449,3.9,0.8,ml,10,209.16,0.456,0.1946,nn,nn00847888,2022-09-25T14:22:15.717Z,"25 km SSW of Silver Peak, Nevada",earthquake,,5,0.91,6,automatic,nn,nn
 2022-09-25T14:18:08.782Z,38.1681,-117.8278,6.7,1,ml,8,178.06,0.108,0.0964,nn,nn00847886,2022-09-25T14:21:27.087Z,"34 km SE of Mina, Nevada",earthquake,,0.8,0.38,4,automatic,nn,nn
 2022-09-25T14:04:03.570Z,38.7980003,-122.7491684,1.81,0.94,md,9,98,0.01766,0.01,nc,nc73785741,2022-09-25T14:05:37.573Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.95,0.2,3,automatic,nc,nc
-2022-09-25T14:01:41.161Z,78.0002,8.2894,10,4.5,mb,32,69,1.178,0.58,us,us7000iay0,2022-09-25T14:28:27.040Z,"170 km WSW of Longyearbyen, Svalbard and Jan Mayen",earthquake,6.63,1.872,0.121,22,reviewed,us,us
+2022-09-25T14:01:41.217Z,77.978,8.1332,10,4.5,mb,34,69,1.215,0.66,us,us7000iay0,2022-09-25T14:44:29.040Z,"175 km WSW of Longyearbyen, Svalbard and Jan Mayen",earthquake,4.98,1.756,0.118,23,reviewed,us,us
 2022-09-25T13:55:56.300Z,60.2021,-150.8313,38.9,2,ml,,,,0.35,ak,ak022cbg3jxq,2022-09-25T13:57:51.933Z,"28 km ESE of Kasilof, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-09-25T13:55:32.730Z,35.6498333,-117.4223333,10.52,0.88,ml,12,134,0.1332,0.17,ci,ci40106271,2022-09-25T13:59:02.543Z,"13km S of Searles Valley, CA",earthquake,0.55,1.19,0.078,7,automatic,ci,ci
 2022-09-25T13:48:06.780Z,19.486665725708,-155.587326049805,-1.67999994754791,2.09,ml,21,56,,0.270000011,hv,hv73152742,2022-09-25T13:53:37.280Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.50999999,0.09,3,automatic,hv,hv
@@ -223,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T14:52:52.280Z,51.5709,-177.3122,68.023,2.5,ml,9,195,0.298,0.33,us,us7000ias2,2022-09-24T15:56:41.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,9.67,11.886,0.128,8,reviewed,us,us
 2022-09-24T14:52:42.990Z,33.1991667,-116.3048333,10.69,1.05,ml,31,89,0.04312,0.23,ci,ci40105639,2022-09-24T14:56:25.987Z,"9km SE of Borrego Springs, CA",earthquake,0.36,0.74,0.146,27,automatic,ci,ci
 2022-09-24T14:51:44.760Z,33.199,-116.3036667,10.08,1.16,ml,32,47,0.04213,0.24,ci,ci40105631,2022-09-24T14:55:22.976Z,"9km SE of Borrego Springs, CA",earthquake,0.35,0.74,0.148,25,automatic,ci,ci
-2022-09-24T14:49:34.160Z,33.1893333,-116.2808333,6.47,0.7,ml,9,191,0.02276,0.24,ci,ci40105623,2022-09-24T14:53:07.988Z,"12km SE of Borrego Springs, CA",earthquake,1.35,1.09,0.093,7,automatic,ci,ci
