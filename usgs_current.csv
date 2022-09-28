@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-28T07:52:15.060Z,19.2399997711182,-155.393325805664,33.2999992370605,1.75,md,30,139,,0.119999997,hv,hv73156842,2022-09-28T07:55:30.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.68,0.959999979,1.76999998,4,automatic,hv,hv
+2022-09-28T07:52:10.040Z,34.6846667,-118.4711667,8.89,1.05,ml,17,101,0.04172,0.23,ci,ci40107919,2022-09-28T07:55:48.984Z,"2km WNW of Lake Hughes, CA",earthquake,0.52,0.82,0.328,21,automatic,ci,ci
+2022-09-28T07:41:00.008Z,62.1136,-149.1743,20.1,1.3,ml,,,,0.52,ak,ak022cgb1vf4,2022-09-28T07:43:00.068Z,"35 km E of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-28T07:13:33.865Z,61.0156,-147.2579,35,1.8,ml,,,,1.25,ak,ak022cgavxze,2022-09-28T07:15:59.041Z,"35 km WNW of Tatitlek, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2022-09-28T07:13:10.290Z,61.3131,-150.4512,39.6,2.4,ml,,,,0.42,ak,ak022cgavw5x,2022-09-28T07:14:45.813Z,"25 km WSW of Point MacKenzie, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-28T07:08:43.894Z,60.0738,-153.0367,172.4,2.4,ml,,,,0.34,ak,ak022cgauw6d,2022-09-28T07:14:19.833Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -120,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T21:25:15.050Z,36.9618333,-121.601,4.6,1.08,md,25,57,0.01652,0.12,nc,nc73786596,2022-09-28T04:14:34.420Z,"6km SSW of Gilroy, CA",earthquake,0.22,0.41,0.246,18,reviewed,nc,nc
 2022-09-27T21:22:30.811Z,31.91159426,-103.9204822,8.111083984,2.8,ml,11,57,0.09572892509,0.2,tx,tx2022szcq,2022-09-27T21:53:07.040Z,"37 km SSE of Malaga, New Mexico",earthquake,1.899154284,2.521576292,0.1,6,reviewed,tx,tx
 2022-09-27T21:18:19.141Z,53.7319,-35.2173,10,4.9,mb,76,98,9.246,0.6,us,us6000int8,2022-09-27T21:33:42.040Z,"Reykjanes Ridge",earthquake,10.32,1.896,0.036,241,reviewed,us,us
-2022-09-27T21:17:48.690Z,44.7841667,-110.8113333,10.51,2.14,ml,22,99,0.0282,0.16,uu,uu60518217,2022-09-27T21:57:53.680Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.39,0.67,0.266,7,reviewed,uu,uu
+2022-09-27T21:17:48.690Z,44.7841667,-110.8113333,10.51,2.14,ml,22,99,0.0282,0.16,uu,uu60518217,2022-09-27T21:57:53.680Z,"Wyoming",earthquake,0.39,0.67,0.266,7,reviewed,uu,uu
 2022-09-27T21:15:05.530Z,38.8365,-122.787,2.47,0.46,md,17,76,0.003233,0.03,nc,nc73786591,2022-09-27T23:36:43.707Z,"6km WNW of Cobb, CA",earthquake,0.26,0.32,0.116,5,reviewed,nc,nc
 2022-09-27T21:09:53.964Z,53.7854,-35.2431,10,4.8,mb,67,82,15.202,0.73,us,us6000int6,2022-09-27T21:28:19.040Z,"Reykjanes Ridge",earthquake,11.33,1.885,0.047,139,reviewed,us,us
 2022-09-27T20:55:34.258Z,63.105,-150.8099,25.4,1.4,ml,,,,1.01,ak,ak022cevc8gh,2022-09-27T20:57:34.089Z,"66 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -302,7 +305,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T09:34:20.230Z,35.5131667,-118.3945,3.83,1.71,ml,30,34,0.1628,0.17,ci,ci40107239,2022-09-27T13:17:43.100Z,"12km SE of Bodfish, CA",earthquake,0.23,0.89,0.25,27,reviewed,ci,ci
 2022-09-27T09:16:11.110Z,46.880833333333335,-121.9315,8.54,0.39,ml,15,83,0.02041,0.1,uw,uw61875047,2022-09-27T18:29:36.320Z,"15 km NNE of Ashford, Washington",earthquake,0.44,0.58,0.11598786423886553,14,reviewed,uw,uw
 2022-09-27T09:12:52.580Z,32.7208333,-115.8351667,6.03,1.26,ml,26,61,0.1036,0.19,ci,ci40107231,2022-09-27T17:46:41.894Z,"15km E of Ocotillo, CA",earthquake,0.24,1.18,0.214,13,reviewed,ci,ci
-2022-09-27T09:10:44.470Z,35.509,-118.3876667,4.99,2.55,ml,49,30,0.1688,0.16,ci,ci40107223,2022-09-27T17:42:34.620Z,"13km SE of Bodfish, CA",earthquake,0.13,0.98,0.159,96,reviewed,ci,ci
+2022-09-27T09:10:44.470Z,35.509,-118.3876667,4.99,2.55,ml,49,30,0.1688,0.16,ci,ci40107223,2022-09-28T07:53:31.040Z,"13km SE of Bodfish, CA",earthquake,0.13,0.98,0.159,96,reviewed,ci,ci
 2022-09-27T09:10:41.610Z,19.1803340911865,-155.383163452148,30.9799995422363,2.11999989,md,42,168,,0.129999995,hv,hv73155322,2022-09-27T09:36:09.362Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.62,1.10000002,0.330000013,16,automatic,hv,hv
 2022-09-27T08:47:40.300Z,38.8336678,-122.8089981,2.15,0.36,md,13,56,0.01029,0.01,nc,nc73786326,2022-09-27T08:49:16.349Z,"8km W of Cobb, CA",earthquake,0.33,0.78,,1,automatic,nc,nc
 2022-09-27T08:47:39.648Z,54.1164,-34.4828,10,4.8,mb,30,175,9.167,1.17,us,us6000inkr,2022-09-27T09:21:41.040Z,"Reykjanes Ridge",earthquake,13.25,1.941,0.056,97,reviewed,us,us
@@ -325,5 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T08:09:35.333Z,38.1567,-117.8938,8.6,0.6,ml,15,155.24,0.055,0.1219,nn,nn00848009,2022-09-27T19:06:13.641Z,"Nevada",earthquake,,1.6,0.57,2,reviewed,nn,nn
 2022-09-27T08:09:04.490Z,44.7916667,-111.0051667,7.73,1.12,ml,16,114,0.03234,0.18,uu,uu60518172,2022-09-27T14:25:41.370Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.42,0.56,0.04,3,reviewed,uu,uu
 2022-09-27T08:03:39.320Z,35.5076667,-118.3885,5.18,3.71,mw,63,20,0.1698,0.17,ci,ci40107167,2022-09-28T05:12:20.836Z,"13km SE of Bodfish, CA",earthquake,0.13,0.84,,6,reviewed,ci,ci
-2022-09-27T07:56:57.830Z,44.7873333,-110.8025,5.95,-0.14,md,7,217,0.03419,0.09,uu,uu60518162,2022-09-27T15:16:30.820Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.97,1.36,0.123,5,reviewed,uu,uu
-2022-09-27T07:50:26.300Z,38.8271675,-122.8138351,2.1,0.57,md,18,55,0.004777,0.02,nc,nc73786306,2022-09-27T07:52:00.669Z,"8km NW of The Geysers, CA",earthquake,0.23,0.51,0.28,3,automatic,nc,nc
