@@ -1,8 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-02T11:09:45.240Z,38.840332,-122.8789978,2.42,1.37,md,22,92,0.004067,0.02,nc,nc73788386,2022-10-02T11:11:18.866Z,"13km ENE of Cloverdale, CA",earthquake,0.29,0.41,0.07,5,automatic,nc,nc
+2022-10-02T11:28:11.354Z,61.5525,-147.2912,27.2,1.3,ml,,,,0.57,ak,ak022cmzi8dr,2022-10-02T11:29:46.807Z,"34 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-10-02T11:25:26.860Z,38.5093346,-122.7431641,0.12,1.69,md,12,93,0.1278,0.06,nc,nc73788391,2022-10-02T11:27:04.919Z,"1km SE of Larkfield-Wikiup, CA",earthquake,0.32,7.98,0.06,7,automatic,nc,nc
+2022-10-02T11:19:00.416Z,35.95274353,-97.88684082,5,2.65,ml,74,30.3218689,0.08223971725,0.7729716531,ok,ok2022thmg,2022-10-02T11:24:18.732Z,"3 km SE of Dover, Oklahoma",earthquake,1.269011919,,,52,automatic,ok,ok
+2022-10-02T11:16:24.730Z,19.4483337402344,-155.607498168945,-1.51999998092651,2.13,ml,25,68,,0.239999995,hv,hv73164242,2022-10-02T11:21:57.320Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.409999996,3.31,8,automatic,hv,hv
+2022-10-02T11:09:45.240Z,38.840332,-122.8789978,2.42,1.37,md,22,92,0.004067,0.02,nc,nc73788386,2022-10-02T11:28:13.057Z,"13km ENE of Cloverdale, CA",earthquake,0.29,0.41,0.07,5,automatic,nc,nc
 2022-10-02T11:09:35.750Z,38.840332,-122.8799973,2.42,0.37,md,9,95,0.003423,0.02,nc,nc73788381,2022-10-02T11:11:08.957Z,"12km ENE of Cloverdale, CA",earthquake,0.4,0.56,0.03,2,automatic,nc,nc
 2022-10-02T10:59:37.826Z,63.2239,-152.0922,3.9,1.2,ml,,,,0.63,ak,ak022cmz3i0m,2022-10-02T11:01:21.097Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-02T10:59:21.090Z,19.1905002593994,-155.460998535156,35.6100006103516,1.74000001,md,39,115,,0.129999995,hv,hv73164232,2022-10-02T11:03:04.610Z,"2 km SE of Pāhala, Hawaii",earthquake,0.66,1.02999997,0.870000005,3,automatic,hv,hv
+2022-10-02T10:58:04.113Z,37.0644,28.9129,10,4.7,mb,68,42,0.858,0.72,us,us6000iq6f,2022-10-02T11:20:23.040Z,"28 km NNE of Ortaca, Turkey",earthquake,4.44,1.87,0.052,114,reviewed,us,us
 2022-10-02T10:36:37.853Z,-21.0894,-68.7296,144.443,4.1,mb,30,66,0.709,0.68,us,us6000iq6c,2022-10-02T10:56:13.040Z,"Tarapaca, Chile",earthquake,6.47,6.722,0.131,16,reviewed,us,us
 2022-10-02T10:26:11.358Z,60.2064,-139.5878,1.2,2.2,ml,,,,0.68,ak,ak022cmywdcf,2022-10-02T10:28:56.714Z,"73 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-02T10:22:14.557Z,65.7767,-155.3909,0,1.9,ml,,,,0.52,ak,ak022cmyviq7,2022-10-02T10:24:10.577Z,"47 km E of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -208,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-01T11:49:48.280Z,19.2061672210693,-155.466827392578,31.9899997711182,1.75999999,md,27,103,,0.119999997,hv,hv73162507,2022-10-01T13:09:58.127Z,"1 km ENE of Pāhala, Hawaii",earthquake,0.59,0.870000005,0.689999998,5,automatic,hv,hv
 2022-10-01T11:44:48.363Z,62.3581,-149.0645,15.7,1.4,ml,,,,0.2,ak,ak022clc2e78,2022-10-01T11:46:13.877Z,"46 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-01T11:34:45.973Z,61.76,-148.172,4.2,1.6,ml,,,,0.67,ak,ak022clc08ut,2022-10-01T11:36:44.054Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-01T11:25:37.310Z,33.489,-116.4803333,11.78,0.83,ml,33,64,0.0571,0.21,ci,ci40354112,2022-10-01T14:30:42.918Z,"19km ESE of Anza, CA",earthquake,0.26,0.54,0.102,22,reviewed,ci,ci
-2022-10-01T11:15:50.720Z,40.4861667,-121.527,4.33,0.92,md,5,220,0.02298,0.15,nc,nc73787951,2022-10-01T18:29:10.626Z,"13km ESE of Viola, CA",earthquake,0.62,0.83,0.116,5,reviewed,nc,nc
-2022-10-01T11:14:36.930Z,40.4568333,-121.5505,3.31,0.88,md,7,137,0.02584,0.05,nc,nc73787946,2022-10-02T11:06:59.044Z,"11km N of Mineral, CA",earthquake,0.45,1.02,0.114,5,reviewed,nc,nc
-2022-10-01T11:13:10.720Z,40.4608333,-121.5513333,3.53,1.08,md,5,148,0.02562,0.02,nc,nc73787941,2022-10-01T18:04:38.304Z,"12km N of Mineral, CA",earthquake,0.61,1.26,0.092,5,reviewed,nc,nc
