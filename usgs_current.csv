@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-08T15:32:58.696Z,60.3191,-150.7832,52.5,1.1,ml,,,,0.41,ak,ak022cwz50a5,2022-10-08T15:34:18.564Z,"20 km S of Funny River, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-10-08T15:18:24.450Z,35.9091667,-117.6843333,6.74,0.83,ml,9,131,0.1169,0.1,ci,ci40357800,2022-10-08T15:21:47.610Z,"20km E of Little Lake, CA",earthquake,0.35,0.64,0.178,8,automatic,ci,ci
 2022-10-08T15:17:50.948Z,57.4844,-154.4537,38.4,1.5,ml,,,,0.65,ak,ak022cwz1rxy,2022-10-08T15:19:56.718Z,"9 km S of Karluk, Alaska",earthquake,,9.3,,,automatic,ak,ak
 2022-10-08T15:12:31.130Z,38.8328323,-122.8153305,1.79,0.85,md,12,54,0.01028,0.02,nc,nc73790951,2022-10-08T15:14:08.257Z,"8km NW of The Geysers, CA",earthquake,0.29,0.88,,1,automatic,nc,nc
@@ -57,9 +58,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-08T08:28:43.170Z,34.3485,-116.8463333,1.05,1.19,ml,28,70,0.01562,0.25,ci,ci40357728,2022-10-08T08:32:06.546Z,"10km N of Big Bear City, CA",earthquake,0.37,0.45,0.242,27,automatic,ci,ci
 2022-10-08T08:24:47.810Z,34.7208333,-119.105,10.48,0.66,ml,5,210,0.01234,0.08,ci,ci40357720,2022-10-08T08:28:18.678Z,"14km SSE of Pine Mountain Club, CA",earthquake,1.25,1.72,0.157,3,automatic,ci,ci
 2022-10-08T08:24:38.666Z,35.93826294,-97.89064789,5.758853912,1.81,ml,24,119.1255798,0.0807512477,0.2805516586,ok,ok2022tsfn,2022-10-08T08:27:39.238Z,"5 km SSE of Dover, Oklahoma",earthquake,2.599700645,3.556703788,,18,automatic,ok,ok
-2022-10-08T08:17:28.774Z,61.4396,-146.7298,30,1.4,ml,,,,0.28,ak,ak022cwuvozx,2022-10-08T08:18:44.759Z,"40 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-08T08:05:03.539Z,38.6014,-119.4437,1.1,1.4,ml,19,76.12,0.062,0.2399,nn,nn00848855,2022-10-08T08:08:11.684Z,"6 km NE of Coleville, California",earthquake,,0.9,0.17,12,automatic,nn,nn
-2022-10-08T07:58:31.889Z,31.5342,-104.146,5,2.8,ml,26,79,0.21,0.41,us,us6000is26,2022-10-08T08:07:29.040Z,"41 km NW of Toyah, Texas",earthquake,0.76,1.761,0.048,56,reviewed,us,us
+2022-10-08T08:17:28.774Z,61.4396,-146.7298,30,1.4,ml,,,,0.28,ak,ak022cwuvozx,2022-10-08T08:18:44.759Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-10-08T08:05:03.539Z,38.6014,-119.4437,1.1,1.4,ml,19,76.12,0.062,0.2399,nn,nn00848855,2022-10-08T08:08:11.684Z,"Central California",earthquake,,0.9,0.17,12,automatic,nn,nn
+2022-10-08T07:58:31.889Z,31.5342,-104.146,5,2.8,ml,26,79,0.21,0.41,us,us6000is26,2022-10-08T08:07:29.040Z,"western Texas",earthquake,0.76,1.761,0.048,56,reviewed,us,us
 2022-10-08T07:50:29.205Z,44.727,-73.9073,8.923,1.6,ml,10,78,0.494,0.34,us,us6000is23,2022-10-08T09:01:44.040Z,"0 km NE of Lyon Mountain, New York",earthquake,1.72,1.613,0.115,10,reviewed,us,us
 2022-10-08T07:39:52.666Z,38.1447,-117.9122,5.7,0.9,ml,10,122.15,0.038,0.1319,nn,nn00848852,2022-10-08T07:42:59.788Z,"32 km SSE of Mina, Nevada",earthquake,,0.6,0.23,5,automatic,nn,nn
 2022-10-08T07:39:52.596Z,58.4245,-154.8288,0.8,0.8,ml,,,,0.49,ak,ak022cwuf0zv,2022-10-08T07:42:16.445Z,"97 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -265,11 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T15:53:03.820Z,56.9195,-158.063,4.8,-0.42,ml,5,266,,0.21,av,av91073948,2022-10-08T01:15:12.430Z,"Alaska Peninsula",earthquake,1.03,1.34,0.352960021192777,5,reviewed,av,av
 2022-10-07T15:51:22.570Z,38.7753334,-122.7468338,1.71,1.13,md,14,78,0.01117,0.03,nc,nc73790526,2022-10-07T17:04:14.965Z,"1km ESE of The Geysers, CA",earthquake,0.29,0.53,0.04,4,automatic,nc,nc
 2022-10-07T15:50:00.520Z,36.2739983,-120.8946686,5.93,1.32,md,6,163,0.06663,0.07,nc,nc73790521,2022-10-07T16:40:12.813Z,"20km NE of San Lucas, CA",earthquake,2.16,0.94,0.15,4,automatic,nc,nc
-2022-10-07T15:39:40.797Z,59.3786,-151.3448,17.2,1.6,ml,,,,0.58,ak,ak022cvbn4hp,2022-10-07T15:41:53.507Z,"20 km ESE of Seldovia Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-07T15:39:19.340Z,38.7883339,-122.7805023,2.76,0.15,md,18,84,0.007549,0.03,nc,nc73790516,2022-10-07T15:40:52.901Z,"2km WNW of The Geysers, CA",earthquake,0.26,0.54,0.09,3,automatic,nc,nc
-2022-10-07T15:32:37.670Z,55.1375,-162.225833333333,3.85,0,ml,6,113,,0.18,av,av91073933,2022-10-08T01:09:30.210Z,"10 km NE of King Cove, Alaska",earthquake,0.96,1.14,0.249850505419332,5,reviewed,av,av
-2022-10-07T15:29:31.933Z,59.9229,-153.071,125,1.6,ml,,,,0.27,ak,ak022cvbkyhw,2022-10-07T18:39:12.040Z,"59 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-10-07T15:27:06.940Z,58.1716666666667,-155.360166666667,2.01,-0.18,ml,10,77,,0.08,av,av91691161,2022-10-08T01:05:03.800Z,"85 km NW of Karluk, Alaska",earthquake,0.19,0.47,0.132909341087155,10,reviewed,av,av
-2022-10-07T15:26:08.921Z,39.3538,-119.9661,6.9,1.6,ml,28,49.44,0.075,0.147,nn,nn00848780,2022-10-08T02:40:29.377Z,"6 km SE of Floriston, California",earthquake,,0.9,0.27,10,reviewed,nn,nn
-2022-10-07T15:25:14.060Z,44.7938333,-110.7873333,5.01,0.32,md,5,231,0.04531,0.01,uu,uu60519652,2022-10-07T16:22:03.480Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.98,0.99,0.192,5,reviewed,uu,uu
-2022-10-07T15:22:32.581Z,37.8727,-117.4992,5.9,2.2,ml,24,106.66,0.263,0.1434,nn,nn00848776,2022-10-08T02:40:24.373Z,"17 km NE of Silver Peak, Nevada",earthquake,,5,0.47,10,reviewed,nn,nn
