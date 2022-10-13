@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-13T21:43:26.320Z,38.8261681,-122.7841644,1.42,0.46,md,10,69,0.01193,0.01,nc,nc73793166,2022-10-13T21:45:03.888Z,"5km W of Cobb, CA",earthquake,0.53,1.2,0.4,2,automatic,nc,nc
+2022-10-13T21:40:58.470Z,38.8349991,-122.7756653,1.11,1.24,md,24,108,0.006374,0.04,nc,nc73793161,2022-10-13T21:50:11.329Z,"5km WNW of Cobb, CA",earthquake,0.21,0.3,0.06,6,automatic,nc,nc
+2022-10-13T21:40:08.620Z,38.8371658,-122.7779999,1.02,0.46,md,8,94,0.005571,0.02,nc,nc73793156,2022-10-13T21:41:43.946Z,"5km WNW of Cobb, CA",earthquake,0.38,0.45,0.4,2,automatic,nc,nc
 2022-10-13T21:35:33.120Z,38.7916679,-122.769165,1.17,0.36,md,9,133,0.0116,0.02,nc,nc73793151,2022-10-13T21:37:08.923Z,"2km NW of The Geysers, CA",earthquake,0.47,0.78,,1,automatic,nc,nc
 2022-10-13T21:17:31.290Z,33.6421667,-117.019,12.67,1.23,ml,42,40,0.01115,0.15,ci,ci40360600,2022-10-13T21:28:17.160Z,"9km SE of Winchester, CA",earthquake,0.22,0.36,0.2,26,automatic,ci,ci
 2022-10-13T21:05:10.520Z,32.7776667,-115.8365,1.95,1.24,ml,9,133,0.1486,0.13,ci,ci40360592,2022-10-13T21:08:44.494Z,"15km ENE of Ocotillo, CA",earthquake,0.28,0.64,0.392,12,automatic,ci,ci
@@ -122,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T10:44:21.881Z,62.9965,-149.278,65.8,1.7,ml,,,,0.83,ak,ak022d55x2h2,2022-10-13T10:47:33.865Z,"47 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-13T10:41:17.240Z,17.8505,-66.8846666666667,12.16,2.56,md,4,304,,0.04,pr,pr71376653,2022-10-13T12:00:56.070Z,"13 km S of Guánica, Puerto Rico",earthquake,1.52,1.7,0.0980899105643322,3,reviewed,pr,pr
 2022-10-13T10:34:51.079Z,36.46433333,-98.76216667,7.41,0.98,ml,37,82,0.03419329011,0.13,ok,ok2022ubni,2022-10-13T13:23:01.143Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.2,0.24,12,reviewed,ok,ok
-2022-10-13T10:32:23.580Z,34.1993333,-119.013,15.71,1.54,ml,26,121,0.09361,0.29,ci,ci40360320,2022-10-13T10:43:09.720Z,"3km SE of Camarillo, CA",earthquake,0.74,0.68,0.187,27,automatic,ci,ci
+2022-10-13T10:32:23.500Z,34.198,-119.0083333,14.17,1.54,ml,28,94,0.02233,0.2,ci,ci40360320,2022-10-13T21:46:40.380Z,"3km SE of Camarillo, CA",earthquake,0.39,0.51,0.145,21,reviewed,ci,ci
 2022-10-13T10:25:13.990Z,44.8025,-110.8028333,6.56,0.7,ml,11,213,0.03678,0.14,uu,uu60520307,2022-10-13T16:03:22.930Z,"Wyoming",earthquake,0.68,1.06,0.402,2,reviewed,uu,uu
 2022-10-13T10:21:59.140Z,44.7961667,-110.8036667,6.32,-0.09,md,9,210,0.03425,0.11,uu,uu60520302,2022-10-13T15:59:13.620Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.77,0.93,0.159,5,reviewed,uu,uu
 2022-10-13T10:19:10.130Z,44.7881667,-110.8068333,8.98,2.22,ml,24,100,0.03109,0.19,uu,uu60520297,2022-10-13T15:57:06.920Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.51,0.9,0.296,7,reviewed,uu,uu
@@ -275,9 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-12T22:03:57.060Z,38.7900009,-122.7711639,1.53,0.36,md,6,166,0.01347,0.04,nc,nc73792856,2022-10-12T22:05:31.254Z,"2km NW of The Geysers, CA",earthquake,0.75,1.31,,1,automatic,nc,nc
 2022-10-12T21:55:12.241Z,58.2671,-154.9416,5.3,0.3,ml,,,,0.35,ak,ak022d3ozts7,2022-10-13T17:45:09.520Z,"82 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-12T21:54:40.560Z,38.7939987,-122.809166,3.07,1.39,md,29,77,0.007401,0.04,nc,nc73792836,2022-10-12T22:56:13.445Z,"5km WNW of The Geysers, CA",earthquake,0.24,0.44,0.02,6,automatic,nc,nc
-2022-10-12T21:52:27.030Z,38.7958336,-122.8108368,4,0.56,md,14,86,0.009646,0.02,nc,nc73792826,2022-10-12T21:54:01.021Z,"5km WNW of The Geysers, CA",earthquake,0.4,1.16,0.34,2,automatic,nc,nc
-2022-10-12T21:52:15.259Z,35.9475,-97.883,4.98,1.42,ml,61,43,0.08548322528,0.26,ok,ok2022uaoe,2022-10-13T19:03:26.175Z,"4 km SE of Dover, Oklahoma",earthquake,,0.6,0.24,6,reviewed,ok,ok
-2022-10-12T21:50:57.550Z,17.7061,-63.507,43,3.94,md,18,223,0.5528,0.28,pr,pr2022285001,2022-10-13T00:22:13.040Z,"28 km WNW of The Bottom, Bonaire, Saint Eustatius and Saba ",earthquake,1.28,2.78,0.11,14,reviewed,pr,pr
-2022-10-12T21:50:14.070Z,38.7943344,-122.8098297,3.23,0.83,md,23,76,0.007994,0.03,nc,nc73792821,2022-10-12T21:51:51.118Z,"5km WNW of The Geysers, CA",earthquake,0.28,0.54,0.28,4,automatic,nc,nc
-2022-10-12T21:48:28.400Z,51.8836666666667,-177.834166666667,3.33,1.35,ml,6,250,,0.08,av,av91074508,2022-10-13T17:48:03.840Z,"82 km W of Adak, Alaska",earthquake,0.49,0.4,0.211095239906183,6,reviewed,av,av
-2022-10-12T21:45:20.100Z,38.7944984,-122.8098297,3.27,1.27,md,28,76,0.008117,0.03,nc,nc73792811,2022-10-12T21:54:11.083Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.44,0.09,6,automatic,nc,nc
