@@ -8,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T08:58:02.264Z,63.1386,-150.4663,98.6,1.7,ml,,,,0.64,ak,ak022dtxvd6q,2022-10-28T09:00:24.715Z,"73 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-28T08:49:40.760Z,37.4295006,-118.8378296,5.22,1.1,md,9,224,0.1604,0.02,nc,nc73800196,2022-10-28T09:07:13.621Z,"20km SW of Toms Place, CA",earthquake,1.25,6.28,0.07,7,automatic,nc,nc
 2022-10-28T08:37:30.516Z,38.1447,-117.9562,5.1,1.1,ml,9,131.65,0.006,0.0802,nn,nn00850193,2022-10-28T08:40:39.987Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.35,3,automatic,nn,nn
-2022-10-28T08:20:17.736Z,38.1463,-117.9023,8,1.2,ml,8,159.52,0.046,0.0727,nn,nn00850192,2022-10-28T08:23:19.221Z,"Nevada",earthquake,,0.5,0.5,5,automatic,nn,nn
-2022-10-28T08:12:26.654Z,35.43352509,-97.91464233,5.269155979,1.92,ml,12,70.51290131,0.04310899973,0.8715374128,ok,ok2022vcte,2022-10-28T08:14:46.758Z,"Oklahoma",earthquake,3.660081125,3.865902697,,8,automatic,ok,ok
+2022-10-28T08:20:17.736Z,38.1463,-117.9023,8,1.2,ml,8,159.52,0.046,0.0727,nn,nn00850192,2022-10-28T08:23:19.221Z,"32 km SSE of Mina, Nevada",earthquake,,0.5,0.5,5,automatic,nn,nn
+2022-10-28T08:12:26.654Z,35.43352509,-97.91464233,5.269155979,1.92,ml,12,70.51290131,0.04310899973,0.8715374128,ok,ok2022vcte,2022-10-28T08:14:46.758Z,"5 km NNE of Union City, Oklahoma",earthquake,3.660081125,3.865902697,,8,automatic,ok,ok
 2022-10-28T08:05:27.130Z,37.6121674,-118.8588333,2.51,1.07,md,11,137,0.007558,0.01,nc,nc73800191,2022-10-28T08:30:13.410Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.4,0.76,0.09,12,automatic,nc,nc
 2022-10-28T07:57:21.740Z,19.4926662445068,-155.57600402832,-3.72000002861023,2.08,ml,23,51,,0.300000012,hv,hv73198062,2022-10-28T08:02:52.050Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.479999989,2.89,8,automatic,hv,hv
 2022-10-28T07:53:19.180Z,35.9876667,-117.6595,-0.08,1,ml,9,213,0.1212,0.19,ci,ci40126071,2022-10-28T07:56:51.548Z,"23km ENE of Little Lake, CA",earthquake,1.25,31.61,0.106,9,automatic,ci,ci
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T19:33:33.400Z,46.84883333333333,-121.90483333333333,8.18,0.64,ml,18,83,0.03105,0.08,uw,uw61890321,2022-10-28T04:53:16.180Z,"Washington",earthquake,0.27,0.43,0.12480525157264022,12,reviewed,uw,uw
 2022-10-27T19:27:46.860Z,38.8133316,-122.8171692,1.67,0.57,md,19,52,0.01039,0.03,nc,nc73799861,2022-10-27T19:38:09.576Z,"7km NW of The Geysers, CA",earthquake,0.22,0.49,0.27,3,automatic,nc,nc
 2022-10-27T19:20:58.550Z,33.5093333,-116.5435,12.18,0.61,ml,31,45,0.04916,0.14,ci,ci40125783,2022-10-27T20:24:57.666Z,"13km ESE of Anza, CA",earthquake,0.17,0.35,0.137,11,reviewed,ci,ci
-2022-10-27T19:14:47.130Z,39.8623,-120.4708,8.5,1.4,ml,15,208.54,0.086,0.16,nn,nn00850185,2022-10-28T00:22:38.392Z,"1 km SSE of Lake Davis, California",earthquake,,1.3,0.13,7,reviewed,nn,nn
+2022-10-27T19:14:47.130Z,39.8623,-120.4708,8.5,1.4,ml,15,208.54,0.086,0.16,nn,nn00850185,2022-10-28T00:22:38.392Z,"Northern California",earthquake,,1.3,0.13,7,reviewed,nn,nn
 2022-10-27T19:12:29.720Z,37.6091652,-118.8601685,2.54,1.61,md,14,144,0.01006,0.02,nc,nc73799856,2022-10-27T22:39:15.687Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.41,0.67,0.09,15,automatic,nc,nc
 2022-10-27T19:06:08.810Z,64.9972,-147.4218,8.2,1.6,ml,,,,0.3,ak,ak022dsgknm9,2022-10-27T19:08:13.741Z,"10 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-27T18:58:53.330Z,37.6101685,-118.8601685,2.3,1.46,md,14,141,0.009082,0.02,nc,nc73799851,2022-10-27T19:48:16.635Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.37,0.65,0.12,14,automatic,nc,nc
@@ -153,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T16:51:14.760Z,-15.7651,-177.4699,426.895,4.4,mb,69,73,1.58,0.69,us,us7000ikrd,2022-10-27T21:57:45.040Z,"175 km SSE of Alo, Wallis and Futuna",earthquake,11.49,3.955,0.066,70,reviewed,us,us
 2022-10-27T16:37:18.480Z,34.54816667,-97.37833333,4.12,2.22,ml,76,56,0.01079788109,0.35,ok,ok2022vboi,2022-10-27T16:52:45.694Z,"Oklahoma",earthquake,,0.6,0.26,26,reviewed,ok,ok
 2022-10-27T16:26:36.300Z,38.836834,-122.7948303,2.15,0.85,md,15,72,0.00384,0.02,nc,nc73799806,2022-10-27T18:15:18.196Z,"6km WNW of Cobb, CA",earthquake,0.27,0.64,,1,automatic,nc,nc
-2022-10-27T16:22:25.120Z,18.9193,-68.7746,156,3.67,md,13,201,0.5648,0.49,pr,pr2022300002,2022-10-28T00:07:35.490Z,"29 km ESE of Miches, Dominican Republic",earthquake,9.57,2.09,0.08,6,reviewed,pr,pr
+2022-10-27T16:22:25.120Z,18.9193,-68.7746,156,3.67,md,13,201,0.5648,0.49,pr,pr2022300002,2022-10-28T00:07:35.490Z,"Mona Passage",earthquake,9.57,2.09,0.08,6,reviewed,pr,pr
 2022-10-27T16:18:32.910Z,32.374,-115.2268333,14.97,2.12,ml,19,167,0.08019,0.28,ci,ci40125687,2022-10-27T18:40:26.440Z,"4km WNW of Delta, B.C., MX",earthquake,0.6,0.77,0.226,15,reviewed,ci,ci
 2022-10-27T16:12:08.880Z,38.7796669,-122.7248306,0.94,0.7,md,7,138,0.009957,0.01,nc,nc73799801,2022-10-27T17:04:12.629Z,"3km E of The Geysers, CA",earthquake,0.55,1.55,0.17,2,automatic,nc,nc
 2022-10-27T16:09:20.727Z,36.3214,-117.8835,0,1.3,ml,5,136.69,0.198,0.1112,nn,nn00850180,2022-10-27T23:51:37.808Z,"11 km ENE of Olancha, California",earthquake,,0,0,1,reviewed,nn,nn
@@ -218,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T10:13:11.100Z,36.551,-89.6845,9.19,2.81,md,68,22,0.0244,0.11,nm,nm60414366,2022-10-28T03:24:31.473Z,"6 km SSE of Catron, Missouri",earthquake,0.16,0.29,0.109,62,reviewed,nm,nm
 2022-10-27T10:10:51.522Z,46.628,152.6513,50.185,5.2,mww,93,124,6.799,1.06,us,us7000ikmy,2022-10-27T10:28:12.040Z,"Kuril Islands",earthquake,8.07,6.372,0.093,11,reviewed,us,us
 2022-10-27T09:58:33.906Z,58.2438,-155.1168,1.1,0.8,ml,,,,0.42,ak,ak022dsaxiqm,2022-10-28T00:02:39.170Z,"84 km NNW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2022-10-27T09:53:40.749Z,63.9587,-149.7942,11.8,1.8,ml,,,,0.38,ak,ak022dsawgoq,2022-10-27T09:56:24.011Z,"33 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-10-27T09:50:42.840Z,41.2795,-122.0828333,6.82,2.16,md,33,60,0.02998,0.14,nc,nc73799711,2022-10-28T01:14:12.690Z,"5km ENE of McCloud, CA",earthquake,0.23,0.42,0.166,33,reviewed,nc,nc
