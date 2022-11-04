@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-04T07:43:20.880Z,19.4928340911865,-155.661499023438,-2.42000007629395,3.54,ml,44,62,,0.280000001,hv,hv73207067,2022-11-04T07:49:55.587Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.349999994,3.92,32,automatic,hv,hv
-2022-11-04T07:39:04.800Z,19.4678325653076,-155.592666625977,-1.4099999666214,1.94,ml,12,79,,0.170000002,hv,hv73207052,2022-11-04T07:50:19.710Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.280000001,0.07,3,automatic,hv,hv
+2022-11-04T07:55:30.470Z,38.7866669,-122.7683334,1.6,1.23,md,28,81,0.01548,0.04,nc,nc73803026,2022-11-04T07:58:20.601Z,"2km NW of The Geysers, CA",earthquake,0.22,0.39,0.07,5,automatic,nc,nc
+2022-11-04T07:43:21.420Z,19.5023333333333,-155.662,3.74,3.74,ml,54,47,,0.13,hv,hv73207067,2022-11-04T07:59:09.480Z,"21 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.4,0.161668146340322,35,reviewed,hv,hv
+2022-11-04T07:39:04.800Z,19.4678325653076,-155.592666625977,-1.4099999666214,1.94,ml,12,79,,0.170000002,hv,hv73207052,2022-11-04T07:59:30.395Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.280000001,0.07,3,automatic,hv,hv
 2022-11-04T07:34:58.447Z,-20.9605,-178.7072,537.006,5.1,mb,104,44,3.279,0.64,us,us7000img0,2022-11-04T07:51:04.040Z,"Fiji region",earthquake,8.75,6.397,0.091,39,reviewed,us,us
 2022-11-04T07:32:51.080Z,35.6158333,-117.2311667,0.2,1.04,ml,9,195,0.1416,0.29,ci,ci40128911,2022-11-04T07:36:32.240Z,"21km SE of Trona, CA",earthquake,1.17,31.61,0.22,9,automatic,ci,ci
 2022-11-04T07:29:26.790Z,33.5888333,-116.8145,6.23,0.32,ml,14,76,0.04235,0.21,ci,ci40128903,2022-11-04T07:32:58.710Z,"14km WNW of Anza, CA",earthquake,0.57,0.68,0.093,7,automatic,ci,ci
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T05:02:15.420Z,19.1788330078125,-155.475494384766,35.0800018310547,2,md,38,152,,0.129999995,hv,hv73206927,2022-11-04T05:05:38.370Z,"2 km S of Pāhala, Hawaii",earthquake,0.77,1.23000002,0.680000007,11,automatic,hv,hv
 2022-11-04T04:47:17.990Z,34.1676667,-117.4746667,10.44,2.11,ml,72,26,0.04638,0.18,ci,ci40128871,2022-11-04T04:59:00.201Z,"8km N of Fontana, CA",earthquake,0.17,0.43,0.148,24,automatic,ci,ci
 2022-11-04T04:29:49.274Z,61.494,-151.6219,100.1,2,ml,,,,0.76,ak,ak022e5g2y33,2022-11-04T04:31:53.221Z,"48 km NW of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-11-04T04:26:11.225Z,13.1868,-89.5773,56.579,5.7,mww,75,129,0.481,1.44,us,us7000imeu,2022-11-04T07:12:22.069Z,"43 km SW of La Libertad, El Salvador",earthquake,5.11,4.491,0.032,94,reviewed,us,us
+2022-11-04T04:26:11.225Z,13.1868,-89.5773,56.579,5.7,mww,75,129,0.481,1.44,us,us7000imeu,2022-11-04T07:54:27.325Z,"43 km SW of La Libertad, El Salvador",earthquake,5.11,4.491,0.032,94,reviewed,us,us
 2022-11-04T04:07:33.000Z,38.8356667,-122.8006668,2.17,0.36,md,8,99,0.008514,0.01,nc,nc73802951,2022-11-04T04:39:14.039Z,"7km WNW of Cobb, CA",earthquake,0.51,1.71,,1,automatic,nc,nc
 2022-11-04T04:02:39.720Z,38.8359985,-122.8030014,2.36,1.44,md,25,59,0.01374,0.03,nc,nc73802946,2022-11-04T07:32:11.072Z,"7km WNW of Cobb, CA",earthquake,0.21,0.46,0.07,5,automatic,nc,nc
 2022-11-04T03:52:34.924Z,75.7809,-104.1054,10,4.7,mb,50,130,7.704,0.64,us,us7000imej,2022-11-04T04:12:49.040Z,"Bathurst Island region, Nunavut, Canada",earthquake,11.22,0.848,0.038,210,reviewed,us,us
@@ -213,6 +214,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T08:19:13.130Z,58.2351666666667,-155.1825,4.3,0.35,ml,8,129,,0.1,av,av91708566,2022-11-04T00:28:20.100Z,"85 km NNW of Karluk, Alaska",earthquake,0.36,0.55,0.24784013779742,8,reviewed,av,av
 2022-11-03T08:13:56.760Z,44.7966667,-110.7925,6.52,0,md,8,213,0.04213,0.07,uu,uu60523152,2022-11-03T13:22:31.000Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.75,1.07,0.148,5,reviewed,uu,uu
 2022-11-03T08:11:12.910Z,18.0268333333333,-66.7703333333333,15.81,2.11,md,16,94,0.01399,0.13,pr,pr71380653,2022-11-03T09:46:29.680Z,"1 km N of Magas Arriba, Puerto Rico",earthquake,0.37,0.55,0.17008753852529,10,reviewed,pr,pr
-2022-11-03T08:08:54.230Z,19.4945,-155.672,-2.9,2.67,ml,37,65,,0.18,hv,hv73205772,2022-11-04T07:48:28.182Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.23,0.2,0.149417428835587,21,reviewed,hv,hv
+2022-11-03T08:08:54.230Z,19.4945,-155.672,-2.9,2.67,ml,37,65,,0.18,hv,hv73205772,2022-11-04T07:53:55.194Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.23,0.2,0.149417428835587,21,reviewed,hv,hv
 2022-11-03T08:01:30.258Z,58.23,-155.2069,0,0.8,ml,,,,0.36,ak,ak022e3uraht,2022-11-04T00:25:13.100Z,"86 km NNW of Karluk, Alaska",earthquake,,90.7,,,automatic,ak,ak
 2022-11-03T08:00:00.800Z,43.73883333333333,-121.2845,-1.07,-0.06,ml,5,144,0.006874,0.1,uw,uw61890946,2022-11-03T17:33:50.770Z,"Oregon",earthquake,0.28,0.43,0.2553801077495087,3,reviewed,uw,uw
