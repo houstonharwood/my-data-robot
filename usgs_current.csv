@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-09T17:39:50.460Z,33.2176666,-116.7474976,11.23,1.26,ml,23,53,0.02056,0.17,ci,ci40130447,2022-11-09T17:41:55.822Z,"3km SSE of Lake Henshaw, CA",earthquake,0.33,0.74,0.144,4,automatic,ci,ci
+2022-11-09T17:39:50.520Z,33.2118333,-116.7291667,11.3,0.95,ml,25,71,0.03457,0.23,ci,ci40130447,2022-11-09T17:43:23.383Z,"5km SE of Lake Henshaw, CA",earthquake,0.46,0.97,0.187,18,automatic,ci,ci
 2022-11-09T17:16:31.686Z,62.9491,-150.8237,109.2,1.7,ml,,,,0.19,ak,ak022edxfhr4,2022-11-09T17:18:23.512Z,"50 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-11-09T17:15:32.840Z,38.7876663,-122.7669983,2.49,0.79,md,16,78,0.01414,0.03,nc,nc73803090,2022-11-09T17:26:11.092Z,"2km NW of The Geysers, CA",earthquake,0.28,0.61,0.24,4,automatic,nc,nc
+2022-11-09T17:15:32.840Z,38.7876663,-122.7669983,2.49,0.79,md,16,78,0.01414,0.03,nc,nc73803090,2022-11-09T17:44:13.080Z,"2km NW of The Geysers, CA",earthquake,0.28,0.61,0.24,4,automatic,nc,nc
 2022-11-09T17:08:35.750Z,17.9825,-66.973,12.48,1.85,md,5,166,0.06902,0.07,pr,pr71381538,2022-11-09T17:26:47.920Z,"6 km W of Fuig, Puerto Rico",earthquake,0.66,0.9,0.138973339274099,4,reviewed,pr,pr
 2022-11-09T16:58:17.040Z,17.9546666666667,-66.9106666666667,10.42,2.51,md,18,200,0.01755,0.25,pr,pr71381533,2022-11-09T17:13:23.590Z,"1 km S of Guánica, Puerto Rico",earthquake,0.71,0.46,0.13222602257867,11,reviewed,pr,pr
 2022-11-09T16:55:16.890Z,37.9129982,-122.0821686,12.79,1.37,md,13,103,0.05613,0.04,nc,nc73803085,2022-11-09T17:23:16.951Z,"2km WNW of Walnut Creek, CA",earthquake,0.39,0.82,0.22,8,automatic,nc,nc
@@ -125,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-09T00:57:15.556Z,30.0411,80.385,25.742,4.3,mb,19,170,4.836,0.94,us,us7000ine2,2022-11-09T08:45:20.318Z,"western Xizang-India border region",earthquake,7.63,7.607,0.189,8,reviewed,us,us
 2022-11-09T00:55:39.190Z,19.1808338165283,-155.387664794922,31.9500007629395,2.23,ml,41,167,,0.129999995,hv,hv73213667,2022-11-09T01:01:10.320Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.62,0.910000026,5.17,3,automatic,hv,hv
 2022-11-09T00:50:05.600Z,46.077333333333335,-122.47766666666666,10.36,1.35,ml,16,90,0.1358,0.19,uw,uw61893471,2022-11-09T05:48:24.780Z,"18 km N of Amboy, Washington",earthquake,0.55,1.55,0.11908745422191702,9,reviewed,uw,uw
+2022-11-09T00:48:44.139Z,31.67695925,-104.4124201,6.74855957,2.2,ml,40,65,0.02668228011,0.2,tx,tx2022vyco,2022-11-09T17:43:48.163Z,"55 km S of Whites City, New Mexico",earthquake,0.8987781897,0.8289281043,0.1,24,reviewed,tx,tx
 2022-11-09T00:46:57.550Z,33.3116667,-116.7548333,16.22,1.91,ml,54,35,0.07555,0.13,ci,ci40130287,2022-11-09T01:13:34.850Z,"8km N of Lake Henshaw, CA",earthquake,0.14,0.39,0.178,26,reviewed,ci,ci
 2022-11-09T00:46:54.500Z,46.194833333333335,-122.182,0.83,0.74,ml,15,88,0.005893,0.08,uw,uw61893466,2022-11-09T05:35:10.950Z,"Mount St. Helens area, Washington",earthquake,0.34,0.2,0.30273050981233673,12,reviewed,uw,uw
 2022-11-09T00:44:46.110Z,38.8014984,-122.770668,0.11,0.9,md,11,78,0.008605,0.03,nc,nc73802875,2022-11-09T01:02:14.831Z,"3km NNW of The Geysers, CA",earthquake,0.25,0.53,0.3,2,automatic,nc,nc
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-08T18:21:19.310Z,38.8356667,-122.8193359,2.86,0.64,md,7,154,0.01295,0.01,nc,nc73802805,2022-11-08T20:13:14.054Z,"8km W of Cobb, CA",earthquake,0.84,1.22,,1,automatic,nc,nc
 2022-11-08T18:04:47.987Z,-21.182,-67.4908,178.062,4.1,mb,25,128,1.742,0.83,us,us7000inc5,2022-11-08T18:35:09.040Z,"105 km SW of Uyuni, Bolivia",earthquake,4.49,11.764,0.261,4,reviewed,us,us
 2022-11-08T17:56:22.278Z,31.66575394,-104.3681787,6.491479492,2.8,ml,32,57,0.05527485104,0.3,tx,tx2022vxoy,2022-11-08T19:17:16.040Z,"56 km S of Whites City, New Mexico",earthquake,0.7637033628,0.8068127087,0.2,19,reviewed,tx,tx
-2022-11-08T17:47:03.182Z,31.66152776,-104.3067812,7.005639647999999,2.3,ml,20,67,0.03710423214,0.3,tx,tx2022vxoq,2022-11-08T20:48:04.362Z,"57 km S of Whites City, New Mexico",earthquake,0.9619578024,0.8372953186999998,0.2,15,reviewed,tx,tx
