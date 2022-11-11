@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-11T19:31:56.760Z,33.8191681,-117.484169,1.15,1.39,ml,20,75,0.03265,0.2,ci,ci40131191,2022-11-11T19:34:01.972Z,"7km SSE of Home Gardens, CA",earthquake,0.76,0.6,0.27,6,automatic,ci,ci
 2022-11-11T19:22:13.680Z,33.3556667,-116.3231667,8.63,0.65,ml,14,101,0.01318,0.17,ci,ci40131175,2022-11-11T19:25:46.940Z,"12km NNE of Borrego Springs, CA",earthquake,0.38,0.51,0.12,12,automatic,ci,ci
 2022-11-11T19:19:42.813Z,37.0844,-117.858,10.2,1.1,ml,8,260.98,0.225,0.4996,nn,nn00851118,2022-11-11T19:23:03.075Z,"39 km ESE of Big Pine, California",earthquake,,0.8,0.8,4,automatic,nn,nn
 2022-11-11T19:12:39.600Z,35.5143333,-118.1983333,10.24,0.73,ml,12,104,0.05227,0.18,ci,ci40131159,2022-11-11T19:16:08.323Z,"27km ESE of Lake Isabella, CA",earthquake,0.43,1.27,0.115,7,automatic,ci,ci
@@ -77,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-11T09:40:06.750Z,33.3545,-116.2723333,6.82,0.97,ml,31,89,0.03216,0.2,ci,ci40131007,2022-11-11T19:19:33.341Z,"14km NE of Borrego Springs, CA",earthquake,0.33,0.44,0.127,22,reviewed,ci,ci
 2022-11-11T09:30:36.350Z,19.1513333333333,-66.4856666666667,19.3,3.12,md,14,268,0.8363,0.13,pr,pr71381873,2022-11-11T10:04:53.880Z,"76 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.75,3.32,0.0518734476780442,4,reviewed,pr,pr
 2022-11-11T09:23:00.800Z,46.84883333333333,-121.767,-2.61,0.6900000000000001,ml,24,68,0.01793,0.1,uw,uw61893921,2022-11-11T17:32:44.790Z,"22 km ENE of Ashford, Washington",earthquake,0.15,0.33,0.16797977249642593,13,reviewed,uw,uw
-2022-11-11T09:19:50.534Z,62.5457,-150.9877,73.8,3.7,ml,,,,0.41,ak,ak022eh3regx,2022-11-11T15:09:23.464Z,"12 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-11T09:19:50.534Z,62.5457,-150.9877,73.8,3.7,ml,,,,0.41,ak,ak022eh3regx,2022-11-11T19:25:47.834Z,"12 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-11T09:17:59.711Z,61.1358,-147.2565,11.8,1.6,ml,,,,0.43,ak,ak022eh3qzs3,2022-11-11T09:20:04.503Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-11T09:10:10.530Z,33.471,-116.7835,2.43,0.71,ml,32,35,0.0436,0.14,ci,ci40130999,2022-11-11T19:15:26.010Z,"8km ENE of Aguanga, CA",earthquake,0.15,0.23,0.078,21,reviewed,ci,ci
 2022-11-11T09:08:26.210Z,44.7856667,-111.2316667,11.85,1.06,ml,15,157,0.04306,0.15,uu,uu60524632,2022-11-11T16:09:46.610Z,"3 km WNW of Hebgen Lake Estates, Montana",earthquake,0.52,0.33,0.339,2,reviewed,uu,uu
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T19:56:32.350Z,35.5165,-118.188,9.27,0.95,ml,26,61,0.04376,0.13,ci,ci40130823,2022-11-10T21:19:34.013Z,"28km ESE of Lake Isabella, CA",earthquake,0.18,0.49,0.118,14,reviewed,ci,ci
 2022-11-10T19:43:23.880Z,46.967166666666664,-122.25416666666666,-0.4,1.35,ml,18,284,0.03107,0.16,uw,uw61893796,2022-11-10T20:42:54.260Z,"Washington",explosion,0.66,31.61,0.09043042341102914,10,reviewed,uw,uw
 2022-11-10T19:37:06.430Z,33.223,-117.1638333,-0.39,1.08,ml,18,93,0.06786,0.24,ci,ci40130807,2022-11-10T21:19:02.243Z,"8km ENE of Vista, CA",quarry blast,0.63,31.61,0.143,8,reviewed,ci,ci
-2022-11-10T19:31:48.140Z,51.8591666666667,-177.828166666667,2.64,1.37,ml,4,236,,0.07,av,av91713631,2022-11-11T02:05:50.590Z,"82 km W of Adak, Alaska",earthquake,0.54,1.19,0.34596992085397,4,reviewed,av,av
