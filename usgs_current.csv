@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T10:18:31.335Z,-17.4002,-178.4,585.55,4.4,mb,26,120,3.401,0.26,us,us7000iqz1,2022-11-19T10:47:39.040Z,"253 km ENE of Levuka, Fiji",earthquake,11.09,10.606,0.126,21,reviewed,us,us
 2022-11-19T10:07:09.853Z,61.3005,-149.3454,34.6,1.2,ml,,,,0.17,ak,ak022euckybt,2022-11-19T10:09:16.783Z,"12 km E of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-19T10:07:05.830Z,33.1731667,-116.007,2.99,0.93,ml,17,96,0.02454,0.17,ci,ci40378024,2022-11-19T10:23:31.747Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.38,0.37,0.059,17,automatic,ci,ci
-2022-11-19T10:03:52.362Z,31.63133636,-104.0013175,7.532653809,4.014836064,mlv,53,30,0.01817197667,0.2,tx,tx2022wrbx,2022-11-19T12:48:10.558Z,"38 km WSW of Mentone, Texas",earthquake,0.4376030942,0.56575653,0.2050792841,37,reviewed,tx,tx
+2022-11-19T10:03:52.362Z,31.63133636,-104.0013175,7.532653809,4,ml,53,30,0.01817197667,0.2,tx,tx2022wrbx,2022-11-19T15:56:01.199Z,"38 km WSW of Mentone, Texas",earthquake,0.4376030942,0.56575653,0.2,29,reviewed,tx,tx
 2022-11-19T09:53:11.550Z,33.6223333,-116.729,17.77,2.02,ml,59,35,0.04092,0.19,ci,ci40378016,2022-11-19T10:04:06.590Z,"9km NW of Anza, CA",earthquake,0.2,0.35,0.303,26,automatic,ci,ci
 2022-11-19T09:46:37.760Z,34.0346667,-117.2365,12.11,2.34,ml,91,24,0.08761,0.21,ci,ci40378000,2022-11-19T09:50:21.442Z,"3km ESE of Loma Linda, CA",earthquake,0.2,0.55,0.117,24,automatic,ci,ci
 2022-11-19T09:46:37.600Z,34.0308342,-117.2269974,12.7,2.31,ml,74,132,0.08765,0.21,ci,ci40378008,2022-11-19T09:57:35.750Z,"4km ESE of Loma Linda, CA",earthquake,0.33,0.64,0.264,5,automatic,ci,ci
@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T15:58:09.490Z,38.840332,-122.8330002,1.79,0.65,md,17,109,0.002608,0.03,nc,nc73808881,2022-11-18T18:41:16.658Z,"10km NW of The Geysers, CA",earthquake,0.26,0.39,,4,automatic,nc,nc
 2022-11-18T15:58:04.340Z,33.9718333,-116.8735,19.54,0.93,ml,25,57,0.08348,0.07,ci,ci40377600,2022-11-19T01:02:22.243Z,"5km N of Banning, CA",earthquake,0.13,0.34,0.174,18,reviewed,ci,ci
 2022-11-18T15:58:03.220Z,38.8443336,-122.8148346,1.17,1.78,md,13,84,0.01227,0.02,nc,nc73808876,2022-11-18T18:14:13.483Z,"8km WNW of Cobb, CA",earthquake,0.26,0.6,,1,automatic,nc,nc
-2022-11-18T15:57:38.660Z,37.1398333,-121.519,7.08,0.82,md,15,59,0.07087,0.08,nc,nc73808886,2022-11-19T01:37:10.138Z,"10km NE of San Martin, CA",earthquake,0.3,0.86,0.134,15,reviewed,nc,nc
