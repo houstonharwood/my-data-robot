@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T05:08:00.790Z,34.1783333,-116.4448333,9.99,0.72,ml,14,78,0.03724,0.12,ci,ci40378736,2022-11-21T05:11:38.543Z,"7km N of Yucca Valley, CA",earthquake,0.37,0.55,0.125,10,automatic,ci,ci
 2022-11-21T05:00:11.236Z,36.82529068,-97.83661652,2.334994555,2.03,ml,8,194.4573059,0.09707739949,1.066905772,ok,ok2022wuix,2022-11-21T05:01:58.262Z,"9 km WNW of Medford, Oklahoma",earthquake,12.04248838,4.853350764,,6,automatic,ok,ok
 2022-11-21T04:56:17.191Z,63.3872,-149.4005,81.4,1.9,ml,,,,0.98,ak,ak022exkdkc7,2022-11-21T04:58:31.021Z,"22 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-11-21T04:51:46.730Z,17.9386666666667,-66.9643333333333,11.83,2.34,md,6,227,0.08197,0.07,pr,pr71383393,2022-11-21T06:08:35.530Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.65,0.92,0.0431199841585088,5,reviewed,pr,pr
 2022-11-21T04:45:01.644Z,63.6701,-149.4198,34.1,1.6,ml,,,,0.88,ak,ak022exkb69g,2022-11-21T04:46:58.844Z,"25 km WSW of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-21T04:33:33.390Z,38.8264999,-122.8030014,1.71,1.05,md,21,42,0.006335,0.01,nc,nc73809871,2022-11-21T05:20:12.805Z,"7km NW of The Geysers, CA",earthquake,0.21,0.38,0.17,5,automatic,nc,nc
 2022-11-21T04:31:24.290Z,38.8258324,-122.7971649,2.83,0.21,md,7,112,0.01037,0.01,nc,nc73809866,2022-11-21T05:10:13.745Z,"6km W of Cobb, CA",earthquake,0.51,0.9,0.14,2,automatic,nc,nc
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T22:06:57.120Z,46.12866666666667,-122.1635,5.4,0.48,ml,16,101,0.008272,0.2,uw,uw61886482,2022-11-21T03:51:02.860Z,"Mount St. Helens area, Washington",earthquake,0.8,0.84,0.22320566952571935,12,reviewed,uw,uw
 2022-11-20T22:05:46.470Z,17.9603333333333,-66.9578333333333,6.93,1.81,md,5,199,0.07621,0.04,pr,pr71383388,2022-11-20T22:31:23.370Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.43,0.98,0.185995528924936,2,reviewed,pr,pr
 2022-11-20T21:57:00.013Z,64.1989,-149.9817,32.2,1.2,ml,,,,0.61,ak,ak022ew6yrip,2022-11-20T21:58:55.298Z,"39 km W of Clear, Alaska, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-11-20T21:45:57.662Z,58.1677,-155.3851,0,0.3,ml,,,,0.47,ak,ak022ew6wbdi,2022-11-20T21:46:58.271Z,"86 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-20T21:45:57.662Z,58.1677,-155.3851,0,0.3,ml,,,,0.47,ak,ak022ew6wbdi,2022-11-20T21:46:58.271Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2022-11-20T21:39:51.170Z,38.8011665,-122.7994995,2.57,1.2,md,23,54,0.007542,0.02,nc,nc73809721,2022-11-21T00:35:17.139Z,"5km NW of The Geysers, CA",earthquake,0.23,0.43,0.04,4,automatic,nc,nc
 2022-11-20T21:35:19.520Z,37.643,-118.9106667,-2,-0.2,md,6,128,0.01107,0.04,nc,nc73809716,2022-11-20T23:31:39.852Z,"6km E of Mammoth Lakes, CA",earthquake,0.32,1.9,0.638,5,reviewed,nc,nc
 2022-11-20T21:28:00.126Z,62.521,-150.6138,68.5,1.6,ml,,,,0.62,ak,ak022ew6sjrg,2022-11-20T21:30:03.121Z,"8 km ENE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -152,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T14:03:09.955Z,58.5847,-153.8727,78.4,1.8,ml,,,,0.2,ak,ak022ew2h6dv,2022-11-20T14:05:22.327Z,"81 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-20T13:49:17.459Z,-10.4339,123.772,10,5.1,mww,76,63,0.832,0.5,us,us7000ir5k,2022-11-20T15:25:49.040Z,"34 km SSE of Kupang, Indonesia",earthquake,5.06,1.844,0.066,22,reviewed,us,us
 2022-11-20T13:46:20.490Z,34.4603333,-117.9536667,9.04,0.42,ml,7,116,0.01146,0.07,ci,ci40378488,2022-11-20T14:50:15.690Z,"7km SW of Pearblossom, CA",earthquake,0.41,0.49,0.08,5,reviewed,ci,ci
-2022-11-20T13:45:16.077Z,41.9643,-119.5453,0,0.2,ml,4,209.2,0.567,0.1137,nn,nn00851663,2022-11-20T18:36:33.760Z,"Nevada",earthquake,,2.3,0.66,2,reviewed,nn,nn
+2022-11-20T13:45:16.077Z,41.9643,-119.5453,0,0.2,ml,4,209.2,0.567,0.1137,nn,nn00851663,2022-11-20T18:36:33.760Z,"51 km ENE of Fort Bidwell, California",earthquake,,2.3,0.66,2,reviewed,nn,nn
 2022-11-20T13:44:34.620Z,33.5843333,-116.604,14.05,0.44,ml,21,45,0.01534,0.12,ci,ci37467492,2022-11-20T16:31:56.668Z,"7km ENE of Anza, CA",earthquake,0.24,0.42,0.124,4,reviewed,ci,ci
 2022-11-20T13:44:19.150Z,33.5891667,-116.6116667,15.75,0.4,ml,19,54,0.01587,0.13,ci,ci37467484,2022-11-20T16:11:09.276Z,"7km ENE of Anza, CA",earthquake,0.28,0.39,0.15,5,reviewed,ci,ci
 2022-11-20T13:44:15.090Z,33.5791667,-116.6088333,15.11,0.53,ml,33,43,0.02178,0.17,ci,ci40378480,2022-11-20T16:05:08.518Z,"7km ENE of Anza, CA",earthquake,0.22,0.38,0.169,10,reviewed,ci,ci
@@ -181,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T11:20:27.710Z,19.1871662139893,-155.494338989258,32.0699996948242,2.33999991,md,45,83,,0.119999997,hv,hv73229317,2022-11-20T11:23:50.570Z,"2 km SW of Pāhala, Hawaii",earthquake,0.51,0.860000014,1.88999999,23,automatic,hv,hv
 2022-11-20T11:11:21.375Z,36.5936,-116.2265,6.1,-0.1,ml,7,165.33,0.102,0.0858,nn,nn00851671,2022-11-20T21:20:48.506Z,"47 km NNW of Pahrump, Nevada",earthquake,,3.9,1.1,3,reviewed,nn,nn
 2022-11-20T11:09:10.697Z,36.595,-116.2279,7.6,-0.2,ml,14,141.47,0.102,0.1194,nn,nn00851670,2022-11-20T21:11:19.494Z,"48 km NNW of Pahrump, Nevada",earthquake,,2.1,1.56,6,reviewed,nn,nn
-2022-11-20T11:04:26.371Z,36.5933,-116.2284,7.8,0.2,ml,19,124.86,0.103,0.1092,nn,nn00851654,2022-11-20T21:17:40.083Z,"Nevada",earthquake,,1.3,0.86,8,reviewed,nn,nn
+2022-11-20T11:04:26.371Z,36.5933,-116.2284,7.8,0.2,ml,19,124.86,0.103,0.1092,nn,nn00851654,2022-11-20T21:17:40.083Z,"48 km NNW of Pahrump, Nevada",earthquake,,1.3,0.86,8,reviewed,nn,nn
 2022-11-20T11:03:12.923Z,-42.9281,-82.3365,10,4.9,mb,42,176,6.737,0.4,us,us7000ir51,2022-11-20T11:20:15.040Z,"West Chile Rise",earthquake,8.23,1.925,0.082,46,reviewed,us,us
 2022-11-20T10:59:27.140Z,32.9516667,-115.5353333,3.03,1.22,ml,14,99,0.05442,0.29,ci,ci40378456,2022-11-20T11:02:52.405Z,"3km S of Brawley, CA",earthquake,0.58,0.76,0.138,18,automatic,ci,ci
 2022-11-20T10:56:16.180Z,19.4608325958252,-155.600494384766,-1.52999997138977,1.88,ml,14,56,,0.340000004,hv,hv73229302,2022-11-20T11:01:48.060Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.76,0.389999986,0.17,4,automatic,hv,hv
@@ -234,9 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T06:29:58.350Z,60.0653,-141.5165,12.8,1.9,ml,,,,0.85,ak,ak022evxvdwb,2022-11-20T06:31:44.813Z,"115 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-20T06:29:54.710Z,38.8269997,-122.8251648,-0.49,0.36,md,5,141,0.008627,0.01,nc,nc73809531,2022-11-20T07:26:10.987Z,"8km NW of The Geysers, CA",earthquake,0.93,4.21,,1,automatic,nc,nc
 2022-11-20T06:26:12.720Z,17.9681666666667,-66.9488333333333,10.15,2.45,md,13,187,0.06658,0.23,pr,pr71383268,2022-11-20T07:15:43.560Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.66,1,0.0780205900051476,8,reviewed,pr,pr
-2022-11-20T06:09:38.893Z,-6.4787,143.3074,10,5,mb,44,133,10.631,0.69,us,us7000ir3s,2022-11-20T06:31:24.040Z,"New Guinea, Papua New Guinea",earthquake,11.39,1.908,0.08,56,reviewed,us,us
-2022-11-20T06:08:34.600Z,18.5598,-68.8791,135,4.11,md,26,244,0.4998,0.13,pr,pr2022324000,2022-11-20T07:30:37.310Z,"Mona Passage",earthquake,5.8,1.5,0.12,14,reviewed,pr,pr
-2022-11-20T06:05:11.030Z,38.8071667,-122.7786667,2.57,0.27,md,11,95,0.006284,0.02,nc,nc73809526,2022-11-21T00:10:10.993Z,"4km NNW of The Geysers, CA",earthquake,0.36,0.41,0.253,3,reviewed,nc,nc
-2022-11-20T06:00:07.053Z,38.1846,-117.8839,7.6,0.9,ml,8,178.52,0.081,0.0976,nn,nn00851650,2022-11-20T06:03:30.026Z,"30 km SE of Mina, Nevada",earthquake,,0.9,0.31,5,automatic,nn,nn
-2022-11-20T05:57:55.980Z,17.9583333333333,-66.9686666666667,9.2,2.98,md,24,201,0.05877,0.11,pr,pr71383243,2022-11-20T06:34:48.870Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.34,0.49,0.269451288126697,19,reviewed,pr,pr
-2022-11-20T05:57:05.027Z,57.7699,-157.3028,15.1,1.7,ml,,,,0.58,ak,ak022evxfu86,2022-11-20T05:59:13.723Z,"28 km NE of Pilot Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
