@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-21T23:23:41.996Z,62.2203,-149.9676,22.4,1.4,ml,,,,0.5,ak,ak022exvhs47,2022-11-21T23:25:36.821Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-21T23:17:11.890Z,38.496666,-122.1251678,-0.49,2.46,md,8,230,0.5687,0.22,nc,nc73810101,2022-11-21T23:21:11.556Z,"14km WSW of Winters, CA",earthquake,4.29,3.29,,1,automatic,nc,nc
-2022-11-21T23:11:16.690Z,19.2000007629395,-155.495330810547,31.7099990844727,2.53,ml,46,73,,0.119999997,hv,hv73230932,2022-11-21T23:16:48.740Z,"1 km W of Pāhala, Hawaii",earthquake,0.52,0.819999993,3.8,26,automatic,hv,hv
+2022-11-21T23:17:11.890Z,38.496666,-122.1251678,-0.49,2.46,md,8,230,0.5687,0.22,nc,nc73810101,2022-11-21T23:38:14.508Z,"14km WSW of Winters, CA",earthquake,4.29,3.29,,1,automatic,nc,nc
+2022-11-21T23:11:16.690Z,19.2000007629395,-155.495330810547,31.7099990844727,2.53,ml,46,73,,0.119999997,hv,hv73230932,2022-11-21T23:30:50.040Z,"1 km W of Pāhala, Hawaii",earthquake,0.52,0.819999993,3.8,26,automatic,hv,hv
 2022-11-21T23:06:44.351Z,63.3242,-151.2613,8.1,2.8,ml,,,,0.43,ak,ak022exve54j,2022-11-21T23:08:53.986Z,"33 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-21T23:05:04.870Z,34.5031667,-118.8275,9.7,1.65,ml,36,92,0.07748,0.27,ci,ci40379088,2022-11-21T23:14:11.257Z,"10km NNW of Piru, CA",earthquake,0.39,0.9,0.193,28,automatic,ci,ci
 2022-11-21T23:04:40.820Z,60.526,-151.6682,65.2,1.7,ml,,,,0.5,ak,ak022exvdpf6,2022-11-21T23:06:23.607Z,"21 km WSW of Salamatof, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T15:57:20.280Z,19.4356670379639,-155.609664916992,0.310000002384186,1.78999996,md,11,95,,0.200000003,hv,hv73230642,2022-11-21T16:00:25.160Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,1.05999994,0.889999986,8,automatic,hv,hv
 2022-11-21T15:52:10.413Z,38.2107,-117.7582,7.7,1.8,ml,14,159.75,0.14,0.1557,nn,nn00851750,2022-11-21T15:55:11.492Z,"Nevada",earthquake,,1.1,0.16,5,automatic,nn,nn
 2022-11-21T15:51:14.542Z,-10.7107,165.9748,187.124,4.4,mb,57,67,6.069,0.26,us,us7000irbs,2022-11-21T16:44:02.040Z,"19 km E of Lata, Solomon Islands",earthquake,3.26,7.985,0.075,55,reviewed,us,us
-2022-11-21T15:42:33.572Z,43.4836,-127.3401,10,5.2,mww,84,159,1.733,0.35,us,us7000irbr,2022-11-21T22:57:57.768Z,"off the coast of Oregon",earthquake,7.58,1.887,0.05,39,reviewed,us,us
+2022-11-21T15:42:33.572Z,43.4836,-127.3401,10,5.2,mww,84,159,1.733,0.35,us,us7000irbr,2022-11-21T23:33:53.222Z,"off the coast of Oregon",earthquake,7.58,1.887,0.05,39,reviewed,us,us
 2022-11-21T15:41:25.822Z,59.8443,-152.9557,99.3,2,ml,,,,1.01,ak,ak022exqu4xp,2022-11-21T15:43:59.327Z,"63 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-21T15:33:11.490Z,34.1138333,-117.2651667,13.54,1.17,ml,30,82,0.1209,0.29,ci,ci40378872,2022-11-21T15:36:40.032Z,"3km SE of San Bernardino, CA",earthquake,0.62,1.16,0.132,27,automatic,ci,ci
 2022-11-21T15:31:37.200Z,19.2356662750244,-155.393493652344,31.4500007629395,1.86000001,md,21,204,,0.129999995,hv,hv73230622,2022-11-21T15:34:53.750Z,"Hawaii region, Hawaii",earthquake,1.28,0.910000026,0.460000008,5,automatic,hv,hv
@@ -119,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T11:17:55.740Z,34.244,-117.5883333,4.57,1.25,ml,33,66,0.05838,0.19,ci,ci40378800,2022-11-21T11:21:26.560Z,"8km WSW of Lytle Creek, CA",earthquake,0.33,0.6,0.224,29,automatic,ci,ci
 2022-11-21T11:15:16.710Z,36.6203346,-121.2273331,5.85,2.35,md,39,67,0.05912,0.11,nc,nc73809936,2022-11-21T11:36:11.963Z,"12km NW of Pinnacles, CA",earthquake,0.26,0.74,0.21,36,automatic,nc,nc
 2022-11-21T11:10:55.800Z,44.778,-110.82,4.35,0.63,md,7,207,0.02405,0.15,uu,uu60525892,2022-11-21T17:59:08.720Z,"23 km SSW of Mammoth, Wyoming",earthquake,1.2,0.94,0.237,5,reviewed,uu,uu
+2022-11-21T11:00:33.498Z,44.9649,-75.0032,9.364,2.2,ml,21,49,0.196,0.49,us,us7000irak,2022-11-21T23:36:30.844Z,"9 km WNW of Massena, New York",earthquake,1.96,9.041,0.181,4,reviewed,us,us
 2022-11-21T10:55:38.329Z,-21.2084,-173.5671,34.993,4.9,mb,26,110,1.529,0.96,us,us7000iraj,2022-11-21T11:19:33.040Z,"144 km E of ‘Ohonua, Tonga",earthquake,3.67,8.991,0.129,19,reviewed,us,us
 2022-11-21T10:32:41.407Z,61.4141,-150.1912,30.8,1.4,ml,,,,0.68,ak,ak022exnt2nd,2022-11-21T10:41:14.873Z,"12 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-21T10:19:33.056Z,39.1288,-120.0292,8.1,0.3,ml,9,83.3,0.088,0.1705,nn,nn00851755,2022-11-21T16:34:13.070Z,"8 km WNW of Glenbrook, Nevada",earthquake,,1.8,0.04,3,reviewed,nn,nn
@@ -236,7 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T00:00:53.880Z,44.7818333,-110.8225,3.82,0.63,md,9,194,0.02097,0.07,uu,uu60525832,2022-11-21T17:44:30.610Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.8,1.02,0.29,6,reviewed,uu,uu
 2022-11-20T23:57:26.980Z,33.5281667,-116.7376667,3.7,0.59,ml,20,50,0.03714,0.16,ci,ci40378656,2022-11-21T00:01:05.772Z,"7km WSW of Anza, CA",earthquake,0.25,0.61,0.193,16,automatic,ci,ci
 2022-11-20T23:55:06.220Z,38.7878342,-122.7681656,2.3,0.21,md,10,99,0.01438,0.01,nc,nc73809781,2022-11-21T00:45:13.194Z,"2km NW of The Geysers, CA",earthquake,0.33,0.83,0.15,2,automatic,nc,nc
-2022-11-20T23:36:44.616Z,18.6041,-106.4742,10,4.8,mb,77,129,5.068,1.14,us,us7000ir89,2022-11-21T00:48:20.190Z,"180 km SW of José María Morelos, Mexico",earthquake,8.12,1.928,0.035,249,reviewed,us,us
-2022-11-20T23:35:59.980Z,37.4691667,-119.0196667,17.35,0.72,md,11,195,0.1405,0.12,nc,nc73809771,2022-11-21T19:56:10.870Z,"19km S of Mammoth Lakes, CA",earthquake,0.71,0.7,0.37,9,reviewed,nc,nc
-2022-11-20T23:33:54.190Z,38.8381653,-122.82267,1.64,0.36,md,12,86,0.01002,0.01,nc,nc73809766,2022-11-21T00:35:16.140Z,"9km WNW of Cobb, CA",earthquake,0.27,0.79,,1,automatic,nc,nc
-2022-11-20T23:32:30.096Z,43.3896,-127.2044,10,2.7,ml,17,304,1.715,0.45,us,us7000ir87,2022-11-21T00:42:10.040Z,"229 km W of Bandon, Oregon",earthquake,10.71,2.027,0.046,61,reviewed,us,us
