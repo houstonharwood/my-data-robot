@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T19:06:38.715Z,59.0295,-152.2858,67.1,1.9,ml,,,,0.19,ak,ak022f14339b,2022-11-23T19:08:27.681Z,"41 km SSW of Nanwalek, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-11-23T18:40:38.032Z,61.673,-149.8658,27.5,2,ml,,,,0.45,ak,ak022f13oxy3,2022-11-23T18:42:35.886Z,"5 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-23T18:34:48.580Z,46.547,-121.80666666666667,8.89,0.59,ml,32,84,0.1268,0.19,uw,uw61887007,2022-11-23T18:55:05.170Z,"12 km WSW of Packwood, Washington",earthquake,0.28,0.26,0.25664419641091896,12,reviewed,uw,uw
-2022-11-23T18:26:28.060Z,39.4631667,-122.9593333,2.43,1.45,md,8,167,,0.11,nc,nc73810706,2022-11-23T19:02:11.238Z,"6km N of Lake Pillsbury, CA",earthquake,0.41,3.23,0.134,7,reviewed,nc,nc
+2022-11-23T18:26:28.060Z,39.4631667,-122.9593333,2.43,1.45,md,8,167,,0.11,nc,nc73810706,2022-11-23T19:51:14.606Z,"6km N of Lake Pillsbury, CA",earthquake,0.41,3.23,0.134,7,reviewed,nc,nc
 2022-11-23T18:07:10.480Z,35.6715,-117.4966667,2.85,1.28,ml,22,63,0.08934,0.1,ci,ci40380000,2022-11-23T18:48:31.188Z,"14km SW of Searles Valley, CA",earthquake,0.14,0.3,0.113,13,reviewed,ci,ci
 2022-11-23T17:50:40.290Z,35.498,-118.3985,6.76,1.78,ml,33,42,0.1756,0.12,ci,ci40379984,2022-11-23T18:14:35.210Z,"13km SE of Bodfish, CA",earthquake,0.14,0.55,0.209,25,reviewed,ci,ci
 2022-11-23T17:49:01.830Z,34.3365,-116.8851667,-1.41,1.38,ml,6,130,0.04911,0.15,ci,ci40379992,2022-11-23T19:07:35.767Z,"9km NNW of Big Bear City, CA",quarry blast,0.58,31.61,0.13,3,reviewed,ci,ci
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T07:44:15.920Z,19.1573333740234,-155.465835571289,32.7599983215332,2.32999992,md,46,108,,0.150000006,hv,hv73232627,2022-11-23T07:47:16.030Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.57,0.889999986,0.589999974,23,automatic,hv,hv
 2022-11-23T07:39:20.770Z,38.7820015,-122.7781677,1.25,1.15,md,16,118,0.01351,0.13,nc,nc73810576,2022-11-23T11:45:12.500Z,"2km WNW of The Geysers, CA",earthquake,0.38,0.58,0.03,2,automatic,nc,nc
 2022-11-23T07:36:15.748Z,-33.5768,-71.3399,43.324,4,mb,34,81,0.243,0.37,us,us7000irrn,2022-11-23T17:44:20.545Z,"near the coast of central Chile",earthquake,4.4,3.496,0.258,6,reviewed,us,us
-2022-11-23T07:36:07.090Z,36.5833333,-121.187,7.9,1.79,md,44,65,0.01168,0.08,nc,nc73810571,2022-11-23T19:45:54.370Z,"7km NW of Pinnacles, CA",earthquake,0.17,0.24,0.238,42,reviewed,nc,nc
+2022-11-23T07:36:07.090Z,36.5833333,-121.187,7.9,1.79,md,44,65,0.01168,0.08,nc,nc73810571,2022-11-23T19:53:11.622Z,"7km NW of Pinnacles, CA",earthquake,0.17,0.24,0.238,42,reviewed,nc,nc
 2022-11-23T07:17:43.650Z,17.9506666666667,-66.8836666666667,13.8,2.02,md,12,208,0.02461,0.09,pr,pr71383578,2022-11-23T08:13:49.060Z,"3 km S of Maria Antonia, Puerto Rico",earthquake,0.74,0.37,0.0644413174468447,6,reviewed,pr,pr
 2022-11-23T07:13:52.949Z,-9.7222,159.5607,29.007,4.9,mb,25,74,0.474,0.43,us,us7000irrj,2022-11-23T07:35:16.086Z,"Solomon Islands",earthquake,9.02,4.239,0.106,28,reviewed,us,us
 2022-11-23T07:09:39.146Z,61.5747,-148.2419,23.4,1,ml,,,,0.36,ak,ak022f0wyj70,2022-11-23T07:12:02.854Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -168,12 +168,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T01:56:55.425Z,61.7028,-149.565,38.5,1.6,ml,,,,0.41,ak,ak022f0to1gm,2022-11-23T01:58:47.993Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-23T01:47:50.008Z,61.7189,-149.6673,29.8,1.5,ml,,,,0.54,ak,ak022f0tm3lk,2022-11-23T01:49:27.080Z,"11 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-23T01:39:10.081Z,38.3605,-115.8109,6.3,2.3,ml,14,177.04,0.718,0.172,nn,nn00851906,2022-11-23T18:35:22.809Z,"79 km N of Rachel, Nevada",earthquake,,2.5,0.13,8,reviewed,nn,nn
-2022-11-23T01:36:42.867Z,61.7388,-149.6076,37.4,4.1,ml,,,,0.66,ak,ak022f0tjq2y,2022-11-23T19:40:26.013Z,"12 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-11-23T01:36:42.867Z,61.7388,-149.6076,37.4,4.1,ml,,,,0.66,ak,ak022f0tjq2y,2022-11-23T19:53:22.509Z,"12 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-11-23T01:33:56.868Z,60.3156,-141.2287,5.5,2.1,ml,,,,0.55,ak,ak022f0tj44r,2022-11-23T03:54:40.099Z,"119 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-23T01:25:05.629Z,31.6126056,-103.9670684,7.326989746,2,ml,26,48,0.002434667442,0.1,tx,tx2022wxsu,2022-11-23T18:25:55.443Z,"36 km WSW of Mentone, Texas",earthquake,0.3285687498,0.39084842180000007,0.1,15,reviewed,tx,tx
 2022-11-23T01:20:31.640Z,33.6806667,-116.7913333,16.4,0.86,ml,29,63,0.06908,0.13,ci,ci40379664,2022-11-23T15:18:53.406Z,"9km SW of Idyllwild, CA",earthquake,0.25,0.35,0.234,17,reviewed,ci,ci
 2022-11-23T01:16:30.930Z,34.4848333,-118.0841667,9.51,0.84,ml,15,79,0.02781,0.12,ci,ci40379656,2022-11-23T15:12:48.355Z,"3km ESE of Vincent, CA",earthquake,0.24,0.4,0.136,7,reviewed,ci,ci
-2022-11-23T01:08:15.522Z,40.8471,30.967,10,6.1,mww,114,30,0.414,0.99,us,us7000irp8,2022-11-23T19:31:08.594Z,"Western Turkey",earthquake,5.15,1.729,0.052,35,reviewed,us,us
+2022-11-23T01:08:15.522Z,40.8471,30.967,10,6.1,mww,114,30,0.414,0.99,us,us7000irp8,2022-11-23T19:52:53.474Z,"Western Turkey",earthquake,5.15,1.729,0.052,35,reviewed,us,us
 2022-11-23T01:02:56.301Z,57.2137,-155.4628,37.2,2.6,ml,,,,0.53,ak,ak022f0tcgwc,2022-11-23T03:52:55.911Z,"72 km WSW of Karluk, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-11-23T01:02:01.099Z,64.0395,-148.7982,0,1.7,ml,,,,0.85,ak,ak022f0tcclp,2022-11-23T01:03:46.770Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-23T00:55:27.654Z,38.2535,-115.7419,13.6,2,ml,12,172.83,1.031,0.1545,nn,nn00851897,2022-11-23T18:57:21.361Z,"Nevada",earthquake,,8.6,0.26,9,reviewed,nn,nn
@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T20:08:30.800Z,34.50916667,-97.2635,0,2.02,ml,20,122,0.09178198924,0.28,ok,ok2022wxij,2022-11-23T16:50:55.196Z,"11 km SE of Katie, Oklahoma",quarry blast,,0.6,0.12,4,reviewed,ok,ok
 2022-11-22T20:06:11.590Z,31.63199227,-104.0110059,5.913049316,2.2,ml,23,41,0.0135033653,0.1,tx,tx2022wxii,2022-11-23T18:58:39.005Z,"39 km WSW of Mentone, Texas",earthquake,0.4041394935,0.4584272237,0.1,13,reviewed,tx,tx
 2022-11-22T19:55:28.150Z,34.9868333,-118.197,-0.8,1.42,ml,20,52,0.1108,0.19,ci,ci40379480,2022-11-22T21:42:24.413Z,"8km SSW of Mojave, CA",quarry blast,0.4,31.61,0.082,23,reviewed,ci,ci
-2022-11-22T19:53:29.141Z,61.2869,-149.9574,47.8,1.1,ml,,,,0.41,ak,ak022ezgtsny,2022-11-22T22:49:15.507Z,"8 km S of Point MacKenzie, Alaska",earthquake,,0.5,,,reviewed,ak,ak
