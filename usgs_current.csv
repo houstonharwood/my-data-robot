@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T18:44:06.635Z,49.4011,155.6055,67.772,5,mb,235,95,3.938,0.56,us,us7000isl7,2022-11-26T19:26:39.040Z,"146 km SSW of Severo-Kuril’sk, Russia",earthquake,9.22,5.678,0.029,387,reviewed,us,us
 2022-11-26T18:40:24.340Z,37.3946648,-119.9954987,18.18,2.42,md,10,73,0.202,0.24,nc,nc73811856,2022-11-26T20:21:10.846Z,"10km SSW of Mariposa, CA",earthquake,0.93,1.28,0.27,7,automatic,nc,nc
 2022-11-26T18:23:57.690Z,19.1983337402344,-155.389007568359,31.0200004577637,2.25,md,41,161,,0.119999997,hv,hv73237017,2022-11-26T18:29:28.980Z,"9 km E of Pāhala, Hawaii",earthquake,0.62,0.779999971,1,21,automatic,hv,hv
-2022-11-26T18:05:16.020Z,37.607,-118.915,1.11,0.71,md,15,169,0.005106,0.05,nc,nc73811841,2022-11-26T20:20:12.838Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.38,0.52,0.212,13,reviewed,nc,nc
+2022-11-26T18:05:16.020Z,37.607,-118.915,1.11,0.71,md,15,169,0.005106,0.05,nc,nc73811841,2022-11-26T20:48:11.024Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.38,0.52,0.212,13,reviewed,nc,nc
 2022-11-26T18:04:35.160Z,19.1721668243408,-155.501327514648,34.6300010681152,2.29,ml,46,106,,0.140000001,hv,hv73237002,2022-11-26T18:16:27.040Z,"4 km SW of Pāhala, Hawaii",earthquake,0.64,0.930000007,3.98,9,automatic,hv,hv
 2022-11-26T18:02:52.970Z,33.2135,-116.7478333,8.57,0.61,ml,17,62,0.02422,0.34,ci,ci40381280,2022-11-26T18:06:28.643Z,"3km SSE of Lake Henshaw, CA",earthquake,0.74,1.52,0.16,10,automatic,ci,ci
 2022-11-26T17:54:11.150Z,38.7996674,-122.7511673,2.63,0.86,md,8,170,0.006745,0.02,nc,nc73811831,2022-11-26T20:23:16.857Z,"2km N of The Geysers, CA",earthquake,0.51,0.92,,1,automatic,nc,nc
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T06:15:23.331Z,18.7138,147.0492,24.164,5.2,mb,94,69,15.741,0.54,us,us7000isi5,2022-11-26T06:30:45.040Z,"Mariana Islands region",earthquake,10.93,5.592,0.06,91,reviewed,us,us
 2022-11-26T06:13:01.911Z,36.8799,-116.2077,6,0,ml,13,71.53,0.042,0.1048,nn,nn00852086,2022-11-26T18:44:08.952Z,"49 km E of Beatty, Nevada",earthquake,,2.2,0.3,9,reviewed,nn,nn
 2022-11-26T06:09:16.140Z,17.9496666666667,-66.8466666666667,11.08,2.44,md,16,209,0.04,0.14,pr,pr71384048,2022-11-26T06:48:39.070Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.58,0.45,0.057734944547593,8,reviewed,pr,pr
-2022-11-26T06:07:32.030Z,36.0766667,-120.1248333,5.56,1.48,md,22,249,0.1499,0.11,nc,nc73811621,2022-11-26T19:40:11.608Z,"8km N of Avenal, CA",earthquake,1.04,1.4,0.439,12,reviewed,nc,nc
+2022-11-26T06:07:32.030Z,36.0766667,-120.1248333,5.56,1.48,md,22,249,0.1499,0.11,nc,nc73811621,2022-11-26T20:48:16.025Z,"8km N of Avenal, CA",earthquake,1.04,1.4,0.439,12,reviewed,nc,nc
 2022-11-26T06:05:35.603Z,18.7113,146.9627,18.051,5.6,mww,157,74,15.711,0.48,us,us7000ishx,2022-11-26T18:15:51.317Z,"Pagan region, Northern Mariana Islands",earthquake,10.4,3.865,0.083,14,reviewed,us,us
 2022-11-26T05:58:01.411Z,40.0522,-119.9788,10.8,0.4,ml,5,180.25,0.16,0.184,nn,nn00852085,2022-11-26T18:41:00.235Z,"11 km ENE of Doyle, California",earthquake,,3.9,0.11,3,reviewed,nn,nn
 2022-11-26T05:57:04.890Z,37.5475,-118.839,3.87,0.18,md,11,284,0.04317,0.03,nc,nc73811616,2022-11-26T17:57:13.959Z,"14km W of Toms Place, CA",earthquake,1.8,1.74,0.188,10,reviewed,nc,nc
@@ -181,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T22:00:28.953Z,62.9696,-149.4572,81.7,1.9,ml,,,,0.51,ak,ak022f4gws0f,2022-11-25T22:02:29.116Z,"53 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-25T21:37:29.831Z,-56.1346,-26.9348,43.51,4.9,mb,46,75,5.776,0.67,us,us7000isfs,2022-11-25T22:01:04.040Z,"South Sandwich Islands region",earthquake,10.66,7.839,0.084,44,reviewed,us,us
 2022-11-25T21:37:21.820Z,35.7416667,-117.5473333,9.29,1.39,ml,20,157,0.08443,0.14,ci,ci40380896,2022-11-25T22:05:58.224Z,"13km WSW of Searles Valley, CA",earthquake,0.33,0.78,0.153,20,reviewed,ci,ci
-2022-11-25T20:46:49.072Z,38.1233,-118.0246,10.3,1.1,ml,13,127.6,0.054,0.1455,nn,nn00852047,2022-11-25T20:49:44.158Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.37,5,automatic,nn,nn
-2022-11-25T20:43:55.220Z,33.6403333,-116.7111667,15.33,1.17,ml,14,146,0.06415,0.25,ci,ci40380888,2022-11-25T20:47:21.791Z,"10km NNW of Anza, CA",earthquake,1.42,0.88,0.299,10,automatic,ci,ci
-2022-11-25T20:43:43.170Z,33.5853333,-116.8071667,7.33,0.77,ml,25,41,0.0369,0.18,ci,ci40380880,2022-11-25T20:47:17.262Z,"13km WNW of Anza, CA",earthquake,0.28,0.56,0.121,21,automatic,ci,ci
