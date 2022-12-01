@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-01T11:24:32.050Z,33.2578333,-116.4075,2.95,0.68,ml,16,181,0.1593,0.27,ci,ci40383080,2022-12-01T11:28:04.117Z,"3km W of Borrego Springs, CA",earthquake,0.99,2.33,0.166,13,automatic,ci,ci
 2022-12-01T11:18:29.650Z,36.0038338,-120.5666656,1.44,1.16,md,15,155,0.025,0.05,nc,nc73813411,2022-12-01T11:20:06.989Z,"17km NW of Parkfield, CA",earthquake,0.35,0.56,0.32,6,automatic,nc,nc
 2022-12-01T11:08:46.050Z,35.6126667,-118.3,9.87,0.89,ml,12,76,0.09248,0.11,ci,ci40383064,2022-12-01T11:12:23.921Z,"16km E of Lake Isabella, CA",earthquake,0.34,0.58,0.102,10,automatic,ci,ci
-2022-12-01T11:08:14.810Z,38.175499,-122.4603348,9.21,1.57,md,8,191,0.02492,0.03,nc,nc73813406,2022-12-01T11:09:48.310Z,"8km NE of Black Point-Green Point, CA",earthquake,1.2,0.51,0.2,5,automatic,nc,nc
+2022-12-01T11:08:14.810Z,38.175499,-122.4603348,9.21,1.57,md,8,191,0.02492,0.03,nc,nc73813406,2022-12-01T11:23:11.884Z,"8km NE of Black Point-Green Point, CA",earthquake,1.2,0.51,0.2,5,automatic,nc,nc
 2022-12-01T11:03:43.860Z,33.2021667,-116.036,7.92,0.97,ml,27,57,0.05661,0.33,ci,ci40383056,2022-12-01T11:07:19.030Z,"11km NE of Ocotillo Wells, CA",earthquake,0.62,1.75,0.131,20,automatic,ci,ci
 2022-12-01T11:03:15.970Z,33.192,-116.038,4.14,0.99,ml,23,97,0.1811,0.28,ci,ci40383048,2022-12-01T11:07:00.420Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.54,2.07,0.112,20,automatic,ci,ci
 2022-12-01T11:02:43.774Z,-0.468,-19.8736,10,5.3,mb,48,89,9.229,0.95,us,us6000j608,2022-12-01T11:19:39.040Z,"central Mid-Atlantic Ridge",earthquake,10.63,1.866,0.057,101,reviewed,us,us
@@ -195,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T15:17:41.452Z,26.8769,55.2238,4.681,5.7,mww,113,25,2.117,0.73,us,us6000j5sn,2022-11-30T17:50:45.296Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,6.72,3.908,0.048,42,reviewed,us,us
 2022-11-30T15:15:20.979Z,58.2552,-155.1013,1.1,1.1,ml,,,,0.33,ak,ak022fcmiocy,2022-12-01T04:16:36.200Z,"85 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-11-30T15:15:06.160Z,38.7793333,-122.7173333,1.59,0.95,md,27,104,0.01203,0.04,nc,nc71129409,2022-12-01T11:18:10.851Z,"2km WNW of Anderson Springs, CA",earthquake,0.26,0.4,0.087,3,reviewed,nc,nc
-2022-11-30T15:15:02.770Z,38.7583333,-122.4206667,5.34,1.44,md,8,64,0.05175,0.1,nc,nc73813141,2022-12-01T11:13:31.328Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.43,2.41,0.117,7,reviewed,nc,nc
+2022-11-30T15:15:02.770Z,38.7583333,-122.4206667,5.34,1.44,md,8,64,0.05175,0.1,nc,nc73813141,2022-12-01T11:27:10.911Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.43,2.41,0.117,7,reviewed,nc,nc
 2022-11-30T15:13:44.280Z,38.7541667,-122.4295,4.38,1.84,md,49,57,0.05335,0.11,nc,nc73813136,2022-11-30T21:48:13.087Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.15,0.68,0.111,30,reviewed,nc,nc
 2022-11-30T15:13:22.420Z,19.4723333333333,-155.588166666667,-1.06,1.66,md,9,163,,0.1,hv,hv73247122,2022-11-30T23:17:49.330Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.64,0.23,0.279336094132277,5,reviewed,hv,hv
 2022-11-30T15:11:46.960Z,18.0153333333333,-66.7776666666667,14.67,2.82,md,27,140,0.007731,0.12,pr,pr71384743,2022-11-30T22:06:12.040Z,"0 km WSW of Magas Arriba, Puerto Rico",earthquake,0.37,0.27,0.164062170878239,15,reviewed,pr,pr
@@ -255,6 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T11:53:38.069Z,61.7913,-148.4718,36,1.1,ml,,,,0.74,ak,ak022fckd4ha,2022-11-30T11:55:31.772Z,"0 km SW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-30T11:45:25.799Z,37.1241,-117.1678,0,0.3,ml,6,232.67,0.191,0.0731,nn,nn00852302,2022-11-30T18:01:06.545Z,"43 km WNW of Beatty, Nevada",earthquake,,0,0.83,4,reviewed,nn,nn
 2022-11-30T11:40:14.888Z,-38.7043,175.925,10,4.5,mb,22,88,0.831,0.94,us,us6000j5rd,2022-12-01T07:05:35.942Z,"13 km W of Taupo, New Zealand",earthquake,3.44,1.93,0.164,11,reviewed,us,us
-2022-11-30T11:28:04.884Z,-49.4613,164.2543,18.275,4,mb,19,110,3.68,0.7,us,us6000j5rb,2022-12-01T06:33:53.040Z,"Auckland Islands, New Zealand region",earthquake,4.36,5.673,0.183,9,reviewed,us,us
-2022-11-30T11:26:02.100Z,33.2413333,-117.4311667,15.63,0.84,ml,20,221,0.06184,0.11,ci,ci40382624,2022-11-30T18:34:57.760Z,"5km WNW of Camp Pendleton South, CA",earthquake,0.38,0.48,0.088,6,reviewed,ci,ci
-2022-11-30T11:23:49.565Z,60.9583,-147.7323,3.9,0.9,ml,,,,0.68,ak,ak022fck6pvw,2022-11-30T11:25:48.357Z,"55 km ENE of Whittier, Alaska",earthquake,,2.9,,,automatic,ak,ak
