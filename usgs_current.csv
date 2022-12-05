@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-05T11:09:08.740Z,33.3141667,-116.284,7.88,1.51,ml,45,46,0.1206,0.19,ci,ci40142263,2022-12-05T11:12:53.373Z,"11km NE of Borrego Springs, CA",earthquake,0.23,1.22,0.122,26,automatic,ci,ci
+2022-12-05T11:09:08.740Z,33.3141667,-116.284,7.88,1.51,ml,45,46,0.1206,0.19,ci,ci40142263,2022-12-05T11:19:45.600Z,"11km NE of Borrego Springs, CA",earthquake,0.23,1.22,0.122,26,automatic,ci,ci
 2022-12-05T11:05:37.300Z,33.3068333,-116.2916667,9.38,2.05,ml,67,44,0.112,0.22,ci,ci40142255,2022-12-05T11:16:42.310Z,"10km NE of Borrego Springs, CA",earthquake,0.22,0.66,0.164,27,automatic,ci,ci
 2022-12-05T10:55:32.730Z,33.3126667,-116.2876667,8.51,1.75,ml,58,44,0.1172,0.21,ci,ci40142247,2022-12-05T11:06:37.840Z,"10km NE of Borrego Springs, CA",earthquake,0.21,0.85,0.165,26,automatic,ci,ci
 2022-12-05T10:55:17.875Z,38.1689,-117.895,9.5,0.7,ml,10,170.2,0.059,0.1126,nn,nn00852621,2022-12-05T10:59:16.897Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.1,4,automatic,nn,nn
 2022-12-05T10:55:03.820Z,33.864,-118.2805,15.65,1.72,ml,42,56,0.04266,0.31,ci,ci40142239,2022-12-05T11:05:33.750Z,"4km N of Carson, CA",earthquake,0.39,0.57,0.234,26,automatic,ci,ci
 2022-12-05T10:52:59.100Z,33.2195,-116.46,10.79,0.73,ml,11,128,0.0604,0.28,ci,ci40142231,2022-12-05T10:56:33.286Z,"9km WSW of Borrego Springs, CA",earthquake,1.05,1.16,0.12,12,automatic,ci,ci
 2022-12-05T10:41:32.630Z,19.2473335266113,-155.392669677734,28.9699993133545,2.1099999,md,28,135,,0.189999998,hv,hv73260042,2022-12-05T10:44:42.330Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.73,0.930000007,0.899999976,3,automatic,hv,hv
-2022-12-05T10:33:58.770Z,38.8148333,-122.8066667,2.62,0.71,md,12,69,0.008954,0.01,nc,nc73814731,2022-12-05T10:51:11.338Z,"6km NW of The Geysers, CA",earthquake,0.39,0.45,0.237,2,reviewed,nc,nc
+2022-12-05T10:33:58.770Z,38.8148333,-122.8066667,2.62,0.71,md,12,69,0.008954,0.01,nc,nc73814731,2022-12-05T11:23:17.505Z,"6km NW of The Geysers, CA",earthquake,0.39,0.45,0.237,2,reviewed,nc,nc
 2022-12-05T10:30:07.379Z,-60.5475,-27.5654,10,4.9,mb,39,76,7.908,0.76,us,us6000j70b,2022-12-05T11:15:24.040Z,"South Sandwich Islands region",earthquake,12.34,1.897,0.099,32,reviewed,us,us
 2022-12-05T10:28:24.300Z,33.0573333,-117.407,13.43,0.73,ml,17,256,0.1775,0.12,ci,ci40142223,2022-12-05T10:31:51.157Z,"11km WNW of Encinitas, CA",earthquake,0.64,0.82,0.094,5,automatic,ci,ci
 2022-12-05T10:03:04.270Z,38.822834,-122.8001633,2.83,0.77,md,12,104,0.007762,0.01,nc,nc73814726,2022-12-05T10:50:13.331Z,"6km NW of The Geysers, CA",earthquake,0.32,0.58,0.17,13,automatic,nc,nc
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T11:38:55.454Z,61.1262,-147.379,11.9,1.1,ml,,,,0.45,ak,ak022fj6fbf5,2022-12-04T20:46:42.742Z,"47 km NW of Tatitlek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-12-04T11:38:27.310Z,19.4556666666667,-155.599,-1.01,1.68,md,10,77,,0.13,hv,hv73258042,2022-12-04T13:51:07.820Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.28,0.189975223920028,5,reviewed,hv,hv
 2022-12-04T11:29:14.860Z,19.6005,-155.548833333333,-2.85,1.11,md,14,77,,0.14,hv,hv73258012,2022-12-05T06:00:36.040Z,"36 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.21,0.0821018498583506,5,reviewed,hv,hv
-2022-12-04T11:22:55.551Z,62.4893,-148.103,30.4,1.8,ml,,,,0.77,ak,ak022fj6bwlv,2022-12-04T11:24:22.810Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-04T11:19:41.400Z,36.2108333,-117.8503333,8.64,1.18,ml,13,112,0.09313,0.16,ci,ci40141903,2022-12-04T11:23:09.063Z,"16km ESE of Olancha, CA",earthquake,0.4,0.83,0.376,8,automatic,ci,ci
