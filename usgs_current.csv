@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-08T08:30:01.660Z,38.7745018,-122.7454987,0.04,1.29,md,7,122,0.0111,0.03,nc,nc73816101,2022-12-08T08:31:39.309Z,"1km ESE of The Geysers, CA",earthquake,0.36,0.96,0.19,8,automatic,nc,nc
+2022-12-08T08:23:33.378Z,31.6145,-103.9915,5,2.6,ml,22,101,0.056,0.38,us,us6000j7uy,2022-12-08T08:40:18.040Z,"38 km NNW of Toyah, Texas",earthquake,1.08,1.875,0.048,57,reviewed,us,us
+2022-12-08T08:20:03.990Z,17.9343333333333,-66.8911666666667,7.89,2.33,md,7,220,0.04206,0.11,pr,pr71386103,2022-12-08T08:32:52.720Z,"4 km SSE of Guánica, Puerto Rico",earthquake,0.71,0.29,0.0475792521794625,3,reviewed,pr,pr
 2022-12-08T08:18:13.352Z,37.9802,-118.5079,0,1.8,ml,12,85.26,0.271,0.287,nn,nn00852926,2022-12-08T08:21:05.549Z,"18 km N of Benton, California",earthquake,,32.3,0.32,9,automatic,nn,nn
 2022-12-08T08:14:03.320Z,17.9535,-66.9843333333333,9.52,2.42,md,8,209,0.05917,0.07,pr,pr71386098,2022-12-08T08:26:08.980Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.54,0.82,0.0837388786976041,4,reviewed,pr,pr
 2022-12-08T08:03:11.530Z,38.8256683,-122.8539963,2.21,0.82,md,14,93,0.01503,0.02,nc,nc73816091,2022-12-08T08:04:48.982Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.55,0.15,15,automatic,nc,nc
@@ -44,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T04:19:49.830Z,35.5035,-118.394,3.57,1.06,ml,21,77,0.1718,0.16,ci,ci40143399,2022-12-08T04:23:24.220Z,"13km SE of Bodfish, CA",earthquake,0.32,1.01,0.154,10,automatic,ci,ci
 2022-12-08T04:00:32.455Z,64.4255,-148.0825,19.8,2.2,ml,,,,0.4,ak,ak022fpo6ht9,2022-12-08T04:02:03.575Z,"45 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-08T03:47:44.225Z,58.2101,-155.114,72.2,0.9,ml,,,,0.76,ak,ak022fpnv5rq,2022-12-08T03:50:46.977Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
-2022-12-08T03:23:21.460Z,35.3008333333333,-82.4855,3.79,2.69,md,18,61,,0.2,se,se60501781,2022-12-08T08:25:54.133Z,"0 km NW of Valley Hill, North Carolina",earthquake,0.35,1.27,0.107468484296295,12,reviewed,se,se
+2022-12-08T03:23:21.460Z,35.3008333333333,-82.4855,3.79,2.69,md,18,61,,0.2,se,se60501781,2022-12-08T08:30:59.739Z,"0 km NW of Valley Hill, North Carolina",earthquake,0.35,1.27,0.107468484296295,12,reviewed,se,se
 2022-12-08T03:04:31.950Z,19.3516674041748,-155.197494506836,9.75,1.9,ml,37,74,,0.150000006,hv,hv73263547,2022-12-08T03:10:02.960Z,"10 km SSE of Volcano, Hawaii",earthquake,0.53,0.379999995,0.28,4,automatic,hv,hv
 2022-12-08T02:57:53.399Z,39.6252,-120.1501,3.9,1.3,ml,15,91.81,0.074,0.1546,nn,nn00852920,2022-12-08T03:00:22.827Z,"6 km ESE of Sierra Brooks, California",earthquake,,0.8,0.24,9,automatic,nn,nn
 2022-12-08T02:49:11.051Z,-9.2047,110.7563,35,4.3,mb,17,132,1.304,0.93,us,us6000j7tj,2022-12-08T03:10:04.040Z,"145 km SSE of Pundong, Indonesia",earthquake,7.2,1.988,0.177,9,reviewed,us,us
@@ -235,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T08:59:08.860Z,33.5876667,-116.8123333,4.81,0.26,ml,14,68,0.05156,0.12,ci,ci40142927,2022-12-07T15:24:36.282Z,"13km WNW of Anza, CA",earthquake,0.25,0.59,0.257,3,reviewed,ci,ci
 2022-12-07T08:52:04.259Z,8.466,-102.6953,10,4.5,mb,34,206,9.895,0.73,us,us6000j7kb,2022-12-07T12:00:16.040Z,"northern East Pacific Rise",earthquake,7.05,1.938,0.063,74,reviewed,us,us
 2022-12-07T08:41:34.802Z,-13.9984,166.5779,63.721,4.9,mb,50,64,1.562,1.05,us,us6000j7ka,2022-12-07T08:59:06.040Z,"106 km W of Sola, Vanuatu",earthquake,9.61,7.525,0.082,47,reviewed,us,us
-2022-12-07T08:35:48.388Z,31.62096345,-103.9763855,7.905419922,2.2,ml,34,58,0.01212930225,0.2,tx,tx2022xxwb,2022-12-07T18:08:55.777Z,"36 km WSW of Mentone, Texas",earthquake,0.6101625760000001,0.6636975593,0,7,reviewed,tx,tx
-2022-12-07T08:31:33.750Z,19.469,-155.464666666667,-1.65,1.73,md,29,59,,0.22,hv,hv73262842,2022-12-07T09:28:15.050Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.35,0.154127364876696,10,reviewed,hv,hv
