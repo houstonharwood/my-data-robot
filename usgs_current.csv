@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-08T23:28:40.200Z,34.913,-119.567,8.61,1.37,ml,21,50,0.09274,0.26,ci,ci40143775,2022-12-08T23:32:17.153Z,"22km SW of Maricopa, CA",earthquake,0.5,1.56,0.178,23,automatic,ci,ci
-2022-12-08T23:25:09.170Z,36.8720016,-121.5993347,4.43,2.64,md,52,46,0.01376,0.16,nc,nc73816346,2022-12-08T23:48:44.783Z,"4km ESE of Aromas, CA",earthquake,0.24,0.44,0.13,65,automatic,nc,nc
+2022-12-08T23:25:09.170Z,36.8720016,-121.5993347,4.43,2.64,md,52,46,0.01376,0.16,nc,nc73816346,2022-12-08T23:54:01.558Z,"4km ESE of Aromas, CA",earthquake,0.24,0.44,0.13,65,automatic,nc,nc
 2022-12-08T23:18:58.395Z,-15.7571,-72.2483,10,5,mww,70,129,3.175,1.4,us,us6000j81n,2022-12-08T23:41:50.040Z,"8 km SSE of Ayo, Peru",earthquake,7.96,1.842,0.058,29,reviewed,us,us
 2022-12-08T23:16:30.890Z,34.1715,-117.545,11.73,1.31,ml,25,87,0.1156,0.24,ci,ci40143767,2022-12-08T23:20:01.373Z,"6km NNE of Rancho Cucamonga, CA",earthquake,0.42,1.11,0.351,33,automatic,ci,ci
 2022-12-08T23:10:28.960Z,35.5011667,-118.3985,9.66,1.05,ml,15,78,0.1726,0.16,ci,ci40143759,2022-12-08T23:14:08.896Z,"13km SE of Bodfish, CA",earthquake,0.33,1.1,0.206,12,automatic,ci,ci
@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T21:33:26.610Z,37.6459999,-119.0263367,0.1,1.97,md,15,75,0.003787,0.04,nc,nc73816306,2022-12-08T22:54:13.324Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.6,0.38,0.25,14,automatic,nc,nc
 2022-12-08T21:32:28.100Z,61.1503,-147.4145,0,1.7,ml,,,,0.84,ak,ak022fpyhpoa,2022-12-08T21:34:24.707Z,"50 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-08T21:30:00.530Z,37.6498337,-119.0243301,-0.25,0.85,md,8,107,0.007878,0.01,nc,nc73816301,2022-12-08T22:28:13.162Z,"4km WNW of Mammoth Lakes, CA",earthquake,1,0.43,0.27,8,automatic,nc,nc
+2022-12-08T21:15:53.150Z,46.2005,-122.20266666666667,2.81,0.5700000000000001,md,9,110,0.008234,0.08,uw,uw61898046,2022-12-08T23:52:46.580Z,"37 km NNE of Amboy, Washington",earthquake,0.45,0.79,0.3445507334160789,6,reviewed,uw,uw
 2022-12-08T21:05:18.540Z,38.7911682,-122.7350006,1.35,1.28,md,14,104,0.008033,0.03,nc,nc73816296,2022-12-08T22:00:14.982Z,"2km NE of The Geysers, CA",earthquake,0.24,0.48,0.15,16,automatic,nc,nc
 2022-12-08T20:52:52.679Z,35.921,-95.151,0,1.57,ml,53,106,0.2663477335,0.43,ok,ok2022yapw,2022-12-08T22:10:51.415Z,"1 km SW of Hulbert, Oklahoma",quarry blast,,0.5,0.24,16,reviewed,ok,ok
 2022-12-08T20:34:56.546Z,64.4098,-148.0504,16.8,1.5,ml,,,,0.24,ak,ak022fpxwrp2,2022-12-08T20:36:31.443Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -255,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T00:08:54.190Z,19.21266746521,-155.376998901367,33.3899993896484,2,md,26,207,,0.119999997,hv,hv73263442,2022-12-08T00:12:00.540Z,"10 km E of Pāhala, Hawaii",earthquake,1.34,0.99000001,0.00999999978,5,automatic,hv,hv
 2022-12-08T00:02:23.390Z,19.2058333333333,-155.386166666667,32.05,3.59,ml,56,159,,0.14,hv,hv73263432,2022-12-08T02:04:13.720Z,"9 km E of Pāhala, Hawaii",earthquake,0.42,0.5,0.147586086791197,38,reviewed,hv,hv
 2022-12-07T23:56:43.400Z,38.8395004,-122.8371658,1.23,0.75,md,13,113,0.001596,0.01,nc,nc73815886,2022-12-07T23:58:21.467Z,"10km NW of The Geysers, CA",earthquake,0.26,0.51,0.17,14,automatic,nc,nc
-2022-12-07T23:51:32.240Z,41.7115,-111.6936667,9.09,1.83,ml,26,63,0.1071,0.13,uu,uu60527567,2022-12-08T14:47:42.380Z,"10 km E of Providence, Utah",earthquake,0.28,0.67,0.063,7,reviewed,uu,uu
