@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T03:47:01.740Z,35.8753319,-117.7128296,10,1.33,ml,14,147,0.07892,0.08,ci,ci40145671,2022-12-15T03:49:07.005Z,"19km ESE of Little Lake, CA",earthquake,0.51,0.65,0.132,2,automatic,ci,ci
+2022-12-15T03:44:24.550Z,33.9718333,-117.5845,0.7,0.91,ml,17,60,0.1217,0.32,ci,ci40145663,2022-12-15T03:47:56.858Z,"6km NW of Norco, CA",earthquake,0.6,31.61,0.299,19,automatic,ci,ci
+2022-12-15T03:31:11.049Z,2.7821,127.5451,97.495,4.7,mb,34,117,2.005,0.93,us,us6000j9bm,2022-12-15T03:48:04.040Z,"127 km NNW of Tobelo, Indonesia",earthquake,10.75,9.041,0.097,32,reviewed,us,us
 2022-12-15T03:22:00.609Z,-22.7245,-66.4562,273.463,4.2,mb,20,115,1.605,0.83,us,us6000j9bi,2022-12-15T03:41:03.040Z,"77 km W of Abra Pampa, Argentina",earthquake,9.5,13.604,0.529,1,reviewed,us,us
 2022-12-15T03:13:46.068Z,37.2795,-117.6998,0,0.7,ml,8,199.36,0.063,0.3809,nn,nn00853405,2022-12-15T03:17:00.142Z,"California-Nevada border region",earthquake,,0.7,0.95,5,automatic,nn,nn
 2022-12-15T03:10:46.193Z,60.5458,-152.5354,14.5,2.1,ml,,,,0.31,ak,ak022g18envv,2022-12-15T03:12:09.040Z,"67 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-15T02:50:05.880Z,35.5106667,-118.393,4.31,1.27,ml,27,40,0.1655,0.17,ci,ci40145655,2022-12-15T02:53:35.572Z,"12km SE of Bodfish, CA",earthquake,0.22,1.14,0.226,17,automatic,ci,ci
-2022-12-15T02:45:58.590Z,38.7876663,-122.7675018,1.9,1.32,md,24,79,,0.03,nc,nc73818806,2022-12-15T03:17:10.728Z,"2km NW of The Geysers, CA",earthquake,0.22,0.35,0.11,23,automatic,nc,nc
+2022-12-15T02:45:58.590Z,38.7876663,-122.7675018,1.9,1.32,md,24,79,,0.03,nc,nc73818806,2022-12-15T03:48:12.907Z,"2km NW of The Geysers, CA",earthquake,0.22,0.35,0.11,23,automatic,nc,nc
 2022-12-15T02:43:36.900Z,33.353,-118.0266667,0.94,2.03,ml,25,152,0.2592,0.26,ci,ci40145647,2022-12-15T02:47:16.097Z,"28km E of Avalon, CA",earthquake,0.62,31.61,0.104,30,automatic,ci,ci
 2022-12-15T02:19:47.640Z,35.6633333,-118.1253333,2.6,0.68,ml,11,85,0.1007,0.15,ci,ci40145639,2022-12-15T02:23:20.903Z,"28km W of Inyokern, CA",earthquake,0.54,0.58,0.05,8,automatic,ci,ci
 2022-12-15T02:16:03.460Z,40.4661674,-124.4993362,26.49,2.43,md,13,286,0.1238,0.07,nc,nc73818801,2022-12-15T03:22:12.753Z,"23km WSW of Ferndale, CA",earthquake,3.7,2,0.15,8,automatic,nc,nc
@@ -50,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T21:45:38.270Z,19.2083333333333,-155.3725,33.59,3.26,ml,56,160,,0.14,hv,hv73269642,2022-12-15T02:25:16.458Z,"11 km E of Pāhala, Hawaii",earthquake,0.4,0.49,0.122148240862532,35,reviewed,hv,hv
 2022-12-14T21:22:18.435Z,57.9678,-157.1183,16.9,1.9,ml,,,,0.44,ak,ak022fzvnmqb,2022-12-14T21:24:08.913Z,"31 km SSE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-14T21:20:04.385Z,62.3758,-151.4032,98.6,1.8,ml,,,,0.52,ak,ak022fzvn67q,2022-12-14T21:22:45.088Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-14T21:19:38.692Z,61.5156,-151.8235,4.1,0.7,ml,,,,1.16,ak,ak022fzvn14m,2022-12-15T03:04:51.210Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-14T21:19:38.692Z,61.5156,-151.8235,4.1,0.7,ml,,,,1.16,ak,ak022fzvn14m,2022-12-15T03:49:27.980Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-14T21:14:25.806Z,37.156,-117.3478,8.9,1.2,ml,12,102.78,0.161,0.1594,nn,nn00853379,2022-12-15T02:42:22.176Z,"59 km WNW of Beatty, Nevada",earthquake,,5.2,0.81,8,reviewed,nn,nn
 2022-12-14T21:12:39.778Z,-50.2767,112.4184,10,4.8,mb,10,135,21.36,0.48,us,us6000j99h,2022-12-14T21:28:49.040Z,"southeast Indian Ridge",earthquake,12.56,1.928,0.209,7,reviewed,us,us
 2022-12-14T21:04:41.583Z,60.315,-152.2964,84,1.8,ml,,,,0.38,ak,ak022fzvjtmm,2022-12-14T21:06:53.562Z,"45 km NW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
