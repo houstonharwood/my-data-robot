@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T15:21:23.860Z,37.7958336,-122.1951675,9.5,1.6,md,20,104,0.02069,0.06,nc,nc73818976,2022-12-15T16:07:10.398Z,"3km E of Oakland, CA",earthquake,0.28,0.59,0.41,16,automatic,nc,nc
 2022-12-15T15:11:14.590Z,19.1861667633057,-155.480163574219,34.9700012207031,1.99000001,md,43,148,,0.109999999,hv,hv73270502,2022-12-15T15:14:34.390Z,"1 km S of Pāhala, Hawaii",earthquake,0.55,0.730000019,1.00999999,15,automatic,hv,hv
 2022-12-15T15:08:25.070Z,36.8644981,-121.3586655,17.1,1.65,md,7,204,0.1074,0.06,nc,nc73818966,2022-12-15T15:40:10.231Z,"4km ENE of Hollister, CA",earthquake,1.21,1.97,0.15,4,automatic,nc,nc
-2022-12-15T15:06:14.660Z,35.308,-120.6186667,10.61,1.2,md,23,82,0.04013,0.09,nc,nc73818971,2022-12-15T17:46:11.036Z,"5km NE of San Luis Obispo, CA",earthquake,0.28,0.31,0.221,15,reviewed,nc,nc
+2022-12-15T15:06:14.660Z,35.308,-120.6186667,10.61,1.2,md,23,82,0.04013,0.09,nc,nc73818971,2022-12-15T18:20:11.250Z,"5km NE of San Luis Obispo, CA",earthquake,0.28,0.31,0.221,15,reviewed,nc,nc
 2022-12-15T14:54:43.654Z,62.9757,-148.0231,250,1.9,ml,,,,0.76,ak,ak022g1f7vxs,2022-12-15T14:58:41.414Z,"65 km SE of Cantwell, Alaska",earthquake,,9.2,,,automatic,ak,ak
 2022-12-15T14:51:19.160Z,19.1805000305176,-155.379837036133,34.7200012207031,1.87,md,46,168,,0.119999997,hv,hv73270482,2022-12-15T14:54:29.140Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.71,0.810000002,0.340000004,13,automatic,hv,hv
 2022-12-15T14:42:45.279Z,-13.7928,165.9154,10,4.9,mb,26,139,6.898,0.76,us,us6000j9fh,2022-12-15T15:07:41.040Z,"177 km W of Sola, Vanuatu",earthquake,11.63,1.889,0.112,33,reviewed,us,us
@@ -57,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T10:22:00.217Z,62.0781,-151.0391,60.9,1.5,ml,,,,0.2,ak,ak022g1cn65t,2022-12-15T10:24:28.888Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-15T10:15:45.326Z,61.8127,-150.6312,47.8,2.1,ml,,,,0.29,ak,ak022g1clrn0,2022-12-15T10:17:03.978Z,"30 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-15T10:15:37.420Z,59.925,-152.3936,91.8,1.7,ml,,,,0.49,ak,ak022g1clr0u,2022-12-15T10:16:55.612Z,"35 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-12-15T10:14:59.469Z,39.4171,-120.2166,9.8,0.2,ml,8,115.41,0.104,0.1267,nn,nn00853458,2022-12-15T18:21:40.824Z,"Northern California",earthquake,,3.1,0.38,3,reviewed,nn,nn
 2022-12-15T10:10:58.140Z,38.8116684,-122.8411636,0.48,0.75,md,8,89,0.006847,0.01,nc,nc73818931,2022-12-15T11:01:13.500Z,"8km WNW of The Geysers, CA",earthquake,0.29,0.88,0.2,8,automatic,nc,nc
 2022-12-15T10:06:20.410Z,46.871833333333335,-121.9265,8.42,0.85,ml,30,60,0.01898,0.13,uw,uw61898601,2022-12-15T16:39:54.920Z,"14 km NNE of Ashford, Washington",earthquake,0.19,0.22,0.20067504733827557,18,reviewed,uw,uw
 2022-12-15T09:45:05.980Z,17.9651666666667,-66.9551666666667,10.27,2.29,md,20,191,0.04483,0.09,pr,pr71387263,2022-12-15T09:56:48.870Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.27,0.4,0.0631034429180479,5,reviewed,pr,pr
@@ -202,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T18:43:42.830Z,38.8336678,-122.8095016,2.29,0.5,md,6,122,0.01027,0,nc,nc73818666,2022-12-14T19:06:10.759Z,"8km W of Cobb, CA",earthquake,0.45,1.28,0.31,8,automatic,nc,nc
 2022-12-14T18:40:58.800Z,19.3598327636719,-155.28450012207,1.23000001907349,1.78999996,md,15,129,,0.100000001,hv,hv73269482,2022-12-14T18:46:29.610Z,"10 km SSW of Volcano, Hawaii",earthquake,0.32,0.419999987,1.05999994,11,automatic,hv,hv
 2022-12-14T18:40:28.154Z,51.7248,178.6537,83.74,6.3,mww,221,35,0.214,0.77,us,us6000j985,2022-12-15T12:50:38.435Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.67,2.714,0.052,36,reviewed,us,us
-2022-12-14T18:24:54.150Z,34.0036667,-116.7936667,18.62,0.8,ml,26,93,0.03352,0.21,ci,ci40145503,2022-12-14T19:40:49.058Z,"10km N of Cabazon, CA",earthquake,0.36,0.74,0.119,13,reviewed,ci,ci
-2022-12-14T18:24:10.420Z,38.8333321,-122.8186646,1.69,0.27,md,7,86,0.01198,0.01,nc,nc73818661,2022-12-14T19:27:12.883Z,"8km NW of The Geysers, CA",earthquake,0.61,1.31,0.16,8,automatic,nc,nc
