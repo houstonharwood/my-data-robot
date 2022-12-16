@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-16T21:54:40.760Z,34.3083333,-116.9111667,4.98,2.45,ml,72,24,0.0466,0.19,ci,ci40391256,2022-12-16T21:58:24.325Z,"7km N of Big Bear Lake, CA",earthquake,0.19,0.65,0.165,26,automatic,ci,ci
 2022-12-16T21:46:59.930Z,19.1121673583984,-155.422164916992,29.6100006103516,1.77999997,md,34,223,,0.119999997,hv,hv73272312,2022-12-16T21:49:57.420Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.62,1.04999995,1.09000003,8,automatic,hv,hv
 2022-12-16T21:37:36.910Z,19.2321662902832,-155.388000488281,31.2199993133545,1.82,ml,36,146,,0.109999999,hv,hv73272307,2022-12-16T21:43:07.400Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.810000002,0.52,3,automatic,hv,hv
 2022-12-16T21:22:56.213Z,38.177,-117.8924,7.5,0.8,ml,8,173.84,0.065,0.085,nn,nn00853535,2022-12-16T21:27:19.103Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.55,5,automatic,nn,nn
@@ -90,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T12:05:47.810Z,36.7731667,-121.1551666,7.81,2.05,md,26,98,0.1075,0.09,nc,nc73819341,2022-12-16T12:51:12.041Z,"15km E of Tres Pinos, CA",earthquake,0.27,0.66,0.16,25,automatic,nc,nc
 2022-12-16T12:01:28.300Z,37.7641667,-122.5678333,9.77,1.17,md,38,97,0.07988,0.08,nc,nc73819336,2022-12-16T20:25:11.936Z,"7km WNW of San Francisco Zoo, CA",earthquake,0.22,0.41,0.214,25,reviewed,nc,nc
 2022-12-16T11:58:16.130Z,19.1011666666667,-64.7108333333333,20.34,3.1,md,6,301,0.7677,0.17,pr,pr71387493,2022-12-16T12:26:27.630Z,"85 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.29,16.73,0.05637534360041,5,reviewed,pr,pr
+2022-12-16T11:51:03.227Z,40.1098,-121.0668,2.7,0.8,ml,3,339.2,0.594,0.0988,nn,nn00853539,2022-12-16T21:54:23.959Z,"Northern California",earthquake,,11.7,0,1,reviewed,nn,nn
 2022-12-16T11:46:49.520Z,33.6836667,-116.7335,16.12,0.61,ml,23,94,0.03181,0.1,ci,ci40391128,2022-12-16T20:27:42.968Z,"6km SSW of Idyllwild, CA",earthquake,0.21,0.31,0.205,10,reviewed,ci,ci
 2022-12-16T11:44:34.327Z,40.0946,-119.6849,16.1,0.5,ml,5,174.52,0.084,0.056,nn,nn00853538,2022-12-16T21:51:15.819Z,"Nevada",earthquake,,2.7,0.16,3,reviewed,nn,nn
 2022-12-16T11:41:02.080Z,46.52633333333333,-122.36,20.36,0.52,ml,10,139,0.1463,0.1,uw,uw61898756,2022-12-16T16:18:09.760Z,"7 km WSW of Morton, Washington",earthquake,0.51,0.91,0.23057056020076022,6,reviewed,uw,uw
@@ -180,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T03:45:42.460Z,36.2255,-89.452,9.24,2.04,md,31,42,0.02598,0.07,nm,nm60502506,2022-12-16T13:51:24.750Z,"5 km SE of Ridgely, Tennessee",earthquake,0.13,0.32,0.150761943522357,26,reviewed,nm,nm
 2022-12-16T03:40:21.410Z,38.8093338,-122.7501678,-0.12,1.28,md,15,115,0.02416,0.03,nc,nc73819196,2022-12-16T04:06:13.846Z,"3km WSW of Cobb, CA",earthquake,0.25,0.9,0.24,16,automatic,nc,nc
 2022-12-16T03:34:33.650Z,36.6259995,-121.2354965,6.13,2.12,md,32,120,0.06546,0.1,nc,nc73819191,2022-12-16T06:30:13.845Z,"13km NW of Pinnacles, CA",earthquake,0.29,0.8,0.17,29,automatic,nc,nc
-2022-12-16T03:26:49.190Z,33.8498333,-117.8655,7.38,2.63,ml,89,39,0.007329,0.24,ci,ci40391032,2022-12-16T19:27:07.470Z,"2km S of Placentia, CA",earthquake,0.21,0.42,0.158,27,reviewed,ci,ci
+2022-12-16T03:26:49.190Z,33.8498333,-117.8655,7.38,2.63,ml,89,39,0.007329,0.24,ci,ci40391032,2022-12-16T21:55:03.033Z,"2km S of Placentia, CA",earthquake,0.21,0.42,0.158,27,reviewed,ci,ci
 2022-12-16T03:09:52.909Z,52.491,-174.2687,157.208,4.2,mb,43,157,1.171,0.82,us,us6000j9m7,2022-12-16T18:23:44.004Z,"33 km N of Atka, Alaska",earthquake,13.06,10.287,0.064,68,reviewed,us,us
 2022-12-16T03:08:48.153Z,23.4803,125.1193,53.705,4.5,mb,23,129,2.164,1.03,us,us6000j9mc,2022-12-16T04:05:00.040Z,"136 km SE of Ishigaki, Japan",earthquake,13.89,7.822,0.132,18,reviewed,us,us
 2022-12-16T03:00:31.930Z,33.7151667,-116.7641667,15.98,0.24,ml,15,182,0.04187,0.09,ci,ci40391024,2022-12-16T18:55:40.647Z,"5km WSW of Idyllwild, CA",earthquake,0.36,0.45,0.17,9,reviewed,ci,ci
