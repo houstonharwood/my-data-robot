@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-19T06:48:29.760Z,38.7878342,-122.7678299,2.27,1.26,md,21,79,0.01426,0.03,nc,nc73820581,2022-12-19T06:50:04.095Z,"2km NW of The Geysers, CA",earthquake,0.25,0.47,0.17,20,automatic,nc,nc
+2022-12-19T06:58:13.656Z,59.6987,-153.4752,112.6,1.7,ml,,,,0.21,ak,ak022g7wmkj9,2022-12-19T07:00:09.740Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-12-19T06:57:27.590Z,33.3171667,-116.3771667,9.61,1.04,ml,36,64,0.05922,0.22,ci,ci40392112,2022-12-19T07:01:10.580Z,"7km N of Borrego Springs, CA",earthquake,0.31,0.7,0.191,27,automatic,ci,ci
+2022-12-19T06:52:54.560Z,19.2110004425049,-155.485504150391,30.3600006103516,1.85000002,md,23,81,,0.109999999,hv,hv73275832,2022-12-19T06:56:04.710Z,"Island of Hawaii, Hawaii",earthquake,0.89,0.959999979,0.74000001,3,automatic,hv,hv
+2022-12-19T06:48:29.760Z,38.7878342,-122.7678299,2.27,1.26,md,21,79,0.01426,0.03,nc,nc73820581,2022-12-19T07:02:11.196Z,"2km NW of The Geysers, CA",earthquake,0.25,0.47,0.17,20,automatic,nc,nc
 2022-12-19T06:36:46.960Z,35.9923325,-120.1855011,7.88,1.27,md,10,135,0.09107,0.04,nc,nc73820576,2022-12-19T06:48:10.115Z,"5km WSW of Avenal, CA",earthquake,0.86,0.39,0.05,4,automatic,nc,nc
 2022-12-19T06:32:52.170Z,19.1918334960938,-155.479827880859,34.7599983215332,2.4,ml,45,81,,0.109999999,hv,hv73275792,2022-12-19T06:38:23.260Z,"1 km S of Pāhala, Hawaii",earthquake,0.59,0.790000021,0.34,7,automatic,hv,hv
 2022-12-19T06:27:13.746Z,58.1698,-155.4389,19.4,0.4,ml,,,,0.89,ak,ak022g7wfxhg,2022-12-19T06:29:58.610Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -40,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T01:54:49.410Z,38.8326683,-122.7753296,0.74,0.65,md,7,108,0.004766,0.01,nc,nc73820516,2022-12-19T02:28:12.553Z,"5km WNW of Cobb, CA",earthquake,0.33,0.53,0.29,7,automatic,nc,nc
 2022-12-19T01:50:25.550Z,33.2961667,-116.7256667,11.15,0.35,ml,14,106,0.06612,0.25,ci,ci40392048,2022-12-19T01:53:57.978Z,"7km NNE of Lake Henshaw, CA",earthquake,0.83,1.41,0.085,6,automatic,ci,ci
 2022-12-19T01:22:38.839Z,44.2771,-116.1994,14.476,2.9,ml,16,62,0.823,0.62,us,us6000ja7t,2022-12-19T02:07:15.501Z,"9 km WSW of Smiths Ferry, Idaho",earthquake,1.85,6.729,0.04,84,reviewed,us,us
+2022-12-19T01:08:30.220Z,38.2123333,-119.1833333,4.71,1.97,md,14,105,0.1413,0.1,nc,nc73820501,2022-12-19T07:00:01.407Z,"6km SE of Bridgeport, CA",earthquake,0.46,5.59,0.268,12,reviewed,nc,nc
 2022-12-19T01:00:07.672Z,60.5069,-150.7731,48.8,1.6,ml,,,,0.34,ak,ak022g7tayin,2022-12-19T01:01:55.639Z,"0 km NW of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-19T00:57:04.782Z,-3.5069,-77.0225,104.594,5,mb,100,126,6.005,0.81,us,us6000ja7n,2022-12-19T02:48:26.441Z,"Peru-Ecuador border region",earthquake,9.44,6.96,0.025,521,reviewed,us,us
 2022-12-19T00:40:57.962Z,60.3314,-146.4389,20.1,2,ml,,,,0.63,ak,ak022g7sy7fo,2022-12-19T00:43:12.072Z,"44 km WSW of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -120,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T16:06:01.460Z,33.5891667,-116.807,7.36,0.48,ml,22,45,0.03609,0.11,ci,ci40391896,2022-12-18T16:09:22.852Z,"13km WNW of Anza, CA",earthquake,0.22,0.42,0.198,18,automatic,ci,ci
 2022-12-18T16:03:02.097Z,60.1985,-141.2966,0.1,1.5,ml,,,,0.76,ak,ak022g6epqtd,2022-12-18T16:04:43.806Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-18T16:01:40.889Z,31.93267822,-102.012076,11.12691243,3.2,ml,24,78,0.1316940094,0.1,tx,tx2022ysnh,2022-12-19T06:39:38.285Z,"9 km SE of Midland, Texas",earthquake,1.142570484,1.672624253,0.2,12,reviewed,tx,tx
-2022-12-18T16:01:00.460Z,39.0741667,-122.519,9.87,1.46,md,22,103,0.204,0.21,nc,nc73820331,2022-12-19T06:33:11.020Z,"14km ENE of Clearlake Oaks, CA",earthquake,0.39,1.49,0.173,17,reviewed,nc,nc
+2022-12-18T16:01:00.460Z,39.0741667,-122.519,9.87,1.46,md,22,103,0.204,0.21,nc,nc73820331,2022-12-19T06:55:14.155Z,"14km ENE of Clearlake Oaks, CA",earthquake,0.39,1.49,0.173,17,reviewed,nc,nc
 2022-12-18T15:57:24.480Z,38.8258324,-122.8536682,2.19,0.28,md,8,127,0.01481,0.01,nc,nc73820326,2022-12-18T16:24:13.989Z,"10km WNW of The Geysers, CA",earthquake,0.37,1.15,0.17,9,automatic,nc,nc
 2022-12-18T15:56:01.070Z,38.7876663,-122.7683334,2.23,0.95,md,14,80,0.01459,0.02,nc,nc73820321,2022-12-18T16:51:13.164Z,"2km NW of The Geysers, CA",earthquake,0.29,0.53,0.16,13,automatic,nc,nc
 2022-12-18T15:55:18.500Z,19.2280006408691,-155.387329101562,30.5200004577637,1.80999994,md,33,155,,0.129999995,hv,hv73275182,2022-12-18T15:58:23.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.589999974,0.899999976,3,automatic,hv,hv
@@ -202,7 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T07:22:03.010Z,63.3751,-149.2903,92.8,2.1,ml,,,,0.43,ak,ak022g69gx5a,2022-12-18T07:32:55.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-18T07:19:12.870Z,33.1388333,-116.299,0.71,0.59,ml,7,97,0.06565,0.2,ci,ci40391688,2022-12-18T07:22:50.687Z,"15km SSE of Borrego Springs, CA",earthquake,0.5,31.61,0.182,8,automatic,ci,ci
 2022-12-18T07:13:52.370Z,19.2476673126221,-155.388000488281,34.3699989318848,1.85000002,md,40,137,,0.140000001,hv,hv73274672,2022-12-18T07:17:55.030Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.62,0.870000005,1.46000004,10,automatic,hv,hv
-2022-12-18T07:01:52.492Z,26.7695,126.5988,114.061,5.1,mww,118,38,1.497,1.01,us,us6000ja43,2022-12-18T12:55:25.356Z,"124 km WNW of Naha, Japan",earthquake,7.37,5.891,0.069,20,reviewed,us,us
-2022-12-18T07:01:37.980Z,45.21516666666667,-122.9735,21.38,1.1500000000000001,ml,19,76,0.001379,0.23,uw,uw61898996,2022-12-18T20:52:40.350Z,"Washington-Oregon border region",earthquake,0.46,0.79,0.1137612901583217,12,reviewed,uw,uw
-2022-12-18T06:57:13.080Z,38.8396683,-122.8233337,1.54,0.23,md,10,95,0.009552,0.01,nc,nc73820161,2022-12-18T07:14:10.644Z,"9km WNW of Cobb, CA",earthquake,0.41,0.94,0.13,11,automatic,nc,nc
-2022-12-18T06:55:22.310Z,37.4991667,-118.8358333,8.65,0.39,md,7,243,0.09086,0.06,nc,nc73820166,2022-12-19T05:46:17.717Z,"15km WSW of Toms Place, CA",earthquake,1.41,3.6,0.22,7,reviewed,nc,nc
