@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-20T11:31:55.900Z,40.6263351,-124.1945038,8.72,2.22,md,12,173,0.2982,0.22,nc,nc73821206,2022-12-20T11:33:33.253Z,"4km NW of Fortuna, CA",earthquake,1.22,2.26,0.13,6,automatic,nc,nc
-2022-12-20T11:30:29.470Z,40.5193329,-124.3759995,14.7,3.17,ml,18,261,,0.08,nc,nc73821196,2022-12-20T11:32:31.460Z,"11km WSW of Ferndale, CA",earthquake,1.09,0.33,0.165,5,automatic,nc,nc
+2022-12-20T11:35:23.490Z,38.8320007,-122.8151703,1.54,1.14,md,23,52,0.00947,0.02,nc,nc73821216,2022-12-20T11:36:58.379Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.18,24,automatic,nc,nc
+2022-12-20T11:31:55.900Z,40.6263351,-124.1945038,8.72,2.22,md,12,173,0.2982,0.22,nc,nc73821206,2022-12-20T11:40:19.225Z,"4km NW of Fortuna, CA",earthquake,1.22,2.26,0.13,6,automatic,nc,nc
+2022-12-20T11:30:29.470Z,40.5193329,-124.3759995,14.7,3.17,ml,18,261,,0.08,nc,nc73821196,2022-12-20T11:40:18.489Z,"11km WSW of Ferndale, CA",earthquake,1.09,0.33,0.165,5,automatic,nc,nc
 2022-12-20T11:23:43.860Z,40.5083351,-124.4189987,21.11,2.9,md,9,289,0.07026,0.07,nc,nc73821186,2022-12-20T11:30:22.853Z,"15km WSW of Ferndale, CA",earthquake,2.47,0.61,0.05,6,automatic,nc,nc
 2022-12-20T11:21:40.140Z,40.5854988,-124.2611694,19.26,2.91,md,21,164,,0.07,nc,nc73821181,2022-12-20T11:30:22.416Z,"1km NNE of Ferndale, CA",earthquake,0.45,0.44,0.14,14,automatic,nc,nc
 2022-12-20T11:18:35.499Z,66.1442,-146.6205,5,2,ml,,,,1.33,ak,ak022g9mwk3h,2022-12-20T11:22:16.074Z,"38 km WSW of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T11:13:53.670Z,62.8395,-149.259,54.2,2.2,ml,,,,0.45,ak,ak022g9mvix3,2022-12-20T11:15:39.766Z,"61 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-20T11:12:30.830Z,40.652668,-124.0406647,-0.86,1.69,md,6,239,0.2814,0.01,nc,nc73821171,2022-12-20T11:20:26.483Z,"12km ENE of Fortuna, CA",earthquake,1.12,5.31,,1,automatic,nc,nc
 2022-12-20T11:11:04.120Z,38.796833,-122.7608337,-0.88,1.08,md,7,115,0.02148,0.01,nc,nc73821166,2022-12-20T11:12:37.970Z,"2km N of The Geysers, CA",earthquake,0.55,4.01,0.05,8,automatic,nc,nc
-2022-12-20T11:09:00.980Z,40.5478325,-124.3613358,10.61,3.37,ml,10,252,0.4298,0.1,nc,nc73821161,2022-12-20T11:28:34.533Z,"9km WSW of Ferndale, CA",earthquake,2.5,1.34,0.222,6,automatic,nc,nc
+2022-12-20T11:09:00.980Z,40.5478325,-124.3613358,10.61,3.37,ml,10,252,0.4298,0.1,nc,nc73821161,2022-12-20T11:40:17.489Z,"9km WSW of Ferndale, CA",earthquake,2.5,1.34,0.222,6,automatic,nc,nc
 2022-12-20T11:08:51.770Z,40.8396683,-123.6833344,-0.53,3.92,ml,7,197,0.3954,0.35,nc,nc73821156,2022-12-20T11:28:33.407Z,"12km SSW of Willow Creek, CA",earthquake,5.68,12.79,0.701,7,reviewed,nc,nc
 2022-12-20T11:07:06.770Z,38.8206673,-122.803833,2.44,1.08,md,22,61,0.005584,0.01,nc,nc73821151,2022-12-20T11:08:43.569Z,"6km NW of The Geysers, CA",earthquake,0.23,0.45,0.05,24,automatic,nc,nc
 2022-12-20T11:05:02.510Z,40.550499,-124.2969971,15.44,2.56,md,8,239,0.08097,0.07,nc,nc73821146,2022-12-20T11:28:33.518Z,"4km SW of Ferndale, CA",earthquake,1.37,1.33,0.07,7,automatic,nc,nc
@@ -27,8 +28,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T10:42:20.570Z,38.8341675,-122.7815018,0.32,0.99,md,8,86,0.008101,0.01,nc,nc73821061,2022-12-20T10:43:58.180Z,"5km WNW of Cobb, CA",earthquake,0.47,1.06,0.2,10,automatic,nc,nc
 2022-12-20T10:41:56.560Z,38.8351669,-122.7801666,0.58,1.1,md,12,98,0.007986,0.02,nc,nc73821056,2022-12-20T11:28:24.525Z,"5km WNW of Cobb, CA",earthquake,0.5,0.86,0.16,13,automatic,nc,nc
 2022-12-20T10:41:28.330Z,38.8348351,-122.7811661,0.68,0.7,md,6,90,0.008007,0.01,nc,nc73821051,2022-12-20T10:43:03.223Z,"5km WNW of Cobb, CA",earthquake,0.52,1.16,0.11,8,automatic,nc,nc
-2022-12-20T10:39:02.600Z,40.5151672,-124.1740036,24.15,4.55,ml,5,250,,0.01,nc,nc73821046,2022-12-20T11:30:56.256Z,"6km WNW of Rio Dell, CA",earthquake,2.17,1.19,0.3,10,reviewed,nc,nc
-2022-12-20T10:34:25.020Z,40.5233345,-124.3933334,16.06,6.37,mw,36,219,,0.13,nc,nc73821036,2022-12-20T11:32:26.385Z,"12km WSW of Ferndale, CA",earthquake,0.65,0.31,,4,reviewed,nc,nc
+2022-12-20T10:39:02.600Z,40.5151672,-124.1740036,24.15,4.55,ml,5,250,,0.01,nc,nc73821046,2022-12-20T11:37:18.565Z,"6km WNW of Rio Dell, CA",earthquake,2.17,1.19,0.3,10,reviewed,nc,nc
+2022-12-20T10:34:25.020Z,40.5233345,-124.3933334,16.06,6.37,mw,36,219,,0.13,nc,nc73821036,2022-12-20T11:38:23.775Z,"12km WSW of Ferndale, CA",earthquake,0.65,0.31,,4,reviewed,nc,nc
 2022-12-20T10:18:19.630Z,35.681,-118.3688333,3.24,1.4,ml,24,48,0.01976,0.16,ci,ci40392576,2022-12-20T10:21:50.310Z,"8km ESE of Wofford Heights, CA",earthquake,0.28,0.44,0.213,20,automatic,ci,ci
 2022-12-20T10:15:41.460Z,36.1581667,-118.396,15.89,0.89,ml,14,85,0.0673,0.18,ci,ci40392568,2022-12-20T10:19:16.882Z,"38km WSW of Olancha, CA",earthquake,0.46,0.81,0.185,8,automatic,ci,ci
 2022-12-20T10:15:06.770Z,38.8478317,-122.8146667,1.09,0.73,md,8,107,0.009615,0.01,nc,nc73821021,2022-12-20T11:11:18.306Z,"8km WNW of Cobb, CA",earthquake,0.7,1.75,0.51,9,automatic,nc,nc
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T11:50:10.870Z,34.332,-116.8101667,4.2,0.79,ml,19,67,0.02145,0.11,ci,ci40392224,2022-12-19T19:03:01.883Z,"8km NNE of Big Bear City, CA",earthquake,0.17,0.33,0.143,14,reviewed,ci,ci
 2022-12-19T11:47:00.090Z,34.681,-118.0311667,1.96,0.97,ml,25,46,0.1536,0.16,ci,ci40392216,2022-12-19T14:28:40.778Z,"11km E of Lancaster, CA",earthquake,0.25,0.51,0.165,25,reviewed,ci,ci
 2022-12-19T11:42:03.940Z,38.788166,-122.7483368,1.99,1.05,md,13,84,0.01529,0.02,nc,nc73820661,2022-12-19T12:37:13.180Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.63,0.21,13,automatic,nc,nc
-2022-12-19T11:37:21.006Z,38.1788,-117.8004,11.1,1.9,ml,17,139.06,0.125,0.143,nn,nn00853686,2022-12-19T17:27:38.911Z,"35 km SE of Mina, Nevada",earthquake,,1.2,0.21,7,reviewed,nn,nn
-2022-12-19T11:35:12.790Z,33.0335,-116.3998333,6.28,0.59,ml,25,96,0.05428,0.15,ci,ci40392208,2022-12-19T18:58:26.390Z,"20km ESE of Julian, CA",earthquake,0.31,0.59,0.09,10,reviewed,ci,ci
