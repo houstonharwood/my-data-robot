@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T09:19:53.210Z,61.1123,-150.3021,39,1.7,ml,,,,0.52,ak,ak022gb99agp,2022-12-21T09:21:51.835Z,"24 km WSW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-21T09:16:47.320Z,37.5241667,-118.8496667,7.2,0.76,md,10,115,0.06774,0.02,nc,nc73822416,2022-12-21T12:39:15.695Z,"16km WSW of Toms Place, CA",earthquake,0.69,1.65,0.161,9,reviewed,nc,nc
 2022-12-21T09:13:55.680Z,40.5323334,-124.2358322,20,2.15,md,10,174,0.09604,0.1,nc,nc73822411,2022-12-21T12:22:14.812Z,"5km SSE of Ferndale, CA",earthquake,1.14,0.93,0.07,7,automatic,nc,nc
-2022-12-21T09:12:36.442Z,32.11029053,-102.2050067,7.752156576,3.2,ml,10,66,0.03768184043,0.1,tx,tx2022yxmi,2022-12-21T14:00:26.014Z,"17 km NW of Midland, Texas",earthquake,0.701952558,0.8698710537999998,0.3,13,reviewed,tx,tx
+2022-12-21T09:12:36.442Z,32.11029053,-102.2050067,7.752156576,3.2,ml,10,66,0.03768184043,0.1,tx,tx2022yxmi,2022-12-21T14:52:49.647Z,"17 km NW of Midland, Texas",earthquake,0.701952558,0.8698710537999998,0.3,13,reviewed,tx,tx
 2022-12-21T09:03:11.600Z,40.5301666,-124.3515015,14.84,3.03,ml,22,207,0.05558,0.18,nc,nc73822406,2022-12-21T12:09:15.516Z,"9km SW of Ferndale, CA",earthquake,1.39,0.5,0.271,5,automatic,nc,nc
 2022-12-21T09:02:55.670Z,40.5541649,-124.1656647,20.33,1.93,md,11,165,0.1527,0.09,nc,nc73822401,2022-12-21T09:20:11.606Z,"5km S of Fortuna, CA",earthquake,0.75,0.6,0.02,6,automatic,nc,nc
 2022-12-21T08:50:50.105Z,53.9378,-160.9522,12.068,4.9,mb,89,162,1.199,0.6,us,us6000jatf,2022-12-21T10:31:21.040Z,"south of Alaska",earthquake,7.51,4.757,0.056,101,reviewed,us,us
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T05:22:15.640Z,40.5598335,-124.1373367,21.59,2.31,md,14,162,0.1743,0.09,nc,nc73822271,2022-12-21T05:44:13.239Z,"4km WNW of Hydesville, CA",earthquake,0.59,0.85,0.05,11,automatic,nc,nc
 2022-12-21T05:18:41.420Z,40.6580009,-123.8410034,17.32,1.91,md,7,140,0.07317,0.04,nc,nc73822266,2022-12-21T05:44:13.369Z,"25km ENE of Hydesville, CA",earthquake,2.14,1.9,0.21,5,automatic,nc,nc
 2022-12-21T05:04:51.181Z,58.1728,-155.2588,0,1,ml,,,,0.82,ak,ak022gb6sc5a,2022-12-21T05:06:21.110Z,"82 km NW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2022-12-21T05:02:53.790Z,40.5208333,-124.0273333,23.31,2.77,md,35,41,0.1146,0.14,nc,nc73822256,2022-12-21T10:54:11.048Z,"7km ESE of Hydesville, CA",earthquake,0.24,0.45,0.157,63,reviewed,nc,nc
+2022-12-21T05:02:53.790Z,40.5208333,-124.0273333,23.31,2.77,md,35,41,0.1146,0.14,nc,nc73822256,2022-12-21T14:51:33.987Z,"7km ESE of Hydesville, CA",earthquake,0.24,0.45,0.157,63,reviewed,nc,nc
 2022-12-21T04:55:24.700Z,40.5936661,-124.0684967,20.85,2.62,md,16,122,,0.07,nc,nc73822251,2022-12-21T09:24:11.500Z,"6km NNE of Hydesville, CA",earthquake,0.43,0.6,0.2,11,automatic,nc,nc
 2022-12-21T04:40:53.777Z,64.928,-148.9453,5.6,1.4,ml,,,,0.75,ak,ak022gb6emf0,2022-12-21T04:43:01.834Z,"31 km SE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-21T04:38:53.150Z,40.5966682,-124.0738297,14.24,2.66,md,16,123,0.1769,0.1,nc,nc73822246,2022-12-21T09:09:12.403Z,"6km NNE of Hydesville, CA",earthquake,0.49,0.79,0.09,13,automatic,nc,nc
@@ -234,7 +234,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T16:33:08.369Z,35.9115,-95.1565,0,1.64,ml,51,106,0.2762457912,0.49,ok,ok2022ywfi,2022-12-21T13:44:54.395Z,"2 km SSW of Hulbert, Oklahoma",quarry blast,,0.5,0.16,13,reviewed,ok,ok
 2022-12-20T16:33:00.140Z,40.7411652,-124.7580032,23.79,2.19,md,7,311,0.4158,0.07,nc,nc73821756,2022-12-20T17:21:15.295Z,"46km WNW of Ferndale, CA",earthquake,7.07,9.88,0.09,5,automatic,nc,nc
 2022-12-20T16:32:05.320Z,36.5395,-98.9605,7.18,1.72,ml,55,51,0.04769064147,0.18,ok,ok2022ywfh,2022-12-21T14:36:08.448Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.24,22,reviewed,ok,ok
-2022-12-20T16:21:04.432Z,36.54053497,-98.96053314,5.797834396,1.79,ml,13,74.34323406,0.04853150994,0.145951551,ok,ok2022ywey,2022-12-20T16:23:39.401Z,"8 km WSW of Waynoka, Oklahoma",earthquake,3.443965046,4.247201682,,11,automatic,ok,ok
+2022-12-20T16:21:04.559Z,36.54083333,-98.96,6.81,1.68,ml,56,47,0.04859046489,0.18,ok,ok2022ywey,2022-12-21T14:46:43.865Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.22,19,reviewed,ok,ok
 2022-12-20T16:19:39.740Z,38.1442,-117.993,9.1,0.6,ml,13,137.98,0.027,0.1577,nn,nn00853768,2022-12-20T17:37:11.924Z,"29 km SSE of Mina, Nevada",earthquake,,1.2,0.21,2,reviewed,nn,nn
 2022-12-20T16:13:30.960Z,40.5960007,-124.079834,14.32,2.49,md,15,125,0.1807,0.06,nc,nc73821741,2022-12-20T17:21:13.917Z,"6km NNE of Hydesville, CA",earthquake,0.36,0.55,0.08,13,automatic,nc,nc
 2022-12-20T16:11:45.780Z,40.5833321,-123.9191666,16.58,1.84,md,8,194,0.1324,0.39,nc,nc73821736,2022-12-20T17:21:12.809Z,"16km ENE of Hydesville, CA",earthquake,4.54,2.45,0.15,5,automatic,nc,nc
