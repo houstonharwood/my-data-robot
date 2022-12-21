@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-21T11:36:49.040Z,35.6966667,-117.5301667,10.33,2.87,ml,28,78,0.1308,0.15,ci,ci40392904,2022-12-21T11:40:33.210Z,"14km SW of Searles Valley, CA",earthquake,0.27,0.58,0.136,25,automatic,ci,ci
+2022-12-21T11:36:49.040Z,35.6966667,-117.5301667,10.33,2.87,ml,28,78,0.1308,0.15,ci,ci40392904,2022-12-21T11:47:29.780Z,"14km SW of Searles Valley, CA",earthquake,0.27,0.58,0.136,25,automatic,ci,ci
 2022-12-21T11:33:43.380Z,40.5183334,-124.392334,15.79,2.33,md,12,265,0.05979,0.07,nc,nc73822466,2022-12-21T11:40:10.328Z,"13km WSW of Ferndale, CA",earthquake,1.64,0.63,0.1,9,automatic,nc,nc
 2022-12-21T11:33:31.600Z,19.1633338928223,-155.495498657227,31.6599998474121,2.6400001,md,40,118,,0.109999999,hv,hv73277507,2022-12-21T11:36:52.210Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.71,0.810000002,1.63999999,19,automatic,hv,hv
 2022-12-21T11:31:52.790Z,34.017,-117.214,7.94,0.84,ml,17,101,0.07743,0.21,ci,ci40392896,2022-12-21T11:35:24.813Z,"5km SW of Redlands, CA",earthquake,0.41,1.06,0.228,22,automatic,ci,ci
-2022-12-21T11:19:37.667Z,38.1855,-117.7878,8,2.9,ml,42,102.22,0.125,0.3129,nn,nn00853864,2022-12-21T11:24:51.343Z,"36 km SE of Mina, Nevada",earthquake,,0.5,0.82,23,automatic,nn,nn
+2022-12-21T11:19:37.667Z,38.1855,-117.7878,8,2.9,ml,42,102.22,0.125,0.3129,nn,nn00853864,2022-12-21T11:42:42.040Z,"36 km SE of Mina, Nevada",earthquake,,0.5,0.82,23,automatic,nn,nn
 2022-12-21T11:16:19.231Z,-6.1282,151.7701,10,5.3,mww,64,60,8.744,0.61,us,us6000jau3,2022-12-21T11:36:00.040Z,"191 km ESE of Kimbe, Papua New Guinea",earthquake,8.76,1.861,0.08,15,reviewed,us,us
 2022-12-21T10:46:07.370Z,40.725666,-124.6303329,0.65,2.09,md,7,304,0.4819,0.2,nc,nc73822451,2022-12-21T11:17:33.004Z,"35km WNW of Ferndale, CA",earthquake,9.87,11.93,0.05,3,automatic,nc,nc
 2022-12-21T10:35:18.205Z,62.2944,-150.1927,14.1,1.7,ml,,,,0.88,ak,ak022gb9y2to,2022-12-21T10:37:09.495Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -292,8 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T11:51:40.230Z,40.5391667,-124.2981667,17.28,2.1,md,19,173,0.04535,0.12,nc,nc73821256,2022-12-21T01:12:17.545Z,"5km SW of Ferndale, CA",earthquake,0.49,0.32,0.088,9,reviewed,nc,nc
 2022-12-20T11:50:10.340Z,40.5753326,-124.1168365,19.69,2.34,md,14,169,0.1955,0.08,nc,nc73821251,2022-12-20T12:09:24.557Z,"4km NNW of Hydesville, CA",earthquake,0.56,0.55,0.06,8,automatic,nc,nc
 2022-12-20T11:48:34.080Z,40.5285,-124.3983333,18.15,2.75,md,21,226,0.07035,0.1,nc,nc73821241,2022-12-21T03:08:12.225Z,"12km WSW of Ferndale, CA",earthquake,0.64,0.29,0.157,31,reviewed,nc,nc
-2022-12-20T11:46:06.510Z,40.6738319,-124.07267,5.8,2.8,md,6,223,0.2831,0.05,nc,nc73821236,2022-12-20T18:05:13.072Z,"9km SE of Pine Hills, CA",earthquake,1.5,1.35,0.06,3,automatic,nc,nc
-2022-12-20T11:46:00.080Z,58.4191666666667,-154.904833333333,8.13,-0.29,ml,5,186,,0.17,av,av91081278,2022-12-21T06:18:43.790Z,"Alaska Peninsula",earthquake,1.68,1.74,0.103173428357918,5,reviewed,av,av
-2022-12-20T11:44:58.860Z,40.52,-124.3421667,18.88,2.02,md,16,204,0.04362,0.11,nc,nc73821231,2022-12-21T01:12:16.834Z,"9km SW of Ferndale, CA",earthquake,0.73,0.32,0.077,8,reviewed,nc,nc
-2022-12-20T11:42:54.980Z,40.529,-124.3145,17.94,3.02,ml,25,180,0.03478,0.09,nc,nc73821226,2022-12-21T00:52:13.431Z,"7km SW of Ferndale, CA",earthquake,0.49,0.29,0.238,27,reviewed,nc,nc
-2022-12-20T11:42:08.450Z,18.8855,-64.6771666666667,16.32,3.1,md,4,313,0.5583,0.19,pr,pr71388218,2022-12-20T12:19:39.000Z,"62 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.64,13.1,0.104576446339111,3,reviewed,pr,pr
