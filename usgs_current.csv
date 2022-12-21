@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-21T10:46:07.370Z,40.725666,-124.6303329,0.65,2.09,md,7,304,0.4819,0.2,nc,nc73822451,2022-12-21T10:54:12.048Z,"35km WNW of Ferndale, CA",earthquake,9.87,11.93,0.05,3,automatic,nc,nc
+2022-12-21T10:46:07.370Z,40.725666,-124.6303329,0.65,2.09,md,7,304,0.4819,0.2,nc,nc73822451,2022-12-21T11:17:33.004Z,"35km WNW of Ferndale, CA",earthquake,9.87,11.93,0.05,3,automatic,nc,nc
 2022-12-21T10:35:18.205Z,62.2944,-150.1927,14.1,1.7,ml,,,,0.88,ak,ak022gb9y2to,2022-12-21T10:37:09.495Z,"3 km SE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-21T10:33:31.651Z,63.8326,-147.2415,0,1.7,ml,,,,1.17,ak,ak022gb9xodl,2022-12-21T10:44:19.987Z,"67 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-21T10:21:36.030Z,33.6583333,-116.6696667,16.04,1.06,ml,41,35,0.06337,0.17,ci,ci40392880,2022-12-21T10:25:05.082Z,"10km SSE of Idyllwild, CA",earthquake,0.22,0.38,0.223,26,automatic,ci,ci
 2022-12-21T09:55:31.370Z,19.4253330230713,-155.258666992188,0.439999997615814,2.03999996,md,11,68,,0.280000001,hv,hv73277487,2022-12-21T09:58:46.170Z,"3 km SW of Volcano, Hawaii",earthquake,0.41,0.460000008,0.850000024,5,automatic,hv,hv
 2022-12-21T09:55:29.040Z,19.3891658782959,-155.29866027832,1.07000005245209,2.01999998,md,13,119,,0.330000013,hv,hv73277482,2022-12-21T09:58:27.230Z,"9 km SW of Volcano, Hawaii",earthquake,0.45,0.25,0.959999979,5,automatic,hv,hv
 2022-12-21T09:54:38.070Z,37.2991676,-121.6706696,6.12,1.55,md,21,49,0.04016,0.05,nc,nc73822431,2022-12-21T10:09:12.768Z,"15km E of Seven Trees, CA",earthquake,0.18,0.47,0.16,14,automatic,nc,nc
+2022-12-21T09:53:28.120Z,19.433,-65.8145,43,3.6,md,15,272,1.1557,0.3,pr,pr2022355001,2022-12-21T11:11:57.657Z,"111 km N of Suárez, Puerto Rico",earthquake,3.11,15.13,0.03,6,reviewed,pr,pr
 2022-12-21T09:43:57.789Z,-24.3544,-67.0394,160.919,4.6,mb,36,70,1.744,1.07,us,us6000jatu,2022-12-21T10:01:18.040Z,"74 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.86,5.175,0.114,23,reviewed,us,us
 2022-12-21T09:19:53.210Z,61.1123,-150.3021,39,1.7,ml,,,,0.52,ak,ak022gb99agp,2022-12-21T09:21:51.835Z,"24 km WSW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-21T09:13:55.680Z,40.5323334,-124.2358322,20,2.15,md,10,174,0.09604,0.1,nc,nc73822411,2022-12-21T09:20:12.471Z,"5km SSE of Ferndale, CA",earthquake,1.14,0.93,0.07,7,automatic,nc,nc
@@ -296,8 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T11:30:29.240Z,40.5126667,-124.4091667,16.91,2.74,md,24,217,0.06604,0.12,nc,nc73821196,2022-12-21T08:11:36.761Z,"14km WSW of Ferndale, CA",earthquake,0.63,0.33,0.149,50,reviewed,nc,nc
 2022-12-20T11:23:54.900Z,51.8793333333333,-177.989,5.24,1.06,ml,5,115,,0.19,av,av91734046,2022-12-21T06:04:47.540Z,"93 km W of Adak, Alaska",earthquake,0.52,1.01,0.174897415036498,5,reviewed,av,av
 2022-12-20T11:23:43.860Z,40.5083351,-124.4189987,21.11,2.9,md,9,289,0.07026,0.07,nc,nc73821186,2022-12-20T22:27:03.465Z,"15km WSW of Ferndale, CA",earthquake,2.47,0.61,0.05,6,automatic,nc,nc
-2022-12-20T11:21:40.110Z,40.5871667,-124.2598333,20.96,2.71,md,25,166,0.01138,0.07,nc,nc73821181,2022-12-21T08:36:12.200Z,"1km NNE of Ferndale, CA",earthquake,0.43,0.23,0.122,33,reviewed,nc,nc
-2022-12-20T11:18:35.499Z,66.1442,-146.6205,5,2,ml,,,,1.33,ak,ak022g9mwk3h,2022-12-20T17:33:48.836Z,"38 km WSW of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-20T11:16:14.826Z,60.9466,-147.6278,0,2.3,ml,,,,0.64,ak,ak022g9mw32i,2022-12-20T11:18:26.559Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-20T11:13:53.670Z,62.8395,-149.259,54.2,2.2,ml,,,,0.45,ak,ak022g9mvix3,2022-12-20T11:15:39.766Z,"61 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-20T11:12:30.830Z,40.652668,-124.0406647,-0.86,1.69,md,6,239,0.2814,0.01,nc,nc73821171,2022-12-20T15:00:18.767Z,"12km ENE of Fortuna, CA",earthquake,1.12,5.31,,1,automatic,nc,nc
