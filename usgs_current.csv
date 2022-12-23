@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T23:28:42.060Z,38.814167,-122.8300018,1.47,1.08,md,16,48,0.00533,0.02,nc,nc73823871,2022-12-23T23:30:15.026Z,"8km WNW of The Geysers, CA",earthquake,0.21,0.52,0.24,18,automatic,nc,nc
 2022-12-23T22:49:10.050Z,38.7891655,-122.7331696,1.4,1.08,md,14,89,0.02369,0.03,nc,nc73823866,2022-12-23T23:09:12.961Z,"2km ENE of The Geysers, CA",earthquake,0.28,0.62,0.19,12,automatic,nc,nc
 2022-12-23T22:48:33.820Z,33.4405,-116.4426667,9.73,0.89,ml,32,69,0.08389,0.2,ci,ci40149231,2022-12-23T22:52:15.261Z,"22km NNW of Borrego Springs, CA",earthquake,0.3,0.7,0.127,24,automatic,ci,ci
 2022-12-23T22:44:53.880Z,17.9496666666667,-66.9141666666667,14.41,2.42,md,11,208,0.1091,0.12,pr,pr71388693,2022-12-23T22:55:17.210Z,"Puerto Rico region",earthquake,0.47,0.65,0.162527717595965,7,reviewed,pr,pr
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T15:24:32.568Z,63.0846,-150.3754,94.2,2.3,ml,,,,0.34,ak,ak022genxm2g,2022-12-23T15:31:37.907Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-23T15:23:11.870Z,38.8276672,-122.8553314,2.24,0.78,md,16,72,0.00121,0.03,nc,nc73823716,2022-12-23T16:07:14.257Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.45,0.21,17,automatic,nc,nc
 2022-12-23T15:19:51.660Z,19.41,-155.297,2.38,2.12,ml,21,83,,0.08,hv,hv73279447,2022-12-23T17:45:50.430Z,"7 km WSW of Volcano, Hawaii",earthquake,0.22,0.21,0.124451519012554,14,reviewed,hv,hv
-2022-12-23T15:16:00.935Z,62.9239,-148.1682,113,2.3,ml,,,,0.99,ak,ak022genvq03,2022-12-23T15:26:56.596Z,"Central Alaska",earthquake,,3.8,,,automatic,ak,ak
+2022-12-23T15:16:14.920Z,63.8701,-147.2397,10.2,1.1,ml,,,,0.97,ak,ak022genvq03,2022-12-23T23:32:58.477Z,"64 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-12-23T15:11:14.712Z,56.668,-153.6244,58.4,3.3,ml,,,,1.51,ak,ak022genus8k,2022-12-23T23:29:02.897Z,"Kodiak Island region, Alaska",earthquake,,4,,,reviewed,ak,ak
 2022-12-23T14:47:26.965Z,61.5008,-149.9017,33.4,2.3,ml,,,,0.28,ak,ak022genh3i0,2022-12-23T20:43:40.021Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-23T14:45:01.320Z,58.2495,-155.065333333333,3.16,0.25,ml,4,155,,0.08,av,av91736961,2022-12-23T16:06:33.850Z,"83 km NNW of Karluk, Alaska",earthquake,1,1.57,0.109292260708458,4,reviewed,av,av
@@ -203,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T00:18:32.572Z,65.0403,-147.4522,0,1.7,ml,,,,1.01,ak,ak022geeytp5,2022-12-23T00:20:12.315Z,"12 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-23T00:18:28.660Z,19.2186660766602,-155.386505126953,32.0400009155273,1.87,md,32,155,,0.129999995,hv,hv73278727,2022-12-23T00:21:53.580Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.899999976,1.01999998,16,automatic,hv,hv
 2022-12-23T00:18:00.920Z,38.8378334,-122.8105011,1.93,1.64,md,35,37,,0.03,nc,nc73823381,2022-12-23T00:35:16.715Z,"8km WNW of Cobb, CA",earthquake,0.16,0.29,0.2,33,automatic,nc,nc
-2022-12-23T00:12:33.660Z,19.3959999084473,-155.253005981445,7.21000003814697,2.67000008,md,9,218,,0.0900000036,hv,hv73278717,2022-12-23T00:15:36.240Z,"Island of Hawaii, Hawaii",earthquake,1.12,0.75,1.33000004,3,automatic,hv,hv
+2022-12-23T00:12:33.660Z,19.3959999084473,-155.253005981445,7.21000003814697,2.67000008,md,9,218,,0.0900000036,hv,hv73278717,2022-12-23T00:15:36.240Z,"5 km SSW of Volcano, Hawaii",earthquake,1.12,0.75,1.33000004,3,automatic,hv,hv
 2022-12-23T00:09:48.160Z,51.7805,-178.438833333333,10.28,2.5,ml,8,156,,0.13,av,av91736636,2022-12-23T03:19:45.690Z,"124 km W of Adak, Alaska",earthquake,0.97,4.01,0.20446075459891,8,reviewed,av,av
 2022-12-23T00:09:13.070Z,38.7750015,-122.7723312,0.63,0.88,md,8,129,0.00669,0.02,nc,nc73823371,2022-12-23T00:25:13.667Z,"1km W of The Geysers, CA",earthquake,0.27,0.38,0.25,10,automatic,nc,nc
 2022-12-23T00:04:12.958Z,61.6068,-150.4762,56.9,2.1,ml,,,,0.45,ak,ak022geevs5r,2022-12-23T00:06:03.070Z,"7 km NNE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
