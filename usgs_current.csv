@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T11:48:53.630Z,19.2245006561279,-155.389663696289,30.6200008392334,2.43,ml,43,149,,0.129999995,hv,hv73279257,2022-12-23T11:54:24.270Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.649999976,0.08,5,automatic,hv,hv
+2022-12-23T11:47:30.400Z,35.916,-117.765,8.74,1.39,ml,16,105,0.05421,0.15,ci,ci40149127,2022-12-23T11:51:04.529Z,"13km E of Little Lake, CA",earthquake,0.34,0.7,0.163,17,automatic,ci,ci
 2022-12-23T11:42:24.170Z,38.8300018,-122.8098297,1.96,0.97,md,20,43,0.0066,0.01,nc,nc73823631,2022-12-23T11:44:01.676Z,"8km NW of The Geysers, CA",earthquake,0.22,0.42,0.23,19,automatic,nc,nc
 2022-12-23T11:31:59.615Z,36.8464,-115.9694,0,-0.1,ml,8,157.4,0.052,0.2831,nn,nn00854050,2022-12-23T11:34:09.343Z,"40 km NW of Indian Springs, Nevada",earthquake,,0.6,0.07,3,automatic,nn,nn
 2022-12-23T11:25:38.217Z,38.1759,-117.8672,0.1,1,ml,10,179.17,0.081,0.2526,nn,nn00854049,2022-12-23T11:28:39.592Z,"31 km SE of Mina, Nevada",earthquake,,8.4,0.37,6,automatic,nn,nn
@@ -168,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T17:07:28.980Z,38.7874985,-122.7685013,2.36,0.73,md,8,124,0.0148,0.02,nc,nc73823176,2022-12-22T17:24:12.160Z,"2km NW of The Geysers, CA",earthquake,0.48,1,0.34,10,automatic,nc,nc
 2022-12-22T16:58:11.440Z,33.6405,-116.6993333,14.42,0.51,ml,17,65,0.03544,0.09,ci,ci40148895,2022-12-22T17:37:01.692Z,"10km NNW of Anza, CA",earthquake,0.29,0.44,0.203,7,reviewed,ci,ci
 2022-12-22T16:55:19.930Z,39.7913333,-123.195,6.58,2.06,md,30,45,0.1009,0.1,nc,nc73823171,2022-12-22T20:57:13.446Z,"4km E of Covelo, CA",earthquake,0.2,0.44,0.121,29,reviewed,nc,nc
-2022-12-22T16:39:58.692Z,41.5252,140.4825,10.986,5,mb,53,96,0.856,0.51,us,us6000jb3w,2022-12-23T11:27:24.156Z,"34 km SW of Hakodate, Japan",earthquake,6.82,4.28,0.103,33,reviewed,us,us
+2022-12-22T16:39:58.692Z,41.5252,140.4825,10.986,5,mb,53,96,0.856,0.51,us,us6000jb3w,2022-12-23T11:52:04.660Z,"34 km SW of Hakodate, Japan",earthquake,6.82,4.28,0.103,33,reviewed,us,us
 2022-12-22T16:37:46.300Z,36.7733333,-113.502,17.39,1.56,ml,11,170,0.3154,0.12,uu,uu60528522,2022-12-22T17:20:06.830Z,"37 km S of Saint George, Utah",earthquake,0.62,1.87,0.07,2,reviewed,uu,uu
 2022-12-22T16:28:45.130Z,46.858333333333334,-121.76066666666667,1.52,0.06,ml,14,78,0.02339,0.09,uw,uw61891022,2022-12-23T07:06:29.150Z,"Washington",earthquake,0.3,0.43,0.28598567418947,4,reviewed,uw,uw
 2022-12-22T16:27:54.670Z,38.8431664,-122.8785019,2.42,0.99,md,13,95,0.00627,0.02,nc,nc73823161,2022-12-22T16:44:11.946Z,"13km ENE of Cloverdale, CA",earthquake,0.33,0.51,0.15,13,automatic,nc,nc
@@ -230,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T12:05:00.820Z,37.508,-119.406,14.16,1.26,md,18,118,0.2232,0.13,nc,nc73823051,2022-12-22T20:16:13.355Z,"29km NE of Oakhurst, CA",earthquake,0.6,1.82,0.292,13,reviewed,nc,nc
 2022-12-22T12:04:20.120Z,38.425,-122.242,4.49,1.44,md,28,58,0.01675,0.13,nc,nc73823046,2022-12-22T19:33:14.945Z,"11km ENE of Yountville, CA",earthquake,0.22,0.47,0.243,24,reviewed,nc,nc
 2022-12-22T12:01:29.250Z,19.2383327484131,-155.406005859375,31.8199996948242,2.25999999,md,43,134,,0.119999997,hv,hv73278242,2022-12-22T12:04:29.880Z,"Hawaii region, Hawaii",earthquake,0.56,0.709999979,1.5,19,automatic,hv,hv
-2022-12-22T11:49:55.860Z,40.3601667,-124.3346667,28.71,3.79,mw,30,206,0.05023,0.11,nc,nc73823036,2022-12-23T05:23:32.796Z,"6km NW of Petrolia, CA",earthquake,0.52,0.45,,3,reviewed,nc,nc
