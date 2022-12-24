@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-24T04:24:55.440Z,19.4015007019043,-155.284164428711,-0.409999996423721,2.02999997,md,11,86,,0.289999992,hv,hv73280207,2022-12-24T04:27:57.570Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.400000006,1.63,6,automatic,hv,hv
+2022-12-24T04:13:41.160Z,33.6708333,-116.7658333,10.33,0.52,ml,19,70,0.05894,0.12,ci,ci40149287,2022-12-24T04:17:18.196Z,"9km SSW of Idyllwild, CA",earthquake,0.24,0.4,0.105,11,automatic,ci,ci
+2022-12-24T04:13:31.771Z,59.9936,-152.1483,87.5,2.2,ml,,,,0.39,ak,ak022gg4utz0,2022-12-24T04:26:09.530Z,"23 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-12-24T04:00:29.616Z,-27.6183,-177.0612,12.588,5,mb,22,121,1.804,1.26,us,us6000jbdv,2022-12-24T04:22:21.040Z,"Kermadec Islands region",earthquake,11.02,3.264,0.102,31,reviewed,us,us
 2022-12-24T03:40:10.020Z,38.8040009,-122.7555008,0.72,1.11,md,13,65,,0.03,nc,nc73823971,2022-12-24T04:12:10.793Z,"3km N of The Geysers, CA",earthquake,0.25,0.59,0.22,13,automatic,nc,nc
 2022-12-24T03:31:16.650Z,19.1189994812012,-155.424163818359,31.6900005340576,1.70000005,md,33,220,,0.109999999,hv,hv73280127,2022-12-24T03:34:37.670Z,"Hawaii region, Hawaii",earthquake,0.61,0.930000007,1.71000004,4,automatic,hv,hv
 2022-12-24T03:29:13.180Z,19.170166015625,-155.503829956055,30.3600006103516,1.91999996,md,28,153,,0.150000006,hv,hv73280122,2022-12-24T03:32:28.000Z,"4 km SW of Pāhala, Hawaii",earthquake,0.87,1.23000002,1.5,6,automatic,hv,hv
@@ -104,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T16:08:21.980Z,58.2243333333333,-155.183166666667,4.01,-0.11,ml,5,132,,0.15,av,av91737006,2022-12-23T16:25:14.340Z,"84 km NNW of Karluk, Alaska",earthquake,0.45,1.98,0.247457217582172,5,reviewed,av,av
 2022-12-23T16:07:05.360Z,47.904833333333336,-120.39416666666666,18.99,0.65,md,5,225,0.1701,0.32,uw,uw61891172,2022-12-23T18:56:45.650Z,"13 km W of Granite Falls, Washington",earthquake,2.25,3.88,0.09990569287507167,3,reviewed,uw,uw
 2022-12-23T16:00:16.040Z,38.8330002,-122.8150024,1.76,1.02,md,22,45,0.01033,0.01,nc,nc73823726,2022-12-23T16:34:14.406Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.09,24,automatic,nc,nc
-2022-12-23T15:50:44.746Z,58.2248,-155.1877,2,0.6,ml,,,,0.2,ak,ak022geo37n5,2022-12-23T23:36:53.374Z,"84 km NNW of Karluk, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2022-12-23T15:50:44.746Z,58.2248,-155.1877,2,0.6,ml,,,,0.2,ak,ak022geo37n5,2022-12-23T23:36:53.374Z,"Alaska Peninsula",earthquake,,0.8,,,reviewed,ak,ak
 2022-12-23T15:47:59.840Z,19.2024993896484,-155.397506713867,32.4799995422363,2.25,md,41,159,,0.140000001,hv,hv73279482,2022-12-23T15:51:22.360Z,"8 km E of Pāhala, Hawaii",earthquake,0.74,0.819999993,1.51999998,19,automatic,hv,hv
 2022-12-23T15:39:59.131Z,40.0731,-119.6936,14.8,0.8,ml,3,163.65,0.102,0.1195,nn,nn00854101,2022-12-24T02:44:21.633Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,7.5,0,1,reviewed,nn,nn
 2022-12-23T15:39:03.402Z,41.9878,-119.5559,1.5,1.4,ml,4,205.06,0.562,0.1964,nn,nn00854100,2022-12-24T02:44:19.532Z,"51 km ENE of Fort Bidwell, California",earthquake,,10.4,0.89,4,reviewed,nn,nn
@@ -215,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T05:18:02.290Z,18.4836666666667,-66.641,15.19,2.86,md,15,244,0.1734,0.12,pr,pr71388633,2022-12-23T06:44:56.926Z,"4 km N of Animas, Puerto Rico",earthquake,0.36,0.43,0.083858599883192,8,reviewed,pr,pr
 2022-12-23T05:04:59.710Z,38.8241653,-122.8278351,2.07,0.8,md,7,106,0.005717,0.01,nc,nc73823496,2022-12-23T05:39:14.493Z,"8km NW of The Geysers, CA",earthquake,0.45,1.24,0.19,8,automatic,nc,nc
 2022-12-23T04:41:22.330Z,40.5286667,-124.3021667,17.23,1.71,md,18,179,0.05578,0.06,nc,nc73823491,2022-12-23T18:47:18.346Z,"6km SSW of Ferndale, CA",earthquake,0.61,0.3,0.112,10,reviewed,nc,nc
-2022-12-23T04:30:43.637Z,-6.2772,130.1256,145.341,4.4,mb,15,113,2.056,0.5,us,us6000jb8p,2022-12-23T04:46:32.040Z,"Banda Sea",earthquake,10.64,9.492,0.189,8,reviewed,us,us
-2022-12-23T04:23:07.460Z,58.2245,-155.204833333333,2.97,0.63,ml,4,166,,0.02,av,av91736781,2022-12-23T05:44:47.290Z,"85 km NNW of Karluk, Alaska",earthquake,0.33,1.68,0.145194423330953,4,reviewed,av,av
