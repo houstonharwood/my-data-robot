@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-28T17:16:36.243Z,41.8052,79.5408,10,5.6,mb,99,34,1.096,0.58,us,us7000j0ne,2022-12-28T17:36:02.362Z,"92 km NW of Aksu, China",earthquake,4.93,1.831,0.04,217,reviewed,us,us
+2022-12-28T17:41:25.976Z,58.1845,-155.3838,0,0.5,ml,,,,0.5,ak,ak022gmywuet,2022-12-28T17:43:37.378Z,"87 km NW of Karluk, Alaska",earthquake,,226,,,automatic,ak,ak
+2022-12-28T17:16:36.243Z,41.8052,79.5408,10,5.6,mb,99,34,1.096,0.58,us,us7000j0ne,2022-12-28T17:40:24.953Z,"92 km NW of Aksu, China",earthquake,4.93,1.831,0.04,217,reviewed,us,us
 2022-12-28T17:12:26.900Z,38.8256683,-122.7961655,2.62,1.08,md,21,34,0.0111,0.02,nc,nc73826001,2022-12-28T17:30:13.495Z,"6km W of Cobb, CA",earthquake,0.24,0.47,0.11,22,automatic,nc,nc
 2022-12-28T17:05:11.490Z,19.1476669311523,-155.364501953125,30.2999992370605,1.80999994,md,36,182,,0.119999997,hv,hv73285557,2022-12-28T17:08:29.050Z,"Island of Hawaii, Hawaii",earthquake,0.76,1.00999999,1.24000001,10,automatic,hv,hv
 2022-12-28T17:01:03.580Z,38.8373337,-122.807663,1.89,0.7,md,10,68,0.01357,0.01,nc,nc73825996,2022-12-28T17:17:17.419Z,"8km WNW of Cobb, CA",earthquake,0.43,0.89,0.09,12,automatic,nc,nc
@@ -53,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T09:57:28.695Z,62.3004,-148.3257,37.7,2.3,ml,,,,0.13,ak,ak022gmu8t8l,2022-12-28T10:30:25.040Z,"56 km N of Chickaloon, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-12-28T09:55:20.546Z,64.76,-147.8894,23.9,1.7,ml,,,,0.11,ak,ak022gmu8d6e,2022-12-28T09:56:31.182Z,"7 km SW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-28T09:23:38.890Z,33.2171667,-115.932,2.82,1.72,ml,40,68,0.05804,0.23,ci,ci40150799,2022-12-28T09:27:09.405Z,"9km SSE of Salton City, CA",earthquake,0.31,0.63,0.103,26,automatic,ci,ci
-2022-12-28T09:20:57.817Z,39.2941,-118.1278,0.1,1.9,ml,8,231.19,0.857,0.3451,nn,nn00854256,2022-12-28T09:24:38.248Z,"50 km NNW of Gabbs, Nevada",earthquake,,0,0.14,3,automatic,nn,nn
+2022-12-28T09:21:12.886Z,38.4556,-118.1807,9.2,1.2,ml,12,192.52,0.03,0.1,nn,nn00854256,2022-12-28T17:43:13.370Z,"9 km NW of Mina, Nevada",earthquake,,1.1,0.21,2,reviewed,nn,nn
 2022-12-28T09:20:48.500Z,34.0866667,-117.8268333,11.81,0.89,ml,19,64,0.01717,0.21,ci,ci40150791,2022-12-28T09:24:36.750Z,"2km SE of Charter Oak, CA",earthquake,0.37,0.79,0.187,19,automatic,ci,ci
 2022-12-28T09:15:53.713Z,64.7556,-147.8759,23.7,1.2,ml,,,,0.35,ak,ak022gmtzv3f,2022-12-28T09:17:43.180Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-28T09:09:31.120Z,17.9635,-66.9696666666667,9.23,2.7,md,14,193,0.05872,0.09,pr,pr71389383,2022-12-28T10:53:53.400Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.33,0.47,0.295198318980563,10,reviewed,pr,pr
@@ -165,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T17:57:44.950Z,36.5685005,-121.06633,5.95,2.4,md,27,113,0.02374,0.17,nc,nc73825751,2022-12-27T19:26:13.180Z,"8km ENE of Pinnacles, CA",earthquake,0.46,1.06,0.15,28,automatic,nc,nc
 2022-12-27T17:55:05.100Z,32.9948333,-116.3838333,1.98,0.84,ml,16,121,0.199,0.36,ci,ci40150631,2022-12-27T17:58:41.825Z,"22km ESE of Julian, CA",earthquake,0.94,4.53,0.109,13,automatic,ci,ci
 2022-12-27T17:50:40.420Z,33.8755,-116.6626667,9.3,1.17,ml,38,67,0.09275,0.17,ci,ci40150623,2022-12-27T17:54:20.999Z,"11km WSW of Garnet, CA",earthquake,0.25,0.64,0.137,25,automatic,ci,ci
-2022-12-27T17:41:44.790Z,38.7878342,-122.7666702,1.52,1.48,md,23,77,0.01388,0.03,nc,nc73825746,2022-12-27T18:31:12.838Z,"2km NW of The Geysers, CA",earthquake,0.22,0.4,0.19,24,automatic,nc,nc
