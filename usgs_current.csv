@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-02T03:20:18.220Z,33.3974991,-116.3919983,3.6,2.65,ml,100,17,0.07358,0.2,ci,ci40152887,2023-01-02T03:22:27.465Z,"16km N of Borrego Springs, CA",earthquake,0.16,0.58,0.217,24,automatic,ci,ci
+2023-01-02T03:07:56.070Z,38.7703323,-122.7481689,-0.85,0.76,md,10,82,0.01569,0.07,nc,nc73827741,2023-01-02T03:09:32.862Z,"1km SE of The Geysers, CA",earthquake,0.25,2.31,0.11,9,automatic,nc,nc
 2023-01-02T02:57:28.501Z,37.1536,-117.3067,12,1.4,ml,12,299.03,0.466,0.2807,nn,nn00854412,2023-01-02T02:59:58.302Z,"California-Nevada border region",earthquake,,134.7,0.93,6,automatic,nn,nn
 2023-01-02T02:09:33.870Z,38.7596664,-122.732666,1.6,1.44,md,11,74,0.02375,0.05,nc,nc73827726,2023-01-02T02:43:11.661Z,"3km SE of The Geysers, CA",earthquake,0.28,0.99,0.12,11,automatic,nc,nc
 2023-01-02T01:31:01.640Z,19.2453327178955,-155.397659301758,30.6000003814697,2.05,ml,42,135,,0.159999996,hv,hv73291352,2023-01-02T01:36:32.110Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.839999974,3.14,8,automatic,hv,hv
@@ -65,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T18:47:36.160Z,38.8139992,-122.8271637,1.94,0.76,md,10,103,0.00536,0.02,nc,nc73827586,2023-01-01T19:13:13.064Z,"7km WNW of The Geysers, CA",earthquake,0.4,0.8,0.33,10,automatic,nc,nc
 2023-01-01T18:46:18.310Z,40.4368324,-124.0070038,24.43,1.84,md,11,196,0.08903,0.08,nc,nc73827581,2023-01-01T21:17:01.463Z,"11km SE of Rio Dell, CA",earthquake,1.54,2.43,0.1,6,automatic,nc,nc
 2023-01-01T18:43:49.350Z,40.4336662,-124.0121689,23.85,2.02,md,12,117,0.08451,0.07,nc,nc73827576,2023-01-01T21:16:18.783Z,"11km SE of Rio Dell, CA",earthquake,0.68,1.24,0.04,8,automatic,nc,nc
-2023-01-01T18:35:04.510Z,40.409,-123.971,30.63,5.35,mw,37,44,0.1146,0.13,nc,nc73827571,2023-01-02T03:05:06.153Z,"15km SE of Rio Dell, CA",earthquake,0.25,0.62,,5,reviewed,nc,nc
+2023-01-01T18:35:04.510Z,40.409,-123.971,30.63,5.35,mw,37,44,0.1146,0.13,nc,nc73827571,2023-01-02T03:20:42.830Z,"15km SE of Rio Dell, CA",earthquake,0.25,0.62,,5,reviewed,nc,nc
 2023-01-01T18:34:14.740Z,19.1401666666667,-156.197,38.49,3.77,ml,52,252,,0.11,hv,hv73290972,2023-01-02T01:59:52.318Z,"46 km W of Hawaiian Ocean View, Hawaii",earthquake,0.64,1.12,0.179969539975316,40,reviewed,hv,hv
 2023-01-01T18:24:34.020Z,-2.5692,140.8021,44.062,5.4,mww,76,45,8.551,0.71,us,us7000j1g5,2023-01-01T23:34:44.696Z,"10 km ESE of Jayapura, Indonesia",earthquake,9.37,4.914,0.093,11,reviewed,us,us
 2023-01-01T18:19:18.920Z,32.9141667,-116.2815,11.26,1.24,ml,17,101,0.04432,0.17,ci,ci40152751,2023-01-01T18:22:50.313Z,"25km ENE of Pine Valley, CA",earthquake,0.31,0.47,0.135,15,automatic,ci,ci
@@ -183,6 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T04:03:57.782Z,62.284,-150.0749,17.4,1.6,ml,,,,0.47,ak,ak0231pxuiq,2023-01-01T04:06:06.267Z,"4 km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-01T03:32:25.570Z,33.4018333,-116.3803333,3.62,0.55,ml,18,127,0.1368,0.19,ci,ci40152527,2023-01-01T03:36:03.302Z,"16km N of Borrego Springs, CA",earthquake,0.4,1.36,0.117,12,automatic,ci,ci
 2023-01-01T03:29:31.070Z,19.1631,-66.5251,24,3.93,md,23,246,0.8479,0.22,pr,pr2023001000,2023-01-01T04:46:43.315Z,"77 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.91,15.95,0.09,16,reviewed,pr,pr
-2023-01-01T03:17:16.150Z,38.8284988,-122.8144989,1.86,0.87,md,10,79,0.006158,0.02,nc,nc73827371,2023-01-01T03:49:11.496Z,"8km NW of The Geysers, CA",earthquake,0.37,1.03,0.54,10,automatic,nc,nc
-2023-01-01T03:16:21.950Z,38.8165016,-122.8198318,2.47,1.09,md,19,49,0.01027,0.01,nc,nc73827366,2023-01-01T04:02:11.573Z,"7km NW of The Geysers, CA",earthquake,0.23,0.46,0.19,21,automatic,nc,nc
-2023-01-01T03:16:16.153Z,-6.6469,155.1723,48.569,5.4,mww,122,59,5.482,0.73,us,us7000j1bs,2023-01-01T05:19:56.070Z,"50 km SW of Panguna, Papua New Guinea",earthquake,8.57,5.436,0.098,10,reviewed,us,us
