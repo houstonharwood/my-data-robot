@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-04T17:27:34.600Z,35.874,-117.6865,2.83,1.3,ml,18,118,0.09121,0.19,ci,ci40153679,2023-01-04T17:31:07.733Z,"21km ESE of Little Lake, CA",earthquake,0.41,0.6,0.123,16,automatic,ci,ci
 2023-01-04T17:02:29.960Z,36.20916667,-95.87566667,0,1.42,ml,57,203,0.3059399641,0.51,ok,ok2023agug,2023-01-04T17:13:09.593Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,0.7,0.18,23,reviewed,ok,ok
-2023-01-04T16:44:21.628Z,18.4501,-69.0971,114.643,4.3,mb,39,110,0.683,0.59,us,us7000j23e,2023-01-04T17:10:57.238Z,"Dominican Republic",earthquake,6.87,6.145,0.122,19,reviewed,us,us
+2023-01-04T16:44:21.628Z,18.4501,-69.0971,114.643,4.3,mb,39,110,0.683,0.59,us,us7000j23e,2023-01-04T17:21:20.849Z,"Dominican Republic",earthquake,6.87,6.145,0.122,19,reviewed,us,us
 2023-01-04T16:43:01.449Z,36.41783333,-96.91783333,4.84,1.1,ml,51,62,0.0188962919,0.22,ok,ok2023agtm,2023-01-04T17:00:15.577Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.23,21,reviewed,ok,ok
 2023-01-04T16:40:50.910Z,33.6708333,-116.7728333,2.58,0.7,ml,15,171,0.07463,0.17,ci,ci40153671,2023-01-04T16:44:32.424Z,"9km SSW of Idyllwild, CA",earthquake,0.52,0.47,0.15,15,automatic,ci,ci
 2023-01-04T16:27:24.410Z,38.8139992,-122.8293304,1.34,0.65,md,9,83,0.005125,0.01,nc,nc73828781,2023-01-04T16:28:58.494Z,"8km WNW of The Geysers, CA",earthquake,0.33,0.57,0.27,9,automatic,nc,nc
@@ -49,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T10:07:50.009Z,65.054,-148.9101,15.1,1.3,ml,,,,0.33,ak,ak0236s5bw8,2023-01-04T10:09:37.882Z,"northern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-04T10:04:28.361Z,31.7246,73.9665,10,3.5,mb,12,196,2.009,0.42,us,us7000j22v,2023-01-04T15:09:51.764Z,"2 km NW of Shekhupura, Pakistan",earthquake,10.84,2.011,0.493,1,reviewed,us,us
 2023-01-04T10:04:10.780Z,34.3626667,-116.7413333,2.25,1.08,ml,14,119,0.07274,0.18,ci,ci40153559,2023-01-04T10:07:37.452Z,"15km NE of Big Bear City, CA",earthquake,0.33,0.5,0.189,20,automatic,ci,ci
-2023-01-04T10:01:51.608Z,61.8541,-150.839,55.1,1.9,ml,,,,0.61,ak,ak0236s41q0,2023-01-04T10:03:59.780Z,"33 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-04T10:01:51.608Z,61.8541,-150.839,55.1,1.9,ml,,,,0.61,ak,ak0236s41q0,2023-01-04T10:03:59.780Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-04T09:58:09.800Z,34.011,-117.5685,7.4,0.88,ml,18,114,0.008568,0.15,ci,ci40153551,2023-01-04T10:01:43.694Z,"5km WNW of Mira Loma, CA",earthquake,0.37,0.41,0.191,23,automatic,ci,ci
 2023-01-04T09:53:50.030Z,33.397,-116.3796667,4.25,0.82,ml,27,96,0.1318,0.23,ci,ci40153543,2023-01-04T09:57:25.106Z,"16km N of Borrego Springs, CA",earthquake,0.38,0.86,0.106,16,automatic,ci,ci
 2023-01-04T09:52:31.920Z,35.8673333,-117.4905,8.27,1.03,ml,14,82,0.101,0.15,ci,ci40153535,2023-01-04T09:56:02.419Z,"14km NW of Searles Valley, CA",earthquake,0.35,0.97,0.157,7,automatic,ci,ci
@@ -166,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T21:52:05.530Z,17.9848333333333,-66.953,7.22,1.32,md,4,164,0.07086,0.06,pr,pr71390733,2023-01-03T22:09:10.440Z,"Puerto Rico",earthquake,0.82,1,0.0423022736834526,3,reviewed,pr,pr
 2023-01-03T21:49:50.160Z,36.0655,-117.8603333,1.53,1.12,ml,8,89,0.05216,0.11,ci,ci40153375,2023-01-03T21:53:21.993Z,"8km ENE of Coso Junction, CA",earthquake,0.24,0.3,0.143,12,automatic,ci,ci
 2023-01-03T21:45:00.447Z,58.1738,-155.4086,0,0.7,ml,,,,0.66,ak,ak0235bdsfw,2023-01-03T21:46:46.819Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-03T21:44:30.080Z,41.7943333,-111.9201667,0.79,3.19,ml,23,94,0.1095,0.18,uu,uu60529092,2023-01-04T16:57:50.470Z,"1 km NE of Benson, Utah",earthquake,0.54,0.89,0.098,9,reviewed,uu,uu
+2023-01-03T21:44:30.080Z,41.7943333,-111.9201667,0.79,3.19,ml,23,94,0.1095,0.18,uu,uu60529092,2023-01-04T17:20:59.557Z,"1 km NE of Benson, Utah",earthquake,0.54,0.89,0.098,9,reviewed,uu,uu
 2023-01-03T21:43:23.510Z,18.8308333333333,-67.43,5.22,2.85,md,12,291,0.4464,0.26,pr,pr71390728,2023-01-03T22:03:26.550Z,"Mona Passage",earthquake,1.71,1.71,0.12077442355345,10,reviewed,pr,pr
 2023-01-03T21:42:32.401Z,36.3271,21.7966,10,4.2,mb,24,220,0.856,1.09,us,us7000j1xi,2023-01-04T00:35:18.040Z,"53 km SSW of Koróni, Greece",earthquake,5.75,1.813,0.176,9,reviewed,us,us
 2023-01-03T21:36:12.700Z,32.3396667,-115.3491667,14.34,2.42,ml,19,111,0.08794,0.31,ci,ci40153367,2023-01-03T21:47:07.030Z,"15km W of Delta, B.C., MX",earthquake,0.84,1.64,0.197,26,automatic,ci,ci
