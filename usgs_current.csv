@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-05T06:27:15.587Z,58.2245,-155.2045,1.1,0.6,ml,,,,0.12,ak,ak0238df5mu,2023-01-05T06:28:19.902Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2023-01-05T06:25:37.880Z,35.6595001,-117.4915009,2.89,2.23,ml,31,46,0.1391,0.18,ci,ci40153791,2023-01-05T06:27:54.182Z,"14km SSW of Searles Valley, CA",earthquake,0.33,1.09,0.244,23,automatic,ci,ci
+2023-01-05T06:25:37.700Z,35.6636667,-117.481,2.28,2.14,ml,23,72,0.1678,0.15,ci,ci40153791,2023-01-05T06:36:10.020Z,"14km SSW of Searles Valley, CA",earthquake,0.31,1.43,0.213,26,automatic,ci,ci
 2023-01-05T06:21:06.658Z,59.7617,-153.4922,112.6,1.6,ml,,,,0.55,ak,ak0238ddund,2023-01-05T06:23:50.632Z,"34 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-05T06:14:08.890Z,58.2557,-155.0956,0,0.9,ml,,,,0.57,ak,ak0238dcct4,2023-01-05T06:16:47.349Z,"85 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-05T06:13:27.440Z,33.7771667,-116.1066667,5.2,1.18,ml,28,95,0.09763,0.2,ci,ci40153783,2023-01-05T06:17:00.387Z,"12km ENE of Indio, CA",earthquake,0.33,1.64,0.169,26,automatic,ci,ci
 2023-01-05T06:12:32.479Z,63.5267,-147.7366,16.8,1.4,ml,,,,0.59,ak,ak0238dbz73,2023-01-05T06:14:19.390Z,"62 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-05T06:10:01.510Z,33.1701667,-115.6331667,3.12,1.46,ml,20,56,0.01569,0.15,ci,ci40153775,2023-01-05T06:13:26.331Z,"12km WNW of Calipatria, CA",earthquake,0.32,0.34,0.192,29,automatic,ci,ci
 2023-01-05T06:07:41.740Z,33.1658333,-115.6303333,3.42,1.73,ml,26,56,0.01693,0.15,ci,ci40153767,2023-01-05T06:11:07.677Z,"12km WNW of Calipatria, CA",earthquake,0.25,0.27,0.202,28,automatic,ci,ci
-2023-01-05T06:06:49.540Z,38.8264999,-122.8043365,1.8,1.13,md,7,116,0.00545,0.01,nc,nc73828936,2023-01-05T06:23:13.430Z,"7km NW of The Geysers, CA",earthquake,0.33,0.79,0.12,10,automatic,nc,nc
+2023-01-05T06:06:49.540Z,38.8264999,-122.8043365,1.8,1.13,md,7,116,0.00545,0.01,nc,nc73828936,2023-01-05T06:38:10.514Z,"7km NW of The Geysers, CA",earthquake,0.33,0.79,0.12,10,automatic,nc,nc
 2023-01-05T05:56:32.990Z,33.1685,-115.6293333,3.03,1.25,ml,14,86,0.01456,0.15,ci,ci40153759,2023-01-05T06:00:01.151Z,"12km WNW of Calipatria, CA",earthquake,0.35,0.33,0.196,20,automatic,ci,ci
 2023-01-05T05:51:25.239Z,24.1399,95.9162,12.642,4.6,mb,46,62,3.511,0.48,us,us7000j28c,2023-01-05T06:27:39.040Z,"Myanmar",earthquake,7.76,4.55,0.103,28,reviewed,us,us
 2023-01-05T05:48:39.830Z,19.1905002593994,-155.370498657227,34.9000015258789,2.1500001,md,14,210,,0.0599999987,hv,hv73295517,2023-01-05T05:51:50.900Z,"11 km E of Pāhala, Hawaii",earthquake,1.07,2.18000007,1.07000005,3,automatic,hv,hv
@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T07:03:36.770Z,19.18,-155.511166666667,35.26,3.28,ml,49,100,,0.12,hv,hv73294497,2023-01-04T21:52:33.585Z,"4 km SW of Pāhala, Hawaii",earthquake,0.45,0.52,0.145276281439396,37,reviewed,hv,hv
 2023-01-04T06:56:41.940Z,38.8250008,-122.7854996,1.09,1.99,md,32,45,,0.04,nc,nc73828636,2023-01-04T07:29:17.352Z,"5km W of Cobb, CA",earthquake,0.17,0.26,0.15,32,automatic,nc,nc
 2023-01-04T06:49:26.410Z,17.9896666666667,-66.8693333333333,12.84,1.97,md,6,205,0.01733,0.05,pr,pr71390843,2023-01-04T07:19:43.610Z,"2 km ENE of Maria Antonia, Puerto Rico",earthquake,0.54,0.65,0.165405335005695,5,reviewed,pr,pr
-2023-01-04T06:34:33.520Z,47.508833333333335,-122.73616666666666,23.16,1.54,ml,46,43,0.02281,0.2,uw,uw61901381,2023-01-05T01:17:01.810Z,"2 km SW of Gorst, Washington",earthquake,0.25,0.42,0.18404358125182974,26,reviewed,uw,uw
