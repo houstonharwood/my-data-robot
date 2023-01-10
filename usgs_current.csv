@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-10T06:01:50.835Z,18.8667,-64.365,35,3,ml,18,221,0.759,0.32,us,us7000j3cd,2023-01-10T06:08:28.040Z,"74 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,6.43,2.016,0.065,31,reviewed,us,us
+2023-01-10T06:13:47.620Z,19.5511665344238,-155.996337890625,36.1800003051758,2.41,ml,47,251,,0.159999996,hv,hv73300642,2023-01-10T06:23:09.040Z,"4 km WSW of Kahaluu-Keauhou, Hawaii",earthquake,0.57,0.74000001,3.38,7,automatic,hv,hv
+2023-01-10T06:08:10.750Z,33.6543333,-116.7238333,14.38,0.87,ml,27,82,0.05726,0.15,ci,ci40155111,2023-01-10T06:11:40.955Z,"10km S of Idyllwild, CA",earthquake,0.24,0.48,0.126,21,automatic,ci,ci
+2023-01-10T06:01:52.710Z,18.8468,-64.405,37,3.83,md,23,218,0.7407,0.21,pr,pr2023010001,2023-01-10T06:27:13.151Z,"Virgin Islands",earthquake,1.09,3.4,0.07,13,reviewed,pr,pr
 2023-01-10T06:01:38.340Z,38.8493347,-122.8304977,4.2,0.53,md,10,121,0.007709,0.04,nc,nc73830616,2023-01-10T06:03:14.399Z,"10km WNW of Cobb, CA",earthquake,0.75,1.2,0.25,11,automatic,nc,nc
 2023-01-10T05:50:54.962Z,38.7119,-119.5847,10,1.6,ml,13,155.1,0.136,0.1066,nn,nn00854691,2023-01-10T05:53:15.840Z,"California-Nevada border region",earthquake,,0.9,0.57,5,automatic,nn,nn
 2023-01-10T05:24:48.618Z,-15.0035,167.2362,109.853,5.7,mww,92,27,0.442,0.66,us,us7000j3cb,2023-01-10T06:01:14.500Z,"18 km ENE of Port-Olry, Vanuatu",earthquake,8.42,4.467,0.086,13,reviewed,us,us
 2023-01-10T05:21:15.850Z,38.833168,-122.8168335,1.6,0.7,md,8,89,0.0111,0.02,nc,nc73830606,2023-01-10T05:22:48.710Z,"8km NW of The Geysers, CA",earthquake,0.4,1.11,0.1,9,automatic,nc,nc
-2023-01-10T05:09:03.590Z,38.7915001,-122.7638321,2.06,1.14,md,17,67,0.009664,0.02,nc,nc73830601,2023-01-10T06:09:12.854Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.21,18,automatic,nc,nc
+2023-01-10T05:09:03.590Z,38.7915001,-122.7638321,2.06,1.14,md,17,67,0.009664,0.02,nc,nc73830601,2023-01-10T06:24:13.816Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.21,18,automatic,nc,nc
 2023-01-10T05:02:21.650Z,37.2636681,-121.6413345,2.52,2.19,md,42,54,0.02579,0.08,nc,nc73830596,2023-01-10T06:09:13.727Z,"15km N of Morgan Hill, CA",earthquake,0.15,0.35,0.17,44,automatic,nc,nc
 2023-01-10T04:50:29.770Z,38.831501,-122.817337,1.39,0.69,md,11,96,0.009884,0.03,nc,nc73830591,2023-01-10T04:52:03.466Z,"8km NW of The Geysers, CA",earthquake,0.32,0.79,0.2,11,automatic,nc,nc
 2023-01-10T04:47:39.800Z,38.8358345,-122.8073349,1.96,1.29,md,17,52,0.0126,0.02,nc,nc73830581,2023-01-10T06:09:12.726Z,"8km WNW of Cobb, CA",earthquake,0.22,0.45,0.12,19,automatic,nc,nc
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T22:59:58.047Z,35.4639,25.8082,10,4.2,mb,52,120,2.023,0.51,us,us7000j3b4,2023-01-09T23:26:24.588Z,"23 km NNE of Eloúnda, Greece",earthquake,4.48,1.919,0.101,27,reviewed,us,us
 2023-01-09T22:56:22.281Z,59.9286,-153.0353,106.9,1.7,ml,,,,0.39,ak,ak023f99oj9,2023-01-10T01:39:31.810Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-01-09T22:49:40.510Z,38.8344994,-122.8033371,1.78,0.21,md,10,71,0.01087,0.01,nc,nc73830456,2023-01-09T23:16:13.217Z,"7km W of Cobb, CA",earthquake,0.34,1.08,0.11,9,automatic,nc,nc
-2023-01-09T22:49:36.730Z,34.0196667,-117.1468333,6.74,2.08,ml,70,37,0.03265,0.21,ci,ci40155031,2023-01-09T23:00:34.770Z,"5km SE of Redlands, CA",earthquake,0.2,0.53,0.18,25,automatic,ci,ci
+2023-01-09T22:49:36.730Z,34.0196667,-117.1468333,6.74,2.08,ml,70,37,0.03265,0.21,ci,ci40155031,2023-01-10T06:24:13.111Z,"5km SE of Redlands, CA",earthquake,0.2,0.53,0.18,25,automatic,ci,ci
 2023-01-09T22:44:12.320Z,19.2374992370605,-155.389007568359,32.1599998474121,2.07999992,md,38,143,,0.109999999,hv,hv73300352,2023-01-09T22:47:35.610Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.720000029,1.14999998,15,automatic,hv,hv
 2023-01-09T22:41:26.406Z,-6.3076,104.7949,43.156,4.7,mb,65,81,2.664,0.63,us,us7000j3as,2023-01-10T01:23:44.395Z,"Sunda Strait, Indonesia",earthquake,8.15,8.257,0.071,61,reviewed,us,us
 2023-01-09T22:24:55.672Z,35.75620651,-97.95973969,2.889060974,2.14,ml,33,47.12402344,0.1990520954,0.5540814437,ok,ok2023aqij,2023-01-09T22:28:08.103Z,"3 km NNE of Okarche, Oklahoma",earthquake,2.009659866,1.859713825,,25,automatic,ok,ok
@@ -191,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T07:05:07.510Z,19.2533340454102,-155.389495849609,33.9000015258789,1.84000003,md,38,174,,0.109999999,hv,hv73299802,2023-01-09T07:08:12.160Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,0.75999999,1.28999996,6,automatic,hv,hv
 2023-01-09T06:48:48.250Z,61.7324,-149.6044,38.3,1.7,ml,,,,0.63,ak,ak023ezp461,2023-01-09T06:50:30.692Z,"12 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-09T06:46:16.962Z,63.2037,-151.3349,0,1.2,ml,,,,0.75,ak,ak023ezombk,2023-01-09T06:48:18.296Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-09T06:24:17.232Z,-5.2463,153.3525,36.269,5.2,mb,79,76,1.582,0.52,us,us7000j32n,2023-01-09T09:02:27.040Z,"156 km SE of Kokopo, Papua New Guinea",earthquake,7.54,6.172,0.057,100,reviewed,us,us
-2023-01-09T06:24:04.480Z,41.9789,-119.5431,2.9,2.6,ml,5,129,0.571,0.1551,nn,nn00854671,2023-01-09T21:50:13.331Z,"52 km ENE of Fort Bidwell, California",earthquake,,3.5,0.61,5,reviewed,nn,nn
