@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-17T18:50:59.280Z,38.7943344,-122.7653351,1.66,0.5,md,9,78,0.007666,0.09,nc,nc73833261,2023-01-17T18:52:33.241Z,"2km NNW of The Geysers, CA",earthquake,0.48,0.94,0.26,9,automatic,nc,nc
-2023-01-17T18:49:03.540Z,33.7705002,-115.9304962,5.88,1.43,ml,26,117,0.1049,0.16,ci,ci40403360,2023-01-17T18:51:09.008Z,"24km NE of Thermal, CA",earthquake,0.31,1.36,0.214,7,automatic,ci,ci
+2023-01-17T18:49:03.560Z,33.7713333,-115.9301667,5.18,1.41,ml,30,70,0.1055,0.21,ci,ci40403360,2023-01-17T18:56:18.332Z,"24km NE of Thermal, CA",earthquake,0.29,1.01,0.085,27,automatic,ci,ci
 2023-01-17T18:46:52.570Z,38.8203316,-122.7961655,3.36,0.39,md,11,61,0.01129,0.02,nc,nc73833251,2023-01-17T18:48:29.546Z,"6km NW of The Geysers, CA",earthquake,0.43,0.93,0.24,13,automatic,nc,nc
+2023-01-17T18:46:00.820Z,35.49533333,-98.1055,7.86,1.23,ml,25,81,0.09448145951,0.46,ok,ok2023berf,2023-01-17T18:55:41.746Z,"11 km S of Calumet, Oklahoma",earthquake,,1.1,0.2,13,reviewed,ok,ok
 2023-01-17T18:42:34.190Z,38.8238335,-122.7978363,2.98,0.26,md,7,105,0.01597,0.01,nc,nc73833246,2023-01-17T18:44:08.097Z,"6km NW of The Geysers, CA",earthquake,0.48,1.46,0.14,8,automatic,nc,nc
 2023-01-17T18:28:06.338Z,59.744,-153.1116,106.5,2.7,ml,,,,0.31,ak,ak023sf0ptj,2023-01-17T18:29:51.482Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T18:11:33.870Z,19.099666595459,-155.422836303711,29.1599998474121,1.98000002,md,29,187,,0.129999995,hv,hv73306017,2023-01-17T18:14:50.780Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.970000029,1.79999995,10,automatic,hv,hv
@@ -86,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T07:47:00.272Z,58.1714,-155.4045,0,0.9,ml,,,,1.08,ak,ak023s8l0ad,2023-01-17T07:49:41.599Z,"87 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-17T07:38:45.110Z,19.3998336791992,-155.261001586914,0.0900000035762787,2.41000009,md,19,54,,0.119999997,hv,hv73305667,2023-01-17T07:41:48.760Z,"5 km SSW of Volcano, Hawaii",earthquake,0.14,0.25999999,1.26999998,11,automatic,hv,hv
 2023-01-17T07:32:18.550Z,38.8321648,-122.8183365,1.48,0.71,md,12,56,0.01088,0.01,nc,nc73833046,2023-01-17T07:50:12.327Z,"8km NW of The Geysers, CA",earthquake,0.3,0.72,0.31,14,automatic,nc,nc
+2023-01-17T07:28:26.074Z,61.3996,-150.0812,37.5,1.1,ml,,,,0.79,ak,ak023s8gua0,2023-01-17T18:52:59.745Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2023-01-17T07:18:02.270Z,33.9856667,-116.8243333,18.3,1.02,ml,19,86,0.142,0.21,ci,ci40403240,2023-01-17T07:21:31.656Z,"8km NE of Banning, CA",earthquake,0.42,1.06,0.144,29,automatic,ci,ci
 2023-01-17T07:04:09.840Z,18.0188333333333,-66.7226666666667,14.95,2.15,md,9,177,0.1133,0.11,pr,pr71393008,2023-01-17T07:18:13.420Z,"2 km NNW of Tallaboa, Puerto Rico",earthquake,0.42,1.01,0.108208871016225,6,reviewed,pr,pr
 2023-01-17T06:44:08.120Z,58.1604,-155.4119,0,0.7,ml,,,,0.84,ak,ak023s7yy5f,2023-01-17T06:47:36.835Z,"86 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -184,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T19:26:55.490Z,33.4035,-116.3846667,5.2,1.01,ml,17,77,0.07502,0.19,ci,ci40403144,2023-01-16T19:30:35.697Z,"16km N of Borrego Springs, CA",earthquake,0.38,1.69,0.178,16,automatic,ci,ci
 2023-01-16T19:24:43.610Z,33.4018333,-116.3815,4.58,1.25,ml,13,87,0.07189,0.17,ci,ci40403136,2023-01-16T19:28:26.398Z,"16km N of Borrego Springs, CA",earthquake,0.4,0.94,0.437,11,automatic,ci,ci
 2023-01-16T19:17:57.596Z,61.7222,-149.5199,40,1.4,ml,,,,0.72,ak,ak023qs0k0f,2023-01-16T19:20:09.437Z,"11 km NNW of Tanaina, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-01-16T18:55:57.770Z,47.15683333333333,-121.821,-1.05,1.24,ml,19,135,0.05005,0.09,uw,uw61893757,2023-01-17T18:50:54.620Z,"12 km W of Greenwater, Washington",explosion,0.47,31.61,0.1729928806840425,8,reviewed,uw,uw
-2023-01-16T18:54:51.070Z,18.06,-67.1155,19.9,2.31,md,17,78,0.0536,0.12,pr,pr71392933,2023-01-16T19:10:01.800Z,"3 km SSW of Monte Grande, Puerto Rico",earthquake,0.47,0.27,0.145978807627046,9,reviewed,pr,pr
