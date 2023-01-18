@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-18T15:25:29.020Z,38.8354988,-122.8071671,1.83,0.84,md,10,66,0.0123,0.02,nc,nc73833591,2023-01-18T15:27:04.732Z,"7km WNW of Cobb, CA",earthquake,0.33,1.07,0.24,10,automatic,nc,nc
+2023-01-18T15:25:24.750Z,19.1866664886475,-155.470672607422,32.7200012207031,2.01999998,md,39,93,,0.119999997,hv,hv73306707,2023-01-18T15:28:41.160Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.66,1.05999994,0.99000001,7,automatic,hv,hv
 2023-01-18T15:06:05.190Z,19.2253341674805,-155.469329833984,31.4300003051758,1.84000003,md,25,95,,0.150000006,hv,hv73306692,2023-01-18T15:09:08.080Z,"Hawaii region, Hawaii",earthquake,0.76,1,1.80999994,6,automatic,hv,hv
 2023-01-18T14:37:13.127Z,61.5473,-151.1722,68.3,2,ml,,,,0.64,ak,ak023u089v4,2023-01-18T14:39:23.731Z,"35 km W of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-18T14:25:21.043Z,61.4978,-149.7639,33.3,1.8,ml,,,,0.62,ak,ak023u05pvs,2023-01-18T14:27:37.711Z,"4 km NNW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -115,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T00:57:57.220Z,38.8353348,-122.7703323,9.83,0.82,md,9,153,0.004868,0.08,nc,nc73833376,2023-01-18T00:59:35.297Z,"4km WNW of Cobb, CA",earthquake,1.16,0.66,0.45,12,automatic,nc,nc
 2023-01-18T00:56:58.140Z,17.9795,-66.7983333333333,12.15,2.19,md,7,202,0.07715,0.13,pr,pr71393098,2023-01-18T01:52:03.170Z,"2 km SE of Indios, Puerto Rico",earthquake,0.67,0.96,0.157693588379308,5,reviewed,pr,pr
 2023-01-18T00:56:36.983Z,14.2853,123.2696,10,4.6,mb,26,127,9.249,0.66,us,us7000j52g,2023-01-18T04:28:25.442Z,"34 km NE of Mercedes, Philippines",earthquake,7.35,1.887,0.125,19,reviewed,us,us
-2023-01-18T00:42:57.280Z,33.1346667,-116.3915,-0.03,0.99,ml,13,145,0.181,0.23,ci,ci40403464,2023-01-18T00:46:46.183Z,"14km S of Borrego Springs, CA",earthquake,1.04,31.61,0.095,11,automatic,ci,ci
+2023-01-18T00:42:56.780Z,33.053,-116.539,13.29,1.07,ml,37,63,0.05653,0.18,ci,ci40403464,2023-01-18T15:28:29.307Z,"6km ESE of Julian, CA",earthquake,0.28,0.49,0.085,12,reviewed,ci,ci
 2023-01-18T00:38:33.310Z,35.9786667,-118.7401667,25.36,1.49,ml,19,54,0.2224,0.15,ci,ci40403456,2023-01-18T15:19:20.471Z,"27km ESE of Porterville, CA",earthquake,0.32,0.74,0.267,9,reviewed,ci,ci
 2023-01-18T00:34:44.767Z,-0.0007,123.1832,152.529,6,mww,130,18,1.113,0.95,us,us7000j511,2023-01-18T13:42:42.040Z,"Sulawesi, Indonesia",earthquake,7.61,3.612,0.049,40,reviewed,us,us
 2023-01-18T00:28:07.220Z,33.0556667,-116.5411667,12.94,1.39,ml,60,34,0.05365,0.18,ci,ci40403448,2023-01-18T15:14:15.690Z,"6km ESE of Julian, CA",earthquake,0.18,0.44,0.098,31,reviewed,ci,ci
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T15:49:21.830Z,38.8358345,-122.8028336,2.31,1.11,md,22,58,0.01009,0.02,nc,nc73833211,2023-01-17T16:22:12.469Z,"7km WNW of Cobb, CA",earthquake,0.22,0.49,0.14,23,automatic,nc,nc
 2023-01-17T15:46:54.230Z,35.9536667,-117.3296667,3.58,1.73,ml,21,92,0.07302,0.14,ci,ci40403336,2023-01-17T23:06:47.386Z,"22km NNE of Trona, CA",earthquake,0.26,0.67,0.126,14,reviewed,ci,ci
 2023-01-17T15:45:50.683Z,58.2371,-155.0865,2.4,1.3,ml,,,,0.5,ak,ak023sdc5lo,2023-01-17T15:47:23.482Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-17T15:28:28.750Z,36.3028333333333,-89.5316666666667,8.96,1.16,md,16,79,0.03562,0.06,nm,nm60506986,2023-01-17T17:00:11.450Z,"5 km NW of Ridgely, Tennessee",earthquake,0.39,0.61,0.0811778235445361,10,reviewed,nm,nm
