@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-18T09:18:35.850Z,33.2461662,-116.3433304,12.91,1.19,ml,32,87,0.06565,0.22,ci,ci40403584,2023-01-18T09:20:40.505Z,"3km ESE of Borrego Springs, CA",earthquake,0.51,0.93,0.066,4,automatic,ci,ci
+2023-01-18T09:18:35.950Z,33.2493333,-116.3326667,11.06,1.15,ml,25,46,0.07325,0.21,ci,ci40403584,2023-01-18T09:22:27.229Z,"4km E of Borrego Springs, CA",earthquake,0.33,0.58,0.095,30,automatic,ci,ci
 2023-01-18T09:09:05.480Z,19.0513324737549,-155.408172607422,35.3199996948242,2.53,ml,50,203,,0.189999998,hv,hv73306517,2023-01-18T09:14:37.150Z,"18 km E of Naalehu, Hawaii",earthquake,0.61,1.15999997,2.21,11,automatic,hv,hv
 2023-01-18T09:04:35.420Z,19.1979999542236,-155.479507446289,30.5799999237061,1.88,md,37,87,,0.170000002,hv,hv73306507,2023-01-18T09:07:37.140Z,"0 km S of Pāhala, Hawaii",earthquake,0.63,1.11000001,0.540000021,5,automatic,hv,hv
 2023-01-18T08:51:48.170Z,19.3221664428711,-155.241333007812,0.829999983310699,1.84,ml,11,227,,0.230000004,hv,hv73306502,2023-01-18T08:57:25.250Z,"13 km S of Volcano, Hawaii",earthquake,1.69,1.42999995,3.48,4,automatic,hv,hv
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T00:28:07.310Z,33.0558333,-116.5471667,12.94,1.4,ml,45,48,0.04918,0.21,ci,ci40403448,2023-01-18T00:39:23.260Z,"6km ESE of Julian, CA",earthquake,0.29,0.67,0.14,27,automatic,ci,ci
 2023-01-18T00:25:40.010Z,33.411,-116.395,12.4,0.73,ml,11,168,0.115,0.1,ci,ci40403440,2023-01-18T00:29:15.507Z,"17km N of Borrego Springs, CA",earthquake,0.65,1.28,0.186,9,automatic,ci,ci
 2023-01-18T00:20:04.413Z,12.9545,-88.9654,61.827,4.1,mb,20,188,0.754,1.17,us,us7000j510,2023-01-18T00:39:16.040Z,"57 km SW of Jiquilisco, El Salvador",earthquake,5.41,10.041,0.185,8,reviewed,us,us
-2023-01-18T00:17:15.022Z,36.11301804,-97.83416748,1.407245874,2.89,ml,81,29.91387939,0.107153669,0.764080404,ok,ok2023bfcd,2023-01-18T02:25:04.888Z,"Oklahoma",earthquake,1.256426783,1.168456823,,59,automatic,ok,ok
+2023-01-18T00:17:15.022Z,36.11301804,-97.83416748,1.407245874,2.89,ml,81,29.91387939,0.107153669,0.764080404,ok,ok2023bfcd,2023-01-18T02:25:04.888Z,"5 km E of Hennessey, Oklahoma",earthquake,1.256426783,1.168456823,,59,automatic,ok,ok
 2023-01-18T00:15:03.570Z,33.0561667,-116.5391667,13.78,0.97,ml,28,102,0.05492,0.16,ci,ci40403432,2023-01-18T01:41:56.393Z,"6km ESE of Julian, CA",earthquake,0.32,0.65,0.16,11,reviewed,ci,ci
 2023-01-18T00:09:32.720Z,38.5405006,-122.645668,3.89,1.93,md,9,232,0.2256,0.12,nc,nc73833366,2023-01-18T01:22:12.841Z,"7km SW of Calistoga, CA",earthquake,4.89,10.33,,1,automatic,nc,nc
 2023-01-18T00:00:24.290Z,38.8313332,-122.81633,1.87,0.54,md,10,92,0.009312,0.02,nc,nc73833356,2023-01-18T00:59:14.701Z,"8km NW of The Geysers, CA",earthquake,0.3,0.8,0.32,9,automatic,nc,nc
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T09:40:15.812Z,60.0482,-153.1513,120.1,2.1,ml,,,,0.72,ak,ak023s9qej5,2023-01-17T09:43:18.802Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T09:39:21.110Z,63.2,-148.8997,0,1.3,ml,,,,0.88,ak,ak023s9q7bw,2023-01-17T09:41:24.962Z,"21 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T09:38:48.034Z,-15.3297,-172.8909,10,4.9,mb,34,119,2.495,0.38,us,us7000j4v1,2023-01-17T10:09:24.040Z,"119 km NE of Hihifo, Tonga",earthquake,11.08,1.72,0.074,61,reviewed,us,us
-2023-01-17T09:22:17.850Z,19.0155,-67.8471666666667,4.89,3.25,md,10,249,0.7101,0.45,pr,pr71393038,2023-01-17T17:19:52.350Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,2.49,31.61,0.0781913774094782,9,reviewed,pr,pr
