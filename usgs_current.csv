@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-21T13:09:47.290Z,19.174165725708,-155.497329711914,34.1500015258789,2.03999996,md,39,153,,0.129999995,hv,hv73309232,2023-01-21T13:12:58.910Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.72,0.860000014,0.790000021,12,automatic,hv,hv
 2023-01-21T12:47:19.789Z,60.847,-152.3511,105.7,2.6,ml,,,,0.43,ak,ak023yxplwu,2023-01-21T12:50:16.949Z,"60 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-21T12:47:14.954Z,60.4838,-141.4008,15.1,2.8,ml,,,,0.8,ak,ak023yxplfr,2023-01-21T12:48:53.698Z,"134 km SE of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-01-21T12:47:14.954Z,60.4838,-141.4008,15.1,2.8,ml,,,,0.8,ak,ak023yxplfr,2023-01-21T13:03:28.040Z,"134 km SE of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-01-21T12:44:29.696Z,60.4708,-141.3898,10.5,2.1,ml,,,,0.9,ak,ak023yxozgr,2023-01-21T12:47:44.952Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-21T12:35:57.100Z,35.7033333,-117.496,8.19,0.95,ml,7,173,0.1393,0.12,ci,ci40404656,2023-01-21T12:39:25.512Z,"11km SW of Searles Valley, CA",earthquake,0.5,1.92,0.104,10,automatic,ci,ci
 2023-01-21T12:10:26.720Z,38.8176651,-122.7958298,2.28,0.89,md,15,46,0.009692,0.01,nc,nc73835306,2023-01-21T12:53:18.497Z,"6km NW of The Geysers, CA",earthquake,0.28,0.58,0.19,17,automatic,nc,nc
@@ -150,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T23:15:22.270Z,53.8378333333333,-166.612666666667,6.27,0.33,ml,7,168,,0.19,av,av91750041,2023-01-21T04:08:29.680Z,"6 km SW of Unalaska, Alaska",earthquake,0.55,1.34,0.43494164586716,6,reviewed,av,av
 2023-01-20T23:15:09.560Z,53.839,-166.6145,5.93,0.19,ml,7,166,,0.15,av,av91085188,2023-01-21T04:07:43.340Z,"6 km SW of Unalaska, Alaska",earthquake,0.45,1.07,0.468737539679507,7,reviewed,av,av
 2023-01-20T23:13:06.070Z,38.8216667,-122.7896652,0.8,1.15,md,21,37,0.01094,0.02,nc,nc73834816,2023-01-20T23:14:41.447Z,"6km NNW of The Geysers, CA",earthquake,0.17,0.32,0.13,21,automatic,nc,nc
-2023-01-20T23:10:14.030Z,58.2411666666667,-155.133333333333,1.21,-0.25,ml,7,156,,0.07,av,av91750036,2023-01-21T04:10:36.430Z,"Alaska Peninsula",earthquake,0.33,1.55,0.238274987116442,7,reviewed,av,av
+2023-01-20T23:10:14.030Z,58.2411666666667,-155.133333333333,1.21,-0.25,ml,7,156,,0.07,av,av91750036,2023-01-21T04:10:36.430Z,"84 km NNW of Karluk, Alaska",earthquake,0.33,1.55,0.238274987116442,7,reviewed,av,av
 2023-01-20T23:09:30.700Z,38.8231659,-122.7884979,0.71,1.27,md,20,38,0.01162,0.02,nc,nc73834806,2023-01-21T00:13:13.967Z,"6km W of Cobb, CA",earthquake,0.18,0.32,0.24,20,automatic,nc,nc
 2023-01-20T23:05:55.740Z,38.8240013,-122.7874985,0.55,0.67,md,7,89,0.01197,0.01,nc,nc73834796,2023-01-20T23:07:30.518Z,"6km W of Cobb, CA",earthquake,0.43,2.12,0.46,8,automatic,nc,nc
 2023-01-20T22:52:18.060Z,17.9696666666667,-66.9876666666667,7.57,1.79,md,3,184,0.05383,0.04,pr,pr71393398,2023-01-20T23:16:23.980Z,"Puerto Rico",earthquake,1.66,0.74,0.0354753018105469,3,reviewed,pr,pr
@@ -222,8 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T13:20:33.260Z,38.8235016,-122.7959976,2.85,0.77,md,12,97,0.011,0.01,nc,nc73834571,2023-01-20T13:52:13.175Z,"6km NNW of The Geysers, CA",earthquake,0.33,1.19,0.14,13,automatic,nc,nc
 2023-01-20T13:15:43.858Z,64.5885,-148.0824,15.6,0.8,ml,,,,1.19,ak,ak023xakvqf,2023-01-20T13:22:47.130Z,"28 km SSW of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-20T13:14:21.840Z,58.2665,-155.048166666667,3.54,-0.17,ml,4,178,,0.14,av,av91085143,2023-01-21T02:52:14.020Z,"85 km NNW of Karluk, Alaska",earthquake,0.7,1.25,0.227095420236449,4,reviewed,av,av
-2023-01-20T13:10:46.828Z,62.9138,-151.2889,118.5,1.7,ml,,,,0.06,ak,ak023xajtjb,2023-01-20T13:13:38.160Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-20T13:10:43.780Z,33.4853333,-116.5161667,12.61,0.33,ml,17,96,0.0725,0.13,ci,ci37519277,2023-01-20T20:10:27.512Z,"16km ESE of Anza, CA",earthquake,0.38,0.72,0.085,8,reviewed,ci,ci
-2023-01-20T13:10:36.150Z,33.4588333,-116.4831667,13.2,0.41,ml,19,134,0.08033,0.1,ci,ci40404400,2023-01-20T20:06:29.662Z,"21km ESE of Anza, CA",earthquake,0.32,0.58,0.136,11,reviewed,ci,ci
-2023-01-20T13:00:30.710Z,19.213,-155.142,40.06,1.66,md,29,263,,0.12,hv,hv73308482,2023-01-20T20:05:35.520Z,"Hawaii region, Hawaii",earthquake,0.9,0.44,0.156632800784665,12,reviewed,hv,hv
-2023-01-20T12:59:18.620Z,38.8115005,-122.8339996,2.24,0.74,md,9,71,0.004593,0.01,nc,nc73834561,2023-01-20T13:29:19.050Z,"8km WNW of The Geysers, CA",earthquake,0.36,0.83,0.11,9,automatic,nc,nc
