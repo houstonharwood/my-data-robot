@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-21T07:39:54.990Z,19.2601661682129,-155.396835327148,32.1199989318848,1.72000003,md,42,129,,0.140000001,hv,hv73309047,2023-01-21T07:42:59.200Z,"10 km NE of Pāhala, Hawaii",earthquake,0.55,0.889999986,1.35000002,8,automatic,hv,hv
+2023-01-21T07:39:14.275Z,58.1381,-152.7319,47.5,2.7,ml,,,,0.62,ak,ak023yuopmr,2023-01-21T07:42:09.258Z,"13 km NE of Aleneva, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-01-21T07:33:32.230Z,38.8283348,-122.8174973,8.53,0.28,md,8,177,0.007613,0.05,nc,nc73835161,2023-01-21T07:35:11.261Z,"8km NW of The Geysers, CA",earthquake,1.58,7.08,0.17,11,automatic,nc,nc
 2023-01-21T07:15:06.050Z,38.8320007,-122.8170013,1.05,0.7,md,9,85,0.01015,0.02,nc,nc73835146,2023-01-21T07:16:41.026Z,"8km NW of The Geysers, CA",earthquake,0.29,0.92,0.12,10,automatic,nc,nc
+2023-01-21T07:09:59.430Z,19.0621666666667,-64.8555,38.73,3.18,md,4,318,0.7124,0.15,pr,pr71393578,2023-01-21T07:44:06.420Z,"Virgin Islands",earthquake,3.59,9.95,0.0834953476991194,3,reviewed,pr,pr
 2023-01-21T07:08:45.250Z,19.3509998321533,-155.396667480469,8.60000038146973,2.23,ml,41,75,,0.129999995,hv,hv73309037,2023-01-21T07:14:15.370Z,"18 km NNE of Pāhala, Hawaii",earthquake,0.34,0.419999987,2.68,10,automatic,hv,hv
 2023-01-21T07:01:29.900Z,38.8348351,-122.8058319,1.85,1.03,md,15,53,0.01189,0.02,nc,nc73835131,2023-01-21T07:03:06.165Z,"7km W of Cobb, CA",earthquake,0.26,0.63,0.09,16,automatic,nc,nc
 2023-01-21T07:01:21.350Z,38.8235016,-122.8101654,9.73,0.33,md,6,165,0.0001282,0.06,nc,nc73835126,2023-01-21T07:02:55.929Z,"7km NW of The Geysers, CA",earthquake,2.45,8.4,0.22,8,automatic,nc,nc
@@ -10,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T06:29:31.470Z,40.2373352,-124.8656693,4.13,1.73,md,5,331,0.4685,0.06,nc,nc73835106,2023-01-21T07:13:12.384Z,"50km W of Petrolia, CA",earthquake,5.89,7.31,0.06,4,automatic,nc,nc
 2023-01-21T06:17:06.468Z,2.8567,127.0676,35,4.7,mb,40,131,2.092,0.79,us,us7000j610,2023-01-21T07:11:58.040Z,"162 km NW of Tobelo, Indonesia",earthquake,10.18,1.933,0.092,36,reviewed,us,us
 2023-01-21T06:13:27.700Z,38.8334999,-122.7916641,1.9,1.09,md,16,48,0.005009,0.02,nc,nc73835101,2023-01-21T06:15:00.383Z,"6km WNW of Cobb, CA",earthquake,0.29,0.71,0.15,18,automatic,nc,nc
+2023-01-21T06:08:49.003Z,31.6576,-104.3817,5,2.5,ml,25,116,0.382,0.31,us,us7000j60w,2023-01-21T07:39:34.040Z,"57 km S of Whites City, New Mexico",earthquake,1.87,1.945,0.048,58,reviewed,us,us
 2023-01-21T06:08:06.590Z,38.831501,-122.7911682,1.82,1.62,md,30,39,,0.02,nc,nc73835096,2023-01-21T07:01:11.434Z,"6km W of Cobb, CA",earthquake,0.17,0.27,0.14,32,automatic,nc,nc
 2023-01-21T06:06:44.728Z,37.9645,-118.0678,0,1.2,ml,12,154.64,0.153,0.1617,nn,nn00855111,2023-01-21T06:08:59.605Z,"32 km N of Dyer, Nevada",earthquake,,5.6,0.33,8,automatic,nn,nn
 2023-01-21T05:53:32.940Z,19.2533333333333,-64.8501666666667,34.83,3.19,md,8,297,0.9018,0.22,pr,pr71393548,2023-01-21T07:05:27.280Z,"101 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.99,15.02,0.12423294896296,6,reviewed,pr,pr
@@ -206,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T07:51:31.260Z,32.9615,-116.2968333,11.8,0.94,ml,32,54,0.008811,0.16,ci,ci40404352,2023-01-20T19:32:10.328Z,"25km SW of Ocotillo Wells, CA",earthquake,0.28,0.48,0.151,11,reviewed,ci,ci
 2023-01-20T07:50:21.680Z,37.3322,-117.126,10.8,1.6,ml,20,125.38,0.373,0.16,nn,nn00855062,2023-01-20T18:13:55.747Z,"42 km SSE of Goldfield, Nevada",earthquake,,1.5,0.93,14,reviewed,nn,nn
 2023-01-20T07:47:02.320Z,36.2233315,-120.7929993,7.03,1.21,md,10,152,0.009979,0.06,nc,nc73834431,2023-01-20T08:43:13.251Z,"23km ENE of San Lucas, CA",earthquake,0.39,0.42,0.18,5,automatic,nc,nc
-2023-01-20T07:40:03.146Z,37.3457,-117.1166,11.4,1.6,ml,23,127.75,0.374,0.1676,nn,nn00855059,2023-01-20T17:58:17.142Z,"Nevada",earthquake,,1.8,1.01,15,reviewed,nn,nn
