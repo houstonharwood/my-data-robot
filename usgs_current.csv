@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-21T05:11:30.850Z,37.3810005,-122.2164993,7.35,1.35,md,9,158,0.02876,0.01,nc,nc73835071,2023-01-21T05:27:10.760Z,"2km ESE of Portola Valley, CA",earthquake,0.48,0.51,0.19,7,automatic,nc,nc
 2023-01-21T05:09:20.760Z,35.9076667,-117.7455,7.59,1.74,ml,24,74,0.07188,0.15,ci,ci40404568,2023-01-21T05:19:54.990Z,"15km ESE of Little Lake, CA",earthquake,0.27,0.78,0.208,23,automatic,ci,ci
-2023-01-21T05:03:02.440Z,37.3763351,-122.2231674,6.87,1.11,md,8,153,0.03001,0.02,nc,nc73835056,2023-01-21T05:36:12.816Z,"1km SE of Portola Valley, CA",earthquake,0.6,0.72,0.01,5,automatic,nc,nc
-2023-01-21T05:01:36.617Z,19.2266,-64.9599,34.276,3.7,ml,22,209,0.87,0.49,us,us7000j60h,2023-01-21T05:23:47.040Z,"Virgin Islands region",earthquake,6.91,9.724,0.06,36,reviewed,us,us
+2023-01-21T05:03:02.440Z,37.3763351,-122.2231674,6.87,1.11,md,8,153,0.03001,0.02,nc,nc73835056,2023-01-21T05:47:10.890Z,"1km SE of Portola Valley, CA",earthquake,0.6,0.72,0.01,5,automatic,nc,nc
+2023-01-21T05:01:35.880Z,19.3256,-64.8465,33,3.88,md,21,277,0.9791,0.38,pr,pr2023021001,2023-01-21T05:45:57.848Z,"Virgin Islands",earthquake,2.9,19.74,0.1,18,reviewed,pr,pr
 2023-01-21T05:01:09.840Z,33.466,-116.3831667,4.76,0.6,ml,15,133,0.1536,0.19,ci,ci40404560,2023-01-21T05:04:34.935Z,"23km SSW of La Quinta, CA",earthquake,0.51,1.43,0.126,15,automatic,ci,ci
 2023-01-21T04:57:58.920Z,37.3056679,-122.1006699,5.93,2.19,md,35,83,0.02884,0.09,nc,nc73835051,2023-01-21T05:27:12.761Z,"5km S of Loyola, CA",earthquake,0.19,0.37,0.18,35,automatic,nc,nc
 2023-01-21T04:51:03.300Z,19.3615,-64.852,20.84,3.42,md,10,300,1.009,0.2,pr,pr71393458,2023-01-21T05:31:01.530Z,"113 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.26,17.85,0.0881846564683388,10,reviewed,pr,pr
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T23:15:22.270Z,53.8378333333333,-166.612666666667,6.27,0.33,ml,7,168,,0.19,av,av91750041,2023-01-21T04:08:29.680Z,"6 km SW of Unalaska, Alaska",earthquake,0.55,1.34,0.43494164586716,6,reviewed,av,av
 2023-01-20T23:15:09.560Z,53.839,-166.6145,5.93,0.19,ml,7,166,,0.15,av,av91085188,2023-01-21T04:07:43.340Z,"6 km SW of Unalaska, Alaska",earthquake,0.45,1.07,0.468737539679507,7,reviewed,av,av
 2023-01-20T23:13:06.070Z,38.8216667,-122.7896652,0.8,1.15,md,21,37,0.01094,0.02,nc,nc73834816,2023-01-20T23:14:41.447Z,"6km NNW of The Geysers, CA",earthquake,0.17,0.32,0.13,21,automatic,nc,nc
-2023-01-20T23:10:14.030Z,58.2411666666667,-155.133333333333,1.21,-0.25,ml,7,156,,0.07,av,av91750036,2023-01-21T04:10:36.430Z,"84 km NNW of Karluk, Alaska",earthquake,0.33,1.55,0.238274987116442,7,reviewed,av,av
+2023-01-20T23:10:14.030Z,58.2411666666667,-155.133333333333,1.21,-0.25,ml,7,156,,0.07,av,av91750036,2023-01-21T04:10:36.430Z,"Alaska Peninsula",earthquake,0.33,1.55,0.238274987116442,7,reviewed,av,av
 2023-01-20T23:09:30.700Z,38.8231659,-122.7884979,0.71,1.27,md,20,38,0.01162,0.02,nc,nc73834806,2023-01-21T00:13:13.967Z,"6km W of Cobb, CA",earthquake,0.18,0.32,0.24,20,automatic,nc,nc
 2023-01-20T23:05:55.740Z,38.8240013,-122.7874985,0.55,0.67,md,7,89,0.01197,0.01,nc,nc73834796,2023-01-20T23:07:30.518Z,"6km W of Cobb, CA",earthquake,0.43,2.12,0.46,8,automatic,nc,nc
 2023-01-20T22:52:18.060Z,17.9696666666667,-66.9876666666667,7.57,1.79,md,3,184,0.05383,0.04,pr,pr71393398,2023-01-20T23:16:23.980Z,"Puerto Rico",earthquake,1.66,0.74,0.0354753018105469,3,reviewed,pr,pr
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T08:28:49.040Z,38.8311667,-122.8146667,1.79,1.23,md,36,49,0.008549,0.02,nc,nc73834451,2023-01-20T22:55:11.627Z,"8km NW of The Geysers, CA",earthquake,0.14,0.29,0.257,7,reviewed,nc,nc
 2023-01-20T08:13:03.741Z,61.8025,-144.9031,62,1.6,ml,,,,0.68,ak,ak023x7l7ba,2023-01-20T08:14:51.679Z,"9 km NNE of Kenny Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-20T08:10:35.930Z,38.8286667,-122.8156662,2.93,0.76,md,9,94,0.00684,0.03,nc,nc73834446,2023-01-20T08:12:09.007Z,"8km NW of The Geysers, CA",earthquake,0.47,1.36,0.29,9,automatic,nc,nc
-2023-01-20T08:01:14.570Z,41.128,-123.8753333,25.27,4.26,mw,80,89,0.2208,0.17,nc,nc73834441,2023-01-21T04:41:07.606Z,"16km WSW of Weitchpec, CA",earthquake,0.31,1.29,,4,reviewed,nc,nc
+2023-01-20T08:01:14.570Z,41.128,-123.8753333,25.27,4.26,mw,80,89,0.2208,0.17,nc,nc73834441,2023-01-21T05:41:19.790Z,"16km WSW of Weitchpec, CA",earthquake,0.31,1.29,,4,reviewed,nc,nc
 2023-01-20T07:55:05.300Z,37.329,-117.1222,10.3,1.5,ml,22,134.74,0.369,0.1555,nn,nn00855065,2023-01-20T18:29:39.794Z,"California-Nevada border region",earthquake,,1.3,0.93,14,reviewed,nn,nn
 2023-01-20T07:51:31.260Z,32.9615,-116.2968333,11.8,0.94,ml,32,54,0.008811,0.16,ci,ci40404352,2023-01-20T19:32:10.328Z,"25km SW of Ocotillo Wells, CA",earthquake,0.28,0.48,0.151,11,reviewed,ci,ci
 2023-01-20T07:50:21.680Z,37.3322,-117.126,10.8,1.6,ml,20,125.38,0.373,0.16,nn,nn00855062,2023-01-20T18:13:55.747Z,"42 km SSE of Goldfield, Nevada",earthquake,,1.5,0.93,14,reviewed,nn,nn
