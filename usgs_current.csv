@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T20:30:36.720Z,33.9935,-116.657,15.95,0.99,ml,23,75,0.04553,0.21,ci,ci40404712,2023-01-21T20:34:11.466Z,"9km SW of Morongo Valley, CA",earthquake,0.39,0.83,0.139,25,automatic,ci,ci
 2023-01-21T20:18:56.710Z,32.6756667,-115.8558333,4.8,1.42,ml,17,84,0.06268,0.17,ci,ci40404704,2023-01-21T20:22:29.974Z,"14km ESE of Ocotillo, CA",earthquake,0.33,0.81,0.23,19,automatic,ci,ci
 2023-01-21T20:16:53.114Z,31.6093961,-103.9646337,8.586682129,3.1,ml,35,54,0.003818598464,0.1,tx,tx2023bmcf,2023-01-21T20:32:39.654Z,"36 km WSW of Mentone, Texas",earthquake,0.4408422017,0.4535636633,0.1,20,reviewed,tx,tx
-2023-01-21T20:11:07.650Z,38.8321648,-122.8181686,1.51,1.72,md,23,54,0.0108,0.02,nc,nc73835441,2023-01-21T20:25:11.218Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.1,26,automatic,nc,nc
+2023-01-21T20:11:07.650Z,38.8321648,-122.8181686,1.51,1.72,md,23,54,0.0108,0.02,nc,nc73835441,2023-01-21T20:43:12.310Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.1,26,automatic,nc,nc
 2023-01-21T20:06:52.313Z,2.7891,127.0311,41.244,5.1,mww,142,56,2.032,0.67,us,us7000j646,2023-01-21T20:25:53.040Z,"160 km NW of Tobelo, Indonesia",earthquake,6.42,6.19,0.08,15,reviewed,us,us
 2023-01-21T20:05:39.020Z,38.8261681,-122.8578339,2.3,1.09,md,22,66,0.001566,0.01,nc,nc73835436,2023-01-21T20:32:14.419Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.46,0.15,24,automatic,nc,nc
 2023-01-21T19:57:35.484Z,66.0339,-143.3765,79.9,2.8,ml,,,,1.11,ak,ak023z1xtf0,2023-01-21T19:59:49.663Z,"38 km NE of Circle, Alaska",earthquake,,12.4,,,automatic,ak,ak
@@ -150,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T04:32:50.070Z,19.2530002593994,-155.385330200195,31.1399993896484,2.55,ml,44,174,,0.109999999,hv,hv73308912,2023-01-21T04:38:21.680Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.629999995,3.32,24,automatic,hv,hv
 2023-01-21T04:28:46.530Z,19.2983333333333,-64.8355,44.29,3.37,md,7,299,0.9479,0.13,pr,pr71393453,2023-01-21T09:01:38.710Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.56,11.72,0.136788043084669,8,reviewed,pr,pr
 2023-01-21T04:24:47.009Z,63.8067,-149.3495,110.6,1.8,ml,,,,0.38,ak,ak023yst9lo,2023-01-21T04:26:46.748Z,"19 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-21T04:07:07.830Z,53.3002,-163.5332,23.807,4.6,mb,58,211,1.387,0.75,us,us7000j606,2023-01-21T18:03:54.389Z,"173 km S of False Pass, Alaska",earthquake,7.53,8.311,0.116,25,reviewed,us,us
+2023-01-21T04:07:07.830Z,53.3002,-163.5332,23.807,4.6,mb,58,211,1.387,0.75,us,us7000j606,2023-01-21T18:06:59.358Z,"173 km S of False Pass, Alaska",earthquake,7.53,8.311,0.116,25,reviewed,us,us
 2023-01-21T04:05:37.070Z,19.3403,-64.8281,34,3.69,md,11,294,0.996,0.38,pr,pr2023021000,2023-01-21T05:50:44.360Z,"111 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.3,25.5,0.11,7,reviewed,pr,pr
 2023-01-21T03:58:09.663Z,2.7788,127.0784,47.107,5.1,mb,66,111,2.014,1.06,us,us7000j603,2023-01-21T04:14:23.040Z,"155 km NW of Tobelo, Indonesia",earthquake,7.67,7.156,0.077,54,reviewed,us,us
 2023-01-21T03:57:17.410Z,34.7813333,-118.926,14.63,1.18,ml,23,70,0.03621,0.22,ci,ci40404552,2023-01-21T04:01:05.128Z,"5km SSE of Frazier Park, CA",earthquake,0.37,0.57,0.205,13,automatic,ci,ci
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T21:30:51.287Z,-3.9681,34.3621,10,4.6,mb,51,70,4.008,0.54,us,us7000j5wu,2023-01-21T02:12:30.493Z,"33 km N of Kiomboi, Tanzania",earthquake,9.02,1.917,0.083,43,reviewed,us,us
 2023-01-20T21:09:09.020Z,38.8429985,-122.8399963,1.85,0.74,md,12,129,0.005638,0.01,nc,nc73834716,2023-01-20T21:56:12.124Z,"10km NW of The Geysers, CA",earthquake,0.33,0.64,0.1,14,automatic,nc,nc
 2023-01-20T21:08:20.020Z,51.8935,-176.189666666667,9.17,1.41,ml,4,197,,0.07,av,av91750006,2023-01-21T03:52:42.740Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.75,2.05,0.187153022157592,4,reviewed,av,av
-2023-01-20T20:44:01.040Z,53.8668333333333,-166.9375,11.47,-0.21,ml,5,234,,0.22,av,av91085183,2023-01-21T03:46:55.090Z,"26 km W of Dutch Harbor, Alaska",earthquake,2.79,1.54,0.232555848424505,5,reviewed,av,av
