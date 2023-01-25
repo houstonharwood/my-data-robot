@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-25T02:46:21.110Z,38.8343315,-122.8180008,2.07,0.72,md,11,61,0.01255,0.01,nc,nc73836881,2023-01-25T02:47:58.456Z,"8km NW of The Geysers, CA",earthquake,0.32,0.84,0.1,12,automatic,nc,nc
-2023-01-25T02:41:22.510Z,36.7044983,-121.3793335,-0.44,1.53,md,13,125,0.02654,0.13,nc,nc73836876,2023-01-25T02:42:58.465Z,"11km SSW of Tres Pinos, CA",earthquake,0.49,1.76,0.22,9,automatic,nc,nc
+2023-01-25T02:41:22.510Z,36.7044983,-121.3793335,-0.44,1.53,md,13,125,0.02654,0.13,nc,nc73836876,2023-01-25T02:58:11.906Z,"11km SSW of Tres Pinos, CA",earthquake,0.49,1.76,0.22,9,automatic,nc,nc
 2023-01-25T02:10:27.870Z,35.9576667,-117.7086667,2.66,1.52,ml,20,140,0.08496,0.17,ci,ci40161047,2023-01-25T02:20:57.590Z,"18km E of Little Lake, CA",earthquake,0.33,0.46,0.203,16,automatic,ci,ci
 2023-01-25T01:47:20.340Z,40.5881653,-124.2278366,4.73,2.71,md,12,215,0.1401,0.04,nc,nc73836866,2023-01-25T02:35:04.565Z,"3km ENE of Ferndale, CA",earthquake,0.55,0.98,0.11,13,automatic,nc,nc
 2023-01-25T01:43:11.780Z,38.8248329,-122.7914963,1.38,0.98,md,15,48,0.01359,0.02,nc,nc73836861,2023-01-25T02:08:13.574Z,"6km W of Cobb, CA",earthquake,0.27,0.56,0.25,15,automatic,nc,nc
@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T13:27:46.300Z,33.967,-116.6828333,12.78,0.73,ml,31,78,0.077,0.11,ci,ci40405296,2023-01-24T17:27:47.355Z,"11km ENE of Cabazon, CA",earthquake,0.16,0.51,0.141,16,reviewed,ci,ci
 2023-01-24T13:24:10.310Z,38.8231659,-122.805336,1.58,1.45,md,29,34,,0.02,nc,nc73836676,2023-01-24T17:08:14.412Z,"7km NW of The Geysers, CA",earthquake,0.17,0.31,0.19,28,automatic,nc,nc
 2023-01-24T13:11:21.953Z,3.0692,126.9846,35,4.9,mb,74,104,2.314,0.76,us,us6000jiwc,2023-01-24T13:46:35.040Z,"187 km NW of Tobelo, Indonesia",earthquake,8.16,1.808,0.063,79,reviewed,us,us
-2023-01-24T13:07:04.210Z,60.9904,-150.9893,11.7,3.3,ml,,,,0.64,ak,ak02313woh1x,2023-01-24T19:10:53.526Z,"11 km SE of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-01-24T13:07:04.210Z,60.9904,-150.9893,11.7,3.3,ml,,,,0.64,ak,ak02313woh1x,2023-01-25T02:58:00.940Z,"11 km SE of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-24T13:04:32.134Z,61.5826,-149.949,32.4,1.5,ml,,,,0.58,ak,ak02313wnw25,2023-01-24T13:06:44.565Z,"6 km N of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-24T12:57:04.030Z,38.8356667,-122.8089981,2.05,0.92,md,8,104,0.01228,0.02,nc,nc73836661,2023-01-24T13:28:13.129Z,"8km WNW of Cobb, CA",earthquake,0.47,1.54,0.35,9,automatic,nc,nc
 2023-01-24T12:54:57.310Z,17.9758333333333,-66.9553333333333,6.57,1.96,md,3,176,0.07241,0.23,pr,pr71394278,2023-01-24T13:52:19.300Z,"Puerto Rico region",earthquake,3.96,2.05,0.115771529751834,2,reviewed,pr,pr
@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T03:38:37.033Z,2.9666,127.1382,35,4.5,mb,23,185,2.192,0.88,us,us6000jiua,2023-01-24T23:12:36.040Z,"167 km NW of Tobelo, Indonesia",earthquake,5.42,1.964,0.14,15,reviewed,us,us
 2023-01-24T03:20:26.100Z,36.166,-118.0833333,2.34,1.31,ml,16,75,0.1911,0.13,ci,ci40405184,2023-01-24T16:41:09.814Z,"15km SSW of Olancha, CA",earthquake,0.18,0.86,0.091,9,reviewed,ci,ci
 2023-01-24T03:17:51.375Z,36.7075,-116.0922,4.5,-0.2,ml,7,165.22,0.013,0.0467,nn,nn00855190,2023-01-24T18:46:32.445Z,"California-Nevada border region",earthquake,,1.4,0.07,3,reviewed,nn,nn
-2023-01-24T02:53:31.197Z,2.9174,127.1702,35,4.6,mb,33,127,2.14,0.72,us,us6000jiu4,2023-01-24T22:57:21.040Z,"161 km NW of Tobelo, Indonesia",earthquake,11.19,1.94,0.105,27,reviewed,us,us
