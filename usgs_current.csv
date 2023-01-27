@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-27T04:17:45.250Z,19.0516662597656,-155.405838012695,34.8600006103516,2.27,ml,41,264,,0.129999995,hv,hv73313682,2023-01-27T04:23:16.390Z,"18 km E of Naalehu, Hawaii",earthquake,0.55,1.02999997,3.73,3,automatic,hv,hv
+2023-01-27T04:26:42.530Z,38.7893333,-122.7614975,1.32,1.12,md,17,62,0.01136,0.02,nc,nc73838121,2023-01-27T04:28:18.436Z,"1km NNW of The Geysers, CA",earthquake,0.26,0.47,0.16,18,automatic,nc,nc
+2023-01-27T04:17:45.250Z,19.0516662597656,-155.405838012695,34.8600006103516,2.27,ml,41,264,,0.129999995,hv,hv73313682,2023-01-27T04:29:46.040Z,"18 km E of Naalehu, Hawaii",earthquake,0.55,1.02999997,3.73,3,automatic,hv,hv
 2023-01-27T03:59:24.130Z,32.6741667,-115.8485,8.03,1.3,ml,13,85,0.1059,0.21,ci,ci40162359,2023-01-27T04:03:02.515Z,"15km ESE of Ocotillo, CA",earthquake,0.58,2.12,0.185,10,automatic,ci,ci
-2023-01-27T03:51:19.360Z,38.8246651,-122.8535004,2.3,0.56,md,10,129,0.01451,0.02,nc,nc73838106,2023-01-27T04:05:11.143Z,"10km WNW of The Geysers, CA",earthquake,0.39,1.14,0.37,10,automatic,nc,nc
+2023-01-27T03:51:19.360Z,38.8246651,-122.8535004,2.3,0.56,md,10,129,0.01451,0.02,nc,nc73838106,2023-01-27T04:36:18.463Z,"10km WNW of The Geysers, CA",earthquake,0.39,1.14,0.37,10,automatic,nc,nc
 2023-01-27T03:49:35.280Z,19.0359992980957,-155.410995483398,32.939998626709,2.47000003,md,35,211,,0.159999996,hv,hv73313672,2023-01-27T03:53:02.490Z,"18 km E of Naalehu, Hawaii",earthquake,0.74,1.37,1.04999995,8,automatic,hv,hv
 2023-01-27T03:34:21.930Z,36.8353348,-121.5988312,2.07,0.92,md,8,120,0.04934,0.26,nc,nc73838096,2023-01-27T04:15:15.201Z,"6km WSW of San Juan Bautista, CA",earthquake,0.78,3.27,0.33,9,automatic,nc,nc
 2023-01-27T03:27:55.060Z,17.979,-66.9143333333333,11.71,2.68,md,14,125,0.00866,0.24,pr,pr71394593,2023-01-27T03:52:49.890Z,"0 km S of Fuig, Puerto Rico",earthquake,0.71,0.76,0.357987080017138,10,reviewed,pr,pr
 2023-01-27T03:22:50.380Z,38.8361664,-122.8075027,2.08,1.07,md,20,51,0.01291,0.01,nc,nc73838091,2023-01-27T04:04:16.135Z,"8km WNW of Cobb, CA",earthquake,0.22,0.44,0.27,22,automatic,nc,nc
 2023-01-27T03:21:52.782Z,60.7982,-150.4954,50.4,1.5,ml,,,,0.51,ak,ak02318pfa95,2023-01-27T03:24:24.639Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-27T03:21:35.761Z,13.7912,120.5476,110.676,4.5,mb,34,111,8.312,0.5,us,us6000jjlk,2023-01-27T04:14:12.040Z,"10 km WSW of Calatagan, Philippines",earthquake,8,8.337,0.08,46,reviewed,us,us
+2023-01-27T03:21:35.761Z,13.7912,120.5476,110.676,4.5,mb,34,111,8.312,0.5,us,us6000jjlk,2023-01-27T04:14:12.040Z,"Mindoro, Philippines",earthquake,8,8.337,0.08,46,reviewed,us,us
 2023-01-27T03:21:13.798Z,44.4722,-115.1837,10,2.2,ml,14,55,0.673,0.83,us,us6000jjlb,2023-01-27T03:29:49.040Z,"34 km NW of Stanley, Idaho",earthquake,1.97,2.011,0.064,32,reviewed,us,us
 2023-01-27T02:53:21.207Z,57.5849,-156.5682,14.4,1.7,ml,,,,0.91,ak,ak02318p0n4o,2023-01-27T02:55:28.872Z,"50 km E of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-27T02:52:44.140Z,38.8735008,-123.6395035,4.51,1.88,md,11,216,0.09407,0.07,nc,nc73838086,2023-01-27T03:52:15.065Z,"6km SE of Point Arena, CA",earthquake,0.85,2.7,0.06,9,automatic,nc,nc
@@ -77,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T21:01:33.750Z,34.348,-116.8275,-1.7,1.42,ml,6,170,0.1152,0.35,ci,ci40162207,2023-01-26T21:55:12.950Z,"10km N of Big Bear City, CA",quarry blast,2.6,31.61,0.002,3,reviewed,ci,ci
 2023-01-26T20:51:53.700Z,38.7881667,-122.7456667,0.96,0.35,md,14,103,0.008548,0.02,nc,nc73837911,2023-01-26T23:18:10.448Z,"2km NE of The Geysers, CA",earthquake,0.24,0.29,0.271,2,reviewed,nc,nc
 2023-01-26T20:51:50.890Z,38.8488333,-122.8158333,1.15,0.09,md,13,68,0.008264,0.03,nc,nc71129784,2023-01-26T23:24:10.479Z,"9km WNW of Cobb, CA",earthquake,0.26,0.57,0.128,2,reviewed,nc,nc
-2023-01-26T20:50:14.207Z,62.9547,-149.6454,76.5,3.9,ml,,,,0.71,ak,ak02317c6fu9,2023-01-27T03:12:56.408Z,"Central Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-01-26T20:50:14.207Z,62.9547,-149.6454,76.5,3.9,ml,,,,0.71,ak,ak02317c6fu9,2023-01-27T04:29:03.223Z,"Central Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-01-26T20:48:18.420Z,38.7628326,-122.8583298,4.02,1.1,md,14,198,0.01098,0.03,nc,nc73837906,2023-01-26T21:55:13.966Z,"9km W of The Geysers, CA",earthquake,0.48,0.61,0.25,14,automatic,nc,nc
 2023-01-26T20:39:41.340Z,19.153,-155.372,30.08,3.1,ml,54,179,,0.13,hv,hv73313432,2023-01-27T03:54:37.612Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.43,0.57,0.157222504237573,38,reviewed,hv,hv
 2023-01-26T20:39:10.190Z,38.8235016,-122.8031693,5.31,0.26,md,7,126,0.005395,0.01,nc,nc73837901,2023-01-26T21:01:10.774Z,"6km NW of The Geysers, CA",earthquake,1.38,5.86,0.07,6,automatic,nc,nc
@@ -227,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T04:51:29.010Z,33.8943333,-118.6975,14.07,1.87,ml,31,167,0.1426,0.2,ci,ci40161927,2023-01-26T20:53:34.146Z,"15km S of Malibu Beach, CA",earthquake,0.36,0.76,0.18,38,reviewed,ci,ci
 2023-01-26T04:46:25.100Z,33.9816667,-116.6853333,11.84,0.69,ml,23,73,0.06466,0.13,ci,ci40161919,2023-01-26T16:48:14.120Z,"12km NE of Cabazon, CA",earthquake,0.2,0.54,0.048,10,reviewed,ci,ci
 2023-01-26T04:44:00.620Z,33.8971667,-118.7146667,17.28,1.5,ml,10,172,0.1316,0.21,ci,ci40161911,2023-01-26T15:14:07.694Z,"15km SE of Malibu, CA",earthquake,0.72,1.61,0.097,14,reviewed,ci,ci
-2023-01-26T04:36:28.710Z,38.8275,-122.8251667,1.28,0.2,md,19,38,0.008861,0.03,nc,nc73837511,2023-01-27T00:24:11.826Z,"8km NW of The Geysers, CA",earthquake,0.23,0.42,0.36,2,reviewed,nc,nc
-2023-01-26T04:32:15.710Z,18.9818325042725,-155.432495117188,36.5400009155273,2.12,ml,43,259,,0.140000001,hv,hv73313027,2023-01-26T06:18:54.040Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.64,1.32000005,3.85,3,automatic,hv,hv
-2023-01-26T04:29:44.168Z,-0.1167,-77.4795,10,4.1,mb,16,119,0.294,0.69,us,us6000jjbm,2023-01-26T23:06:23.040Z,"67 km NW of Puerto Francisco de Orellana, Ecuador",earthquake,2.7,1.981,0.261,4,reviewed,us,us
