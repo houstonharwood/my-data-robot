@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-27T09:29:36.061Z,38.1687,-117.8926,7,1.2,ml,12,132.78,0.06,0.2076,nn,nn00855370,2023-01-27T09:31:25.885Z,"31 km SE of Mina, Nevada",earthquake,,0.9,0.32,6,automatic,nn,nn
 2023-01-27T09:25:54.710Z,38.7906685,-122.7616653,1.66,0.72,md,11,77,0.01006,0.02,nc,nc73838221,2023-01-27T09:27:28.062Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.67,0.27,11,automatic,nc,nc
 2023-01-27T09:24:17.700Z,33.4831667,-116.548,7.78,0.57,ml,17,112,0.04673,0.16,ci,ci40162591,2023-01-27T09:27:47.307Z,"14km SE of Anza, CA",earthquake,0.38,0.59,0.251,12,automatic,ci,ci
 2023-01-27T09:12:48.670Z,33.5445,-116.4121667,9.57,0.66,ml,15,103,0.0764,0.16,ci,ci40162583,2023-01-27T09:16:22.626Z,"16km SW of La Quinta, CA",earthquake,0.38,1.2,0.085,5,automatic,ci,ci
@@ -53,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T03:25:42.560Z,18.3245,-67.9785,157,3.42,md,9,329,0.879,0.41,pr,pr2023027000,2023-01-27T09:14:47.963Z,"53 km ESE of Punta Cana, Dominican Republic",earthquake,5.46,2.47,0.07,4,reviewed,pr,pr
 2023-01-27T03:22:50.380Z,38.8361664,-122.8075027,2.08,1.07,md,20,51,0.01291,0.01,nc,nc73838091,2023-01-27T04:04:16.135Z,"8km WNW of Cobb, CA",earthquake,0.22,0.44,0.27,22,automatic,nc,nc
 2023-01-27T03:21:52.782Z,60.7982,-150.4954,50.4,1.5,ml,,,,0.51,ak,ak02318pfa95,2023-01-27T03:24:24.639Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-27T03:21:35.761Z,13.7912,120.5476,110.676,4.5,mb,34,111,8.312,0.5,us,us6000jjlk,2023-01-27T04:14:12.040Z,"Mindoro, Philippines",earthquake,8,8.337,0.08,46,reviewed,us,us
+2023-01-27T03:21:35.761Z,13.7912,120.5476,110.676,4.5,mb,34,111,8.312,0.5,us,us6000jjlk,2023-01-27T04:14:12.040Z,"10 km WSW of Calatagan, Philippines",earthquake,8,8.337,0.08,46,reviewed,us,us
 2023-01-27T03:21:13.798Z,44.4722,-115.1837,10,2.2,ml,14,55,0.673,0.83,us,us6000jjlb,2023-01-27T03:29:49.040Z,"34 km NW of Stanley, Idaho",earthquake,1.97,2.011,0.064,32,reviewed,us,us
 2023-01-27T03:01:16.800Z,46.340666666666664,-122.402,9.21,1.29,ml,25,88,0.05451,0.15,uw,uw61904026,2023-01-27T05:41:00.400Z,"21 km SSE of Mossyrock, Washington",earthquake,0.31,0.71,0.12947725748148375,18,reviewed,uw,uw
 2023-01-27T02:53:21.207Z,57.5849,-156.5682,14.4,1.7,ml,,,,0.91,ak,ak02318p0n4o,2023-01-27T02:55:28.872Z,"50 km E of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -242,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T09:51:26.334Z,64.7307,-147.7285,12.3,0.9,ml,,,,0.34,ak,ak023175mwu1,2023-01-26T09:53:20.926Z,"9 km SSE of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-26T09:42:25.328Z,62.2009,-150.1185,19.5,1.6,ml,,,,0.4,ak,ak023175kzb8,2023-01-26T09:44:10.175Z,"13 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-26T09:39:14.840Z,38.8225,-122.7833333,2.04,0.87,md,11,87,0.009457,0.02,nc,nc73837646,2023-01-26T21:44:21.418Z,"5km W of Cobb, CA",earthquake,0.42,0.36,0.107,3,reviewed,nc,nc
-2023-01-26T09:33:54.840Z,38.8393326,-122.8366699,1.56,0.69,md,15,91,0.001185,0.02,nc,nc73837641,2023-01-26T09:59:14.736Z,"10km NW of The Geysers, CA",earthquake,0.27,0.53,0.12,14,automatic,nc,nc
-2023-01-26T09:31:01.460Z,38.8058319,-122.807663,1.14,1.33,md,22,52,0.00989,0.03,nc,nc73837636,2023-01-26T12:00:18.439Z,"6km NW of The Geysers, CA",earthquake,0.18,0.4,0.18,22,automatic,nc,nc
-2023-01-26T09:30:08.420Z,44.7438333,-110.5745,5.58,0.61,md,6,277,0.1469,0.05,uu,uu60530362,2023-01-26T14:50:03.590Z,"Wyoming",earthquake,1.7,6.66,0.509,5,reviewed,uu,uu
