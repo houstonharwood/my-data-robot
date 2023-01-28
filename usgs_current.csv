@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-28T23:30:53.329Z,62.0557,-147.9359,28.9,1.2,ml,,,,0.81,ak,ak0231aox8c4,2023-01-28T23:32:47.159Z,"31 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-28T23:23:55.580Z,38.8040009,-122.8193359,2.85,0.78,md,14,75,0.009097,0.02,nc,nc73838961,2023-01-28T23:25:32.866Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.69,0.13,15,automatic,nc,nc
 2023-01-28T23:21:04.550Z,32.8761667,-115.5231667,3.81,1.33,ml,11,103,0.04043,0.23,ci,ci40163479,2023-01-28T23:24:42.859Z,"5km NE of Imperial, CA",earthquake,0.85,0.65,0.241,16,automatic,ci,ci
+2023-01-28T23:17:48.108Z,59.4409,-153.034,72.3,1.5,ml,,,,0.33,ak,ak0231aouf0u,2023-01-28T23:30:56.996Z,"63 km W of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-01-28T23:14:40.561Z,38.1174,-117.9273,3.7,1.7,ml,10,132.26,0.033,0.211,nn,nn00855441,2023-01-28T23:16:26.700Z,"34 km SSE of Mina, Nevada",earthquake,,0.5,1.02,6,automatic,nn,nn
 2023-01-28T23:09:17.114Z,64.9852,-147.2928,4.8,0.5,ml,,,,1.02,ak,ak0231aosnig,2023-01-28T23:14:06.752Z,"15 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-28T23:07:33.090Z,33.9946667,-117.1858333,10.48,0.83,ml,19,80,0.0484,0.22,ci,ci40163471,2023-01-28T23:11:12.951Z,"7km S of Redlands, CA",earthquake,0.39,0.95,0.168,19,automatic,ci,ci
@@ -25,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T20:38:01.090Z,38.7953339,-122.7423325,1.04,2.07,md,34,50,0.01285,0.05,nc,nc73838896,2023-01-28T21:14:13.119Z,"2km NNE of The Geysers, CA",earthquake,0.18,0.29,0.15,39,automatic,nc,nc
 2023-01-28T20:26:15.189Z,64.3472,-149.6896,15.8,1.2,ml,,,,0.5,ak,ak0231an3zpq,2023-01-28T20:28:54.622Z,"24 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-28T20:24:40.040Z,38.7741661,-122.7480011,0.33,0.76,md,12,69,0.01264,0.02,nc,nc73838886,2023-01-28T20:52:12.986Z,"1km ESE of The Geysers, CA",earthquake,0.21,0.47,0.3,11,automatic,nc,nc
-2023-01-28T20:21:19.158Z,63.5264,-147.3817,21.1,1.5,ml,,,,0.32,ak,ak0231an2xfv,2023-01-28T20:23:23.030Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-01-28T20:21:19.158Z,63.5264,-147.3817,21.1,1.5,ml,,,,0.32,ak,ak0231an2xfv,2023-01-28T20:23:23.030Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-28T20:18:21.840Z,38.7943344,-122.7243347,1.74,1.83,md,32,55,0.01472,0.06,nc,nc73838881,2023-01-28T23:09:12.740Z,"3km S of Cobb, CA",earthquake,0.19,0.37,0.15,32,automatic,nc,nc
 2023-01-28T20:16:54.930Z,19.5878333333333,-66.3143333333333,36.89,3.44,md,7,307,1.263,0.37,pr,pr71394773,2023-01-28T20:43:42.760Z,"124 km N of Brenas, Puerto Rico",earthquake,3.23,24.04,0.00993633848569608,6,reviewed,pr,pr
 2023-01-28T20:13:37.180Z,38.8358345,-122.80867,0.63,1.08,md,20,51,0.01247,0.02,nc,nc73838876,2023-01-28T22:28:11.501Z,"8km WNW of Cobb, CA",earthquake,0.17,0.42,0.14,19,automatic,nc,nc
@@ -153,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T05:02:34.818Z,13.1645,145.5474,10,5,mb,29,140,0.784,0.63,us,us6000jjxp,2023-01-28T23:12:43.647Z,"82 km ESE of Yigo Village, Guam",earthquake,11.53,1.918,0.076,57,reviewed,us,us
 2023-01-28T04:59:29.170Z,19.2115001678467,-155.391326904297,28.75,1.74000001,md,25,171,,0.140000001,hv,hv73314317,2023-01-28T05:02:50.840Z,"9 km E of Pāhala, Hawaii",earthquake,0.9,1.14999998,1.16999996,8,automatic,hv,hv
 2023-01-28T04:52:36.920Z,35.00867081,-97.66164398,5,3.51,ml,90,22.82020569,0.1061735153,0.8204297717,ok,ok2023bxsg,2023-01-28T19:13:52.191Z,"3 km SW of Dibble, Oklahoma",earthquake,1.398171877,,,67,automatic,ok,ok
-2023-01-28T04:40:53.810Z,36.7556648,-121.3046646,4.94,1.13,md,8,192,0.05869,0.05,nc,nc73838666,2023-01-28T07:47:21.352Z,"4km SSE of Tres Pinos, CA",earthquake,1.01,0.92,0.2,7,automatic,nc,nc
+2023-01-28T04:40:53.240Z,36.7695,-121.28,8.64,0.99,md,19,102,0.06632,0.06,nc,nc73838666,2023-01-28T23:26:42.150Z,"4km ESE of Tres Pinos, CA",earthquake,0.27,0.79,0.133,15,reviewed,nc,nc
 2023-01-28T04:31:59.870Z,35.6988333,-117.5456667,2.17,1.14,ml,14,92,0.124,0.2,ci,ci40162967,2023-01-28T04:35:31.209Z,"15km NE of Ridgecrest, CA",earthquake,0.37,0.72,0.128,11,automatic,ci,ci
 2023-01-28T04:31:20.400Z,35.7006667,-117.5438333,6.22,1.51,ml,22,92,0.1228,0.18,ci,ci40162959,2023-01-28T04:42:27.600Z,"15km WSW of Searles Valley, CA",earthquake,0.32,1.27,0.14,20,automatic,ci,ci
 2023-01-28T04:12:47.600Z,34.2696667,-117.1423333,0.88,1.41,ml,41,68,0.08517,0.27,ci,ci40162951,2023-01-28T04:23:23.680Z,"5km ENE of Lake Arrowhead, CA",earthquake,0.43,0.68,0.132,27,automatic,ci,ci
@@ -193,6 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T00:21:19.360Z,38.8183327,-122.8050003,3.11,1.26,md,25,39,0.006423,0.01,nc,nc73838581,2023-01-28T03:44:11.769Z,"6km NW of The Geysers, CA",earthquake,0.22,0.45,0.17,25,automatic,nc,nc
 2023-01-28T00:11:54.609Z,64.9856,-147.3091,1.2,1.4,ml,,,,0.49,ak,ak0231ab46x0,2023-01-28T00:13:39.578Z,"14 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-28T00:03:31.369Z,3.129,127.084,35.104,4.6,mb,31,112,2.358,0.46,us,us6000jjvx,2023-01-28T00:23:38.040Z,"185 km NNW of Tobelo, Indonesia",earthquake,6.26,8.655,0.119,21,reviewed,us,us
+2023-01-28T00:03:18.540Z,51.8783333333333,-177.425333333333,24.99,1.59,ml,10,159,,0.23,av,av91752251,2023-01-28T23:30:59.000Z,"54 km W of Adak, Alaska",earthquake,1.31,1.7,0.264773149127193,10,reviewed,av,av
 2023-01-28T00:00:13.363Z,60.3372,-143.1923,12.9,1.4,ml,,,,0.86,ak,ak0231ab1quw,2023-01-28T00:01:54.004Z,"123 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-27T23:42:38.530Z,38.8268333,-122.8531667,2.27,0.66,md,17,90,0.002981,0.01,nc,nc73838551,2023-01-28T20:52:13.197Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.58,0.103,3,reviewed,nc,nc
 2023-01-27T23:41:10.610Z,19.0236663818359,-155.414337158203,32.0999984741211,2.63,ml,39,211,,0.140000001,hv,hv73314147,2023-01-28T00:27:21.040Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.63,1.09000003,4.49,3,automatic,hv,hv
