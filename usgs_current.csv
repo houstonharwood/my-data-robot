@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T15:15:29.070Z,19.1926670074463,-155.481674194336,32.4799995422363,2.33,ml,37,79,,0.100000001,hv,hv73317847,2023-02-02T15:21:00.000Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.52,0.730000019,3.67,6,automatic,hv,hv
 2023-02-02T15:12:44.187Z,60.9551,-151.8134,79.5,2.1,ml,,,,0.35,ak,ak0231itqmde,2023-02-02T15:14:29.853Z,"38 km WSW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-02T15:11:28.691Z,58.4601,-154.3943,69,0.4,ml,,,,0.38,ak,ak0231itqdgl,2023-02-02T15:13:21.901Z,"97 km WNW of Aleneva, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2023-02-02T14:48:25.483Z,61.0721,-152.1405,100.5,5,mww,,,,0.66,ak,ak0231itcv2l,2023-02-02T15:19:13.987Z,"54 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-02T14:48:25.888Z,61.0718,-152.2142,111,5,mww,,,,0.57,ak,ak0231itcv2l,2023-02-02T15:28:33.063Z,"58 km W of Tyonek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-02-02T14:17:05.690Z,41.4985,-112.1951667,6.56,1.04,md,10,75,0.1011,0.11,uu,uu60529886,2023-02-02T14:43:25.260Z,"9 km SW of Corinne, Utah",earthquake,0.43,1.68,0.143,7,reviewed,uu,uu
 2023-02-02T14:12:57.120Z,18.8663333333333,-66.0688333333333,21.21,2.8,md,9,275,0.5544,0.14,pr,pr71395213,2023-02-02T14:33:05.750Z,"44 km N of San Juan, Puerto Rico",earthquake,0.89,12.92,0.125249903298267,5,reviewed,pr,pr
 2023-02-02T14:03:14.270Z,38.8180008,-122.8046646,2.96,0.91,md,18,45,0.006846,0.01,nc,nc73841006,2023-02-02T14:20:12.194Z,"6km NW of The Geysers, CA",earthquake,0.24,0.52,0.25,20,automatic,nc,nc
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T06:24:10.629Z,60.2716,-152.265,78.2,1.9,ml,,,,0.66,ak,ak0231iog7xi,2023-02-02T06:26:13.340Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-02T06:18:21.710Z,34.8526667,-118.9026667,9.16,1.3,ml,27,67,0.05334,0.24,ci,ci40165375,2023-02-02T06:29:25.210Z,"4km WNW of Lebec, CA",earthquake,0.37,0.67,0.224,15,automatic,ci,ci
 2023-02-02T06:17:56.460Z,38.8409996,-122.8223343,1.97,0.23,md,11,99,0.01055,0.01,nc,nc73840866,2023-02-02T06:30:10.294Z,"9km WNW of Cobb, CA",earthquake,0.31,0.87,0.14,12,automatic,nc,nc
+2023-02-02T06:16:12.520Z,47.608666666666664,-122.61983333333333,28.48,1.22,ml,22,65,0.1074,0.19,uw,uw61905016,2023-02-02T15:32:00.980Z,"2 km E of Tracyton, Washington",earthquake,0.44,0.82,0.14172444542200036,13,reviewed,uw,uw
 2023-02-02T06:13:17.996Z,-25.1743,-178.8449,468.183,4.1,mb,21,127,4.136,0.39,us,us6000jkx4,2023-02-02T06:46:36.040Z,"south of the Fiji Islands",earthquake,6.49,13.965,0.14,15,reviewed,us,us
 2023-02-02T06:10:42.940Z,38.8100014,-122.7833328,-0.84,1.76,md,15,83,0.003855,0.24,nc,nc73840861,2023-02-02T09:41:20.394Z,"4km NNW of The Geysers, CA",earthquake,0.53,0.73,0.11,17,automatic,nc,nc
 2023-02-02T05:55:05.410Z,37.510334,-118.7818298,5.89,1.41,md,12,171,0.08798,0.03,nc,nc73840851,2023-02-02T08:46:15.045Z,"11km WSW of Toms Place, CA",earthquake,1.15,1.62,0.08,11,automatic,nc,nc
@@ -209,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T15:45:40.630Z,37.5651665,-118.9243317,7.61,1.75,md,14,157,0.04741,0.03,nc,nc73840576,2023-02-01T17:46:15.726Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.44,1.22,0.18,15,automatic,nc,nc
 2023-02-01T15:43:17.360Z,32.9128333,-116.2405,7.39,1.42,ml,35,61,0.06731,0.2,ci,ci40165071,2023-02-01T15:54:08.890Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.25,0.66,0.17,28,automatic,ci,ci
 2023-02-01T15:35:53.755Z,61.4359,-149.9404,41.6,1.2,ml,,,,0.5,ak,ak0231h6c833,2023-02-02T00:07:29.522Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-02-01T15:27:49.480Z,58.1855,-155.272,1.79,-0.2,ml,8,146,,0.04,av,av91086503,2023-02-02T03:44:41.220Z,"84 km NW of Karluk, Alaska",earthquake,0.26,0.55,0.476125660537227,8,reviewed,av,av
-2023-02-01T15:27:45.163Z,63.0439,-151.458,3,1.5,ml,,,,0.73,ak,ak0231h6ahp0,2023-02-01T15:30:13.537Z,"56 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-01T15:26:43.550Z,33.1825,-116.0336667,7.94,0.88,ml,24,78,0.04775,0.14,ci,ci40165063,2023-02-01T22:01:54.831Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.21,0.62,0.087,8,reviewed,ci,ci
