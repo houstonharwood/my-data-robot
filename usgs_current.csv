@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T06:50:54.025Z,63.1393,-149.2822,92.6,1.4,ml,,,,0.67,ak,ak0231kc58e2,2023-02-03T06:52:59.718Z,"32 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-03T06:39:52.468Z,65.3969,-148.8787,0,1.1,ml,,,,0.31,ak,ak0231kc2ve6,2023-02-03T06:41:41.672Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-03T06:14:38.670Z,35.7598333,-117.5713333,4.66,1.1,ml,14,84,0.05971,0.17,ci,ci40165727,2023-02-03T06:18:11.599Z,"15km W of Searles Valley, CA",earthquake,0.4,0.62,0.151,11,automatic,ci,ci
-2023-02-03T06:11:55.860Z,38.8351669,-122.8051682,2.01,1.35,md,25,45,0.01202,0.02,nc,nc73841316,2023-02-03T08:16:11.425Z,"7km WNW of Cobb, CA",earthquake,0.19,0.45,0.14,24,automatic,nc,nc
+2023-02-03T06:11:55.860Z,38.8351669,-122.8051682,2.01,1.35,md,25,45,0.01202,0.02,nc,nc73841316,2023-02-03T08:37:11.558Z,"7km WNW of Cobb, CA",earthquake,0.19,0.45,0.14,24,automatic,nc,nc
 2023-02-03T06:07:50.096Z,61.4428,-150.1455,31.8,1.5,ml,,,,1.51,ak,ak0231kbw0ap,2023-02-03T06:09:21.792Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-03T06:03:30.156Z,61.1934,-142.4598,25.3,0.7,ml,,,,1.62,ak,ak0231kbv3w7,2023-02-03T06:05:09.813Z,"36 km SE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-03T05:50:01.122Z,60.2199,-139.6545,0,1.7,ml,,,,0.6,ak,ak0231kbjopc,2023-02-03T05:52:22.699Z,"75 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T23:54:09.075Z,65.3233,-148.9763,11.1,1.5,ml,,,,0.89,ak,ak0231iyr0kr,2023-02-02T23:57:17.182Z,"26 km NE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T23:44:54.620Z,33.9738333,-116.8243333,17.68,2.5,ml,83,25,0.06269,0.19,ci,ci40165671,2023-02-03T01:44:09.531Z,"7km NNW of Cabazon, CA",earthquake,0.17,0.35,0.161,26,automatic,ci,ci
 2023-02-02T23:38:55.170Z,36.4931679,-121.0756683,5.91,2.57,md,23,98,0.04041,0.06,nc,nc73841176,2023-02-03T04:02:14.913Z,"7km SE of Pinnacles, CA",earthquake,0.27,1.88,0.13,29,automatic,nc,nc
-2023-02-02T23:35:45.880Z,38.1981659,-119.2273331,-1.87,3.06,ml,41,84,0.2252,0.27,nc,nc73841171,2023-02-03T03:47:20.811Z,"6km S of Bridgeport, CA",earthquake,0.44,2.01,0.573,15,automatic,nc,nc
+2023-02-02T23:35:45.880Z,38.1981659,-119.2273331,-1.87,3.06,ml,41,84,0.2252,0.27,nc,nc73841171,2023-02-03T08:32:15.949Z,"6km S of Bridgeport, CA",earthquake,0.44,2.01,0.573,15,automatic,nc,nc
 2023-02-02T23:34:23.220Z,38.7394981,-122.7031631,14.56,1.04,md,6,192,0.02783,0.02,nc,nc73841166,2023-02-02T23:45:11.505Z,"4km SSW of Anderson Springs, CA",earthquake,1.75,1.85,0.09,6,automatic,nc,nc
 2023-02-02T23:33:57.886Z,61.3096,-150.0277,34.6,1.3,ml,,,,0.55,ak,ak0231iymmb0,2023-02-02T23:36:25.736Z,"6 km SSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-02T23:23:56.610Z,53.39,-168.183833333333,0.68,0.89,ml,6,218,,0.17,av,av91086923,2023-02-03T04:14:30.250Z,"67 km NE of Nikolski, Alaska",earthquake,0.6,0.41,0.12355102255693,6,reviewed,av,av
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T08:53:16.710Z,58.1655,-155.327333333333,1.1,-0.03,ml,8,181,,0.05,av,av91754046,2023-02-03T00:00:52.230Z,"84 km NW of Karluk, Alaska",earthquake,0.24,1.09,0.315548815216916,9,reviewed,av,av
 2023-02-02T08:46:02.510Z,58.2506666666667,-155.0735,4.56,-0.14,ml,11,105,,0.2,av,av91086698,2023-02-03T00:09:29.890Z,"84 km NNW of Karluk, Alaska",earthquake,0.31,0.67,0.219147941747814,11,reviewed,av,av
 2023-02-02T08:42:44.420Z,58.2475,-154.9625,2.53,-0.15,ml,7,153,,0.17,av,av91086693,2023-02-03T00:08:28.400Z,"81 km NNW of Karluk, Alaska",earthquake,0.42,0.64,0.233635658370526,7,reviewed,av,av
-2023-02-02T08:37:07.060Z,38.7871666,-122.7663345,2.55,0.71,md,8,107,0.0144,0.02,nc,nc73840906,2023-02-02T08:57:20.114Z,"1km NW of The Geysers, CA",earthquake,0.59,1.6,0.08,8,automatic,nc,nc
-2023-02-02T08:34:56.145Z,64.709,-147.4185,7.7,1.4,ml,,,,0.71,ak,ak0231ippbta,2023-02-02T08:36:44.097Z,"5 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
