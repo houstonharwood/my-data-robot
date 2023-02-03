@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-03T23:36:15.520Z,38.838501,-122.8383331,2.06,0.71,md,9,121,0.002224,0.02,nc,nc73841566,2023-02-03T23:37:50.604Z,"10km NW of The Geysers, CA",earthquake,0.36,0.84,0.25,9,automatic,nc,nc
-2023-02-03T23:35:39.760Z,35.8863335,-120.4398346,9.43,1.03,md,14,111,0.01655,0.09,nc,nc73841561,2023-02-03T23:37:15.676Z,"2km SSW of Parkfield, CA",earthquake,1.35,2.04,0.15,5,automatic,nc,nc
+2023-02-03T23:35:39.760Z,35.8863335,-120.4398346,9.43,1.03,md,14,111,0.01655,0.09,nc,nc73841561,2023-02-03T23:48:11.041Z,"2km SSW of Parkfield, CA",earthquake,1.35,2.04,0.15,5,automatic,nc,nc
 2023-02-03T23:23:14.586Z,60.0383,-152.9807,98.2,1.4,ml,,,,0.55,ak,ak0231km3qaq,2023-02-03T23:25:11.700Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-03T23:23:05.210Z,37.6663322,-122.5134964,5.22,2.29,md,45,102,0.04229,0.05,nc,nc73841556,2023-02-03T23:40:13.605Z,"5km WSW of Colma, CA",earthquake,0.21,0.32,0.21,43,automatic,nc,nc
 2023-02-03T23:20:10.704Z,61.1127,-152.4947,144.1,1.8,ml,,,,0.28,ak,ak0231km32um,2023-02-03T23:22:14.668Z,"73 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T19:09:03.460Z,44.7955,-110.8171667,5.05,1.53,ml,16,104,0.02479,0.18,uu,uu60530036,2023-02-03T20:08:26.090Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.55,1,0.419,3,reviewed,uu,uu
 2023-02-03T19:02:32.690Z,33.175,-116.1026667,12.08,0.96,ml,27,104,0.05801,0.12,ci,ci40165903,2023-02-03T21:29:09.905Z,"4km NE of Ocotillo Wells, CA",earthquake,0.18,0.4,0.24,13,reviewed,ci,ci
 2023-02-03T18:57:22.138Z,61.8153,-151.0201,54.5,1.6,ml,,,,0.43,ak,ak0231kjbv79,2023-02-03T18:59:12.542Z,"27 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-02-03T18:56:36.006Z,39.7363,-120.0475,8.7,0.2,ml,3,145.91,0.145,0.104,nn,nn00855677,2023-02-03T23:43:42.087Z,"8 km NW of Cold Springs, Nevada",earthquake,,14.9,0.21,2,reviewed,nn,nn
 2023-02-03T18:52:36.650Z,19.4275,-155.334,6.85,2,md,35,77,,0.11,hv,hv73318652,2023-02-03T21:03:49.780Z,"10 km W of Volcano, Hawaii",earthquake,0.3,0.46,0.192037466159126,12,reviewed,hv,hv
 2023-02-03T18:52:17.770Z,17.9686666666667,-66.8306666666667,12.4,2.3,md,7,205,0.04668,0.1,pr,pr71395308,2023-02-03T19:03:29.570Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.67,0.38,0.129139868382801,7,reviewed,pr,pr
 2023-02-03T18:35:12.990Z,46.1965,-122.18666666666667,1.23,0.61,ml,12,133,0.004386,0.08,uw,uw61905251,2023-02-03T18:56:42.120Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.34,0.41530815852021413,6,reviewed,uw,uw
@@ -123,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T11:41:26.440Z,17.9331666666667,-66.7461666666667,10.01,2.42,md,13,176,0.09655,0.09,pr,pr71395288,2023-02-03T13:00:30.260Z,"7 km SSW of Tallaboa, Puerto Rico",earthquake,0.32,0.61,0.212851189808694,7,reviewed,pr,pr
 2023-02-03T11:38:15.527Z,59.8858,-152.1175,63,1.6,ml,,,,0.82,ak,ak0231kf1quo,2023-02-03T11:40:59.426Z,"20 km NW of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-02-03T11:26:21.411Z,52.146,-169.2736,9.869,4,mb,41,190,0.866,0.57,us,us6000jl5p,2023-02-03T17:35:15.858Z,"92 km SSW of Nikolski, Alaska",earthquake,4,7.111,0.083,39,reviewed,us,us
+2023-02-03T11:16:11.330Z,58.1813333333333,-155.292333333333,1.76,0.05,ml,9,156,,0.11,av,av91754521,2023-02-03T23:42:35.850Z,"84 km NW of Karluk, Alaska",earthquake,0.3,0.7,0.271682529780147,9,reviewed,av,av
 2023-02-03T11:15:43.550Z,44.8013333,-110.817,5.62,0.52,md,8,254,0.02717,0.12,uu,uu60530011,2023-02-03T17:29:46.960Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.58,0.96,0.338,6,reviewed,uu,uu
 2023-02-03T11:15:10.630Z,44.8425,-110.731,5.74,0.13,md,7,277,0.1008,0.12,uu,uu60032624,2023-02-03T17:26:08.730Z,"Wyoming",earthquake,3.72,2.61,0.358,6,reviewed,uu,uu
 2023-02-03T11:14:29.320Z,44.8075,-110.814,5.38,0.44,md,8,257,0.03229,0.09,uu,uu60530006,2023-02-03T17:19:56.690Z,"Wyoming",earthquake,2.31,1.26,0.222,6,reviewed,uu,uu
@@ -257,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T23:56:34.763Z,31.64157783,-104.1672446,5.874487305,2.1,ml,22,59,0.07266962509,0.1,tx,tx2023cihm,2023-02-03T10:22:19.108Z,"50 km NW of Toyah, Texas",earthquake,0.5769756822,0.9483947763,0.1,19,reviewed,tx,tx
 2023-02-02T23:55:26.320Z,38.8103333,-122.8010025,2.94,0.59,md,6,118,0.005041,0.01,nc,nc73841191,2023-02-03T00:05:11.512Z,"5km NW of The Geysers, CA",earthquake,0.65,1.49,0.32,7,automatic,nc,nc
 2023-02-02T23:54:09.075Z,65.3233,-148.9763,11.1,1.5,ml,,,,0.89,ak,ak0231iyr0kr,2023-02-02T23:57:17.182Z,"26 km NE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-02T23:44:54.580Z,33.9721667,-116.8266667,17.19,2.5,ml,105,20,0.06475,0.14,ci,ci40165671,2023-02-03T18:18:23.270Z,"7km NE of Banning, CA",earthquake,0.1,0.24,0.162,26,reviewed,ci,ci
