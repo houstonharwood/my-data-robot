@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T13:20:51.560Z,38.8258324,-122.7961655,2.62,1.1,md,17,43,0.01113,0.02,nc,nc73842986,2023-02-07T13:58:16.326Z,"6km W of Cobb, CA",earthquake,0.26,0.51,0.23,18,automatic,nc,nc
 2023-02-07T13:18:04.580Z,33.4268333,-118.809,4.46,2.83,ml,16,233,0.3305,0.29,ci,ci40411800,2023-02-07T14:47:25.159Z,"24km ESE of Santa Barbara Is., CA",earthquake,1.91,10.2,0.157,25,automatic,ci,ci
 2023-02-07T13:17:56.300Z,38.8310013,-122.8180008,1.72,0.43,md,11,80,0.009799,0.01,nc,nc73842981,2023-02-07T15:12:10.800Z,"8km NW of The Geysers, CA",earthquake,0.3,0.73,0.24,12,automatic,nc,nc
-2023-02-07T13:16:48.770Z,38.8311653,-122.817337,1.82,1.13,md,22,51,0.009612,0.02,nc,nc73842976,2023-02-07T14:45:11.628Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.14,25,automatic,nc,nc
+2023-02-07T13:16:48.770Z,38.8311653,-122.817337,1.82,1.13,md,22,51,0.009612,0.02,nc,nc73842976,2023-02-07T15:25:13.883Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.14,25,automatic,nc,nc
 2023-02-07T13:08:53.522Z,60.1173,-150.1718,31.3,1.6,ml,,,,0.15,ak,ak0231r27nf8,2023-02-07T13:10:55.842Z,"40 km W of Seward, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-07T13:08:42.740Z,33.265,-116.4191667,4.53,0.96,ml,29,134,0.003607,0.21,ci,ci40411792,2023-02-07T13:12:22.314Z,"4km WNW of Borrego Springs, CA",earthquake,0.42,0.79,0.151,24,automatic,ci,ci
 2023-02-07T12:47:45.315Z,50.8953,-171.1593,11.4,3.8,ml,,,,0.62,ak,ak0231r1ujqw,2023-02-07T14:39:27.940Z,"south of the Aleutian Islands",earthquake,,3.4,,,reviewed,ak,ak
@@ -155,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T20:14:12.433Z,37.9636,36.4884,10,4.2,mb,38,77,0.976,1.33,us,us6000jm2k,2023-02-06T21:29:05.040Z,"6 km S of Göksun, Turkey",earthquake,4.73,1.913,0.115,21,reviewed,us,us
 2023-02-06T20:10:31.200Z,37.1815,-112.969,20.45,1.97,ml,10,145,0.2023,0.14,uu,uu60530201,2023-02-06T20:43:00.450Z,"2 km ESE of Springdale, Utah",earthquake,0.55,0.93,0.218,5,reviewed,uu,uu
 2023-02-06T20:10:26.640Z,33.2651667,-116.412,3.84,0.86,ml,19,138,0.005276,0.14,ci,ci40411616,2023-02-06T20:51:16.199Z,"4km WNW of Borrego Springs, CA",earthquake,0.34,0.68,0.157,18,reviewed,ci,ci
-2023-02-06T20:05:35.367Z,37.9592,36.3495,10,4.7,mb,72,38,0.975,1.38,us,us6000jm29,2023-02-06T20:41:33.040Z,"14 km WSW of Göksun, Turkey",earthquake,4.37,1.072,0.064,74,reviewed,us,us
+2023-02-06T20:05:34.741Z,37.9925,36.3278,10,4.7,mb,73,38,0.938,0.72,us,us6000jm29,2023-02-07T15:24:44.040Z,"15 km WSW of Göksun, Turkey",earthquake,3.02,1.849,0.062,80,reviewed,us,us
 2023-02-06T19:49:40.124Z,38.1141,36.6304,10,4.3,mb,34,67,0.96,0.63,us,us6000jm28,2023-02-07T15:00:32.040Z,"15 km NE of Göksun, Turkey",earthquake,5.2,1.967,0.168,10,reviewed,us,us
 2023-02-06T19:44:51.312Z,40.0738,-119.7226,15.5,0.2,ml,3,215.58,0.097,0.0478,nn,nn00855781,2023-02-07T01:22:39.537Z,"17 km NW of Sutcliffe, Nevada",earthquake,,3.9,0,1,reviewed,nn,nn
 2023-02-06T19:40:16.073Z,38.027,38.1796,5.803,4.6,mb,89,54,1.15,0.7,us,us6000jm2a,2023-02-07T14:59:56.040Z,"5 km W of Çelikhan, Turkey",earthquake,5.11,4.895,0.065,71,reviewed,us,us
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T15:33:32.803Z,38.161,38.1869,8.774,5.2,mb,94,66,1.255,0.94,us,us6000jlsu,2023-02-06T15:49:49.040Z,"15 km NNW of Çelikhan, Turkey",earthquake,3.93,4.267,0.061,88,reviewed,us,us
 2023-02-06T15:32:24.950Z,19.171,-155.383166666667,32.57,1.9,md,35,205,,0.11,hv,hv73320367,2023-02-06T15:46:55.500Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.53,0.71,0.17631729291624,12,reviewed,hv,hv
 2023-02-06T15:31:01.600Z,38.8250008,-122.8568344,2.38,0.77,md,13,97,0.01758,0.02,nc,nc73842676,2023-02-06T16:41:19.012Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.56,0.17,13,automatic,nc,nc
-2023-02-06T15:27:29.330Z,19.0286666666667,-67.151,9.49,3.15,md,23,245,0.5507,0.31,pr,pr71395518,2023-02-06T20:14:21.040Z,"59 km N of San Antonio, Puerto Rico",earthquake,0.87,1.7,0.0599860471753311,13,reviewed,pr,pr
