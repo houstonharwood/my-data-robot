@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-10T04:03:57.260Z,38.6021652,-122.8030014,8.89,1.37,md,9,140,0.1141,0.05,nc,nc73844366,2023-02-10T04:05:33.204Z,"6km E of Healdsburg, CA",earthquake,0.56,1.9,0.11,8,automatic,nc,nc
-2023-02-10T03:58:49.510Z,38.8074989,-122.8101654,3.36,0.85,md,18,54,0.01492,0.02,nc,nc73844356,2023-02-10T04:16:10.315Z,"6km NW of The Geysers, CA",earthquake,0.27,0.6,0.2,18,automatic,nc,nc
+2023-02-10T04:29:40.180Z,38.8223343,-122.8044968,2.68,1.09,md,27,35,0.004483,0.02,nc,nc73844371,2023-02-10T04:31:13.509Z,"6km NW of The Geysers, CA",earthquake,0.2,0.42,0.15,28,automatic,nc,nc
+2023-02-10T04:24:30.867Z,64.7171,-149.0748,19.1,1.1,ml,,,,0.21,ak,ak0231vvk68e,2023-02-10T04:26:32.568Z,"12 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-10T04:03:57.260Z,38.6021652,-122.8030014,8.89,1.37,md,9,140,0.1141,0.05,nc,nc73844366,2023-02-10T04:31:10.413Z,"6km E of Healdsburg, CA",earthquake,0.56,1.9,0.11,8,automatic,nc,nc
+2023-02-10T03:58:49.510Z,38.8074989,-122.8101654,3.36,0.85,md,18,54,0.01492,0.02,nc,nc73844356,2023-02-10T04:23:16.360Z,"6km NW of The Geysers, CA",earthquake,0.27,0.6,0.2,18,automatic,nc,nc
 2023-02-10T03:55:52.530Z,40.5183334,-122.2770004,29.77,2.56,md,10,97,0.09765,0.06,nc,nc73844351,2023-02-10T04:12:13.286Z,"6km SSW of Palo Cedro, CA",earthquake,0.47,0.83,0.13,13,automatic,nc,nc
 2023-02-10T03:52:38.165Z,62.6514,-149.7563,3,2.9,ml,,,,0.85,ak,ak0231vv4r8o,2023-02-10T04:05:16.040Z,"28 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-10T03:51:17.630Z,32.757,-100.6515,5,2.6,mb_lg,20,49,0.721,1.01,us,us6000jmzz,2023-02-10T03:56:53.040Z,"western Texas",earthquake,1.58,1.936,0.066,60,reviewed,us,us
@@ -247,10 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T04:46:38.196Z,38.9001,-119.635,13.2,0.2,ml,4,221.37,0.191,0.1738,nn,nn00855895,2023-02-09T18:30:57.789Z,"4 km N of Carter Springs, Nevada",earthquake,,14.2,0,1,reviewed,nn,nn
 2023-02-09T04:45:14.310Z,34.1738333,-117.2876667,9.27,1.29,ml,68,41,0.03412,0.16,ci,ci40412488,2023-02-09T20:52:28.052Z,"5km N of San Bernardino, CA",earthquake,0.14,0.32,0.12,38,reviewed,ci,ci
 2023-02-09T04:35:28.690Z,58.1785,-155.319833333333,2.48,0.91,ml,9,179,,0.08,av,av91756991,2023-02-10T03:20:37.020Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.36,0.427754151622956,9,reviewed,av,av
-2023-02-09T04:34:45.360Z,38.0922,38.4552,15.995,4.3,mb,28,115,1.35,0.62,us,us6000jmn4,2023-02-10T03:15:15.040Z,"15 km WNW of Sincik, Turkey",earthquake,4.56,6.082,0.266,4,reviewed,us,us
-2023-02-09T04:28:31.060Z,19.203,-155.484833333333,29.73,1.73,md,28,107,,0.11,hv,hv73321807,2023-02-09T21:11:32.750Z,"0 km W of Pāhala, Hawaii",earthquake,0.48,0.76,0.149108637664821,11,reviewed,hv,hv
-2023-02-09T04:27:34.040Z,58.3358333333333,-154.761,3.84,-0.22,ml,7,191,,0.06,av,av91088133,2023-02-10T03:17:46.990Z,"87 km NNW of Karluk, Alaska",earthquake,0.44,0.71,0.211795266409423,8,reviewed,av,av
-2023-02-09T04:23:42.314Z,-24.1301,-67.1856,238.114,4,mb,18,113,1.485,0.49,us,us6000jmn2,2023-02-10T03:08:54.040Z,"88 km W of San Antonio de los Cobres, Argentina",earthquake,12.33,9.73,0.259,4,reviewed,us,us
-2023-02-09T04:22:32.620Z,58.1778333333333,-155.316166666667,1.34,-0.08,ml,9,165,,0.06,av,av91756986,2023-02-10T03:12:38.990Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.62,0.375358399080496,10,reviewed,av,av
-2023-02-09T04:21:27.320Z,58.1776666666667,-155.315,0.96,0.59,ml,9,165,,0.05,av,av91088128,2023-02-10T02:50:05.980Z,"84 km NW of Karluk, Alaska",earthquake,0.21,0.84,0.25094380220254,9,reviewed,av,av
-2023-02-09T04:21:25.670Z,56.8875,-158.168666666667,5.02,-0.34,ml,4,121,,0.13,av,av91756981,2023-02-10T02:56:13.850Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.93,0.79,0.436516614616752,4,reviewed,av,av
