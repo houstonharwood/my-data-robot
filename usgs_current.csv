@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-13T05:26:19.550Z,34.8641667,-116.3028333,0.46,2.09,ml,15,73,0.04362,0.18,ci,ci40414048,2023-02-13T05:29:51.092Z,"21km NW of Ludlow, CA",earthquake,0.33,31.61,0.119,26,automatic,ci,ci
 2023-02-13T05:23:20.222Z,62.7888,-149.463,63.5,1.4,ml,,,,0.16,ak,ak02320ures6,2023-02-13T05:25:40.667Z,"50 km NE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-13T05:04:13.720Z,40.5778351,-122.2506638,13.21,2.12,md,7,175,0.08166,0.11,nc,nc73845586,2023-02-13T05:21:14.476Z,"2km NNW of Palo Cedro, CA",earthquake,1.66,1.03,0.11,8,automatic,nc,nc
+2023-02-13T05:04:13.720Z,40.5778351,-122.2506638,13.21,2.12,md,7,175,0.08166,0.11,nc,nc73845586,2023-02-13T05:51:18.590Z,"2km NNW of Palo Cedro, CA",earthquake,1.66,1.03,0.11,8,automatic,nc,nc
 2023-02-13T04:48:24.820Z,19.2011661529541,-155.3818359375,30.4599990844727,2.11999989,md,34,170,,0.119999997,hv,hv73323552,2023-02-13T04:51:28.060Z,"10 km E of Pāhala, Hawaii",earthquake,0.65,0.959999979,0.949999988,20,automatic,hv,hv
 2023-02-13T04:24:42.430Z,19.2754993438721,-155.406661987305,32.5400009155273,2.05999994,md,36,164,,0.109999999,hv,hv73323537,2023-02-13T04:28:04.840Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.649999976,0.670000017,21,automatic,hv,hv
 2023-02-13T04:20:12.880Z,38.7931671,-122.7645035,1.64,1.45,md,20,67,0.008335,0.03,nc,nc73845571,2023-02-13T04:42:16.273Z,"2km NNW of The Geysers, CA",earthquake,0.24,0.4,0.16,20,automatic,nc,nc
@@ -48,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T22:34:01.160Z,49.32516666666667,-120.48183333333333,-0.62,2.31,ml,7,195,0.5604,0.07,uw,uw61906241,2023-02-13T02:19:31.140Z,"14 km S of Princeton, Canada",explosion,0.55,31.61,0.1302622530637576,7,reviewed,uw,uw
 2023-02-12T22:32:22.740Z,38.8376656,-122.8021698,2.25,0.27,md,7,119,0.009265,0.01,nc,nc73845476,2023-02-12T23:36:15.387Z,"7km WNW of Cobb, CA",earthquake,0.56,1.73,0.17,7,automatic,nc,nc
 2023-02-12T22:29:08.320Z,33.1768333,-116.036,6.08,1.36,ml,35,38,0.04897,0.22,ci,ci40413968,2023-02-12T22:32:39.810Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.3,1.19,0.134,26,automatic,ci,ci
+2023-02-12T22:28:17.000Z,60.9738,-151.3686,65,1.5,ml,,,,0.57,ak,ak0231zhdh71,2023-02-13T05:51:50.402Z,"16 km SW of Tyonek, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-02-12T22:22:48.264Z,61.215,-147.6626,20.9,2.1,ml,,,,0.5,ak,ak0231zhca0f,2023-02-12T22:25:47.863Z,"65 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-12T21:47:07.310Z,38.7804985,-122.7225037,1.59,1.05,md,11,82,0.01145,0.02,nc,nc73845466,2023-02-12T23:00:14.189Z,"3km WNW of Anderson Springs, CA",earthquake,0.35,0.63,0.22,10,automatic,nc,nc
 2023-02-12T21:46:51.301Z,61.8399,-147.7084,31.5,2.2,ml,,,,0.75,ak,ak0231zgvzu2,2023-02-12T21:48:34.877Z,"4 km NW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T06:27:56.230Z,34.0411667,-116.7161667,11.82,0.94,ml,28,84,0.05671,0.17,ci,ci40413728,2023-02-12T06:31:25.753Z,"12km W of Morongo Valley, CA",earthquake,0.26,0.66,0.174,25,automatic,ci,ci
 2023-02-12T06:01:34.510Z,39.3848343,-112.0748367,3.59,2.85,ml,55,60,0.07521,0.39,uu,uu60530961,2023-02-12T19:07:34.324Z,"Utah",earthquake,0.49,0.89,0.24,34,reviewed,uu,uu
 2023-02-12T05:56:28.410Z,36.4611666666667,-89.56,9.52,2.1,md,32,33,0.05594,0.06,nm,nm60510256,2023-02-12T15:08:13.550Z,"7 km SE of Marston, Missouri",earthquake,0.22,0.4,0.0881969072851339,28,reviewed,nm,nm
-2023-02-12T05:52:15.950Z,19.2310009002686,-155.3818359375,31.6499996185303,2.17000008,md,36,149,,0.109999999,hv,hv73323162,2023-02-12T05:55:28.570Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,0.879999995,11,automatic,hv,hv
