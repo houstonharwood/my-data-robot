@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-14T23:26:46.820Z,19.2516670227051,-155.396499633789,29.7800006866455,1.72000003,md,22,177,,0.119999997,hv,hv73324662,2023-02-14T23:32:19.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.91,0.99000001,1.80999994,4,automatic,hv,hv
 2023-02-14T23:25:40.540Z,34.1473333,-117.4318333,10.97,1.15,ml,18,91,0.08241,0.25,ci,ci40414704,2023-02-14T23:29:11.939Z,"6km NNE of Fontana, CA",earthquake,0.49,0.9,0.255,28,automatic,ci,ci
-2023-02-14T23:21:37.620Z,38.840168,-122.8221664,2.1,1.16,md,22,84,0.01052,0.02,nc,nc73846491,2023-02-14T23:23:14.015Z,"9km WNW of Cobb, CA",earthquake,0.22,0.49,0.21,22,automatic,nc,nc
+2023-02-14T23:21:51.293Z,-16.5074,175.8088,10,4.9,mb,14,143,2.474,0.65,us,us6000jnzz,2023-02-14T23:40:52.040Z,"213 km NW of Lautoka, Fiji",earthquake,11.52,1.801,0.162,12,reviewed,us,us
+2023-02-14T23:21:37.620Z,38.840168,-122.8221664,2.1,1.16,md,22,84,0.01052,0.02,nc,nc73846491,2023-02-14T23:41:12.660Z,"9km WNW of Cobb, CA",earthquake,0.22,0.49,0.21,22,automatic,nc,nc
+2023-02-14T23:18:13.440Z,19.5496666666667,-65.8353333333333,35.59,3.38,md,8,283,1.253,0.16,pr,pr71396313,2023-02-14T23:42:25.710Z,"123 km NNE of San Juan, Puerto Rico",earthquake,2.07,14.45,0.124233106492368,3,reviewed,pr,pr
 2023-02-14T23:14:01.639Z,38.5556,37.4549,2.628,4.2,mb,49,65,0.872,0.89,us,us6000jnzr,2023-02-14T23:31:58.040Z,"central Turkey",earthquake,4.71,4.089,0.108,24,reviewed,us,us
 2023-02-14T23:13:52.200Z,64.0234,-148.7974,0,1.8,ml,,,,0.41,ak,ak02322syhh0,2023-02-14T23:15:43.989Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-14T23:05:24.164Z,-23.7928,-179.9689,528.28,4.7,mb,35,123,5.122,0.82,us,us6000jnzm,2023-02-14T23:24:57.040Z,"south of the Fiji Islands",earthquake,8.98,9.831,0.101,30,reviewed,us,us
@@ -28,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T20:43:53.796Z,63.8987,-148.6553,82.4,1.3,ml,,,,0.57,ak,ak02322rcmig,2023-02-14T20:46:28.820Z,"15 km ENE of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-02-14T20:43:40.220Z,33.3241667,-116.7571667,12.42,0.89,ml,23,67,0.08796,0.17,ci,ci40414688,2023-02-14T21:22:42.029Z,"9km N of Lake Henshaw, CA",earthquake,0.26,1,0.133,8,reviewed,ci,ci
 2023-02-14T20:38:00.090Z,38.7915001,-122.7763367,3.52,0.75,md,17,79,0.009204,0.02,nc,nc73846431,2023-02-14T21:19:12.792Z,"2km NW of The Geysers, CA",earthquake,0.37,0.7,0.09,17,automatic,nc,nc
+2023-02-14T20:11:16.300Z,46.19916666666666,-122.17283333333333,4.81,0.47000000000000003,ml,14,105,0.01888,0.18,uw,uw61906651,2023-02-14T23:46:46.030Z,"38 km NNE of Amboy, Washington",earthquake,0.48,0.76,0.13490712970130955,8,reviewed,uw,uw
 2023-02-14T20:06:52.620Z,35.502,-118.399,5.42,1.72,ml,28,47,0.1717,0.14,ci,ci40414680,2023-02-14T20:43:01.070Z,"13km SE of Bodfish, CA",earthquake,0.19,1.04,0.15,16,reviewed,ci,ci
 2023-02-14T20:00:33.250Z,32.7556667,-116.9021667,5.82,1.15,ml,14,96,0.03937,0.16,ci,ci40414672,2023-02-14T21:11:05.413Z,"3km ENE of Rancho San Diego, CA",quarry blast,0.77,1.41,0.116,9,reviewed,ci,ci
 2023-02-14T19:57:08.094Z,38.1801,-117.8389,10.6,1,ml,4,215.83,0.103,0.0804,nn,nn00856073,2023-02-14T20:55:16.410Z,"33 km SE of Mina, Nevada",earthquake,,3.2,0.31,2,reviewed,nn,nn
@@ -87,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T12:27:21.390Z,38.828167,-122.7901688,1.03,1.13,md,18,111,0.01023,0.2,nc,nc73846271,2023-02-14T14:44:13.514Z,"6km W of Cobb, CA",earthquake,0.73,1.05,0.11,18,automatic,nc,nc
 2023-02-14T12:25:17.240Z,41.4996667,-112.1781667,7,1.13,md,14,71,0.1057,0.07,uu,uu60531126,2023-02-14T14:59:09.430Z,"8 km SW of Corinne, Utah",earthquake,0.36,1.59,0.148,9,reviewed,uu,uu
 2023-02-14T12:20:09.777Z,38.1822,-117.8704,10.7,1.4,ml,6,135.48,0.082,0.1028,nn,nn00856056,2023-02-14T17:23:52.762Z,"31 km SE of Mina, Nevada",earthquake,,2,0.44,4,reviewed,nn,nn
+2023-02-14T12:16:11.710Z,19.3843333333333,-155.243666666667,1.85,2.36,ml,32,72,,0.1,hv,hv73324277,2023-02-14T23:41:03.100Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.14,0.184477951866816,10,reviewed,hv,hv
 2023-02-14T12:15:26.850Z,38.8213348,-122.7645035,2.09,1.1,md,19,119,0.01005,0.02,nc,nc73846266,2023-02-14T14:17:19.345Z,"4km W of Cobb, CA",earthquake,0.28,0.49,0.14,19,automatic,nc,nc
 2023-02-14T11:55:11.440Z,38.8520012,-122.9169998,14.03,1.22,md,8,172,0.07021,0.12,nc,nc73846261,2023-02-14T13:49:14.174Z,"10km ENE of Cloverdale, CA",earthquake,3.66,4.99,0.24,6,automatic,nc,nc
 2023-02-14T11:54:11.666Z,35.9037,36.1184,10,4.4,mb,66,114,2.463,0.62,us,us6000jnqt,2023-02-14T15:01:02.040Z,"5 km E of Yayladağı, Turkey",earthquake,4.65,1.782,0.095,32,reviewed,us,us
@@ -155,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T01:53:26.020Z,37.0808334,-121.4823303,13.77,1.18,md,6,188,0.03094,0.03,nc,nc73846026,2023-02-14T05:21:16.136Z,"11km NE of Gilroy, CA",earthquake,1.8,2.72,0.29,5,automatic,nc,nc
 2023-02-14T01:52:43.880Z,38.7961655,-122.7434998,1.33,1.09,md,14,97,0.01343,0.03,nc,nc73846021,2023-02-14T02:41:17.096Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.5,0.12,15,automatic,nc,nc
 2023-02-14T01:45:16.038Z,67.8008,-18.5972,10,4.6,mb,39,106,8.238,0.97,us,us6000jnpb,2023-02-14T02:05:08.040Z,"184 km N of Siglufjörður, Iceland",earthquake,11.2,1.917,0.094,34,reviewed,us,us
-2023-02-14T01:43:02.483Z,67.6134,-18.673,10,4.5,mb,26,81,3.073,0.8,us,us6000jnpa,2023-02-14T01:57:09.040Z,"163 km N of Siglufjörður, Iceland",earthquake,9.57,1.92,0.106,26,reviewed,us,us
+2023-02-14T01:43:02.279Z,67.6607,-18.9229,10,4.4,mb,43,82,3.037,0.46,us,us6000jnpa,2023-02-14T23:44:17.040Z,"168 km N of Siglufjörður, Iceland",earthquake,8.47,1.92,0.096,31,reviewed,us,us
 2023-02-14T01:42:45.530Z,37.1083336,-121.5163345,6.35,1.7,md,22,70,0.05592,0.06,nc,nc73846016,2023-02-14T04:54:18.963Z,"9km ENE of San Martin, CA",earthquake,0.26,0.59,0.21,17,automatic,nc,nc
 2023-02-14T01:34:01.470Z,37.1103325,-121.5134964,6.53,2,md,35,69,0.05422,0.07,nc,nc73846011,2023-02-14T04:26:13.782Z,"9km ENE of San Martin, CA",earthquake,0.19,0.53,0.17,29,automatic,nc,nc
 2023-02-14T01:32:46.252Z,64.6131,-147.0055,18.5,1.2,ml,,,,0.28,ak,ak02322fz0b5,2023-02-14T01:34:38.335Z,"6 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
