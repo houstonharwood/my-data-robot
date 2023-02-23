@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-23T04:36:50.890Z,37.1158333,-121.50383,5.17,1.2,md,8,64,0.04885,0.18,nc,nc73850511,2023-02-23T04:38:26.850Z,"10km ENE of San Martin, CA",earthquake,0.62,1.97,0.1,7,automatic,nc,nc
+2023-02-23T04:33:37.960Z,34.2185,-117.4151667,13.88,1.46,ml,35,48,0.02777,0.2,ci,ci40417944,2023-02-23T04:37:19.361Z,"1km WSW of Devore, CA",earthquake,0.32,0.57,0.134,29,automatic,ci,ci
 2023-02-23T04:32:23.800Z,38.8230019,-122.8503342,2.13,0.7,md,7,100,0.006831,0.01,nc,nc73850506,2023-02-23T04:33:56.907Z,"10km WNW of The Geysers, CA",earthquake,0.43,1.53,0.16,9,automatic,nc,nc
 2023-02-23T04:18:47.350Z,33.7303333,-116.8188333,19.63,1.23,ml,15,183,0.08931,0.19,ci,ci40417928,2023-02-23T04:22:26.634Z,"7km ESE of Valle Vista, CA",earthquake,1.11,2.13,0.215,24,automatic,ci,ci
 2023-02-23T03:46:27.130Z,38.4776649,-122.7568359,5.4,1.43,md,8,109,0.1102,0.05,nc,nc73850491,2023-02-23T04:13:15.642Z,"4km S of Larkfield-Wikiup, CA",earthquake,0.37,1.8,0.22,6,automatic,nc,nc
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T01:06:05.337Z,38.1804,72.7829,10,4.6,mb,20,163,1.506,0.64,us,us6000jqxl,2023-02-23T01:27:51.040Z,"103 km W of Murghob, Tajikistan",earthquake,7.16,1.772,0.207,7,reviewed,us,us
 2023-02-23T00:55:14.540Z,38.1474,72.9824,10,5,mb,84,80,1.618,0.84,us,us6000jqxg,2023-02-23T01:13:06.040Z,"86 km W of Murghob, Tajikistan",earthquake,4.66,1.768,0.071,63,reviewed,us,us
 2023-02-23T00:42:48.197Z,62.1258,-152.0721,109.4,1.1,ml,,,,0.56,ak,ak0232hb9uiv,2023-02-23T00:45:20.209Z,"38 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-23T00:37:40.397Z,38.0726,73.2077,20.522,6.8,mww,128,20,1.783,0.96,us,us6000jqxc,2023-02-23T04:24:49.857Z,"67 km W of Murghob, Tajikistan",earthquake,6.93,4.439,0.065,23,reviewed,us,us
+2023-02-23T00:37:40.397Z,38.0726,73.2077,20.522,6.8,mww,128,20,1.783,0.96,us,us6000jqxc,2023-02-23T04:42:06.250Z,"67 km W of Murghob, Tajikistan",earthquake,6.93,4.439,0.065,23,reviewed,us,us
 2023-02-23T00:28:36.560Z,19.2450008392334,-155.397003173828,30.7099990844727,2.33,ml,41,135,,0.129999995,hv,hv73329122,2023-02-23T00:34:08.020Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.899999976,4.77,4,automatic,hv,hv
 2023-02-23T00:25:12.580Z,39.1484985,-123.2630005,-0.5,2.38,md,17,103,0.06439,0.08,nc,nc73850446,2023-02-23T04:32:39.138Z,"5km W of Ukiah, CA",earthquake,0.27,1.69,0.14,17,automatic,nc,nc
 2023-02-23T00:13:05.620Z,34.1178333,-117.4558333,6.88,1.81,ml,58,53,0.02308,0.19,ci,ci40417896,2023-02-23T00:29:36.675Z,"2km N of Fontana, CA",earthquake,0.22,0.47,0.09,25,automatic,ci,ci
@@ -245,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T04:57:00.980Z,38.8325005,-122.8083344,2.21,1.14,md,19,46,0.009193,0.01,nc,nc73849891,2023-02-22T08:04:10.268Z,"8km W of Cobb, CA",earthquake,0.23,0.63,0.12,20,automatic,nc,nc
 2023-02-22T04:49:42.650Z,38.8328333,-122.8166667,2.23,0.36,md,10,85,0.01074,0.03,nc,nc73849881,2023-02-23T00:52:18.461Z,"8km NW of The Geysers, CA",earthquake,0.39,0.57,0.517,9,reviewed,nc,nc
 2023-02-22T04:47:17.840Z,38.8175011,-122.8065033,3.94,1.2,md,15,50,0.006513,0.03,nc,nc73849876,2023-02-22T07:38:11.107Z,"6km NW of The Geysers, CA",earthquake,0.36,0.78,0.23,15,automatic,nc,nc
-2023-02-22T04:39:59.090Z,38.7939987,-122.7263336,0.65,0.99,md,8,216,0.01347,0.05,nc,nc73849871,2023-02-22T05:49:13.458Z,"3km S of Cobb, CA",earthquake,0.67,0.9,0.23,7,automatic,nc,nc
-2023-02-22T04:36:10.520Z,51.8753333333333,-177.9835,3.57,1.48,ml,4,158,,0.12,av,av91769951,2023-02-22T19:22:00.870Z,"92 km W of Adak, Alaska",earthquake,0.52,0.82,0.134632693788433,5,reviewed,av,av
