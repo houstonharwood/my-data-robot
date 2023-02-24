@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-24T03:17:17.910Z,19.1966667175293,-155.411331176758,33.2000007629395,2.26999998,md,33,158,,0.119999997,hv,hv73329727,2023-02-24T03:20:28.320Z,"Island of Hawaii, Hawaii",earthquake,0.75,1.13999999,1.59000003,18,automatic,hv,hv
+2023-02-24T03:21:44.900Z,38.8356667,-122.8061676,2.36,0.5,md,7,111,0.01263,0.01,nc,nc73850951,2023-02-24T03:32:11.390Z,"7km WNW of Cobb, CA",earthquake,0.58,1.95,0.3,8,automatic,nc,nc
+2023-02-24T03:17:17.910Z,19.1966667175293,-155.411331176758,33.2000007629395,2.31,ml,33,158,,0.119999997,hv,hv73329727,2023-02-24T03:22:49.680Z,"7 km E of Pāhala, Hawaii",earthquake,0.75,1.13999999,0.07,3,automatic,hv,hv
 2023-02-24T03:09:05.160Z,33.3058333,-116.3073333,27.68,1.21,ml,11,264,0.3104,0.17,ci,ci40418192,2023-02-24T03:12:35.620Z,"8km NE of Borrego Springs, CA",earthquake,2.41,1.19,0.319,11,automatic,ci,ci
 2023-02-24T03:01:39.310Z,34.0286667,-117.0198333,16.77,2.14,ml,66,26,0.09511,0.18,ci,ci40418184,2023-02-24T03:12:04.180Z,"2km ESE of Yucaipa, CA",earthquake,0.18,0.46,0.188,24,automatic,ci,ci
 2023-02-24T02:57:31.198Z,62.9427,-150.8559,106.3,1.5,ml,,,,0.1,ak,ak0232j038lb,2023-02-24T02:58:59.877Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T01:19:38.716Z,43.0096,-111.2416,5,1.9,ml,20,129,0.265,0.33,us,us6000jr5w,2023-02-24T01:49:19.880Z,"16 km W of Freedom, Idaho",earthquake,2.06,1.901,0.062,34,reviewed,us,us
 2023-02-24T01:02:14.577Z,61.5869,-150.0858,31,1.5,ml,,,,0.46,ak,ak0232iz5zbl,2023-02-24T01:04:12.158Z,"10 km NW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-24T00:57:53.966Z,-32.0822,-71.8371,35,3.9,mb,34,173,0.733,0.33,us,us6000jr5n,2023-02-24T01:40:20.040Z,"70 km NW of La Ligua, Chile",earthquake,3.54,1.79,0.195,7,reviewed,us,us
-2023-02-24T00:50:44.560Z,36.8193321,-121.4293365,7.14,1.38,md,7,143,0.05703,0.17,nc,nc73850866,2023-02-24T01:10:13.379Z,"4km SW of Hollister, CA",earthquake,0.94,1.98,0.15,9,automatic,nc,nc
+2023-02-24T00:50:44.560Z,36.8193321,-121.4293365,7.14,1.38,md,7,143,0.05703,0.17,nc,nc73850866,2023-02-24T03:32:11.239Z,"4km SW of Hollister, CA",earthquake,0.94,1.98,0.15,9,automatic,nc,nc
 2023-02-24T00:37:15.887Z,-32.0831,-71.913,12.788,4.4,mwr,37,176,0.798,0.5,us,us6000jr5j,2023-02-24T01:21:21.871Z,"76 km WNW of La Ligua, Chile",earthquake,3.48,5.952,,,reviewed,us,guc
 2023-02-24T00:17:54.441Z,42.9833,-111.1582,11.862,3.3,ml,48,61,0.222,0.6,us,us6000jr5d,2023-02-24T03:20:16.070Z,"9 km W of Freedom, Idaho",earthquake,2.49,8.12,0.043,71,reviewed,us,us
 2023-02-24T00:14:01.850Z,64.9263,-147.2829,0,1.3,ml,,,,0.95,ak,ak0232iyn3bt,2023-02-24T00:16:26.290Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T03:41:14.172Z,58.3952,-153.9484,101.9,1.6,ml,,,,1.43,ak,ak0232hd1uxl,2023-02-23T03:44:16.239Z,"71 km WNW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-23T03:36:33.442Z,62.8661,-150.6498,61.7,1.4,ml,,,,1.32,ak,ak0232hd0tu8,2023-02-23T03:39:17.602Z,"41 km N of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-02-23T03:36:09.429Z,-18.287,-177.8261,524.983,4.9,mb,40,63,3.626,0.67,us,us6000jqyg,2023-02-23T03:50:54.040Z,"Fiji region",earthquake,13.43,10.963,0.108,27,reviewed,us,us
-2023-02-23T03:29:19.540Z,38.8098335,-122.784668,1.07,1.45,md,24,44,0.004624,0.03,nc,nc73850481,2023-02-23T06:07:17.395Z,"4km NW of The Geysers, CA",earthquake,0.17,0.29,0.14,24,automatic,nc,nc
