@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-24T09:31:55.730Z,38.8160019,-122.8259964,2.02,1.1,md,8,103,0.007545,0.01,nc,nc73851056,2023-02-24T09:33:31.932Z,"7km NW of The Geysers, CA",earthquake,0.66,1.51,0.25,11,automatic,nc,nc
+2023-02-24T09:29:09.040Z,38.8203316,-122.7766647,0.72,1.03,md,10,118,0.007729,0.03,nc,nc73851051,2023-02-24T09:30:45.795Z,"5km W of Cobb, CA",earthquake,0.37,0.76,0.3,13,automatic,nc,nc
 2023-02-24T09:22:22.491Z,61.0106,-151.5738,167.5,1.5,ml,,,,1.04,ak,ak0232j41ruv,2023-02-24T09:25:00.246Z,"24 km WSW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-24T09:10:04.850Z,39.2328339,-123.1786652,3.2,1.8,md,12,127,0.09888,0.11,nc,nc73851041,2023-02-24T09:20:11.408Z,"4km SSE of Redwood Valley, CA",earthquake,0.35,3.67,0.11,8,automatic,nc,nc
+2023-02-24T09:10:04.850Z,39.2328339,-123.1786652,3.2,1.8,md,12,127,0.09888,0.11,nc,nc73851041,2023-02-24T09:29:18.341Z,"4km SSE of Redwood Valley, CA",earthquake,0.35,3.67,0.11,8,automatic,nc,nc
 2023-02-24T08:47:50.260Z,19.2678337097168,-155.029006958008,45.6100006103516,1.94000006,md,40,226,,0.129999995,hv,hv73329857,2023-02-24T08:51:04.990Z,"Island of Hawaii, Hawaii",earthquake,1,0.730000019,1.70000005,10,automatic,hv,hv
 2023-02-24T08:47:27.825Z,58.1678,-155.2455,0,1.6,ml,,,,0.47,ak,ak0232j3lot1,2023-02-24T08:49:30.737Z,"81 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-24T08:42:14.586Z,51.7714,178.2263,114.824,4.2,mb,51,172,0.283,0.71,us,us6000jr84,2023-02-24T09:01:23.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,13.1,9.257,0.066,64,reviewed,us,us
@@ -51,8 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T02:37:09.660Z,19.3556666666667,-155.167,11.68,0.85,md,10,87,,0.11,hv,hv73329702,2023-02-24T02:49:15.950Z,"11 km SE of Volcano, Hawaii",earthquake,0.71,0.91,0.267216855278338,5,reviewed,hv,hv
 2023-02-24T02:35:44.209Z,-6.0918,149.7834,43.537,4.6,mb,21,112,11.468,0.82,us,us6000jr68,2023-02-24T02:55:27.040Z,"29 km ENE of Kandrian, Papua New Guinea",earthquake,10.57,7.553,0.136,17,reviewed,us,us
 2023-02-24T02:35:11.115Z,-21.4383,-66.7843,214.068,4.3,mb,27,123,2.314,0.73,us,us6000jr66,2023-02-24T03:06:24.040Z,"80 km SW of Atocha, Bolivia",earthquake,6.19,9.369,0.178,9,reviewed,us,us
-2023-02-24T02:29:33.436Z,57.8056,-154.4104,89.9,1.6,ml,,,,0.87,ak,ak0232izx8pr,2023-02-24T02:30:45.393Z,"26 km N of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-02-24T02:28:53.511Z,55.3108,-151.6134,10,3.2,ml,17,270,2.536,0.42,us,us6000jr67,2023-02-24T02:41:39.040Z,"235 km SSE of Old Harbor, Alaska",earthquake,5.44,2.024,0.094,15,reviewed,us,us
+2023-02-24T02:28:53.511Z,55.3108,-151.6134,10,3.2,ml,17,270,2.536,0.42,us,us6000jr67,2023-02-24T09:30:59.017Z,"235 km SSE of Old Harbor, Alaska",earthquake,5.44,2.024,0.094,15,reviewed,us,us
 2023-02-24T02:28:36.066Z,61.8904,-150.8733,67.2,2.1,ml,,,,0.28,ak,ak0232izx17a,2023-02-24T02:30:19.680Z,"29 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-24T02:24:38.170Z,37.5673332,-118.9236679,8.48,1.27,md,11,224,0.07061,0.02,nc,nc73850921,2023-02-24T07:11:18.509Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.77,1.96,0.17,11,automatic,nc,nc
 2023-02-24T02:10:43.110Z,38.8161659,-122.802002,1.47,1.3,md,24,39,0.009585,0.02,nc,nc73850911,2023-02-24T06:17:20.171Z,"6km NW of The Geysers, CA",earthquake,0.18,0.34,0.12,23,automatic,nc,nc
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T10:15:30.480Z,32.9108333,-116.2456667,7.57,0.98,ml,24,96,0.06527,0.15,ci,ci40417992,2023-02-23T18:09:20.896Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.23,0.59,0.06,6,reviewed,ci,ci
 2023-02-23T09:55:54.780Z,19.2266674041748,-155.418670654297,32.1399993896484,2.06999993,md,27,149,,0.109999999,hv,hv73329257,2023-02-23T09:59:11.320Z,"6 km ENE of Pāhala, Hawaii",earthquake,1.06,0.910000026,0.639999986,8,automatic,hv,hv
 2023-02-23T09:34:50.260Z,19.1591663360596,-155.486328125,31.0499992370605,2.3499999,md,34,125,,0.129999995,hv,hv73329252,2023-02-23T09:38:10.800Z,"Hawaii region, Hawaii",earthquake,0.64,0.939999998,1.52999997,19,automatic,hv,hv
-2023-02-23T09:31:16.930Z,38.833168,-122.8000031,1.5,0.5,md,8,75,0.01253,0.01,nc,nc73850591,2023-02-23T09:47:19.735Z,"7km W of Cobb, CA",earthquake,0.33,1.4,0.29,10,automatic,nc,nc
