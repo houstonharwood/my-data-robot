@@ -1,15 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-24T23:00:36.764Z,58.2436,-155.1786,0,0.4,ml,,,,0.24,ak,ak0232jc94ws,2023-02-24T23:04:03.252Z,"86 km NNW of Karluk, Alaska",earthquake,,60.6,,,automatic,ak,ak
 2023-02-24T22:53:21.942Z,37.1604,-117.6052,0,-0.1,ml,8,342.39,0.844,0.4299,nn,nn00856374,2023-02-24T22:54:55.819Z,"60 km E of Big Pine, California",earthquake,,104.2,0.99,3,automatic,nn,nn
 2023-02-24T22:47:45.230Z,19.1821670532227,-155.495330810547,27.4099998474121,1.80999994,md,16,232,,0.109999999,hv,hv73330287,2023-02-24T22:50:52.930Z,"2 km SW of Pāhala, Hawaii",earthquake,0.93,1.20000005,0.0299999993,5,automatic,hv,hv
-2023-02-24T22:46:54.300Z,38.7799988,-122.7553329,0.86,1.28,md,16,114,0.01233,0.04,nc,nc73851321,2023-02-24T22:48:30.228Z,"0km NNE of The Geysers, CA",earthquake,0.27,0.5,0.1,16,automatic,nc,nc
+2023-02-24T22:46:54.300Z,38.7799988,-122.7553329,0.86,1.28,md,16,114,0.01233,0.04,nc,nc73851321,2023-02-24T22:59:12.308Z,"0km NNE of The Geysers, CA",earthquake,0.27,0.5,0.1,16,automatic,nc,nc
 2023-02-24T22:39:45.726Z,59.0072,-151.1472,27.9,2.2,ml,,,,0.33,ak,ak0232jbw2x8,2023-02-24T22:42:17.883Z,"54 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T22:31:50.730Z,33.5321667,-116.7285,4.33,0.67,ml,24,59,0.03395,0.16,ci,ci40418432,2023-02-24T22:35:22.901Z,"6km WSW of Anza, CA",earthquake,0.25,0.51,0.077,15,automatic,ci,ci
 2023-02-24T22:29:08.910Z,38.8269997,-122.8304977,6.95,0.72,md,8,119,0.005251,0.1,nc,nc73851316,2023-02-24T22:42:11.198Z,"8km NW of The Geysers, CA",earthquake,2.57,8.34,0.22,9,automatic,nc,nc
 2023-02-24T22:25:45.562Z,63.1373,-151.9471,3.3,1.8,ml,,,,0.43,ak,ak0232jbt2vw,2023-02-24T22:27:38.511Z,"46 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-24T22:09:43.204Z,56.6035,-158.3278,57.8,1.9,ml,,,,0.84,ak,ak0232jbpn8w,2023-02-24T22:12:03.544Z,"34 km N of Chignik, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-02-24T22:06:26.799Z,59.0815,-151.229,32.4,2.3,ml,,,,0.25,ak,ak0232jboytz,2023-02-24T22:08:58.278Z,"45 km SE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-02-24T22:00:44.288Z,59.0285,-151.1871,38,4.6,ml,,,,0.41,ak,ak0232jbnptv,2023-02-24T22:55:08.022Z,"51 km SE of Port Graham, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2023-02-24T22:00:39.910Z,38.7853317,-122.753334,1.12,0.78,md,9,116,0.01315,0.04,nc,nc73851301,2023-02-24T22:13:11.010Z,"1km NNE of The Geysers, CA",earthquake,0.37,0.5,0.33,10,automatic,nc,nc
+2023-02-24T22:00:44.288Z,59.0285,-151.1871,38,4.6,ml,,,,0.41,ak,ak0232jbnptv,2023-02-24T23:06:03.795Z,"51 km SE of Port Graham, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-02-24T22:00:39.910Z,38.7853317,-122.753334,1.12,0.78,md,9,116,0.01315,0.04,nc,nc73851301,2023-02-24T22:59:21.310Z,"1km NNE of The Geysers, CA",earthquake,0.37,0.5,0.33,10,automatic,nc,nc
 2023-02-24T21:53:54.553Z,57.7593,-153.542,7.089,2.8,ml,11,227,0.514,0.25,us,us6000jrf9,2023-02-24T22:04:40.040Z,"35 km NE of Larsen Bay, Alaska",earthquake,5.9,11.218,0.057,40,reviewed,us,us
 2023-02-24T21:53:16.764Z,55.2105,-155.7824,0,3.8,ml,,,,0.61,ak,ak0232jbdl34,2023-02-24T22:15:40.756Z,"south of Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-02-24T21:48:59.785Z,59.6971,-152.6674,82.3,2,ml,,,,0.45,ak,ak0232jbclui,2023-02-24T21:51:28.508Z,"47 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -29,9 +30,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T20:40:41.900Z,19.4148330688477,-155.279327392578,7.94000005722046,1.71,ml,17,72,,0.159999996,hv,hv73330202,2023-02-24T20:46:12.480Z,"5 km WSW of Volcano, Hawaii",earthquake,0.83,0.49000001,0.24,6,automatic,hv,hv
 2023-02-24T20:38:34.880Z,38.8235016,-122.8000031,-0.53,1.08,md,12,57,0.007867,0.02,nc,nc73851271,2023-02-24T21:15:10.738Z,"6km NW of The Geysers, CA",earthquake,0.2,0.8,0.31,13,automatic,nc,nc
 2023-02-24T20:36:55.560Z,38.788166,-122.7468338,1.38,1.31,md,17,140,0.016,0.03,nc,nc73851261,2023-02-24T21:38:11.779Z,"2km NE of The Geysers, CA",earthquake,0.31,0.49,0.16,19,automatic,nc,nc
+2023-02-24T20:32:37.962Z,38.2972,73.1294,13.095,4.3,mb,34,78,2.513,1.01,us,us6000jrek,2023-02-24T23:10:46.040Z,"74 km W of Murghob, Tajikistan",earthquake,6.86,1.945,0.137,19,reviewed,us,us
 2023-02-24T20:25:28.510Z,38.0827,38.6687,0,4.5,mwr,115,55,1.042,0.81,us,us6000jrej,2023-02-24T21:09:56.040Z,"7 km NE of Sincik, Turkey",earthquake,3.52,3.926,0.053,34,reviewed,us,us
 2023-02-24T20:21:38.352Z,58.2362,-155.1851,1.2,0.2,ml,,,,0.08,ak,ak0232jalc97,2023-02-24T20:23:15.373Z,"86 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-02-24T20:17:04.780Z,38.8291664,-122.8150024,1.92,1.08,md,23,45,0.00693,0.02,nc,nc73851246,2023-02-24T21:04:13.554Z,"8km NW of The Geysers, CA",earthquake,0.19,0.44,0.11,25,automatic,nc,nc
+2023-02-24T20:10:43.746Z,35.282,35.2391,10,4.2,mb,50,145,1.597,0.47,us,us6000jref,2023-02-24T22:59:46.040Z,"57 km WSW of Latakia, Syria",earthquake,6.45,1.957,0.14,15,reviewed,us,us
 2023-02-24T19:59:46.050Z,33.507,-116.747,2.45,0.36,ml,16,182,0.04489,0.21,ci,ci40418400,2023-02-24T20:12:37.587Z,"9km SW of Anza, CA",earthquake,0.52,0.47,0.026,6,reviewed,ci,ci
 2023-02-24T19:46:12.941Z,57.2887,-154.1804,33,3.1,ml,,,,0.28,ak,ak0232ja57la,2023-02-24T22:24:05.040Z,"30 km SSW of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T19:41:15.890Z,19.388500213623,-155.286499023438,6.13000011444092,1.84000003,md,22,89,,0.280000001,hv,hv73330167,2023-02-24T19:44:35.460Z,"Island of Hawaii, Hawaii",earthquake,0.6,0.569999993,1.14999998,7,automatic,hv,hv
@@ -185,14 +188,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T02:28:36.066Z,61.8904,-150.8733,67.2,2.1,ml,,,,0.28,ak,ak0232izx17a,2023-02-24T02:30:19.680Z,"29 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-24T02:24:38.170Z,37.5673332,-118.9236679,8.48,1.27,md,11,224,0.07061,0.02,nc,nc73850921,2023-02-24T07:11:18.509Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.77,1.96,0.17,11,automatic,nc,nc
 2023-02-24T02:10:43.110Z,38.8161659,-122.802002,1.47,1.3,md,24,39,0.009585,0.02,nc,nc73850911,2023-02-24T06:17:20.171Z,"6km NW of The Geysers, CA",earthquake,0.18,0.34,0.12,23,automatic,nc,nc
+2023-02-24T02:07:22.820Z,58.1788333333333,-155.31,2.4,0,ml,10,162,,0.09,av,av91771666,2023-02-24T23:10:14.340Z,"84 km NW of Karluk, Alaska",earthquake,0.29,0.43,0.304519800560863,10,reviewed,av,av
 2023-02-24T02:04:41.880Z,38.8100014,-122.8168335,2.73,1.28,md,28,56,0.009711,0.03,nc,nc73850906,2023-02-24T05:50:14.999Z,"6km NW of The Geysers, CA",earthquake,0.2,0.41,0.25,28,automatic,nc,nc
 2023-02-24T01:54:28.860Z,38.8100014,-122.8171692,2.87,1.13,md,17,58,0.00945,0.02,nc,nc73850901,2023-02-24T05:23:18.856Z,"6km NW of The Geysers, CA",earthquake,0.28,0.69,0.18,17,automatic,nc,nc
 2023-02-24T01:45:17.946Z,64.0072,-148.7811,0,1.8,ml,,,,0.58,ak,ak0232izf7de,2023-02-24T01:47:01.745Z,"16 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-24T01:41:44.830Z,38.8253326,-122.8656693,1.52,0.71,md,9,148,0.007217,0.01,nc,nc73850896,2023-02-24T01:54:10.639Z,"11km WNW of The Geysers, CA",earthquake,0.43,0.77,0.44,11,automatic,nc,nc
 2023-02-24T01:30:40.960Z,18.5895,-68.587,156,3.93,md,10,211,0.2191,0.01,pr,pr2023055000,2023-02-24T02:28:21.083Z,"10 km SE of Otra Banda, Dominican Republic",earthquake,2.7,1.21,0.04,4,reviewed,pr,pr
+2023-02-24T01:26:31.240Z,51.8625,-177.976833333333,4.75,1.72,ml,7,110,,0.26,av,av91771636,2023-02-24T23:04:51.670Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.67,0.9,0.194814200391827,7,reviewed,av,av
 2023-02-24T01:20:41.642Z,19.688,-75.1623,10,3.3,ml,12,136,0.243,1.12,us,us6000jr6w,2023-02-24T14:37:27.593Z,"50 km S of Guantánamo, Cuba",earthquake,4.62,2.003,0.097,14,reviewed,us,us
 2023-02-24T01:19:38.716Z,43.0096,-111.2416,5,1.9,ml,20,129,0.265,0.33,us,us6000jr5w,2023-02-24T01:49:19.880Z,"16 km W of Freedom, Idaho",earthquake,2.06,1.901,0.062,34,reviewed,us,us
-2023-02-24T01:06:32.422Z,33.7854,72.7967,10,4.1,mb,21,175,0.416,1.23,us,us6000jr5s,2023-02-24T17:03:16.740Z,"Pakistan",earthquake,6.54,1.989,0.175,9,reviewed,us,us
+2023-02-24T01:16:14.400Z,58.1871666666667,-155.308833333333,2.69,0.57,ml,10,153,,0.09,av,av91771626,2023-02-24T23:00:53.410Z,"Alaska Peninsula",earthquake,0.26,0.33,0.293153589171952,10,reviewed,av,av
+2023-02-24T01:06:32.422Z,33.7854,72.7967,10,4.1,mb,21,175,0.416,1.23,us,us6000jr5s,2023-02-24T23:07:40.130Z,"Pakistan",earthquake,6.54,1.989,0.175,9,reviewed,us,us
 2023-02-24T01:02:14.577Z,61.5869,-150.0858,31,1.5,ml,,,,0.46,ak,ak0232iz5zbl,2023-02-24T01:04:12.158Z,"10 km NW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-24T01:00:26.680Z,38.4908333,-112.8315,0,0.23,md,8,223,0.01847,0.11,uu,uu60532081,2023-02-24T19:41:00.910Z,"18 km ENE of Milford, Utah",earthquake,1.03,1.84,0.501,3,reviewed,uu,uu
 2023-02-24T00:58:37.750Z,33.4723333,-116.5603333,9.17,0.54,ml,19,112,0.0415,0.12,ci,ci40418152,2023-02-24T16:31:56.504Z,"14km SE of Anza, CA",earthquake,0.25,0.42,0.185,10,reviewed,ci,ci
@@ -217,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T23:24:50.330Z,38.4813333,-112.8361667,-0.09,0.16,md,8,210,0.02998,0.17,uu,uu60532026,2023-02-23T23:41:25.860Z,"Utah",earthquake,0.96,2.18,0.447,3,reviewed,uu,uu
 2023-02-23T23:20:20.480Z,38.4798333,-112.8423333,0.47,-0.43,md,8,197,0.01431,0.21,uu,uu60532021,2023-02-24T16:26:20.660Z,"17 km ENE of Milford, Utah",earthquake,1.25,4.15,0.426,3,reviewed,uu,uu
 2023-02-23T23:17:44.640Z,38.483,-112.8438333,-0.4,1.68,ml,16,106,0.0113,0.1,uu,uu60532016,2023-02-23T23:58:04.700Z,"17 km ENE of Milford, Utah",earthquake,0.21,0.12,0.424,3,reviewed,uu,uu
-2023-02-23T23:04:40.770Z,38.4928333,-112.838,0.04,1.86,ml,17,96,0.01363,0.13,uu,uu60532006,2023-02-23T23:49:31.290Z,"18 km NE of Milford, Utah",earthquake,0.24,0.49,0.562,3,reviewed,uu,uu
-2023-02-23T23:02:40.420Z,38.4826667,-112.8416667,-0.38,-0.07,md,9,108,0.02701,0.06,uu,uu60532001,2023-02-24T16:06:45.680Z,"17 km ENE of Milford, Utah",earthquake,0.42,0.18,0.463,3,reviewed,uu,uu
-2023-02-23T23:01:08.242Z,64.8447,-148.4895,0.9,1.4,ml,,,,0.91,ak,ak0232hopxx2,2023-02-23T23:36:15.204Z,"22 km W of Ester, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-02-23T22:58:37.545Z,56.7095,-155.2286,250,2.2,ml,,,,0.97,ak,ak0232hogsei,2023-02-23T23:20:32.714Z,"69 km WSW of Akhiok, Alaska",earthquake,,2.7,,,automatic,ak,ak
