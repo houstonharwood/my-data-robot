@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-27T08:14:05.850Z,32.4105,-116.8546667,17.84,1.2,ml,13,223,0.1886,0.13,ci,ci40419136,2023-02-27T08:17:29.258Z,"19km ENE of Rosarito, B.C., MX",earthquake,0.61,0.68,0.12,7,automatic,ci,ci
+2023-02-27T08:01:38.680Z,33.3833333,-116.4026667,10.11,1.52,ml,53,53,0.1155,0.19,ci,ci40419128,2023-02-27T08:13:06.510Z,"14km N of Borrego Springs, CA",earthquake,0.22,0.5,0.134,26,automatic,ci,ci
 2023-02-27T07:43:40.180Z,35.6305,-117.4446667,10.71,1.32,ml,9,181,0.1239,0.17,ci,ci40419120,2023-02-27T07:47:13.592Z,"16km SSW of Searles Valley, CA",earthquake,0.7,1.22,0.09,13,automatic,ci,ci
-2023-02-27T07:36:09.490Z,38.8356667,-122.8174973,1.55,0.71,md,10,78,0.01356,0.01,nc,nc73852311,2023-02-27T07:50:10.970Z,"8km W of Cobb, CA",earthquake,0.33,1.25,0.21,11,automatic,nc,nc
+2023-02-27T07:36:09.490Z,38.8356667,-122.8174973,1.55,0.71,md,10,78,0.01356,0.01,nc,nc73852311,2023-02-27T08:10:12.047Z,"8km W of Cobb, CA",earthquake,0.33,1.25,0.21,11,automatic,nc,nc
 2023-02-27T07:29:08.460Z,38.8349991,-122.8156662,1.88,0.54,md,7,81,0.01238,0.01,nc,nc73852306,2023-02-27T07:57:14.114Z,"8km W of Cobb, CA",earthquake,0.42,2.28,0.48,9,automatic,nc,nc
 2023-02-27T07:28:06.273Z,67.4364,-147.3246,0,2.5,ml,,,,1,ak,ak0232o1i6er,2023-02-27T07:33:49.397Z,"61 km NW of Venetie, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-27T07:28:01.420Z,35.8688333,-117.6943333,10.09,1.28,ml,12,150,0.08309,0.16,ci,ci40419112,2023-02-27T07:31:50.772Z,"21km ESE of Little Lake, CA",earthquake,0.79,0.87,0.085,12,automatic,ci,ci
@@ -138,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T14:09:55.930Z,61.4621,-146.5736,20,3.1,ml,,,,0.7,ak,ak0232mi0wd9,2023-02-26T17:01:16.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-26T14:08:31.330Z,58.1656666666667,-155.3235,1.31,-0.14,ml,4,247,,0.06,av,av91774846,2023-02-27T05:19:00.280Z,"Alaska Peninsula",earthquake,0.65,1.31,0.146480021051439,4,reviewed,av,av
 2023-02-26T14:06:46.826Z,35.36526489,-97.91821289,1.927159905,2.3,ml,51,28.6521759,0.02508500591,0.7750303809,ok,ok2023dzkc,2023-02-26T17:26:47.846Z,"3 km SE of Union City, Oklahoma",earthquake,1.638732064,1.39077347,,39,automatic,ok,ok
-2023-02-26T13:53:18.822Z,51.6088,-178.3295,45.225,5,mb,44,175,0.364,0.85,us,us6000jrqy,2023-02-27T02:03:38.945Z,"120 km WSW of Adak, Alaska",earthquake,7.01,6.527,0.03,343,reviewed,us,us
+2023-02-26T13:53:18.822Z,51.6088,-178.3295,45.225,5,mb,44,175,0.364,0.85,us,us6000jrqy,2023-02-27T08:03:50.354Z,"120 km WSW of Adak, Alaska",earthquake,7.01,6.527,0.03,343,reviewed,us,us
 2023-02-26T13:49:15.033Z,54.4847,155.7843,436.216,4.1,mb,29,88,1.787,0.61,us,us6000jrr7,2023-02-26T17:08:39.040Z,"184 km W of Mil’kovo, Russia",earthquake,14.09,10.369,0.114,21,reviewed,us,us
 2023-02-26T13:48:44.350Z,58.185,-155.281666666667,-2.17,-0.38,ml,5,149,,0.11,av,av91774811,2023-02-27T05:15:13.310Z,"84 km NW of Karluk, Alaska",earthquake,0.41,2.14,0.294771147184882,5,reviewed,av,av
 2023-02-26T13:45:34.390Z,38.8165016,-122.7965012,2.56,0.78,md,17,48,0.008572,0.01,nc,nc73851971,2023-02-26T15:37:15.121Z,"6km NW of The Geysers, CA",earthquake,0.25,0.54,0.17,20,automatic,nc,nc
@@ -192,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T08:57:38.618Z,59.4772,-151.4414,29.2,1.7,ml,,,,0.32,ak,ak0232meqjs5,2023-02-26T08:59:35.622Z,"11 km E of Seldovia Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-26T08:49:42.720Z,38.8199997,-122.8095016,3.38,0.63,md,11,87,0.00342,0.02,nc,nc73851911,2023-02-26T10:56:13.385Z,"7km NW of The Geysers, CA",earthquake,0.46,1.57,0.43,13,automatic,nc,nc
 2023-02-26T08:44:53.552Z,59.8641,-152.8724,98.2,1.6,ml,,,,0.54,ak,ak0232mensmj,2023-02-26T08:57:19.960Z,"59 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-26T08:20:50.751Z,61.5859,-146.5414,28,1.3,ml,,,,0.62,ak,ak0232mein2r,2023-02-26T10:08:15.719Z,"46 km SSE of Nelchina, Alaska",earthquake,,2.6,,,reviewed,ak,ak
-2023-02-26T08:13:09.210Z,40.3901672,-124.8635025,6.86,2.85,md,19,260,0.4105,0.4,nc,nc73851906,2023-02-26T18:11:48.825Z,"50km W of Petrolia, CA",earthquake,6.14,9.17,0.14,5,automatic,nc,nc
