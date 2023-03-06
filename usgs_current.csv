@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T17:46:24.830Z,36.6358337,-121.2403336,4.6,1.71,md,15,134,0.06478,0.06,nc,nc73856166,2023-03-06T17:48:02.371Z,"14km NW of Pinnacles, CA",earthquake,0.4,1.07,0.23,17,automatic,nc,nc
 2023-03-06T17:29:52.470Z,35.8045,-117.6273333,6.14,1.29,ml,15,77,0.02671,0.15,ci,ci40421512,2023-03-06T17:33:21.376Z,"21km WNW of Searles Valley, CA",earthquake,0.29,0.56,0.182,12,automatic,ci,ci
 2023-03-06T17:07:09.940Z,38.8178329,-122.7624969,1.74,1.16,md,9,116,0.01389,0.01,nc,nc73856161,2023-03-06T17:33:14.248Z,"3km W of Cobb, CA",earthquake,0.38,0.98,0.33,10,automatic,nc,nc
 2023-03-06T17:07:09.016Z,36.7582,-116.2354,4,0,ml,10,97.36,0.033,0.1208,nn,nn00856600,2023-03-06T17:07:57.921Z,"49 km ESE of Beatty, Nevada",earthquake,,0.8,0.94,5,automatic,nn,nn
@@ -79,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T07:26:38.540Z,17.8991666666667,-66.8795,14.93,2.64,md,9,234,0.07547,0.09,pr,pr71398523,2023-03-06T07:40:41.060Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.63,0.52,0.0832933670647402,4,reviewed,pr,pr
 2023-03-06T07:22:39.190Z,38.8193321,-122.80867,3.09,0.99,md,19,45,0.004203,0.02,nc,nc73856001,2023-03-06T09:25:11.385Z,"6km NW of The Geysers, CA",earthquake,0.23,0.6,0.24,19,automatic,nc,nc
 2023-03-06T07:09:32.408Z,57.0234,-155.8636,34.4,2.1,ml,,,,1.47,ak,ak0232zm5la0,2023-03-06T07:12:20.520Z,"103 km W of Akhiok, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"Kodiak Island region, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"41 km NNE of Ouzinkie, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2023-03-06T06:39:11.310Z,38.8288345,-122.800499,1.81,1.73,md,32,34,0.009243,0.02,nc,nc73855981,2023-03-06T08:32:12.047Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.17,32,automatic,nc,nc
 2023-03-06T06:38:56.000Z,38.8278351,-122.8014984,2.05,0.73,md,7,92,0.008033,0.01,nc,nc73855976,2023-03-06T08:06:13.888Z,"7km W of Cobb, CA",earthquake,0.48,1.14,0.25,8,automatic,nc,nc
 2023-03-06T06:11:39.950Z,33.4675,-116.5531667,8.61,0.64,ml,20,111,0.04915,0.17,ci,ci40421416,2023-03-06T06:15:13.941Z,"15km SE of Anza, CA",earthquake,0.35,0.62,0.199,15,automatic,ci,ci
@@ -186,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T18:14:31.620Z,37.0763321,-121.4998322,7.64,0.96,md,6,104,0.04547,0.07,nc,nc73855756,2023-03-05T18:38:14.906Z,"10km E of San Martin, CA",earthquake,1.15,2.78,0.1,5,automatic,nc,nc
 2023-03-05T18:08:43.580Z,33.7678333,-116.9373333,13.05,1.12,ml,30,41,0.08006,0.23,ci,ci40421288,2023-03-05T18:12:17.353Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.69,0.157,28,automatic,ci,ci
 2023-03-05T18:03:45.575Z,31.65263251,-104.2951387,7.905419922,2.6,ml,18,58,0.03202629882,0.2,tx,tx2023emml,2023-03-06T17:24:14.040Z,"58 km S of Whites City, New Mexico",earthquake,1.0927831139999997,0.9929832008000001,0.2,24,reviewed,tx,tx
-2023-03-05T17:47:53.410Z,34.042,-116.7208333,11.28,0.94,ml,26,69,0.06062,0.27,ci,ci40421272,2023-03-05T17:51:43.637Z,"13km W of Morongo Valley, CA",earthquake,0.46,1.22,0.224,24,automatic,ci,ci
-2023-03-05T17:46:32.820Z,33.7671667,-116.942,13.61,1.08,ml,26,55,0.077,0.22,ci,ci40421264,2023-03-05T17:50:05.107Z,"2km SE of San Jacinto, CA",earthquake,0.35,0.69,0.169,30,automatic,ci,ci
-2023-03-05T17:45:18.770Z,38.7963333,-122.7621689,1.37,1.05,md,14,115,0.004696,0.02,nc,nc73855741,2023-03-05T18:06:16.728Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.48,0.17,14,automatic,nc,nc
