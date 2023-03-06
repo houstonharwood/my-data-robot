@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T12:56:05.350Z,38.8276672,-122.8143311,1.68,0.21,md,8,113,0.005409,0.01,nc,nc73856106,2023-03-06T12:57:39.478Z,"8km NW of The Geysers, CA",earthquake,0.58,0.93,0.13,8,automatic,nc,nc
+2023-03-06T12:46:15.720Z,34.0231667,-116.7396667,15.9,1.36,ml,39,49,0.05782,0.21,ci,ci40421488,2023-03-06T12:56:46.030Z,"12km NNE of Cabazon, CA",earthquake,0.27,0.64,0.163,26,automatic,ci,ci
+2023-03-06T12:30:57.820Z,55.1856,-159.388,35,3.2,ml,31,206,2.344,0.53,us,us7000jhm9,2023-03-06T12:44:46.040Z,"72 km ESE of Sand Point, Alaska",earthquake,8.36,2.015,0.077,22,reviewed,us,us
 2023-03-06T12:05:54.710Z,32.986,-115.512,2.85,1.52,ml,14,91,0.07853,0.27,ci,ci40421480,2023-03-06T12:09:34.370Z,"2km ENE of Brawley, CA",earthquake,0.57,0.86,0.217,17,automatic,ci,ci
 2023-03-06T12:00:51.500Z,33.4925,-116.784,3.94,1,ml,40,36,0.02407,0.17,ci,ci40421472,2023-03-06T12:04:26.088Z,"9km NE of Aguanga, CA",earthquake,0.19,0.47,0.141,26,automatic,ci,ci
 2023-03-06T11:43:36.034Z,65.3552,-145.0456,0.8,1.8,ml,,,,1.13,ak,ak0232zoqmbn,2023-03-06T11:46:27.625Z,"26 km SSW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -9,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T11:12:45.550Z,19.4459991455078,-155.23616027832,27.7999992370605,2.41,ml,43,70,,0.129999995,hv,hv73334482,2023-03-06T11:18:14.410Z,"0 km NNW of Volcano, Hawaii",earthquake,0.54,0.400000006,0.44,4,automatic,hv,hv
 2023-03-06T11:02:57.035Z,36.2306,36.0127,10,4,mb,35,117,1.345,0.34,us,us7000jhlx,2023-03-06T12:18:34.040Z,"5 km WNW of Toygarlı, Turkey",earthquake,5.12,1.881,0.164,10,reviewed,us,us
 2023-03-06T10:55:55.730Z,18.0153333333333,-66.8391666666667,12.41,2.63,md,6,175,0.2004,0.13,pr,pr71398553,2023-03-06T11:32:11.990Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.6,2.81,0.00936423591942948,3,reviewed,pr,pr
-2023-03-06T10:45:56.080Z,38.8383331,-122.8078308,2.34,0.7,md,10,83,0.01366,0.01,nc,nc73856081,2023-03-06T11:01:14.054Z,"8km WNW of Cobb, CA",earthquake,0.39,1.09,0.42,11,automatic,nc,nc
+2023-03-06T10:45:56.080Z,38.8383331,-122.8078308,2.34,0.7,md,10,83,0.01366,0.01,nc,nc73856081,2023-03-06T12:47:20.533Z,"8km WNW of Cobb, CA",earthquake,0.39,1.09,0.42,11,automatic,nc,nc
 2023-03-06T10:40:38.248Z,65.14,-145.3389,0,1.6,ml,,,,0.73,ak,ak0232zo4jqo,2023-03-06T10:42:31.787Z,"54 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-06T10:29:24.333Z,61.431,-149.9071,35.6,2.1,ml,,,,0.51,ak,ak0232zo25tc,2023-03-06T10:31:18.999Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-06T10:27:41.241Z,61.0763,-147.1875,13.3,1.2,ml,,,,1.39,ak,ak0232zo1rnw,2023-03-06T10:29:23.177Z,"36 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -201,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T13:22:10.710Z,33.7763333,-116.938,13.6,0.69,ml,18,94,0.08621,0.21,ci,ci40421216,2023-03-05T15:00:10.496Z,"2km ESE of San Jacinto, CA",earthquake,0.52,0.76,0.131,16,reviewed,ci,ci
 2023-03-05T13:05:20.467Z,61.1994,-151.6827,84.6,1.3,ml,,,,0.96,ak,ak0232y25ymm,2023-03-05T13:07:04.842Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-05T13:02:58.770Z,36.0133324,-120.5751648,3.3,1.3,md,10,113,0.0315,0.06,nc,nc73855646,2023-03-05T13:41:15.198Z,"18km NW of Parkfield, CA",earthquake,0.43,0.63,0.05,4,automatic,nc,nc
-2023-03-05T12:34:48.790Z,17.9655,-66.922,10.52,2.76,md,15,196,0.01435,0.11,pr,pr71398373,2023-03-05T16:52:10.900Z,"1 km WSW of Guánica, Puerto Rico",earthquake,0.38,0.33,0.0867255946805239,7,reviewed,pr,pr
-2023-03-05T12:32:43.056Z,59.9832,-152.9265,110.4,1.9,ml,,,,0.63,ak,ak0232y1qd3p,2023-03-05T12:35:48.469Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
