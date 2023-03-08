@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-08T20:07:41.683Z,61.9349,-150.9559,60.9,1.9,ml,,,,0.28,ak,ak023334yiew,2023-03-08T20:09:27.280Z,"23 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-08T20:02:49.610Z,38.7958336,-122.7223358,3.48,0.73,md,9,136,0.0296,0.01,nc,nc73854395,2023-03-08T20:17:11.688Z,"3km S of Cobb, CA",earthquake,0.42,1.38,0.23,7,automatic,nc,nc
+2023-03-08T20:02:49.610Z,38.7958336,-122.7223358,3.48,0.73,md,9,136,0.0296,0.01,nc,nc73854395,2023-03-08T20:32:11.783Z,"3km S of Cobb, CA",earthquake,0.42,1.38,0.23,7,automatic,nc,nc
 2023-03-08T19:39:09.580Z,38.8381653,-122.807663,2.21,1.31,md,25,53,0.01353,0.02,nc,nc73854390,2023-03-08T20:19:12.697Z,"8km WNW of Cobb, CA",earthquake,0.2,0.41,0.1,28,automatic,nc,nc
 2023-03-08T19:19:23.070Z,38.7938347,-122.7681656,4.64,0.86,md,8,117,0.01545,0.01,nc,nc73854375,2023-03-08T19:32:10.542Z,"2km NNW of The Geysers, CA",earthquake,0.84,1.82,0.15,9,automatic,nc,nc
 2023-03-08T19:14:49.310Z,33.5046667,-116.5113333,5.65,1.07,ml,25,86,0.0552,0.18,ci,ci40181711,2023-03-08T19:26:01.670Z,"16km ESE of Anza, CA",earthquake,0.28,0.54,0.12,25,automatic,ci,ci
@@ -95,7 +95,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T07:58:20.631Z,39.3542,-120.0141,7.2,1.2,ml,20,63.17,0.064,0.1452,nn,nn00856683,2023-03-08T17:12:54.768Z,"4 km S of Floriston, California",earthquake,,1.2,0.35,5,reviewed,nn,nn
 2023-03-08T07:57:45.200Z,63.5148,-150.8783,0.1,1.6,ml,,,,0.42,ak,ak02332xilmg,2023-03-08T07:59:30.880Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-08T07:48:49.018Z,31.68147763,-104.3890423,6.260107422,2.2,ml,27,97,0.05795944552,0.2,tx,tx2023eres,2023-03-08T15:10:07.079Z,"54 km S of Whites City, New Mexico",earthquake,0.8690594516,0.7986874085,0.1,16,reviewed,tx,tx
+2023-03-08T07:46:02.500Z,51.8875,-178.153666666667,5,2.52,ml,11,266,,0.25,av,av91788966,2023-03-08T20:31:58.550Z,"104 km W of Adak, Alaska",earthquake,1.19,31.61,0.294724710548459,15,reviewed,av,av
 2023-03-08T07:46:02.280Z,51.8678333333333,-178.183833333333,2.22,2.65,ml,8,139,,0.22,av,av91788971,2023-03-08T08:01:58.610Z,"106 km W of Adak, Alaska",earthquake,0.78,1.3,0.203723848965374,9,reviewed,av,av
+2023-03-08T07:42:44.400Z,51.8945,-178.152333333333,5.84,0.71,ml,4,271,,0.3,av,av91788956,2023-03-08T20:25:19.360Z,"104 km W of Adak, Alaska",earthquake,1.71,1.84,0.34583988089356,4,reviewed,av,av
 2023-03-08T07:37:56.660Z,51.8793333333333,-178.154333333333,6.93,1.97,ml,4,266,,0.05,av,av91788951,2023-03-08T20:22:04.010Z,"104 km W of Adak, Alaska",earthquake,0.55,0.58,0.247269856002589,5,reviewed,av,av
 2023-03-08T07:34:58.860Z,33.6645,-116.767,14.29,0.6,ml,34,69,0.06409,0.12,ci,ci40422048,2023-03-08T16:21:28.311Z,"10km SSW of Idyllwild, CA",earthquake,0.18,0.29,0.09,13,reviewed,ci,ci
 2023-03-08T07:33:09.652Z,-6.5224,154.9642,59.954,5.8,mww,72,35,3.625,0.84,us,us7000ji38,2023-03-08T09:36:06.276Z,"61 km WSW of Panguna, Papua New Guinea",earthquake,7.73,6.547,0.062,25,reviewed,us,us
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T20:55:24.340Z,17.9693333333333,-66.8583333333333,17.94,2.19,md,9,198,0.02071,0.09,pr,pr71398773,2023-03-07T21:04:17.510Z,"Puerto Rico region",earthquake,0.61,0.59,0.0613020713940684,5,reviewed,pr,pr
 2023-03-07T20:46:05.565Z,-5.4619,151.7488,72.808,5.3,mww,162,15,1.328,0.86,us,us7000jhz7,2023-03-08T15:20:44.040Z,"136 km SSW of Kokopo, Papua New Guinea",earthquake,6.39,3.023,0.078,16,reviewed,us,us
 2023-03-07T20:39:20.550Z,37.3791667,-122.2318333,7.01,1.59,md,28,60,0.02512,0.07,nc,nc73856551,2023-03-08T04:03:13.776Z,"1km SSE of Portola Valley, CA",earthquake,0.18,0.24,0.187,22,reviewed,nc,nc
-2023-03-07T20:31:29.060Z,-0.256,124.5363,45.443,5.4,mww,197,28,1.929,0.82,us,us7000jhz2,2023-03-08T15:00:31.848Z,"Molucca Sea",earthquake,5.77,4.042,0.071,19,reviewed,us,us
-2023-03-07T20:27:16.580Z,33.881,-116.8605,15.04,0.77,ml,17,150,0.07068,0.07,ci,ci40421864,2023-03-07T20:39:57.290Z,"5km SSE of Banning, CA",earthquake,0.21,0.52,0.198,15,reviewed,ci,ci
