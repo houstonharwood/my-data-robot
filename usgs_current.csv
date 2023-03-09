@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T11:51:35.100Z,63.2909,-144.0185,10.6,1.8,ml,,,,0.84,ak,ak02334nedhr,2023-03-09T12:12:20.264Z,"35 km WSW of Tanacross, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-03-09T11:49:06.700Z,34.0465,-116.348,7.21,2.01,ml,60,31,0.04159,0.15,ci,ci40182183,2023-03-09T12:00:20.310Z,"10km SSW of Joshua Tree, CA",earthquake,0.17,0.54,0.185,26,automatic,ci,ci
 2023-03-09T11:46:17.090Z,33.4718333,-116.5563333,8.82,0.57,ml,23,81,0.0446,0.21,ci,ci40182175,2023-03-09T11:49:47.522Z,"14km SE of Anza, CA",earthquake,0.37,0.69,0.229,14,automatic,ci,ci
-2023-03-09T11:45:40.830Z,38.7943344,-122.7626648,2.41,1.24,md,21,63,0.006692,0.03,nc,nc73854615,2023-03-09T12:02:16.387Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.5,0.15,21,automatic,nc,nc
+2023-03-09T11:45:40.830Z,38.7943344,-122.7626648,2.41,1.24,md,21,63,0.006692,0.03,nc,nc73854615,2023-03-09T13:10:10.816Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.5,0.15,21,automatic,nc,nc
 2023-03-09T11:41:30.925Z,56.7619,-158.024,10.7,2.2,ml,,,,0.89,ak,ak02334nc7z8,2023-03-09T11:43:25.612Z,"42 km ESE of Port Heiden, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-09T11:40:09.320Z,33.5308333,-116.7293333,4.66,0.37,ml,14,85,0.03511,0.11,ci,ci40182167,2023-03-09T11:43:40.185Z,"6km WSW of Anza, CA",earthquake,0.26,0.27,0.121,10,automatic,ci,ci
 2023-03-09T11:31:46.030Z,35.9843333,-117.468,-0.09,1.45,ml,17,140,0.1765,0.18,ci,ci40182159,2023-03-09T11:35:18.757Z,"25km NNW of Searles Valley, CA",earthquake,0.39,31.61,0.219,12,automatic,ci,ci
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T04:38:40.411Z,61.5904,-150.5561,40.5,1.3,ml,,,,0.48,ak,ak02334j5kbt,2023-03-09T04:40:25.670Z,"5 km NNW of Susitna, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-03-09T04:28:49.260Z,33.724,-116.8381667,16.38,0.71,ml,19,60,0.08034,0.19,ci,ci40181895,2023-03-09T04:32:30.733Z,"6km ESE of Valle Vista, CA",earthquake,0.48,0.79,0.075,15,automatic,ci,ci
 2023-03-09T04:22:46.577Z,15.5671,-92.7796,123.196,4.9,mb,70,135,0.942,0.79,us,us7000jidj,2023-03-09T05:11:34.036Z,"15 km SSW of Nueva Colombia, Mexico",earthquake,7.77,6.874,0.025,494,reviewed,us,us
-2023-03-09T04:20:12.920Z,51.8616666666667,-178.005833333333,5.42,2.6,ml,9,90,,0.23,av,av91791071,2023-03-09T04:57:25.210Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.7,0.55,0.241546463431395,9,reviewed,av,av
+2023-03-09T04:20:12.920Z,51.8616666666667,-178.005833333333,5.42,2.6,ml,9,90,,0.23,av,av91791071,2023-03-09T04:57:25.210Z,"94 km W of Adak, Alaska",earthquake,0.7,0.55,0.241546463431395,9,reviewed,av,av
 2023-03-09T04:10:30.170Z,51.8518333333333,-177.999333333333,3.98,2.81,ml,11,87,,0.15,av,av91791041,2023-03-09T04:45:03.590Z,"94 km W of Adak, Alaska",earthquake,0.66,0.56,0.266485472220773,11,reviewed,av,av
 2023-03-09T04:07:22.550Z,51.8581666666667,-177.996666666667,5.37,3.14,ml,13,79,,0.2,av,av91092593,2023-03-09T04:49:10.090Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.48,0.33,0.233531826270355,13,reviewed,av,av
 2023-03-09T04:00:09.082Z,-7.045,129.2652,139.789,4.7,mb,16,79,5.063,1.08,us,us7000jidg,2023-03-09T04:16:26.040Z,"298 km ENE of Lospalos, Timor Leste",earthquake,10.03,10.373,0.225,6,reviewed,us,us
@@ -269,6 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T13:43:23.060Z,11.4068,141.4394,10,5.4,mww,87,47,3.99,0.58,us,us7000ji58,2023-03-09T07:53:31.988Z,"207 km NNE of Fais, Micronesia",earthquake,7.46,1.594,0.061,26,reviewed,us,us
 2023-03-08T13:33:59.220Z,32.8083333,-115.4575,16.01,1.73,ml,25,100,0.009507,0.21,ci,ci40422104,2023-03-08T17:09:20.587Z,"7km W of Holtville, CA",earthquake,0.32,0.35,0.152,24,reviewed,ci,ci
 2023-03-08T13:17:35.840Z,33.7991667,-116.9201667,9.22,1.16,ml,41,97,0.0407,0.15,ci,ci40422096,2023-03-08T16:51:55.484Z,"4km ENE of San Jacinto, CA",earthquake,0.21,0.44,0.191,31,reviewed,ci,ci
-2023-03-08T13:03:38.000Z,38.8128319,-122.8203354,2.91,1.01,md,24,52,0.007962,0.03,nc,nc73854275,2023-03-08T13:23:17.163Z,"7km NW of The Geysers, CA",earthquake,0.24,0.47,0.28,24,automatic,nc,nc
-2023-03-08T12:54:37.480Z,34.0483333,-116.3513333,7.41,0.9,ml,34,55,0.03827,0.11,ci,ci40422088,2023-03-08T16:33:30.546Z,"10km SSW of Joshua Tree, CA",earthquake,0.15,0.35,0.112,15,reviewed,ci,ci
-2023-03-08T12:54:08.380Z,38.8149986,-122.8154984,2.85,0.27,md,9,86,0.009394,0.01,nc,nc73854270,2023-03-08T14:53:18.717Z,"7km NW of The Geysers, CA",earthquake,0.53,1.28,0.1,9,automatic,nc,nc
