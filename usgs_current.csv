@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T08:32:37.800Z,33.7855,-116.936,13.96,0.68,ml,16,207,0.09454,0.14,ci,ci40183191,2023-03-11T08:36:12.295Z,"2km E of San Jacinto, CA",earthquake,0.59,0.44,0.16,15,automatic,ci,ci
 2023-03-11T08:27:41.933Z,-22.1025,-68.8398,113.094,4.6,mb,26,57,0.849,0.89,us,us7000jj3f,2023-03-11T08:44:27.040Z,"40 km NNE of Calama, Chile",earthquake,5.86,7.74,0.137,16,reviewed,us,us
 2023-03-11T08:25:10.540Z,60.1141,-152.8695,102.2,1.8,ml,,,,0.57,ak,ak02337wj53m,2023-03-11T08:27:15.811Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-11T08:23:46.112Z,65.443,-148.2437,12.3,0.8,ml,,,,0.18,ak,ak02337wisfn,2023-03-11T08:25:39.498Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-11T08:23:46.112Z,65.443,-148.2437,12.3,0.8,ml,,,,0.18,ak,ak02337wisfn,2023-03-11T08:25:39.498Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-11T08:19:28.904Z,60.5004,-143.0338,0,1.7,ml,,,,0.94,ak,ak02337whw8q,2023-03-11T08:21:19.746Z,"104 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-11T08:11:19.060Z,32.9746667,-116.2928333,9.99,2.64,ml,69,50,0.02189,0.24,ci,ci40183175,2023-03-11T08:39:03.612Z,"24km SW of Ocotillo Wells, CA",earthquake,0.23,0.68,0.213,25,automatic,ci,ci
 2023-03-11T08:09:08.407Z,61.3075,-150.8827,50.4,1.8,ml,,,,0.49,ak,ak02337wfpi0,2023-03-11T08:11:12.332Z,"21 km NNE of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -218,7 +218,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T16:53:16.440Z,51.8586666666667,-178.091333333333,4.74,1.53,ml,6,135,,0.14,av,av91796391,2023-03-10T18:35:48.310Z,"100 km W of Adak, Alaska",earthquake,0.47,0.7,0.247510059851609,6,reviewed,av,av
 2023-03-10T16:48:40.620Z,51.8518333333333,-178.0765,3.57,2.24,ml,9,132,,0.1,av,av91796381,2023-03-10T18:33:22.350Z,"99 km W of Adak, Alaska",earthquake,0.36,0.21,0.204467087231202,9,reviewed,av,av
 2023-03-10T16:48:06.400Z,51.8633333333333,-178.0755,-1.8,1.49,ml,5,189,,0.23,av,av91796386,2023-03-10T18:28:49.890Z,"99 km W of Adak, Alaska",earthquake,0.65,1.58,0.21621256203467,5,reviewed,av,av
-2023-03-10T16:46:44.239Z,19.1627,-66.5881,40.682,2.7,ml,13,261,0.684,0.34,us,us7000jivz,2023-03-10T18:53:59.040Z,"77 km N of Arecibo, Puerto Rico",earthquake,6.84,26.765,0.069,28,reviewed,us,us
+2023-03-10T16:46:46.310Z,19.1361,-66.555,22,3.65,md,22,224,0.6595,0.42,pr,pr2023069000,2023-03-11T08:58:19.742Z,"74 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.37,28.14,0.11,15,reviewed,pr,pr
 2023-03-10T16:45:36.830Z,51.8433333333333,-178.037833333333,5.14,1.62,ml,4,139,,0.1,av,av91796376,2023-03-10T18:24:35.300Z,"96 km W of Adak, Alaska",earthquake,0.53,0.65,0.310522085226643,4,reviewed,av,av
 2023-03-10T16:45:32.550Z,51.86,-178.065666666667,-1.8,1.38,ml,5,181,,0.18,av,av91093208,2023-03-10T18:26:15.900Z,"98 km W of Adak, Alaska",earthquake,0.51,1.17,0.130877865971007,5,reviewed,av,av
 2023-03-10T16:41:38.580Z,19.4195,-155.276833333333,0.05,1.89,md,14,95,,0.09,hv,hv73336497,2023-03-10T20:35:16.060Z,"Hawaii region, Hawaii",earthquake,0.15,0.27,0.172984769697583,3,reviewed,hv,hv
@@ -350,4 +350,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T09:09:57.329Z,58.2565,-155.1182,1.8,1.9,ml,,,,0.17,ak,ak023369hvk0,2023-03-10T21:50:31.910Z,"86 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-10T09:07:05.040Z,51.8565,-178.1085,4.95,2.57,ml,12,109,,0.15,av,av91795476,2023-03-10T20:19:29.780Z,"101 km W of Adak, Alaska",earthquake,0.47,0.55,0.151137364539119,14,reviewed,av,av
 2023-03-10T09:06:59.810Z,19.2356662750244,-155.372161865234,30.9799995422363,2.20000005,md,28,150,,0.129999995,hv,hv73336272,2023-03-10T09:10:18.500Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.61,0.769999981,0.519999981,5,automatic,hv,hv
-2023-03-10T08:57:38.630Z,32.93,-116.254,11.92,0.59,ml,14,100,0.04823,0.09,ci,ci40182743,2023-03-10T21:08:16.990Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.22,0.41,0.112,5,reviewed,ci,ci
