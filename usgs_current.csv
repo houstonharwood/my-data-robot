@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-13T22:40:11.469Z,64.8365,-148.9589,22.5,1,ml,,,,0.82,ak,ak0233bg14e2,2023-03-13T22:43:45.419Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-13T22:39:44.757Z,60.7851,-149.6739,32.2,1.6,ml,,,,0.81,ak,ak0233bg0z8p,2023-03-13T22:43:37.766Z,"14 km S of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-13T22:36:45.680Z,38.8258324,-122.8054962,1.41,1.22,md,12,68,0.004326,0.02,nc,nc73856385,2023-03-13T22:38:20.757Z,"7km NW of The Geysers, CA",earthquake,0.29,0.96,0.18,12,automatic,nc,nc
 2023-03-13T22:18:03.690Z,36.3001671,-119.8328323,1.54,1.92,md,9,232,0.4343,0.33,nc,nc73856380,2023-03-13T22:31:11.644Z,"4km W of Lemoore, CA",earthquake,4.69,25.87,0.36,2,automatic,nc,nc
-2023-03-13T22:14:02.530Z,34.2000008,-116.9323349,9.11,3.14,ml,121,23,0.06288,0.18,ci,ci40184319,2023-03-13T22:37:50.847Z,"5km SSW of Big Bear Lake, CA",earthquake,0.16,0.44,0.261,19,automatic,ci,ci
+2023-03-13T22:14:02.530Z,34.2000008,-116.9323349,9.11,3.14,ml,121,23,0.06288,0.18,ci,ci40184319,2023-03-13T22:49:43.222Z,"5km SSW of Big Bear Lake, CA",earthquake,0.16,0.44,0.261,19,automatic,ci,ci
 2023-03-13T22:12:07.200Z,38.7976685,-122.75,2.73,0.72,md,8,168,0.008143,0.02,nc,nc73856365,2023-03-13T22:41:17.712Z,"2km NNE of The Geysers, CA",earthquake,0.7,1.05,0.17,9,automatic,nc,nc
 2023-03-13T22:09:55.400Z,44.6358333,-111.0578333,10.24,1.28,ml,12,94,0.04293,0.14,uu,uu60533816,2023-03-13T22:28:45.300Z,"4 km SE of West Yellowstone, Montana",earthquake,0.51,0.97,0.502,3,reviewed,uu,uu
 2023-03-13T22:05:34.111Z,-7.3885,128.3031,153.98,4.2,mb,23,86,3.263,0.76,us,us7000jjne,2023-03-13T22:21:23.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.27,9.318,0.141,14,reviewed,us,us
@@ -46,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T19:47:48.580Z,44.6323333,-111.0473333,9.15,2.52,ml,9,96,0.0465,0.19,uu,uu60032784,2023-03-13T20:17:26.480Z,"5 km SE of West Yellowstone, Montana",earthquake,0.9,1.72,0.287,4,reviewed,uu,uu
 2023-03-13T19:47:38.700Z,44.6391667,-111.052,9.75,2.41,ml,20,55,0.04824,0.12,uu,uu60533686,2023-03-13T20:09:33.230Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.42,0.77,0.474,3,reviewed,uu,uu
 2023-03-13T19:47:23.690Z,44.6461667,-111.0543333,7.53,0.95,ml,8,120,0.05224,0.1,uu,uu60533691,2023-03-13T19:59:34.290Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.49,1.68,0.591,3,reviewed,uu,uu
+2023-03-13T19:46:04.130Z,51.8573333333333,-177.8885,3.66,1.63,ml,5,188,,0.1,av,av91803706,2023-03-13T22:43:28.080Z,"86 km W of Adak, Alaska",earthquake,0.48,0.89,0.125151891948728,5,reviewed,av,av
 2023-03-13T19:45:56.080Z,44.6451667,-111.0461667,8.08,1.17,md,9,90,0.05541,0.15,uu,uu60032779,2023-03-13T20:10:15.960Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.5,0.91,0.352,6,reviewed,uu,uu
 2023-03-13T19:45:40.540Z,44.6403333,-111.0498333,9.15,1.73,ml,13,90,0.05016,0.17,uu,uu60533681,2023-03-13T20:08:59.490Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.51,0.97,0.522,3,reviewed,uu,uu
 2023-03-13T19:40:58.200Z,44.6398333,-111.0586667,9.03,0.74,md,11,97,0.04541,0.2,uu,uu60533676,2023-03-13T20:06:23.000Z,"4 km SE of West Yellowstone, Montana",earthquake,0.68,1.18,0.293,7,reviewed,uu,uu
@@ -332,4 +335,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T23:08:31.256Z,64.9866,-147.4356,1.2,1.6,ml,,,,0.73,ak,ak02339swe45,2023-03-12T23:10:30.661Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-12T23:06:31.480Z,63.0314,-150.4924,93.8,1.1,ml,,,,0.43,ak,ak02339svym3,2023-03-12T23:08:47.202Z,"61 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-12T22:59:41.500Z,38.7885017,-122.7463303,1.77,1.07,md,13,85,0.009165,0.02,nc,nc73855975,2023-03-12T23:17:21.199Z,"2km NE of The Geysers, CA",earthquake,0.29,0.57,0.15,15,automatic,nc,nc
-2023-03-12T22:44:19.689Z,37.3871,-117.118,7.9,0.8,ml,14,134.63,0.398,0.1236,nn,nn00856847,2023-03-13T21:30:14.600Z,"37 km SSE of Goldfield, Nevada",earthquake,,8.9,0.95,10,reviewed,nn,nn
