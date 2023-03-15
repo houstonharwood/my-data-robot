@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-15T20:18:35.275Z,37.1855,-117.7298,1.7,1.7,ml,9,184.92,0.082,0.2187,nn,nn00857046,2023-03-15T20:19:48.784Z,"49 km E of Big Pine, California",earthquake,,11.5,0.91,7,automatic,nn,nn
+2023-03-15T20:34:29.280Z,33.4896667,-116.5578333,7.71,0.94,ml,20,79,0.03741,0.24,ci,ci40185271,2023-03-15T20:38:00.761Z,"13km SE of Anza, CA",earthquake,0.4,0.7,0.313,12,automatic,ci,ci
+2023-03-15T20:31:13.820Z,38.8248329,-122.7981644,2.72,1.03,md,17,58,0.009413,0.01,nc,nc73857375,2023-03-15T20:32:51.165Z,"6km NW of The Geysers, CA",earthquake,0.3,0.49,0.3,16,automatic,nc,nc
 2023-03-15T20:14:50.000Z,17.9633333333333,-66.9621666666667,6.34,2.26,md,5,194,0.07834,0.06,pr,pr71400158,2023-03-15T20:26:09.960Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.93,0.56,0.0569917789946544,4,reviewed,pr,pr
 2023-03-15T20:04:54.140Z,51.8536666666667,-178.083666666667,3.7,1.09,ml,4,209,,0.18,av,av91807006,2023-03-15T20:13:05.080Z,"99 km W of Adak, Alaska",earthquake,0.7,0.57,0.222603607977009,4,reviewed,av,av
 2023-03-15T20:04:42.700Z,51.8551666666667,-178.077,3.61,0.97,ml,4,203,,0.2,av,av91094448,2023-03-15T20:14:35.640Z,"99 km W of Adak, Alaska",earthquake,1.03,0.73,0.262193775887246,4,reviewed,av,av
@@ -230,7 +231,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T01:45:05.800Z,38.8334999,-122.7939987,1.63,0.95,md,8,85,0.005672,0.01,nc,nc73857000,2023-03-15T02:16:12.128Z,"6km WNW of Cobb, CA",earthquake,0.44,1.32,0.22,8,automatic,nc,nc
 2023-03-15T01:21:16.380Z,33.1881667,-115.5778333,4.12,1.79,ml,28,90,0.03345,0.18,ci,ci40185015,2023-03-15T15:37:14.933Z,"8km SW of Niland, CA",earthquake,0.22,0.45,0.211,13,reviewed,ci,ci
 2023-03-15T01:20:31.230Z,33.1871667,-115.5696667,4.45,2.53,ml,49,46,0.03975,0.22,ci,ci40185007,2023-03-15T15:27:04.130Z,"8km SW of Niland, CA",earthquake,0.19,0.41,0.163,49,reviewed,ci,ci
-2023-03-15T01:16:16.926Z,-19.4117,-173.3523,10,4.6,mb,19,104,0.976,0.58,us,us7000jjz7,2023-03-15T01:50:02.040Z,"Tonga",earthquake,5.02,1.823,0.158,12,reviewed,us,us
+2023-03-15T01:16:17.301Z,-19.432,-173.3925,10,4.6,mb,21,95,0.968,0.41,us,us7000jjz7,2023-03-15T20:36:23.040Z,"106 km SE of Neiafu, Tonga",earthquake,4.2,1.895,0.147,14,reviewed,us,us
 2023-03-15T01:13:51.960Z,33.9946667,-116.6546667,14.87,0.7,ml,28,74,0.0441,0.08,ci,ci40184991,2023-03-15T15:13:51.441Z,"9km SW of Morongo Valley, CA",earthquake,0.14,0.39,0.103,14,reviewed,ci,ci
 2023-03-15T01:08:16.518Z,36.6961,-116.3002,6.6,0.1,ml,9,117.38,0.036,0.1139,nn,nn00857034,2023-03-15T18:17:16.789Z,"47 km ESE of Beatty, Nevada",earthquake,,1.9,0.99,3,reviewed,nn,nn
 2023-03-15T01:04:57.210Z,51.8426666666667,-178.112833333333,3.06,1.51,ml,5,233,,0.26,av,av91805896,2023-03-15T02:14:12.350Z,"101 km W of Adak, Alaska",earthquake,1.17,0.9,0.249317093412879,5,reviewed,av,av
@@ -290,6 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T20:42:58.539Z,36.24533333,-95.798,0,1.66,ml,39,121,0.3347343137,0.54,ok,ok2023fddf,2023-03-15T16:44:30.861Z,"5 km ESE of Owasso, Oklahoma",quarry blast,,0.6,0.44,4,reviewed,ok,ok
 2023-03-14T20:40:19.290Z,51.863,-178.075833333333,0.09,1.17,ml,4,190,,0.26,av,av91805566,2023-03-14T23:52:49.640Z,"99 km W of Adak, Alaska",earthquake,0.88,31.61,0.150313281392478,4,reviewed,av,av
 2023-03-14T20:39:16.210Z,51.8596666666667,-178.087,6.82,0.99,ml,4,208,,0.22,av,av91805561,2023-03-14T23:35:32.910Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.35,1.31,0.159694010308711,4,reviewed,av,av
-2023-03-14T20:36:02.617Z,56.5667,-148.6068,10,3.3,ml,89,175,2.485,0.75,us,us7000jjx7,2023-03-15T14:14:05.040Z,"251 km ESE of Chiniak, Alaska",earthquake,8.14,1.999,0.045,64,reviewed,us,us
-2023-03-14T20:35:57.589Z,51.8637,-178.0802,5,2.7,ml,15,98,0.039,0.61,us,us7000jjxv,2023-03-15T13:50:04.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.65,1.574,0.081,20,reviewed,us,us
-2023-03-14T20:32:51.430Z,38.2389984,-122.2655029,6.48,2.36,md,9,140,0.4511,0.17,nc,nc73856945,2023-03-14T23:12:14.842Z,"7km SSE of Napa, CA",earthquake,7.81,8.21,,1,automatic,nc,nc
