@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T05:11:27.280Z,38.7263336,-122.9161682,6.34,2.29,md,58,47,0.06901,0.07,nc,nc73858030,2023-03-17T07:37:14.428Z,"12km SE of Cloverdale, CA",earthquake,0.16,0.44,0.16,59,automatic,nc,nc
 2023-03-17T05:08:01.174Z,-17.384,-178.8742,556.162,4.4,mb,26,99,2.953,0.39,us,us7000jkr1,2023-03-17T06:39:43.040Z,"Fiji region",earthquake,10.94,8.024,0.12,20,reviewed,us,us
 2023-03-17T05:01:16.440Z,38.8143349,-122.7850037,1.58,1.07,md,7,81,0.003541,0.02,nc,nc73858025,2023-03-17T05:30:13.691Z,"5km NNW of The Geysers, CA",earthquake,0.47,1.15,0.28,8,automatic,nc,nc
-2023-03-17T04:56:54.525Z,40.1887,-98.3529,10,2.9,mb_lg,16,57,1.228,0.6,us,us7000jkqw,2023-03-17T05:08:00.424Z,"8 km ENE of Cowles, Nebraska",earthquake,4.86,2.001,0.059,75,reviewed,us,us
+2023-03-17T04:56:54.525Z,40.1887,-98.3529,10,2.9,mb_lg,16,57,1.228,0.6,us,us7000jkqw,2023-03-17T11:49:50.342Z,"8 km ENE of Cowles, Nebraska",earthquake,4.86,2.001,0.059,75,reviewed,us,us
 2023-03-17T04:54:37.444Z,63.2569,-150.5008,116.5,1.7,ml,,,,0.36,ak,ak0233hrjri8,2023-03-17T04:56:40.454Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-17T04:51:42.808Z,60.6964,-152.4267,90.9,1.7,ml,,,,0.45,ak,ak0233hrj4rs,2023-03-17T04:54:24.694Z,"61 km W of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-17T04:51:02.350Z,19.1319999694824,-155.401840209961,30.2900009155273,2.41,ml,39,180,,0.129999995,hv,hv73341917,2023-03-17T05:02:43.401Z,"11 km SE of Pāhala, Hawaii",earthquake,0.6,0.910000026,2.23,17,automatic,hv,hv
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:49:56.340Z,34.02,-116.738,18.34,1.16,ml,32,48,0.05989,0.2,ci,ci40185783,2023-03-17T04:00:58.460Z,"12km NNE of Cabazon, CA",earthquake,0.35,0.58,0.216,28,automatic,ci,ci
 2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8,128,0.01506,0.03,nc,nc73858005,2023-03-17T05:30:10.691Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6,automatic,nc,nc
 2023-03-17T03:40:16.863Z,31.6299,-104.4732,5.737,2.7,ml,22,67,0.045,0.26,us,us7000jkqf,2023-03-17T03:53:51.040Z,"61 km S of Whites City, New Mexico",earthquake,2.21,1.727,0.077,49,reviewed,us,us
-2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"Pulau-Pulau Sangihe, Indonesia",earthquake,10.68,9.594,0.191,8,reviewed,us,us
+2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"51 km S of Sarangani, Philippines",earthquake,10.68,9.594,0.191,8,reviewed,us,us
 2023-03-17T03:38:03.191Z,62.7771,-149.519,0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T03:33:15.323Z,52.5639,-169.9892,44.76,4.2,mb,20,179,0.801,0.78,us,us7000jkqe,2023-03-17T04:04:47.040Z,"86 km WSW of Nikolski, Alaska",earthquake,12.56,11.622,0.158,11,reviewed,us,us
 2023-03-17T03:26:18.310Z,19.2768,-67.8263,96,4.41,md,20,252,0.9435,0.58,pr,pr2023076000,2023-03-17T06:32:53.736Z,"98 km NE of Punta Cana, Dominican Republic",earthquake,4.97,7.42,0.1,17,reviewed,pr,pr
@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T11:59:14.021Z,63.4921,-146.0207,6.1,1.3,ml,,,,1.14,ak,ak0233g87gzn,2023-03-16T12:02:07.443Z,"49 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-16T11:58:21.820Z,17.8608333333333,-66.8903333333333,12.94,2.19,md,6,251,0.1141,0.11,pr,pr71400453,2023-03-16T15:25:53.250Z,"12 km S of Guánica, Puerto Rico",earthquake,0.97,0.51,0.0894306543924164,5,reviewed,pr,pr
 2023-03-16T11:57:33.600Z,51.8631666666667,-178.072666666667,-1.8,1.28,ml,5,185,,0.12,av,av91094588,2023-03-16T19:17:59.570Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.38,1.07,0.272738783595856,5,reviewed,av,av
-2023-03-16T11:53:12.750Z,33.6566667,-118.5576667,2.54,1.79,ml,31,151,0.1545,0.23,ci,ci40185479,2023-03-16T17:21:42.471Z,"19km WSW of Rancho Palos Verdes, CA",earthquake,0.36,0.73,0.153,29,reviewed,ci,ci
-2023-03-16T11:51:13.860Z,33.4851667,-116.5688333,7.69,1.23,ml,63,49,0.02946,0.17,ci,ci40185471,2023-03-16T17:15:32.990Z,"12km SE of Anza, CA",earthquake,0.15,0.31,0.179,27,reviewed,ci,ci
