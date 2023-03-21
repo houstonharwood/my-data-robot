@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-21T14:04:15.100Z,33.7621667,-117.5511667,3.65,1.38,ml,20,51,0.05846,0.18,ci,ci40187887,2023-03-21T14:07:57.283Z,"12km NNE of Trabuco Canyon, CA",earthquake,0.3,0.96,0.341,28,automatic,ci,ci
-2023-03-21T13:59:15.490Z,38.821167,-122.7858353,1.82,0.85,md,12,116,0.01511,0.02,nc,nc73860265,2023-03-21T14:00:50.682Z,"5km W of Cobb, CA",earthquake,0.32,0.53,0.17,13,automatic,nc,nc
+2023-03-21T13:59:15.490Z,38.821167,-122.7858353,1.82,0.85,md,12,116,0.01511,0.02,nc,nc73860265,2023-03-21T14:15:11.878Z,"5km W of Cobb, CA",earthquake,0.32,0.53,0.17,13,automatic,nc,nc
 2023-03-21T13:56:51.470Z,19.144832611084,-155.502502441406,32.8800010681152,2.00999999,md,36,150,,0.150000006,hv,hv73345547,2023-03-21T14:00:05.810Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.7,0.899999976,1.50999999,14,automatic,hv,hv
-2023-03-21T13:44:02.570Z,38.8330002,-122.8043365,1.9,1.24,md,20,70,0.01059,0.02,nc,nc73860260,2023-03-21T14:08:10.830Z,"7km W of Cobb, CA",earthquake,0.24,0.39,0.12,22,automatic,nc,nc
+2023-03-21T13:44:02.570Z,38.8330002,-122.8043365,1.9,1.24,md,20,70,0.01059,0.02,nc,nc73860260,2023-03-21T14:20:12.903Z,"7km W of Cobb, CA",earthquake,0.24,0.39,0.12,22,automatic,nc,nc
 2023-03-21T13:43:03.217Z,61.8946,-149.2587,1.1,1.7,ml,,,,0.79,ak,ak0233oizmep,2023-03-21T13:45:55.153Z,"16 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T12:51:57.186Z,62.168,-145.6908,18.3,1.8,ml,,,,1.03,ak,ak0233oig0p2,2023-03-21T12:54:21.007Z,"9 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T12:50:15.390Z,38.7929993,-122.7656631,1.63,1.04,md,15,69,0.008922,0.02,nc,nc73860240,2023-03-21T13:34:11.592Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.48,0.12,14,automatic,nc,nc
@@ -126,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T23:24:45.870Z,56.9095,-158.046166666667,-2.9,2.03,ml,5,271,,0.11,av,av91095103,2023-03-20T23:47:08.660Z,"35 km E of Port Heiden, Alaska",earthquake,0.72,1.42,0.510570854397841,5,reviewed,av,av
 2023-03-20T23:23:18.213Z,64.0133,-148.7989,0,1.7,ml,,,,0.63,ak,ak0233n1acst,2023-03-20T23:25:09.701Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-20T23:23:00.350Z,56.9076666666667,-158.018833333333,-0.79,2.01,ml,5,283,,0.1,av,av91095098,2023-03-20T23:38:56.500Z,"37 km E of Port Heiden, Alaska",earthquake,0.7,2.93,0.45823743312114,6,reviewed,av,av
-2023-03-20T23:15:30.460Z,35.0236667,-117.6726667,1.57,1.4,ml,20,59,0.09116,0.22,ci,ci40187703,2023-03-20T23:19:03.703Z,"3km NW of Boron, CA",quarry blast,0.48,1.22,0.103,18,automatic,ci,ci
+2023-03-20T23:15:30.140Z,35.0348333,-117.6805,-0.82,1.38,ml,25,45,0.101,0.18,ci,ci40187703,2023-03-21T14:18:55.539Z,"5km NW of Boron, CA",quarry blast,0.36,31.61,0.106,13,reviewed,ci,ci
 2023-03-20T23:15:03.573Z,64.9768,-147.4745,0,1.6,ml,,,,0.95,ak,ak0233n18lqk,2023-03-20T23:20:53.038Z,"7 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-20T23:08:56.750Z,51.8595,-178.0925,3.27,2.32,ml,6,135,,0.13,av,av91813876,2023-03-20T23:33:42.910Z,"100 km W of Adak, Alaska",earthquake,0.46,0.29,0.241182692495442,6,reviewed,av,av
 2023-03-20T23:02:02.140Z,38.8235016,-122.8048325,1.42,0.76,md,14,61,0.004096,0.02,nc,nc73860000,2023-03-20T23:17:11.511Z,"7km NW of The Geysers, CA",earthquake,0.27,0.62,0.28,15,automatic,nc,nc
@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T14:26:35.570Z,51.8506666666667,-178.079,2.67,1.69,ml,5,208,,0.19,av,av91813571,2023-03-21T01:25:07.660Z,"99 km W of Adak, Alaska",earthquake,0.74,1.19,0.164761871111729,5,reviewed,av,av
 2023-03-20T14:26:06.040Z,32.0623333,-116.8285,5.74,1.48,ml,13,152,0.3317,0.17,ci,ci40187559,2023-03-20T23:02:30.785Z,"19km SSE of Primo Tapia, B.C., MX",earthquake,0.65,31.61,0.134,8,reviewed,ci,ci
 2023-03-20T14:24:44.480Z,37.5105,-117.9443333,3.96,1.8,md,10,209,0.3405,0.07,nc,nc73859795,2023-03-20T23:53:42.656Z,"16km NNE of Deep Springs, CA",earthquake,1.05,5.15,0.166,11,reviewed,nc,nc
-2023-03-20T14:20:02.920Z,34.0478333,-116.3508333,7.26,1.53,ml,51,30,0.03889,0.11,ci,ci40187551,2023-03-20T22:58:24.790Z,"10km SSW of Joshua Tree, CA",earthquake,0.12,0.36,0.165,32,reviewed,ci,ci
-2023-03-20T14:17:28.980Z,18.0015,-66.9533333333333,7.01,2.27,md,5,140,0.07525,0.14,pr,pr71400933,2023-03-20T15:04:04.430Z,"4 km WNW of Fuig, Puerto Rico",earthquake,1.24,0.92,0.143004220882557,5,reviewed,pr,pr
