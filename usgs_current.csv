@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T09:17:02.487Z,62.9084,-148.36,5.3,1.7,ml,,,,0.79,ak,ak0233v2lpag,2023-03-25T09:18:57.946Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T09:11:01.903Z,-5.2969,102.0212,26.453,4.4,mb,26,109,1.316,0.38,us,us7000jmnk,2023-03-25T09:28:34.040Z,"167 km S of Bengkulu, Indonesia",earthquake,7.5,6.617,0.139,16,reviewed,us,us
 2023-03-25T09:10:41.580Z,36.7036667,-121.3430023,3.42,1.83,md,19,131,0.00472,0.08,nc,nc73862005,2023-03-25T10:01:14.648Z,"10km SSW of Tres Pinos, CA",earthquake,0.37,0.55,0.18,17,automatic,nc,nc
-2023-03-25T09:04:22.320Z,40.336,-125.2821667,10,3.13,ml,53,275,0.72,0.28,nc,nc73861995,2023-03-25T13:35:26.544Z,"84km W of Petrolia, CA",earthquake,1.02,31.61,0.162,31,reviewed,nc,nc
+2023-03-25T09:04:22.320Z,40.336,-125.2821667,10,3.13,ml,53,275,0.72,0.28,nc,nc73861995,2023-03-25T14:03:15.030Z,"84km W of Petrolia, CA",earthquake,1.02,31.61,0.162,31,reviewed,nc,nc
 2023-03-25T08:55:30.467Z,65.8705,-147.7041,9,1.6,ml,,,,0.44,ak,ak0233v28h1y,2023-03-25T08:57:53.882Z,"54 km NE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-25T08:10:35.260Z,17.885,-66.8365,15.15,1.89,md,8,240,0.09838,0.15,pr,pr71401478,2023-03-25T08:42:11.200Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.63,0.000309669089981757,3,reviewed,pr,pr
 2023-03-25T07:54:15.091Z,62.1632,-152.0746,105.6,2.9,ml,,,,0.48,ak,ak0233v1mskc,2023-03-25T08:29:15.040Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T02:14:38.570Z,51.8593333333333,-178.100166666667,4.35,2.36,ml,7,128,,0.17,av,av91818246,2023-03-25T03:09:47.260Z,"101 km W of Adak, Alaska",earthquake,0.53,0.72,0.250635820327818,6,reviewed,av,av
 2023-03-25T02:06:20.780Z,33.767,-116.9335,13.49,1.24,ml,42,34,0.04993,0.22,ci,ci40189631,2023-03-25T02:17:24.930Z,"3km SE of San Jacinto, CA",earthquake,0.28,0.58,0.154,30,automatic,ci,ci
 2023-03-25T01:48:07.568Z,54.3238,-159.7728,35,3,ml,11,291,1.105,0.59,us,us7000jmlz,2023-03-25T03:17:05.040Z,"122 km SSE of Sand Point, Alaska",earthquake,6.66,2.027,0.128,8,reviewed,us,us
-2023-03-25T01:42:13.641Z,12.9976,-61.1454,10,3.5,ml,10,141,0.993,0.53,us,us7000jmmd,2023-03-25T12:30:33.114Z,"9 km E of Port Elizabeth, Saint Vincent and the Grenadines",earthquake,5.4,2,0.083,20,reviewed,us,us
+2023-03-25T01:42:13.641Z,12.9976,-61.1454,10,3.5,ml,10,141,0.993,0.53,us,us7000jmmd,2023-03-25T14:05:47.528Z,"9 km E of Port Elizabeth, Saint Vincent and the Grenadines",earthquake,5.4,2,0.083,20,reviewed,us,us
 2023-03-25T01:34:56.580Z,38.847168,-122.8208313,1.6,1.61,md,7,223,0.0143,0.01,nc,nc73861840,2023-03-25T04:47:20.805Z,"9km WNW of Cobb, CA",earthquake,0.74,1.94,0.23,9,automatic,nc,nc
 2023-03-25T01:23:02.450Z,58.2576666666667,-155.078166666667,4.6,-0.57,ml,6,151,,0.2,av,av91818221,2023-03-25T04:21:58.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.95,0.7,0.229453317276678,6,reviewed,av,av
 2023-03-25T00:59:19.309Z,61.4923,-149.942,29.6,1.6,ml,,,,0.42,ak,ak0233uxhu7d,2023-03-25T01:01:35.178Z,"3 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -247,17 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T14:13:31.870Z,33.1768333,-116.4298333,0.4,1.29,ml,27,77,0.09174,0.39,ci,ci40189311,2023-03-24T14:17:14.076Z,"10km SSW of Borrego Springs, CA",earthquake,0.63,31.61,0.168,27,automatic,ci,ci
 2023-03-24T14:11:29.300Z,33.1823333,-116.4096667,11.53,1.78,ml,55,31,0.08586,0.21,ci,ci40189303,2023-03-24T14:22:57.630Z,"9km SSW of Borrego Springs, CA",earthquake,0.24,0.74,0.166,26,automatic,ci,ci
 2023-03-24T14:09:55.710Z,33.1855,-116.4006667,10.96,0.84,ml,13,84,0.08363,0.17,ci,ci40189295,2023-03-24T14:13:26.049Z,"8km SSW of Borrego Springs, CA",earthquake,0.48,0.64,0.144,8,automatic,ci,ci
-2023-03-24T14:08:20.710Z,33.185,-116.4071667,11.26,1.11,ml,24,65,0.0834,0.18,ci,ci40189287,2023-03-24T14:11:53.041Z,"8km SSW of Borrego Springs, CA",earthquake,0.3,0.48,0.129,13,automatic,ci,ci
-2023-03-24T14:07:40.750Z,33.1826667,-116.4103333,7.12,1.85,ml,52,23,0.08549,0.28,ci,ci40189279,2023-03-24T14:18:45.880Z,"9km SSW of Borrego Springs, CA",earthquake,0.31,0.98,0.154,25,automatic,ci,ci
-2023-03-24T14:05:14.180Z,33.186,-116.4145,11.62,1.11,ml,24,65,0.08201,0.2,ci,ci40189271,2023-03-24T14:08:51.953Z,"9km SSW of Borrego Springs, CA",earthquake,0.39,0.83,0.063,19,automatic,ci,ci
-2023-03-24T14:04:24.260Z,33.1778333,-116.4053333,8.73,1.07,ml,26,63,0.09067,0.26,ci,ci40189263,2023-03-24T14:08:02.529Z,"9km SSW of Borrego Springs, CA",earthquake,0.41,1.34,0.119,28,automatic,ci,ci
-2023-03-24T14:03:43.010Z,51.848,-178.088333333333,5.05,0.38,ml,3,229,,0.04,av,av91817726,2023-03-24T23:55:22.280Z,"100 km W of Adak, Alaska",earthquake,0.49,0.89,0.393101410311997,3,reviewed,av,av
-2023-03-24T14:02:22.700Z,33.1861667,-116.3911667,10.25,1.18,ml,21,137,0.08466,0.18,ci,ci40189255,2023-03-24T14:05:57.015Z,"8km S of Borrego Springs, CA",earthquake,0.46,0.87,0.126,28,automatic,ci,ci
-2023-03-24T14:01:49.440Z,17.9478333333333,-66.9578333333333,7.44,2.34,md,3,215,0.07954,0.02,pr,pr71401388,2023-03-24T14:31:35.750Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.72,0.87,0.041746143950729,3,reviewed,pr,pr
-2023-03-24T14:01:26.840Z,19.22483253479,-155.387329101562,29.5400009155273,2.52999997,md,26,166,,0.119999997,hv,hv73348152,2023-03-24T14:04:42.250Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,0.970000029,1.00999999,3,automatic,hv,hv
-2023-03-24T14:01:21.502Z,13.6784,-90.5296,57.001,4.2,mb,35,199,0.762,0.88,us,us7000jmfv,2023-03-25T04:28:42.040Z,"34 km SE of Iztapa, Guatemala",earthquake,8.34,11.206,0.113,22,reviewed,us,us
-2023-03-24T14:00:38.480Z,33.1863333,-116.4043333,11.05,1.36,ml,40,45,0.08235,0.21,ci,ci40189247,2023-03-24T14:11:31.570Z,"8km SSW of Borrego Springs, CA",earthquake,0.31,0.52,0.163,26,automatic,ci,ci
-2023-03-24T13:59:51.210Z,33.1828333,-116.4011667,10.97,1.49,ml,31,44,0.08619,0.21,ci,ci40189239,2023-03-24T14:03:28.845Z,"8km SSW of Borrego Springs, CA",earthquake,0.35,0.62,0.144,28,automatic,ci,ci
-2023-03-24T13:59:48.700Z,33.1816673,-116.4089966,11.26,1.58,ml,29,69,0.08657,0.22,ci,ci40189231,2023-03-24T14:01:53.270Z,"9km SSW of Borrego Springs, CA",earthquake,0.34,0.69,0.296,14,automatic,ci,ci
-2023-03-24T13:59:00.230Z,33.1806667,-116.4141667,11.02,2.31,ml,66,22,0.08733,0.21,ci,ci40189223,2023-03-24T14:31:29.598Z,"9km SSW of Borrego Springs, CA",earthquake,0.21,0.51,0.171,26,automatic,ci,ci
-2023-03-24T13:57:56.910Z,33.18,-116.4118333,10.78,1.03,ml,25,81,0.08808,0.2,ci,ci40189215,2023-03-24T14:01:32.086Z,"9km SSW of Borrego Springs, CA",earthquake,0.33,0.59,0.134,19,automatic,ci,ci
