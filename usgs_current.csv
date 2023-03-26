@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T21:44:21.810Z,36.6800003,-121.3550034,1.13,1.87,md,15,83,0.02824,0.09,nc,nc73862700,2023-03-26T21:57:11.268Z,"13km SSW of Tres Pinos, CA",earthquake,0.3,0.83,0.17,17,automatic,nc,nc
+2023-03-26T22:06:40.110Z,35.7288322,-121.1026688,6.83,1.56,md,14,102,0.06229,0.05,nc,nc73862705,2023-03-26T22:08:19.406Z,"12km NE of San Simeon, CA",earthquake,0.28,0.62,0.05,12,automatic,nc,nc
+2023-03-26T22:04:20.573Z,63.5239,-150.0721,141.3,1.4,ml,,,,0.23,ak,ak0233wxsxqh,2023-03-26T22:06:16.232Z,"57 km WNW of Cantwell, Alaska",earthquake,,3.6,,,automatic,ak,ak
+2023-03-26T21:44:21.810Z,36.6800003,-121.3550034,1.13,1.87,md,15,83,0.02824,0.09,nc,nc73862700,2023-03-26T22:00:13.285Z,"13km SSW of Tres Pinos, CA",earthquake,0.3,0.83,0.17,17,automatic,nc,nc
 2023-03-26T21:35:48.757Z,37.4641,-116.9768,3.5,0.8,ml,9,169.32,0.379,0.2688,nn,nn00857516,2023-03-26T21:37:00.864Z,"35 km SE of Goldfield, Nevada",earthquake,,14.5,1.12,5,automatic,nn,nn
 2023-03-26T21:07:13.162Z,62.1952,-145.6438,27.9,1.1,ml,,,,0.63,ak,ak0233wx84pg,2023-03-26T21:09:30.338Z,"10 km NNW of Glennallen, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-26T21:06:43.730Z,33.5843333,-116.8235,12.59,2,ml,62,24,0.04986,0.19,ci,ci40190327,2023-03-26T21:17:51.630Z,"14km WNW of Anza, CA",earthquake,0.19,0.39,0.232,26,automatic,ci,ci
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T20:43:46.100Z,19.3605003356934,-155.289001464844,29.6499996185303,1.88,md,33,54,,0.159999996,hv,hv73349877,2023-03-26T20:47:02.510Z,"10 km SSW of Volcano, Hawaii",earthquake,0.66,1.02999997,0.939999998,8,automatic,hv,hv
 2023-03-26T20:36:29.000Z,18.8859996795654,-155.196502685547,6.40000009536743,3.33,ml,38,258,,0.209999993,hv,hv73349872,2023-03-26T20:56:20.149Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.65,0.540000021,1.96,22,automatic,hv,hv
 2023-03-26T20:21:05.640Z,19.1636657714844,-155.47200012207,30.3899993896484,1.83000004,md,31,163,,0.100000001,hv,hv73349852,2023-03-26T20:24:13.200Z,"Island of Hawaii, Hawaii",earthquake,0.72,1.21000004,1.55999994,10,automatic,hv,hv
-2023-03-26T20:19:30.426Z,62.1462,-145.6536,21,1.6,ml,,,,0.97,ak,ak0233wwpb0y,2023-03-26T20:21:45.935Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-26T20:19:30.426Z,62.1462,-145.6536,21,1.6,ml,,,,0.97,ak,ak0233wwpb0y,2023-03-26T20:21:45.935Z,"6 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T20:12:39.570Z,35.4548333,-118.281,3.61,1.14,ml,12,123,0.1408,0.21,ci,ci40190303,2023-03-26T20:16:16.148Z,"24km SE of Bodfish, CA",earthquake,0.49,1.77,0.153,13,automatic,ci,ci
 2023-03-26T20:10:47.617Z,60.7991,-150.9558,45.6,1.6,ml,,,,0.47,ak,ak0233wwnewp,2023-03-26T20:12:48.294Z,"20 km SW of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-26T19:50:12.790Z,37.4696655,-119.0063324,3.3,1.68,md,9,207,0.1596,0.15,nc,nc73862685,2023-03-26T21:19:11.053Z,"19km S of Mammoth Lakes, CA",earthquake,2.2,13.26,0.11,7,automatic,nc,nc
@@ -189,8 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T00:39:52.628Z,-22.4089,-66.2018,267.943,4.6,mb,60,76,1.904,0.65,us,us7000jmrn,2023-03-26T01:01:46.040Z,"62 km WNW of Abra Pampa, Argentina",earthquake,7.38,7.957,0.06,82,reviewed,us,us
 2023-03-26T00:37:17.939Z,62.0372,-147.6931,29.8,1.7,ml,,,,0.64,ak,ak0233wkwgup,2023-03-26T00:39:53.736Z,"25 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T00:24:49.190Z,56.8575,-158.0895,-3.2,0.92,ml,4,261,,0.23,av,av91819336,2023-03-26T02:14:02.940Z,"34 km ESE of Port Heiden, Alaska",earthquake,1.77,1.26,0.152495495588834,6,reviewed,av,av
-2023-03-26T00:17:26.720Z,18.4495,-68.3726,140,4.16,md,21,222,0.065,0.07,pr,pr2023085000,2023-03-26T01:42:20.508Z,"15 km SSE of Punta Cana, Dominican Republic",earthquake,9.98,1.23,0.16,15,reviewed,pr,pr
-2023-03-26T00:17:22.678Z,17.4526,-68.7578,10,3.8,ml,15,237,1.115,0.66,us,us7000jmrj,2023-03-26T00:28:21.040Z,"103 km S of Boca de Yuma, Dominican Republic",earthquake,2.85,2.002,0.064,32,reviewed,us,us
+2023-03-26T00:17:26.720Z,18.4495,-68.3726,140,4.16,md,21,222,0.065,0.07,pr,pr2023085000,2023-03-26T22:03:29.040Z,"15 km SSE of Punta Cana, Dominican Republic",earthquake,9.98,1.23,0.16,15,reviewed,pr,pr
 2023-03-26T00:02:43.956Z,-21.0284,-68.6124,105.24,5.4,mww,100,32,0.817,1.22,us,us7000jmrf,2023-03-26T04:10:29.820Z,"161 km NNE of Calama, Chile",earthquake,5.6,4.676,0.046,46,reviewed,us,us
 2023-03-26T00:02:16.800Z,38.855835,-122.8125,0.19,0.39,md,8,112,0.008552,0.01,nc,nc73862255,2023-03-26T00:22:14.830Z,"9km WNW of Cobb, CA",earthquake,0.24,0.89,0.3,9,automatic,nc,nc
 2023-03-26T00:01:04.972Z,64.0724,-149.6253,14.3,1.3,ml,,,,0.39,ak,ak0233wkoq2p,2023-03-26T00:02:52.793Z,"25 km WNW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T22:21:40.229Z,63.1514,-144.4132,2.9,1.8,ml,,,,0.9,ak,ak0233vad9xi,2023-03-25T22:23:26.729Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T22:21:14.420Z,18.0208333333333,-66.9423333333333,3.56,1.77,md,4,176,0.07534,0.08,pr,pr71401533,2023-03-25T22:53:38.650Z,"2 km S of Liborio Negron Torres, Puerto Rico",earthquake,1.24,1.39,0.132281733884868,3,reviewed,pr,pr
 2023-03-25T22:20:07.380Z,17.9225,-66.9768333333333,12,2.32,md,5,236,0.07933,0.12,pr,pr71401528,2023-03-25T22:39:21.870Z,"9 km SW of Guánica, Puerto Rico",earthquake,1.1,0.48,0.184524537625863,4,reviewed,pr,pr
-2023-03-25T22:00:23.820Z,38.8338318,-122.80233,2.44,0.87,md,11,67,0.01205,0.01,nc,nc73862220,2023-03-25T22:39:13.232Z,"7km W of Cobb, CA",earthquake,0.4,0.97,0.24,11,automatic,nc,nc
-2023-03-25T22:00:11.285Z,58.2651,-154.9323,1.2,1,ml,,,,0.23,ak,ak0233va8pns,2023-03-26T02:48:14.140Z,"82 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
