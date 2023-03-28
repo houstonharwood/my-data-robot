@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-28T04:19:09.763Z,-0.3689,123.5521,70.503,5,mww,75,42,1.027,1.41,us,us6000k08q,2023-03-28T04:38:57.040Z,"Sulawesi, Indonesia",earthquake,7.11,6.736,0.078,16,reviewed,us,us
-2023-03-28T04:12:00.570Z,19.0316666666667,-67.1503333333333,8.29,3.3,md,14,279,0.5624,0.34,pr,pr71401848,2023-03-28T04:33:29.580Z,"59 km N of San Antonio, Puerto Rico",earthquake,1.43,1.78,0.118450995611397,9,reviewed,pr,pr
-2023-03-28T04:05:00.070Z,39.411499,-123.3365021,4.86,2.54,md,17,82,0.05742,0.08,nc,nc73863345,2023-03-28T04:36:04.562Z,"2km E of Willits, CA",earthquake,0.3,1.18,0.09,17,automatic,nc,nc
+2023-03-28T04:12:00.570Z,19.0316666666667,-67.1503333333333,8.29,3.3,md,14,279,0.5624,0.34,pr,pr71401848,2023-03-28T04:41:31.923Z,"59 km N of San Antonio, Puerto Rico",earthquake,1.43,1.78,0.118450995611397,9,reviewed,pr,pr
+2023-03-28T04:05:00.070Z,39.411499,-123.3365021,4.86,2.54,md,17,82,0.05742,0.08,nc,nc73863345,2023-03-28T04:41:14.281Z,"2km E of Willits, CA",earthquake,0.3,1.18,0.09,17,automatic,nc,nc
 2023-03-28T04:03:24.145Z,61.5069,-147.992,19.5,1.1,ml,,,,0.52,ak,ak0233zy5me6,2023-03-28T04:05:13.702Z,"38 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-28T03:58:07.960Z,38.8325005,-122.8178329,2.34,1.2,md,24,55,0.01093,0.04,nc,nc73863335,2023-03-28T04:18:11.390Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.13,26,automatic,nc,nc
 2023-03-28T03:40:27.802Z,62.0194,-148.2981,42,0.8,ml,,,,0.43,ak,ak0233zxs4kc,2023-03-28T03:42:16.815Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T16:46:50.970Z,58.2573333333333,-155.109666666667,3.9,-0.3,ml,10,90,,0.08,av,av91821826,2023-03-28T03:51:16.660Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.52,0.164363699350914,10,reviewed,av,av
 2023-03-27T16:45:15.070Z,53.8755,-166.572833333333,5.09,0.85,ml,13,112,,0.11,av,av91821821,2023-03-28T03:48:39.890Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.3,0.61,0.255892865294662,12,reviewed,av,av
 2023-03-27T16:43:08.990Z,53.87,-166.573666666667,4.94,0.46,ml,7,119,,0.05,av,av91821816,2023-03-28T03:43:43.090Z,"2 km W of Unalaska, Alaska",earthquake,0.31,0.58,0.142295626991713,7,reviewed,av,av
-2023-03-27T16:31:20.401Z,14.0666,-90.9464,101.368,4.3,mb,74,128,0.635,0.91,us,us7000jn1g,2023-03-27T17:14:04.317Z,"11 km E of La Gomera, Guatemala",earthquake,8.19,3.363,0.075,50,reviewed,us,us
+2023-03-27T16:31:20.401Z,14.0666,-90.9464,101.368,4.3,mb,74,128,0.635,0.91,us,us7000jn1g,2023-03-28T04:40:28.842Z,"11 km E of La Gomera, Guatemala",earthquake,8.19,3.363,0.075,50,reviewed,us,us
 2023-03-27T16:30:09.690Z,33.7791667,-116.0456667,9.91,1.14,ml,21,115,0.1309,0.19,ci,ci40190527,2023-03-27T16:33:49.048Z,"16km NE of Coachella, CA",earthquake,0.35,0.89,0.176,24,automatic,ci,ci
 2023-03-27T16:30:05.071Z,63.1444,-150.4412,106.7,1.6,ml,,,,0.2,ak,ak0233yhx80r,2023-03-27T16:31:53.362Z,"74 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-27T16:26:06.360Z,36.028,-117.8395,-0.41,2,ml,20,94,0.09026,0.21,ci,ci40190519,2023-03-27T16:29:41.389Z,"10km E of Coso Junction, CA",earthquake,0.45,31.61,0.151,25,automatic,ci,ci
@@ -200,6 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T10:52:16.370Z,58.2308333333333,-155.095,14.62,-0.48,ml,11,94,,0.09,av,av91821371,2023-03-28T00:57:31.710Z,"82 km NNW of Karluk, Alaska",earthquake,0.39,0.43,0.282658683339442,11,reviewed,av,av
 2023-03-27T10:35:00.689Z,62.1762,-152.0525,100.5,1.4,ml,,,,1.06,ak,ak0233yedoms,2023-03-27T10:36:43.180Z,"39 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-27T10:33:51.570Z,34.4988333333333,-81.0568333333333,4.52,1.37,md,5,122,0.2739,0.44,se,se60500548,2023-03-27T17:15:07.446Z,"13 km NNE of Winnsboro, South Carolina",earthquake,11.11,9.47,0.0800945647625932,5,reviewed,se,se
+2023-03-27T10:25:38.910Z,38.8253333,-122.8461667,2.3,0.28,md,23,79,0.008649,0.05,nc,nc73862970,2023-03-28T04:45:50.656Z,"9km NW of The Geysers, CA",earthquake,0.22,0.36,0.263,21,reviewed,nc,nc
 2023-03-27T10:20:08.971Z,60.3491,-143.4918,1.2,2.5,ml,,,,0.67,ak,ak0233yeahke,2023-03-27T10:21:59.465Z,"124 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T10:14:20.440Z,51.8353333333333,-177.990833333333,-1.8,1.47,ml,5,124,,0.21,av,av91821346,2023-03-27T20:02:53.550Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.43,1.49,0.186117860479863,5,reviewed,av,av
 2023-03-27T10:07:05.239Z,62.0702,-150.3187,34.5,1.5,ml,,,,0.54,ak,ak0233ye7oxn,2023-03-27T10:14:46.985Z,"26 km WSW of Susitna North, Alaska",earthquake,,3.7,,,automatic,ak,ak
@@ -244,6 +245,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T07:20:50.760Z,18.005,-66.875,9.69,2.24,md,6,146,0.03006,0.14,pr,pr71401723,2023-03-27T07:39:01.190Z,"0 km S of Palomas, Puerto Rico",earthquake,3.62,2.05,0.162858242470702,4,reviewed,pr,pr
 2023-03-27T07:20:02.540Z,35.6646667,-117.4876667,5.39,1.31,ml,15,78,0.08071,0.17,ci,ci40190447,2023-03-27T07:23:44.230Z,"14km SSW of Searles Valley, CA",earthquake,0.44,1.48,0.141,12,automatic,ci,ci
 2023-03-27T07:07:14.085Z,57.7493,-157.4048,29.5,1.6,ml,,,,0.71,ak,ak0233ycfesw,2023-03-27T23:19:23.200Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
+2023-03-27T07:06:44.020Z,38.787,-122.7455,1.94,0.39,md,18,83,0.00782,0.02,nc,nc73862905,2023-03-28T04:41:49.263Z,"1km NE of The Geysers, CA",earthquake,0.23,0.45,0.229,15,reviewed,nc,nc
 2023-03-27T06:51:09.281Z,39.486,-118.141,7.4,-0.4,ml,3,192.07,0.177,0.1505,nn,nn00857556,2023-03-28T02:03:55.477Z,"50 km E of Fallon Station, Nevada",earthquake,,8.1,0,1,reviewed,nn,nn
 2023-03-27T06:48:32.511Z,62.2013,-149.3673,34.8,1.2,ml,,,,0.5,ak,ak0233yc2sz7,2023-03-27T06:50:46.977Z,"25 km E of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-03-27T06:40:32.491Z,63.2627,-149.3466,74.7,1.3,ml,,,,0.35,ak,ak0233yc138x,2023-03-27T06:42:26.054Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -266,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T04:49:35.340Z,51.8496666666667,-178.0365,0.11,1.07,ml,4,135,,0.18,av,av91821031,2023-03-27T22:48:18.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.61,31.61,0.156842687878281,4,reviewed,av,av
 2023-03-27T04:48:29.537Z,61.0771,-148.4409,15.2,1.4,ml,,,,0.64,ak,ak0233yavxjd,2023-03-27T04:50:36.796Z,"36 km NNE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T04:47:35.905Z,61.6517,-152.1716,116.6,1.7,ml,,,,0.45,ak,ak0233yavqba,2023-03-27T04:49:28.581Z,"55 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-03-27T04:45:03.820Z,35.8195,-117.6358333,13.7,1.17,ml,12,158,0.1055,0.22,ci,ci40190431,2023-03-27T04:48:31.081Z,"22km WNW of Searles Valley, CA",earthquake,0.79,1.24,0.082,8,automatic,ci,ci
