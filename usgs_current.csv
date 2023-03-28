@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-28T03:40:27.802Z,62.0194,-148.2981,42,0.8,ml,,,,0.43,ak,ak0233zxs4kc,2023-03-28T03:42:16.815Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-28T03:37:57.130Z,38.8320007,-122.8153305,1.55,1.09,md,21,51,0.009524,0.02,nc,nc73863330,2023-03-28T03:39:35.126Z,"8km NW of The Geysers, CA",earthquake,0.21,0.45,0.2,22,automatic,nc,nc
 2023-03-28T03:32:40.170Z,19.1728324890137,-155.494338989258,32.5999984741211,1.98000002,md,31,154,,0.129999995,hv,hv73350957,2023-03-28T03:35:57.210Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.72,0.879999995,0.930000007,11,automatic,hv,hv
 2023-03-28T03:26:29.170Z,19.3893337249756,-155.27099609375,27.7099990844727,2.08,ml,35,43,,0.129999995,hv,hv73350952,2023-03-28T03:31:59.710Z,"7 km SSW of Volcano, Hawaii",earthquake,0.51,0.610000014,0.57,5,automatic,hv,hv
+2023-03-28T03:17:00.818Z,-17.871,167.4196,10,4.7,mb,26,55,2.419,0.66,us,us6000k08j,2023-03-28T03:43:10.040Z,"95 km W of Port-Vila, Vanuatu",earthquake,3.43,1.901,0.117,22,reviewed,us,us
 2023-03-28T03:08:05.030Z,38.7453346,-122.6963348,1.4,1.3,md,9,144,0.02292,0.02,nc,nc73863325,2023-03-28T03:21:11.040Z,"3km S of Anderson Springs, CA",earthquake,0.43,0.77,0.35,8,automatic,nc,nc
 2023-03-28T02:49:28.450Z,19.1773338317871,-155.47883605957,34.439998626709,2.02999997,md,35,79,,0.119999997,hv,hv73350927,2023-03-28T02:52:44.570Z,"Island of Hawaii, Hawaii",earthquake,0.6,0.939999998,1.75999999,14,automatic,hv,hv
 2023-03-28T02:26:28.730Z,40.2906685,-124.3684998,19.43,3.25,ml,13,240,0.07158,0.09,nc,nc73863320,2023-03-28T03:29:19.215Z,"8km WSW of Petrolia, CA",earthquake,1.54,0.43,0.353,8,automatic,nc,nc
@@ -80,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T18:43:36.110Z,51.8541666666667,-178.090833333333,4.25,1.15,ml,5,213,,0.21,av,av91821931,2023-03-27T19:28:53.120Z,"100 km W of Adak, Alaska",earthquake,0.96,1.25,0.207762785967653,5,reviewed,av,av
 2023-03-27T18:39:36.440Z,58.255,-155.1222,0,0.8,ml,,,,0.17,ak,ak0233yj633g,2023-03-27T18:41:14.489Z,"Alaska Peninsula",earthquake,,18.4,,,automatic,ak,ak
 2023-03-27T18:29:11.010Z,36.777668,-121.2893295,9.19,1.85,md,23,166,0.07629,0.07,nc,nc73863125,2023-03-27T21:26:14.732Z,"3km ESE of Tres Pinos, CA",earthquake,0.34,0.45,0.13,20,automatic,nc,nc
-2023-03-27T18:20:36.153Z,-0.7264,29.3364,16.059,4.9,mb,33,70,1.407,1,us,us6000k03l,2023-03-28T03:15:26.029Z,"38 km WNW of Ntungamo, Uganda",earthquake,6.84,4.441,0.096,34,reviewed,us,us
+2023-03-27T18:20:36.153Z,-0.7264,29.3364,16.059,4.9,mb,33,70,1.407,1,us,us6000k03l,2023-03-28T03:40:41.199Z,"38 km WNW of Ntungamo, Uganda",earthquake,6.84,4.441,0.096,34,reviewed,us,us
 2023-03-27T18:09:11.850Z,38.7818336,-122.7645035,0.77,0.93,md,8,98,0.01114,0.02,nc,nc73863115,2023-03-27T18:50:15.703Z,"1km NW of The Geysers, CA",earthquake,0.32,0.8,0.11,8,automatic,nc,nc
 2023-03-27T17:51:41.669Z,60.2562,-150.6594,24.1,1.3,ml,,,,0.31,ak,ak0233yin8hi,2023-03-27T17:53:41.668Z,"27 km SSE of Funny River, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-03-27T17:44:25.150Z,17.9346666666667,-67.0963333333333,10.31,2.36,md,6,272,0.06046,0.1,pr,pr71401773,2023-03-27T17:54:45.960Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.92,0.45,0.0533533510369821,5,reviewed,pr,pr
@@ -99,6 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T16:59:34.992Z,62.5559,-152.4805,0,1.6,ml,,,,0.79,ak,ak0233yi3i3f,2023-03-27T17:01:55.837Z,"84 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-27T16:57:52.160Z,19.367,-155.0245,7.9,2.11,ml,15,160,,0.1,hv,hv73350577,2023-03-27T22:24:28.050Z,"15 km SSE of Eden Roc, Hawaii",earthquake,0.57,0.89,0.17507246841802,10,reviewed,hv,hv
 2023-03-27T16:49:07.520Z,51.8511666666667,-178.077166666667,2.89,1.75,ml,5,207,,0.14,av,av91821831,2023-03-27T19:48:05.320Z,"99 km W of Adak, Alaska",earthquake,0.6,0.87,0.252518724923501,5,reviewed,av,av
+2023-03-27T16:43:08.990Z,53.87,-166.573666666667,4.94,0.46,ml,7,119,,0.05,av,av91821816,2023-03-28T03:43:43.090Z,"2 km W of Unalaska, Alaska",earthquake,0.31,0.58,0.142295626991713,7,reviewed,av,av
 2023-03-27T16:31:20.401Z,14.0666,-90.9464,101.368,4.3,mb,74,128,0.635,0.91,us,us7000jn1g,2023-03-27T17:14:04.317Z,"11 km E of La Gomera, Guatemala",earthquake,8.19,3.363,0.075,50,reviewed,us,us
 2023-03-27T16:30:09.690Z,33.7791667,-116.0456667,9.91,1.14,ml,21,115,0.1309,0.19,ci,ci40190527,2023-03-27T16:33:49.048Z,"16km NE of Coachella, CA",earthquake,0.35,0.89,0.176,24,automatic,ci,ci
 2023-03-27T16:30:05.071Z,63.1444,-150.4412,106.7,1.6,ml,,,,0.2,ak,ak0233yhx80r,2023-03-27T16:31:53.362Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -107,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T16:23:21.150Z,37.5126667,-117.9775,6.31,2.02,md,18,201,0.3104,0.07,nc,nc73863060,2023-03-28T02:03:42.661Z,"16km N of Deep Springs, CA",earthquake,0.56,4.32,0.198,18,reviewed,nc,nc
 2023-03-27T16:21:20.216Z,-44.0814,-81.8608,10,4.7,mb,36,154,7.227,0.83,us,us7000jn1d,2023-03-27T16:52:40.040Z,"West Chile Rise",earthquake,5.53,1.926,0.106,27,reviewed,us,us
 2023-03-27T16:19:26.860Z,53.875,-166.566333333333,4.5,0.66,ml,13,110,,0.08,av,av91821796,2023-03-27T19:40:59.310Z,"2 km W of Unalaska, Alaska",earthquake,0.26,0.59,0.18143683838836,12,reviewed,av,av
+2023-03-27T16:13:29.210Z,53.8671666666667,-166.571,3.87,0.1,ml,5,151,,0.09,av,av91821791,2023-03-28T03:40:31.290Z,"2 km WSW of Unalaska, Alaska",earthquake,0.41,0.96,,1,reviewed,av,av
 2023-03-27T16:05:09.550Z,53.8723333333333,-166.564666666667,6,1.45,ml,19,113,,0.13,av,av91821786,2023-03-28T03:37:25.490Z,"2 km W of Unalaska, Alaska",earthquake,0.32,0.45,0.193218681153485,20,reviewed,av,av
 2023-03-27T16:02:03.280Z,53.8566666666667,-166.5805,1.45,-0.18,ml,5,141,,0.17,av,av91821771,2023-03-28T03:32:13.960Z,"3 km WSW of Unalaska, Alaska",earthquake,0.52,3.29,0.0968080890014109,4,reviewed,av,av
 2023-03-27T15:56:35.898Z,58.2567,-155.1032,1.2,0.9,ml,,,,0.33,ak,ak0233yhhfet,2023-03-28T03:29:25.950Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
