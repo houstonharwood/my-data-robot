@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T23:05:17.214Z,60.7237,-143.842,20.1,0.5,ml,,,,0.91,ak,ak02341x0w4h,2023-03-29T23:17:37.567Z,"93 km SSW of McCarthy, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-03-29T23:04:28.121Z,58.938,-138.1105,0,3.3,ml,,,,0.97,ak,ak02341x0fe2,2023-03-29T23:11:40.040Z,"114 km SE of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-29T22:57:23.817Z,49.8805,89.8172,10,4.4,mb,34,87,5.114,0.56,us,us6000k0rp,2023-03-29T23:30:40.040Z,"19 km SSW of Kyzyl-Khaya, Russia",earthquake,8.79,1.933,0.105,26,reviewed,us,us
+2023-03-29T22:51:45.870Z,38.7791667,-122.7428333,0.73,0.49,md,17,72,0.00627,0.03,nc,nc73864180,2023-03-29T23:44:28.658Z,"1km E of The Geysers, CA",earthquake,0.18,0.27,0.245,10,reviewed,nc,nc
 2023-03-29T22:50:07.280Z,44.5246667,-110.38,2.1,0.65,md,8,121,0.03871,0.09,uu,uu60535836,2023-03-29T22:55:08.430Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.26,6.99,0.3,6,reviewed,uu,uu
 2023-03-29T22:44:03.770Z,38.8144989,-122.8148346,2.75,0.73,md,15,84,0.00963,0.02,nc,nc73864175,2023-03-29T22:45:38.842Z,"6km NW of The Geysers, CA",earthquake,0.29,0.85,0.14,15,automatic,nc,nc
 2023-03-29T22:43:56.910Z,38.8143349,-122.814003,2.89,0.6,md,9,175,0.009553,0.01,nc,nc73864170,2023-03-29T22:45:33.754Z,"6km NW of The Geysers, CA",earthquake,0.53,1.6,0.38,10,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T22:36:09.650Z,37.5996667,-122.4385,6.67,1.64,md,38,67,0.02274,0.06,nc,nc73864165,2023-03-29T23:42:24.155Z,"4km SW of San Bruno, CA",earthquake,0.12,0.22,0.214,26,reviewed,nc,nc
 2023-03-29T22:30:16.036Z,60.7099,-151.9569,88.1,1.2,ml,,,,0.22,ak,ak02341wkjhf,2023-03-29T22:31:55.997Z,"36 km WNW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-29T22:27:10.460Z,44.7748333,-110.8713333,1.85,0.53,md,6,146,0.02006,0.04,uu,uu60535816,2023-03-29T22:41:08.640Z,"22 km NE of West Yellowstone, Montana",earthquake,1.78,0.91,0.304,6,reviewed,uu,uu
-2023-03-29T22:17:47.370Z,38.8148333,-122.8073333,2.07,0.96,md,37,42,0.008813,0.04,nc,nc73864155,2023-03-29T23:24:16.090Z,"6km NW of The Geysers, CA",earthquake,0.12,0.22,0.204,29,reviewed,nc,nc
+2023-03-29T22:17:47.370Z,38.8148333,-122.8073333,2.07,0.96,md,37,42,0.008813,0.04,nc,nc73864155,2023-03-29T23:44:10.945Z,"6km NW of The Geysers, CA",earthquake,0.12,0.22,0.204,29,reviewed,nc,nc
 2023-03-29T22:13:52.880Z,39.2233333,-111.0358333,13.28,1.35,md,4,166,0.1524,0.05,uu,uu60535796,2023-03-29T22:25:42.530Z,"1 km ESE of Orangeville, Utah",earthquake,0.51,2.06,0.148,4,reviewed,uu,uu
 2023-03-29T22:07:37.989Z,60.3198,-152.0732,90.3,1.2,ml,,,,0.16,ak,ak02341wfnpi,2023-03-29T22:09:18.499Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-29T22:05:38.460Z,38.8318329,-122.7991638,1.41,0.7,md,13,74,0.009517,0.01,nc,nc73864150,2023-03-29T22:28:17.508Z,"7km W of Cobb, CA",earthquake,0.26,0.7,0.21,13,automatic,nc,nc
@@ -364,8 +365,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T00:08:52.430Z,65.2399,-151.0197,16.4,0.3,ml,,,,1.07,ak,ak02341jccir,2023-03-29T03:30:06.951Z,"northern Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-03-29T00:06:24.590Z,58.2465,-155.147,2.43,-0.24,ml,9,85,,0.09,av,av91823571,2023-03-29T21:28:37.770Z,"85 km NNW of Karluk, Alaska",earthquake,0.23,0.39,0.167254936868798,10,reviewed,av,av
 2023-03-28T23:53:11.300Z,37.2916667,-112.862,19.87,1.4,ml,8,103,0.2196,0.11,uu,uu60535301,2023-03-29T15:40:37.620Z,"Utah",earthquake,0.66,1.56,0.305,3,reviewed,uu,uu
-2023-03-28T23:50:48.593Z,57.9611,-153.8543,30.6,2.1,ml,,,,0.4,ak,ak023409qzff,2023-03-28T23:52:56.548Z,"Kodiak Island region, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-03-28T23:50:27.009Z,41.541,-118.7352,8.6,1.9,ml,3,203.05,0.896,0.1132,nn,nn00857603,2023-03-29T00:12:55.439Z,"Nevada",earthquake,,33.6,0.2,2,reviewed,nn,nn
-2023-03-28T23:48:45.970Z,36.3179,139.4924,133.912,4.1,mb,19,149,1.059,0.41,us,us6000k0ga,2023-03-29T00:06:50.040Z,"4 km ESE of Ashikaga, Japan",earthquake,7.66,6.358,0.234,5,reviewed,us,us
-2023-03-28T23:47:23.640Z,62.3398,-150.1983,24.5,1.3,ml,,,,0.47,ak,ak023409qacs,2023-03-28T23:49:21.091Z,"3 km NNE of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-28T23:47:08.120Z,37.2785,-121.6426667,9.08,1.03,md,24,79,0.03114,0.07,nc,nc73863745,2023-03-29T03:36:10.770Z,"16km N of Morgan Hill, CA",earthquake,0.21,0.37,0.125,17,reviewed,nc,nc
