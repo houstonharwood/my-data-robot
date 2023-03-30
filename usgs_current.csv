@@ -155,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T15:36:35.460Z,44.5306667,-110.355,3.38,1.37,md,8,75,0.04447,0.1,uu,uu60535601,2023-03-29T16:12:20.140Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.32,1,0.328,6,reviewed,uu,uu
 2023-03-29T15:28:54.850Z,38.8406677,-122.8241653,1.7,0.21,md,11,93,0.009082,0.01,nc,nc73864040,2023-03-29T16:24:17.300Z,"9km WNW of Cobb, CA",earthquake,0.38,0.76,0.07,12,automatic,nc,nc
 2023-03-29T15:26:53.354Z,62.9894,-150.4852,11.2,1.1,ml,,,,0.36,ak,ak02341sdq9j,2023-03-29T15:28:46.944Z,"56 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-29T15:22:27.270Z,44.5251667,-110.3638333,3.3,1.06,md,9,72,0.04419,0.16,uu,uu60535596,2023-03-29T16:11:16.840Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.38,1.44,0.347,6,reviewed,uu,uu
+2023-03-29T15:22:27.270Z,44.5251667,-110.3638333,3.3,1.06,md,9,72,0.04419,0.16,uu,uu60535596,2023-03-29T16:11:16.840Z,"Yellowstone National Park, Wyoming",earthquake,0.38,1.44,0.347,6,reviewed,uu,uu
 2023-03-29T15:21:53.280Z,38.8356667,-122.8188324,1.39,0.22,md,9,76,0.01333,0.01,nc,nc73864035,2023-03-29T16:13:14.228Z,"8km W of Cobb, CA",earthquake,0.38,1.15,0.14,10,automatic,nc,nc
 2023-03-29T15:21:27.230Z,38.8243332,-122.7994995,2.75,1.16,md,21,52,0.008313,0.01,nc,nc73864030,2023-03-29T19:24:16.480Z,"6km NW of The Geysers, CA",earthquake,0.23,0.55,0.15,22,automatic,nc,nc
 2023-03-29T15:15:11.822Z,40.1957,-119.8154,3.2,0.7,ml,3,240.02,0.069,0.0326,nn,nn00857615,2023-03-29T17:24:39.699Z,"27 km ENE of Herlong, California",earthquake,,15,0.22,2,reviewed,nn,nn
@@ -310,7 +310,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T08:25:13.890Z,32.8771667,-115.4865,6.29,1.52,ml,14,86,0.04518,0.23,ci,ci37520284,2023-03-29T16:20:23.597Z,"8km ENE of Imperial, CA",earthquake,0.56,1.07,0.204,10,reviewed,ci,ci
 2023-03-29T08:25:11.090Z,32.8808333,-115.4868333,7.38,1.28,ml,15,86,0.04679,0.15,ci,ci40191135,2023-03-29T16:07:50.493Z,"9km ENE of Imperial, CA",earthquake,0.34,0.41,0.168,9,reviewed,ci,ci
 2023-03-29T08:18:11.580Z,19.4230003356934,-155.273162841797,-0.540000021457672,1.9,ml,16,106,,0.119999997,hv,hv73351972,2023-03-29T08:23:41.830Z,"4 km WSW of Volcano, Hawaii",earthquake,0.18,0.310000002,0.38,6,automatic,hv,hv
-2023-03-29T08:15:03.666Z,62.2728,-149.3306,41.8,1.4,ml,,,,0.4,ak,ak02341o58bi,2023-03-29T08:16:53.129Z,"29 km ENE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-03-29T08:15:03.666Z,62.2728,-149.3306,41.8,1.4,ml,,,,0.4,ak,ak02341o58bi,2023-03-29T08:16:53.129Z,"Central Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-03-29T08:09:20.363Z,36.6575,71.0908,213.364,4.3,mb,22,102,2.592,0.42,us,us6000k0id,2023-03-29T12:30:30.040Z,"Afghanistan-Tajikistan-Pakistan region",earthquake,5.1,9.979,0.238,5,reviewed,us,us
 2023-03-29T08:09:12.507Z,61.3722,-147.5998,22.2,1.6,ml,,,,0.44,ak,ak02341o3ype,2023-03-29T08:10:49.261Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-29T07:54:19.930Z,18.0015,-66.72,13.63,2.02,md,8,192,0.1158,0.12,pr,pr71401978,2023-03-29T08:33:52.590Z,"Puerto Rico region",earthquake,0.53,0.41,0.223605264688755,7,reviewed,pr,pr
@@ -337,6 +337,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T06:51:56.516Z,56.7389,-148.4772,3,2.5,ml,,,,0.82,ak,ak02341n6b7h,2023-03-29T17:00:43.949Z,"249 km ESE of Chiniak, Alaska",earthquake,,3.7,,,reviewed,ak,ak
 2023-03-29T06:47:05.410Z,38.8443336,-122.8255005,1.78,0.72,md,11,107,0.009681,0.01,nc,nc73863860,2023-03-29T08:33:11.448Z,"9km WNW of Cobb, CA",earthquake,0.35,0.7,0.14,11,automatic,nc,nc
 2023-03-29T06:38:58.555Z,-14.041,-74.4411,89.479,4.7,mb,47,137,3.105,0.67,us,us6000k0hu,2023-03-29T23:25:23.780Z,"central Peru",earthquake,10,9.461,0.084,43,reviewed,us,us
+2023-03-29T06:38:07.590Z,51.8423333333333,-178.089333333333,6.76,1.12,ml,3,239,,0.01,av,av91823881,2023-03-30T02:49:50.140Z,"100 km W of Adak, Alaska",earthquake,0.52,0.7,0.259169532086401,3,reviewed,av,av
 2023-03-29T06:29:19.245Z,62.4571,-148.2029,43.8,1.2,ml,,,,0.65,ak,ak02341n1ec4,2023-03-29T06:31:51.779Z,"74 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-29T06:29:08.910Z,17.8973333333333,-67.0641666666667,6.14,2.43,md,4,273,0.07417,0.12,pr,pr71401963,2023-03-29T06:47:27.390Z,"8 km SSW of La Parguera, Puerto Rico",earthquake,1.4,0.65,0.106127433557549,3,reviewed,pr,pr
 2023-03-29T06:16:07.085Z,40.1264,-120.9329,0,0.8,ml,3,337.23,0.51,0.1312,nn,nn00857607,2023-03-29T16:19:40.641Z,"2 km SE of Greenville, California",earthquake,,0,0,1,reviewed,nn,nn
