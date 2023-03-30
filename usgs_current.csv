@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-30T11:22:17.569Z,35.23591232,-97.72674561,3.667599201,2.23,ml,12,111.8792629,0.02372472547,0.4366886598,ok,ok2023gfqu,2023-03-30T11:23:26.430Z,"Oklahoma",earthquake,3.565158821,2.840827287,0.37,6,automatic,ok,ok
+2023-03-30T11:28:27.435Z,57.6903,-155.2721,2.7,2,ml,,,,0.23,ak,ak02343djprr,2023-03-30T11:31:10.973Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
+2023-03-30T11:27:51.730Z,38.8351669,-122.8171692,1.09,0.76,md,7,76,0.013,0.01,nc,nc73864420,2023-03-30T11:29:25.709Z,"8km W of Cobb, CA",earthquake,0.37,1.21,0.35,8,automatic,nc,nc
+2023-03-30T11:22:17.569Z,35.23591232,-97.72674561,3.667599201,2.12,ml,12,111.8792629,0.02372472547,0.4366886598,ok,ok2023gfqu,2023-03-30T11:27:22.432Z,"0 km E of Bridge Creek, Oklahoma",earthquake,3.565158821,2.840827287,0.35,10,automatic,ok,ok
 2023-03-30T11:15:32.300Z,62.3584,-149.179,0,1.3,ml,,,,0.55,ak,ak02343dgxu5,2023-03-30T11:17:51.180Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T11:06:03.050Z,33.1868333,-116.5848333,15.65,0.96,ml,11,180,0.05378,0.29,ci,ci39507770,2023-03-30T11:15:21.372Z,"12km SSE of Warner Springs, CA",earthquake,1.37,1.06,0.295,14,automatic,ci,ci
 2023-03-30T11:02:04.494Z,58.2528,-155.1864,2.9,0.5,ml,,,,0.44,ak,ak02343de3dt,2023-03-30T11:03:41.655Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T11:00:37.355Z,60.8069,-150.6126,59.6,1.2,ml,,,,0.38,ak,ak02343ddqhj,2023-03-30T11:02:09.524Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-03-30T10:56:59.510Z,38.8341675,-122.8153305,1.8,1.54,md,29,46,0.01151,0.02,nc,nc73864405,2023-03-30T11:11:12.104Z,"8km W of Cobb, CA",earthquake,0.17,0.31,0.15,28,automatic,nc,nc
+2023-03-30T10:56:59.510Z,38.8341675,-122.8153305,1.8,1.54,md,29,46,0.01151,0.02,nc,nc73864405,2023-03-30T11:32:14.214Z,"8km W of Cobb, CA",earthquake,0.17,0.31,0.15,28,automatic,nc,nc
 2023-03-30T10:50:00.899Z,59.5101,-153.0612,91.7,1.6,ml,,,,0.45,ak,ak02343d2xvd,2023-03-30T10:52:31.448Z,"66 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T09:42:35.605Z,58.293,-154.6083,44.9,1.3,ml,,,,1.02,ak,ak02343cfv7s,2023-03-30T09:44:10.647Z,"81 km N of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-03-30T09:37:54.150Z,38.8348351,-122.8171692,1.76,0.75,md,8,89,0.0127,0.01,nc,nc73864395,2023-03-30T09:55:13.667Z,"8km W of Cobb, CA",earthquake,0.43,1,0.23,11,automatic,nc,nc
@@ -317,6 +319,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T11:41:48.940Z,44.519,-110.3575,3.14,2.02,ml,19,62,0.05184,0.16,uu,uu60535401,2023-03-29T15:22:57.740Z,"Wyoming",earthquake,0.26,0.81,0.338,2,reviewed,uu,uu
 2023-03-29T11:37:15.756Z,56.517,-148.4212,10,3.5,ml,66,215,2.599,0.63,us,us6000k0jb,2023-03-29T17:56:05.471Z,"263 km ESE of Chiniak, Alaska",earthquake,9.26,2.012,0.043,70,reviewed,us,us
 2023-03-29T11:33:28.720Z,44.5201667,-110.3575,2.9,0.87,md,11,69,0.05091,0.17,uu,uu60535396,2023-03-29T15:18:17.120Z,"Wyoming",earthquake,0.36,1.26,0.217,7,reviewed,uu,uu
-2023-03-29T11:31:14.832Z,36.4709,-115.2712,12.2,0.4,ml,4,199.22,0.098,0.1594,nn,nn00857621,2023-03-29T20:20:47.363Z,"31 km NW of Nellis Air Force Base, Nevada",earthquake,,3.4,1,3,reviewed,nn,nn
-2023-03-29T11:25:40.400Z,44.5223333,-110.3576667,4.83,0.79,md,8,72,0.04915,0.12,uu,uu60032984,2023-03-29T14:29:55.850Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.35,0.55,0.478,4,reviewed,uu,uu
-2023-03-29T11:25:14.770Z,44.5226667,-110.359,3.85,1.27,md,15,68,0.04829,0.17,uu,uu60535391,2023-03-29T14:27:18.690Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.31,0.74,0.377,12,reviewed,uu,uu
