@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-01T17:30:56.060Z,19.3279991149902,-155.186660766602,4.3899998664856,3.21,ml,33,91,,0.180000007,hv,hv73354287,2023-04-01T17:36:26.440Z,"13 km SSE of Volcano, Hawaii",earthquake,0.4,2.07999992,1.92,24,automatic,hv,hv
+2023-04-01T17:30:56.060Z,19.3279991149902,-155.186660766602,4.3899998664856,3.21,ml,33,91,,0.180000007,hv,hv73354287,2023-04-01T17:42:35.642Z,"13 km SSE of Volcano, Hawaii",earthquake,0.4,2.07999992,1.92,24,automatic,hv,hv
 2023-04-01T17:19:25.740Z,33.017,-116.373,6.39,0.92,ml,13,107,0.05506,0.2,ci,ci39508778,2023-04-01T17:23:03.864Z,"22km ESE of Julian, CA",earthquake,0.39,0.75,0.091,14,automatic,ci,ci
 2023-04-01T17:02:46.960Z,37.7560005,-122.1451645,7.43,2.23,md,51,32,0.03545,0.13,nc,nc73865520,2023-04-01T17:31:57.854Z,"4km NNE of San Leandro, CA",earthquake,0.19,0.37,0.17,46,automatic,nc,nc
 2023-04-01T16:47:06.290Z,38.8118324,-122.8291702,1.41,0.84,md,8,84,0.00296,0.02,nc,nc73865515,2023-04-01T17:11:14.657Z,"7km WNW of The Geysers, CA",earthquake,0.58,1.09,0.36,7,automatic,nc,nc
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T15:55:45.110Z,35.696,-117.5156667,10.22,1.23,ml,12,87,0.1912,0.19,ci,ci39508746,2023-04-01T15:59:23.423Z,"13km SW of Searles Valley, CA",earthquake,0.57,1.37,0.147,7,automatic,ci,ci
 2023-04-01T15:49:39.220Z,34.8875,-119.203,20.59,1.16,ml,11,112,0.08854,0.26,ci,ci39508730,2023-04-01T15:53:13.806Z,"7km NW of Pine Mountain Club, CA",earthquake,0.72,1.25,0.185,4,automatic,ci,ci
 2023-04-01T15:24:28.640Z,19.1973323822021,-155.38200378418,31.8600006103516,2.27,ml,40,163,,0.140000001,hv,hv73354202,2023-04-01T16:24:42.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.730000019,2.9,10,automatic,hv,hv
-2023-04-01T15:20:20.490Z,33.0163333,-116.387,5.62,1.75,ml,52,46,0.04864,0.21,ci,ci39508714,2023-04-01T15:24:04.084Z,"21km ESE of Julian, CA",earthquake,0.23,1.01,0.195,26,automatic,ci,ci
+2023-04-01T15:20:20.490Z,33.0163333,-116.387,5.62,1.75,ml,52,46,0.04864,0.21,ci,ci39508714,2023-04-01T17:44:48.635Z,"21km ESE of Julian, CA",earthquake,0.23,1.01,0.195,26,automatic,ci,ci
 2023-04-01T15:15:42.955Z,31.6104126,-104.4301401,5.844685872,2.8,ml,11,104,0.04584129738,0.1,tx,tx2023gjpm,2023-04-01T15:48:51.040Z,"western Texas",earthquake,1.03197803,1.117252259,0.1,9,reviewed,tx,tx
 2023-04-01T15:10:15.407Z,60.2419,-149.8529,29.1,1.9,ml,,,,0.44,ak,ak02346qw9d0,2023-04-01T15:13:11.350Z,"26 km WNW of Bear Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-01T15:04:20.370Z,33.5878333,-116.7603333,11.36,0.67,ml,16,119,0.0295,0.29,ci,ci39508706,2023-04-01T15:08:01.540Z,"9km WNW of Anza, CA",earthquake,0.76,1.59,0.108,15,automatic,ci,ci
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T17:51:00.280Z,38.7458344,-122.6966629,0.84,1.02,md,7,143,0.0224,0.03,nc,nc73865045,2023-03-31T18:29:18.883Z,"3km S of Anderson Springs, CA",earthquake,0.58,1.1,0.38,7,automatic,nc,nc
 2023-03-31T17:49:18.730Z,38.8650017,-122.7945023,1.67,0.97,md,10,164,0.01034,0.02,nc,nc73865040,2023-03-31T18:19:13.826Z,"8km NW of Cobb, CA",earthquake,0.55,0.39,0.21,9,automatic,nc,nc
 2023-03-31T17:49:11.750Z,51.8535,-178.072333333333,3.55,1.91,ml,5,200,,0.15,av,av91828046,2023-03-31T18:58:44.430Z,"99 km W of Adak, Alaska",earthquake,0.6,0.41,0.272985222438296,5,reviewed,av,av
-2023-03-31T17:43:43.860Z,38.8651657,-122.7986679,1.62,1.03,md,9,156,0.01036,0.03,nc,nc73865035,2023-03-31T18:05:17.742Z,"8km NW of Cobb, CA",earthquake,0.46,0.65,0.05,9,automatic,nc,nc
