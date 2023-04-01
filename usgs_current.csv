@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-01T09:18:40.370Z,38.8296661,-122.7981644,1.9,0.84,md,8,85,0.02135,0.01,nc,nc73865415,2023-04-01T09:32:10.952Z,"7km W of Cobb, CA",earthquake,0.35,1.02,0.31,10,automatic,nc,nc
+2023-04-01T09:18:40.370Z,38.8296661,-122.7981644,1.9,0.84,md,8,85,0.02135,0.01,nc,nc73865415,2023-04-01T09:37:14.983Z,"7km W of Cobb, CA",earthquake,0.35,1.02,0.31,10,automatic,nc,nc
 2023-04-01T09:06:52.515Z,37.7186,-117.0596,9.5,1.3,ml,14,153.82,0.634,0.4793,nn,nn00857739,2023-04-01T09:09:29.583Z,"15 km E of Goldfield, Nevada",earthquake,,1.5,1.09,4,automatic,nn,nn
 2023-04-01T09:06:38.579Z,38.16,-117.9586,7.9,1.8,ml,8,161.18,0.044,0.3948,nn,nn00857741,2023-04-01T09:09:38.255Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.12,2,automatic,nn,nn
+2023-04-01T09:03:52.276Z,40.4277,-127.0467,10,3.5,ml,59,245,2.329,0.72,us,us6000k1br,2023-04-01T09:35:57.040Z,"236 km W of Ferndale, California",earthquake,6.3,2.014,0.039,86,reviewed,us,us
 2023-04-01T08:56:57.750Z,37.2886658,-121.661499,5.5,1.56,md,26,53,0.05499,0.07,nc,nc73865400,2023-04-01T09:14:17.836Z,"16km E of Seven Trees, CA",earthquake,0.19,0.61,0.1,16,automatic,nc,nc
 2023-04-01T08:38:19.366Z,63.1061,-144.3718,1.2,1.7,ml,,,,0.86,ak,ak02346mw8hc,2023-04-01T08:40:19.048Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-01T08:35:59.800Z,34.515,-116.2495,1.9,0.83,ml,13,79,0.186,0.13,ci,ci39508594,2023-04-01T08:39:31.917Z,"24km SSW of Ludlow, CA",earthquake,0.32,1.29,0.099,6,automatic,ci,ci
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T07:33:05.560Z,38.8483315,-122.8150024,1.3,0.71,md,9,60,0.009078,0.01,nc,nc73865375,2023-04-01T08:08:13.418Z,"8km WNW of Cobb, CA",earthquake,0.31,0.65,0.09,7,automatic,nc,nc
 2023-04-01T07:29:24.230Z,38.8148346,-122.8256683,1.92,1.21,md,9,99,0.006559,0.04,nc,nc73865370,2023-04-01T07:58:15.357Z,"7km NW of The Geysers, CA",earthquake,0.6,1.3,0.13,11,automatic,nc,nc
 2023-04-01T07:19:34.765Z,60.6722,-151.3014,48.5,1.4,ml,,,,0.55,ak,ak02346m6rgk,2023-04-01T07:21:33.396Z,"2 km SSW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-04-01T07:07:35.230Z,38.8230019,-122.7661667,1.95,1.22,md,11,118,0.008012,0.01,nc,nc73865365,2023-04-01T09:03:10.766Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.18,13,automatic,nc,nc
+2023-04-01T07:07:35.230Z,38.8230019,-122.7661667,1.95,1.22,md,11,118,0.008012,0.01,nc,nc73865365,2023-04-01T09:37:13.984Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.18,13,automatic,nc,nc
 2023-04-01T07:04:16.433Z,-3.0479,129.9004,14.861,4.7,mb,42,59,1.465,0.62,us,us6000k1be,2023-04-01T07:27:55.040Z,"Seram, Indonesia",earthquake,6.97,4.472,0.102,29,reviewed,us,us
 2023-04-01T07:03:36.230Z,38.8650017,-122.7965012,1.41,1.02,md,10,159,0.01014,0.03,nc,nc73865360,2023-04-01T07:25:14.164Z,"8km NW of Cobb, CA",earthquake,0.39,0.51,0.06,10,automatic,nc,nc
 2023-04-01T06:49:57.200Z,33.0611667,-116.4731667,15.47,1.06,ml,27,55,0.1034,0.2,ci,ci39508562,2023-04-01T06:53:32.747Z,"12km E of Julian, CA",earthquake,0.28,0.74,0.207,26,automatic,ci,ci
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T09:49:49.010Z,46.602,-119.78866666666667,7.47,0.65,ml,12,116,0.02135,0.08,uw,uw61906057,2023-03-31T18:40:10.310Z,"13 km SE of Desert Aire, Washington",earthquake,0.28,0.15,0.1780331895111803,11,reviewed,uw,uw
 2023-03-31T09:49:30.050Z,38.7615013,-122.7265015,1.65,1.17,md,8,141,0.001286,0.02,nc,nc73864820,2023-03-31T13:41:18.252Z,"3km SE of The Geysers, CA",earthquake,0.48,0.49,0.26,6,automatic,nc,nc
 2023-03-31T09:43:00.436Z,63.4485,-148.1985,0.1,1.5,ml,,,,0.84,ak,ak02344zzcpn,2023-03-31T09:44:57.836Z,"38 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-31T09:40:57.080Z,38.7588333,-122.7273333,1.83,1.01,md,27,62,0.003366,0.04,nc,nc73864815,2023-04-01T04:01:11.480Z,"3km SE of The Geysers, CA",earthquake,0.18,0.29,0.24,19,reviewed,nc,nc
