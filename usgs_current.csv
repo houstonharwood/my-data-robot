@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T04:14:42.024Z,61.4394,-147.8958,22.9,1.7,ml,,,,0.56,ak,ak023487wr4a,2023-04-02T04:16:53.147Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-02T04:14:07.724Z,36.2977,141.5322,29.473,4.4,mb,27,151,2.691,0.71,us,us6000k1fx,2023-04-02T04:32:06.040Z,"near the east coast of Honshu, Japan",earthquake,7.97,3.248,0.13,17,reviewed,us,us
 2023-04-02T04:03:36.353Z,61.2918,-146.8596,24,1.8,ml,,,,1.08,ak,ak023487udsz,2023-04-02T04:05:37.833Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6,123,0.01987,0.01,nc,nc73865680,2023-04-02T04:11:10.727Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7,automatic,nc,nc
+2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6,123,0.01987,0.01,nc,nc73865680,2023-04-02T04:51:15.010Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7,automatic,nc,nc
 2023-04-02T03:51:59.325Z,59.7509,-150.632,53.8,2,ml,,,,0.57,ak,ak023487jacc,2023-04-02T03:53:49.504Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-02T03:31:42.880Z,17.9483333333333,-66.9276666666667,5.18,1.96,md,4,221,0.05319,0.08,pr,pr71402328,2023-04-02T03:57:55.540Z,"Puerto Rico region",earthquake,1.15,0.55,0.207587635838696,2,reviewed,pr,pr
 2023-04-02T03:24:06.770Z,33.312,-116.267,9.36,0.94,ml,36,77,0.1195,0.24,ci,ci39508906,2023-04-02T03:27:40.342Z,"12km ENE of Borrego Springs, CA",earthquake,0.35,0.93,0.153,22,automatic,ci,ci
@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T09:15:31.960Z,46.41133333333333,-122.3195,15.56,0.65,ml,16,122,0.09335,0.17,uw,uw61915286,2023-04-01T16:34:38.570Z,"16 km SSW of Morton, Washington",earthquake,0.96,1.28,0.09550517887817428,6,reviewed,uw,uw
 2023-04-01T09:06:52.515Z,37.7186,-117.0596,9.5,1.3,ml,14,153.82,0.634,0.4793,nn,nn00857739,2023-04-01T09:09:29.583Z,"15 km E of Goldfield, Nevada",earthquake,,1.5,1.09,4,automatic,nn,nn
 2023-04-01T09:06:38.579Z,38.16,-117.9586,7.9,1.8,ml,8,161.18,0.044,0.3948,nn,nn00857741,2023-04-01T09:09:38.255Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.12,2,automatic,nn,nn
-2023-04-01T09:03:52.276Z,40.4277,-127.0467,10,3.5,ml,59,245,2.329,0.72,us,us6000k1br,2023-04-01T09:35:57.040Z,"236 km W of Ferndale, California",earthquake,6.3,2.014,0.039,86,reviewed,us,us
+2023-04-01T09:03:52.276Z,40.4277,-127.0467,10,3.5,ml,59,245,2.329,0.72,us,us6000k1br,2023-04-02T04:50:54.952Z,"236 km W of Ferndale, California",earthquake,6.3,2.014,0.039,86,reviewed,us,us
 2023-04-01T08:56:57.750Z,37.2886658,-121.661499,5.5,1.56,md,26,53,0.05499,0.07,nc,nc73865400,2023-04-01T18:03:16.843Z,"16km E of Seven Trees, CA",earthquake,0.19,0.61,0.1,16,automatic,nc,nc
 2023-04-01T08:38:34.640Z,38.7525,-123.0961667,-0.51,1.2,md,14,85,0.06491,0.07,nc,nc73865395,2023-04-02T04:02:12.690Z,"9km SW of Cloverdale, CA",earthquake,0.19,0.73,0.189,14,reviewed,nc,nc
 2023-04-01T08:38:19.366Z,63.1061,-144.3718,1.2,1.7,ml,,,,0.86,ak,ak02346mw8hc,2023-04-01T08:40:19.048Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T05:20:25.138Z,63.675,-149.8515,138,1.9,ml,,,,0.36,ak,ak02346l03m9,2023-04-01T05:43:04.040Z,"46 km W of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-01T05:14:38.830Z,38.8343315,-122.7931671,7.18,0.94,md,7,106,0.01548,0.01,nc,nc73865315,2023-04-01T05:47:14.596Z,"6km WNW of Cobb, CA",earthquake,0.94,1.18,0.23,6,automatic,nc,nc
 2023-04-01T05:00:35.610Z,33.3945,-116.9023333,12.34,0.49,ml,14,144,0.1986,0.21,ci,ci39508522,2023-04-01T05:04:06.220Z,"6km NW of Palomar Observatory, CA",earthquake,0.77,2.91,0.126,10,automatic,ci,ci
-2023-04-01T04:50:35.680Z,38.7883339,-122.74617,1.01,1.04,md,10,85,0.008966,0.02,nc,nc73865305,2023-04-01T05:27:13.458Z,"2km NE of The Geysers, CA",earthquake,0.34,1.22,0.31,10,automatic,nc,nc
