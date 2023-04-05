@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-05T09:56:52.970Z,38.7874985,-122.7665024,1.7,1.31,md,25,77,0.01414,0.03,nc,nc73867230,2023-04-05T09:58:28.444Z,"1km NW of The Geysers, CA",earthquake,0.22,0.37,0.19,25,automatic,nc,nc
 2023-04-05T09:50:01.500Z,38.8296661,-122.7921677,1.44,1.08,md,15,51,0.008846,0.03,nc,nc73867220,2023-04-05T09:51:38.384Z,"6km W of Cobb, CA",earthquake,0.23,0.46,0.33,15,automatic,nc,nc
 2023-04-05T09:49:50.650Z,38.8306656,-122.7931671,1.26,0.46,md,8,95,0.00804,0.01,nc,nc73867215,2023-04-05T09:51:28.402Z,"6km W of Cobb, CA",earthquake,0.34,1.07,0.31,10,automatic,nc,nc
 2023-04-05T09:43:40.222Z,61.5823,-149.7257,32.1,1.4,ml,,,,0.79,ak,ak0234d9o692,2023-04-05T09:45:45.664Z,"7 km SE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T07:48:04.567Z,64.3666,-146.5438,10.1,1.2,ml,,,,0.56,ak,ak0234d8iavc,2023-04-05T07:50:21.903Z,"2 km ESE of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-05T07:41:16.680Z,36.5951653,-121.1966629,7.2,1.76,md,21,124,0.02511,0.06,nc,nc73867145,2023-04-05T09:22:16.385Z,"8km NW of Pinnacles, CA",earthquake,0.27,0.57,0.18,19,automatic,nc,nc
 2023-04-05T07:31:34.550Z,38.8346672,-122.796669,1.56,0.32,md,8,76,0.006194,0.01,nc,nc73867140,2023-04-05T08:31:11.098Z,"6km WNW of Cobb, CA",earthquake,0.4,1.27,0.23,7,automatic,nc,nc
-2023-04-05T07:22:16.962Z,-12.8042,169.3885,642.931,4.3,mb,36,64,3.376,0.41,us,us6000k234,2023-04-05T08:12:51.040Z,"231 km ENE of Sola, Vanuatu",earthquake,12.65,7.62,0.049,119,reviewed,us,us
+2023-04-05T07:22:16.962Z,-12.8042,169.3885,642.931,4.3,mb,36,64,3.376,0.41,us,us6000k234,2023-04-05T08:12:51.040Z,"Santa Cruz Islands region",earthquake,12.65,7.62,0.049,119,reviewed,us,us
 2023-04-05T07:02:55.306Z,38.6437,-118.781,0.6,1.6,ml,13,93.63,0.448,0.1623,nn,nn00857843,2023-04-05T07:05:35.725Z,"2 km WSW of Walker Lake, Nevada",earthquake,,6.1,0.25,9,automatic,nn,nn
 2023-04-05T06:55:02.685Z,59.1686,-152.5344,69.8,1.8,ml,,,,0.37,ak,ak0234d7yd4s,2023-04-05T06:56:49.011Z,"40 km WSW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-05T06:43:28.450Z,34.9638333,-118.5991667,1.98,1.05,ml,12,74,0.07694,0.19,ci,ci39509810,2023-04-05T06:47:12.160Z,"21km N of Neenach, CA",earthquake,0.45,0.98,0.123,9,automatic,ci,ci
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T01:04:12.420Z,19.1916675567627,-155.384994506836,30.8500003814697,2.4,ml,41,164,,0.140000001,hv,hv73356727,2023-04-05T01:09:46.190Z,"9 km E of Pāhala, Hawaii",earthquake,0.53,0.660000026,2.1,17,automatic,hv,hv
 2023-04-05T01:01:22.600Z,-4.3797,143.2272,96.365,4.8,mb,45,63,6.337,1.02,us,us6000k212,2023-04-05T01:46:13.713Z,"New Guinea, Papua New Guinea",earthquake,10.06,8.277,0.085,43,reviewed,us,us
 2023-04-05T00:56:23.760Z,17.856,-66.9005,11.65,2.35,md,5,253,0.1201,0.23,pr,pr71402578,2023-04-05T01:07:30.910Z,"12 km S of Guánica, Puerto Rico",earthquake,1.57,1.17,0.0936106733998794,3,reviewed,pr,pr
-2023-04-05T00:56:17.641Z,65.4646,-166.5979,15.063,3,ml,12,158,1.043,0.76,us,us6000k214,2023-04-05T01:17:32.040Z,"15 km NNW of Brevig Mission, Alaska",earthquake,7.04,4.201,0.085,18,reviewed,us,us
+2023-04-05T00:56:17.641Z,65.4646,-166.5979,15.063,3,ml,12,158,1.043,0.76,us,us6000k214,2023-04-05T01:17:32.040Z,"northern Alaska",earthquake,7.04,4.201,0.085,18,reviewed,us,us
 2023-04-05T00:53:38.590Z,17.9723333333333,-66.874,17.42,2.1,md,7,201,0.005689,0.06,pr,pr71402573,2023-04-05T01:10:47.580Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,0.58,0.38,0.175538738035607,6,reviewed,pr,pr
 2023-04-05T00:49:43.280Z,38.8349991,-122.815834,1.86,1.41,md,24,67,0.01243,0.02,nc,nc73866990,2023-04-05T02:40:18.399Z,"8km W of Cobb, CA",earthquake,0.19,0.41,0.17,26,automatic,nc,nc
 2023-04-05T00:45:00.025Z,64.9954,-147.4883,0,1.7,ml,,,,0.63,ak,ak0234d4bm4y,2023-04-05T00:47:00.968Z,"7 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T21:54:03.690Z,51.8643333333333,-178.082833333333,3.44,1.24,ml,5,196,,0.25,av,av91834506,2023-04-05T00:27:27.410Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.95,0.71,0.194959398149941,5,reviewed,av,av
 2023-04-04T21:50:49.120Z,51.856,-178.052833333333,-1.8,1.08,ml,5,166,,0.24,av,av91834491,2023-04-05T00:25:00.690Z,"97 km W of Adak, Alaska",earthquake,0.65,1.58,0.311612489183459,5,reviewed,av,av
 2023-04-04T21:40:09.190Z,51.9053333333333,-178.178833333333,13.04,0.24,ml,4,304,,0.1,av,av91834486,2023-04-05T00:32:00.750Z,"106 km W of Adak, Alaska",earthquake,1.21,0.7,0.265573481537734,4,reviewed,av,av
-2023-04-04T21:35:36.500Z,60.012,-153.097166666667,-2.22,-0.79,ml,5,118,,0.08,av,av91834481,2023-04-05T00:19:02.820Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.28,3.27,0.132316253768033,5,reviewed,av,av
+2023-04-04T21:35:36.500Z,60.012,-153.097166666667,-2.22,-0.79,ml,5,118,,0.08,av,av91834481,2023-04-05T00:19:02.820Z,"Southern Alaska",earthquake,0.28,3.27,0.132316253768033,5,reviewed,av,av
 2023-04-04T21:33:35.242Z,56.8431,-158.1352,0,2.1,ml,,,,0.47,ak,ak0234bt7vh0,2023-04-04T23:37:23.640Z,"32 km ESE of Port Heiden, Alaska",earthquake,,26.4,,,automatic,ak,ak
 2023-04-04T21:28:33.998Z,56.8121,-132.379,12.507,3.1,ml,12,135,0.394,0.54,us,us6000k20b,2023-04-04T21:40:04.040Z,"35 km E of Petersburg, Alaska",earthquake,4.16,2.977,0.074,24,reviewed,us,us
 2023-04-04T21:27:06.690Z,58.1805,-155.306333333333,2.24,-0.33,ml,7,160,,0.08,av,av91834461,2023-04-04T23:10:25.560Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.53,0.290228992348444,7,reviewed,av,av
@@ -256,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T10:06:05.340Z,51.848,-178.0895,3.74,1.9,ml,5,215,,0.21,av,av91096853,2023-04-05T00:39:23.990Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.57,0.6,0.290581324884327,5,reviewed,av,av
 2023-04-04T10:03:54.650Z,51.8531666666667,-178.094,4.35,2.09,ml,11,109,,0.18,av,av91833821,2023-04-05T00:34:32.580Z,"100 km W of Adak, Alaska",earthquake,0.4,0.58,0.177510986633962,13,reviewed,av,av
 2023-04-04T10:02:18.840Z,45.93216666666667,-122.933,25.57,0.99,ml,20,82,0.07922,0.19,uw,uw61915966,2023-04-04T18:27:02.400Z,"6 km W of Deer Island, Oregon",earthquake,0.65,0.76,0.029042326501537263,6,reviewed,uw,uw
-2023-04-04T09:58:40.760Z,51.853,-178.0845,3.78,2.11,ml,5,210,,0.17,av,av91096818,2023-04-04T18:43:51.880Z,"99 km W of Adak, Alaska",earthquake,0.75,0.52,0.225391260700496,5,reviewed,av,av
-2023-04-04T09:58:24.570Z,51.8543333333333,-178.086333333333,3.97,1.93,ml,5,210,,0.15,av,av91833816,2023-04-04T18:42:00.310Z,"100 km W of Adak, Alaska",earthquake,0.7,0.46,0.203335308043058,5,reviewed,av,av
-2023-04-04T09:56:26.540Z,19.3095,-64.437,39.67,3.39,md,5,329,1.023,0.16,pr,pr71402488,2023-04-04T17:09:15.550Z,"114 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.09,14.16,0.0387642664552215,5,reviewed,pr,pr
