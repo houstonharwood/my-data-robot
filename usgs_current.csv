@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-06T02:42:00.600Z,33.384,-116.9106667,13.21,1.97,ml,67,43,0.1015,0.21,ci,ci39510266,2023-04-06T02:48:32.633Z,"5km NW of Palomar Observatory, CA",earthquake,0.19,0.72,0.202,27,automatic,ci,ci
+2023-04-06T02:48:26.168Z,62.5244,-154.5674,104.3,1.9,ml,,,,0.55,ak,ak0234et2it0,2023-04-06T02:55:50.690Z,"55 km S of Nikolai, Alaska",earthquake,,21.1,,,automatic,ak,ak
+2023-04-06T02:42:00.600Z,33.384,-116.9106667,13.21,1.97,ml,67,43,0.1015,0.21,ci,ci39510266,2023-04-06T02:53:03.910Z,"5km NW of Palomar Observatory, CA",earthquake,0.19,0.72,0.202,27,automatic,ci,ci
 2023-04-06T02:32:01.340Z,38.8181648,-122.8249969,1.63,0.57,md,7,82,0.009267,0.01,nc,nc73867765,2023-04-06T02:50:10.807Z,"8km NW of The Geysers, CA",earthquake,0.6,1.11,0.23,9,automatic,nc,nc
 2023-04-06T02:31:45.019Z,58.9324,-152.6577,55.2,2.1,ml,,,,0.32,ak,ak0234esyxad,2023-04-06T02:33:48.387Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-06T02:30:07.330Z,38.8069992,-122.7606659,0.7,0.62,md,10,99,0.006408,0.02,nc,nc73867760,2023-04-06T02:43:10.767Z,"3km N of The Geysers, CA",earthquake,0.27,0.55,0.16,10,automatic,nc,nc
+2023-04-06T02:30:07.330Z,38.8069992,-122.7606659,0.7,0.62,md,10,99,0.006408,0.02,nc,nc73867760,2023-04-06T02:56:13.849Z,"3km N of The Geysers, CA",earthquake,0.27,0.55,0.16,10,automatic,nc,nc
 2023-04-06T02:26:49.498Z,58.6558,-153.5634,89,1.6,ml,,,,1.23,ak,ak0234esxv6f,2023-04-06T02:29:31.081Z,"76 km NNW of Aleneva, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-06T02:25:03.908Z,60.6531,-152.0119,103.6,1.3,ml,,,,0.86,ak,ak0234esxjti,2023-04-06T02:26:52.381Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-06T02:22:50.530Z,38.8078346,-122.8248367,2.05,0.72,md,10,117,0.003545,0.02,nc,nc73867755,2023-04-06T02:42:14.761Z,"7km WNW of The Geysers, CA",earthquake,0.46,0.94,0.12,10,automatic,nc,nc
@@ -11,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T02:04:46.833Z,62.2891,-150.1001,58.6,1.4,ml,,,,0.54,ak,ak0234est53f,2023-04-06T02:06:48.948Z,"3 km S of Talkeetna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-06T02:04:01.991Z,65.7073,-151.4899,0,1.5,ml,,,,1.01,ak,ak0234essyb5,2023-04-06T02:09:25.791Z,"64 km WNW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T01:59:00.851Z,60.9443,-149.2565,20.5,1.7,ml,,,,0.44,ak,ak0234esjebd,2023-04-06T02:00:49.097Z,"4 km W of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-06T01:43:05.850Z,58.165,-155.346833333333,-0.83,-0.81,ml,5,187,,0.03,av,av91836596,2023-04-06T02:54:22.530Z,"84 km NW of Karluk, Alaska",earthquake,0.26,31.61,0.168197000441181,5,reviewed,av,av
 2023-04-06T01:42:49.307Z,53.1352,153.4949,501.326,4.1,mb,33,72,3.111,0.94,us,us6000k29x,2023-04-06T02:00:20.040Z,"274 km NW of Ozernovskiy, Russia",earthquake,11.52,8.919,0.112,22,reviewed,us,us
 2023-04-06T01:42:04.980Z,33.0358333,-116.402,2.45,1.15,ml,37,44,0.1159,0.22,ci,ci39510250,2023-04-06T01:45:39.480Z,"19km ESE of Julian, CA",earthquake,0.29,0.89,0.137,27,automatic,ci,ci
 2023-04-06T01:30:51.690Z,33.756,-115.9091667,6.19,1.03,ml,22,118,0.08436,0.18,ci,ci39510242,2023-04-06T01:41:54.986Z,"25km ENE of Thermal, CA",earthquake,0.37,1.04,0.144,21,automatic,ci,ci
@@ -329,5 +331,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T03:10:45.140Z,19.2999992370605,-155.787826538086,10,1.95000005,md,27,109,,0.25,hv,hv73356777,2023-04-05T03:13:58.350Z,"19 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.75,0.589999974,0.970000029,8,automatic,hv,hv
 2023-04-05T03:02:11.590Z,19.2521667480469,-155.393173217773,29.5300006866455,1.97000003,md,30,133,,0.119999997,hv,hv73356772,2023-04-05T03:05:52.100Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.980000019,0.870000005,11,automatic,hv,hv
 2023-04-05T02:59:50.998Z,59.7702,-153.1107,101.7,1.8,ml,,,,0.5,ak,ak0234d5ll8q,2023-04-05T13:39:58.876Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-04-05T02:57:32.091Z,-22.5964,-174.4603,10,4.9,mb,20,93,1.579,0.62,us,us6000k21z,2023-04-05T03:15:57.040Z,"Tonga region",earthquake,4.85,1.916,0.168,11,reviewed,us,us
-2023-04-05T02:54:42.679Z,38.394,-118.3799,0,1.4,ml,9,60.79,0.173,0.1892,nn,nn00857854,2023-04-05T18:06:07.243Z,"23 km W of Mina, Nevada",earthquake,,0,0.35,6,reviewed,nn,nn
