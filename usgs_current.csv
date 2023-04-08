@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T11:21:30.230Z,35.8628349,-117.6741638,10.8,1.28,ml,14,121,0.09147,0.17,ci,ci40438168,2023-04-08T11:23:36.399Z,"22km ESE of Little Lake, CA",earthquake,0.47,0.72,0.237,6,automatic,ci,ci
-2023-04-08T11:17:24.930Z,38.7873344,-122.7679977,2.37,0.78,md,15,81,0.01477,0.02,nc,nc73869215,2023-04-08T11:19:02.015Z,"2km NW of The Geysers, CA",earthquake,0.29,0.61,0.14,15,automatic,nc,nc
+2023-04-08T11:21:30.230Z,35.863,-117.675,10.59,1.25,ml,12,121,0.09102,0.2,ci,ci40438168,2023-04-08T11:24:52.923Z,"22km ESE of Little Lake, CA",earthquake,0.46,0.79,0.182,8,automatic,ci,ci
+2023-04-08T11:17:24.930Z,38.7873344,-122.7679977,2.37,0.78,md,15,81,0.01477,0.02,nc,nc73869215,2023-04-08T11:29:11.305Z,"2km NW of The Geysers, CA",earthquake,0.29,0.61,0.14,15,automatic,nc,nc
 2023-04-08T11:15:45.364Z,36.6902,-116.3037,10.4,0.4,ml,14,116.33,0.053,0.0873,nn,nn00857970,2023-04-08T11:17:46.655Z,"Nevada",earthquake,,0.9,0.23,10,automatic,nn,nn
 2023-04-08T11:07:43.790Z,38.7878342,-122.7666702,2.55,0.74,md,10,95,0.01388,0.02,nc,nc73869210,2023-04-08T11:24:14.272Z,"2km NW of The Geysers, CA",earthquake,0.44,1.22,0.14,9,automatic,nc,nc
 2023-04-08T10:57:28.260Z,38.7555008,-122.7034988,0.65,0.73,md,8,128,0.01308,0.02,nc,nc73869205,2023-04-08T11:14:15.214Z,"2km SSW of Anderson Springs, CA",earthquake,0.87,0.46,0.09,6,automatic,nc,nc
@@ -261,5 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T11:36:13.160Z,58.2945,-154.9185,2.4,-0.2,ml,8,157,,0.22,av,av91838521,2023-04-07T22:49:08.190Z,"85 km NNW of Karluk, Alaska",earthquake,0.57,0.97,0.195546925719265,8,reviewed,av,av
 2023-04-07T11:33:43.993Z,36.6581,-116.057,0,-0.1,ml,5,323.99,0.051,0.0712,nn,nn00857956,2023-04-08T02:04:53.820Z,"35 km WNW of Indian Springs, Nevada",earthquake,,0,0.19,3,reviewed,nn,nn
 2023-04-07T11:32:00.860Z,58.1918333333333,-155.325,1.84,-0.46,ml,4,238,,0.01,av,av91838516,2023-04-07T22:45:26.630Z,"86 km NW of Karluk, Alaska",earthquake,0.74,0.41,0.328612797356449,4,reviewed,av,av
-2023-04-07T11:29:47.650Z,19.3226666666667,-155.294833333333,3.69,2.67,ml,45,102,,0.11,hv,hv73358277,2023-04-07T22:30:03.760Z,"14 km SSW of Volcano, Hawaii",earthquake,0.23,0.54,0.152372547287104,20,reviewed,hv,hv
-2023-04-07T11:29:40.440Z,19.3233333333333,-155.300166666667,3.1,1.09,md,12,147,,0.08,hv,hv73358272,2023-04-07T22:09:07.190Z,"14 km SSW of Volcano, Hawaii",earthquake,0.52,0.72,0.153243417161711,4,reviewed,hv,hv
