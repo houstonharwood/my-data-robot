@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-08T15:49:45.770Z,38.7921677,-122.7610016,2.52,0.83,md,12,90,0.008505,0.02,nc,nc73869270,2023-04-08T15:51:21.938Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.73,0.18,10,automatic,nc,nc
+2023-04-08T15:46:40.340Z,38.7919998,-122.7611694,2.44,1.1,md,16,108,0.008688,0.03,nc,nc73869265,2023-04-08T15:48:17.868Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.57,0.23,19,automatic,nc,nc
 2023-04-08T15:29:25.631Z,62.6317,-149.0115,45.2,1.7,ml,,,,0.72,ak,ak0234ibrs7n,2023-04-08T15:31:17.891Z,"59 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T15:19:43.560Z,35.6500015,-120.9553299,5.21,2.44,md,45,68,0.07102,0.09,nc,nc73869255,2023-04-08T15:33:58.000Z,"11km SW of Lake Nacimiento, CA",earthquake,0.2,0.6,0.11,46,automatic,nc,nc
 2023-04-08T15:11:54.230Z,60.2461,-141.9138,11.7,1.5,ml,,,,0.53,ak,ak0234ibnzj3,2023-04-08T15:13:55.121Z,"143 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -7,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T15:03:01.570Z,35.8795,-117.6801667,3.64,1.73,ml,16,77,0.09873,0.21,ci,ci40438336,2023-04-08T15:14:05.940Z,"21km ESE of Little Lake, CA",earthquake,0.37,1.63,0.16,14,automatic,ci,ci
 2023-04-08T15:01:11.394Z,60.0597,-141.2051,0,2.1,ml,,,,1.2,ak,ak0234iblr2b,2023-04-08T15:03:09.925Z,"100 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T14:41:30.550Z,36.5669,-115.1788,2.3,1.1,ml,8,238.15,0.065,0.4037,nn,nn00857974,2023-04-08T14:43:36.986Z,"37 km NNW of Nellis Air Force Base, Nevada",earthquake,,15.8,0.96,6,automatic,nn,nn
+2023-04-08T14:39:49.686Z,57.9826,-156.0562,9.7,1.1,ml,,,,0.67,ak,ak0234ib8iya,2023-04-08T15:52:14.418Z,"82 km ESE of Egegik, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-04-08T14:34:30.280Z,38.7906685,-122.7616653,2.79,0.73,md,11,78,0.01006,0.02,nc,nc73869240,2023-04-08T15:47:11.986Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.78,0.29,11,automatic,nc,nc
 2023-04-08T14:27:15.980Z,38.795166,-122.7653351,3.15,1.27,md,25,67,0.007001,0.02,nc,nc73869235,2023-04-08T15:19:11.786Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.57,0.2,24,automatic,nc,nc
 2023-04-08T14:23:52.269Z,62.0073,-149.6765,22.5,1.5,ml,,,,0.31,ak,ak0234ib54d6,2023-04-08T14:26:20.581Z,"19 km SSE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -245,8 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T16:01:17.670Z,38.7913333,-122.7795,0.14,0.36,md,7,109,0.006832,0.01,nc,nc73868615,2023-04-07T18:11:12.098Z,"2km NW of The Geysers, CA",earthquake,0.35,0.9,0.351,7,reviewed,nc,nc
 2023-04-07T16:00:08.164Z,36.704,-116.0725,0.5,0,ml,13,133.13,0.022,0.1492,nn,nn00857935,2023-04-08T02:04:46.201Z,"38 km WNW of Indian Springs, Nevada",earthquake,,2.8,0.1,5,reviewed,nn,nn
 2023-04-07T15:59:26.640Z,38.7908325,-122.7813339,0.34,0.61,md,8,99,0.005654,0.03,nc,nc73868610,2023-04-07T17:29:20.864Z,"3km NW of The Geysers, CA",earthquake,0.32,0.93,0.36,10,automatic,nc,nc
-2023-04-07T15:53:25.295Z,36.7041,-116.07,1.5,0.5,ml,19,134.03,0.024,0.1439,nn,nn00857934,2023-04-08T02:04:39.305Z,"38 km WNW of Indian Springs, Nevada",earthquake,,2.5,0.07,7,reviewed,nn,nn
-2023-04-07T15:50:23.610Z,18.0173333333333,-66.8258333333333,14.21,2.48,md,8,155,0.06598,0.11,pr,pr71402868,2023-04-07T16:03:51.980Z,"Puerto Rico region",earthquake,0.47,0.8,0.0285459962986789,6,reviewed,pr,pr
-2023-04-07T15:49:47.519Z,36.7083,-116.0763,0.2,-0.3,ml,10,117.95,0.022,0.1358,nn,nn00857959,2023-04-08T02:04:57.798Z,"39 km WNW of Indian Springs, Nevada",earthquake,,3.1,0.11,4,reviewed,nn,nn
-2023-04-07T15:49:30.710Z,38.8018341,-122.7731705,1.17,0.77,md,9,91,0.01059,0.02,nc,nc73868595,2023-04-07T16:37:15.543Z,"3km NNW of The Geysers, CA",earthquake,0.37,0.72,0.07,9,automatic,nc,nc
-2023-04-07T15:49:03.551Z,25.4655,126.1365,56.197,4.6,mb,32,116,2.355,0.88,us,us6000k2pd,2023-04-07T16:44:03.040Z,"111 km NE of Hirara, Japan",earthquake,9.36,6.236,0.064,73,reviewed,us,us
