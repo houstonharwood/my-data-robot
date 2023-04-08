@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-08T14:41:30.550Z,36.5669,-115.1788,2.3,1.1,ml,8,238.15,0.065,0.4037,nn,nn00857974,2023-04-08T14:43:36.986Z,"37 km NNW of Nellis Air Force Base, Nevada",earthquake,,15.8,0.96,6,automatic,nn,nn
-2023-04-08T14:34:30.280Z,38.7906685,-122.7616653,2.79,0.73,md,11,78,0.01006,0.02,nc,nc73869240,2023-04-08T14:36:07.562Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.78,0.29,11,automatic,nc,nc
-2023-04-08T14:27:15.980Z,38.795166,-122.7653351,3.15,1.27,md,25,67,0.007001,0.02,nc,nc73869235,2023-04-08T14:39:11.408Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.57,0.2,24,automatic,nc,nc
+2023-04-08T14:34:30.280Z,38.7906685,-122.7616653,2.79,0.73,md,11,78,0.01006,0.02,nc,nc73869240,2023-04-08T14:46:10.455Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.78,0.29,11,automatic,nc,nc
+2023-04-08T14:27:15.980Z,38.795166,-122.7653351,3.15,1.27,md,25,67,0.007001,0.02,nc,nc73869235,2023-04-08T14:45:13.448Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.57,0.2,24,automatic,nc,nc
 2023-04-08T14:23:52.269Z,62.0073,-149.6765,22.5,1.5,ml,,,,0.31,ak,ak0234ib54d6,2023-04-08T14:26:20.581Z,"19 km SSE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T14:20:17.240Z,33.7075,-116.8083333,14.47,0.61,ml,13,176,0.07858,0.14,ci,ci40438328,2023-04-08T14:23:40.033Z,"9km WSW of Idyllwild, CA",earthquake,0.51,0.41,0.194,12,automatic,ci,ci
 2023-04-08T14:11:54.636Z,-2.9561,141.9484,28.863,5.2,mww,36,96,8.238,1,us,us6000k2vd,2023-04-08T14:27:27.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,9.89,6.602,0.093,11,reviewed,us,us
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T05:09:04.600Z,38.8463326,-122.817337,0.29,1.03,md,7,126,0.009549,0.04,nc,nc73868960,2023-04-08T05:57:17.328Z,"9km WNW of Cobb, CA",earthquake,0.3,1.07,0.15,7,automatic,nc,nc
 2023-04-08T05:08:36.170Z,38.8086667,-122.8266667,1.05,1.96,md,24,65,0.001972,0.02,nc,nc73868955,2023-04-08T10:36:14.999Z,"7km WNW of The Geysers, CA",earthquake,0.17,0.31,0.256,23,reviewed,nc,nc
 2023-04-08T05:08:22.530Z,38.8373333,-122.81,1.86,2.14,md,38,49,0.01392,0.02,nc,nc73868950,2023-04-08T10:07:15.935Z,"8km WNW of Cobb, CA",earthquake,0.14,0.27,0.226,28,reviewed,nc,nc
-2023-04-08T05:07:58.560Z,38.8348333,-122.8106667,2.09,3.05,ml,104,27,0.01143,0.07,nc,nc73868965,2023-04-08T09:53:20.726Z,"8km W of Cobb, CA",earthquake,0.08,0.14,0.159,82,reviewed,nc,nc
+2023-04-08T05:07:58.560Z,38.8348333,-122.8106667,2.09,3.05,ml,104,27,0.01143,0.07,nc,nc73868965,2023-04-08T14:45:56.939Z,"8km W of Cobb, CA",earthquake,0.08,0.14,0.159,82,reviewed,nc,nc
 2023-04-08T04:56:11.340Z,18.8301,-68.3886,103,3.93,md,7,189,0.9223,0.49,pr,pr2023098000,2023-04-08T05:39:09.736Z,"27 km N of Punta Cana, Dominican Republic",earthquake,11.39,4.23,0.03,4,reviewed,pr,pr
 2023-04-08T04:55:09.841Z,62.9469,-151.3816,98.5,1.3,ml,,,,0.62,ak,ak0234i5djyg,2023-04-08T04:57:32.157Z,"59 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-08T04:40:59.110Z,38.8353348,-122.8011703,2.03,1.05,md,17,61,0.008995,0.04,nc,nc73868945,2023-04-08T05:06:15.008Z,"7km WNW of Cobb, CA",earthquake,0.24,0.47,0.3,16,automatic,nc,nc
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T15:10:44.732Z,61.2603,-145.9937,35.5,1.6,ml,,,,0.57,ak,ak0234go4el5,2023-04-07T15:23:18.700Z,"23 km NE of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-07T15:07:34.852Z,36.7122,-116.0726,1,1.6,ml,39,93.36,0.026,0.1721,nn,nn00857929,2023-04-08T02:04:38.204Z,"39 km WNW of Indian Springs, Nevada",earthquake,,2,0.98,25,reviewed,nn,nn
 2023-04-07T15:04:20.500Z,33.2471667,-116.0715,7.6,1.27,ml,43,55,0.07892,0.16,ci,ci40437656,2023-04-08T00:35:26.400Z,"12km WSW of Salton City, CA",earthquake,0.15,0.47,0.097,29,reviewed,ci,ci
-2023-04-07T14:44:43.649Z,35.79383333,-96.97616667,7.09,2.56,ml,86,39,0,0.21,ok,ok2023gunm,2023-04-07T15:07:17.537Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.5,0.24,38,reviewed,ok,ok
