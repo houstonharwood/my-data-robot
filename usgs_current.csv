@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T20:17:56.950Z,17.9353333333333,-66.9505,13.83,2.74,md,10,223,0.07848,0.13,pr,pr71403448,2023-04-09T20:37:19.520Z,"Puerto Rico region",earthquake,0.81,0.35,0.128100964419719,5,reviewed,pr,pr
 2023-04-09T20:10:47.230Z,34.9968333,-118.38,0.13,1.38,ml,23,56,0.1712,0.22,ci,ci40438976,2023-04-09T20:14:23.065Z,"16km SSE of Tehachapi, CA",earthquake,0.39,31.61,0.163,27,automatic,ci,ci
 2023-04-09T19:58:26.460Z,17.9398333333333,-66.9575,15.1,2.5,md,11,221,0.0823,0.11,pr,pr71403438,2023-04-09T20:14:39.960Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.46,0.55,0.0206169446780409,8,reviewed,pr,pr
+2023-04-09T19:58:26.330Z,17.9171,-66.9623,14,2.98,md,13,237,0.0972,0.15,pr,pr2023099002,2023-04-09T20:56:16.870Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.78,0.46,0.23,8,reviewed,pr,pr
 2023-04-09T19:56:17.220Z,17.9308333333333,-66.9536666666667,15.35,2.87,md,8,227,0.08337,0.08,pr,pr71403428,2023-04-09T20:12:24.370Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.7,0.53,0.0557486506429803,2,reviewed,pr,pr
 2023-04-09T19:51:39.241Z,60.1416,-151.4527,30.6,1.9,ml,,,,0.63,ak,ak0234k1tlxg,2023-04-09T19:54:01.206Z,"10 km SSW of Clam Gulch, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-09T19:37:43.811Z,13.2463,93.1606,35,4.4,mb,55,58,1.633,0.47,us,us6000k347,2023-04-09T20:24:17.040Z,"177 km NNE of Bamboo Flat, India",earthquake,6.31,1.914,0.09,36,reviewed,us,us
@@ -252,6 +253,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T23:39:33.540Z,38.8115005,-122.8280029,1.59,0.89,md,16,58,0.002784,0.02,nc,nc73869490,2023-04-09T00:19:14.876Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.56,0.19,16,automatic,nc,nc
 2023-04-08T23:39:00.740Z,33.4385,-116.3381667,16.55,0.77,ml,18,207,0.1119,0.28,ci,ci40438536,2023-04-08T23:42:28.331Z,"21km N of Borrego Springs, CA",earthquake,1.17,1.19,0.106,13,automatic,ci,ci
 2023-04-08T23:36:32.764Z,-17.8167,-69.7767,165.564,4.2,mb,19,124,0.362,0.66,us,us6000k2xf,2023-04-09T00:06:23.040Z,"Peru-Bolivia border region",earthquake,10.32,8.549,0.236,5,reviewed,us,us
+2023-04-08T23:33:29.190Z,38.4301667,-122.6913333,7.66,1.23,md,30,50,0.01476,0.06,nc,nc73869485,2023-04-09T20:52:38.824Z,"2km SSE of Santa Rosa, CA",earthquake,0.17,0.34,0.196,24,reviewed,nc,nc
 2023-04-08T23:03:38.570Z,17.9318333333333,-66.926,6.24,2.8,md,13,223,0.06187,0.09,pr,pr71402988,2023-04-08T23:32:46.820Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.45,0.2,0.108524980837806,5,reviewed,pr,pr
 2023-04-08T23:01:32.900Z,38.815834,-122.8193359,0.67,0.97,md,13,73,0.01037,0.02,nc,nc73869475,2023-04-08T23:45:15.663Z,"7km NW of The Geysers, CA",earthquake,0.22,0.47,0.23,15,automatic,nc,nc
 2023-04-08T22:54:36.949Z,57.4265,-154.2355,42.4,1.6,ml,,,,0.66,ak,ak0234ig377y,2023-04-09T00:04:06.241Z,"19 km SW of Larsen Bay, Alaska",earthquake,,1.5,,,reviewed,ak,ak
@@ -285,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T21:17:49.816Z,62.3548,-149.1436,11.8,1.2,ml,,,,0.45,ak,ak0234if9v45,2023-04-08T21:19:13.574Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T21:03:07.089Z,62.971,-150.9951,114.4,1.4,ml,,,,0.39,ak,ak0234if6rsk,2023-04-08T21:06:24.009Z,"54 km NNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-08T21:02:47.250Z,33.5856667,-116.8005,7.45,0.08,ml,18,70,0.03142,0.12,ci,ci40438480,2023-04-09T16:07:03.930Z,"12km WNW of Anza, CA",earthquake,0.26,0.46,0.141,9,reviewed,ci,ci
-2023-04-08T20:58:59.220Z,34.4598333,-117.9603333,8.75,0.87,ml,15,69,0.0116,0.13,ci,ci40438472,2023-04-09T15:38:45.475Z,"7km SW of Pearblossom, CA",earthquake,0.3,0.5,0.071,7,reviewed,ci,ci
