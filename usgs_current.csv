@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-10T18:39:50.214Z,60.3377,-152.8993,242.6,1.4,ml,,,,1.29,ak,ak0234lop3ap,2023-04-10T18:46:39.026Z,"75 km WNW of Ninilchik, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-04-10T18:39:37.566Z,61.3259,-150.4015,44.8,2,ml,,,,0.18,ak,ak0234looy3g,2023-04-10T18:41:09.753Z,"22 km W of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-10T18:37:27.090Z,38.8149986,-122.8303299,1.33,0.98,md,18,50,0.006187,0.03,nc,nc73870325,2023-04-10T18:39:03.426Z,"8km WNW of The Geysers, CA",earthquake,0.19,0.37,0.23,21,automatic,nc,nc
 2023-04-10T18:22:21.210Z,36.6588326,-121.274498,5.1,1.72,md,16,138,0.04793,0.11,nc,nc73870320,2023-04-10T18:41:12.548Z,"15km SSE of Tres Pinos, CA",earthquake,0.5,1.17,0.22,19,automatic,nc,nc
@@ -12,7 +13,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T17:37:40.870Z,38.8148346,-122.8191681,0.99,0.75,md,15,59,0.009831,0.02,nc,nc73870310,2023-04-10T18:41:12.191Z,"7km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,15,automatic,nc,nc
 2023-04-10T17:34:18.526Z,62.1031,-150.8958,61.1,1.4,ml,,,,0.58,ak,ak0234lo2efw,2023-04-10T17:36:31.139Z,"29 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-10T17:29:17.495Z,63.1177,-150.4163,91.1,2.1,ml,,,,0.74,ak,ak0234lo1bp5,2023-04-10T17:31:11.728Z,"71 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-10T17:20:54.550Z,53.8391666666667,-166.486666666667,10.79,0.23,ml,7,301,,0.13,av,av91842986,2023-04-10T18:43:19.100Z,"4 km SE of Unalaska, Alaska",earthquake,0.62,0.69,0.278747900161886,7,reviewed,av,av
+2023-04-10T17:20:55.580Z,58.1708333333333,-155.283,-0.64,-0.55,ml,5,165,,0.05,av,av91097243,2023-04-10T18:48:58.290Z,"83 km NW of Karluk, Alaska",earthquake,0.34,31.61,0.219320238285523,4,reviewed,av,av
+2023-04-10T17:20:54.420Z,53.8406666666667,-166.4795,11.22,0.44,ml,10,208,,0.14,av,av91842986,2023-04-10T18:44:26.460Z,"5 km SE of Unalaska, Alaska",earthquake,0.6,0.57,0.229061986403896,10,reviewed,av,av
 2023-04-10T17:11:48.437Z,8.818,93.9091,10.067,4.7,mb,40,144,3.044,0.58,us,us6000k3b7,2023-04-10T17:40:51.040Z,"Nicobar Islands, India region",earthquake,9.78,5.651,0.102,29,reviewed,us,us
 2023-04-10T17:11:13.448Z,56.6911,-156.005,75.5,2.6,ml,,,,0.74,ak,ak0234lnxgkw,2023-04-10T17:13:43.517Z,"115 km WSW of Akhiok, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-10T17:10:26.600Z,53.8756666666667,-166.592333333333,5.93,0.62,ml,11,115,,0.15,av,av91842971,2023-04-10T18:33:31.760Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.38,0.7,0.297486672996676,11,reviewed,av,av
@@ -268,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T19:08:33.930Z,37.2936667,-121.6733333,2.03,0.96,md,11,99,0.03462,0.06,nc,nc71130154,2023-04-09T23:54:14.226Z,"15km E of Seven Trees, CA",earthquake,0.36,0.56,0.206,11,reviewed,nc,nc
 2023-04-09T19:08:01.640Z,36.4781667,-120.8966667,17.24,2.17,md,67,65,0.05145,0.14,nc,nc73869895,2023-04-10T01:12:14.839Z,"21km WNW of New Idria, CA",earthquake,0.2,0.27,0.131,71,reviewed,nc,nc
 2023-04-09T18:57:14.480Z,58.1753333333333,-155.331333333333,0.98,0.43,ml,6,172,,0.03,av,av91841711,2023-04-09T22:20:34.470Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.95,0.345739154594419,7,reviewed,av,av
-2023-04-09T18:45:36.893Z,24.3322,123.0306,53.659,4.9,mwr,66,97,0.136,0.63,us,us6000k341,2023-04-10T10:53:09.401Z,"15 km SSE of Yonakuni, Japan",earthquake,6.13,2.796,0.068,21,reviewed,us,us
-2023-04-09T18:44:30.300Z,33.6185,-116.483,10.53,0.68,ml,20,83,0.02083,0.15,ci,ci40438952,2023-04-09T21:02:05.640Z,"15km SSW of Rancho Mirage, CA",earthquake,0.29,0.33,0.115,14,reviewed,ci,ci
