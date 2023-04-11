@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-11T17:32:24.235Z,61.2937,-152.4931,2.4,1.2,ml,,,,0.92,ak,ak0234nblbu2,2023-04-11T17:34:37.286Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T17:22:22.405Z,61.163,-150.07,9.9,1.7,ml,,,,0.28,ak,ak0234nbj6n4,2023-04-11T17:23:55.190Z,"10 km SW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-11T17:14:45.451Z,36.7433,-115.564,1.9,0.8,ml,8,300.26,0.33,0.2555,nn,nn00858084,2023-04-11T17:17:01.576Z,"21 km NNE of Indian Springs, Nevada",earthquake,,44,0.29,5,automatic,nn,nn
+2023-04-11T17:14:47.660Z,36.7694,-115.6762,0,0.7,ml,9,278.46,0.251,0.1214,nn,nn00858084,2023-04-11T17:35:43.152Z,"22 km N of Indian Springs, Nevada",earthquake,,0,0.19,4,reviewed,nn,nn
 2023-04-11T16:52:06.360Z,17.965,-66.958,5.71,2.84,md,13,192,0.07561,0.2,pr,pr71404153,2023-04-11T17:17:40.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.05,0.69,0.148360835764323,13,reviewed,pr,pr
 2023-04-11T16:40:58.542Z,-16.6544,167.5095,10,4.6,mb,30,77,1.236,1.11,us,us6000k3k3,2023-04-11T17:00:31.040Z,"62 km S of Lakatoro, Vanuatu",earthquake,6.94,1.755,0.109,25,reviewed,us,us
 2023-04-11T16:37:04.070Z,36.9798317,-121.62117,3.3,0.93,md,7,81,0.03977,0.08,nc,nc73870780,2023-04-11T16:58:13.184Z,"6km WSW of Gilroy, CA",earthquake,0.49,1.25,0.16,7,automatic,nc,nc
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T10:35:39.630Z,35.5,-118.3951667,3.83,1.13,ml,20,67,0.1747,0.18,ci,ci40439560,2023-04-11T13:47:01.720Z,"13km SE of Bodfish, CA",earthquake,0.29,1.09,0.116,11,reviewed,ci,ci
 2023-04-11T10:25:27.560Z,19.2468338012695,-155.38850402832,29.9400005340576,2.07,ml,34,138,,0.189999998,hv,hv73361277,2023-04-11T10:30:57.940Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.93,0.839999974,0.2,5,automatic,hv,hv
 2023-04-11T10:10:12.610Z,19.7639999389648,-155.22200012207,24.2199993133545,3.19,ml,40,153,,0.150000006,hv,hv73361257,2023-04-11T17:20:43.903Z,"13 km W of Paukaa, Hawaii",earthquake,0.63,1.44000006,2.08,19,automatic,hv,hv
-2023-04-11T10:09:40.890Z,33.1953333,-115.8753333,5.66,1.18,ml,33,63,0.0886,0.25,ci,ci40439552,2023-04-11T10:13:41.746Z,"14km SSE of Salton City, CA",earthquake,0.37,0.91,0.148,20,automatic,ci,ci
+2023-04-11T10:09:40.710Z,33.1978333,-115.8863333,8.29,1.19,ml,40,101,0.08041,0.16,ci,ci40439552,2023-04-11T17:33:10.404Z,"13km SSE of Salton City, CA",earthquake,0.18,0.51,0.142,26,reviewed,ci,ci
 2023-04-11T10:08:37.520Z,33.1976667,-115.8865,8.27,1.63,ml,49,61,0.08022,0.14,ci,ci40439544,2023-04-11T17:16:22.160Z,"13km SSE of Salton City, CA",earthquake,0.15,0.52,0.105,22,reviewed,ci,ci
 2023-04-11T10:06:13.060Z,39.251,-123.1336667,7.51,1.23,md,15,115,0.1225,0.06,nc,nc73870665,2023-04-11T15:31:12.692Z,"6km ESE of Redwood Valley, CA",earthquake,0.28,0.75,0.095,13,reviewed,nc,nc
 2023-04-11T09:58:07.520Z,38.7916679,-122.7275009,-0.37,0.87,md,8,93,0.01108,0.03,nc,nc73870660,2023-04-11T09:59:46.341Z,"3km ENE of The Geysers, CA",earthquake,0.23,2.27,0.26,9,automatic,nc,nc
@@ -279,6 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T17:46:30.454Z,58.1824,-155.3214,8.2,1,ml,,,,0.8,ak,ak0234lo4zzl,2023-04-10T19:47:16.110Z,"85 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T17:45:18.838Z,58.1916,-155.295,1.2,0.7,ml,,,,0.45,ak,ak0234lo4rbv,2023-04-10T19:44:28.540Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-10T17:42:25.600Z,17.9405,-66.8948333333333,9.79,2.39,md,5,217,0.03743,0.08,pr,pr71403783,2023-04-10T18:01:32.500Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.74,0.56,0.14751634247666,5,reviewed,pr,pr
-2023-04-10T17:37:40.870Z,38.8148346,-122.8191681,0.99,0.75,md,15,59,0.009831,0.02,nc,nc73870310,2023-04-10T19:31:12.504Z,"7km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,15,automatic,nc,nc
-2023-04-10T17:36:49.805Z,51.7083,179.0381,17.276,2.9,ml,11,153,0.369,0.16,us,us6000k3c3,2023-04-10T21:25:09.040Z,"299 km W of Adak, Alaska",earthquake,2.8,4.261,0.105,12,reviewed,us,us
-2023-04-10T17:34:18.526Z,62.1031,-150.8958,61.1,1.4,ml,,,,0.58,ak,ak0234lo2efw,2023-04-10T17:36:31.139Z,"29 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
