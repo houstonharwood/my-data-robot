@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-17T18:06:28.930Z,38.7485008,-122.7133331,0.75,0.83,md,7,195,0.01588,0.01,nc,nc73874815,2023-04-17T18:23:15.345Z,"4km SSW of Anderson Springs, CA",earthquake,0.55,0.6,0.5,6,automatic,nc,nc
 2023-04-17T18:05:59.640Z,32.8285,-115.6,10.84,1.79,ml,17,87,0.06545,0.2,ci,ci40441992,2023-04-17T18:10:01.369Z,"4km SW of Imperial, CA",earthquake,0.47,0.84,0.329,28,automatic,ci,ci
-2023-04-17T18:03:41.342Z,31.66461803,-104.288774,9.447900391,3.572780945,mlv,29,118,0.09596818792,0.3,tx,tx2023hnbc,2023-04-17T18:16:36.291Z,"57 km S of Whites City, New Mexico",earthquake,1.052166318,1.457032521,0.329402548,22,reviewed,tx,tx
+2023-04-17T18:03:41.342Z,31.66461803,-104.288774,9.447900391,3.572780945,mlv,29,118,0.09596818792,0.3,tx,tx2023hnbc,2023-04-17T18:26:49.026Z,"57 km S of Whites City, New Mexico",earthquake,1.052166318,1.457032521,0.329402548,22,reviewed,tx,tx
 2023-04-17T18:01:06.080Z,33.0358333,-114.9465,2.83,1.35,ml,9,76,0.06877,0.16,ci,ci40441984,2023-04-17T18:04:41.401Z,"42km NNW of Los Algodones, B.C., MX",earthquake,0.51,0.77,0.253,11,automatic,ci,ci
 2023-04-17T17:44:38.500Z,38.8235016,-122.8031693,1.79,0.94,md,13,73,0.005395,0.05,nc,nc73874810,2023-04-17T18:04:14.074Z,"6km NW of The Geysers, CA",earthquake,0.29,0.54,0.24,16,automatic,nc,nc
 2023-04-17T17:37:42.190Z,38.8326683,-122.8178329,1.69,0.76,md,7,83,0.01107,0.01,nc,nc73874805,2023-04-17T17:54:14.007Z,"8km NW of The Geysers, CA",earthquake,0.5,1.01,0.4,6,automatic,nc,nc
@@ -128,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T04:47:12.680Z,44.3768333,-110.6851667,4.14,0.86,md,6,138,0.08023,0.07,uu,uu60033139,2023-04-17T16:24:13.500Z,"45 km SE of West Yellowstone, Montana",earthquake,0.41,1.93,0.082,2,reviewed,uu,uu
 2023-04-17T04:46:56.140Z,44.3698333,-110.6825,4.39,0.97,md,12,90,0.0803,0.13,uu,uu60537391,2023-04-17T16:23:40.080Z,"46 km SE of West Yellowstone, Montana",earthquake,0.36,0.58,0.159,3,reviewed,uu,uu
 2023-04-17T04:38:27.506Z,-8.4254,107.7916,35,4.8,mb,52,103,0.967,0.98,us,us6000k4z3,2023-04-17T08:10:52.706Z,"Java, Indonesia",earthquake,6.93,1.927,0.087,41,reviewed,us,us
+2023-04-17T04:30:44.260Z,44.3775,-110.6808333,1.98,0.97,md,17,85,0.07706,0.13,uu,uu60537376,2023-04-17T18:32:23.930Z,"46 km SE of West Yellowstone, Montana",earthquake,0.35,0.78,0.37,12,reviewed,uu,uu
 2023-04-17T04:21:41.310Z,19.1596666666667,-155.487666666667,31.35,1.56,md,19,206,,0.1,hv,hv73366247,2023-04-17T07:02:09.850Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,0.81,0.123675889859931,11,reviewed,hv,hv
 2023-04-17T04:17:59.450Z,33.6731667,-116.6836667,15.63,0.6,ml,30,55,0.04564,0.14,ci,ci40441736,2023-04-17T04:21:29.327Z,"8km SSE of Idyllwild, CA",earthquake,0.26,0.39,0.154,17,automatic,ci,ci
 2023-04-17T04:15:12.819Z,-3.9775,128.7115,154.382,4.6,mb,51,46,1.307,0.68,us,us6000k4z2,2023-04-17T04:45:23.040Z,"66 km ESE of Ambon, Indonesia",earthquake,6.6,7.36,0.095,33,reviewed,us,us
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T18:57:10.950Z,38.7953339,-122.8216629,1.8,0.27,md,10,141,0.01063,0.02,nc,nc73874325,2023-04-16T19:27:12.787Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.74,0.11,10,automatic,nc,nc
 2023-04-16T18:50:46.760Z,44.3646667,-110.6756667,4.19,0.91,md,10,141,0.07754,0.05,uu,uu60537296,2023-04-17T17:49:02.530Z,"47 km SE of West Yellowstone, Montana",earthquake,0.42,0.52,0.477,8,reviewed,uu,uu
 2023-04-16T18:42:04.965Z,36.7314,-116.2744,7.5,0.4,ml,26,62.01,0.008,0.1328,nn,nn00858284,2023-04-16T23:19:23.200Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.98,12,reviewed,nn,nn
-2023-04-16T18:28:26.224Z,65.0589,-146.9642,0,0.8,ml,,,,0.3,ak,ak0234vlunbq,2023-04-16T20:21:41.571Z,"20 km NNW of Pleasant Valley, Alaska",explosion,,0,,,reviewed,ak,ak
