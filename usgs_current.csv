@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-17T02:41:06.630Z,57.9941,-157.1099,0.4,2.3,ml,,,,0.45,ak,ak0234wzxsx3,2023-04-17T02:42:49.051Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
-2023-04-17T02:35:55.230Z,38.7879982,-122.7460022,1.64,1.29,md,17,84,0.00867,0.02,nc,nc73874520,2023-04-17T02:37:30.546Z,"2km NE of The Geysers, CA",earthquake,0.27,0.48,0.21,16,automatic,nc,nc
+2023-04-17T02:35:55.230Z,38.7879982,-122.7460022,1.64,1.29,md,17,84,0.00867,0.02,nc,nc73874520,2023-04-17T02:47:11.445Z,"2km NE of The Geysers, CA",earthquake,0.27,0.48,0.21,16,automatic,nc,nc
 2023-04-17T02:27:46.273Z,63.8942,-148.104,14.2,1.4,ml,,,,0.22,ak,ak0234wzuvya,2023-04-17T02:30:31.496Z,"42 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-17T02:18:39.990Z,60.6831,-150.7182,48.4,1.9,ml,,,,0.34,ak,ak0234wzsy0v,2023-04-17T02:20:10.077Z,"16 km N of Sterling, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-17T02:09:22.420Z,38.8136673,-122.8216629,2.54,0.63,md,7,82,0.007579,0.01,nc,nc73874515,2023-04-17T02:27:17.317Z,"7km NW of The Geysers, CA",earthquake,0.69,1.59,0.37,9,automatic,nc,nc
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T01:47:06.100Z,17.9408333333333,-66.7006666666667,10.85,2.29,md,12,204,0.117,0.07,pr,pr71405438,2023-04-17T01:59:25.910Z,"6 km SSE of Tallaboa, Puerto Rico",earthquake,0.35,0.48,0.137265577138549,5,reviewed,pr,pr
 2023-04-17T01:45:20.360Z,33.5255,-116.7301667,4.21,0.28,ml,14,146,0.04024,0.09,ci,ci40441696,2023-04-17T01:48:54.209Z,"6km WSW of Anza, CA",earthquake,0.28,0.37,0.133,6,automatic,ci,ci
 2023-04-17T01:40:30.930Z,33.929,-117.1895,13.08,0.75,ml,23,51,0.02301,0.29,ci,ci40441688,2023-04-17T01:43:59.938Z,"4km E of Moreno Valley, CA",earthquake,0.45,0.97,0.218,13,automatic,ci,ci
-2023-04-17T01:34:08.120Z,38.8186684,-122.822998,2.14,0.76,md,11,116,0.0104,0.02,nc,nc73874500,2023-04-17T01:53:20.235Z,"7km NW of The Geysers, CA",earthquake,0.42,0.81,0.32,12,automatic,nc,nc
+2023-04-17T01:34:08.120Z,38.8186684,-122.822998,2.14,0.76,md,11,116,0.0104,0.02,nc,nc73874500,2023-04-17T02:46:14.438Z,"7km NW of The Geysers, CA",earthquake,0.42,0.81,0.32,12,automatic,nc,nc
 2023-04-17T01:27:33.420Z,19.38450050354,-155.278503417969,1.21000003814697,1.80999994,md,12,72,,0.109999999,hv,hv73366117,2023-04-17T01:30:30.440Z,"Hawaii region, Hawaii",earthquake,0.36,0.209999993,1.62,11,automatic,hv,hv
 2023-04-17T01:15:40.270Z,17.9476666666667,-66.9613333333333,15.45,2.98,md,7,216,0.08182,0.06,pr,pr71405433,2023-04-17T01:40:58.120Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.56,0.14347499659658,5,reviewed,pr,pr
 2023-04-17T01:15:04.580Z,34.115,-116.9913333,28.18,0.99,ml,17,135,0.1933,0.22,ci,ci40441680,2023-04-17T01:18:38.843Z,"10km NNE of Yucaipa, CA",earthquake,0.88,1.21,0.217,12,automatic,ci,ci
@@ -158,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T04:05:19.680Z,38.7288322,-122.9166641,6.54,1.55,md,34,52,0.06782,0.05,nc,nc73874135,2023-04-16T04:58:13.718Z,"12km SE of Cloverdale, CA",earthquake,0.21,0.77,0.18,33,automatic,nc,nc
 2023-04-16T03:53:08.857Z,27.4561,143.4464,14.436,4.8,mb,61,131,6.455,0.58,us,us6000k4uh,2023-04-16T04:12:35.040Z,"Bonin Islands, Japan region",earthquake,12.22,4.696,0.046,150,reviewed,us,us
 2023-04-16T03:29:24.650Z,18.0553333333333,-66.8676666666667,17.92,2.07,md,8,103,0.0806,0.16,pr,pr71405208,2023-04-16T03:41:28.770Z,"2 km NW of Yauco, Puerto Rico",earthquake,0.55,0.67,0.1229544553923,6,reviewed,pr,pr
-2023-04-16T02:51:54.730Z,17.8796666666667,-66.8601666666667,10.88,2.61,md,15,240,0.09659,0.13,pr,pr71405193,2023-04-16T03:14:24.640Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.53,0.48,0.0756643652119227,5,reviewed,pr,pr
