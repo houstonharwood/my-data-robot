@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-17T16:51:20.000Z,19.313,-70.023,0.1,4.8,Ml,12,,,,pt,pt23107050,2023-04-17T16:54:40.794Z,"11 km N of Castillo, Dominican Republic",earthquake,,,,17,reviewed,pt,pt
-2023-04-17T16:45:00.550Z,38.8185005,-122.8216629,2.43,1.08,md,20,63,0.01029,0.03,nc,nc73874780,2023-04-17T16:46:34.979Z,"7km NW of The Geysers, CA",earthquake,0.26,0.42,0.15,22,automatic,nc,nc
+2023-04-17T16:51:20.000Z,19.313,-70.023,0.1,4.8,Ml,12,,,,pt,pt23107050,2023-04-17T17:04:58.489Z,"11 km N of Castillo, Dominican Republic",earthquake,,,,17,reviewed,pt,pt
+2023-04-17T16:45:00.550Z,38.8185005,-122.8216629,2.43,1.08,md,20,63,0.01029,0.03,nc,nc73874780,2023-04-17T17:02:15.688Z,"7km NW of The Geysers, CA",earthquake,0.26,0.42,0.15,22,automatic,nc,nc
 2023-04-17T16:35:40.480Z,38.0945015,-122.7981644,12.23,2.3,md,7,220,0.4482,0.26,nc,nc73874775,2023-04-17T16:54:17.633Z,"2km NNE of Point Reyes Station, CA",earthquake,11.28,17.48,,1,automatic,nc,nc
 2023-04-17T16:30:46.200Z,19.1386661529541,-155.505493164062,32.1100006103516,1.99000001,md,32,158,,0.219999999,hv,hv73367257,2023-04-17T16:34:05.560Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.81,1.40999997,0.379999995,9,automatic,hv,hv
 2023-04-17T16:28:43.320Z,19.3893337249756,-155.277160644531,1.03999996185303,1.80999994,md,10,94,,0.0799999982,hv,hv73367252,2023-04-17T16:34:14.530Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.330000013,1.05999994,10,automatic,hv,hv
@@ -105,10 +105,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T05:45:49.750Z,33.708,-116.8338333,14.57,0.58,ml,18,114,0.07787,0.18,ci,ci40441760,2023-04-17T13:56:25.141Z,"7km SE of Valle Vista, CA",earthquake,0.43,0.43,0.19,12,reviewed,ci,ci
 2023-04-17T05:35:28.800Z,33.4653333,-116.5761667,7.87,0.35,ml,17,131,0.03649,0.18,ci,ci40441752,2023-04-17T05:39:00.732Z,"14km SE of Anza, CA",earthquake,0.46,0.65,0.154,6,automatic,ci,ci
 2023-04-17T05:27:13.310Z,19.1306666666667,-155.9125,44.05,3.61,ml,47,237,,0.12,hv,hv73366297,2023-04-17T16:35:56.840Z,"16 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.44,0.47,0.163629382665122,28,reviewed,hv,hv
+2023-04-17T05:25:58.580Z,44.3756667,-110.67,4.1,2.03,ml,17,66,0.07,0.1,uu,uu60537401,2023-04-17T16:59:28.560Z,"46 km SE of West Yellowstone, Montana",earthquake,0.29,0.57,0.312,3,reviewed,uu,uu
 2023-04-17T05:22:01.000Z,33.1586667,-116.5665,14.17,1.02,ml,38,40,0.07886,0.24,ci,ci40441744,2023-04-17T05:33:12.010Z,"10km NNE of Julian, CA",earthquake,0.28,0.69,0.176,27,automatic,ci,ci
 2023-04-17T05:16:00.778Z,38.6716,-119.7966,10.2,1.4,ml,14,67.73,0.025,0.1376,nn,nn00858294,2023-04-17T15:46:56.866Z,"2 km SSW of Markleeville, California",earthquake,,1,1,5,reviewed,nn,nn
 2023-04-17T05:15:14.561Z,62.9331,-150.92,104,2.1,ml,,,,0.67,ak,ak0234x1kjq8,2023-04-17T05:17:26.318Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-17T04:57:33.050Z,19.1768341064453,-155.492828369141,32.6800003051758,1.80999994,md,26,95,,0.180000007,hv,hv73366277,2023-04-17T05:00:47.880Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.7,1.14999998,1.80999994,4,automatic,hv,hv
+2023-04-17T04:47:40.460Z,44.3881667,-110.666,2.03,0.24,md,6,132,0.06475,0.12,uu,uu60033149,2023-04-17T16:58:24.090Z,"46 km SE of West Yellowstone, Montana",earthquake,0.6,9.66,0.127,3,reviewed,uu,uu
 2023-04-17T04:47:27.430Z,44.3908333,-110.6736667,2.02,0.15,md,6,129,0.07,0.09,uu,uu60033144,2023-04-17T16:35:38.970Z,"Wyoming",earthquake,0.55,8.31,0.343,3,reviewed,uu,uu
 2023-04-17T04:47:12.680Z,44.3768333,-110.6851667,4.14,0.86,md,6,138,0.08023,0.07,uu,uu60033139,2023-04-17T16:24:13.500Z,"45 km SE of West Yellowstone, Montana",earthquake,0.41,1.93,0.082,2,reviewed,uu,uu
 2023-04-17T04:46:56.140Z,44.3698333,-110.6825,4.39,0.97,md,12,90,0.0803,0.13,uu,uu60537391,2023-04-17T16:23:40.080Z,"46 km SE of West Yellowstone, Montana",earthquake,0.36,0.58,0.159,3,reviewed,uu,uu
@@ -213,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T17:25:06.593Z,37.1783,141.4539,36.022,4.3,mwr,100,131,2.682,0.64,us,us6000k4x2,2023-04-16T17:59:54.040Z,"52 km SE of Namie, Japan",earthquake,7.78,6.321,0.075,17,reviewed,us,us
 2023-04-16T17:12:23.900Z,19.3848333333333,-155.134,2.09,0.88,md,16,170,,0.1,hv,hv73365782,2023-04-16T17:36:39.870Z,"Island of Hawaii, Hawaii",earthquake,0.91,0.24,0.262672151601727,2,reviewed,hv,hv
 2023-04-16T17:10:29.470Z,19.39,-155.2775,1.2,0.45,md,10,85,,0.06,hv,hv73365777,2023-04-16T17:22:06.110Z,"Hawaii region, Hawaii",earthquake,0.33,0.25,0.193426630602455,2,reviewed,hv,hv
-2023-04-16T17:05:47.930Z,19.4123333333333,-155.311833333333,3.48,1.84,md,23,75,,0.11,hv,hv73365762,2023-04-16T18:01:29.880Z,"8 km WSW of Volcano, Hawaii",earthquake,0.28,0.4,0.0619338269854945,5,reviewed,hv,hv
-2023-04-16T16:55:53.890Z,33.0443333,-116.4223333,6.13,0.78,ml,20,62,0.07299,0.27,ci,ci40441576,2023-04-16T16:59:27.764Z,"17km ESE of Julian, CA",earthquake,0.45,1.41,0.232,9,automatic,ci,ci
