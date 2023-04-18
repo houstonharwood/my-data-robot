@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-18T17:23:53.310Z,36.6759987,-121.3330002,5.2,2.86,md,55,49,0.03322,0.26,nc,nc73875160,2023-04-18T17:29:39.343Z,"13km S of Tres Pinos, CA",earthquake,0.34,0.88,0.09,72,automatic,nc,nc
+2023-04-18T17:23:53.310Z,36.6759987,-121.3330002,5.2,2.86,md,55,49,0.03322,0.26,nc,nc73875160,2023-04-18T17:33:12.151Z,"13km S of Tres Pinos, CA",earthquake,0.34,0.88,0.09,72,automatic,nc,nc
 2023-04-18T17:10:01.837Z,61.4143,-152.2742,5.5,0.5,ml,,,,0.29,ak,ak0234yw7zx3,2023-04-18T17:11:25.668Z,"70 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-18T16:51:04.422Z,-7.504,156.086,71.662,4.9,mb,51,61,4.276,0.58,us,us6000k5c8,2023-04-18T17:22:49.040Z,"106 km NW of Gizo, Solomon Islands",earthquake,9.78,6.948,0.087,41,reviewed,us,us
 2023-04-18T16:44:51.884Z,18.063,145.4028,433.479,4.6,mb,103,120,4.478,0.81,us,us6000k5c7,2023-04-18T17:03:41.040Z,"Pagan region, Northern Mariana Islands",earthquake,11.81,8.632,0.038,207,reviewed,us,us
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T09:43:06.570Z,38.760334,-122.7285004,2.46,1.22,md,8,134,0.003111,0.02,nc,nc73875030,2023-04-18T12:39:13.913Z,"3km SE of The Geysers, CA",earthquake,0.59,0.86,0.19,7,automatic,nc,nc
 2023-04-18T09:39:50.960Z,40.4173317,-124.2774963,22.56,2.3,md,9,264,0.0954,0.04,nc,nc73875025,2023-04-18T12:11:15.739Z,"10km N of Petrolia, CA",earthquake,1.78,0.96,0.05,5,automatic,nc,nc
 2023-04-18T09:32:14.050Z,44.3796667,-110.6726667,4.14,0.55,md,11,85,0.07086,0.12,uu,uu60537501,2023-04-18T15:10:08.880Z,"46 km SE of West Yellowstone, Montana",earthquake,0.36,0.61,0.411,9,reviewed,uu,uu
-2023-04-18T08:59:20.520Z,33.235,-116.169,3.99,0.92,ml,25,45,0.0791,0.27,ci,ci40442296,2023-04-18T09:02:57.201Z,"11km NNW of Ocotillo Wells, CA",earthquake,0.42,1.72,0.13,20,automatic,ci,ci
+2023-04-18T08:59:20.590Z,33.2306667,-116.1756667,9.42,0.95,ml,43,40,0.0758,0.21,ci,ci40442296,2023-04-18T17:38:51.954Z,"10km NNW of Ocotillo Wells, CA",earthquake,0.23,0.71,0.106,17,reviewed,ci,ci
 2023-04-18T08:55:00.610Z,38.8359985,-122.7991638,2.23,0.76,md,14,65,0.007297,0.01,nc,nc73875020,2023-04-18T08:56:35.903Z,"7km WNW of Cobb, CA",earthquake,0.28,0.76,0.38,14,automatic,nc,nc
 2023-04-18T08:39:45.610Z,51.8505,-178.048666666667,-1.8,1.77,ml,5,165,,0.14,av,av91853601,2023-04-18T17:29:34.300Z,"97 km W of Adak, Alaska",earthquake,0.39,0.97,0.201464018538972,5,reviewed,av,av
 2023-04-18T08:29:47.150Z,44.3311666666667,-115.051,4.46,2.21,ml,16,64,0.7837,0.16,mb,mb90010833,2023-04-18T15:00:27.710Z,"15 km NW of Stanley, Idaho",earthquake,0.37,1.09,0.317084731478868,13,reviewed,mb,mb
@@ -164,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T18:03:41.342Z,31.66461803,-104.288774,9.447900391,3.572780945,mlv,29,118,0.09596818792,0.3,tx,tx2023hnbc,2023-04-18T14:25:44.040Z,"57 km S of Whites City, New Mexico",earthquake,1.052166318,1.457032521,0.329402548,22,reviewed,tx,tx
 2023-04-17T18:01:05.800Z,33.0466667,-114.9533333,-0.2,1.25,ml,11,61,0.0771,0.22,ci,ci40441984,2023-04-18T00:16:03.343Z,"44km NNW of Los Algodones, B.C., MX",quarry blast,0.63,31.61,0.133,7,reviewed,ci,ci
 2023-04-17T17:44:38.500Z,38.8235016,-122.8031693,1.79,0.94,md,13,73,0.005395,0.05,nc,nc73874810,2023-04-17T18:04:14.074Z,"6km NW of The Geysers, CA",earthquake,0.29,0.54,0.24,16,automatic,nc,nc
-2023-04-17T17:37:42.190Z,38.8326683,-122.8178329,1.69,0.76,md,7,83,0.01107,0.01,nc,nc73874805,2023-04-17T17:54:14.007Z,"8km NW of The Geysers, CA",earthquake,0.5,1.01,0.4,6,automatic,nc,nc
