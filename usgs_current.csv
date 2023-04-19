@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T19:16:04.876Z,51.4872,159.7887,10,5.1,mb,97,111,1.69,0.92,us,us6000k5ky,2023-04-19T19:44:14.040Z,"186 km SSE of Vilyuchinsk, Russia",earthquake,7.85,1.848,0.044,167,reviewed,us,us
 2023-04-19T19:11:41.706Z,36.7283,-115.5621,0,1.4,ml,22,167.7,0.313,0.2316,nn,nn00858418,2023-04-19T19:14:04.290Z,"20 km NNE of Indian Springs, Nevada",earthquake,,32.7,0.84,16,automatic,nn,nn
 2023-04-19T18:55:38.850Z,60.79,-151.3336,65.1,1.4,ml,,,,0.3,ak,ak02350kmi3h,2023-04-19T18:57:18.382Z,"11 km NNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-19T18:53:36.790Z,33.647,-116.714,12.42,1.07,ml,37,49,0.064,0.16,ci,ci40442792,2023-04-19T18:57:13.630Z,"10km S of Idyllwild, CA",earthquake,0.24,0.4,0.155,28,automatic,ci,ci
+2023-04-19T18:53:36.700Z,33.644,-116.7188333,13.18,1.06,ml,42,54,0.04503,0.15,ci,ci40442792,2023-04-19T20:17:43.490Z,"11km S of Idyllwild, CA",earthquake,0.18,0.3,0.16,20,reviewed,ci,ci
 2023-04-19T18:35:47.670Z,19.1536674499512,-155.358993530273,32.0499992370605,2.06999993,md,35,182,,0.100000001,hv,hv73369452,2023-04-19T18:38:46.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.81,1.02999997,1.05999994,22,automatic,hv,hv
 2023-04-19T18:33:09.500Z,38.8366661,-122.7819977,2.06,0.86,md,10,86,0.006747,0.02,nc,nc73875530,2023-04-19T18:34:46.652Z,"5km WNW of Cobb, CA",earthquake,0.61,1.06,0.27,11,automatic,nc,nc
 2023-04-19T18:30:41.990Z,37.4293333,-113.1325,9.52,1.55,md,7,81,0.07332,0.14,uu,uu60033214,2023-04-19T20:12:00.320Z,"Utah",earthquake,0.4,0.9,0.225,5,reviewed,uu,uu
@@ -99,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T09:15:34.274Z,61.7382,-151.8206,163.1,1.5,ml,,,,1.1,ak,ak02350f10nn,2023-04-19T09:17:32.832Z,"35 km SW of Skwentna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-19T09:11:05.420Z,19.3963333333333,-155.269333333333,0.16,0.48,md,11,102,,0.11,hv,hv73369047,2023-04-19T09:28:00.950Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.16,0.126590509580932,3,reviewed,hv,hv
 2023-04-19T09:09:01.843Z,60.1683,-152.9943,125.9,1.5,ml,,,,0.41,ak,ak02350eznuw,2023-04-19T09:11:00.222Z,"73 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-19T09:06:05.200Z,-5.9994,149.6062,55.674,6.3,mww,126,33,10.802,1.02,us,us6000k5gu,2023-04-19T19:28:10.864Z,"23 km NNE of Kandrian, Papua New Guinea",earthquake,9.06,5.101,0.043,53,reviewed,us,us
+2023-04-19T09:06:05.200Z,-5.9994,149.6062,55.674,6.3,mww,126,33,10.802,1.02,us,us6000k5gu,2023-04-19T20:15:51.131Z,"23 km NNE of Kandrian, Papua New Guinea",earthquake,9.06,5.101,0.043,53,reviewed,us,us
 2023-04-19T09:04:39.255Z,19.2957,121.2171,36.476,4.5,mb,52,188,3.507,0.65,us,us6000k5gt,2023-04-19T09:27:40.040Z,"75 km N of Namuac, Philippines",earthquake,10.89,8.371,0.08,46,reviewed,us,us
 2023-04-19T09:01:08.035Z,37.1217,-115.1838,0,1.3,ml,7,157.69,0.304,0.1343,nn,nn00858413,2023-04-19T18:14:00.083Z,"27 km S of Alamo, Nevada",earthquake,,0,0.2,3,reviewed,nn,nn
 2023-04-19T08:58:12.450Z,35.6991667,-118.3995,4.87,1.67,ml,22,66,0.03901,0.15,ci,ci40442688,2023-04-19T13:24:12.070Z,"5km E of Wofford Heights, CA",earthquake,0.31,0.36,0.122,22,reviewed,ci,ci
@@ -220,7 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T21:38:09.660Z,37.374,-121.7296667,7.5,0.95,md,15,66,0.07655,0.07,nc,nc73875235,2023-04-18T22:55:58.854Z,"9km E of Alum Rock, CA",earthquake,0.25,0.49,0.249,15,reviewed,nc,nc
 2023-04-18T21:35:46.070Z,38.8095016,-122.822998,2.02,1.05,md,17,75,0.00487,0.03,nc,nc73875230,2023-04-18T22:10:15.677Z,"7km WNW of The Geysers, CA",earthquake,0.31,0.4,0.31,16,automatic,nc,nc
 2023-04-18T21:30:06.260Z,37.3718338,-121.729332,6.5,1.77,md,23,53,0.09665,0.07,nc,nc73875225,2023-04-19T00:13:12.229Z,"9km E of Alum Rock, CA",earthquake,0.21,0.75,0.1,17,automatic,nc,nc
-2023-04-18T21:27:57.030Z,40.6793327,-124.1816635,14.24,2.57,md,17,188,0.18,0.16,nc,nc73875220,2023-04-19T00:02:10.988Z,"5km S of Humboldt Hill, CA",earthquake,1.12,1.11,0.12,12,automatic,nc,nc
+2023-04-18T21:27:57.030Z,40.6793327,-124.1816635,14.24,2.57,md,17,188,0.18,0.16,nc,nc73875220,2023-04-19T20:17:38.495Z,"5km S of Humboldt Hill, CA",earthquake,1.12,1.11,0.12,12,automatic,nc,nc
 2023-04-18T21:21:42.240Z,36.6838333,-121.3648333,-0.47,1.32,md,18,80,0.0278,0.15,nc,nc73875215,2023-04-18T22:51:57.082Z,"12km SSW of Tres Pinos, CA",chemical explosion,0.35,31.61,0.147,14,reviewed,nc,nc
 2023-04-18T21:15:26.530Z,61.3411666666667,-152.244333333333,2.87,-0.16,ml,8,160,,0.2,av,av91854051,2023-04-19T19:50:47.360Z,"66 km WNW of Beluga, Alaska",earthquake,0.67,1.43,0.13394259779687,7,reviewed,av,av
 2023-04-18T21:12:26.530Z,33.5795,-116.8063333,6.64,0.53,ml,17,98,0.03799,0.18,ci,ci40442520,2023-04-19T17:15:06.056Z,"13km WNW of Anza, CA",earthquake,0.47,0.74,0.133,5,reviewed,ci,ci
