@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-22T11:26:10.040Z,19.1588325500488,-155.368499755859,26.5100002288818,2.8499999,md,29,220,,0.0900000036,hv,hv73372417,2023-04-22T11:29:14.200Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.95,1.38,1.41999996,3,automatic,hv,hv
+2023-04-22T11:22:18.480Z,36.0386658,-120.5963364,3.58,1.02,md,12,83,0.03008,0.05,nc,nc73876550,2023-04-22T11:23:53.249Z,"22km NW of Parkfield, CA",earthquake,0.34,0.63,0.24,6,automatic,nc,nc
 2023-04-22T11:12:10.490Z,38.8061676,-122.7908325,1.5,1.18,md,27,39,0.003928,0.02,nc,nc73876545,2023-04-22T11:23:11.690Z,"4km NW of The Geysers, CA",earthquake,0.19,0.31,0.2,28,automatic,nc,nc
 2023-04-22T11:10:25.190Z,33.4503333,-116.5208333,11.14,0.67,ml,22,91,0.08114,0.16,ci,ci40444096,2023-04-22T11:14:02.009Z,"18km SE of Anza, CA",earthquake,0.26,0.54,0.166,20,automatic,ci,ci
 2023-04-22T11:02:44.920Z,38.8143349,-122.7975006,1.46,0.42,md,7,100,0.006585,0.01,nc,nc73876540,2023-04-22T11:20:13.674Z,"5km NW of The Geysers, CA",earthquake,0.74,2.62,0.19,9,automatic,nc,nc
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T06:56:27.474Z,58.1763,-155.322,28.9,0,ml,,,,0.64,ak,ak02355c3jf7,2023-04-22T06:59:06.009Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-04-22T06:46:11.270Z,38.8383331,-122.8363342,1.83,1.15,md,26,82,0.0007093,0.02,nc,nc73876510,2023-04-22T10:34:10.425Z,"10km NW of The Geysers, CA",earthquake,0.19,0.34,0.18,25,automatic,nc,nc
 2023-04-22T06:37:38.522Z,59.8132,-152.4196,129,1.8,ml,,,,1.29,ak,ak02355bzhh5,2023-04-22T06:40:41.346Z,"33 km W of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-04-22T06:25:20.510Z,40.8813333,-121.8921667,15.76,1.8,md,25,57,0.1411,0.07,nc,nc73876505,2023-04-22T10:09:11.266Z,"5km NNE of Montgomery Creek, CA",earthquake,0.22,0.62,0.229,27,reviewed,nc,nc
+2023-04-22T06:25:20.510Z,40.8813333,-121.8921667,15.76,1.8,md,25,57,0.1411,0.07,nc,nc73876505,2023-04-22T11:25:11.703Z,"5km NNE of Montgomery Creek, CA",earthquake,0.22,0.62,0.229,27,reviewed,nc,nc
 2023-04-22T06:23:43.860Z,35.7103333,-117.5123333,2.61,0.54,ml,8,81,0.08509,0.17,ci,ci40444056,2023-04-22T06:27:17.150Z,"12km WSW of Searles Valley, CA",earthquake,0.52,0.54,0.061,6,automatic,ci,ci
 2023-04-22T06:23:11.540Z,19.1919994354248,-155.425003051758,32.5800018310547,1.83000004,md,35,153,,0.109999999,hv,hv73372147,2023-04-22T06:26:16.900Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.57,0.939999998,0.910000026,8,automatic,hv,hv
 2023-04-22T06:21:33.280Z,35.54,-117.4446667,5.8,1.18,ml,16,83,0.06706,0.17,ci,ci40444048,2023-04-22T06:25:13.115Z,"23km ESE of Ridgecrest, CA",earthquake,0.33,1.08,0.141,13,automatic,ci,ci
@@ -260,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T11:41:47.836Z,59.7794,-152.4262,88.5,0.9,ml,,,,0.28,ak,ak02353rg6cr,2023-04-21T13:08:57.627Z,"Southern Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-04-21T11:31:47.998Z,61.6817,-147.5635,87.5,1.4,ml,,,,1.21,ak,ak02353re1db,2023-04-21T11:33:52.034Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-21T11:31:21.367Z,37.4421,-115.8769,4.7,0.6,ml,11,140.56,0.227,0.1412,nn,nn00858508,2023-04-21T18:40:28.376Z,"25 km SSW of Rachel, Nevada",earthquake,,4.3,0.16,7,reviewed,nn,nn
-2023-04-21T11:29:25.900Z,38.7939987,-122.7646637,4.22,0.75,md,8,86,0.007665,0.02,nc,nc73876225,2023-04-21T13:24:10.764Z,"2km NNW of The Geysers, CA",earthquake,0.7,2.02,0.02,6,automatic,nc,nc
-2023-04-21T11:28:56.115Z,61.0228,-152.3918,104.1,0.7,ml,,,,0.49,ak,ak02353rdeuj,2023-04-21T11:30:41.362Z,"67 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
