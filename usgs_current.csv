@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-24T10:56:07.160Z,32.7695007,-116.5758362,16.31,1.07,ml,15,75,0.1206,0.13,ci,ci40444800,2023-04-24T10:58:12.348Z,"7km SW of Pine Valley, CA",earthquake,0.46,1.15,0.156,2,automatic,ci,ci
+2023-04-24T10:54:50.688Z,58.1126,-155.5701,21.8,1.1,ml,,,,0.55,ak,ak02358pjkx8,2023-04-24T10:56:19.160Z,"89 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-04-24T10:52:27.330Z,33.2253333,-116.087,8.34,1.42,ml,42,52,0.09709,0.22,ci,ci40444792,2023-04-24T10:55:59.859Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.26,1.15,0.116,27,automatic,ci,ci
 2023-04-24T10:47:07.860Z,33.3881667,-116.9,14.44,0.73,ml,22,62,0.04653,0.16,ci,ci40444784,2023-04-24T10:50:39.129Z,"5km NW of Palomar Observatory, CA",earthquake,0.35,0.58,0.155,19,automatic,ci,ci
 2023-04-24T10:39:44.280Z,33.6011667,-116.8011667,6.23,0.5,ml,14,83,0.03182,0.11,ci,ci40444776,2023-04-24T10:43:24.126Z,"13km WNW of Anza, CA",earthquake,0.28,0.5,0.311,8,automatic,ci,ci
 2023-04-24T10:17:35.170Z,19.2623329162598,-155.414993286133,31.3899993896484,1.78999996,md,37,132,,0.119999997,hv,hv73374477,2023-04-24T10:20:43.080Z,"9 km NE of Pāhala, Hawaii",earthquake,0.61,0.74000001,1.20000005,12,automatic,hv,hv
@@ -147,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T18:23:47.939Z,43.8493,-76.0197,9.622,1.5,ml,9,83,0.44,0.25,us,us6000k6lb,2023-04-24T03:33:18.838Z,"1 km SW of Adams Center, New York",earthquake,1.09,7.122,0.105,12,reviewed,us,us
 2023-04-23T18:21:45.843Z,43.8644,-76.0011,6.101,1.5,ml,8,84,0.454,0.47,us,us6000k6l8,2023-04-23T20:53:49.249Z,"0 km NE of Adams Center, New York",earthquake,1.47,5.002,0.105,12,reviewed,us,us
 2023-04-23T18:10:43.106Z,37.4855,70.0997,9.686,4.4,mb,39,122,1.454,0.58,us,us6000k6ky,2023-04-23T19:36:25.040Z,"37 km ESE of Chubek, Tajikistan",earthquake,6.87,6.011,0.108,25,reviewed,us,us
-2023-04-23T18:10:08.207Z,43.8641,-76.0232,8.94,3.6,mwr,54,31,0.454,0.5,us,us6000k6kx,2023-04-24T10:46:28.558Z,"1 km WNW of Adams Center, New York",earthquake,2.64,5.42,0.046,45,reviewed,us,us
+2023-04-23T18:10:08.207Z,43.8641,-76.0232,8.94,3.6,mwr,54,31,0.454,0.5,us,us6000k6kx,2023-04-24T10:57:01.422Z,"1 km WNW of Adams Center, New York",earthquake,2.64,5.42,0.046,45,reviewed,us,us
 2023-04-23T17:41:45.480Z,38.8321648,-122.8183365,1.49,1.32,md,24,50,0.01088,0.02,nc,nc73876990,2023-04-23T19:26:12.521Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.13,23,automatic,nc,nc
 2023-04-23T17:40:44.690Z,38.8258324,-122.7621689,1.75,0.53,md,9,208,0.007619,0.01,nc,nc73876985,2023-04-23T18:59:15.372Z,"3km W of Cobb, CA",earthquake,0.69,0.76,0.31,11,automatic,nc,nc
 2023-04-23T17:04:52.480Z,38.8063316,-122.8016663,2.54,1.07,md,18,43,0.005233,0.02,nc,nc73876975,2023-04-23T18:04:13.034Z,"5km NW of The Geysers, CA",earthquake,0.25,0.63,0.24,19,automatic,nc,nc
@@ -198,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T11:26:13.684Z,35.92686081,-97.91300201,6.64428091,1.64,ml,13,124.5057373,0.06688500196,1.168588535,ok,ok2023hxmz,2023-04-23T11:27:38.742Z,"6 km S of Dover, Oklahoma",earthquake,4.440333656,6.009349137,0.11,4,automatic,ok,ok
 2023-04-23T11:16:48.090Z,19.2560005187988,-155.40266418457,32.1800003051758,2.24000001,md,41,127,,0.140000001,hv,hv73373592,2023-04-23T11:19:59.710Z,"9 km NE of Pāhala, Hawaii",earthquake,0.61,0.829999983,0.349999994,21,automatic,hv,hv
 2023-04-23T11:07:41.370Z,19.2533340454102,-155.390167236328,32.1599998474121,2.3599999,md,38,151,,0.119999997,hv,hv73373577,2023-04-23T11:13:11.350Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.769999981,0.709999979,16,automatic,hv,hv
-2023-04-23T10:57:18.730Z,37.0465012,-121.4516678,20.25,1.17,md,7,136,0.03371,0.03,nc,nc73876910,2023-04-23T13:58:13.542Z,"11km ENE of Gilroy, CA",earthquake,1.1,3.34,0.13,9,automatic,nc,nc
-2023-04-23T10:55:12.590Z,41.5929,-120.2477,1.8,0.3,ml,4,282.94,0.313,0.1019,nn,nn00858567,2023-04-24T02:04:17.763Z,"6 km SSW of Lake City, California",earthquake,,2.1,0.57,2,reviewed,nn,nn
