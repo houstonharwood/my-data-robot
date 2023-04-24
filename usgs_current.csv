@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-24T18:32:42.730Z,38.8103333,-122.7724991,1.42,0.71,md,7,129,0.007031,0.01,nc,nc73877400,2023-04-24T18:34:17.847Z,"4km NNW of The Geysers, CA",earthquake,0.53,1.01,0.45,8,automatic,nc,nc
+2023-04-24T18:32:42.730Z,38.8103333,-122.7724991,1.42,0.71,md,7,129,0.007031,0.01,nc,nc73877400,2023-04-24T18:48:11.161Z,"4km NNW of The Geysers, CA",earthquake,0.53,1.01,0.45,8,automatic,nc,nc
 2023-04-24T18:12:46.910Z,38.8129997,-122.8068314,0.96,0.76,md,13,48,0.01031,0.02,nc,nc73877395,2023-04-24T18:28:18.039Z,"6km NW of The Geysers, CA",earthquake,0.25,0.56,0.17,13,automatic,nc,nc
 2023-04-24T18:06:23.699Z,61.3923,-150.0474,38.4,1.5,ml,,,,0.76,ak,ak02358u0pb5,2023-04-24T18:08:30.196Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-24T18:01:13.470Z,58.1828333333333,-155.303833333333,2.1,0.16,ml,10,157,,0.08,av,av91862216,2023-04-24T18:45:23.330Z,"84 km NW of Karluk, Alaska",earthquake,0.25,0.4,0.285798858217362,10,reviewed,av,av
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T11:35:38.160Z,63.167,-144.4354,0,1,ml,,,,0.25,ak,ak02358q0wyg,2023-04-24T11:37:27.431Z,"43 km NW of Mentasta Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-24T11:35:35.880Z,17.9573333333333,-66.9423333333333,13.34,2.4,md,5,215,0.06257,0.08,pr,pr71406548,2023-04-24T11:47:58.070Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.88,0.47,0.0875883903395049,4,reviewed,pr,pr
 2023-04-24T11:30:21.780Z,38.8128319,-122.8160019,2.73,1.68,md,35,60,0.01103,0.04,nc,nc73877300,2023-04-24T13:39:14.259Z,"6km NW of The Geysers, CA",earthquake,0.19,0.31,0.14,36,automatic,nc,nc
-2023-04-24T11:29:16.190Z,37.5008333,-118.8761667,12.12,0.5,md,12,298,0.09658,0.02,nc,nc73877305,2023-04-24T18:36:52.823Z,"18km SSE of Mammoth Lakes, CA",earthquake,2.02,1.31,0.129,12,reviewed,nc,nc
+2023-04-24T11:29:16.190Z,37.5008333,-118.8761667,12.12,0.5,md,12,298,0.09658,0.02,nc,nc73877305,2023-04-24T18:52:10.189Z,"18km SSE of Mammoth Lakes, CA",earthquake,2.02,1.31,0.129,12,reviewed,nc,nc
 2023-04-24T11:29:03.640Z,17.9501666666667,-66.958,15.06,2.81,md,9,218,0.05184,0.17,pr,pr71406533,2023-04-24T11:38:25.920Z,"Puerto Rico",earthquake,0.71,0.46,0.160519073051335,4,reviewed,pr,pr
 2023-04-24T11:14:21.730Z,38.8133316,-122.8154984,2.73,0.77,md,11,60,0.01091,0.02,nc,nc73877290,2023-04-24T12:46:11.906Z,"6km NW of The Geysers, CA",earthquake,0.35,1.13,0.06,12,automatic,nc,nc
 2023-04-24T10:58:31.890Z,9.3899,93.8833,7.192,5.1,mb,49,82,5.131,0.89,us,us6000k6r8,2023-04-24T11:19:01.040Z,"280 km SSE of Port Blair, India",earthquake,8.74,4.013,0.086,44,reviewed,us,us
@@ -132,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T05:10:57.423Z,58.4761,-153.2061,68.4,2,ml,,,,0.46,ak,ak02358mazwu,2023-04-24T05:13:53.919Z,"49 km NNW of Aleneva, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-24T04:54:53.900Z,33.3535,-116.2175,4.42,0.66,ml,13,107,0.1633,0.12,ci,ci40444704,2023-04-24T04:58:26.284Z,"17km SW of Oasis, CA",earthquake,0.34,1.05,0.138,12,automatic,ci,ci
 2023-04-24T04:48:39.860Z,33.346,-116.2318333,9.58,2.11,ml,71,24,0.154,0.23,ci,ci40444696,2023-04-24T04:59:14.570Z,"17km NE of Borrego Springs, CA",earthquake,0.21,0.83,0.169,25,automatic,ci,ci
-2023-04-24T04:43:44.410Z,33.371,-116.2628333,9.51,0.97,ml,32,91,0.165,0.23,ci,ci40444688,2023-04-24T04:47:21.974Z,"16km NE of Borrego Springs, CA",earthquake,0.38,1.34,0.142,23,automatic,ci,ci
+2023-04-24T04:43:44.110Z,33.3588333,-116.2591667,11.58,0.98,ml,47,67,0.09589,0.19,ci,ci40444688,2023-04-24T18:47:11.513Z,"16km NE of Borrego Springs, CA",earthquake,0.25,0.88,0.147,23,reviewed,ci,ci
 2023-04-24T04:39:09.044Z,62.1977,-148.6543,32,1.6,ml,,,,0.38,ak,ak02358lvoc8,2023-04-24T04:40:33.017Z,"45 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-24T04:37:31.462Z,0.0968,-17.2037,10,4.8,mb,44,81,8.465,0.57,us,us6000k6pq,2023-04-24T04:55:50.040Z,"north of Ascension Island",earthquake,6.09,1.87,0.066,70,reviewed,us,us
 2023-04-24T04:37:05.950Z,38.8266678,-122.8054962,2.34,0.8,md,11,71,0.004844,0.01,nc,nc73877205,2023-04-24T05:48:14.366Z,"7km NW of The Geysers, CA",earthquake,0.36,0.84,0.23,11,automatic,nc,nc
