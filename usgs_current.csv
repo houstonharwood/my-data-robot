@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-28T17:40:56.400Z,33.6621667,-116.7518333,15.58,1.36,ml,48,41,0.05809,0.17,ci,ci40213055,2023-04-28T17:44:33.876Z,"9km SSW of Idyllwild, CA",earthquake,0.2,0.37,0.175,25,automatic,ci,ci
 2023-04-28T17:38:12.610Z,38.8173332,-122.822998,2,0.64,md,12,62,0.009735,0.02,nc,nc73881431,2023-04-28T17:39:46.718Z,"7km NW of The Geysers, CA",earthquake,0.34,0.68,0.26,11,automatic,nc,nc
-2023-04-28T17:34:38.330Z,38.8181648,-122.8218307,2.26,1.02,md,22,49,0.01056,0.02,nc,nc73881426,2023-04-28T17:36:15.927Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.26,23,automatic,nc,nc
+2023-04-28T17:34:38.330Z,38.8181648,-122.8218307,2.26,1.02,md,22,49,0.01056,0.02,nc,nc73881426,2023-04-28T17:49:10.911Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.26,23,automatic,nc,nc
 2023-04-28T17:31:46.932Z,38.19,-117.7999,0,1.6,ml,12,183.89,0.134,0.2729,nn,nn00858849,2023-04-28T17:34:47.417Z,"35 km SE of Mina, Nevada",earthquake,,4.3,0.81,8,automatic,nn,nn
 2023-04-28T17:19:16.267Z,49.1893,-120.8133,5.374,3.4,ml,47,181,0.661,0.44,us,us7000jwrg,2023-04-28T17:44:28.474Z,"37 km SW of Princeton, Canada",earthquake,2.36,6.603,0.034,116,reviewed,us,us
 2023-04-28T17:18:50.787Z,63.1518,-151.3188,0.1,1.2,ml,,,,0.9,ak,ak0235ffnab2,2023-04-28T17:22:00.120Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -92,6 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T08:39:38.510Z,14.0171,-90.9451,67.914,4.4,mb,53,161,1.137,0.79,us,us7000jwl4,2023-04-28T08:53:30.040Z,"13 km ESE of La Gomera, Guatemala",earthquake,10.39,8.365,0.068,62,reviewed,us,us
 2023-04-28T08:36:35.650Z,17.9451666666667,-66.9268333333333,14.23,1.94,md,7,215,0.03198,0.07,pr,pr71407053,2023-04-28T08:56:17.340Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.7,0.43,0.0286911818534656,5,reviewed,pr,pr
 2023-04-28T08:35:29.843Z,66.0809,-150.5311,0.1,1.5,ml,,,,0.77,ak,ak0235fadzh4,2023-04-28T08:37:35.130Z,"65 km W of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-28T08:33:07.050Z,32.692,-115.5271667,7.41,1.26,ml,17,67,0.09201,0.22,ci,ci40212495,2023-04-28T17:45:40.945Z,"3km WNW of Calexico, CA",earthquake,0.37,0.96,0.162,12,reviewed,ci,ci
 2023-04-28T08:18:44.860Z,19.4085006713867,-155.257507324219,2.34999990463257,1.78999996,md,19,87,,0.129999995,hv,hv73380332,2023-04-28T08:21:57.220Z,"4 km SSW of Volcano, Hawaii",earthquake,0.26,0.319999993,1.20000005,12,automatic,hv,hv
 2023-04-28T08:12:00.540Z,32.6945,-115.5278333,7.07,2.42,ml,41,44,0.08048,0.25,ci,ci40212487,2023-04-28T17:31:14.353Z,"3km WNW of Calexico, CA",earthquake,0.25,0.73,0.243,26,reviewed,ci,ci
 2023-04-28T08:10:31.970Z,17.9431666666667,-66.9275,14.77,2.53,md,12,213,0.05581,0.11,pr,pr71407048,2023-04-28T08:25:51.370Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.47,0.49,0.145035611793069,6,reviewed,pr,pr
@@ -160,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T03:50:59.623Z,64.9587,-149.2942,19.6,0.8,ml,,,,0.61,ak,ak0235f7i3h5,2023-04-28T03:55:27.743Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-28T03:46:03.921Z,64.9687,-149.3149,20,1.2,ml,,,,0.09,ak,ak0235f7h4bs,2023-04-28T03:47:33.099Z,"20 km S of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-28T03:41:18.391Z,31.65176817,-104.2854443,8.008251953,3.2,ml,14,58,0.02648518761,0.2,tx,tx2023igbe,2023-04-28T08:21:54.942Z,"58 km S of Whites City, New Mexico",earthquake,1.085855865,1.501077377,0.1,37,reviewed,tx,tx
-2023-04-28T03:40:16.480Z,32.697,-115.5308333,8.68,1.88,ml,20,62,0.09763,0.27,ci,ci40212319,2023-04-28T03:50:39.130Z,"4km NW of Calexico, CA",earthquake,0.55,1.63,0.243,28,automatic,ci,ci
+2023-04-28T03:40:16.330Z,32.703,-115.5355,11.01,1.86,ml,31,47,0.06992,0.22,ci,ci40212319,2023-04-28T17:50:18.390Z,"3km S of Heber, CA",earthquake,0.32,0.58,0.267,24,reviewed,ci,ci
 2023-04-28T03:34:10.983Z,-25.1079,178.3823,569.607,5.5,mww,64,55,5.27,0.94,us,us7000jwi2,2023-04-28T03:51:13.040Z,"south of the Fiji Islands",earthquake,10.33,7.267,0.098,10,reviewed,us,us
 2023-04-28T03:21:43.690Z,32.6938333,-115.5323333,8.38,1.51,ml,24,64,0.07834,0.24,ci,ci40212295,2023-04-28T16:24:09.313Z,"4km WNW of Calexico, CA",earthquake,0.36,1.01,0.339,12,reviewed,ci,ci
 2023-04-28T03:20:13.542Z,60.4538,-143.2416,19,2,ml,,,,0.44,ak,ak0235f7bkga,2023-04-28T03:21:48.433Z,"110 km S of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
