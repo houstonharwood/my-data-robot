@@ -10,12 +10,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:28:30.510Z,39.3821678,-122.8993301,0.28,1.59,md,10,115,0.1774,0.15,nc,nc73882306,2023-04-30T17:46:10.243Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.59,12.03,0.09,4,automatic,nc,nc
 2023-04-30T16:23:41.320Z,17.9611666666667,-66.9605,7.05,2.32,md,11,197,0.05056,0.12,pr,pr71407318,2023-04-30T16:53:24.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.58,0.27,0.0468957589521872,4,reviewed,pr,pr
 2023-04-30T16:20:44.220Z,39.2903328,-123.2838364,-0.09,1.39,md,7,135,0.08553,0.05,nc,nc73882301,2023-04-30T17:20:11.067Z,"7km WNW of Redwood Valley, CA",earthquake,0.5,2.98,0.03,5,automatic,nc,nc
-2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"31 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-30T16:01:54.230Z,19.4038333892822,-155.259170532227,0.159999996423721,2.17000008,md,13,75,,0.219999999,hv,hv73384632,2023-04-30T16:04:47.990Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.540000021,2.07999992,6,automatic,hv,hv
 2023-04-30T15:58:29.830Z,17.9366666666667,-66.9651666666667,6.83,1.73,md,5,230,0.06437,0.03,pr,pr71407308,2023-04-30T16:11:42.140Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.76,0.31,0.171972009439333,3,reviewed,pr,pr
 2023-04-30T15:50:39.259Z,61.4036,-149.8548,33.9,2,ml,,,,0.17,ak,ak0235ippy5x,2023-04-30T15:51:57.200Z,"8 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-30T15:49:19.190Z,62.6717,-149.5777,53.1,1.8,ml,,,,0.61,ak,ak0235ippowf,2023-04-30T15:51:16.964Z,"36 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-30T15:48:32.743Z,18.6102,-103.9016,56.144,4.5,mb,24,227,2.731,0.91,us,us7000jx76,2023-04-30T16:40:30.361Z,"24 km SW of Cerro de Ortega, Mexico",earthquake,7.92,11.312,0.061,79,reviewed,us,us
+2023-04-30T15:48:32.743Z,18.6102,-103.9016,56.144,4.5,mb,24,227,2.731,0.91,us,us7000jx76,2023-04-30T17:52:32.923Z,"24 km SW of Cerro de Ortega, Mexico",earthquake,7.92,11.312,0.061,79,reviewed,us,us
 2023-04-30T15:47:52.664Z,48.6407,155.4728,37.187,4.7,mb,47,137,4.828,0.87,us,us7000jx79,2023-04-30T16:11:05.040Z,"231 km SSW of Severo-Kuril’sk, Russia",earthquake,11.74,7.832,0.064,75,reviewed,us,us
 2023-04-30T15:39:21.250Z,33.2586667,-116.7746667,6.83,0.75,ml,17,79,0.02626,0.16,ci,ci40216135,2023-04-30T16:58:00.256Z,"2km NNW of Lake Henshaw, CA",earthquake,0.29,0.55,0.143,17,reviewed,ci,ci
 2023-04-30T15:39:16.780Z,34.3308333,-116.9265,7.89,0.92,ml,14,91,0.06853,0.3,ci,ci40216127,2023-04-30T15:42:53.858Z,"10km N of Big Bear Lake, CA",earthquake,0.72,1.44,0.126,10,automatic,ci,ci
@@ -324,5 +324,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T18:06:10.680Z,32.7246667,-115.5495,4.29,1.5,ml,10,103,0.07252,0.26,ci,ci40214767,2023-04-29T18:09:48.555Z,"2km WSW of Heber, CA",earthquake,0.8,1.83,0.212,16,automatic,ci,ci
 2023-04-29T18:02:56.635Z,38.3603,22.1535,4.82,4.5,mb,71,45,0.675,0.76,us,us7000jx0r,2023-04-29T18:36:08.040Z,"13 km NE of Rododáfni, Greece",earthquake,2.62,4.427,0.06,85,reviewed,us,us
 2023-04-29T17:59:54.690Z,32.7228333,-115.5478333,7.48,2.25,ml,25,54,0.07471,0.23,ci,ci40214759,2023-04-29T18:10:37.930Z,"2km WSW of Heber, CA",earthquake,0.4,0.96,0.231,26,automatic,ci,ci
-2023-04-29T17:55:16.910Z,19.4041666666667,-155.286833333333,0.6,0.42,md,12,65,,0.06,hv,hv73383252,2023-04-29T18:14:02.060Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.22,0.152913042920568,3,reviewed,hv,hv
-2023-04-29T17:53:11.500Z,32.7198333,-115.5431667,3.11,1.83,ml,23,51,0.07965,0.27,ci,ci40214751,2023-04-29T18:04:40.669Z,"2km SW of Heber, CA",earthquake,0.46,0.9,0.202,26,automatic,ci,ci
