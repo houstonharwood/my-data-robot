@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-30T14:33:21.340Z,19.4076671600342,-155.255661010742,0.280000001192093,2.21000004,md,16,84,,0.159999996,hv,hv73384562,2023-04-30T14:36:21.010Z,"4 km SSW of Volcano, Hawaii",earthquake,0.25,0.270000011,1.48000002,13,automatic,hv,hv
+2023-04-30T14:33:21.340Z,19.4076671600342,-155.255661010742,0.280000001192093,1.93,ml,16,84,,0.159999996,hv,hv73384562,2023-04-30T14:38:51.790Z,"4 km SSW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.31,7,automatic,hv,hv
+2023-04-30T14:33:01.520Z,19.400333404541,-155.270172119141,1.03999996185303,1.88,ml,13,67,,0.119999997,hv,hv73384557,2023-04-30T14:38:32.540Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.340000004,0.28,9,automatic,hv,hv
 2023-04-30T14:22:05.470Z,33.6393333,-116.6933333,13.67,0.54,ml,25,95,0.07372,0.14,ci,ci40216055,2023-04-30T14:25:33.921Z,"10km N of Anza, CA",earthquake,0.3,0.5,0.257,13,automatic,ci,ci
 2023-04-30T14:18:00.246Z,62.622,-150.5618,10.7,1.5,ml,,,,0.57,ak,ak0235ioxkmw,2023-04-30T14:19:44.104Z,"17 km NE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-30T14:15:19.530Z,19.4016666412354,-155.264007568359,0.649999976158142,1.85,ml,16,71,,0.0900000036,hv,hv73384532,2023-04-30T14:20:50.220Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.310000002,0.34,9,automatic,hv,hv
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T07:19:16.930Z,33.2165,-115.589,1.16,2.86,ml,35,90,0.04359,0.24,ci,ci40215607,2023-04-30T07:30:10.730Z,"7km WSW of Niland, CA",earthquake,0.39,31.61,0.149,28,automatic,ci,ci
 2023-04-30T07:17:18.800Z,34.0373333,-117.246,15.63,1.21,ml,34,48,0.1084,0.18,ci,ci40215599,2023-04-30T07:20:56.896Z,"2km SE of Loma Linda, CA",earthquake,0.25,0.54,0.152,22,automatic,ci,ci
 2023-04-30T07:12:27.960Z,33.2094994,-115.5958328,0.44,3.26,ml,10,119,0.03456,0.26,ci,ci40215591,2023-04-30T08:01:48.040Z,"8km WSW of Niland, CA",earthquake,0.89,5.27,0.273,3,automatic,ci,ci
-2023-04-30T07:10:10.710Z,33.2014999,-115.5936661,9.57,3.95,mlr,54,49,0.07812,0.29,ci,ci40215583,2023-04-30T14:29:23.980Z,"8km WSW of Niland, CA",earthquake,0.33,0.67,0.356,22,reviewed,ci,ci
+2023-04-30T07:10:10.710Z,33.2014999,-115.5936661,9.57,3.95,mlr,54,49,0.07812,0.29,ci,ci40215583,2023-04-30T14:39:09.506Z,"8km WSW of Niland, CA",earthquake,0.33,0.67,0.356,22,reviewed,ci,ci
 2023-04-30T07:09:34.660Z,33.1988335,-115.5820007,8.24,4.53,mw,104,45,0.07752,0.24,ci,ci40215575,2023-04-30T14:04:35.986Z,"7km SW of Niland, CA",earthquake,0.22,0.69,,6,reviewed,ci,ci
 2023-04-30T07:04:21.820Z,33.0448333,-115.9735,16.63,0.92,ml,15,64,0.1284,0.25,ci,ci40215567,2023-04-30T07:07:55.528Z,"18km SE of Ocotillo Wells, CA",earthquake,0.85,1.79,0.062,8,automatic,ci,ci
 2023-04-30T07:02:43.310Z,33.0316667,-116.0176667,1.37,1.58,ml,43,41,0.1454,0.23,ci,ci40215559,2023-04-30T07:13:18.630Z,"16km SE of Ocotillo Wells, CA",earthquake,0.25,0.73,0.151,26,automatic,ci,ci
@@ -383,6 +384,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T14:47:40.060Z,39.2533333,-123.2836667,6.67,1.08,md,13,68,0.04941,0.03,nc,nc73881836,2023-04-30T06:04:12.102Z,"7km W of Redwood Valley, CA",earthquake,0.28,0.61,0.262,13,reviewed,nc,nc
 2023-04-29T14:47:32.081Z,56.8134,-158.1289,3.8,2.3,ml,,,,0.51,ak,ak0235h1kid4,2023-04-29T23:01:41.880Z,"60 km NNE of Chignik, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2023-04-29T14:46:25.410Z,19.4151666666667,-155.312666666667,3.16,0.7,md,12,192,,0.07,hv,hv73382857,2023-04-29T15:03:03.600Z,"8 km WSW of Volcano, Hawaii",earthquake,0.39,0.44,0.268691469749333,2,reviewed,hv,hv
-2023-04-29T14:43:57.632Z,63.28,-151.5362,1.9,1.2,ml,,,,0.91,ak,ak0235h1jphd,2023-04-29T14:46:56.574Z,"30 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-29T14:39:16.900Z,38.0756667,-118.794,9.94,2.02,md,27,83,0.2047,0.06,nc,nc73881831,2023-04-30T10:23:12.513Z,"24km SE of Bodie, CA",earthquake,0.21,1.56,0.29,30,reviewed,nc,nc
-2023-04-29T14:38:38.550Z,19.4183333333333,-155.322166666667,5.09,1.57,ml,23,94,,0.08,hv,hv73382832,2023-04-29T14:55:38.650Z,"9 km WSW of Volcano, Hawaii",earthquake,0.34,0.57,0.12406508457008,8,reviewed,hv,hv
