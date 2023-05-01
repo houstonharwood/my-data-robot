@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-01T16:30:47.770Z,36.4346657,-121.0230026,5.72,1.97,md,21,146,0.01044,0.15,nc,nc73882746,2023-05-01T16:32:24.607Z,"15km SE of Pinnacles, CA",earthquake,0.59,0.69,0.15,19,automatic,nc,nc
 2023-05-01T16:11:21.309Z,59.9805,-152.2338,34,1.6,ml,,,,0.18,ak,ak0235kdmbya,2023-05-01T16:13:07.854Z,"28 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-01T15:55:18.651Z,26.0271,128.6477,10,4.6,mb,50,71,0.873,1.22,us,us7000jxcx,2023-05-01T16:26:00.040Z,"83 km SE of Taira, Japan",earthquake,5.87,1.848,0.08,47,reviewed,us,us
 2023-05-01T15:50:00.890Z,19.138500213623,-155.356674194336,26.5699996948242,1.87,md,35,189,,0.109999999,hv,hv73385772,2023-05-01T15:53:14.970Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.74,1.07000005,0.930000007,3,automatic,hv,hv
@@ -140,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T22:46:27.020Z,36.564167,-121.1545029,7.64,1.55,md,13,128,0.02599,0.1,nc,nc73882476,2023-05-01T01:19:14.980Z,"4km NNW of Pinnacles, CA",earthquake,0.48,0.96,0.16,10,automatic,nc,nc
 2023-04-30T22:43:23.420Z,58.246,-155.147833333333,3.44,0.26,ml,7,85,,0.05,av,av91869826,2023-05-01T03:29:16.660Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.81,0.244905389588552,7,reviewed,av,av
 2023-04-30T22:36:25.280Z,57.9964,-154.9894,90.4,1,ml,,,,0.1,ak,ak0235itsyao,2023-04-30T22:37:59.337Z,"57 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-30T22:26:59.890Z,36.70916667,-98.7245,5.76,1.75,ml,46,68,0.1223759857,0.15,ok,ok2023ildh,2023-05-01T16:32:53.030Z,"5 km E of Avard, Oklahoma",earthquake,,0.4,0.14,4,reviewed,ok,ok
 2023-04-30T22:17:17.200Z,38.8380013,-122.7825012,1.53,0.77,md,12,80,0.006139,0.02,nc,nc73882461,2023-04-30T22:46:11.083Z,"5km WNW of Cobb, CA",earthquake,0.52,0.99,0.24,12,automatic,nc,nc
 2023-04-30T22:14:24.861Z,59.7597,-153.0866,96.6,0.8,ml,,,,0.44,ak,ak0235ito72r,2023-04-30T22:16:35.092Z,"57 km E of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-04-30T22:11:42.300Z,38.7798347,-122.7568359,1.11,0.76,md,11,103,0.01146,0.03,nc,nc73882451,2023-05-01T00:27:11.680Z,"0km N of The Geysers, CA",earthquake,0.35,0.69,0.29,12,automatic,nc,nc
@@ -195,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:53:32.390Z,33.1858333,-115.6038333,2.35,1.17,ml,11,89,0.01295,0.15,ci,ci40216191,2023-04-30T16:57:05.728Z,"10km SW of Niland, CA",earthquake,0.44,0.33,0.17,18,automatic,ci,ci
 2023-04-30T16:47:17.370Z,53.7467,-164.184,48.9,2.4,ml,,,,0.49,ak,ak0235iqaptv,2023-04-30T20:18:59.033Z,"113 km ESE of Akutan, Alaska",earthquake,,3.7,,,reviewed,ak,ak
 2023-04-30T16:39:09.664Z,-23.2708,-70.0129,69.13,4.6,mb,18,126,0.694,1.56,us,us7000jx7g,2023-04-30T18:29:57.040Z,"48 km ESE of Mejillones, Chile",earthquake,4.44,7.199,0.193,10,reviewed,us,us
-2023-04-30T16:37:02.837Z,62.2405,-149.9081,16.5,1.2,ml,,,,0.57,ak,ak0235iq8inf,2023-04-30T16:39:17.931Z,"9 km NNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-30T16:32:27.730Z,33.1978333,-115.5866667,1.96,1.77,ml,26,45,0.03167,0.21,ci,ci40216167,2023-04-30T16:36:14.405Z,"8km SW of Niland, CA",earthquake,0.29,0.48,0.162,28,automatic,ci,ci
-2023-04-30T16:29:02.679Z,1.3235,126.3001,28.646,5.1,mb,51,85,1.199,0.71,us,us7000jx7c,2023-04-30T16:46:40.040Z,"131 km E of Bitung, Indonesia",earthquake,7.8,5.616,0.048,142,reviewed,us,us
-2023-04-30T16:28:30.510Z,39.3821678,-122.8993301,0.28,1.59,md,10,115,0.1774,0.15,nc,nc73882306,2023-04-30T17:46:10.243Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.59,12.03,0.09,4,automatic,nc,nc
