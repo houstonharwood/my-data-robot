@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T20:20:45.390Z,38.8139992,-122.7953339,1.08,0.76,md,11,74,0.006022,0.02,nc,nc73883071,2023-05-02T20:34:11.701Z,"5km NW of The Geysers, CA",earthquake,0.36,0.79,0.34,11,automatic,nc,nc
 2023-05-02T20:15:45.639Z,63.1024,-151.4989,0,1.3,ml,,,,0.83,ak,ak0235m3kblv,2023-05-02T20:18:02.059Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-02T20:15:39.621Z,39.1914,-116.1556,0,3.3,ml,7,61.7,0.874,0.1946,nn,nn00858976,2023-05-02T20:47:12.602Z,"39 km SSW of Eureka, Nevada",earthquake,,0,0.24,3,reviewed,nn,nn
-2023-05-02T20:09:59.379Z,-4.0834,142.7162,119.747,5.5,mww,93,47,6.886,0.77,us,us7000jxk7,2023-05-02T20:43:58.193Z,"18 km NW of Ambunti, Papua New Guinea",earthquake,9.27,5.961,0.053,34,reviewed,us,us
+2023-05-02T20:09:59.379Z,-4.0834,142.7162,119.747,5.5,mww,93,47,6.886,0.77,us,us7000jxk7,2023-05-02T20:52:02.058Z,"18 km NW of Ambunti, Papua New Guinea",earthquake,9.27,5.961,0.053,34,reviewed,us,us
 2023-05-02T19:55:13.000Z,38.7876663,-122.7718353,2.66,0.76,md,11,108,0.01372,0.02,nc,nc73883066,2023-05-02T20:11:12.720Z,"2km NW of The Geysers, CA",earthquake,0.46,1,0.2,11,automatic,nc,nc
 2023-05-02T19:26:49.730Z,32.5978333,-116.9893333,2.75,1.35,ml,21,206,0.05088,0.16,ci,ci40217407,2023-05-02T19:30:23.985Z,"6km ESE of Chula Vista, CA",quarry blast,0.73,0.45,0.096,6,automatic,ci,ci
 2023-05-02T19:24:13.460Z,38.8148346,-122.8270035,1.65,1.07,md,13,81,0.006195,0.01,nc,nc73883061,2023-05-02T20:16:12.703Z,"7km NW of The Geysers, CA",earthquake,0.25,0.53,0.15,14,automatic,nc,nc
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T17:33:53.479Z,35.92066667,-95.1435,0,1.46,ml,41,248,0.7648499104,0.41,ok,ok2023iokq,2023-05-02T17:43:44.779Z,"1 km S of Hulbert, Oklahoma",quarry blast,,0.8,0.18,12,reviewed,ok,ok
 2023-05-02T17:30:24.800Z,38.4888333,-112.8423333,0.6,-0.34,md,10,99,0.01004,0.07,uu,uu60538936,2023-05-02T18:19:32.890Z,"17 km NE of Milford, Utah",earthquake,0.25,0.67,0.405,3,reviewed,uu,uu
 2023-05-02T17:25:30.704Z,44.2834,-115.2222,16.333,3,ml,27,39,0.854,0.6,us,us7000jxj8,2023-05-02T20:41:28.230Z,"23 km WNW of Stanley, Idaho",earthquake,2.25,7.075,0.031,138,reviewed,us,us
-2023-05-02T17:25:06.411Z,44.3384,-115.253,16.926,2.6,ml,17,62,0.815,0.91,us,us7000jxj7,2023-05-02T17:56:46.040Z,"28 km WNW of Stanley, Idaho",earthquake,2.66,1.415,0.105,12,reviewed,us,us
+2023-05-02T17:25:06.411Z,44.3384,-115.253,16.926,2.6,ml,17,62,0.815,0.91,us,us7000jxj7,2023-05-02T20:53:42.790Z,"28 km WNW of Stanley, Idaho",earthquake,2.66,1.415,0.105,12,reviewed,us,us
 2023-05-02T17:08:21.220Z,19.3308334350586,-155.295166015625,2.5699999332428,1.77,ml,19,129,,0.129999995,hv,hv73386937,2023-05-02T17:13:53.440Z,"13 km SSW of Volcano, Hawaii",earthquake,0.41,0.660000026,0.37,4,automatic,hv,hv
 2023-05-02T16:36:14.809Z,60.1283,-151.6226,85.6,1.4,ml,,,,0.27,ak,ak0235m1b0ug,2023-05-02T16:38:40.744Z,"9 km NNE of Ninilchik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-05-02T16:27:07.670Z,63.118,-151.3432,0,1.3,ml,,,,0.58,ak,ak0235m192un,2023-05-02T16:29:08.265Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T13:51:03.110Z,19.4118328094482,-155.320327758789,2.35999989509583,1.77,ml,32,79,,0.170000002,hv,hv73386777,2023-05-02T13:56:34.130Z,"9 km WSW of Volcano, Hawaii",earthquake,0.32,0.379999995,0.39,8,automatic,hv,hv
 2023-05-02T13:44:05.720Z,40.2908333,-124.4426667,11.67,2.33,md,18,245,0.07659,0.12,nc,nc73883011,2023-05-02T20:16:10.738Z,"14km WSW of Petrolia, CA",earthquake,0.54,0.35,0.253,26,reviewed,nc,nc
 2023-05-02T13:26:41.246Z,58.2093,-152.1496,69.1,2.1,ml,,,,0.33,ak,ak0235lzgmws,2023-05-02T13:29:03.267Z,"38 km NNE of Ouzinkie, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-05-02T13:22:30.480Z,37.5483333,-118.8213333,-0.87,1.4,md,17,167,0.04208,0.04,nc,nc73883001,2023-05-02T20:05:11.499Z,"12km W of Toms Place, CA",earthquake,0.4,0.21,0.177,16,reviewed,nc,nc
+2023-05-02T13:22:30.480Z,37.5483333,-118.8213333,-0.87,1.4,md,17,167,0.04208,0.04,nc,nc73883001,2023-05-02T20:50:12.808Z,"12km W of Toms Place, CA",earthquake,0.4,0.21,0.177,16,reviewed,nc,nc
 2023-05-02T12:39:41.270Z,37.4576667,-121.7688333,5.34,0.99,md,26,86,0.02614,0.07,nc,nc73882996,2023-05-02T18:43:11.963Z,"11km NNE of Alum Rock, CA",earthquake,0.23,0.32,0.203,19,reviewed,nc,nc
 2023-05-02T12:27:37.100Z,33.6816667,-116.7605,11.55,0.45,ml,18,112,0.04856,0.24,ci,ci40217191,2023-05-02T12:31:04.345Z,"8km SSW of Idyllwild, CA",earthquake,0.61,0.82,0.159,8,automatic,ci,ci
 2023-05-02T12:01:22.512Z,65.0564,-148.4989,14.8,0.8,ml,,,,0.56,ak,ak0235lypsyj,2023-05-02T12:04:12.810Z,"32 km NW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T21:08:42.690Z,38.8373337,-122.7923355,2.05,0.71,md,7,81,0.00189,0.01,nc,nc73882816,2023-05-01T21:26:12.505Z,"6km WNW of Cobb, CA",earthquake,0.54,1.76,0.4,10,automatic,nc,nc
 2023-05-01T21:08:34.594Z,40.1274,-120.9624,0,1.2,ml,3,337.74,0.531,0.0835,nn,nn00858946,2023-05-01T23:16:43.600Z,"Northern California",earthquake,,0,0.1,2,reviewed,nn,nn
 2023-05-01T20:59:49.870Z,34.036,-117.2351667,15.56,1.22,ml,45,117,0.0989,0.2,ci,ci40216959,2023-05-02T14:57:55.382Z,"3km ESE of Loma Linda, CA",earthquake,0.29,0.5,0.116,22,reviewed,ci,ci
-2023-05-01T20:52:30.200Z,38.8043327,-122.7803345,0.96,0.59,md,8,88,0.008917,0.03,nc,nc73882811,2023-05-01T21:15:13.310Z,"4km NW of The Geysers, CA",earthquake,0.38,0.95,0.27,7,automatic,nc,nc
