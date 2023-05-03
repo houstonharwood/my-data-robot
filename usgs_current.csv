@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-03T11:19:10.780Z,35.8735008,-117.7043304,10.83,1.11,ml,12,127,0.08136,0.09,ci,ci40217935,2023-05-03T11:21:18.773Z,"20km ESE of Little Lake, CA",earthquake,0.48,0.82,0.319,2,automatic,ci,ci
+2023-05-03T11:19:10.950Z,35.8685,-117.7208333,9.94,0.84,ml,11,151,0.0697,0.16,ci,ci40217935,2023-05-03T11:22:45.714Z,"18km ESE of Little Lake, CA",earthquake,0.48,0.92,0.153,9,automatic,ci,ci
 2023-05-03T11:09:23.910Z,38.8419991,-122.8395004,2.18,0.72,md,15,118,0.004628,0.02,nc,nc73883346,2023-05-03T11:20:11.430Z,"10km NW of The Geysers, CA",earthquake,0.29,0.55,0.37,16,automatic,nc,nc
 2023-05-03T11:06:38.756Z,61.2673,-149.4999,31.2,2.3,ml,,,,0.73,ak,ak0235nlotng,2023-05-03T11:16:32.769Z,"7 km SSE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-03T11:06:32.779Z,59.9934,-153.1975,122.6,1.5,ml,,,,0.28,ak,ak0235nlot61,2023-05-03T11:08:07.024Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T09:51:19.982Z,36.5076,70.7533,193.559,5.3,mww,129,28,2.408,0.69,us,us7000jxqb,2023-05-03T10:16:29.046Z,"40 km S of Jurm, Afghanistan",earthquake,6.11,4.45,0.068,21,reviewed,us,us
 2023-05-03T09:50:29.626Z,61.6883,-151.8422,105.5,1.4,ml,,,,0.36,ak,ak0235nkrd9u,2023-05-03T09:52:29.754Z,"40 km SW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-03T09:33:07.930Z,38.8363342,-122.8061676,1.93,0.67,md,9,110,0.01253,0.02,nc,nc73883326,2023-05-03T09:58:13.157Z,"7km WNW of Cobb, CA",earthquake,0.46,0.93,0.16,9,automatic,nc,nc
-2023-05-03T09:31:40.410Z,38.7901649,-122.7786636,0.91,1.05,md,9,98,0.007833,0.02,nc,nc73883321,2023-05-03T09:48:11.864Z,"2km NW of The Geysers, CA",earthquake,0.36,0.73,0.13,11,automatic,nc,nc
+2023-05-03T09:31:40.410Z,38.7901649,-122.7786636,0.91,1.05,md,9,98,0.007833,0.02,nc,nc73883321,2023-05-03T11:26:10.464Z,"2km NW of The Geysers, CA",earthquake,0.36,0.73,0.13,11,automatic,nc,nc
 2023-05-03T09:26:38.240Z,35.656,-117.5475,2.02,0.78,ml,12,130,0.1012,0.16,ci,ci40217911,2023-05-03T09:30:20.196Z,"12km ENE of Ridgecrest, CA",earthquake,0.73,0.48,0.1,4,automatic,ci,ci
 2023-05-03T09:26:05.380Z,61.2748,-150.4749,35.8,2.7,ml,,,,0.71,ak,ak0235nkm66n,2023-05-03T11:10:12.573Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-03T09:13:13.510Z,35.7943333,-117.5815,1.61,0.73,ml,10,209,0.1497,0.24,ci,ci40217903,2023-05-03T09:16:50.184Z,"16km W of Searles Valley, CA",earthquake,1.26,0.78,0.182,4,automatic,ci,ci
@@ -229,7 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T11:46:05.147Z,38.3777,-96.8782,5,2.3,mb_lg,23,104,0.736,0.55,us,us7000jxhg,2023-05-02T12:19:22.860Z,"Kansas",earthquake,2.51,2.001,0.128,16,reviewed,us,us
 2023-05-02T11:42:33.590Z,19.1691665649414,-155.484329223633,30.1200008392334,1.87,md,36,100,,0.0900000036,hv,hv73386682,2023-05-02T11:45:51.660Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,1.00999999,0.529999971,5,automatic,hv,hv
 2023-05-02T11:31:55.330Z,60.0553333333333,-153.087166666667,1.98,-0.42,ml,5,161,,0.18,av,av91871421,2023-05-02T23:39:34.570Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.94,1.34,0.236697247172921,5,reviewed,av,av
-2023-05-02T11:26:35.520Z,38.8311653,-122.8573303,2.22,1.1,md,21,64,0.003633,0.02,nc,nc73882986,2023-05-02T14:32:14.680Z,"11km NW of The Geysers, CA",earthquake,0.27,0.39,0.23,23,automatic,nc,nc
-2023-05-02T11:25:12.030Z,33.6715,-116.7598333,16.12,0.74,ml,20,105,0.05491,0.14,ci,ci40217159,2023-05-02T13:19:43.292Z,"8km SSW of Idyllwild, CA",earthquake,0.31,0.53,0.174,17,reviewed,ci,ci
-2023-05-02T11:23:41.151Z,61.8749,-146.8582,32.7,1.4,ml,,,,1.31,ak,ak0235ly94jn,2023-05-02T11:25:35.772Z,"13 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-02T11:21:52.490Z,17.9876666666667,-66.787,11.26,2.8,md,12,171,0.03244,0.15,pr,pr71407508,2023-05-02T11:47:33.120Z,"3 km ESE of Indios, Puerto Rico",earthquake,0.38,0.47,0.0189530566201979,6,reviewed,pr,pr
