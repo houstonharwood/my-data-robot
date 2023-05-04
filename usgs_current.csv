@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-04T02:50:48.200Z,61.6952,-151.8053,94.6,1.4,ml,,,,0.25,ak,ak0235p44pys,2023-05-04T02:52:35.012Z,"39 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-04T02:38:04.827Z,63.0848,-151.3676,0,1.2,ml,,,,0.74,ak,ak0235p4220y,2023-05-04T02:40:16.441Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-04T02:28:03.603Z,61.2366,-147.0527,15.2,1.4,ml,,,,0.47,ak,ak0235p3zwrs,2023-05-04T02:29:56.638Z,"39 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-04T02:21:58.841Z,61.6549,-141.9687,27.7,1.1,ml,,,,0.81,ak,ak0235p3yj0s,2023-05-04T02:24:46.089Z,"56 km ENE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T01:10:38.707Z,61.0546,-146.5475,16.9,1.5,ml,,,,0.85,ak,ak0235p3aozi,2023-05-04T01:12:37.573Z,"13 km SW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-04T01:07:06.240Z,17.9515,-66.9676666666667,17.04,1.66,md,3,210,0.07502,0.03,pr,pr71407878,2023-05-04T01:30:40.900Z,"6 km WSW of Guánica, Puerto Rico",earthquake,2.41,0.9,0.155176321680439,4,reviewed,pr,pr
 2023-05-04T00:52:25.390Z,17.9325,-66.8413333333333,12.86,2.19,md,7,218,0.05563,0.09,pr,pr71407873,2023-05-04T01:00:55.160Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.79,0.41,0.0648592933298926,5,reviewed,pr,pr
-2023-05-04T00:49:03.696Z,17.4098,122.3983,16.258,5.4,mww,106,55,5.521,0.78,us,us6000k9d5,2023-05-04T01:20:37.040Z,"36 km N of Dicabisagan, Philippines",earthquake,9.31,4.611,0.055,32,reviewed,us,us
+2023-05-04T00:49:03.696Z,17.4098,122.3983,16.258,5.4,mww,106,55,5.521,0.78,us,us6000k9d5,2023-05-04T02:51:38.462Z,"36 km N of Dicabisagan, Philippines",earthquake,9.31,4.611,0.055,32,reviewed,us,us
 2023-05-04T00:30:34.960Z,19.3898334503174,-155.276504516602,1.12000000476837,1.80999994,md,14,59,,0.140000001,hv,hv73388482,2023-05-04T00:33:36.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.33,0.25,1.20000005,11,automatic,hv,hv
 2023-05-04T00:26:03.200Z,38.8066673,-122.7923355,1.18,1.88,md,31,40,0.002658,0.04,nc,nc73883661,2023-05-04T01:15:13.643Z,"4km NW of The Geysers, CA",earthquake,0.18,0.28,0.13,31,automatic,nc,nc
 2023-05-04T00:13:54.240Z,38.8149986,-122.8258362,2.33,0.59,md,7,97,0.006655,0.01,nc,nc73883656,2023-05-04T00:54:12.527Z,"7km NW of The Geysers, CA",earthquake,0.62,1.65,0.41,8,automatic,nc,nc
@@ -301,8 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T02:58:06.200Z,34.52566667,-97.19483333,1.47,1.59,ml,73,66,0.142172101,0.36,ok,ok2023ipdg,2023-05-03T12:33:27.146Z,"7 km WNW of Davis, Oklahoma",earthquake,,0.7,0.23,29,reviewed,ok,ok
 2023-05-03T02:56:28.720Z,38.825,-122.8513333,2.28,1.22,md,45,59,0.005018,0.03,nc,nc73883231,2023-05-04T02:22:11.037Z,"10km WNW of The Geysers, CA",earthquake,0.13,0.21,0.162,33,reviewed,nc,nc
 2023-05-03T02:53:54.725Z,61.2257,-151.6902,83.4,1.4,ml,,,,0.42,ak,ak0235ngm14g,2023-05-03T03:16:56.539Z,"34 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-03T02:51:53.661Z,31.62201139,-104.5146816,7.057055663999999,2.1,ml,20,77,0.0481528806,0.1,tx,tx2023ipdb,2023-05-03T16:48:55.663Z,"62 km SSW of Whites City, New Mexico",earthquake,1.078906302,0.5923339385,0.1,24,reviewed,tx,tx
-2023-05-03T02:51:30.340Z,60.0013333333333,-153.099166666667,1.37,-1.23,ml,4,147,,0.12,av,av91872076,2023-05-03T19:08:25.610Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.45,1.4,0.061776026570699,4,reviewed,av,av
-2023-05-03T02:50:10.130Z,35.868,-117.7235,9.66,1.4,ml,16,113,0.06818,0.19,ci,ci40217759,2023-05-03T02:53:43.772Z,"18km ESE of Little Lake, CA",earthquake,0.38,0.78,0.287,14,automatic,ci,ci
-2023-05-03T02:49:53.620Z,35.838,-117.8858333,4.41,1.14,ml,9,168,0.01704,0.08,ci,ci40217767,2023-05-03T02:53:48.208Z,"11km S of Little Lake, CA",earthquake,0.55,0.28,0.154,10,automatic,ci,ci
-2023-05-03T02:47:27.150Z,35.8623333,-117.7221667,9.82,0.9,ml,10,121,0.139,0.13,ci,ci40217751,2023-05-03T02:51:07.695Z,"19km ESE of Little Lake, CA",earthquake,0.4,0.8,0.161,7,automatic,ci,ci
