@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-05T13:52:37.800Z,34.1074982,-117.7446671,8.72,1.07,ml,14,185,0.1949,0.2,ci,ci40219375,2023-05-05T13:56:13.702Z,"2km ENE of La Verne, CA",earthquake,0.97,4.38,0.392,4,automatic,ci,ci
 2023-05-05T13:46:36.480Z,33.3704987,-116.3841629,11.24,1.07,ml,29,98,0.1057,0.18,ci,ci40219359,2023-05-05T13:50:06.677Z,"13km N of Borrego Springs, CA",earthquake,0.4,1.12,0.015,3,automatic,ci,ci
 2023-05-05T13:35:11.040Z,33.0296667,-115.9935,3.04,1.32,ml,26,79,0.1439,0.22,ci,ci40219351,2023-05-05T13:46:17.780Z,"18km SE of Ocotillo Wells, CA",earthquake,0.44,1.75,0.137,27,automatic,ci,ci
 2023-05-05T13:32:49.530Z,36.8856659,-121.32267,5.17,1.4,md,7,138,0.02518,0.04,nc,nc73884191,2023-05-05T13:51:13.916Z,"8km ENE of Hollister, CA",earthquake,0.45,0.74,0.1,8,automatic,nc,nc
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T13:16:03.150Z,38.8334999,-122.8161697,-0.68,0.58,md,11,87,0.01116,0.14,nc,nc73884186,2023-05-05T13:33:13.812Z,"8km NW of The Geysers, CA",earthquake,0.36,1.33,0.36,11,automatic,nc,nc
 2023-05-05T13:11:10.601Z,61.1581,-150.6615,22.5,1.8,ml,,,,0.24,ak,ak0235qxzeac,2023-05-05T13:12:51.379Z,"22 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-05T13:05:41.261Z,61.7647,-150.5046,57,1.2,ml,,,,0.42,ak,ak0235qxy6cu,2023-05-05T13:07:04.049Z,"24 km N of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-05T12:58:04.601Z,37.4929,137.2943,14.052,5.8,mb,122,50,1.193,0.69,us,us6000k9rh,2023-05-05T13:44:26.622Z,"45 km NE of Anamizu, Japan",earthquake,5.53,4.02,0.021,819,reviewed,us,us
+2023-05-05T12:58:04.601Z,37.4929,137.2943,14.052,5.8,mb,122,50,1.193,0.69,us,us6000k9rh,2023-05-05T13:51:45.579Z,"45 km NE of Anamizu, Japan",earthquake,5.53,4.02,0.021,819,reviewed,us,us
 2023-05-05T12:55:29.130Z,19.2718334197998,-155.40266418457,30.0599994659424,2.54,ml,47,120,,0.150000006,hv,hv73389982,2023-05-05T13:00:59.990Z,"11 km NE of Pāhala, Hawaii",earthquake,0.52,0.569999993,2.1,17,automatic,hv,hv
 2023-05-05T12:33:21.025Z,28.1424,105.0327,10,4.7,mb,67,38,7.873,0.37,us,us6000k9rd,2023-05-05T12:56:07.040Z,"18 km S of Bowangshan, China",earthquake,8.68,1.868,0.053,106,reviewed,us,us
 2023-05-05T12:24:54.823Z,39.4271,141.9658,61.848,4.7,mb,76,134,1.526,0.47,us,us6000k9r8,2023-05-05T12:43:32.040Z,"4 km SSE of Yamada, Japan",earthquake,6.44,6.13,0.05,120,reviewed,us,us
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T14:19:43.780Z,38.8053322,-122.8066635,1.45,1.09,md,23,51,0.009258,0.02,nc,nc73883801,2023-05-04T15:50:11.001Z,"5km NW of The Geysers, CA",earthquake,0.21,0.34,0.14,23,automatic,nc,nc
 2023-05-04T14:10:42.472Z,36.217,-115.3619,10.6,0.9,ml,17,103.55,0.052,0.2296,nn,nn00859053,2023-05-05T02:04:09.675Z,"11 km NNW of Summerlin South, Nevada",earthquake,,2.8,1.1,5,reviewed,nn,nn
 2023-05-04T14:06:03.840Z,58.255,-155.097166666667,1.38,-0.59,ml,5,122,,0.07,av,av91873716,2023-05-05T00:36:07.040Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,1.94,0.367180940192045,5,reviewed,av,av
-2023-05-04T13:54:06.510Z,19.6361666666667,-155.863333333333,19.78,1.56,md,21,80,,0.16,hv,hv73389152,2023-05-04T22:03:30.680Z,"9 km ENE of Hōlualoa, Hawaii",earthquake,0.65,0.92,0.0851203446839783,7,reviewed,hv,hv
