@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-05T08:14:52.910Z,37.7948341,-121.9089966,19.13,1.34,md,7,163,0.1239,0.01,nc,nc73884061,2023-05-05T08:31:11.039Z,"3km S of Blackhawk, CA",earthquake,0.69,2.13,0.07,4,automatic,nc,nc
+2023-05-05T08:14:52.910Z,37.7948341,-121.9089966,19.13,1.34,md,7,163,0.1239,0.01,nc,nc73884061,2023-05-05T08:38:13.095Z,"3km S of Blackhawk, CA",earthquake,0.69,2.13,0.07,4,automatic,nc,nc
 2023-05-05T08:09:13.710Z,37.7988319,-121.9095001,16.64,1.99,md,40,56,0.08901,0.07,nc,nc73884056,2023-05-05T08:27:16.012Z,"2km S of Blackhawk, CA",earthquake,0.23,0.46,0.17,34,automatic,nc,nc
 2023-05-05T08:06:53.887Z,36.53633499,-98.95401001,5.109010696,1.53,ml,11,88.55096054,0.04299607128,0.08790517301,ok,ok2023itel,2023-05-05T08:09:57.115Z,"8 km SW of Waynoka, Oklahoma",earthquake,4.69840788,6.172657175,0.23,8,automatic,ok,ok
 2023-05-05T07:53:32.941Z,61.5838,-146.216,43.7,1.4,ml,,,,0.83,ak,ak0235qunuge,2023-05-05T07:56:25.015Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T02:51:47.038Z,68.134,-159.2553,0,2.1,ml,,,,0.38,ak,ak0235qroa32,2023-05-05T02:55:42.182Z,"131 km NNW of Ambler, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-05T02:49:21.366Z,58.6788,-154.3088,40,1.4,ml,,,,0.75,ak,ak0235qrnrs6,2023-05-05T02:51:37.856Z,"88 km SSE of Kokhanok, Alaska",earthquake,,5.8,,,automatic,ak,ak
 2023-05-05T02:44:43.788Z,58.2649,-155.0636,0,1.6,ml,,,,0.49,ak,ak0235qrmrtm,2023-05-05T02:46:18.750Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-05T02:40:06.180Z,39.3463333,-123.2305,7.77,1.3,md,16,62,0.08401,0.06,nc,nc73883961,2023-05-05T08:32:15.050Z,"9km NNW of Redwood Valley, CA",earthquake,0.18,0.68,0.212,16,reviewed,nc,nc
+2023-05-05T02:40:06.180Z,39.3463333,-123.2305,7.77,1.3,md,16,62,0.08401,0.06,nc,nc73883961,2023-05-05T08:38:11.095Z,"9km NNW of Redwood Valley, CA",earthquake,0.18,0.68,0.212,16,reviewed,nc,nc
 2023-05-05T02:13:17.228Z,29.1855,-97.8046,5,2.5,mb_lg,10,133,0.028,0.79,us,us6000k9le,2023-05-05T02:21:49.040Z,"9 km SSW of Nixon, Texas",earthquake,4.08,2.025,0.12,18,reviewed,us,us
 2023-05-05T02:09:41.430Z,38.8279991,-122.7983322,1.92,1.07,md,21,34,0.01026,0.01,nc,nc73883956,2023-05-05T02:26:11.779Z,"7km W of Cobb, CA",earthquake,0.22,0.42,0.23,21,automatic,nc,nc
 2023-05-05T02:02:03.550Z,17.932,-66.9711666666667,6.47,2.17,md,4,236,0.07888,0.07,pr,pr71408048,2023-05-05T02:34:08.690Z,"8 km WSW of Guánica, Puerto Rico",earthquake,1.07,0.37,0.248854162830412,3,reviewed,pr,pr
@@ -232,7 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T08:52:11.910Z,38.8230019,-122.8024979,6.8,0.35,md,7,128,0.005931,0.02,nc,nc73883746,2023-05-04T11:20:11.307Z,"6km NW of The Geysers, CA",earthquake,1.17,1.58,0.18,7,automatic,nc,nc
 2023-05-04T08:42:57.700Z,38.844,-122.816,1,1.03,md,28,44,0.01209,0.06,nc,nc73883741,2023-05-04T21:46:13.159Z,"8km WNW of Cobb, CA",earthquake,0.16,0.25,0.11,26,reviewed,nc,nc
 2023-05-04T08:42:53.340Z,38.8451667,-122.8148333,1.4,0.52,md,26,56,0.01158,0.03,nc,nc73883736,2023-05-04T20:15:10.650Z,"8km WNW of Cobb, CA",earthquake,0.16,0.25,0.27,17,reviewed,nc,nc
-2023-05-04T08:40:32.940Z,-29.5973,-177.0793,35,4.8,mb,33,120,0.806,0.46,us,us6000k9f4,2023-05-04T09:10:34.040Z,"Kermadec Islands, New Zealand",earthquake,4.76,1.931,0.1,31,reviewed,us,us
-2023-05-04T08:40:15.610Z,58.296,-154.983,3.31,0.14,ml,6,146,,0.13,av,av91873511,2023-05-04T22:11:54.470Z,"86 km NNW of Karluk, Alaska",earthquake,0.35,0.82,0.176334575845632,6,reviewed,av,av
-2023-05-04T08:40:04.350Z,39.6146667,-122.0338333,21.6,2.27,md,25,82,0.2975,0.08,nc,nc73883731,2023-05-04T21:46:13.501Z,"14km S of Hamilton City, CA",earthquake,0.26,0.48,0.269,30,reviewed,nc,nc
-2023-05-04T08:38:38.200Z,38.855999,-122.7756653,1.57,0.7,md,11,170,0.01339,0.03,nc,nc73883726,2023-05-04T09:46:10.785Z,"6km NW of Cobb, CA",earthquake,0.42,0.48,0.32,11,automatic,nc,nc
