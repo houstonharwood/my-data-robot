@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T18:04:04.010Z,46.8475,-121.76283333333333,0.43,0.39,ml,14,76,0.02094,0.07,uw,uw61921876,2023-05-05T19:09:00.580Z,"22 km ENE of Ashford, Washington",earthquake,0.22,0.49,0.1563482902804919,9,reviewed,uw,uw
 2023-05-05T18:03:16.500Z,-38.2565,-179.6841,10,4.7,mb,27,200,1.734,0.87,us,us6000k9um,2023-05-05T19:07:36.040Z,"east of the North Island of New Zealand",earthquake,6.65,1.99,0.152,14,reviewed,us,us
 2023-05-05T17:47:15.641Z,41.5129,141.9749,52.915,5.9,mww,221,32,0.997,0.8,us,us6000k9ue,2023-05-05T20:29:34.747Z,"68 km ENE of Mutsu, Japan",earthquake,5.45,5.706,0.066,22,reviewed,us,us
-2023-05-05T17:42:24.760Z,41.0691667,-122.179,10.81,2.49,md,33,32,0.05954,0.11,nc,nc73884261,2023-05-05T20:32:17.148Z,"17km SSE of Dunsmuir, CA",earthquake,0.21,0.48,0.133,36,reviewed,nc,nc
+2023-05-05T17:42:24.760Z,41.0691667,-122.179,10.81,2.49,md,33,32,0.05954,0.11,nc,nc73884261,2023-05-05T20:51:11.578Z,"17km SSE of Dunsmuir, CA",earthquake,0.21,0.48,0.133,36,reviewed,nc,nc
 2023-05-05T17:38:15.757Z,62.701,-152.5487,0,1.2,ml,,,,0.74,ak,ak0235r0ixfr,2023-05-05T17:40:13.844Z,"94 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-05T17:36:47.350Z,32.7051667,-115.5408333,9.23,1.54,ml,18,92,0.06521,0.16,ci,ci40219503,2023-05-05T19:28:30.369Z,"3km SSW of Heber, CA",earthquake,0.29,0.59,0.285,13,reviewed,ci,ci
 2023-05-05T17:35:36.650Z,34.8481667,-118.7856667,-1.36,1.23,ml,19,69,0.07177,0.21,ci,ci40219487,2023-05-05T18:39:44.054Z,"7km E of Lebec, CA",quarry blast,0.38,31.61,0.079,12,reviewed,ci,ci
@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T12:47:28.856Z,35.8323,-116.7983,4.4,0,ml,6,130.35,0.369,0.1684,nn,nn00859106,2023-05-05T19:33:00.643Z,"50 km WSW of Shoshone, California",earthquake,,5.2,0.77,2,reviewed,nn,nn
 2023-05-05T12:43:34.860Z,39.3101667,-122.8458333,9.87,1.68,md,16,132,0.1833,0.09,nc,nc73884171,2023-05-05T20:11:18.345Z,"15km SE of Lake Pillsbury, CA",earthquake,0.26,1.07,0.127,18,reviewed,nc,nc
 2023-05-05T12:33:21.025Z,28.1424,105.0327,10,4.7,mb,67,38,7.873,0.37,us,us6000k9rd,2023-05-05T12:56:07.040Z,"18 km S of Bowangshan, China",earthquake,8.68,1.868,0.053,106,reviewed,us,us
-2023-05-05T12:28:50.560Z,38.7915,-122.7605,1.12,0.37,md,17,65,0.009132,0.02,nc,nc73884161,2023-05-05T20:25:41.833Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.31,0.221,14,reviewed,nc,nc
+2023-05-05T12:28:50.560Z,38.7915,-122.7605,1.12,0.37,md,17,65,0.009132,0.02,nc,nc73884161,2023-05-05T20:51:10.579Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.31,0.221,14,reviewed,nc,nc
 2023-05-05T12:24:54.823Z,39.4271,141.9658,61.848,4.7,mb,76,134,1.526,0.47,us,us6000k9r8,2023-05-05T12:43:32.040Z,"4 km SSE of Yamada, Japan",earthquake,6.44,6.13,0.05,120,reviewed,us,us
 2023-05-05T12:19:05.641Z,39.2252,-120.0736,5.7,0,ml,3,136.36,0.044,0.1065,nn,nn00859103,2023-05-05T18:18:59.253Z,"0 km ESE of Carnelian Bay, California",earthquake,,6,0,1,reviewed,nn,nn
 2023-05-05T12:05:03.997Z,38.0704,-118.7497,9.4,0.6,ml,4,179.67,0.264,0.1472,nn,nn00859097,2023-05-05T17:51:12.420Z,"California-Nevada border region",earthquake,,5,0,1,reviewed,nn,nn
@@ -199,7 +199,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T03:09:55.850Z,38.7794991,-122.7488327,-0.72,1.15,md,17,169,0.01017,0.16,nc,nc73883966,2023-05-05T05:36:10.908Z,"1km ENE of The Geysers, CA",earthquake,0.6,1.4,0.12,16,automatic,nc,nc
 2023-05-05T03:08:24.736Z,64.9749,-147.3597,4.2,1.1,ml,,,,0.25,ak,ak0235qs0g6h,2023-05-05T03:10:29.771Z,"12 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T03:07:53.003Z,13.2263,143.8581,136.475,4.6,mb,64,61,1.047,0.65,us,us6000k9lq,2023-05-05T03:25:53.040Z,"87 km W of Umatac Village, Guam",earthquake,9.67,3.738,0.049,122,reviewed,us,us
-2023-05-05T02:55:48.352Z,58.2576,-155.0884,3,0.8,ml,,,,0.08,ak,ak0235qrp51v,2023-05-05T02:57:29.076Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-05T03:01:16.590Z,58.254,-155.101166666667,3.8,-0.12,ml,8,93,,0.08,av,av91874441,2023-05-05T20:54:13.260Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.52,0.160319003165842,8,reviewed,av,av
+2023-05-05T02:55:48.352Z,58.2576,-155.0884,3,0.8,ml,,,,0.08,ak,ak0235qrp51v,2023-05-05T20:49:22.050Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-05T02:54:30.290Z,58.2571666666667,-155.088166666667,4.68,-0.38,ml,7,100,,0.17,av,av91874421,2023-05-05T20:45:05.440Z,"85 km NNW of Karluk, Alaska",earthquake,0.42,0.66,0.177406181754013,7,reviewed,av,av
 2023-05-05T02:53:50.660Z,58.2561666666667,-155.0935,5.02,-0.66,ml,7,103,,0.19,av,av91874416,2023-05-05T20:42:33.770Z,"85 km NNW of Karluk, Alaska",earthquake,0.45,0.88,0.135051372766017,7,reviewed,av,av
 2023-05-05T02:51:47.038Z,68.134,-159.2553,0,2.1,ml,,,,0.38,ak,ak0235qroa32,2023-05-05T02:55:42.182Z,"131 km NNW of Ambler, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -288,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T20:56:32.990Z,58.188,-155.367,3.1,0.15,ml,7,254,,0.1,av,av91874081,2023-05-05T03:07:21.520Z,"87 km NW of Karluk, Alaska",earthquake,0.55,2.57,0.159297218337327,7,reviewed,av,av
 2023-05-04T20:56:07.628Z,31.68085887,-104.5120541,6.080151367,2.3,ml,31,68,0.01559875539,0.2,tx,tx2023isih,2023-05-05T19:42:51.732Z,"56 km SSW of Whites City, New Mexico",earthquake,1.175210355,0.5867043428,0,7,reviewed,tx,tx
 2023-05-04T20:55:54.310Z,58.1846666666667,-155.285,2.49,-0.19,ml,5,230,,0.05,av,av91874076,2023-05-05T03:09:31.230Z,"84 km NW of Karluk, Alaska",earthquake,0.43,0.8,0.208095471332839,5,reviewed,av,av
-2023-05-04T20:53:52.000Z,58.1875,-155.367333333333,4.36,0.85,ml,7,218,,0.06,av,av91874071,2023-05-05T03:12:53.140Z,"87 km NW of Karluk, Alaska",earthquake,0.48,1.17,0.186313875722597,7,reviewed,av,av
-2023-05-04T20:49:23.210Z,18.0751666666667,-66.9501666666667,4.66,1.85,md,3,259,0.1203,0.18,pr,pr71408008,2023-05-05T00:00:09.010Z,"1 km ESE of Sabana Grande, Puerto Rico",earthquake,2.68,12.21,0.150128809939976,3,reviewed,pr,pr
