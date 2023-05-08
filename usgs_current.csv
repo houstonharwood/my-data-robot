@@ -20,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T20:16:48.819Z,59.599,-152.7212,54.9,1.4,ml,,,,0.25,ak,ak0235w0smj5,2023-05-08T20:18:18.554Z,"52 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-08T20:14:18.123Z,37.4546,137.3632,8.798,4.9,mb,70,88,1.13,0.93,us,us6000kagl,2023-05-08T20:48:00.040Z,"47 km ENE of Anamizu, Japan",earthquake,6.22,4.615,0.033,285,reviewed,us,us
 2023-05-08T20:12:23.643Z,64.0015,-149.28,11.6,1.4,ml,,,,0.51,ak,ak0235w0rpq4,2023-05-08T20:14:10.995Z,"8 km WSW of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-08T20:05:04.850Z,47.24666666666667,-121.75633333333333,-0.86,1.12,ml,14,177,0.05065,0.08,uw,uw61922706,2023-05-08T22:30:00.910Z,"12 km NW of Greenwater, Washington",explosion,0.69,31.61,0.2439500512033308,13,reviewed,uw,uw
 2023-05-08T19:53:23.840Z,38.8183327,-122.8219986,2.15,1.09,md,21,58,0.0106,0.02,nc,nc73885451,2023-05-08T20:46:14.710Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.18,20,automatic,nc,nc
 2023-05-08T19:48:30.310Z,19.424,-155.274666666667,0.25,1.51,ml,15,101,,0.09,hv,hv73393162,2023-05-08T20:24:47.950Z,"4 km WSW of Volcano, Hawaii",earthquake,0.21,0.34,0.126736113502567,4,reviewed,hv,hv
 2023-05-08T19:44:25.170Z,45.72233333333333,-122.51033333333334,14.9,0.96,ml,15,301,0.2196,0.15,uw,uw61922696,2023-05-08T22:22:28.910Z,"Washington-Oregon border region",earthquake,1.9,2.01,0.1369967036024402,6,reviewed,uw,uw
@@ -76,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T12:56:58.506Z,62.4013,-148.5177,48.7,1,ml,,,,0.19,ak,ak0235vw9r2y,2023-05-08T12:59:43.094Z,"67 km N of Chickaloon, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-05-08T12:55:08.260Z,47.7045,-120.334,2.97,1.68,ml,14,86,0.08295,0.07,uw,uw61922571,2023-05-08T18:54:40.233Z,"9 km WNW of Entiat, Washington",earthquake,0.16,0.96,0.15843680465299625,17,reviewed,uw,uw
 2023-05-08T12:51:46.253Z,50.9139,-179.5559,10,3.8,mb,28,238,0.792,0.76,us,us6000kad8,2023-05-08T15:23:58.450Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,4.48,1.944,0.136,14,reviewed,us,us
-2023-05-08T12:50:19.350Z,35.0605,-119.1298333,16.64,2.03,ml,38,70,0.2087,0.27,ci,ci40220815,2023-05-08T12:54:13.539Z,"22km NW of Grapevine, CA",earthquake,0.39,1.5,0.186,26,automatic,ci,ci
+2023-05-08T12:50:19.350Z,35.0605,-119.1298333,16.64,2.03,ml,38,70,0.2087,0.27,ci,ci40220815,2023-05-08T22:29:17.650Z,"22km NW of Grapevine, CA",earthquake,0.39,1.5,0.186,26,automatic,ci,ci
 2023-05-08T12:23:05.050Z,17.9508,-66.9633,6,3.39,md,16,206,0.083,0.12,pr,pr2023128000,2023-05-08T16:36:36.278Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.6,0.31,0.12,7,reviewed,pr,pr
 2023-05-08T12:21:42.750Z,17.9961666666667,-66.9731666666667,6.97,2.35,md,4,167,0.07267,0.05,pr,pr71408518,2023-05-08T13:08:35.390Z,"6 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,6.59,6.54,0.0280284089530598,3,reviewed,pr,pr
 2023-05-08T12:14:10.168Z,62.3884,-148.5798,34.8,1.4,ml,,,,0.68,ak,ak0235vw0n9v,2023-05-08T12:16:44.274Z,"66 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -207,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T23:00:54.530Z,35.9973333,-117.351,2.87,1.6,ml,13,105,0.1195,0.18,ci,ci40220615,2023-05-07T23:04:32.643Z,"26km N of Searles Valley, CA",earthquake,0.64,2.38,0.126,14,automatic,ci,ci
 2023-05-07T22:59:01.760Z,38.5185,-122.603,7.97,2.17,md,89,37,0.07634,0.14,nc,nc73885146,2023-05-08T09:25:15.243Z,"7km SSW of Calistoga, CA",earthquake,0.16,0.42,0.176,89,reviewed,nc,nc
 2023-05-07T22:58:41.352Z,59.7319,-153.0535,107.8,2.1,ml,,,,0.26,ak,ak0235uep4oz,2023-05-07T23:00:04.222Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-07T22:33:12.747Z,63.2025,-150.5379,123.1,1.5,ml,,,,0.3,ak,ak0235uejpmy,2023-05-07T22:35:38.714Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-05-07T22:29:40.690Z,38.7960014,-122.7301636,1.74,1.14,md,11,176,0.01374,0.02,nc,nc73885141,2023-05-08T01:05:14.869Z,"3km SSW of Cobb, CA",earthquake,0.42,0.8,0.12,12,automatic,nc,nc
