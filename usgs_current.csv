@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-10T18:58:37.610Z,38.8089981,-122.8919983,5.14,1.1,md,26,110,0.008421,0.03,nc,nc73886246,2023-05-10T19:00:11.409Z,"11km E of Cloverdale, CA",earthquake,0.39,0.65,0.17,25,automatic,nc,nc
+2023-05-10T18:58:37.610Z,38.8089981,-122.8919983,5.14,1.1,md,26,110,0.008421,0.03,nc,nc73886246,2023-05-10T19:21:11.017Z,"11km E of Cloverdale, CA",earthquake,0.39,0.65,0.17,25,automatic,nc,nc
 2023-05-10T18:53:54.120Z,38.8310013,-122.8103333,1.18,0.77,md,10,87,0.007598,0.01,nc,nc73886241,2023-05-10T19:13:09.959Z,"8km NW of The Geysers, CA",earthquake,0.31,0.77,0.2,11,automatic,nc,nc
 2023-05-10T18:52:22.066Z,59.7537,-152.1586,53,2,ml,,,,0.83,ak,ak0235zaw40u,2023-05-10T18:54:51.857Z,"18 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-10T18:47:28.570Z,38.7798347,-122.723999,1.68,0.73,md,7,90,0.01051,0.01,nc,nc73886236,2023-05-10T19:02:12.881Z,"3km E of The Geysers, CA",earthquake,0.33,0.87,0.19,8,automatic,nc,nc
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T16:19:13.370Z,38.8438333,-122.8768333,2.28,-0.03,md,17,90,0.00747,0.03,nc,nc71130354,2023-05-10T19:05:41.202Z,"13km NW of The Geysers, CA",earthquake,0.27,0.4,0.193,13,reviewed,nc,nc
 2023-05-10T16:06:07.530Z,38.8293343,-122.7979965,0.65,0.33,md,8,85,0.01086,0.01,nc,nc73886171,2023-05-10T18:20:12.622Z,"6km W of Cobb, CA",earthquake,0.32,1.04,0.2,8,automatic,nc,nc
 2023-05-10T16:05:36.830Z,33.4656667,-116.5611667,8.83,0.82,ml,29,80,0.04488,0.22,ci,ci40222287,2023-05-10T18:28:23.799Z,"14km SE of Anza, CA",earthquake,0.32,0.66,0.178,19,reviewed,ci,ci
-2023-05-10T16:02:00.451Z,-15.6002,-174.6077,210.097,7.6,mww,111,17,3.631,0.81,us,us6000kawn,2023-05-10T18:38:29.481Z,"95 km WNW of Hihifo, Tonga",earthquake,7.68,0.986,0.055,32,reviewed,us,us
+2023-05-10T16:02:00.451Z,-15.6002,-174.6077,210.097,7.6,mww,111,17,3.631,0.81,us,us6000kawn,2023-05-10T19:24:10.438Z,"95 km WNW of Hihifo, Tonga",earthquake,7.68,0.986,0.055,32,reviewed,us,us
 2023-05-10T15:55:20.429Z,34.67516667,-96.1315,17.33,1.68,ml,39,260,0.2159576217,0.28,ok,ok2023jcxi,2023-05-10T16:05:46.199Z,"9 km WNW of Wardville, Oklahoma",earthquake,,1.8,0.23,15,reviewed,ok,ok
 2023-05-10T15:51:03.890Z,33.5865,-116.75,13.15,0.94,ml,33,30,0.01378,0.2,ci,ci40222271,2023-05-10T16:07:55.346Z,"8km WNW of Anza, CA",earthquake,0.28,0.46,0.142,24,reviewed,ci,ci
 2023-05-10T15:48:16.760Z,38.8409996,-122.8251648,1.79,0.69,md,11,97,0.01371,0.02,nc,nc73886161,2023-05-10T17:53:14.486Z,"9km WNW of Cobb, CA",earthquake,0.29,0.91,0.41,11,automatic,nc,nc
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T19:36:10.050Z,38.8396683,-122.8356705,1.42,0.59,md,7,121,0.01654,0.01,nc,nc73885791,2023-05-09T20:47:15.692Z,"10km NW of The Geysers, CA",earthquake,0.41,1.01,0.43,8,automatic,nc,nc
 2023-05-09T19:33:04.080Z,32.6193333,-116.9891667,-0.36,1.57,ml,26,110,0.05111,0.26,ci,ci40221791,2023-05-10T14:43:30.389Z,"6km E of Chula Vista, CA",quarry blast,0.58,31.61,0.161,10,reviewed,ci,ci
 2023-05-09T19:25:28.760Z,38.8416672,-122.8111649,0.19,1.27,md,25,52,0.01609,0.03,nc,nc73885786,2023-05-10T00:27:12.073Z,"8km WNW of Cobb, CA",earthquake,0.16,0.41,0.16,26,automatic,nc,nc
-2023-05-09T19:22:31.830Z,19.2308333333333,-155.377,31.68,1.68,md,31,159,,0.11,hv,hv73394177,2023-05-09T23:10:49.980Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.54,0.73,0.118990628754633,13,reviewed,hv,hv
