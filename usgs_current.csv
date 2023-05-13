@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-13T09:02:39.680Z,35.8885,-117.687,5.18,0.7,ml,9,121,0.1018,0.17,ci,ci40224223,2023-05-13T09:06:21.209Z,"20km ESE of Little Lake, CA",earthquake,0.72,3.35,0.115,6,automatic,ci,ci
 2023-05-13T08:13:13.240Z,36.0356674,-120.5968323,3.46,1.31,md,18,71,0.03307,0.06,nc,nc73887541,2023-05-13T08:33:11.163Z,"21km NW of Parkfield, CA",earthquake,0.31,0.58,0.26,11,automatic,nc,nc
 2023-05-13T08:09:24.730Z,33.5151667,-116.4511667,4.73,0.59,ml,23,75,0.0228,0.23,ci,ci40224215,2023-05-13T08:13:09.185Z,"21km SW of La Quinta, CA",earthquake,0.35,1.04,0.11,15,automatic,ci,ci
 2023-05-13T08:03:28.300Z,33.217,-116.0691667,7.8,0.98,ml,33,58,0.08809,0.24,ci,ci40224207,2023-05-13T08:06:56.783Z,"10km NE of Ocotillo Wells, CA",earthquake,0.37,0.95,0.09,19,automatic,ci,ci
@@ -7,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T07:21:35.800Z,10.1003,125.9774,72.829,4.9,mb,93,114,3.037,0.74,us,us6000kbna,2023-05-13T07:38:30.040Z,"11 km NW of Santa Monica, Philippines",earthquake,3.91,7.002,0.06,86,reviewed,us,us
 2023-05-13T07:14:39.890Z,36.0321655,-120.5970001,1.35,0.6,md,9,171,0.03657,0.08,nc,nc73887536,2023-05-13T07:32:11.786Z,"21km NW of Parkfield, CA",earthquake,1.73,8.7,0.01,3,automatic,nc,nc
 2023-05-13T07:13:08.480Z,19.4069995880127,-155.266494750977,-0.439999997615814,1.75,ml,18,103,,0.230000004,hv,hv73399802,2023-05-13T07:18:39.610Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.310000002,0.22,6,automatic,hv,hv
-2023-05-13T07:12:42.990Z,40.5509987,-124.2184982,14.77,2.16,md,9,195,0.2046,0.1,nc,nc73887531,2023-05-13T07:18:15.697Z,"5km SE of Ferndale, CA",earthquake,1.06,1.52,0.07,3,automatic,nc,nc
-2023-05-13T07:11:53.610Z,40.2378349,-121.177002,1.78,2.37,md,9,157,0.3362,0.05,nc,nc73887526,2023-05-13T08:53:14.297Z,"2km N of Almanor, CA",earthquake,0.46,7.91,0.08,7,automatic,nc,nc
+2023-05-13T07:12:42.990Z,40.5509987,-124.2184982,14.77,2.16,md,9,195,0.2046,0.1,nc,nc73887531,2023-05-13T09:08:13.401Z,"5km SE of Ferndale, CA",earthquake,1.06,1.52,0.07,3,automatic,nc,nc
+2023-05-13T07:11:53.610Z,40.2378349,-121.177002,1.78,2.37,md,9,157,0.3362,0.05,nc,nc73887526,2023-05-13T09:07:10.392Z,"2km N of Almanor, CA",earthquake,0.46,7.91,0.08,7,automatic,nc,nc
 2023-05-13T07:10:28.140Z,29.9947,129.9569,14.343,5.3,mww,103,48,1.569,0.84,us,us6000kbn7,2023-05-13T07:27:46.040Z,"54 km SW of Kurio, Japan",earthquake,6.75,4.042,0.053,34,reviewed,us,us
 2023-05-13T07:09:45.485Z,60.1255,-154.2437,39.7,1.6,ml,,,,1.19,ak,ak023642p7v8,2023-05-13T07:11:31.176Z,"9 km SSE of Port Alsworth, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2023-05-13T07:07:07.364Z,59.5517,-152.7846,29.5,1.2,ml,,,,0.79,ak,ak023642ophs,2023-05-13T07:09:08.084Z,"53 km WNW of Nanwalek, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -266,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T09:18:49.310Z,60.046,-153.068166666667,1.98,-0.73,ml,5,129,,0.16,av,av91883701,2023-05-12T19:43:41.250Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.81,1.39,0.108904239961065,5,reviewed,av,av
 2023-05-12T09:15:38.310Z,38.5493317,-122.5636673,10.07,2.27,md,57,35,0.1128,0.09,nc,nc73887026,2023-05-12T12:20:11.821Z,"4km SSE of Calistoga, CA",earthquake,0.21,0.65,0.13,62,automatic,nc,nc
 2023-05-12T09:13:34.480Z,19.162166595459,-155.466659545898,31.8600006103516,2.04,ml,44,80,,0.129999995,hv,hv73397882,2023-05-12T09:19:04.760Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.58,0.819999993,3.64,6,automatic,hv,hv
-2023-05-12T09:07:37.253Z,57.9374,-156.1905,118.8,1.3,ml,,,,0.18,ak,ak02362gcail,2023-05-12T09:09:54.842Z,"76 km ESE of Egegik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-12T09:02:23.990Z,58.1976666666667,-155.321333333333,1.71,-0.17,ml,5,218,,0.04,av,av91883686,2023-05-12T19:40:14.220Z,"86 km NW of Karluk, Alaska",earthquake,0.66,0.39,0.37061846517237,5,reviewed,av,av
