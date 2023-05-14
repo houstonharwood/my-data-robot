@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T09:08:08.232Z,61.509,-149.9047,32.4,1.7,ml,,,,0.38,ak,ak02365rf4zb,2023-05-14T09:10:22.380Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-14T08:59:04.850Z,33.4456667,-116.8455,10.57,-0.02,ml,16,89,0.0653,0.19,ci,ci40224879,2023-05-14T09:02:38.349Z,"2km E of Aguanga, CA",earthquake,0.48,0.97,0.047,2,automatic,ci,ci
 2023-05-14T08:58:53.370Z,37.3043327,-121.6756668,6.26,1.29,md,9,134,0.04531,0.05,nc,nc73887926,2023-05-14T09:25:12.503Z,"15km E of Seven Trees, CA",earthquake,0.58,0.76,0.05,7,automatic,nc,nc
-2023-05-14T08:55:41.110Z,37.6178322,-122.4720001,8.46,1.33,md,9,222,0.03945,0.02,nc,nc73887921,2023-05-14T09:14:12.430Z,"1km ENE of Pacifica, CA",earthquake,1.28,0.87,0.11,6,automatic,nc,nc
+2023-05-14T08:55:41.110Z,37.6178322,-122.4720001,8.46,1.33,md,9,222,0.03945,0.02,nc,nc73887921,2023-05-14T09:45:11.668Z,"1km ENE of Pacifica, CA",earthquake,1.28,0.87,0.11,6,automatic,nc,nc
 2023-05-14T08:54:47.523Z,59.8183,-152.1398,68.6,1.7,ml,,,,0.35,ak,ak02365r3ncg,2023-05-14T08:56:49.109Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-14T08:51:28.670Z,33.7591667,-116.932,14.95,0.53,ml,13,141,0.07222,0.22,ci,ci40224871,2023-05-14T08:54:55.971Z,"4km SE of San Jacinto, CA",earthquake,0.62,1.01,0.085,11,automatic,ci,ci
 2023-05-14T08:44:09.608Z,33.3234,139.465,12.154,5,mww,78,70,0.359,0.48,us,us6000kbtl,2023-05-14T09:15:55.040Z,"Izu Islands, Japan region",earthquake,5.61,4.11,0.059,28,reviewed,us,us
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T06:13:16.180Z,18.405,-67.822,97,3.63,md,14,324,0.3435,0.36,pr,pr2023134005,2023-05-14T07:28:21.756Z,"60 km W of Rincón, Puerto Rico",earthquake,2.44,1.72,0.1,4,reviewed,pr,pr
 2023-05-14T06:10:08.330Z,38.8040009,-122.8079987,0.97,0.79,md,11,79,0.01068,0.02,nc,nc73887891,2023-05-14T07:52:13.913Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.7,0.2,12,automatic,nc,nc
 2023-05-14T06:07:39.690Z,38.7996674,-122.8001633,1.45,0.87,md,14,56,0.009117,0.02,nc,nc73887886,2023-05-14T07:24:14.740Z,"4km WNW of The Geysers, CA",earthquake,0.25,0.53,0.15,16,automatic,nc,nc
-2023-05-14T06:04:17.942Z,3.9752,-73.7986,10,4.8,mb,66,87,1.009,0.87,us,us6000kbsg,2023-05-14T08:39:01.936Z,"4 km WSW of Acacías, Colombia",earthquake,2.99,1.881,0.03,339,reviewed,us,us
+2023-05-14T06:04:17.942Z,3.9752,-73.7986,10,4.8,mb,66,87,1.009,0.87,us,us6000kbsg,2023-05-14T09:48:59.389Z,"4 km WSW of Acacías, Colombia",earthquake,2.99,1.881,0.03,339,reviewed,us,us
 2023-05-14T06:03:40.120Z,61.0094,-151.1718,3,2.7,ml,,,,0.18,ak,ak02365plywp,2023-05-14T07:36:12.040Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-14T06:02:12.152Z,60.6,-152.854,250,1.4,ml,,,,0.81,ak,ak02365plk67,2023-05-14T07:17:50.709Z,"84 km W of Salamatof, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-05-14T05:59:56.790Z,19.1515007019043,-155.459167480469,31.7800006866455,2.26999998,md,19,216,,0.119999997,hv,hv73401457,2023-05-14T06:03:16.260Z,"Hawaii region, Hawaii",earthquake,1.58,1.12,1.50999999,3,automatic,hv,hv
@@ -177,6 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T10:12:06.560Z,19.4353333333333,-155.326666666667,5.03,0.71,md,24,104,,0.1,hv,hv73400067,2023-05-13T10:24:55.270Z,"Hawaii region, Hawaii",earthquake,0.28,0.6,0.145962648976552,5,reviewed,hv,hv
 2023-05-13T09:57:21.544Z,58.3768,-154.2734,50.7,1.5,ml,,,,1,ak,ak0236446blm,2023-05-13T10:00:28.383Z,"87 km WNW of Aleneva, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-05-13T09:56:46.090Z,19.4048333333333,-155.291666666667,1.35,0.21,md,10,101,,0.06,hv,hv73400042,2023-05-13T10:33:08.010Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.32,0.0337662287951087,2,reviewed,hv,hv
-2023-05-13T09:49:48.370Z,19.3956666666667,-155.270833333333,1.24,0.38,md,11,115,,0.09,hv,hv73400027,2023-05-13T10:10:40.230Z,"6 km SW of Volcano, Hawaii",earthquake,0.32,0.26,0.188686651999417,2,reviewed,hv,hv
-2023-05-13T09:48:19.730Z,34.1418333,-117.443,6.52,0.8,ml,18,115,0.0423,0.14,ci,ci40224239,2023-05-13T09:51:50.963Z,"5km NNE of Fontana, CA",earthquake,0.39,0.71,0.146,15,automatic,ci,ci
-2023-05-13T09:44:01.430Z,19.4043333333333,-155.288,1.25,0.59,md,13,90,,0.09,hv,hv73400012,2023-05-13T10:11:21.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.24,0.118397157490332,3,reviewed,hv,hv
