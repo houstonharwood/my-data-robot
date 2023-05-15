@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-15T13:22:34.480Z,19.1599998474121,-155.538665771484,31.2900009155273,2.48,ml,45,143,,0.109999999,hv,hv73403272,2023-05-15T13:28:07.150Z,"7 km SW of Pāhala, Hawaii",earthquake,0.55,0.639999986,3.13,13,automatic,hv,hv
+2023-05-15T13:22:34.480Z,19.1599998474121,-155.538665771484,31.2900009155273,2.48,ml,45,143,,0.109999999,hv,hv73403272,2023-05-15T13:33:09.616Z,"7 km SW of Pāhala, Hawaii",earthquake,0.55,0.639999986,3.13,13,automatic,hv,hv
 2023-05-15T13:19:28.002Z,62.9261,-149.3238,42.3,2.3,ml,,,,0.54,ak,ak02367hemac,2023-05-15T13:21:34.736Z,"55 km SSW of Cantwell, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-05-15T13:00:47.660Z,38.8318329,-122.8106689,1.47,0.7,md,11,56,0.008438,0.01,nc,nc73888421,2023-05-15T13:25:13.795Z,"8km W of Cobb, CA",earthquake,0.31,0.78,0.1,11,automatic,nc,nc
 2023-05-15T12:55:16.893Z,58.1714,-155.3446,1.1,2.3,ml,,,,0.26,ak,ak02367h0vm1,2023-05-15T12:56:11.033Z,"Alaska Peninsula",earthquake,,4.9,,,automatic,ak,ak
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T07:32:55.790Z,19.1560001373291,-155.465667724609,29.8600006103516,1.86000001,md,38,126,,0.140000001,hv,hv73402852,2023-05-15T07:36:19.250Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.61,0.860000014,0.270000011,13,automatic,hv,hv
 2023-05-15T07:24:31.760Z,35.73,-98.0085,6.39,1.58,ml,88,41,0.1817643316,0.32,ok,ok2023jlkb,2023-05-15T13:25:38.073Z,"2 km W of Okarche, Oklahoma",earthquake,,0.8,0.22,36,reviewed,ok,ok
 2023-05-15T07:22:41.850Z,38.8243332,-122.8036652,2.26,1.06,md,17,72,0.005093,0.02,nc,nc73888306,2023-05-15T07:24:16.062Z,"7km NW of The Geysers, CA",earthquake,0.25,0.59,0.28,18,automatic,nc,nc
-2023-05-15T07:17:49.333Z,35.24467468,-97.26137543,8.540156364,2.66,ml,82,33.0328064,0.115102075,0.6568569498,ok,ok2023jljw,2023-05-15T09:51:19.040Z,"Oklahoma",earthquake,1.445638901,1.323671765,0.31,52,automatic,ok,ok
+2023-05-15T07:17:49.289Z,35.24,-97.26683333,24.46,2.71,ml,100,34,0,0.2,ok,ok2023jljw,2023-05-15T13:30:23.181Z,"12 km E of Hall Park, Oklahoma",earthquake,,0.5,0.25,31,reviewed,ok,ok
 2023-05-15T07:16:36.160Z,38.7719994,-122.7378311,0.71,1.39,md,18,97,0.01125,0.03,nc,nc73888301,2023-05-15T10:44:16.884Z,"2km ESE of The Geysers, CA",earthquake,0.26,0.61,0.1,21,automatic,nc,nc
 2023-05-15T07:16:16.900Z,38.7693329,-122.7351685,1.86,1.46,md,11,105,0.01394,0.03,nc,nc73888291,2023-05-15T10:15:15.675Z,"2km ESE of The Geysers, CA",earthquake,0.39,0.92,0.17,13,automatic,nc,nc
 2023-05-15T07:15:37.690Z,38.7669983,-122.7405014,-0.82,1.12,md,12,80,0.01337,0.36,nc,nc73888286,2023-05-15T09:50:13.507Z,"2km SE of The Geysers, CA",earthquake,0.66,3.88,0.24,11,automatic,nc,nc
@@ -82,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T04:18:10.960Z,36.0228333,-117.7671667,1.78,1.13,ml,8,116,0.05257,0.13,ci,ci40225295,2023-05-15T04:21:54.573Z,"16km NE of Little Lake, CA",earthquake,0.46,0.46,0.139,10,automatic,ci,ci
 2023-05-15T04:08:24.279Z,59.86,-150.9511,57.4,2.7,ml,,,,0.41,ak,ak02367bzcor,2023-05-15T06:34:56.372Z,"0 km ENE of Fox River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-15T03:56:56.300Z,19.1474990844727,-155.498001098633,34.6199989318848,2.36999989,md,40,147,,0.119999997,hv,hv73402637,2023-05-15T04:00:12.200Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.819999993,0.560000002,20,automatic,hv,hv
+2023-05-15T03:56:22.410Z,36.361,-96.98883333,6.58,1.05,ml,63,44,0.06118799283,0.22,ok,ok2023jldf,2023-05-15T13:32:53.361Z,"7 km NNE of Morrison, Oklahoma",earthquake,,0.4,0.22,24,reviewed,ok,ok
 2023-05-15T03:46:04.051Z,65.4531,-144.7768,0,1.4,ml,,,,0.81,ak,ak02367bm0qd,2023-05-15T03:48:42.639Z,"13 km S of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-15T03:26:22.270Z,19.1491661071777,-155.467498779297,29.25,1.85000002,md,26,172,,0.109999999,hv,hv73402597,2023-05-15T03:29:38.960Z,"6 km S of Pāhala, Hawaii",earthquake,0.87,1.16999996,1.85000002,4,automatic,hv,hv
 2023-05-15T03:21:10.118Z,27.0291,126.8405,131.397,4.4,mb,41,61,1.293,0.66,us,us6000kbyg,2023-05-15T03:34:52.040Z,"102 km WNW of Ie, Japan",earthquake,8.3,7.746,0.078,47,reviewed,us,us
