@@ -1,10 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-15T22:17:01.546Z,36.3792,-115.8068,1.6,1.1,ml,8,278.53,0.309,0.3505,nn,nn00859564,2023-05-15T22:19:36.485Z,"20 km NW of Mount Charleston, Nevada",earthquake,,29.3,0.98,7,automatic,nn,nn
+2023-05-15T22:12:10.300Z,19.7876663208008,-155.103164672852,38.6699981689453,2.18000007,md,38,227,,0.140000001,hv,hv73403917,2023-05-15T22:15:16.930Z,"1 km W of Pāpa‘ikou, Hawaii",earthquake,0.7,1.13999999,1.69000006,6,automatic,hv,hv
+2023-05-15T22:07:52.820Z,33.3921667,-116.3666667,-0.08,1.09,ml,32,33,0.05624,0.22,ci,ci40225807,2023-05-15T22:11:22.923Z,"15km N of Borrego Springs, CA",earthquake,0.27,31.61,0.165,25,automatic,ci,ci
+2023-05-15T22:07:29.521Z,64.9823,-148.79,17.5,1.1,ml,,,,0.4,ak,ak02367moy9k,2023-05-15T22:09:15.394Z,"32 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-15T21:59:49.480Z,35.631,-117.4435,11.41,1.42,ml,16,82,0.03766,0.22,ci,ci40225799,2023-05-15T22:03:26.463Z,"16km SSW of Searles Valley, CA",earthquake,0.41,0.73,0.26,14,automatic,ci,ci
 2023-05-15T21:55:18.120Z,19.3881664276123,-155.279998779297,3.41000008583069,2.36999989,md,11,87,,0.219999999,hv,hv73403902,2023-05-15T22:00:51.080Z,"7 km SW of Volcano, Hawaii",earthquake,1.18,0.639999986,1.41999996,7,automatic,hv,hv
+2023-05-15T21:52:24.510Z,43.1658333333333,-111.412666666667,5,0.87,ml,5,235,0.1159,0.26,mb,mb90014158,2023-05-15T22:11:30.220Z,"28 km SSW of Irwin, Idaho",earthquake,2.85,31.61,0.233255433166403,5,reviewed,mb,mb
 2023-05-15T21:45:32.370Z,19.2406673431396,-155.387161254883,30.8500003814697,1.92999995,md,30,158,,0.119999997,hv,hv73403882,2023-05-15T21:49:10.030Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.85,1.19000006,1.64999998,6,automatic,hv,hv
 2023-05-15T21:41:28.970Z,34.498,-118.8233333,1.75,2.05,ml,40,42,0.07939,0.31,ci,ci40225791,2023-05-15T21:45:11.501Z,"10km NNW of Piru, CA",earthquake,0.34,0.75,0.146,26,automatic,ci,ci
 2023-05-15T21:34:07.510Z,34.0291667,-117.231,14.94,1.33,ml,48,65,0.09484,0.24,ci,ci40225783,2023-05-15T21:37:44.187Z,"4km SE of Loma Linda, CA",earthquake,0.3,0.53,0.114,28,automatic,ci,ci
-2023-05-15T21:30:20.910Z,35.536,-96.74966667,7.81,2.98,ml,90,34,0,0.14,ok,ok2023jmlz,2023-05-15T21:51:44.039Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.2,36,reviewed,ok,ok
+2023-05-15T21:30:20.910Z,35.536,-96.74966667,7.81,2.98,ml,90,34,0,0.14,ok,ok2023jmlz,2023-05-15T22:12:19.270Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.2,36,reviewed,ok,ok
 2023-05-15T21:29:14.770Z,38.824501,-122.8548355,1.91,0.45,md,7,110,0.003431,0.01,nc,nc73888591,2023-05-15T21:52:12.829Z,"10km WNW of The Geysers, CA",earthquake,0.4,0.91,0.32,8,automatic,nc,nc
 2023-05-15T21:16:33.520Z,33.388,-116.3698333,0.16,1.58,ml,52,24,0.05651,0.24,ci,ci40225775,2023-05-15T21:20:14.061Z,"15km N of Borrego Springs, CA",earthquake,0.24,31.61,0.116,26,automatic,ci,ci
 2023-05-15T21:16:05.710Z,38.8191681,-122.822998,2.45,1.28,md,25,53,0.01019,0.02,nc,nc73888581,2023-05-15T21:39:16.752Z,"7km NW of The Geysers, CA",earthquake,0.22,0.4,0.19,25,automatic,nc,nc
@@ -154,6 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T05:14:47.450Z,19.0801666666667,-66.8336666666667,13.86,3.3,md,22,272,0.6168,0.19,pr,pr71409483,2023-05-15T05:58:12.700Z,"65 km N of Hatillo, Puerto Rico",earthquake,1.7,2.47,0.0747635062386673,8,reviewed,pr,pr
 2023-05-15T04:59:30.948Z,40.1677,-121.0749,5.9,1.5,ml,4,326.54,0.625,0.0292,nn,nn00859548,2023-05-15T17:34:20.540Z,"0 km SSW of Canyondam, California",earthquake,,23.5,0.16,3,reviewed,nn,nn
 2023-05-15T04:49:29.490Z,38.8095016,-122.8164978,2.76,0.76,md,12,102,0.009927,0.01,nc,nc73888236,2023-05-15T05:56:11.080Z,"6km NW of The Geysers, CA",earthquake,0.31,0.96,0.15,13,automatic,nc,nc
+2023-05-15T04:46:45.436Z,36.399,-115.4517,0,1,ml,4,236.9,0.26,0.1795,nn,nn00859563,2023-05-15T22:12:26.410Z,"Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2023-05-15T04:45:29.460Z,35.7681667,-117.5725,1.77,0.99,ml,13,137,0.1589,0.2,ci,ci40225311,2023-05-15T04:49:03.817Z,"15km W of Searles Valley, CA",earthquake,0.5,0.64,0.161,8,automatic,ci,ci
 2023-05-15T04:36:29.317Z,61.1715,-141.166,0,1.4,ml,,,,0.85,ak,ak02367c5d4j,2023-05-15T04:38:45.900Z,"98 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-15T04:20:58.700Z,33.6495,-116.7211667,12.34,0.54,ml,20,84,0.06178,0.11,ci,ci40225303,2023-05-15T04:24:28.819Z,"10km S of Idyllwild, CA",earthquake,0.26,0.48,0.197,12,automatic,ci,ci
@@ -202,7 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T22:30:58.250Z,36.5701675,-121.1583328,8.32,1.65,md,14,156,0.02185,0.33,nc,nc73888181,2023-05-15T00:26:09.989Z,"4km NNW of Pinnacles, CA",earthquake,1.64,2.7,0.12,11,automatic,nc,nc
 2023-05-14T22:27:31.100Z,35.726,-98.0155,5.8,1.15,ml,31,69,0.1754655677,0.25,ok,ok2023jksj,2023-05-15T19:48:24.562Z,"3 km W of Okarche, Oklahoma",earthquake,,0.9,0.19,4,reviewed,ok,ok
 2023-05-14T22:25:20.880Z,38.8078346,-122.8188324,3.62,0.75,md,8,113,0.01668,0.02,nc,nc73888176,2023-05-15T00:01:09.856Z,"6km WNW of The Geysers, CA",earthquake,0.9,1.88,0.09,8,automatic,nc,nc
-2023-05-14T22:19:56.600Z,36.49816667,-98.4405,7.94,1.82,ml,90,77,0.04949028832,0.24,ok,ok2023jksc,2023-05-15T13:17:36.552Z,"1 km SSE of Aline, Oklahoma",earthquake,,0.4,0.23,42,reviewed,ok,ok
-2023-05-14T22:19:19.990Z,44.8045,-113.0325,3.81,1.2,ml,5,172,0.1328,0.01,mb,mb90014138,2023-05-15T21:13:22.170Z,"western Montana",earthquake,0.48,6.28,0.294311403312267,3,reviewed,mb,mb
-2023-05-14T22:19:01.450Z,38.8301659,-122.8160019,1.62,1.34,md,22,45,0.008195,0.03,nc,nc73888171,2023-05-14T23:45:14.769Z,"8km NW of The Geysers, CA",earthquake,0.2,0.39,0.15,26,automatic,nc,nc
-2023-05-14T22:17:15.449Z,35.739,-98.01516667,6.64,1.38,ml,28,80,0.1799646848,0.31,ok,ok2023jksa,2023-05-15T18:00:01.839Z,"3 km WNW of Okarche, Oklahoma",earthquake,,1.3,0.17,13,reviewed,ok,ok
