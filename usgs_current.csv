@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-15T20:01:32.466Z,39.5484,-119.5089,2,1.4,ml,8,91.87,0.354,0.221,nn,nn00859557,2023-05-15T20:04:56.097Z,"20 km ESE of Spanish Springs, Nevada",earthquake,,12.3,0.3,5,automatic,nn,nn
+2023-05-15T20:05:10.970Z,33.0346667,-114.9521667,2.46,1.03,ml,9,75,0.06598,0.2,ci,ci40225735,2023-05-15T20:08:50.445Z,"42km NNW of Los Algodones, B.C., MX",earthquake,0.46,0.78,0.097,3,automatic,ci,ci
 2023-05-15T19:56:12.700Z,19.2320003509521,-155.396667480469,30.3700008392334,2.14,ml,24,159,,0.150000006,hv,hv73403717,2023-05-15T20:01:58.640Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,1,0.22,3,automatic,hv,hv
-2023-05-15T19:53:56.330Z,19.2430000305176,-155.397506713867,30.5900001525879,2.46,ml,43,145,,0.140000001,hv,hv73403707,2023-05-15T19:59:30.050Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.50999999,2.85,22,automatic,hv,hv
+2023-05-15T19:53:56.320Z,19.2425,-155.396,30.96,2.76,ml,43,117,,0.12,hv,hv73403707,2023-05-15T20:17:12.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.43,0.53,0.114817449244783,23,reviewed,hv,hv
 2023-05-15T19:52:01.950Z,19.1453342437744,-155.47216796875,33.7299995422363,1.70000005,md,25,218,,0.0799999982,hv,hv73403702,2023-05-15T19:55:11.790Z,"6 km S of Pāhala, Hawaii",earthquake,1.1,1.14999998,0.680000007,3,automatic,hv,hv
 2023-05-15T19:25:07.320Z,32.6248333,-116.9491667,2.12,1.24,ml,18,105,0.02341,0.23,ci,ci40225703,2023-05-15T19:28:46.116Z,"8km ESE of Bonita, CA",quarry blast,0.64,0.49,0.128,10,automatic,ci,ci
 2023-05-15T19:24:37.210Z,19.3455009460449,-155.147171020508,4.53999996185303,2.41,ml,37,88,,0.180000007,hv,hv73403677,2023-05-15T19:30:08.220Z,"13 km S of Fern Forest, Hawaii",earthquake,0.5,1.08000004,0.27,15,automatic,hv,hv
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T08:52:21.180Z,38.8351669,-122.7901688,1.51,0.88,md,10,69,0.01307,0.02,nc,nc73888346,2023-05-15T09:19:13.312Z,"6km WNW of Cobb, CA",earthquake,0.43,1.54,0.23,10,automatic,nc,nc
 2023-05-15T08:49:10.033Z,37.5508,72.2305,188.669,4.1,mb,20,113,1.953,0.48,us,us6000kbzx,2023-05-15T16:49:39.040Z,"60 km E of Khorugh, Tajikistan",earthquake,6.14,9.03,0.262,4,reviewed,us,us
 2023-05-15T08:38:30.280Z,33.4691667,-116.5685,4.88,1.51,ml,55,66,0.03797,0.28,ci,ci40225367,2023-05-15T08:48:57.400Z,"14km SE of Anza, CA",earthquake,0.26,0.94,0.201,26,automatic,ci,ci
-2023-05-15T08:34:11.230Z,40.2431679,-121.1631699,-0.91,2.65,md,19,64,0.3244,0.28,nc,nc73888336,2023-05-15T18:02:13.280Z,"3km NNE of Almanor, CA",earthquake,0.74,13.73,0.08,13,automatic,nc,nc
+2023-05-15T08:34:11.720Z,40.2366667,-121.161,6.68,2.53,md,35,42,0.01625,0.15,nc,nc73888336,2023-05-15T20:20:51.772Z,"3km NNE of Almanor, CA",earthquake,0.27,0.27,0.138,52,reviewed,nc,nc
 2023-05-15T08:33:33.341Z,36.326,-116.3253,6.1,1.2,ml,32,83.53,0.132,0.1121,nn,nn00859539,2023-05-15T16:07:51.964Z,"33 km WNW of Pahrump, Nevada",earthquake,,1.6,0.92,16,reviewed,nn,nn
 2023-05-15T08:30:05.965Z,63.2238,-150.9958,138.2,1.7,ml,,,,0.19,ak,ak02367ehrg4,2023-05-15T08:32:12.567Z,"50 km SE of Denali National Park, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2023-05-15T08:21:09.790Z,33.4715004,-116.5636673,8.21,1.54,ml,57,52,0.03965,0.19,ci,ci40225359,2023-05-15T08:31:43.400Z,"14km SE of Anza, CA",earthquake,0.22,0.68,0.235,14,automatic,ci,ci
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T03:46:04.051Z,65.4531,-144.7768,0,1.4,ml,,,,0.81,ak,ak02367bm0qd,2023-05-15T03:48:42.639Z,"13 km S of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-15T03:26:22.270Z,19.1491661071777,-155.467498779297,29.25,1.85000002,md,26,172,,0.109999999,hv,hv73402597,2023-05-15T03:29:38.960Z,"6 km S of Pāhala, Hawaii",earthquake,0.87,1.16999996,1.85000002,4,automatic,hv,hv
 2023-05-15T03:21:10.118Z,27.0291,126.8405,131.397,4.4,mb,41,61,1.293,0.66,us,us6000kbyg,2023-05-15T03:34:52.040Z,"102 km WNW of Ie, Japan",earthquake,8.3,7.746,0.078,47,reviewed,us,us
-2023-05-15T03:20:05.850Z,40.2441673,-121.1521683,-0.18,2.64,md,16,73,0.3168,0.3,nc,nc73888231,2023-05-15T18:59:29.091Z,"4km NE of Almanor, CA",earthquake,0.69,17.84,0.07,11,automatic,nc,nc
+2023-05-15T03:20:05.940Z,40.2281667,-121.1668333,6.43,2.56,md,26,68,0.02549,0.09,nc,nc73888231,2023-05-15T20:16:15.272Z,"2km NE of Almanor, CA",earthquake,0.22,0.23,0.175,47,reviewed,nc,nc
 2023-05-15T02:28:48.496Z,61.7773,-149.6751,22.2,1.8,ml,,,,0.56,ak,ak02367awto1,2023-05-15T02:30:56.679Z,"17 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-15T02:15:47.200Z,19.1193332672119,-155.469329833984,32.5299987792969,1.79999995,md,26,179,,0.100000001,hv,hv73402542,2023-05-15T02:18:52.000Z,"9 km S of Pāhala, Hawaii",earthquake,0.69,1.12,0.600000024,3,automatic,hv,hv
 2023-05-15T01:49:16.970Z,33.4748333,-116.5581667,7.66,0.89,ml,37,80,0.0418,0.17,ci,ci40225271,2023-05-15T01:52:52.543Z,"14km SE of Anza, CA",earthquake,0.2,0.53,0.154,26,automatic,ci,ci
@@ -191,4 +191,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T21:21:18.790Z,47.203,-122.23183333333333,12.5,0.96,ml,8,264,0.1641,0.08,uw,uw61915517,2023-05-15T17:12:10.460Z,"0 km E of Sumner, Washington",earthquake,0.63,1,0.16589767219802493,6,reviewed,uw,uw
 2023-05-14T21:01:02.740Z,38.8186684,-122.8223343,2.07,0.89,md,14,60,0.01068,0.02,nc,nc73888161,2023-05-14T21:17:20.822Z,"7km NW of The Geysers, CA",earthquake,0.25,0.65,0.2,17,automatic,nc,nc
 2023-05-14T20:53:05.670Z,61.6403,-141.0373,11.8,1.2,ml,,,,0.32,ak,ak02365y8jnr,2023-05-14T20:54:42.091Z,"102 km ENE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-14T20:45:19.480Z,40.2425003,-121.1331635,0.98,2.26,md,8,106,0.3058,0.15,nc,nc73888156,2023-05-14T22:50:13.419Z,"4km NNE of Prattville, CA",earthquake,0.89,11.09,0.05,4,automatic,nc,nc
+2023-05-14T20:45:19.700Z,40.2405,-121.1426667,7.32,2.21,md,29,41,0.00749,0.18,nc,nc73888156,2023-05-15T20:16:14.271Z,"4km NNE of Prattville, CA",earthquake,0.34,0.52,0.138,30,reviewed,nc,nc
