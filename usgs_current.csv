@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-17T21:14:46.460Z,19.2353324890137,-155.40299987793,30.2700004577637,1.83000004,md,28,154,,0.100000001,hv,hv73406697,2023-05-17T21:18:06.210Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.6,0.810000002,1.63999999,10,automatic,hv,hv
+2023-05-17T21:13:38.850Z,33.6216667,-116.6915,2.75,0.17,ml,16,103,0.06671,0.29,ci,ci40226975,2023-05-17T21:17:12.565Z,"8km NNW of Anza, CA",earthquake,0.56,2.34,0.248,5,automatic,ci,ci
 2023-05-17T21:10:53.819Z,59.8473,-152.5149,77.6,1.1,ml,,,,0.57,ak,ak0236ax6wo5,2023-05-17T21:13:01.892Z,"39 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-17T21:06:44.535Z,61.5812,-152.0337,101.3,0.6,ml,,,,0.53,ak,ak0236ax61ec,2023-05-17T21:09:13.130Z,"56 km SW of Skwentna, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-05-17T21:06:00.744Z,63.7844,-147.7011,0,1.1,ml,,,,0.85,ak,ak0236ax5xpm,2023-05-17T21:08:19.317Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -76,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T14:37:07.669Z,35.919,-95.14633333,0,1.48,ml,60,107,0.2663477335,0.48,ok,ok2023jppf,2023-05-17T15:17:12.381Z,"1 km SSW of Hulbert, Oklahoma",quarry blast,,0.5,0.17,14,reviewed,ok,ok
 2023-05-17T14:33:10.440Z,33.9223333,-118.342,14.13,1.42,ml,24,92,0.01265,0.21,ci,ci40226695,2023-05-17T17:53:17.938Z,"1km NE of Hawthorne, CA",earthquake,0.5,0.54,0.27,18,reviewed,ci,ci
 2023-05-17T14:31:02.390Z,32.7121667,-115.5438333,10.76,1.83,ml,25,81,0.05854,0.16,ci,ci40226687,2023-05-17T17:47:31.504Z,"2km SSW of Heber, CA",earthquake,0.33,0.46,0.22,20,reviewed,ci,ci
-2023-05-17T14:26:05.540Z,36.654,-121.2716667,2.26,2.44,md,50,112,0.05212,0.11,nc,nc73889156,2023-05-17T19:29:14.912Z,"16km SSE of Tres Pinos, CA",earthquake,0.17,0.46,0.186,63,reviewed,nc,nc
+2023-05-17T14:26:05.540Z,36.654,-121.2716667,2.26,2.44,md,50,112,0.05212,0.11,nc,nc73889156,2023-05-17T21:21:10.608Z,"16km SSE of Tres Pinos, CA",earthquake,0.17,0.46,0.186,63,reviewed,nc,nc
 2023-05-17T14:25:05.270Z,36.6496667,-121.2738333,3.5,2.54,md,59,105,0.05078,0.11,nc,nc73889151,2023-05-17T21:04:11.488Z,"16km SSE of Tres Pinos, CA",earthquake,0.16,0.61,0.166,74,reviewed,nc,nc
 2023-05-17T14:22:33.040Z,38.8073349,-122.7901688,2.8,1.29,md,27,35,0.004061,0.03,nc,nc73889146,2023-05-17T16:16:11.597Z,"4km NW of The Geysers, CA",earthquake,0.22,0.41,0.13,28,automatic,nc,nc
 2023-05-17T14:21:49.329Z,63.1003,-151.4527,1.9,1.6,ml,,,,0.33,ak,ak0236at37ys,2023-05-17T14:23:56.538Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -234,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T21:38:04.560Z,58.2661,-155.3357,1.5,1.5,ml,,,,0.43,ak,ak023699tgfc,2023-05-16T21:39:43.336Z,"90 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-16T21:29:25.590Z,19.2393341064453,-155.401840209961,33.25,2.53,ml,42,136,,0.159999996,hv,hv73405347,2023-05-16T22:08:40.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.769999981,2.55,12,automatic,hv,hv
 2023-05-16T21:29:02.475Z,10.6891,-45.5449,10,4.7,mb,71,63,8.953,0.78,us,us6000kce9,2023-05-16T21:49:12.040Z,"North Atlantic Ocean",earthquake,9.7,1.865,0.055,102,reviewed,us,us
-2023-05-16T21:17:36.340Z,38.8246651,-122.7943344,2.81,0.77,md,11,81,0.01236,0.02,nc,nc73888896,2023-05-16T21:45:15.610Z,"6km W of Cobb, CA",earthquake,0.5,0.88,0.26,14,automatic,nc,nc
