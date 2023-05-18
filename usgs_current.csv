@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-18T08:05:55.000Z,38.8240013,-122.8438339,1.66,0.82,md,19,102,0.006934,0.01,nc,nc73889506,2023-05-18T08:07:31.246Z,"9km NW of The Geysers, CA",earthquake,0.2,0.4,0.24,19,automatic,nc,nc
+2023-05-18T08:05:55.000Z,38.8240013,-122.8438339,1.66,0.82,md,19,102,0.006934,0.01,nc,nc73889506,2023-05-18T08:22:14.708Z,"9km NW of The Geysers, CA",earthquake,0.2,0.4,0.24,19,automatic,nc,nc
 2023-05-18T08:02:16.212Z,64.0518,-147.1951,0.9,1.6,ml,,,,0.5,ak,ak0236ccxto5,2023-05-18T08:04:14.198Z,"45 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-18T07:55:07.281Z,58.1949,-155.2664,0,0.9,ml,,,,0.67,ak,ak0236ccnqbs,2023-05-18T07:56:59.509Z,"84 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-18T07:23:56.340Z,33.1926667,-116.7206667,11.33,0.97,ml,40,26,0.05372,0.2,ci,ci40227223,2023-05-18T07:27:34.944Z,"7km SE of Lake Henshaw, CA",earthquake,0.26,0.68,0.113,24,automatic,ci,ci
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T07:13:14.530Z,33.6813333,-116.6931667,16.51,0.45,ml,20,76,0.03452,0.18,ci,ci40227199,2023-05-18T07:16:54.893Z,"7km SSE of Idyllwild, CA",earthquake,0.44,0.56,0.154,11,automatic,ci,ci
 2023-05-18T07:12:48.750Z,17.9206666666667,-66.9906666666667,9.7,2.29,md,7,236,0.07036,0.08,pr,pr71409828,2023-05-18T07:22:10.470Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.64,0.74,0.00323855031442966,4,reviewed,pr,pr
 2023-05-18T07:00:44.730Z,19.4969997406006,-155.474670410156,0.759999990463257,1.71000004,md,20,70,,0.300000012,hv,hv73407322,2023-05-18T07:04:02.390Z,"25 km WNW of Volcano, Hawaii",earthquake,0.51,1.44000006,1.45000005,6,automatic,hv,hv
-2023-05-18T06:55:15.890Z,38.8380013,-122.8251648,1.71,0.77,md,20,67,0.008083,0.03,nc,nc73889491,2023-05-18T07:16:13.330Z,"9km NW of The Geysers, CA",earthquake,0.21,0.59,0.2,20,automatic,nc,nc
+2023-05-18T06:55:15.890Z,38.8380013,-122.8251648,1.71,0.77,md,20,67,0.008083,0.03,nc,nc73889491,2023-05-18T08:23:11.712Z,"9km NW of The Geysers, CA",earthquake,0.21,0.59,0.2,20,automatic,nc,nc
 2023-05-18T06:52:23.706Z,58.9831,-151.8531,88.8,1.5,ml,,,,0.89,ak,ak0236cc1oua,2023-05-18T06:54:41.265Z,"41 km S of Port Graham, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-18T06:50:40.593Z,58.2075,-155.2152,1.4,0.2,ml,,,,0.15,ak,ak0236cc1apn,2023-05-18T06:52:17.194Z,"84 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-05-18T06:41:58.278Z,59.34,-152.0775,64.7,1.3,ml,,,,0.4,ak,ak0236cbzemr,2023-05-18T06:43:19.797Z,"9 km WSW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -259,7 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T08:57:50.990Z,36.6773333,-121.3086667,4.11,1.08,md,24,159,0.04277,0.08,nc,nc73889046,2023-05-18T06:13:13.937Z,"13km S of Tres Pinos, CA",earthquake,0.3,0.62,0.237,19,reviewed,nc,nc
 2023-05-17T08:37:02.210Z,34.7036667,-118.5495,10.84,0.92,ml,27,77,0.08195,0.14,ci,ci40226511,2023-05-17T17:31:26.355Z,"10km SSE of Neenach, CA",earthquake,0.2,0.3,0.198,8,reviewed,ci,ci
 2023-05-17T08:26:50.882Z,58.1721,-155.3018,0,0.9,ml,,,,0.22,ak,ak0236apjp1c,2023-05-17T08:28:24.021Z,"83 km NW of Karluk, Alaska",earthquake,,21.2,,,automatic,ak,ak
-2023-05-17T08:25:42.740Z,38.8441667,-122.8256667,2.31,0.28,md,5,135,0.009478,0.01,nc,nc73889041,2023-05-17T10:20:14.395Z,"9km WNW of Cobb, CA",earthquake,0.53,1.1,0.515,5,reviewed,nc,nc
-2023-05-17T08:20:35.700Z,38.7808342,-122.7268295,1.61,1.06,md,13,79,0.008098,0.02,nc,nc73889036,2023-05-17T10:09:17.323Z,"3km E of The Geysers, CA",earthquake,0.27,0.53,0.27,13,automatic,nc,nc
-2023-05-17T08:19:00.280Z,38.8241653,-122.7988358,2.71,1.08,md,25,31,0.008812,0.03,nc,nc73889031,2023-05-17T09:48:10.205Z,"6km NW of The Geysers, CA",earthquake,0.22,0.44,0.17,27,automatic,nc,nc
-2023-05-17T08:16:49.558Z,60.3497,-151.2888,54.1,1.4,ml,,,,0.32,ak,ak0236aphjrv,2023-05-17T08:19:11.788Z,"1 km NNW of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
