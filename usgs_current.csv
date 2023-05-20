@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-20T16:24:10.080Z,38.8348351,-122.8266678,4.09,0.74,md,7,149,0.007842,0.04,nc,nc73890391,2023-05-20T16:25:46.355Z,"9km NW of The Geysers, CA",earthquake,0.96,1.46,0.26,8,automatic,nc,nc
+2023-05-20T16:18:26.470Z,38.8383331,-122.8363342,1.51,0.87,md,24,82,0.0007093,0.02,nc,nc73890386,2023-05-20T16:20:01.086Z,"10km NW of The Geysers, CA",earthquake,0.2,0.35,0.25,24,automatic,nc,nc
 2023-05-20T16:10:59.960Z,34.2363333,-117.4956667,8.07,0.99,ml,19,66,0.02873,0.24,ci,ci40229551,2023-05-20T16:14:29.260Z,"3km S of Lytle Creek, CA",earthquake,0.53,0.68,0.224,16,automatic,ci,ci
 2023-05-20T16:06:30.770Z,34.0898333,-117.3101667,8.14,1.74,ml,72,19,0.00632,0.22,ci,ci40229543,2023-05-20T16:10:07.582Z,"2km N of Colton, CA",earthquake,0.2,0.66,0.201,25,automatic,ci,ci
 2023-05-20T16:05:33.650Z,33.042,-115.9888333,10.4,0.87,ml,9,79,0.1315,0.11,ci,ci40229535,2023-05-20T16:09:17.680Z,"17km SE of Ocotillo Wells, CA",earthquake,0.31,1.39,0.059,5,automatic,ci,ci
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T08:35:01.899Z,35.19229507,-97.81761932,11.78632545,1.8,ml,15,81.53407288,0.007962027565,0.7506851773,ok,ok2023jupx,2023-05-20T08:37:41.530Z,"6 km ENE of Amber, Oklahoma",earthquake,3.709429372,4.403500174,0.44,4,automatic,ok,ok
 2023-05-20T08:21:51.630Z,38.7919998,-122.7600021,2.14,0.64,md,9,72,0.008616,0.03,nc,nc73890271,2023-05-20T08:23:24.227Z,"2km N of The Geysers, CA",earthquake,0.38,1.34,0.23,10,automatic,nc,nc
 2023-05-20T08:20:51.910Z,33.3833333,-116.8998333,11.71,2.74,ml,86,25,0.04298,0.23,ci,ci40229159,2023-05-20T16:09:59.745Z,"4km NW of Palomar Observatory, CA",earthquake,0.19,0.82,0.205,25,automatic,ci,ci
-2023-05-20T08:18:16.220Z,33.3831673,-116.9041672,13.42,3.55,mlr,87,26,0.04556,0.23,ci,ci40229151,2023-05-20T16:14:11.762Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.63,0.263,15,reviewed,ci,ci
+2023-05-20T08:18:16.220Z,33.3831673,-116.9041672,13.42,3.55,mlr,87,26,0.04556,0.23,ci,ci40229151,2023-05-20T16:19:27.385Z,"5km NW of Palomar Observatory, CA",earthquake,0.27,0.63,0.263,15,reviewed,ci,ci
 2023-05-20T08:17:38.460Z,33.388,-116.8966667,14.1,1.38,ml,54,32,0.1131,0.23,ci,ci40229143,2023-05-20T08:45:09.569Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.72,0.174,26,automatic,ci,ci
 2023-05-20T08:14:26.560Z,34.0851667,-117.3181667,10.61,1.07,ml,26,62,0.1031,0.24,ci,ci40229127,2023-05-20T09:05:04.786Z,"1km NNW of Colton, CA",earthquake,0.33,0.8,0.202,28,automatic,ci,ci
 2023-05-20T08:12:18.640Z,38.8303337,-122.8560028,2.03,0.48,md,9,106,0.0179,0,nc,nc73890251,2023-05-20T09:53:19.470Z,"10km NW of The Geysers, CA",earthquake,0.38,0.94,0.29,10,automatic,nc,nc
@@ -244,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T16:42:57.435Z,60.0065,-147.863,14.8,1.7,ml,,,,0.54,ak,ak0236e5hatr,2023-05-19T16:44:49.784Z,"10 km SE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-19T16:42:19.420Z,34.3206667,-116.9751667,5.17,1.84,ml,65,36,0.07362,0.13,ci,ci40228351,2023-05-19T20:40:15.070Z,"10km NW of Big Bear Lake, CA",earthquake,0.13,0.41,0.128,34,reviewed,ci,ci
 2023-05-19T16:30:22.137Z,39.9761,-120.3912,8.1,0.8,ml,4,261.22,0.112,0.0439,nn,nn00859762,2023-05-20T00:30:38.499Z,"13 km NNE of Lake Davis, California",earthquake,,6.3,0.25,2,reviewed,nn,nn
-2023-05-19T16:23:46.360Z,34.2176667,-117.4483333,11.92,0.88,ml,24,119,0.03041,0.15,ci,ci40228327,2023-05-19T20:12:26.569Z,"4km W of Devore, CA",earthquake,0.27,0.3,0.126,14,reviewed,ci,ci
