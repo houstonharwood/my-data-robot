@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-21T06:38:19.160Z,38.8370018,-122.8379974,1.08,0.28,md,7,131,0.002521,0.02,nc,nc73890641,2023-05-21T06:39:54.615Z,"10km NW of The Geysers, CA",earthquake,0.34,0.67,0.15,8,automatic,nc,nc
+2023-05-21T06:37:00.560Z,38.836834,-122.8376694,1.07,0.78,md,13,85,0.002445,0.02,nc,nc73890636,2023-05-21T06:38:35.643Z,"10km NW of The Geysers, CA",earthquake,0.24,0.58,0.23,13,automatic,nc,nc
+2023-05-21T06:35:52.780Z,34.0431667,-117.2545,14.66,0.81,ml,19,109,0.112,0.22,ci,ci40230127,2023-05-21T06:39:29.043Z,"1km SE of Loma Linda, CA",earthquake,0.52,0.76,0.174,15,automatic,ci,ci
 2023-05-21T06:34:00.130Z,38.8221664,-122.8061676,2.4,0.21,md,8,142,0.01652,0.01,nc,nc73890631,2023-05-21T06:35:35.771Z,"7km NW of The Geysers, CA",earthquake,0.54,2.14,0.08,8,automatic,nc,nc
 2023-05-21T06:21:20.700Z,19.2586669921875,-155.391830444336,31.5499992370605,1.82000005,md,37,130,,0.119999997,hv,hv73413237,2023-05-21T06:25:28.450Z,"11 km NE of Pāhala, Hawaii",earthquake,0.67,0.699999988,0.910000026,8,automatic,hv,hv
 2023-05-21T06:17:32.534Z,37.2794,-117.5905,0.9,1.3,ml,14,100.18,0.064,0.3627,nn,nn00859886,2023-05-21T06:20:06.127Z,"California-Nevada border region",earthquake,,5.8,0.74,6,automatic,nn,nn
@@ -20,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T04:53:08.191Z,37.2836,-117.591,1,1.1,ml,10,105.31,0.067,0.3028,nn,nn00859858,2023-05-21T04:55:24.576Z,"Central California",earthquake,,1.7,0.68,4,automatic,nn,nn
 2023-05-21T04:49:39.013Z,37.2754,-117.6428,8.1,1.6,ml,11,204.58,0.803,0.3316,nn,nn00859856,2023-05-21T04:52:15.402Z,"Central California",earthquake,,2.1,0.28,10,automatic,nn,nn
 2023-05-21T04:40:15.399Z,37.3367,-117.4535,5.6,0.9,ml,14,176.4,0.348,0.3,nn,nn00859854,2023-05-21T04:42:55.222Z,"45 km SSW of Goldfield, Nevada",earthquake,,3.9,0.77,10,automatic,nn,nn
-2023-05-21T04:36:05.470Z,34.9672,24.8308,10,4.5,mb,35,222,0.324,0.75,us,us6000kdk6,2023-05-21T05:18:26.871Z,"10 km SSW of Moíres, Greece",earthquake,6.32,1.912,0.095,32,reviewed,us,us
+2023-05-21T04:36:05.470Z,34.9672,24.8308,10,4.5,mb,35,222,0.324,0.75,us,us6000kdk6,2023-05-21T06:37:23.506Z,"10 km SSW of Moíres, Greece",earthquake,6.32,1.912,0.095,32,reviewed,us,us
 2023-05-21T04:32:46.247Z,37.2821,-117.6105,1.8,1.1,ml,10,144.6,0.057,0.4585,nn,nn00859852,2023-05-21T04:35:14.492Z,"52 km S of Silver Peak, Nevada",earthquake,,18.6,1.08,5,automatic,nn,nn
 2023-05-21T04:32:03.745Z,37.2749,-117.5937,4.1,1.2,ml,12,104.7,0.059,0.3059,nn,nn00859850,2023-05-21T04:34:24.668Z,"Central California",earthquake,,3.2,0.68,7,automatic,nn,nn
 2023-05-21T04:29:17.144Z,37.2746,-117.6036,6.4,1.4,ml,23,101.15,0.054,0.3124,nn,nn00859847,2023-05-21T04:31:46.236Z,"California-Nevada border region",earthquake,,0.7,0.81,18,automatic,nn,nn
@@ -233,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T06:59:31.061Z,6.2397,-82.4003,10,4.4,mb,30,161,2.342,1.12,us,us6000kdes,2023-05-21T04:55:41.040Z,"201 km SW of Río Grande, Panama",earthquake,10.16,1.969,0.18,9,reviewed,us,us
 2023-05-20T06:57:06.427Z,60.9242,-147.3627,4.7,1.2,ml,,,,0.39,ak,ak0236fn5f2q,2023-05-20T06:58:46.771Z,"37 km W of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-20T06:48:48.070Z,35.9531667,-117.7015,1.33,1.51,ml,13,85,0.1532,0.17,ci,ci40229055,2023-05-20T06:52:23.409Z,"19km E of Little Lake, CA",earthquake,0.31,0.61,0.177,16,automatic,ci,ci
-2023-05-20T06:39:50.240Z,35.95,-117.692,2.19,2.27,ml,21,59,0.1002,0.23,ci,ci40229047,2023-05-20T06:50:41.410Z,"19km E of Little Lake, CA",earthquake,0.33,0.81,0.196,26,automatic,ci,ci
