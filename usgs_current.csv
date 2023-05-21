@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-21T07:54:58.250Z,35.6448326,-118.322998,7.52,2.16,ml,38,63,0.05541,0.15,ci,ci40230175,2023-05-21T07:57:04.528Z,"14km ESE of Wofford Heights, CA",earthquake,0.22,0.63,0.311,26,automatic,ci,ci
+2023-05-21T07:54:25.210Z,38.8148346,-122.8191681,2.65,0.94,md,18,58,0.009831,0.01,nc,nc73890661,2023-05-21T07:55:59.294Z,"7km NW of The Geysers, CA",earthquake,0.25,0.57,0.22,20,automatic,nc,nc
+2023-05-21T07:53:48.758Z,37.2871,-117.5834,1.8,1.6,ml,24,101.11,0.074,0.1925,nn,nn00859904,2023-05-21T07:56:18.900Z,"52 km S of Silver Peak, Nevada",earthquake,,9,0.78,18,automatic,nn,nn
+2023-05-21T07:52:00.516Z,37.2594,-117.583,0,1,ml,10,230.78,0.519,0.2078,nn,nn00859901,2023-05-21T07:54:06.569Z,"55 km S of Silver Peak, Nevada",earthquake,,53.4,0.88,5,automatic,nn,nn
 2023-05-21T07:47:18.850Z,38.8136673,-122.8180008,2.8,1.86,md,38,49,0.009961,0.03,nc,nc73890656,2023-05-21T07:50:24.634Z,"7km NW of The Geysers, CA",earthquake,0.16,0.3,0.17,37,automatic,nc,nc
 2023-05-21T07:44:02.660Z,33.3963333,-116.9001667,13.66,0.42,ml,18,103,0.05293,0.13,ci,ci40230167,2023-05-21T07:47:41.883Z,"6km NW of Palomar Observatory, CA",earthquake,0.29,0.66,0.112,11,automatic,ci,ci
 2023-05-21T07:41:02.534Z,37.2741,-117.6005,3.7,1.5,ml,17,102.78,0.055,0.2498,nn,nn00859898,2023-05-21T07:43:27.756Z,"53 km S of Silver Peak, Nevada",earthquake,,1.7,0.7,12,automatic,nn,nn
@@ -13,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T06:48:54.142Z,37.2814,-117.6048,7.2,0.9,ml,8,239.61,0.059,0.2331,nn,nn00859889,2023-05-21T06:51:06.440Z,"52 km S of Silver Peak, Nevada",earthquake,,2.6,0.89,5,automatic,nn,nn
 2023-05-21T06:38:19.160Z,38.8370018,-122.8379974,1.08,0.28,md,7,131,0.002521,0.02,nc,nc73890641,2023-05-21T07:11:18.463Z,"10km NW of The Geysers, CA",earthquake,0.34,0.67,0.15,8,automatic,nc,nc
 2023-05-21T06:37:14.080Z,17.949,-66.8348333333333,10.4,2.4,md,8,210,0.04959,0.13,pr,pr71410173,2023-05-21T06:52:12.510Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.75,0.6,0.0498844347210712,5,reviewed,pr,pr
-2023-05-21T06:37:00.560Z,38.836834,-122.8376694,1.07,0.78,md,13,85,0.002445,0.02,nc,nc73890636,2023-05-21T07:48:10.697Z,"10km NW of The Geysers, CA",earthquake,0.24,0.58,0.23,13,automatic,nc,nc
+2023-05-21T06:37:00.560Z,38.836834,-122.8376694,1.07,0.78,md,13,85,0.002445,0.02,nc,nc73890636,2023-05-21T07:52:13.725Z,"10km NW of The Geysers, CA",earthquake,0.24,0.58,0.23,13,automatic,nc,nc
 2023-05-21T06:35:52.780Z,34.0431667,-117.2545,14.66,0.81,ml,19,109,0.112,0.22,ci,ci40230127,2023-05-21T06:39:29.043Z,"1km SE of Loma Linda, CA",earthquake,0.52,0.76,0.174,15,automatic,ci,ci
 2023-05-21T06:34:00.130Z,38.8221664,-122.8061676,2.4,0.21,md,8,142,0.01652,0.01,nc,nc73890631,2023-05-21T07:24:16.538Z,"7km NW of The Geysers, CA",earthquake,0.54,2.14,0.08,8,automatic,nc,nc
 2023-05-21T06:21:20.700Z,19.2586669921875,-155.391830444336,31.5499992370605,1.82000005,md,37,130,,0.119999997,hv,hv73413237,2023-05-21T06:25:28.450Z,"11 km NE of Pāhala, Hawaii",earthquake,0.67,0.699999988,0.910000026,8,automatic,hv,hv
@@ -238,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T08:09:40.186Z,61.3199,-150.3407,56.3,1.1,ml,,,,0.48,ak,ak0236fo22hz,2023-05-20T08:11:59.438Z,"19 km WSW of Point MacKenzie, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-20T08:03:19.810Z,38.8441658,-122.8150024,1.57,1.01,md,16,48,0.01234,0.04,nc,nc73890236,2023-05-20T08:17:15.887Z,"8km WNW of Cobb, CA",earthquake,0.26,0.46,0.26,16,automatic,nc,nc
 2023-05-20T07:59:42.347Z,60.4827,-144.7547,15.6,1.3,ml,,,,1,ak,ak0236fnrcux,2023-05-20T08:02:10.775Z,"55 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-20T07:55:39.432Z,-23.1682,170.0998,19.088,4.7,mb,34,110,2.508,0.69,us,us6000kdez,2023-05-20T08:32:14.040Z,"272 km E of Vao, New Caledonia",earthquake,8.8,4.676,0.106,27,reviewed,us,us
