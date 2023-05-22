@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-22T17:30:35.497Z,35.78998566,-96.96366119,3.931107998,2.35,ml,45,36.53673172,0.1913150996,0.4550452525,ok,ok2023jyyp,2023-05-22T17:32:07.995Z,"4 km ESE of Carney, Oklahoma",earthquake,1.715575414,1.495241903,0.22,35,automatic,ok,ok
+2023-05-22T17:26:49.783Z,59.4799,-152.7731,80.7,1.7,ml,,,,0.43,ak,ak0236j4lbv6,2023-05-22T17:28:49.102Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-22T17:24:44.731Z,58.6305,-153.7291,74.2,1.8,ml,,,,0.29,ak,ak0236j4kw1l,2023-05-22T17:26:32.030Z,"79 km NW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-22T17:24:12.870Z,33.9246667,-116.7866667,14.94,0.72,ml,24,54,0.09128,0.2,ci,ci40231471,2023-05-22T17:27:45.304Z,"1km N of Cabazon, CA",earthquake,0.43,0.79,0.132,17,automatic,ci,ci
 2023-05-22T17:19:05.285Z,34.50161362,-97.68687439,5,2.06,ml,11,93.02072144,0.1558174193,1.015264811,ok,ok2023jyyf,2023-05-22T17:21:14.051Z,"4 km NNW of Velma, Oklahoma",earthquake,,0,0.35,4,automatic,ok,ok
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T14:38:44.546Z,31.70241475,-104.548623,4.511962890999999,3,ml,21,82,0.02358033187,0.3,tx,tx2023jysx,2023-05-22T15:22:31.591Z,"western Texas",earthquake,3.02272508,1.064165601,0.2,15,reviewed,tx,tx
 2023-05-22T14:27:59.137Z,62.8236,-150.849,102.4,1.3,ml,,,,0.46,ak,ak0236j2t9hl,2023-05-22T14:30:08.059Z,"36 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-22T14:22:51.130Z,19.2106666564941,-155.388000488281,28.9300003051758,2.11,ml,41,158,,0.200000003,hv,hv73415647,2023-05-22T14:28:20.590Z,"9 km E of Pāhala, Hawaii",earthquake,0.74,0.949999988,4.04,5,automatic,hv,hv
-2023-05-22T14:20:30.164Z,31.65408656,-104.3217915,6.851391602,3.123927164,mlv,19,69,0.05158027421,0.2,tx,tx2023jysi,2023-05-22T14:36:57.665Z,"58 km S of Whites City, New Mexico",earthquake,1.121746642,1.047288041,0.2797620385,14,reviewed,tx,tx
+2023-05-22T14:20:30.164Z,31.65408656,-104.3217915,6.851391602,3.1,ml,19,69,0.05158027421,0.2,tx,tx2023jysi,2023-05-22T17:29:09.962Z,"58 km S of Whites City, New Mexico",earthquake,1.121746642,1.047288041,0.2,12,reviewed,tx,tx
 2023-05-22T14:20:21.570Z,36.0061684,-120.5725021,4.12,0.98,md,10,137,0.03367,0.04,nc,nc73891281,2023-05-22T14:53:19.595Z,"17km NW of Parkfield, CA",earthquake,0.48,0.7,0.38,4,automatic,nc,nc
 2023-05-22T14:19:47.869Z,60.3073,-151.3277,64.7,1.2,ml,,,,0.69,ak,ak0236j2riw2,2023-05-22T14:21:16.225Z,"4 km SW of Kasilof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-22T14:04:37.870Z,37.2937,-117.5794,0.8,1.2,ml,10,131.48,0.081,0.2036,nn,nn00860082,2023-05-22T14:06:59.446Z,"51 km S of Silver Peak, Nevada",earthquake,,22.4,0.89,5,automatic,nn,nn
@@ -59,10 +61,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T11:06:43.620Z,34.004,-116.764,11.05,0.74,ml,31,68,0.04783,0.19,ci,ci40231167,2023-05-22T11:10:20.419Z,"10km NNE of Cabazon, CA",earthquake,0.37,0.59,0.118,23,automatic,ci,ci
 2023-05-22T11:05:16.879Z,59.9307,-153.3749,115.3,1.3,ml,,,,0.82,ak,ak0236j0w5nr,2023-05-22T11:07:46.440Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-22T10:51:07.710Z,35.6655,-117.4696667,9.44,1.37,ml,18,57,0.03742,0.18,ci,ci40231151,2023-05-22T10:54:48.178Z,"13km SSW of Searles Valley, CA",earthquake,0.35,0.89,0.119,14,automatic,ci,ci
-2023-05-22T10:49:18.480Z,40.2006667,-121.1003333,6.67,2.29,md,35,46,0.05829,0.18,nc,nc73891196,2023-05-22T17:25:11.654Z,"4km NNW of Canyondam, CA",earthquake,0.26,0.5,0.113,42,reviewed,nc,nc
+2023-05-22T10:49:18.480Z,40.2006667,-121.1003333,6.67,2.29,md,35,46,0.05829,0.18,nc,nc73891196,2023-05-22T17:29:18.558Z,"4km NNW of Canyondam, CA",earthquake,0.26,0.5,0.113,42,reviewed,nc,nc
 2023-05-22T10:48:51.920Z,64.8352,-147.3148,8.5,0.7,ml,,,,0.65,ak,ak0236j0k0js,2023-05-22T10:50:37.750Z,"9 km N of North Pole, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-22T10:46:26.424Z,34.3494,139.2013,9.214,4.9,mb,47,102,0.902,1.14,us,us6000kdup,2023-05-22T11:09:34.040Z,"43 km SSE of Shimoda, Japan",earthquake,4.38,4.521,0.046,146,reviewed,us,us
-2023-05-22T10:38:11.401Z,37.2927,-117.5909,5.7,1,ml,11,137.02,0.074,0.1718,nn,nn00860072,2023-05-22T14:11:21.707Z,"51 km S of Silver Peak, Nevada",earthquake,,3.3,1.15,6,reviewed,nn,nn
+2023-05-22T10:38:11.383Z,37.2906,-117.5927,5.9,0.3,ml,12,137.13,0.072,0.1234,nn,nn00860072,2023-05-22T17:30:12.734Z,"51 km S of Silver Peak, Nevada",earthquake,,2.6,0.99,8,reviewed,nn,nn
 2023-05-22T10:31:33.410Z,33.5463333,-116.7208333,3.97,-0.23,ml,11,109,0.02347,0.25,ci,ci40231135,2023-05-22T10:35:13.599Z,"4km WSW of Anza, CA",earthquake,0.71,0.88,0.045,4,automatic,ci,ci
 2023-05-22T10:24:22.440Z,33.4641667,-116.575,9.21,0.5,ml,22,76,0.038,0.14,ci,ci40231127,2023-05-22T13:11:27.357Z,"14km SE of Anza, CA",earthquake,0.27,0.52,0.171,13,reviewed,ci,ci
 2023-05-22T10:20:59.993Z,58.2005,-155.2472,0,1.6,ml,,,,0.44,ak,ak0236j0e14f,2023-05-22T10:22:04.603Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
@@ -100,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T07:24:55.413Z,37.2818,-117.565,0,0.4,ml,10,126.07,0.081,0.2009,nn,nn00860067,2023-05-22T17:02:22.973Z,"52 km S of Silver Peak, Nevada",earthquake,,0,0.91,8,reviewed,nn,nn
 2023-05-22T07:15:43.610Z,34.2253333,-117.5773333,7.71,0.51,ml,21,83,0.06671,0.13,ci,ci40231039,2023-05-22T13:47:38.778Z,"8km WSW of Lytle Creek, CA",earthquake,0.28,0.44,0.036,4,reviewed,ci,ci
 2023-05-22T07:15:23.561Z,60.1309,-151.8028,53.6,1.5,ml,,,,0.41,ak,ak0236iykkx0,2023-05-22T07:16:52.623Z,"11 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-22T07:00:48.466Z,60.7556,-150.6509,50.3,3.3,ml,,,,0.25,ak,ak0236iyhf3i,2023-05-22T07:17:43.417Z,"18 km S of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-05-22T07:00:48.940Z,60.7548,-150.6039,49.2,3.1,ml,,,,0.5,ak,ak0236iyhf3i,2023-05-22T17:30:35.541Z,"19 km SSE of Point Possession, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-05-22T06:55:09.239Z,37.2466,-117.6133,10.1,0.8,ml,6,204.7,0.03,0.2174,nn,nn00860065,2023-05-22T14:05:08.128Z,"56 km S of Silver Peak, Nevada",earthquake,,2.4,0.88,6,reviewed,nn,nn
 2023-05-22T06:52:47.409Z,-23.7485,171.6763,30.492,5.5,mww,39,125,4.053,0.3,us,us6000kdty,2023-05-22T08:57:20.838Z,"southeast of the Loyalty Islands",earthquake,11.05,5.822,0.098,10,reviewed,us,us
 2023-05-22T06:48:48.526Z,37.2858,-117.591,7.4,0.5,ml,7,105.42,0.069,0.0953,nn,nn00860064,2023-05-22T16:53:04.263Z,"52 km S of Silver Peak, Nevada",earthquake,,3.8,1.02,6,reviewed,nn,nn
@@ -207,6 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T21:11:02.520Z,19.4028339385986,-155.264999389648,0.529999971389771,1.91999996,md,12,92,,0.129999995,hv,hv73414407,2023-05-21T21:13:48.450Z,"Island of Hawaii, Hawaii",earthquake,0.23,0.519999981,1.74000001,9,automatic,hv,hv
 2023-05-21T21:10:57.512Z,37.2623,-117.5951,3.1,1.3,ml,16,219.98,0.529,0.2569,nn,nn00860035,2023-05-21T21:13:43.426Z,"54 km S of Silver Peak, Nevada",earthquake,,9.5,0.84,11,automatic,nn,nn
 2023-05-21T21:07:54.732Z,61.8515,-151.6043,80,1.5,ml,,,,0.44,ak,ak0236hjbnkh,2023-05-21T21:10:02.830Z,"18 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-21T20:54:36.050Z,-1.1354,120.3362,45.963,4.7,mb,51,81,3.431,0.82,us,us6000kdri,2023-05-22T17:33:26.040Z,"54 km WNW of Poso, Indonesia",earthquake,8.73,4.943,0.086,41,reviewed,us,us
 2023-05-21T20:54:30.110Z,38.8466682,-122.815834,1.41,0.71,md,7,111,0.009905,0.01,nc,nc73890966,2023-05-21T22:15:11.032Z,"8km WNW of Cobb, CA",earthquake,0.37,1.07,0.28,8,automatic,nc,nc
 2023-05-21T20:30:16.990Z,19.4103336334229,-155.267669677734,-0.0599999986588955,2.32,ml,23,112,,0.200000003,hv,hv73414342,2023-05-21T20:35:47.910Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.25,0.31,10,automatic,hv,hv
 2023-05-21T20:29:46.860Z,46.851,-121.92233333333333,6.26,0.26,ml,15,69,0.02044,0.08,uw,uw61926841,2023-05-22T04:08:54.600Z,"13 km NE of Ashford, Washington",earthquake,0.35,0.42,0.09213170863280834,7,reviewed,uw,uw
@@ -242,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T17:56:31.326Z,36.7779,-117.3633,4.9,1,ml,13,222.9,0.218,0.2569,nn,nn00860014,2023-05-21T17:58:47.415Z,"55 km WSW of Beatty, Nevada",earthquake,,3.6,0.94,8,automatic,nn,nn
 2023-05-21T17:51:57.746Z,37.2692,-117.5616,2.8,1.4,ml,21,211.42,0.076,0.3432,nn,nn00860012,2023-05-21T17:54:29.777Z,"54 km S of Silver Peak, Nevada",earthquake,,8,0.78,13,automatic,nn,nn
 2023-05-21T17:40:05.190Z,38.8318329,-122.8170013,1.79,0.76,md,14,66,0.01001,0.01,nc,nc73890881,2023-05-21T19:27:11.051Z,"8km NW of The Geysers, CA",earthquake,0.27,0.74,0.08,14,automatic,nc,nc
-2023-05-21T17:31:05.633Z,-1.1026,120.3447,46.683,4.8,mb,44,81,3.439,0.57,us,us6000kdq2,2023-05-21T19:26:49.040Z,"55 km NW of Poso, Indonesia",earthquake,8.6,3.577,0.097,33,reviewed,us,us
