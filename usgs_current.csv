@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-22T04:21:10.890Z,40.1673317,-121.0573349,0.08,2.38,md,11,83,0.3162,0.17,nc,nc73891106,2023-05-22T04:25:12.593Z,"2km E of Canyondam, CA",earthquake,0.56,12.36,0.09,7,automatic,nc,nc
-2023-05-22T04:19:49.400Z,40.1635017,-121.0546646,-1.39,3.08,ml,41,48,0.318,0.51,nc,nc73891101,2023-05-22T04:26:36.125Z,"2km ESE of Canyondam, CA",earthquake,0.68,3.19,0.297,16,automatic,nc,nc
+2023-05-22T04:28:19.640Z,38.8226662,-122.8099976,9.49,0.65,md,9,137,0.0007302,0.05,nc,nc73891111,2023-05-22T04:29:55.631Z,"7km NW of The Geysers, CA",earthquake,1.92,7.54,0.19,10,automatic,nc,nc
+2023-05-22T04:27:59.260Z,35.6998333,-117.5573333,6.78,0.86,ml,11,142,0.1142,0.16,ci,ci40230967,2023-05-22T04:31:37.496Z,"14km NE of Ridgecrest, CA",earthquake,0.68,1.44,0.157,7,automatic,ci,ci
+2023-05-22T04:21:10.890Z,40.1673317,-121.0573349,0.08,2.38,md,11,83,0.3162,0.17,nc,nc73891106,2023-05-22T04:30:19.900Z,"2km E of Canyondam, CA",earthquake,0.56,12.36,0.09,7,automatic,nc,nc
+2023-05-22T04:19:49.400Z,40.1635017,-121.0546646,-1.39,3.08,ml,41,48,0.318,0.51,nc,nc73891101,2023-05-22T04:31:55.008Z,"2km ESE of Canyondam, CA",earthquake,0.68,3.19,0.297,16,automatic,nc,nc
 2023-05-22T03:53:41.584Z,35.16608047,-97.88650513,2.994560003,1.82,ml,11,116.2590027,0.05737625062,0.7770796468,ok,ok2023jxxq,2023-05-22T03:56:27.916Z,"0 km NW of Amber, Oklahoma",earthquake,3.823057246,2.398858481,0.24,7,automatic,ok,ok
 2023-05-22T03:52:15.535Z,60.1762,-151.1191,65.4,2.1,ml,,,,0.21,ak,ak0236iwerdd,2023-05-22T03:53:25.318Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-22T03:51:33.320Z,62.9786,-151.1591,124,1.4,ml,,,,0.24,ak,ak0236iwel10,2023-05-22T03:53:22.695Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -31,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T01:01:31.097Z,37.2816,-117.5326,2.8,0.7,ml,8,217.25,0.102,0.144,nn,nn00860056,2023-05-22T01:04:23.483Z,"53 km S of Silver Peak, Nevada",earthquake,,10.2,1.02,5,automatic,nn,nn
 2023-05-22T00:49:57.862Z,61.7283,-151.7355,91.6,0.9,ml,,,,0.53,ak,ak0236iulwoa,2023-05-22T00:52:15.803Z,"34 km SSW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-22T00:49:00.117Z,37.2646,-117.5874,2.9,1.2,ml,19,113.16,0.056,0.237,nn,nn00860054,2023-05-22T00:51:33.774Z,"54 km S of Silver Peak, Nevada",earthquake,,0.8,0.62,13,automatic,nn,nn
+2023-05-22T00:46:44.580Z,46.890166666666666,-121.762,0.45,0.52,ml,4,275,0.02809,0.05,uw,uw61926966,2023-05-22T04:28:59.370Z,"25 km NE of Ashford, Washington",earthquake,0.62,0.96,0.09990090897900139,3,reviewed,uw,uw
 2023-05-22T00:40:15.450Z,19.3988342285156,-155.267166137695,1.20000004768372,1.78,ml,12,79,,0.180000007,hv,hv73414732,2023-05-22T00:45:46.500Z,"5 km SW of Volcano, Hawaii",earthquake,0.3,0.409999996,0.2,5,automatic,hv,hv
 2023-05-22T00:11:11.184Z,37.2515,-117.5687,0,1.5,ml,12,128.22,0.064,0.2059,nn,nn00860050,2023-05-22T00:13:32.686Z,"56 km S of Silver Peak, Nevada",earthquake,,1,0.79,11,automatic,nn,nn
 2023-05-22T00:05:43.482Z,-15.8583,-73.5332,63.844,4.3,mb,20,143,3.944,0.54,us,us6000kds8,2023-05-22T00:22:10.040Z,"38 km SE of Quicacha, Peru",earthquake,5.05,17.185,0.201,7,reviewed,us,us
@@ -63,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T22:20:30.800Z,35.6621667,-117.4881667,4.89,1.18,ml,16,69,0.05257,0.15,ci,ci40230783,2023-05-21T22:24:08.908Z,"14km SSW of Searles Valley, CA",earthquake,0.34,0.93,0.234,11,automatic,ci,ci
 2023-05-21T22:20:05.361Z,29.8307,129.1834,189.392,5.5,mww,72,53,1.999,1.02,us,us6000kdrq,2023-05-22T00:26:18.174Z,"129 km WSW of Kurio, Japan",earthquake,7.43,7.21,0.071,19,reviewed,us,us
 2023-05-21T22:10:13.155Z,40.1901,-119.812,5.4,1,ml,4,235.63,0.064,0.0897,nn,nn00860049,2023-05-22T00:12:18.216Z,"27 km E of Herlong, California",earthquake,,4.9,0.58,4,reviewed,nn,nn
-2023-05-21T22:08:27.130Z,39.6522,-119.9748,6.9,1.1,ml,7,126.76,0.046,0.1218,nn,nn00860048,2023-05-22T00:12:17.694Z,"3 km S of Cold Springs, Nevada",earthquake,,1.5,0.11,4,reviewed,nn,nn
+2023-05-21T22:08:27.130Z,39.6522,-119.9748,6.9,1.1,ml,7,126.76,0.046,0.1218,nn,nn00860048,2023-05-22T00:12:17.694Z,"Nevada",earthquake,,1.5,0.11,4,reviewed,nn,nn
 2023-05-21T22:00:00.622Z,60.0416,-152.1388,71.6,1.4,ml,,,,0.49,ak,ak0236hjvgzi,2023-05-21T22:02:05.667Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-21T21:49:16.390Z,33.6528333,-116.7056667,13.59,0.62,ml,20,83,0.05861,0.17,ci,ci40230775,2023-05-21T21:52:55.429Z,"10km S of Idyllwild, CA",earthquake,0.34,0.48,0.163,10,automatic,ci,ci
 2023-05-21T21:47:36.447Z,60.3494,-141.3172,8.9,2.4,ml,,,,0.82,ak,ak0236hjk6ru,2023-05-21T21:51:11.647Z,"126 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -295,6 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T04:49:39.013Z,37.2754,-117.6428,8.1,1.6,ml,11,204.58,0.803,0.3316,nn,nn00859856,2023-05-21T04:52:15.402Z,"Central California",earthquake,,2.1,0.28,10,automatic,nn,nn
 2023-05-21T04:40:15.399Z,37.3367,-117.4535,5.6,0.9,ml,14,176.4,0.348,0.3,nn,nn00859854,2023-05-21T04:42:55.222Z,"45 km SSW of Goldfield, Nevada",earthquake,,3.9,0.77,10,automatic,nn,nn
 2023-05-21T04:36:05.470Z,34.9672,24.8308,10,4.5,mb,35,222,0.324,0.75,us,us6000kdk6,2023-05-21T06:37:23.506Z,"10 km SSW of Moíres, Greece",earthquake,6.32,1.912,0.095,32,reviewed,us,us
-2023-05-21T04:32:46.247Z,37.2821,-117.6105,1.8,1.1,ml,10,144.6,0.057,0.4585,nn,nn00859852,2023-05-21T04:35:14.492Z,"52 km S of Silver Peak, Nevada",earthquake,,18.6,1.08,5,automatic,nn,nn
-2023-05-21T04:32:03.745Z,37.2749,-117.5937,4.1,1.2,ml,12,104.7,0.059,0.3059,nn,nn00859850,2023-05-21T04:34:24.668Z,"Central California",earthquake,,3.2,0.68,7,automatic,nn,nn
-2023-05-21T04:29:17.144Z,37.2746,-117.6036,6.4,1.4,ml,23,101.15,0.054,0.3124,nn,nn00859847,2023-05-21T04:31:46.236Z,"California-Nevada border region",earthquake,,0.7,0.81,18,automatic,nn,nn
