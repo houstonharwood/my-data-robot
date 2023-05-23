@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T06:02:28.649Z,37.2952,-117.5842,3.3,1.4,ml,16,104.74,0.079,0.217,nn,nn00860144,2023-05-23T06:05:03.978Z,"51 km S of Silver Peak, Nevada",earthquake,,1.7,0.77,9,automatic,nn,nn
 2023-05-23T05:57:48.707Z,61.7721,-151.8568,98.1,1,ml,,,,0.33,ak,ak0236kl647q,2023-05-23T06:00:09.595Z,"34 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-23T05:51:39.700Z,35.97433333,-98.19666667,7.16,1.68,ml,91,42,0.1178768685,0.21,ok,ok2023jzxa,2023-05-23T12:43:14.003Z,"6 km W of Loyal, Oklahoma",earthquake,,0.6,0.23,45,reviewed,ok,ok
-2023-05-23T05:47:00.640Z,37.3011,-117.5746,2,1.7,ml,20,102.77,0.089,0.229,nn,nn00860141,2023-05-23T05:59:54.937Z,"50 km S of Silver Peak, Nevada",earthquake,,9.3,0.81,14,automatic,nn,nn
+2023-05-23T05:47:01.123Z,37.2904,-117.5861,6.4,1.7,ml,8,101.16,0.075,0.1118,nn,nn00860141,2023-05-23T13:49:28.360Z,"51 km S of Silver Peak, Nevada",earthquake,,2,0.94,5,reviewed,nn,nn
 2023-05-23T05:41:46.610Z,19.3321666717529,-155.1943359375,-0.720000028610229,2.03,ml,45,110,,0.25,hv,hv73416852,2023-05-23T05:47:18.740Z,"12 km SSE of Volcano, Hawaii",earthquake,0.35,0.180000007,0.25,17,automatic,hv,hv
 2023-05-23T05:41:00.320Z,38.8404999,-122.8113327,0.22,0.63,md,15,70,0.01652,0.04,nc,nc73891561,2023-05-23T06:03:13.321Z,"8km WNW of Cobb, CA",earthquake,0.21,0.88,0.2,14,automatic,nc,nc
 2023-05-23T05:39:12.820Z,18.004,-66.8111666666667,16.77,2.35,md,8,169,0.07091,0.09,pr,pr71410588,2023-05-23T05:46:07.640Z,"1 km NE of Indios, Puerto Rico",earthquake,0.42,0.52,0.104335976212352,6,reviewed,pr,pr
@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T02:18:30.480Z,33.1921667,-116.0188333,9.17,1.29,ml,33,58,0.03917,0.24,ci,ci40231927,2023-05-23T02:21:59.675Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.38,0.86,0.121,27,automatic,ci,ci
 2023-05-23T02:16:19.720Z,38.7929993,-122.7806702,3.08,0.88,md,10,78,0.01882,0.02,nc,nc73891486,2023-05-23T02:33:14.084Z,"3km NW of The Geysers, CA",earthquake,0.34,0.92,0.23,13,automatic,nc,nc
 2023-05-23T02:01:58.808Z,62.4162,-143.0257,0,1.6,ml,,,,1.15,ak,ak0236kj1u2w,2023-05-23T02:04:44.584Z,"5 km N of Nabesna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-23T02:01:27.130Z,37.1893,-117.301,1,0.6,ml,12,313.79,0.299,0.2554,nn,nn00860138,2023-05-23T02:03:52.217Z,"57 km WNW of Beatty, Nevada",earthquake,,22.7,1.01,8,automatic,nn,nn
+2023-05-23T02:01:23.181Z,37.2905,-117.5688,0,0.6,ml,7,227.44,0.084,0.2041,nn,nn00860138,2023-05-23T13:45:43.307Z,"51 km S of Silver Peak, Nevada",earthquake,,0,0.86,5,reviewed,nn,nn
 2023-05-23T01:47:20.343Z,37.2757,-117.5973,7.3,1.2,ml,11,131.69,0.058,0.1578,nn,nn00860135,2023-05-23T13:42:35.103Z,"53 km S of Silver Peak, Nevada",earthquake,,2.3,0.72,7,reviewed,nn,nn
 2023-05-23T01:37:42.540Z,17.9975,-66.8056666666667,17.27,2.13,md,5,183,0.07351,0.09,pr,pr71410558,2023-05-23T02:18:00.840Z,"1 km ENE of Indios, Puerto Rico",earthquake,0.55,0.88,0.0496305781282032,5,reviewed,pr,pr
 2023-05-23T01:32:53.330Z,38.8196678,-122.822998,2.18,1.04,md,15,69,0.01001,0.02,nc,nc73891481,2023-05-23T02:06:13.923Z,"8km NW of The Geysers, CA",earthquake,0.28,0.62,0.19,17,automatic,nc,nc
@@ -297,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T14:04:38.461Z,37.2784,-117.5853,6.4,1.2,ml,9,96.83,0.067,0.1424,nn,nn00860082,2023-05-22T18:35:32.812Z,"California-Nevada border region",earthquake,,5.8,0.82,7,reviewed,nn,nn
 2023-05-22T13:55:34.990Z,41.886,-111.621,12.98,0.67,md,9,102,0.1348,0.11,uu,uu60540611,2023-05-22T15:45:24.360Z,"Utah",earthquake,0.61,0.94,0.299,5,reviewed,uu,uu
 2023-05-22T13:52:57.770Z,44.7786667,-110.8131667,4.51,1.25,ml,11,99,0.02829,0.17,uu,uu60540606,2023-05-22T14:43:32.130Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.39,0.6,0.504,3,reviewed,uu,uu
-2023-05-22T13:45:49.060Z,19.4193333333333,-155.263666666667,1.77,0.84,ml,11,101,,0.09,hv,hv73415587,2023-05-22T23:34:07.190Z,"4 km SW of Volcano, Hawaii",earthquake,0.33,0.41,0.0215116449273619,1,reviewed,hv,hv
