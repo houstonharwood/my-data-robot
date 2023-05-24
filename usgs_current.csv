@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T17:14:20.081Z,61.5655,-146.6731,30.2,1.4,ml,,,,0.78,ak,ak0236mfl8l5,2023-05-24T17:47:48.755Z,"47 km S of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-24T17:12:10.019Z,35.93883333,-97.901,7.97,1.34,ml,60,48,0.07288569734,0.33,ok,ok2023kcoz,2023-05-24T17:23:08.641Z,"4 km S of Dover, Oklahoma",earthquake,,0.9,0.22,27,reviewed,ok,ok
 2023-05-24T17:10:44.610Z,38.8138351,-122.8266678,2.01,0.76,md,17,57,0.005333,0.02,nc,nc73889480,2023-05-24T18:06:15.951Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.63,0.16,18,automatic,nc,nc
-2023-05-24T17:09:38.250Z,38.7235,-122.9156667,6.72,1.39,md,52,94,0.07049,0.05,nc,nc73889475,2023-05-24T23:21:31.670Z,"13km SE of Cloverdale, CA",earthquake,0.21,0.51,0.183,46,reviewed,nc,nc
+2023-05-24T17:09:38.250Z,38.7235,-122.9156667,6.72,1.39,md,52,94,0.07049,0.05,nc,nc73889475,2023-05-24T23:30:10.931Z,"13km SE of Cloverdale, CA",earthquake,0.21,0.51,0.183,46,reviewed,nc,nc
 2023-05-24T17:08:02.840Z,33.2245,-116.7568333,19.25,0.92,ml,34,46,0.01156,0.14,ci,ci40232951,2023-05-24T17:50:20.398Z,"2km SSE of Lake Henshaw, CA",earthquake,0.18,0.48,0.154,14,reviewed,ci,ci
 2023-05-24T17:07:00.840Z,34.215,-117.5633333,4.17,1.34,ml,43,63,0.05326,0.2,ci,ci40232943,2023-05-24T17:44:19.669Z,"8km SW of Lytle Creek, CA",earthquake,0.2,0.4,0.182,26,reviewed,ci,ci
 2023-05-24T17:05:54.880Z,38.824,-122.797,3.06,0.43,md,26,32,0.01023,0.02,nc,nc73889470,2023-05-24T19:45:11.555Z,"6km NW of The Geysers, CA",earthquake,0.19,0.39,0.188,25,reviewed,nc,nc
@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T03:21:55.180Z,58.2503333333333,-155.117166666667,3.72,0.05,ml,9,85,,0.15,av,av91770572,2023-05-24T22:10:44.440Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,0.75,0.157643936095534,9,reviewed,av,av
 2023-05-24T03:21:45.869Z,37.3029,-117.5707,3.1,1.6,ml,7,229.69,0.092,0.1299,nn,nn00860245,2023-05-24T16:32:43.467Z,"50 km S of Silver Peak, Nevada",earthquake,,11.3,1.11,5,reviewed,nn,nn
 2023-05-24T03:17:06.499Z,37.2707,-117.5819,6.8,1.8,ml,13,92.42,0.064,0.1215,nn,nn00860241,2023-05-24T16:11:04.059Z,"53 km S of Silver Peak, Nevada",earthquake,,1.6,0.91,10,reviewed,nn,nn
-2023-05-24T03:13:40.880Z,-6.7416,129.625,145.981,4.5,mb,18,111,2.222,0.61,us,us7000k3e6,2023-05-24T03:35:32.040Z,"Banda Sea",earthquake,7.03,11.875,0.171,10,reviewed,us,us
+2023-05-24T03:13:40.936Z,-6.7281,129.6574,151.942,4.4,mb,24,111,2.205,0.55,us,us7000k3e6,2023-05-24T23:31:20.040Z,"Banda Sea",earthquake,10.32,8.771,0.149,13,reviewed,us,us
 2023-05-24T03:11:18.590Z,58.2396666666667,-155.143833333333,2.74,0.19,ml,7,131,,0.11,av,av91099863,2023-05-24T22:02:35.190Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,0.42,0.189963414998179,7,reviewed,av,av
 2023-05-24T03:10:45.150Z,19.4048328399658,-155.322662353516,3.95000004768372,1.81,ml,24,73,,0.119999997,hv,hv73418337,2023-05-24T03:16:17.180Z,"10 km WSW of Volcano, Hawaii",earthquake,0.29,0.610000014,0.15,4,automatic,hv,hv
 2023-05-24T03:10:17.173Z,59.8978,-152.5789,86.1,1.6,ml,,,,0.27,ak,ak0236m78get,2023-05-24T03:12:02.231Z,"44 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -228,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T23:56:48.190Z,19.3881666666667,-155.28,1.53,1.85,ml,21,60,,0.1,hv,hv73418057,2023-05-24T23:18:27.380Z,"Hawaii region, Hawaii",earthquake,0.17,0.13,0.232300337533208,9,reviewed,hv,hv
 2023-05-23T23:51:38.735Z,37.2838,-117.5791,6.1,1.8,ml,14,96.35,0.074,0.1828,nn,nn00860226,2023-05-24T00:39:14.691Z,"52 km S of Silver Peak, Nevada",earthquake,,1.6,0.97,10,reviewed,nn,nn
 2023-05-23T23:48:15.229Z,-24.4148,-179.5808,441.059,4.8,mb,75,103,5.05,0.92,us,us7000k3cw,2023-05-24T00:04:40.040Z,"south of the Fiji Islands",earthquake,11.21,8.053,0.051,120,reviewed,us,us
-2023-05-23T23:30:09.660Z,35.0331667,-117.7,-0.82,1.71,ml,16,141,0.09859,0.17,ci,ci40232607,2023-05-24T00:26:44.978Z,"6km NW of Boron, CA",quarry blast,0.74,31.61,0.206,41,reviewed,ci,ci
-2023-05-23T23:28:55.026Z,35.5665,-82.887,1.054,2.6,mb_lg,29,44,0.119,0.86,us,us7000k3cu,2023-05-24T22:09:10.542Z,"4 km NW of West Canton, North Carolina",earthquake,0.9,5.147,0.082,39,reviewed,us,us
-2023-05-23T23:28:20.040Z,17.9526666666667,-66.9526666666667,14.87,2.16,md,5,209,0.07334,0.05,pr,pr71410673,2023-05-23T23:58:04.680Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.64,0.52,0.158453503072388,5,reviewed,pr,pr
