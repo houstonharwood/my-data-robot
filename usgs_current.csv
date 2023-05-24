@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T16:01:09.130Z,38.7515,-122.716,1.25,0.31,md,19,96,0.01131,0.04,nc,nc73889440,2023-05-24T18:31:14.101Z,"3km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.153,13,reviewed,nc,nc
 2023-05-24T15:56:52.590Z,44.745,-110.8393333,3.53,-0.36,md,4,172,0.04405,0.09,uu,uu60540796,2023-05-24T16:33:10.010Z,"22 km ENE of West Yellowstone, Montana",earthquake,1.3,31.61,0.214,2,reviewed,uu,uu
 2023-05-24T15:50:35.560Z,33.2583333,-115.9996667,4.59,1.53,ml,51,69,0.0246,0.15,ci,ci40232895,2023-05-24T17:46:15.980Z,"6km SW of Salton City, CA",earthquake,0.15,0.34,0.095,22,reviewed,ci,ci
-2023-05-24T15:49:34.919Z,-6.9826,129.5289,166.459,6.2,mww,115,28,2.472,0.9,us,us7000k3h5,2023-05-24T22:06:17.388Z,"Banda Sea",earthquake,7,4.31,0.042,54,reviewed,us,us
+2023-05-24T15:49:34.919Z,-6.9826,129.5289,166.459,6.2,mww,115,28,2.472,0.9,us,us7000k3h5,2023-05-24T22:40:05.789Z,"Banda Sea",earthquake,7,4.31,0.042,54,reviewed,us,us
 2023-05-24T15:33:55.510Z,33.256,-115.9995,4.74,2.57,ml,80,18,0.02662,0.17,ci,ci40232887,2023-05-24T21:41:30.160Z,"6km SW of Salton City, CA",earthquake,0.14,0.4,0.158,25,reviewed,ci,ci
 2023-05-24T15:17:48.531Z,-31.8567,-66.5564,131.999,4.6,mb,46,46,1.84,0.69,us,us7000k3gx,2023-05-24T15:51:49.040Z,"72 km WNW of Candelaria, Argentina",earthquake,8.06,7.829,0.107,26,reviewed,us,us
 2023-05-24T15:13:34.950Z,17.9455,-66.9696666666667,11.98,2.48,md,4,218,0.07485,0.09,pr,pr71410833,2023-05-24T16:18:30.630Z,"7 km WSW of Guánica, Puerto Rico",earthquake,2.56,1.36,0.0589081473802029,3,reviewed,pr,pr
@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T11:13:00.495Z,56.1646,-158.9351,135.6,1.6,ml,,,,0.1,ak,ak0236mc0j41,2023-05-24T11:15:29.064Z,"Alaska Peninsula",earthquake,,11.6,,,automatic,ak,ak
 2023-05-24T11:07:27.030Z,19.4198341369629,-155.328338623047,3.22000002861023,1.92,ml,27,69,,0.280000001,hv,hv73418857,2023-05-24T11:12:58.170Z,"10 km WSW of Volcano, Hawaii",earthquake,0.51,1.26999998,0.34,5,automatic,hv,hv
 2023-05-24T11:06:39.990Z,19.2083333333333,-155.4575,29.19,1.39,md,15,123,,0.09,hv,hv73418847,2023-05-24T21:30:40.430Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.64,0.84,0.0393459198371288,6,reviewed,hv,hv
+2023-05-24T11:05:54.830Z,44.31516666666667,-124.482,0.05,1.94,ml,22,147,0.2767,0.41,uw,uw61918797,2023-05-24T22:35:56.150Z,"30 km W of Yachats, Oregon",earthquake,0.73,0.5,0.09107409993801618,12,reviewed,uw,uw
 2023-05-24T10:49:09.170Z,58.2623333333333,-155.152833333333,32.6,-0.16,ml,7,94,,0.05,av,av91099813,2023-05-24T20:34:16.850Z,"87 km NNW of Karluk, Alaska",earthquake,1.28,0.63,0.260384625561783,6,reviewed,av,av
 2023-05-24T10:48:08.000Z,58.2786666666667,-155.169333333333,35.87,0.06,ml,5,174,,0.14,av,av91099808,2023-05-24T20:28:44.170Z,"Alaska Peninsula",earthquake,1.79,1.07,0.0661078986046926,4,reviewed,av,av
 2023-05-24T10:43:36.127Z,58.2799,-155.1414,24.3,1.2,ml,,,,0.59,ak,ak0236mbllqk,2023-05-24T19:40:16.470Z,"89 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -122,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T08:55:57.445Z,6.0666,126.3288,98.696,4.6,mb,72,112,1.244,0.82,us,us7000k3f2,2023-05-24T09:18:55.040Z,"36 km SSE of Pondaguitan, Philippines",earthquake,9.17,7.065,0.057,94,reviewed,us,us
 2023-05-24T08:55:38.340Z,38.7543335,-122.7170029,0.88,0.96,md,9,172,0.009502,0.02,nc,nc73889320,2023-05-24T10:15:10.929Z,"3km SW of Anderson Springs, CA",earthquake,0.36,0.57,0.2,9,automatic,nc,nc
 2023-05-24T08:47:38.390Z,19.5228,-65.7673,76,3.84,md,9,282,1.3084,0.47,pr,pr2023144000,2023-05-24T10:07:39.252Z,"121 km N of Suárez, Puerto Rico",earthquake,7.66,16.87,0.07,5,reviewed,pr,pr
-2023-05-24T08:42:02.490Z,38.7535,-122.7206667,1.58,2.19,md,58,33,0.008721,0.06,nc,nc73889310,2023-05-24T22:33:21.976Z,"4km SW of Anderson Springs, CA",earthquake,0.14,0.18,0.202,63,reviewed,nc,nc
+2023-05-24T08:42:02.490Z,38.7535,-122.7206667,1.58,2.19,md,58,33,0.008721,0.06,nc,nc73889310,2023-05-24T22:39:16.620Z,"4km SW of Anderson Springs, CA",earthquake,0.14,0.18,0.202,63,reviewed,nc,nc
 2023-05-24T08:41:58.690Z,38.7505,-122.7136667,1.24,1.12,md,15,81,0.009898,0.03,nc,nc73889305,2023-05-24T21:22:16.156Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.4,0.232,4,reviewed,nc,nc
 2023-05-24T08:30:22.360Z,-18.0924,168.0641,35,4.4,mb,12,152,4.325,1.22,us,us7000k3f1,2023-05-24T21:55:55.153Z,"47 km SW of Port-Vila, Vanuatu",earthquake,11.04,1.98,0.179,10,reviewed,us,us
 2023-05-24T08:18:52.450Z,33.5356667,-116.6816667,8.75,0.73,ml,31,38,0.0527,0.12,ci,ci40232759,2023-05-24T13:05:11.641Z,"2km SSW of Anza, CA",earthquake,0.17,0.39,0.207,22,reviewed,ci,ci
@@ -138,7 +139,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T06:43:16.290Z,58.2536666666667,-155.117666666667,3.86,0.42,ml,11,86,,0.1,av,av91770662,2023-05-24T22:33:04.780Z,"85 km NNW of Karluk, Alaska",earthquake,0.24,0.52,0.125987385491421,11,reviewed,av,av
 2023-05-24T06:37:21.387Z,60.8494,-138.0308,8.291,2.9,ml,28,103,0.257,0.59,us,us7000k3eq,2023-05-24T07:07:44.040Z,"162 km W of Whitehorse, Canada",earthquake,3.4,6.303,0.047,60,reviewed,us,us
 2023-05-24T06:30:23.507Z,61.8277,-147.9022,14.6,2.2,ml,,,,0.41,ak,ak0236m9521a,2023-05-24T15:22:16.404Z,"13 km W of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-24T06:29:56.100Z,58.187,-155.272166666667,2.35,0.67,ml,11,56,,0.05,av,av91770652,2023-05-24T22:37:47.100Z,"Alaska Peninsula",earthquake,0.16,0.4,0.363969641738904,11,reviewed,av,av
 2023-05-24T06:22:25.140Z,38.8261681,-122.8521652,1.82,0.89,md,17,89,0.003926,0.02,nc,nc73889285,2023-05-24T07:42:16.024Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
+2023-05-24T06:21:12.610Z,53.8656666666667,-166.779833333333,6.07,0.08,ml,6,116,,0.08,av,av91770637,2023-05-24T22:40:17.910Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.37,0.78,0.296868448460902,6,reviewed,av,av
 2023-05-24T06:13:48.230Z,58.1918333333333,-155.364,2.1,-0.38,ml,6,220,,0.04,av,av91770627,2023-05-24T22:27:06.200Z,"87 km NW of Karluk, Alaska",earthquake,0.65,0.39,0.249822391655315,6,reviewed,av,av
 2023-05-24T06:09:52.041Z,28.63677979,-98.24620864,4.670857747,1.8,ml,13,66,0.02999901962,0.2,tx,tx2023kbtd,2023-05-24T18:57:20.999Z,"20 km NNW of Three Rivers, Texas",earthquake,1.805629885,3.449929799,0.1,6,reviewed,tx,tx
 2023-05-24T06:09:30.390Z,46.849,-121.93416666666667,10.87,0.15,ml,14,90,0.01244,0.08,uw,uw61918767,2023-05-24T21:57:51.150Z,"12 km NE of Ashford, Washington",earthquake,0.36,0.35,0.18351014080874217,7,reviewed,uw,uw
@@ -184,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T02:18:46.210Z,33.9515,-116.7906667,10.16,1.97,ml,79,21,0.03805,0.14,ci,ci40232663,2023-05-24T15:32:34.650Z,"4km N of Cabazon, CA",earthquake,0.11,0.23,0.149,61,reviewed,ci,ci
 2023-05-24T02:15:43.010Z,40.236,-121.1653333,6.01,2.9,md,36,39,0.01922,0.15,nc,nc73889245,2023-05-24T20:25:10.807Z,"2km NNE of Almanor, CA",earthquake,0.3,0.41,0.151,63,reviewed,nc,nc
 2023-05-24T01:49:06.270Z,38.8173332,-122.8221664,2.14,0.94,md,21,50,0.01007,0.02,nc,nc73889240,2023-05-24T02:05:17.964Z,"7km NW of The Geysers, CA",earthquake,0.2,0.56,0.23,21,automatic,nc,nc
-2023-05-24T01:48:26.501Z,-40.872,42.7236,10,4.7,mb,22,89,19.486,0.77,us,us7000k3ds,2023-05-24T02:03:42.040Z,"Southwest Indian Ridge",earthquake,8.89,1.842,0.13,18,reviewed,us,us
+2023-05-24T01:48:26.091Z,-40.9229,42.7273,10,4.8,mb,26,87,19.505,0.4,us,us7000k3ds,2023-05-24T22:40:24.040Z,"Southwest Indian Ridge",earthquake,12.03,1.671,0.118,22,reviewed,us,us
 2023-05-24T01:48:11.530Z,34.235,-117.6365,4.54,1.25,ml,40,74,0.01865,0.15,ci,ci40232639,2023-05-24T14:28:24.612Z,"13km WSW of Lytle Creek, CA",earthquake,0.21,0.28,0.127,24,reviewed,ci,ci
 2023-05-24T01:38:39.403Z,58.2578,-155.1439,0,1.1,ml,,,,0.54,ak,ak0236m67mys,2023-05-24T21:48:23.820Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-24T01:37:13.049Z,61.6227,-146.3311,31.7,1.6,ml,,,,0.86,ak,ak0236m67d7s,2023-05-24T01:39:02.086Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
