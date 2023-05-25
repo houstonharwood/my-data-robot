@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-25T05:46:09.280Z,38.8146667,-122.7971649,1.84,1.1,md,24,37,0.006845,0.02,nc,nc73889655,2023-05-25T05:47:46.746Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.13,24,automatic,nc,nc
-2023-05-25T05:43:58.950Z,19.2560005187988,-155.412170410156,32.0099983215332,2.57,ml,49,123,,0.119999997,hv,hv73420467,2023-05-25T05:50:11.315Z,"9 km NE of Pāhala, Hawaii",earthquake,0.51,0.529999971,3.1,30,automatic,hv,hv
+2023-05-25T06:00:14.267Z,64.7257,-147.3961,20.3,0.5,ml,,,,0.85,ak,ak0236nwhyc2,2023-05-25T06:02:29.188Z,"3 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-25T05:54:34.070Z,32.4215,-115.1573333,10.62,1.95,ml,17,57,0.1249,0.3,ci,ci40233255,2023-05-25T05:58:09.948Z,"8km NNE of Delta, B.C., MX",earthquake,0.7,1.54,0.134,17,automatic,ci,ci
+2023-05-25T05:46:09.280Z,38.8146667,-122.7971649,1.84,1.1,md,24,37,0.006845,0.02,nc,nc73889655,2023-05-25T06:03:15.312Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.13,24,automatic,nc,nc
+2023-05-25T05:43:58.950Z,19.2560005187988,-155.412170410156,32.0099983215332,2.57,ml,49,123,,0.119999997,hv,hv73420467,2023-05-25T05:55:22.315Z,"9 km NE of Pāhala, Hawaii",earthquake,0.51,0.529999971,3.1,30,automatic,hv,hv
 2023-05-25T05:39:50.646Z,62.042,-148.2415,30,1.1,ml,,,,0.76,ak,ak0236nw4yf1,2023-05-25T05:42:34.829Z,"29 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-25T05:36:57.850Z,18.0148333333333,-66.7658333333333,15.08,2.48,md,11,171,0.02499,0.15,pr,pr71410908,2023-05-25T05:49:58.160Z,"0 km SE of Magas Arriba, Puerto Rico",earthquake,0.39,0.74,0.190276427603242,3,reviewed,pr,pr
 2023-05-25T05:34:10.948Z,61.4646,-148.0394,26.2,1.5,ml,,,,0.47,ak,ak0236nw3sti,2023-05-25T05:35:46.176Z,"43 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T05:12:17.093Z,61.5041,-149.9604,33.6,1.3,ml,,,,0.52,ak,ak0236nvz3jh,2023-05-25T05:14:00.772Z,"1 km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-25T05:02:30.030Z,38.8380013,-122.7816696,9.29,0.89,md,12,87,0.006169,0.06,nc,nc73889650,2023-05-25T05:25:14.069Z,"5km WNW of Cobb, CA",earthquake,1.65,6.76,0.19,13,automatic,nc,nc
 2023-05-25T05:01:51.507Z,62.2176,-149.797,18.4,1.4,ml,,,,0.46,ak,ak0236nvwtbi,2023-05-25T05:04:06.298Z,"6 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-25T04:59:06.610Z,38.8301659,-122.7904968,0.9,1.09,md,18,47,0.008232,0.03,nc,nc73889645,2023-05-25T05:15:24.011Z,"6km W of Cobb, CA",earthquake,0.21,0.42,0.23,19,automatic,nc,nc
+2023-05-25T04:59:06.610Z,38.8301659,-122.7904968,0.9,1.09,md,18,47,0.008232,0.03,nc,nc73889645,2023-05-25T06:03:11.312Z,"6km W of Cobb, CA",earthquake,0.21,0.42,0.23,19,automatic,nc,nc
 2023-05-25T04:52:30.180Z,32.2835,-115.3226667,1.07,1.74,ml,15,64,0.1364,0.26,ci,ci40233239,2023-05-25T04:56:15.067Z,"14km WSW of Delta, B.C., MX",earthquake,0.45,31.61,0.141,14,automatic,ci,ci
 2023-05-25T04:41:06.588Z,63.7926,-149.3269,97.5,1.7,ml,,,,2.53,ak,ak0236nvjuw2,2023-05-25T04:43:34.026Z,"19 km WSW of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-25T04:26:14.429Z,62.6832,-151.358,89.4,1.6,ml,,,,0.57,ak,ak0236nvgnr6,2023-05-25T04:28:49.991Z,"36 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -68,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T22:27:00.840Z,58.2488333333333,-155.136333333333,2.68,-0.02,ml,8,92,,0.09,av,av91771277,2023-05-25T03:26:58.550Z,"85 km NNW of Karluk, Alaska",earthquake,0.3,0.45,0.15269327757572,8,reviewed,av,av
 2023-05-24T22:26:18.498Z,58.2513,-155.1526,1.1,1,ml,,,,1.13,ak,ak0236min4gp,2023-05-25T03:24:06.660Z,"86 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-24T22:25:14.852Z,58.2775,-155.0809,0.2,2,ml,,,,0.95,ak,ak0236mimwgt,2023-05-25T03:20:14.780Z,"87 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-24T22:23:22.386Z,-23.3604,171.0727,10,5,mb,34,112,3.423,0.41,us,us7000k3lu,2023-05-24T22:42:01.040Z,"southeast of the Loyalty Islands",earthquake,8.28,1.87,0.108,27,reviewed,us,us
+2023-05-24T22:23:22.386Z,-23.3604,171.0727,10,5,mb,34,112,3.423,0.41,us,us7000k3lu,2023-05-25T06:04:15.680Z,"southeast of the Loyalty Islands",earthquake,8.28,1.87,0.108,27,reviewed,us,us
 2023-05-24T22:15:14.509Z,62.7978,-149.5588,67.5,0.9,ml,,,,0.2,ak,ak0236mikra2,2023-05-24T22:18:24.389Z,"Central Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-24T21:59:03.210Z,49.09866666666667,-122.17433333333334,-0.68,1.18,ml,9,195,0.1163,0.28,uw,uw61918922,2023-05-24T23:01:14.520Z,"7 km NE of Abbotsford, Canada",explosion,0.89,31.61,0.05526298323328338,4,reviewed,uw,uw
 2023-05-24T21:55:16.670Z,44.7518333,-110.7845,2.35,0.36,md,9,104,0.05951,0.1,uu,uu60540826,2023-05-24T22:18:27.540Z,"25 km SSW of Mammoth, Wyoming",earthquake,0.39,31.61,0.232,6,reviewed,uu,uu
@@ -264,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T06:13:48.230Z,58.1918333333333,-155.364,2.1,-0.38,ml,6,220,,0.04,av,av91770627,2023-05-24T22:27:06.200Z,"87 km NW of Karluk, Alaska",earthquake,0.65,0.39,0.249822391655315,6,reviewed,av,av
 2023-05-24T06:09:52.041Z,28.63677979,-98.24620864,4.670857747,1.8,ml,13,66,0.02999901962,0.2,tx,tx2023kbtd,2023-05-24T18:57:20.999Z,"20 km NNW of Three Rivers, Texas",earthquake,1.805629885,3.449929799,0.1,6,reviewed,tx,tx
 2023-05-24T06:09:30.390Z,46.849,-121.93416666666667,10.87,0.15,ml,14,90,0.01244,0.08,uw,uw61918767,2023-05-24T21:57:51.150Z,"12 km NE of Ashford, Washington",earthquake,0.36,0.35,0.18351014080874217,7,reviewed,uw,uw
-2023-05-24T05:55:55.994Z,64.1272,-149.2201,128.2,1.4,ml,,,,0.19,ak,ak0236m8p1u7,2023-05-24T05:58:11.615Z,"13 km NNW of Ferry, Alaska",earthquake,,1.8,,,automatic,ak,ak
