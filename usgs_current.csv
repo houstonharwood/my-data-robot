@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-25T23:38:23.353Z,57.9719,-154.1772,41.1,1.5,ml,,,,1.11,ak,ak0236o6uhgw,2023-05-25T23:40:21.170Z,"47 km NNE of Karluk, Alaska",earthquake,,3.6,,,automatic,ak,ak
-2023-05-25T23:38:03.180Z,33.4893333,-116.4208333,5.6,1.51,ml,55,35,0.03422,0.21,ci,ci40233767,2023-05-25T23:41:45.471Z,"22km SSW of La Quinta, CA",earthquake,0.2,0.63,0.179,27,automatic,ci,ci
+2023-05-25T23:38:03.180Z,33.4893333,-116.4208333,5.6,1.51,ml,55,35,0.03422,0.21,ci,ci40233767,2023-05-25T23:50:06.260Z,"22km SSW of La Quinta, CA",earthquake,0.2,0.63,0.179,27,automatic,ci,ci
 2023-05-25T23:29:12.022Z,63.8055,-153.1537,0,1.9,ml,,,,1.23,ak,ak0236o6sj7m,2023-05-25T23:31:45.146Z,"42 km WSW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T23:14:49.082Z,61.5189,-149.91,32.8,1.4,ml,,,,0.75,ak,ak0236o6pebw,2023-05-25T23:16:47.355Z,"2 km E of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T23:06:44.003Z,58.1506,-155.5393,30.2,0.3,ml,,,,0.65,ak,ak0236o6noip,2023-05-25T23:09:21.580Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T18:52:59.750Z,19.1515007019043,-155.492172241211,30.1499996185303,1.97000003,md,38,143,,0.170000002,hv,hv73421372,2023-05-25T18:56:16.690Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.85,1.01999998,0.360000014,9,automatic,hv,hv
 2023-05-25T18:44:19.562Z,62.4706,-149.422,32.5,1.3,ml,,,,0.62,ak,ak0236o3wliu,2023-05-25T18:47:04.651Z,"35 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T18:32:19.860Z,37.1496667,-121.5365,5.64,0.73,md,11,87,0.0663,0.06,nc,nc73889825,2023-05-25T20:57:13.912Z,"10km NE of San Martin, CA",earthquake,0.3,0.89,0.383,10,reviewed,nc,nc
-2023-05-25T18:27:43.268Z,31.6083633,-103.9642257,8.908032227,2.4,ml,14,55,0.04244588104,0.1,tx,tx2023kena,2023-05-25T20:08:13.478Z,"western Texas",earthquake,0.7053500433,0.8414104662000002,0.2,12,reviewed,tx,tx
+2023-05-25T18:27:43.268Z,31.6083633,-103.9642257,8.908032227,2.4,ml,14,55,0.04244588104,0.1,tx,tx2023kena,2023-05-25T20:08:13.478Z,"36 km WSW of Mentone, Texas",earthquake,0.7053500433,0.8414104662000002,0.2,12,reviewed,tx,tx
 2023-05-25T18:18:41.440Z,37.9541667,-121.8318333,19.38,2.22,md,86,66,0.07275,0.24,nc,nc73889815,2023-05-25T22:35:13.748Z,"6km SSW of Antioch, CA",earthquake,0.23,0.35,0.157,68,reviewed,nc,nc
 2023-05-25T18:10:12.740Z,34.353,-118.479,7.32,1.46,ml,23,134,0.04818,0.13,ci,ci40233559,2023-05-25T20:55:46.615Z,"6km NNW of Sylmar, CA",earthquake,0.26,0.42,0.108,16,reviewed,ci,ci
 2023-05-25T18:04:02.570Z,37.5328333,-118.8276667,7.66,0.98,md,16,166,0.05711,0.02,nc,nc73889810,2023-05-25T20:23:15.719Z,"13km WSW of Toms Place, CA",earthquake,0.47,0.67,0.094,13,reviewed,nc,nc
@@ -247,6 +247,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T00:04:03.400Z,19.21266746521,-155.375,32.1699981689453,2.22,ml,45,165,,0.129999995,hv,hv73419927,2023-05-25T00:09:34.390Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.699999988,1.11,5,automatic,hv,hv
 2023-05-25T00:03:08.278Z,-24.2724,-67.3421,207.111,4.3,mb,24,93,1.522,0.64,us,us7000k3m7,2023-05-25T02:27:14.040Z,"104 km W of San Antonio de los Cobres, Argentina",earthquake,10.97,15.429,0.218,6,reviewed,us,us
 2023-05-24T23:59:43.540Z,60.0288333333333,-153.081,-2.27,-0.16,ml,5,102,,0.16,av,av91771332,2023-05-25T03:34:32.700Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.51,4.47,0.334232207447246,5,reviewed,av,av
-2023-05-24T23:59:32.830Z,19.1796666666667,-155.495333333333,30.77,3.05,ml,63,83,,0.11,hv,hv73419922,2023-05-25T01:21:54.144Z,"Island of Hawaii, Hawaii",earthquake,0.41,0.5,0.212629417148521,41,reviewed,hv,hv
+2023-05-24T23:59:32.830Z,19.1796666666667,-155.495333333333,30.77,3.05,ml,63,83,,0.11,hv,hv73419922,2023-05-25T01:21:54.144Z,"3 km SW of Pāhala, Hawaii",earthquake,0.41,0.5,0.212629417148521,41,reviewed,hv,hv
 2023-05-24T23:55:40.410Z,17.557,122.2825,10,4.5,mb,40,125,5.354,0.59,us,us7000k3m8,2023-05-25T01:03:00.040Z,"Luzon, Philippines",earthquake,11.18,1.917,0.104,27,reviewed,us,us
-2023-05-24T23:49:00.029Z,58.4642,-154.5084,7.2,1.1,ml,,,,0.19,ak,ak0236mjdg42,2023-05-25T03:38:52.870Z,"99 km N of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
