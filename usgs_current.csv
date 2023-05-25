@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-25T16:41:13.960Z,33.6611667,-116.7471667,12.47,1.01,ml,35,60,0.05696,0.16,ci,ci40233447,2023-05-25T16:44:57.010Z,"9km SSW of Idyllwild, CA",earthquake,0.23,0.36,0.181,28,automatic,ci,ci
 2023-05-25T16:35:26.260Z,36.01716667,-96.53116667,0,1.29,ml,64,79,0.1763653911,0.3,ok,ok2023kejh,2023-05-25T16:44:18.438Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.3,0.15,29,reviewed,ok,ok
+2023-05-25T16:34:02.457Z,-59.5892,-26.3507,94.063,5.1,mb,60,71,7.677,0.62,us,us7000k3yq,2023-05-25T16:53:07.040Z,"South Sandwich Islands region",earthquake,4.9,7.335,0.075,59,reviewed,us,us
 2023-05-25T16:07:22.240Z,38.7798347,-122.757164,1.15,1.1,md,16,64,0.01131,0.03,nc,nc73889765,2023-05-25T16:32:15.022Z,"0km NNW of The Geysers, CA",earthquake,0.23,0.49,0.09,15,automatic,nc,nc
 2023-05-25T16:02:31.050Z,38.7996674,-122.7805023,1.79,0.77,md,11,72,0.008692,0.02,nc,nc73889760,2023-05-25T16:19:14.954Z,"3km NW of The Geysers, CA",earthquake,0.34,0.7,0.13,12,automatic,nc,nc
 2023-05-25T15:47:03.830Z,63.08,-151.368,0,1.3,ml,,,,0.73,ak,ak0236o24wmn,2023-05-25T15:49:27.352Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T11:06:49.410Z,33.2581667,-115.9946667,4.23,1.31,ml,35,70,0.08563,0.24,ci,ci40233287,2023-05-25T11:10:22.102Z,"6km SW of Salton City, CA",earthquake,0.33,1.48,0.175,29,automatic,ci,ci
 2023-05-25T10:58:41.370Z,44.798,-110.8066667,5.59,0.43,md,11,210,0.03267,0.08,uu,uu60540871,2023-05-25T13:19:50.750Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.68,0.74,0.104,7,reviewed,uu,uu
 2023-05-25T10:43:10.980Z,38.7823334,-122.7580032,1.64,1.08,md,13,65,0.01308,0.02,nc,nc73889695,2023-05-25T11:36:13.242Z,"1km NNW of The Geysers, CA",earthquake,0.27,0.5,0.18,13,automatic,nc,nc
-2023-05-25T10:42:34.200Z,37.3796654,-118.4686661,16.19,2.66,md,31,95,0.2099,0.21,nc,nc73889690,2023-05-25T15:37:24.341Z,"2km NNW of West Bishop, CA",earthquake,0.46,1.91,0.22,22,automatic,nc,nc
+2023-05-25T10:42:34.430Z,37.3905,-118.4528333,8.92,2.52,md,20,144,0.1034,0.07,nc,nc73889690,2023-05-25T16:57:16.168Z,"3km N of West Bishop, CA",earthquake,0.45,1.8,0.15,32,reviewed,nc,nc
 2023-05-25T10:39:37.614Z,-23.2286,170.7972,10,5.5,mww,65,63,3.149,0.76,us,us7000k3ps,2023-05-25T12:43:02.062Z,"southeast of the Loyalty Islands",earthquake,6.78,1.745,0.058,29,reviewed,us,us
 2023-05-25T10:21:02.250Z,38.8173333,-122.8221667,2.29,-0.01,md,19,57,0.01007,0.03,nc,nc73889685,2023-05-25T15:47:07.683Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.391,18,reviewed,nc,nc
 2023-05-25T09:59:49.005Z,37.2705,-117.5783,1.7,1.4,ml,14,218.01,0.066,0.2739,nn,nn00860277,2023-05-25T10:02:20.731Z,"53 km S of Silver Peak, Nevada",earthquake,,16.4,1.01,11,automatic,nn,nn
@@ -222,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T17:07:00.840Z,34.215,-117.5633333,4.17,1.34,ml,43,63,0.05326,0.2,ci,ci40232943,2023-05-24T17:44:19.669Z,"8km SW of Lytle Creek, CA",earthquake,0.2,0.4,0.182,26,reviewed,ci,ci
 2023-05-24T17:05:54.880Z,38.824,-122.797,3.06,0.43,md,26,32,0.01023,0.02,nc,nc73889470,2023-05-24T19:45:11.555Z,"6km NW of The Geysers, CA",earthquake,0.19,0.39,0.188,25,reviewed,nc,nc
 2023-05-24T17:03:14.160Z,36.7203333,-121.3991667,6.78,1.01,md,20,83,0.04422,0.11,nc,nc73889465,2023-05-25T00:38:11.314Z,"10km SW of Tres Pinos, CA",earthquake,0.28,0.51,0.346,16,reviewed,nc,nc
-2023-05-24T16:55:40.350Z,45.4435,-111.817,3.35,1.89,ml,29,41,0.2022,0.16,mb,mb90015498,2023-05-25T16:09:06.980Z,"12 km NNW of Ennis, Montana",earthquake,0.26,2.29,0.122222489948247,21,reviewed,mb,mb
-2023-05-24T16:54:37.474Z,56.4711,-153.7629,13.4,2.2,ml,,,,0.6,ak,ak0236mf8lb3,2023-05-24T18:13:23.696Z,"58 km SSE of Akhiok, Alaska",earthquake,,0.4,,,reviewed,ak,ak
