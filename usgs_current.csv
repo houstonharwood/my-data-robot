@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-26T23:26:30.290Z,36.7608337,-121.1708298,8.57,2.16,md,27,75,0.09003,0.13,nc,nc73890370,2023-05-26T23:28:05.505Z,"14km ESE of Tres Pinos, CA",earthquake,0.4,0.76,0.13,23,automatic,nc,nc
+2023-05-26T23:31:37.710Z,38.7878342,-122.74617,1.92,1.04,md,8,126,0.01659,0.01,nc,nc73890375,2023-05-26T23:33:15.151Z,"2km NE of The Geysers, CA",earthquake,0.45,0.91,0.24,9,automatic,nc,nc
+2023-05-26T23:26:44.179Z,62.4511,-149.818,14,1.5,ml,,,,0.33,ak,ak0236pubb1d,2023-05-26T23:28:41.937Z,"14 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-26T23:26:30.290Z,36.7608337,-121.1708298,8.57,2.16,md,27,75,0.09003,0.13,nc,nc73890370,2023-05-26T23:33:13.887Z,"14km ESE of Tres Pinos, CA",earthquake,0.4,0.76,0.13,23,automatic,nc,nc
 2023-05-26T23:20:21.740Z,33.6823333,-117.1251667,6.61,1.31,ml,10,122,0.1676,0.24,ci,ci40234615,2023-05-26T23:23:55.988Z,"5km SW of Winchester, CA",earthquake,0.99,2.9,0.237,16,automatic,ci,ci
 2023-05-26T23:13:11.790Z,19.2668342590332,-155.404495239258,30.4200000762939,2.09,ml,46,122,,0.109999999,hv,hv73423347,2023-05-26T23:18:43.360Z,"10 km NE of Pāhala, Hawaii",earthquake,0.5,0.889999986,2.68,11,automatic,hv,hv
 2023-05-26T23:02:01.190Z,35.4071667,-118.1003333,8.24,1.31,ml,21,61,0.1333,0.14,ci,ci40234591,2023-05-26T23:12:46.750Z,"33km NNW of California City, CA",earthquake,0.22,0.93,0.184,19,automatic,ci,ci
@@ -88,6 +90,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T13:42:32.565Z,-18.7454,-66.9345,256.196,4.9,mb,47,54,2.324,1.11,us,us7000k47a,2023-05-26T14:00:36.040Z,"24 km NW of Challapata, Bolivia",earthquake,8.44,7.377,0.025,491,reviewed,us,us
 2023-05-26T13:42:27.027Z,63.3681,-150.0285,0,2.1,ml,,,,0.92,ak,ak0236pogd4e,2023-05-26T13:44:47.462Z,"53 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-26T13:38:09.220Z,60.6153,-150.7663,44.1,1.4,ml,,,,0.21,ak,ak0236pofgvu,2023-05-26T13:45:23.578Z,"8 km N of Sterling, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-05-26T13:32:39.510Z,58.2685,-155.081333333333,5.23,-0.1,ml,5,138,,0.2,av,av91772662,2023-05-26T23:32:04.010Z,"86 km NNW of Karluk, Alaska",earthquake,0.79,1.84,0.351601592841532,5,reviewed,av,av
+2023-05-26T13:14:26.810Z,58.2491666666667,-155.136833333333,3.56,0.17,ml,8,91,,0.09,av,av91772657,2023-05-26T23:35:11.880Z,"Alaska Peninsula",earthquake,0.28,0.77,0.25444815797634,9,reviewed,av,av
 2023-05-26T13:03:56.710Z,33.5758333,-116.7375,12.01,0.33,ml,14,59,0.01041,0.09,ci,ci40234127,2023-05-26T21:29:57.955Z,"6km WNW of Anza, CA",earthquake,0.24,0.5,0.05,4,reviewed,ci,ci
 2023-05-26T12:58:38.070Z,62.3641,-148.7614,19.5,1.8,ml,,,,0.94,ak,ak0236pnydtr,2023-05-26T13:00:57.744Z,"60 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-26T12:56:24.770Z,19.1674995422363,-155.350326538086,27.8400001525879,2.72000003,md,41,187,,0.129999995,hv,hv73422737,2023-05-26T12:59:32.280Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.61,0.649999976,1.15999997,3,automatic,hv,hv
@@ -272,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T23:44:18.671Z,55.387,-159.3748,40.5,3.4,ml,,,,0.58,ak,ak0236o6vrjt,2023-05-26T00:09:28.040Z,"57 km S of Ivanof Bay, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-05-25T23:38:31.630Z,58.3738333333333,-154.901,4.47,0.11,ml,15,111,,0.2,av,av91772077,2023-05-26T04:39:38.930Z,"93 km NNW of Karluk, Alaska",earthquake,0.41,0.76,0.24281344792067,15,reviewed,av,av
 2023-05-25T23:38:03.090Z,33.4875,-116.4206667,6.92,1.58,ml,46,48,0.03605,0.16,ci,ci40233767,2023-05-26T00:45:56.810Z,"22km SSW of La Quinta, CA",earthquake,0.17,0.56,0.163,26,reviewed,ci,ci
-2023-05-25T23:29:12.022Z,63.8055,-153.1537,0,1.9,ml,,,,1.23,ak,ak0236o6sj7m,2023-05-25T23:31:45.146Z,"42 km WSW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
