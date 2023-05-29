@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-29T11:52:53.780Z,37.1619987,-121.5276642,8.94,1.07,md,8,86,0.0526,0.03,nc,nc73891315,2023-05-29T11:54:33.022Z,"11km NE of San Martin, CA",earthquake,0.38,1.23,0.16,7,automatic,nc,nc
+2023-05-29T11:52:53.780Z,37.1619987,-121.5276642,8.94,1.07,md,8,86,0.0526,0.03,nc,nc73891315,2023-05-29T12:11:16.634Z,"11km NE of San Martin, CA",earthquake,0.38,1.23,0.16,7,automatic,nc,nc
 2023-05-29T11:50:48.440Z,19.1353340148926,-155.365005493164,29.8500003814697,1.73000002,md,41,186,,0.119999997,hv,hv73428342,2023-05-29T11:53:48.160Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.64,0.829999983,1.75,4,automatic,hv,hv
 2023-05-29T11:50:31.692Z,60.2797,-152.5797,84.8,0.8,ml,,,,0.48,ak,ak0236ulx9hd,2023-05-29T11:52:52.155Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-29T11:48:31.720Z,19.4061660766602,-155.306335449219,2.16000008583069,1.72,ml,21,68,,0.129999995,hv,hv73428337,2023-05-29T11:54:02.030Z,"Hawaii region, Hawaii",earthquake,0.23,0.230000004,0.28,3,automatic,hv,hv
-2023-05-29T11:44:32.850Z,38.8378334,-122.8016663,2.13,1.1,md,19,65,0.008861,0.01,nc,nc73891310,2023-05-29T11:46:06.936Z,"7km WNW of Cobb, CA",earthquake,0.23,0.5,0.15,20,automatic,nc,nc
+2023-05-29T11:44:32.850Z,38.8378334,-122.8016663,2.13,1.1,md,19,65,0.008861,0.01,nc,nc73891310,2023-05-29T12:01:14.573Z,"7km WNW of Cobb, CA",earthquake,0.23,0.5,0.15,20,automatic,nc,nc
 2023-05-29T11:24:19.517Z,37.3202,-117.5389,1.8,1.2,ml,15,135.17,0.122,0.2144,nn,nn00860471,2023-05-29T11:26:48.585Z,"48 km S of Silver Peak, Nevada",earthquake,,19,0.81,9,automatic,nn,nn
 2023-05-29T11:16:40.818Z,58.2066,-155.2682,33,0.3,ml,,,,1.11,ak,ak0236ulpzu9,2023-05-29T11:18:20.837Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-29T11:05:12.618Z,58.1718,-155.2785,0,0.9,ml,,,,0.83,ak,ak0236ulnksd,2023-05-29T11:06:55.337Z,"83 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T10:05:00.457Z,-14.9714,166.8843,53.424,5.2,mww,43,42,6.076,0.87,us,us7000k4rv,2023-05-29T10:39:15.867Z,"21 km WNW of Port-Olry, Vanuatu",earthquake,7.12,7.965,0.098,10,reviewed,us,us
 2023-05-29T10:02:52.479Z,62.6975,-150.462,1,1.6,ml,,,,0.46,ak,ak0236ul1l3z,2023-05-29T10:04:52.645Z,"27 km NE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-29T09:38:15.512Z,18.7654,-68.0619,41.659,3.6,ml,19,171,0.392,0.55,us,us7000k4rs,2023-05-29T09:45:20.040Z,"41 km ENE of Punta Cana, Dominican Republic",earthquake,7.23,23.207,0.062,34,reviewed,us,us
-2023-05-29T09:36:02.290Z,18.9367,-68.4611,43.065,3.9,ml,17,142,0.427,1.12,us,us7000k4rp,2023-05-29T09:47:42.040Z,"38 km NE of Otra Banda, Dominican Republic",earthquake,8.49,25.673,0.062,34,reviewed,us,us
+2023-05-29T09:36:02.380Z,19.0801,-68.3638,60,3.9,md,22,279,0.5665,0.96,pr,pr2023149000,2023-05-29T11:58:56.326Z,"Dominican Republic region",earthquake,7.2,10.54,0.07,15,reviewed,pr,pr
 2023-05-29T09:34:36.659Z,64.6787,-149.5106,15.1,1.5,ml,,,,0.57,ak,ak0236ukmz6q,2023-05-29T09:36:48.895Z,"20 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-29T09:26:59.603Z,35.31833649,-98.03886414,15.56533146,1.89,ml,13,83.91996765,0.1047603041,1.020592682,ok,ok2023klde,2023-05-29T09:29:45.216Z,"8 km W of Minco, Oklahoma",earthquake,4.27531687,3.900358563,0.38,10,automatic,ok,ok
 2023-05-29T09:20:23.605Z,60.9715,-151.1437,55.4,1.2,ml,,,,0.23,ak,ak0236ukjy60,2023-05-29T09:22:32.927Z,"10 km S of Tyonek, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -189,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T14:36:14.970Z,38.8356667,-122.81633,1.2,0.75,md,13,68,0.01319,0.03,nc,nc73890940,2023-05-28T15:10:15.157Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.17,14,automatic,nc,nc
 2023-05-28T14:08:33.540Z,33.448,-116.6223333,5.79,0.44,ml,15,88,0.04952,0.25,ci,ci40236023,2023-05-28T14:12:09.516Z,"13km SSE of Anza, CA",earthquake,0.53,1.29,0.237,9,automatic,ci,ci
 2023-05-28T13:53:39.390Z,35.6495,-117.572,1.22,0.44,ml,9,126,0.1218,0.12,ci,ci40236007,2023-05-28T13:57:21.186Z,"10km ENE of Ridgecrest, CA",earthquake,0.43,0.58,0.106,3,automatic,ci,ci
-2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T11:29:14.309Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
+2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T12:11:21.965Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
 2023-05-28T13:40:31.060Z,38.8185005,-122.8223343,2.3,0.77,md,17,52,0.01075,0.02,nc,nc73890935,2023-05-28T14:14:13.834Z,"7km NW of The Geysers, CA",earthquake,0.28,0.66,0.17,17,automatic,nc,nc
 2023-05-28T13:33:57.622Z,58.1779,-155.251,0.2,0.8,ml,,,,0.88,ak,ak0236szh6zv,2023-05-28T13:39:32.394Z,"82 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-28T13:30:01.478Z,-5.8395,148.0491,112.278,4.4,mb,18,116,3.65,0.93,us,us7000k4mc,2023-05-28T16:19:59.040Z,"82 km NNE of Finschhafen, Papua New Guinea",earthquake,6.76,11.634,0.144,14,reviewed,us,us
@@ -207,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T12:20:03.650Z,19.078,-64.764,23.91,3.31,md,20,290,0.7425,0.13,pr,pr71411493,2023-05-28T12:56:12.650Z,"82 km N of Cruz Bay, U.S. Virgin Islands",earthquake,0.59,31.61,0.178436515744312,8,reviewed,pr,pr
 2023-05-28T12:19:40.620Z,33.5326667,-116.6831667,8.38,0.9,ml,42,31,0.0555,0.15,ci,ci40235959,2023-05-28T12:23:15.408Z,"3km SSW of Anza, CA",earthquake,0.17,0.41,0.2,25,automatic,ci,ci
 2023-05-28T12:19:27.920Z,37.5793343,-121.6798325,0.7,1.51,md,17,62,0.09872,0.09,nc,nc73890930,2023-05-29T02:27:13.592Z,"14km SE of Livermore, CA",earthquake,0.27,2.78,0.15,13,automatic,nc,nc
-2023-05-28T12:11:16.006Z,58.4052,-154.4794,16.8,1.4,ml,,,,0.45,ak,ak0236syqygg,2023-05-28T12:12:14.627Z,"93 km N of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-28T12:04:02.829Z,61.8941,-149.3117,13.2,0.9,ml,,,,0.56,ak,ak0236sypffq,2023-05-28T12:06:56.777Z,"17 km NNW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-28T12:00:00.495Z,37.3073,-117.5502,3.7,1,ml,14,196.09,0.344,0.2464,nn,nn00860445,2023-05-28T12:02:31.711Z,"50 km S of Silver Peak, Nevada",earthquake,,13.1,0.84,7,automatic,nn,nn
