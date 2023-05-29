@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T00:31:10.350Z,37.0081673,-121.456665,5.2,2.11,md,38,62,0.02815,0.13,nc,nc73891090,2023-05-29T01:54:16.968Z,"10km E of Gilroy, CA",earthquake,0.24,0.73,0.15,39,automatic,nc,nc
 2023-05-29T00:28:46.386Z,61.4193,-151.4329,67.8,1.7,ml,,,,0.28,ak,ak0236uf8t7i,2023-05-29T00:30:17.304Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-29T00:25:59.200Z,33.4431667,-116.6353333,3.91,0.59,ml,25,99,0.05838,0.21,ci,ci40236423,2023-05-29T00:29:41.969Z,"13km SSE of Anza, CA",earthquake,0.29,0.65,0.107,17,automatic,ci,ci
-2023-05-29T00:15:24.261Z,59.3601,-152.7489,72.4,2.1,ml,,,,0.31,ak,ak0236uf5z6y,2023-05-29T00:17:54.446Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-29T00:15:24.261Z,59.3601,-152.7489,72.4,2.1,ml,,,,0.31,ak,ak0236uf5z6y,2023-05-29T00:17:54.446Z,"47 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-29T00:12:08.510Z,38.8306656,-122.8164978,1.76,1.36,md,24,46,0.008825,0.02,nc,nc73891075,2023-05-29T01:39:15.877Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.16,26,automatic,nc,nc
 2023-05-29T00:04:38.706Z,64.7417,-147.3222,0,1.2,ml,,,,0.91,ak,ak0236uf3nfi,2023-05-29T00:06:31.399Z,"1 km SE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-28T23:42:23.816Z,62.1722,-150.5743,5.1,1.6,ml,,,,0.59,ak,ak0236t5hdwt,2023-05-28T23:44:02.123Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T14:36:14.970Z,38.8356667,-122.81633,1.2,0.75,md,13,68,0.01319,0.03,nc,nc73890940,2023-05-28T15:10:15.157Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.17,14,automatic,nc,nc
 2023-05-28T14:08:33.540Z,33.448,-116.6223333,5.79,0.44,ml,15,88,0.04952,0.25,ci,ci40236023,2023-05-28T14:12:09.516Z,"13km SSE of Anza, CA",earthquake,0.53,1.29,0.237,9,automatic,ci,ci
 2023-05-28T13:53:39.390Z,35.6495,-117.572,1.22,0.44,ml,9,126,0.1218,0.12,ci,ci40236007,2023-05-28T13:57:21.186Z,"10km ENE of Ridgecrest, CA",earthquake,0.43,0.58,0.106,3,automatic,ci,ci
-2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T02:46:16.686Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
+2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T02:51:30.209Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
 2023-05-28T13:40:31.060Z,38.8185005,-122.8223343,2.3,0.77,md,17,52,0.01075,0.02,nc,nc73890935,2023-05-28T14:14:13.834Z,"7km NW of The Geysers, CA",earthquake,0.28,0.66,0.17,17,automatic,nc,nc
 2023-05-28T13:33:57.622Z,58.1779,-155.251,0.2,0.8,ml,,,,0.88,ak,ak0236szh6zv,2023-05-28T13:39:32.394Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-05-28T13:30:01.478Z,-5.8395,148.0491,112.278,4.4,mb,18,116,3.65,0.93,us,us7000k4mc,2023-05-28T16:19:59.040Z,"82 km NNE of Finschhafen, Papua New Guinea",earthquake,6.76,11.634,0.144,14,reviewed,us,us
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T03:09:31.430Z,33.5868333,-116.81,4.68,0.44,ml,14,68,0.03892,0.12,ci,ci40235807,2023-05-28T03:13:00.548Z,"13km WNW of Anza, CA",earthquake,0.31,0.37,0.259,8,automatic,ci,ci
 2023-05-28T03:06:18.180Z,19.2438335418701,-155.401840209961,32.1699981689453,2.11,ml,48,133,,0.119999997,hv,hv73425577,2023-05-28T03:11:49.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.620000005,3.3,8,automatic,hv,hv
 2023-05-28T03:00:39.676Z,64.9858,-147.408,1.6,1,ml,,,,0.96,ak,ak0236stbqys,2023-05-28T03:02:59.728Z,"10 km ENE of Fox, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-28T02:47:31.430Z,33.4945,-116.7785,3.75,0.47,ml,20,69,0.02551,0.14,ci,ci40235799,2023-05-28T02:51:10.803Z,"10km NE of Aguanga, CA",earthquake,0.26,0.44,0.123,15,automatic,ci,ci
-2023-05-28T02:47:11.992Z,61.9984,-147.1344,38.8,1.9,ml,,,,0.69,ak,ak0236st0bvj,2023-05-28T02:48:42.098Z,"6 km NNE of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
