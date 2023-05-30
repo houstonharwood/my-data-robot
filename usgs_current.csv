@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-30T23:02:12.912Z,63.5806,-149.955,24,1.2,ml,,,,1.17,ak,ak0236wgbhez,2023-05-30T23:04:23.812Z,"54 km WSW of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-30T22:48:56.159Z,33.3722,139.2741,12.332,4.4,mb,35,134,0.52,0.39,us,us7000k54a,2023-05-30T23:09:57.040Z,"147 km SSE of Shimoda, Japan",earthquake,4.78,5.78,0.112,23,reviewed,us,us
 2023-05-30T22:14:24.942Z,57.8908,-156.0093,240.5,1.7,ml,,,,0.6,ak,ak0236wfsnby,2023-05-30T22:17:18.797Z,"Alaska Peninsula",earthquake,,8.5,,,automatic,ak,ak
 2023-05-30T22:11:30.190Z,17.9258333333333,-66.948,10.58,2.45,md,14,228,0.05942,0.07,pr,pr71411798,2023-05-30T22:25:21.100Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.43,0.33,0.138475843256343,7,reviewed,pr,pr
 2023-05-30T21:58:21.610Z,17.9316666666667,-66.9518333333333,11.28,2.91,md,18,221,0.05758,0.13,pr,pr71411783,2023-05-30T22:34:32.040Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.59,0.42,0.0549520602743296,9,reviewed,pr,pr
@@ -112,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T10:50:33.720Z,33.8865,-120.4271667,0.85,1.89,ml,6,296,0.1639,0.12,ci,ci40237535,2023-05-30T10:54:12.742Z,"17km SSW of San Miguel Is., CA",earthquake,0.97,31.61,0.161,7,automatic,ci,ci
 2023-05-30T10:30:29.111Z,37.3203,-117.5864,2,1.4,ml,9,242.85,0.1,0.179,nn,nn00860511,2023-05-30T16:38:13.078Z,"48 km S of Silver Peak, Nevada",earthquake,,3.3,0.32,3,reviewed,nn,nn
 2023-05-30T10:21:59.240Z,38.8223343,-122.8088303,3,0.54,md,8,112,0.001437,0.02,nc,nc73891600,2023-05-30T10:56:11.300Z,"7km NW of The Geysers, CA",earthquake,0.73,1.49,0.25,8,automatic,nc,nc
-2023-05-30T10:16:56.075Z,37.292,-117.5922,6.3,1.7,ml,9,107.47,0.073,0.0955,nn,nn00860509,2023-05-30T16:25:40.686Z,"51 km S of Silver Peak, Nevada",earthquake,,2.8,0.51,6,reviewed,nn,nn
+2023-05-30T10:16:56.076Z,37.2909,-117.5923,6.5,1.8,ml,14,107.04,0.072,0.1279,nn,nn00860509,2023-05-30T23:07:39.102Z,"51 km S of Silver Peak, Nevada",earthquake,,2.1,0.28,7,reviewed,nn,nn
 2023-05-30T10:12:58.815Z,37.292,-117.6007,7,1.4,ml,10,112.25,0.069,0.156,nn,nn00860507,2023-05-30T22:08:56.021Z,"51 km S of Silver Peak, Nevada",earthquake,,3.6,0.59,5,reviewed,nn,nn
 2023-05-30T10:06:35.392Z,60.0315,-151.8023,16.6,0.4,ml,,,,0.95,ak,ak0236w8lr5f,2023-05-30T10:20:13.027Z,"7 km WSW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-30T09:58:20.480Z,19.3845,-155.282333333333,1.09,0.51,md,13,156,,0.08,hv,hv73429962,2023-05-30T22:02:35.100Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.16,0.387407333601498,2,reviewed,hv,hv
@@ -212,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T23:42:33.700Z,19.4465007781982,-155.306503295898,2.40000009536743,1.75,ml,15,111,,0.189999998,hv,hv73429187,2023-05-29T23:48:03.450Z,"7 km W of Volcano, Hawaii",earthquake,0.51,0.930000007,0.05,3,automatic,hv,hv
 2023-05-29T23:37:42.700Z,19.4063339233398,-155.275329589844,0.680000007152557,1.94000006,md,15,44,,0.109999999,hv,hv73429182,2023-05-29T23:40:41.250Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.239999995,1.12,14,automatic,hv,hv
 2023-05-29T23:21:21.012Z,57.5523,-156.0413,206.7,1.6,ml,,,,0.94,ak,ak0236usw85h,2023-05-29T23:23:51.400Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
-2023-05-29T23:17:58.400Z,38.8271675,-122.821167,1.69,0.77,md,18,41,0.009448,0.02,nc,nc73891455,2023-05-29T23:51:13.248Z,"8km NW of The Geysers, CA",earthquake,0.22,0.44,0.17,18,automatic,nc,nc
-2023-05-29T23:12:29.480Z,44.471,-110.5973333,3.75,1.07,md,7,122,0.03465,0.03,uu,uu60541216,2023-05-30T15:13:31.380Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.62,0.47,0.259,4,reviewed,uu,uu
