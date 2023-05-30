@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-30T03:00:39.250Z,19.4061660766602,-155.286163330078,0.699999988079071,1.83,ml,19,40,,0.180000007,hv,hv73429417,2023-05-30T03:06:09.750Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.209999993,0.29,9,automatic,hv,hv
+2023-05-30T02:59:05.136Z,58.2038,-155.0359,10,0.8,ml,,,,0.74,ak,ak0236w45kzs,2023-05-30T03:02:10.757Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
+2023-05-30T02:58:02.340Z,38.8213348,-122.8046646,2.96,1.08,md,22,38,0.0047,0.01,nc,nc73891520,2023-05-30T03:11:12.441Z,"6km NW of The Geysers, CA",earthquake,0.23,0.47,0.18,23,automatic,nc,nc
 2023-05-30T02:49:39.581Z,59.4755,-152.7885,83.7,1.7,ml,,,,0.19,ak,ak0236w43ifa,2023-05-30T02:51:01.218Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-30T02:47:22.120Z,34.4108333,-119.8983333,10.98,1.33,ml,10,131,0.1136,0.27,ci,ci40237215,2023-05-30T02:51:02.609Z,"3km W of Isla Vista, CA",earthquake,0.69,1.77,0.108,13,automatic,ci,ci
 2023-05-30T02:35:40.986Z,58.2571,-155.1346,1.9,0.8,ml,,,,0.32,ak,ak0236w40iia,2023-05-30T02:37:07.802Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
@@ -13,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T01:04:34.583Z,13.3701,120.8212,110.936,4.7,mb,80,105,9.879,0.54,us,us7000k4w2,2023-05-30T02:35:23.040Z,"Mindoro, Philippines",earthquake,9.64,2.676,0.06,85,reviewed,us,us
 2023-05-30T01:04:04.140Z,38.8048325,-122.7809982,1.4,0.81,md,9,142,0.008418,0.01,nc,nc73891470,2023-05-30T02:03:14.073Z,"4km NW of The Geysers, CA",earthquake,0.38,0.62,0.34,9,automatic,nc,nc
 2023-05-30T01:03:18.550Z,17.914,-66.9586666666667,13.88,2.27,md,5,252,0.09696,0.1,pr,pr71411733,2023-05-30T01:33:12.770Z,"Puerto Rico region",earthquake,1.17,0.78,0.0756801739679545,3,reviewed,pr,pr
-2023-05-30T00:52:06.116Z,24.0472,142.9923,10,5.8,mww,139,33,9.148,0.57,us,us7000k4w1,2023-05-30T02:56:40.092Z,"Volcano Islands, Japan region",earthquake,8.13,1.767,0.046,46,reviewed,us,us
+2023-05-30T00:52:06.116Z,24.0472,142.9923,10,5.8,mww,139,33,9.148,0.57,us,us7000k4w1,2023-05-30T02:59:13.352Z,"Volcano Islands, Japan region",earthquake,8.13,1.767,0.046,46,reviewed,us,us
 2023-05-30T00:48:48.441Z,35.6864624,-98.08052063,1.811928034,2.27,ml,39,47.61886597,0.1148836687,0.8052451976,ok,ok2023kmho,2023-05-30T00:53:59.547Z,"10 km NNE of Calumet, Oklahoma",earthquake,1.865867783,1.665749963,0.23,31,automatic,ok,ok
 2023-05-30T00:43:33.940Z,35.866,-117.6835,8.25,1.14,ml,18,120,0.08751,0.18,ci,ci40237183,2023-05-30T00:47:08.623Z,"22km ESE of Little Lake, CA",earthquake,0.37,1.2,0.178,8,automatic,ci,ci
 2023-05-30T00:01:20.143Z,62.8427,-150.7218,87.9,1,ml,,,,0.27,ak,ak0236w2mbce,2023-05-30T00:04:17.047Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
@@ -183,8 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T03:30:16.330Z,33.3235,-116.8478333,14.66,0.82,ml,30,43,0.03249,0.15,ci,ci40236511,2023-05-29T03:33:55.741Z,"4km SSE of Palomar Observatory, CA",earthquake,0.25,0.64,0.106,19,automatic,ci,ci
 2023-05-29T03:29:33.890Z,58.1776666666667,-155.301833333333,2.43,0.19,ml,11,101,,0.09,av,av91774592,2023-05-30T01:49:10.040Z,"84 km NW of Karluk, Alaska",earthquake,0.25,0.44,0.298117909678527,11,reviewed,av,av
 2023-05-29T03:25:02.022Z,55.5037,-158.6265,3.6,3,ml,,,,0.59,ak,ak0236uh0dga,2023-05-29T03:36:53.040Z,"55 km SE of Perryville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-29T03:06:06.559Z,64.9893,-147.4188,3.2,2.1,ml,,,,0.49,ak,ak0236ugwb73,2023-05-29T03:08:02.292Z,"10 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-29T03:04:13.950Z,36.6698341,-121.3398361,-0.13,1.73,md,18,72,0.03793,0.11,nc,nc73891185,2023-05-29T04:51:10.948Z,"14km S of Tres Pinos, CA",earthquake,0.31,0.95,0.2,18,automatic,nc,nc
-2023-05-29T03:03:27.020Z,38.8089981,-122.8180008,1.74,0.95,md,19,60,0.008734,0.02,nc,nc73891180,2023-05-29T04:24:10.794Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.5,0.19,20,automatic,nc,nc
-2023-05-29T03:00:18.428Z,54.2293,-159.841,24.5,2.8,ml,,,,0.74,ak,ak0236ugv363,2023-05-29T18:45:39.905Z,"130 km SSE of Sand Point, Alaska",earthquake,,3.9,,,reviewed,ak,ak
-2023-05-29T02:58:09.502Z,14.5211,56.3472,10,4.5,mb,43,148,10.371,0.42,us,us7000k4q5,2023-05-29T03:17:49.040Z,"Owen Fracture Zone region",earthquake,12.76,1.965,0.092,35,reviewed,us,us
