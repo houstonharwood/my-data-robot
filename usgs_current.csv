@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-30T03:37:46.120Z,34.162,-116.432,9.25,0.99,ml,19,63,0.04092,0.16,ci,ci40237239,2023-05-30T03:41:24.606Z,"5km N of Yucca Valley, CA",earthquake,0.3,0.78,0.237,17,automatic,ci,ci
 2023-05-30T03:28:13.143Z,63.131,-151.4528,3.9,2.1,ml,,,,0.56,ak,ak0236w4kdya,2023-05-30T03:29:57.471Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T03:18:40.140Z,32.9235,-117.066,14.85,1.38,ml,10,120,0.1286,0.24,ci,ci40237231,2023-05-30T03:22:20.894Z,"5km SSW of Poway, CA",earthquake,0.85,1.73,0.262,26,automatic,ci,ci
 2023-05-30T03:10:06.270Z,34.3766667,-119.9005,12.08,1.24,ml,9,250,0.1309,0.26,ci,ci40237223,2023-05-30T03:13:39.096Z,"6km SW of Isla Vista, CA",earthquake,1.29,1.84,0.164,6,automatic,ci,ci
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T02:58:02.340Z,38.8213348,-122.8046646,2.96,1.08,md,22,38,0.0047,0.01,nc,nc73891520,2023-05-30T03:15:12.465Z,"6km NW of The Geysers, CA",earthquake,0.23,0.47,0.18,23,automatic,nc,nc
 2023-05-30T02:49:39.581Z,59.4755,-152.7885,83.7,1.7,ml,,,,0.19,ak,ak0236w43ifa,2023-05-30T02:51:01.218Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-30T02:47:22.120Z,34.4108333,-119.8983333,10.98,1.33,ml,10,131,0.1136,0.27,ci,ci40237215,2023-05-30T02:51:02.609Z,"3km W of Isla Vista, CA",earthquake,0.69,1.77,0.108,13,automatic,ci,ci
-2023-05-30T02:45:21.311Z,37.5439,-87.3156,5,3.3,mb_lg,16,76,0.504,0.5,us,us7000k4wr,2023-05-30T03:34:48.040Z,"5 km W of Calhoun, Kentucky",earthquake,1.48,1.863,0.039,172,reviewed,us,us
+2023-05-30T02:45:21.311Z,37.5439,-87.3156,5,3.3,mb_lg,16,76,0.504,0.5,us,us7000k4wr,2023-05-30T03:36:00.706Z,"5 km W of Calhoun, Kentucky",earthquake,1.48,1.863,0.039,172,reviewed,us,us
 2023-05-30T02:35:40.986Z,58.2571,-155.1346,1.9,0.8,ml,,,,0.32,ak,ak0236w40iia,2023-05-30T02:37:07.802Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-30T02:28:39.150Z,38.8051682,-122.8225021,2.31,1.09,md,21,71,0.006392,0.02,nc,nc73891510,2023-05-30T02:45:13.300Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.47,0.14,21,automatic,nc,nc
 2023-05-30T02:27:03.900Z,34.1603333,-116.4256667,9.12,1.45,ml,34,58,0.0399,0.18,ci,ci40237207,2023-05-30T02:30:41.274Z,"5km N of Yucca Valley, CA",earthquake,0.28,0.6,0.189,26,automatic,ci,ci
@@ -184,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T04:10:36.410Z,33.7763329,-116.8536682,25.06,1.22,ml,14,121,0.1332,0.2,ci,ci40236551,2023-05-29T04:14:08.554Z,"5km NE of Valle Vista, CA",earthquake,1.24,1.05,0.53,7,automatic,ci,ci
 2023-05-29T04:10:20.620Z,33.6261667,-116.7371667,13.84,0.86,ml,17,80,0.03943,0.12,ci,ci40236543,2023-05-29T04:13:55.487Z,"10km NW of Anza, CA",earthquake,0.29,0.69,0.326,14,automatic,ci,ci
 2023-05-29T03:51:58.210Z,33.5915,-116.605,13.53,0.62,ml,25,57,0.01004,0.12,ci,ci40236535,2023-05-29T03:55:38.788Z,"8km ENE of Anza, CA",earthquake,0.22,0.36,0.118,17,automatic,ci,ci
-2023-05-29T03:40:47.920Z,60.0246666666667,-153.0755,-1.77,-0.49,ml,5,98,,0.08,av,av91774602,2023-05-30T01:51:00.850Z,"Southern Alaska",earthquake,0.29,4.17,0.26146206558682,5,reviewed,av,av
-2023-05-29T03:40:21.400Z,33.6263333,-116.7218333,15.87,1.64,ml,55,29,0.048,0.18,ci,ci40236527,2023-05-29T03:51:26.980Z,"9km NNW of Anza, CA",earthquake,0.2,0.35,0.3,26,automatic,ci,ci
