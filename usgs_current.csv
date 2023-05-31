@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-31T07:30:19.160Z,35.8751667,-117.7188333,9.87,1.59,ml,15,114,0.07627,0.17,ci,ci40238591,2023-05-31T07:34:00.825Z,"18km ESE of Little Lake, CA",earthquake,0.45,0.93,0.142,16,automatic,ci,ci
 2023-05-31T07:14:03.829Z,64.8684,-147.5452,14.3,1.2,ml,,,,0.19,ak,ak0236xueg4e,2023-05-31T07:15:23.500Z,"7 km N of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-31T06:57:10.090Z,38.8230019,-122.8001633,1.51,0.8,md,9,96,0.007752,0.02,nc,nc73891930,2023-05-31T07:13:09.694Z,"6km NW of The Geysers, CA",earthquake,0.46,0.68,0.2,9,automatic,nc,nc
 2023-05-31T06:54:10.760Z,33.4436667,-116.6338333,4.04,0.56,ml,20,65,0.05736,0.13,ci,ci40238583,2023-05-31T06:57:42.880Z,"13km SSE of Anza, CA",earthquake,0.26,0.52,0.111,15,automatic,ci,ci
@@ -89,8 +90,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T20:27:24.410Z,37.628,-118.96,5.25,0.65,md,15,139,0.03453,0.03,nc,nc73891755,2023-05-31T05:44:50.650Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.42,1.15,0.232,14,reviewed,nc,nc
 2023-05-30T20:24:52.800Z,34.0288315,-119.1246643,10.68,3.2,ml,86,96,0.133,0.28,ci,ci40238207,2023-05-31T04:36:51.459Z,"15km SSE of Port Hueneme, CA",earthquake,0.43,0.69,0.267,22,automatic,ci,ci
 2023-05-30T20:18:55.760Z,32.8848333,-116.2293333,7.15,1.33,ml,35,66,0.09338,0.19,ci,ci40238199,2023-05-30T21:08:20.600Z,"28km NW of Ocotillo, CA",earthquake,0.25,0.72,0.181,29,reviewed,ci,ci
-2023-05-30T20:18:23.058Z,65.406,-144.7665,0,1.3,ml,,,,0.46,ak,ak0236wemmu9,2023-05-30T20:20:28.000Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-30T20:15:55.916Z,64.2167,-148.3659,8.5,1.1,ml,,,,0.72,ak,ak0236wem2aa,2023-05-30T20:19:04.053Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-30T20:18:23.058Z,65.406,-144.7665,0,1.3,ml,,,,0.46,ak,ak0236wemmu9,2023-05-30T20:20:28.000Z,"18 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-30T20:15:55.916Z,64.2167,-148.3659,8.5,1.1,ml,,,,0.72,ak,ak0236wem2aa,2023-05-30T20:19:04.053Z,"40 km E of Clear, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-30T20:13:50.190Z,37.6305,-118.956,5.83,0.46,md,13,132,0.03391,0.03,nc,nc73891745,2023-05-31T04:28:33.682Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.49,1.54,0.243,12,reviewed,nc,nc
 2023-05-30T20:11:56.134Z,63.8112,-149.6592,4.9,1.1,ml,,,,0.32,ak,ak0236wel7dp,2023-05-30T20:14:06.165Z,"34 km W of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T20:09:59.340Z,38.8390007,-122.824501,1.42,1,md,13,95,0.00859,0.03,nc,nc73891740,2023-05-30T20:37:15.912Z,"9km WNW of Cobb, CA",earthquake,0.28,0.61,0.28,13,automatic,nc,nc
@@ -222,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T07:40:56.240Z,33.3906667,-116.991,17.73,0.98,ml,36,38,0.03419,0.2,ci,ci40237391,2023-05-30T07:44:35.154Z,"8km ENE of Pala, CA",earthquake,0.25,0.55,0.146,25,automatic,ci,ci
 2023-05-30T07:39:36.867Z,65.4138,-144.7662,0,1.6,ml,,,,0.62,ak,ak0236w70j2u,2023-05-30T07:42:06.446Z,"17 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T07:39:03.800Z,33.222,-115.6303333,2.32,1.62,ml,20,66,0.03931,0.2,ci,ci40237383,2023-05-30T07:42:43.622Z,"11km W of Niland, CA",earthquake,0.31,0.47,0.131,29,automatic,ci,ci
-2023-05-30T07:38:48.830Z,34.1641667,-116.4215,10.52,1.42,ml,24,93,0.03502,0.18,ci,ci40237375,2023-05-30T07:42:21.679Z,"6km N of Yucca Valley, CA",earthquake,0.29,0.59,0.236,31,automatic,ci,ci
-2023-05-30T07:37:22.120Z,33.225,-115.6276667,3.19,2.23,ml,43,67,0.04197,0.21,ci,ci40237367,2023-05-30T07:48:05.110Z,"10km W of Niland, CA",earthquake,0.28,0.48,0.142,26,automatic,ci,ci
-2023-05-30T07:34:59.570Z,19.4923333333333,-155.933333333333,8.1,2.62,ml,47,169,,0.36,hv,hv73429802,2023-05-30T20:18:15.783Z,"1 km WSW of Captain Cook, Hawaii",earthquake,0.65,0.46,0.149361109633129,20,reviewed,hv,hv
-2023-05-30T07:32:03.790Z,34.1606667,-116.4248333,9.28,0.98,ml,20,71,0.03931,0.16,ci,ci40237359,2023-05-30T13:31:48.340Z,"5km N of Yucca Valley, CA",earthquake,0.25,0.64,0.19,20,reviewed,ci,ci
