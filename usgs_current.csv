@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-31T23:27:27.650Z,33.9516667,-116.64,16.63,2.35,ml,76,29,0.05391,0.18,ci,ci40239351,2023-05-31T23:31:13.119Z,"10km WNW of Garnet, CA",earthquake,0.16,0.42,0.254,26,automatic,ci,ci
+2023-05-31T23:35:24.680Z,38.7893333,-122.7643356,8.28,0.74,md,7,203,0.01184,0.04,nc,nc73894856,2023-05-31T23:36:58.301Z,"2km NNW of The Geysers, CA",earthquake,2.78,6.45,0.16,7,automatic,nc,nc
+2023-05-31T23:27:27.650Z,33.9516667,-116.64,16.63,2.35,ml,76,29,0.05391,0.18,ci,ci40239351,2023-05-31T23:38:08.730Z,"10km WNW of Garnet, CA",earthquake,0.16,0.42,0.254,26,automatic,ci,ci
 2023-05-31T23:27:26.494Z,58.1778,-155.2633,0.1,0.3,ml,,,,0.87,ak,ak0236y407tq,2023-05-31T23:29:58.556Z,"83 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-31T23:21:37.090Z,37.4490013,-121.2939987,24.51,2.27,md,7,114,0.6966,0.24,nc,nc73894846,2023-05-31T23:33:10.668Z,"14km SW of Westley, CA",earthquake,4.06,21.74,0.66,2,automatic,nc,nc
 2023-05-31T23:19:07.760Z,33.3876667,-116.8888333,14.46,0.83,ml,36,37,0.04042,0.25,ci,ci40239343,2023-05-31T23:22:44.050Z,"4km NNW of Palomar Observatory, CA",earthquake,0.34,0.77,0.175,24,automatic,ci,ci
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T19:11:56.770Z,19.411,-155.319166666667,4.01,0.48,md,14,180,,0.06,hv,hv73432672,2023-05-31T21:34:52.510Z,"9 km WSW of Volcano, Hawaii",earthquake,0.36,0.39,0.0264835937826226,3,reviewed,hv,hv
 2023-05-31T19:11:38.604Z,57.3316,-155.6542,85.1,1.8,ml,,,,0.26,ak,ak0236y1j2x0,2023-05-31T19:13:56.816Z,"76 km WSW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-31T19:04:16.050Z,19.4018333333333,-155.289833333333,1.59,0.47,md,13,54,,0.09,hv,hv73432667,2023-05-31T19:17:11.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.26,0.160674142415906,2,reviewed,hv,hv
-2023-05-31T18:56:22.230Z,38.8253333,-122.8028333,2.7,1.53,md,51,31,0.005978,0.04,nc,nc73894791,2023-05-31T23:27:16.262Z,"7km NW of The Geysers, CA",earthquake,0.12,0.21,0.21,42,reviewed,nc,nc
+2023-05-31T18:56:22.230Z,38.8253333,-122.8028333,2.7,1.53,md,51,31,0.005978,0.04,nc,nc73894791,2023-05-31T23:38:09.567Z,"7km NW of The Geysers, CA",earthquake,0.12,0.21,0.21,42,reviewed,nc,nc
 2023-05-31T18:55:06.870Z,19.3763333333333,-155.288666666667,1.8,0.18,md,10,194,,0.06,hv,hv73432652,2023-05-31T19:06:57.720Z,"9 km SW of Volcano, Hawaii",earthquake,0.49,0.36,0.0411223362380708,2,reviewed,hv,hv
 2023-05-31T18:47:45.184Z,61.4036,-147.3882,19.2,1.3,ml,,,,0.56,ak,ak0236y15dkj,2023-05-31T18:49:30.417Z,"47 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-31T18:44:02.276Z,58.168,-155.2426,0,1,ml,,,,1.02,ak,ak0236y14n4z,2023-05-31T18:45:27.356Z,"81 km NW of Karluk, Alaska",earthquake,,12.6,,,automatic,ak,ak
@@ -182,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T09:04:18.771Z,58.2595,-155.1178,3.7,0.8,ml,,,,0.91,ak,ak0236xvj7c6,2023-05-31T09:07:04.013Z,"86 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-31T09:01:11.170Z,33.3868333,-116.8601667,3.73,0.48,ml,17,80,0.1239,0.27,ci,ci40238623,2023-05-31T09:04:38.672Z,"4km N of Palomar Observatory, CA",earthquake,0.45,1.36,0.123,13,automatic,ci,ci
 2023-05-31T09:00:23.266Z,40.1121,-119.7271,15,0.7,ml,3,207.88,0.058,0.1061,nn,nn00860580,2023-05-31T20:25:58.158Z,"20 km NNW of Sutcliffe, Nevada",earthquake,,3.6,0.3,3,reviewed,nn,nn
-2023-05-31T08:54:04.320Z,33.8245,-118.1823333,4.62,2.03,ml,42,71,0.03673,0.33,ci,ci40238615,2023-05-31T19:38:02.388Z,"3km NNW of Signal Hill, CA",earthquake,0.46,0.94,0.205,27,automatic,ci,ci
+2023-05-31T08:54:04.320Z,33.8245,-118.1823333,4.62,2.03,ml,42,71,0.03673,0.33,ci,ci40238615,2023-05-31T23:35:53.377Z,"3km NNW of Signal Hill, CA",earthquake,0.46,0.94,0.205,27,automatic,ci,ci
 2023-05-31T08:49:53.990Z,38.688,-112.5008333,8.05,1.26,ml,11,227,0.08892,0.1,uu,uu60541296,2023-05-31T13:29:43.240Z,"Utah",earthquake,1.87,1.33,0.157,4,reviewed,uu,uu
 2023-05-31T08:46:40.711Z,31.60623083,-104.2503938,7.314135742,2.1,ml,25,70,0.06663821662,0.3,tx,tx2023kosv,2023-05-31T13:32:32.075Z,"54 km NW of Toyah, Texas",earthquake,1.34224653,1.099679805,0.2,18,reviewed,tx,tx
 2023-05-31T08:42:19.431Z,40.1874,-119.7649,13,0.4,ml,3,249.62,0.031,0.0912,nn,nn00860579,2023-05-31T20:22:52.055Z,"29 km NNW of Sutcliffe, Nevada",earthquake,,4.1,0.23,3,reviewed,nn,nn
