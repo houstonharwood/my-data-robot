@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T19:03:42.180Z,19.386999130249,-155.280502319336,0.910000026226044,1.94,ml,21,63,,0.209999993,hv,hv73434512,2023-06-01T19:09:14.440Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.230000004,0.23,9,automatic,hv,hv
 2023-06-01T19:00:08.640Z,19.3856658935547,-155.276336669922,1.5900000333786,2.82,ml,45,60,,0.300000012,hv,hv73434507,2023-06-01T19:15:43.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.340000004,2.74,31,automatic,hv,hv
 2023-06-01T18:57:46.492Z,62.4044,-151.305,80.2,1.1,ml,,,,0.69,ak,ak0236zoqvf1,2023-06-01T19:05:40.396Z,"29 km WSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-01T18:55:44.088Z,37.264,-104.5144,8.552,3.4,ml,35,64,0.15,0.85,us,us7000k5k7,2023-06-01T19:34:29.747Z,"6 km NW of El Moro, Colorado",earthquake,3.22,3.465,0.048,106,reviewed,us,us
+2023-06-01T18:55:44.088Z,37.264,-104.5144,8.552,3.4,ml,35,64,0.15,0.85,us,us7000k5k7,2023-06-01T19:44:53.563Z,"6 km NW of El Moro, Colorado",earthquake,3.22,3.465,0.048,106,reviewed,us,us
 2023-06-01T18:53:47.740Z,36.541,-98.954,6.49,1.75,ml,78,60,0.04769064147,0.21,ok,ok2023krij,2023-06-01T19:02:43.180Z,"Oklahoma",earthquake,,0.3,0.19,25,reviewed,ok,ok
 2023-06-01T18:48:44.060Z,17.9613333333333,-66.7533333333333,16.63,2.46,md,7,218,0.1206,0.09,pr,pr71411968,2023-06-01T18:55:40.400Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.56,0.93,0.0379496974089051,7,reviewed,pr,pr
 2023-06-01T18:46:14.280Z,44.7853333,-110.3988333,5.04,2.05,ml,14,140,0.04627,0.2,uu,uu60541371,2023-06-01T19:07:56.850Z,"32 km SE of Mammoth, Wyoming",earthquake,0.74,1.03,0.269,3,reviewed,uu,uu
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T01:12:24.059Z,58.2008,-155.2593,1.1,1.7,ml,,,,0.46,ak,ak0236zect45,2023-06-01T01:14:27.127Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-06-01T01:06:45.720Z,38.7803345,-122.7570038,1.19,0.87,md,8,97,0.01178,0.01,nc,nc73894876,2023-06-01T02:00:16.515Z,"0km N of The Geysers, CA",earthquake,0.43,0.63,0.48,8,automatic,nc,nc
 2023-06-01T01:06:16.581Z,37.2696,-117.5935,7.3,1.1,ml,7,124.98,0.056,0.1226,nn,nn00860593,2023-06-01T15:04:34.593Z,"53 km S of Silver Peak, Nevada",earthquake,,4.8,1.12,6,reviewed,nn,nn
-2023-06-01T01:04:46.240Z,36.6865,-121.3275,3.01,1.28,md,21,134,0.0259,0.1,nc,nc73894871,2023-06-01T18:34:13.555Z,"12km S of Tres Pinos, CA",earthquake,0.27,0.41,0.17,18,reviewed,nc,nc
+2023-06-01T01:04:46.240Z,36.6865,-121.3275,3.01,1.28,md,21,134,0.0259,0.1,nc,nc73894871,2023-06-01T19:43:09.988Z,"12km S of Tres Pinos, CA",earthquake,0.27,0.41,0.17,18,reviewed,nc,nc
 2023-06-01T01:01:49.341Z,36.7088,-116.0721,5.6,-0.4,ml,8,164.43,0.025,0.0884,nn,nn00860607,2023-06-01T14:58:21.959Z,"39 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.09,3,reviewed,nn,nn
 2023-06-01T00:55:48.433Z,60.7908,-151.6638,80.2,1.3,ml,,,,0.19,ak,ak0236ze0n6j,2023-06-01T00:57:30.403Z,"23 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-01T00:31:35.180Z,33.4651667,-116.578,8.93,0.33,ml,15,131,0.03573,0.09,ci,ci40239375,2023-06-01T14:49:01.003Z,"13km SE of Anza, CA",earthquake,0.23,0.4,0.104,3,reviewed,ci,ci
@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T20:04:11.739Z,63.141,-152.2091,9.1,1.3,ml,,,,1.14,ak,ak0236y22yfp,2023-05-31T20:08:29.421Z,"50 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-31T19:59:39.790Z,40.35,-125.6006667,10,3.94,mw,103,247,0.9639,0.22,nc,nc73894796,2023-06-01T09:04:12.301Z,"112km W of Petrolia, CA",earthquake,1.42,31.61,,3,reviewed,nc,nc
 2023-05-31T19:59:04.071Z,61.9417,-149.9199,19.7,1.6,ml,,,,0.65,ak,ak0236y1tana,2023-05-31T20:00:59.676Z,"22 km NNE of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-31T19:40:12.850Z,19.3868333333333,-155.281,1.01,0.86,md,13,111,,0.07,hv,hv73432687,2023-06-01T03:09:18.460Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.18,0.0309067043752468,3,reviewed,hv,hv
