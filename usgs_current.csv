@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T21:37:55.120Z,38.8056679,-122.8134995,2.93,1.08,md,19,61,0.01266,0.03,nc,nc73895171,2023-06-01T21:39:32.440Z,"6km WNW of The Geysers, CA",earthquake,0.27,0.55,0.14,23,automatic,nc,nc
+2023-06-01T21:37:00.466Z,58.1981,-155.2653,1.2,0.8,ml,,,,0.22,ak,ak0236zqesam,2023-06-01T21:38:11.826Z,"84 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-06-01T21:36:21.266Z,62.5881,-149.5527,53.5,2.2,ml,,,,0.55,ak,ak0236zqem5y,2023-06-01T21:38:00.979Z,"32 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-01T21:24:34.220Z,33.0788333,-115.6008333,8.57,1.85,ml,31,41,0.04347,0.21,ci,ci40475208,2023-06-01T21:28:14.223Z,"5km NNE of Westmorland, CA",earthquake,0.32,0.78,0.179,28,automatic,ci,ci
 2023-06-01T21:21:48.800Z,33.0773333,-115.5983333,8.96,1.72,ml,28,41,0.04134,0.24,ci,ci40475200,2023-06-01T21:25:25.200Z,"5km NNE of Westmorland, CA",earthquake,0.41,0.92,0.202,29,automatic,ci,ci
 2023-06-01T21:19:50.500Z,19.3863334655762,-155.272659301758,1.71000003814697,2.87,ml,24,95,,0.360000014,hv,hv73434752,2023-06-01T21:25:23.870Z,"7 km SSW of Volcano, Hawaii",earthquake,0.74,0.479999989,3.13,24,automatic,hv,hv
@@ -148,13 +151,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T06:44:36.060Z,38.8156667,-122.8076667,3.49,1.7,md,52,21,0.007943,0.06,nc,nc73894951,2023-06-01T20:00:15.089Z,"6km NW of The Geysers, CA",earthquake,0.15,0.23,0.135,47,reviewed,nc,nc
 2023-06-01T06:39:36.400Z,19.1681671142578,-155.504501342773,33.7299995422363,2.01999998,md,45,102,,0.140000001,hv,hv73433487,2023-06-01T06:42:47.360Z,"4 km SW of Pāhala, Hawaii",earthquake,0.56,0.939999998,1.58000004,10,automatic,hv,hv
 2023-06-01T06:26:21.680Z,34.0191667,-117.224,8.91,1.96,ml,84,28,0.0833,0.23,ci,ci40239535,2023-06-01T06:37:40.950Z,"5km SE of Loma Linda, CA",earthquake,0.21,0.62,0.178,25,automatic,ci,ci
-2023-06-01T06:20:28.825Z,67.2847,-163.6404,5.1,3.3,ml,,,,1.04,ak,ak0236zhdpbs,2023-06-01T16:11:03.090Z,"43 km SW of Noatak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-06-01T06:20:28.825Z,67.2847,-163.6404,5.1,3.3,ml,,,,1.04,ak,ak0236zhdpbs,2023-06-01T16:11:03.090Z,"northern Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-06-01T06:18:06.463Z,66.1711,-150.1248,11,1.1,ml,,,,0.93,ak,ak0236zhd82u,2023-06-01T06:20:09.319Z,"50 km WNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-01T06:16:18.520Z,33.3775,-116.8726667,2.38,0.96,ml,38,42,0.02526,0.26,ci,ci40239527,2023-06-01T06:20:04.815Z,"2km NNW of Palomar Observatory, CA",earthquake,0.32,0.7,0.096,25,automatic,ci,ci
 2023-06-01T06:11:31.580Z,38.8185,-122.8078333,3.14,1.92,md,52,40,0.005192,0.05,nc,nc73894941,2023-06-01T21:09:15.464Z,"6km NW of The Geysers, CA",earthquake,0.14,0.23,0.182,44,reviewed,nc,nc
 2023-06-01T06:11:25.300Z,38.8176651,-122.8081665,3.2,0.77,md,14,71,0.005912,0.02,nc,nc73894936,2023-06-01T07:07:13.323Z,"6km NW of The Geysers, CA",earthquake,0.34,0.73,0.13,15,automatic,nc,nc
 2023-06-01T06:10:39.170Z,34.023,-117.2273333,9.78,1.43,ml,52,47,0.088,0.17,ci,ci40239519,2023-06-01T06:21:35.240Z,"4km SE of Loma Linda, CA",earthquake,0.2,0.5,0.217,24,automatic,ci,ci
 2023-06-01T06:10:10.570Z,34.0203333,-117.2258333,10.04,1.39,ml,47,71,0.08508,0.17,ci,ci40239511,2023-06-01T06:21:17.030Z,"4km SE of Loma Linda, CA",earthquake,0.2,0.48,0.196,25,automatic,ci,ci
+2023-06-01T06:09:15.610Z,34.0248333,-117.2301667,10,0.8,ml,12,171,0.09079,0.16,ci,ci37525477,2023-06-01T21:42:01.776Z,"4km SE of Loma Linda, CA",earthquake,0.42,1.01,0.099,4,reviewed,ci,ci
 2023-06-01T06:08:42.080Z,34.0198333,-117.2261667,10.73,1,ml,33,91,0.0848,0.14,ci,ci40239495,2023-06-01T21:31:15.538Z,"4km SE of Loma Linda, CA",earthquake,0.22,0.41,0.155,25,reviewed,ci,ci
 2023-06-01T06:04:06.200Z,34.0193333,-117.228,10.96,1.01,ml,41,73,0.08518,0.14,ci,ci40239487,2023-06-01T21:20:05.723Z,"4km SE of Loma Linda, CA",earthquake,0.17,0.3,0.161,26,reviewed,ci,ci
 2023-06-01T06:03:16.280Z,36.551,-121.0778333,10.46,1.79,md,36,128,0.04125,0.08,nc,nc73894931,2023-06-01T20:16:14.176Z,"6km ENE of Pinnacles, CA",earthquake,0.22,0.29,0.189,32,reviewed,nc,nc
@@ -242,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T22:02:52.890Z,38.7958336,-122.7813339,3.16,0.28,md,9,91,0.005788,0.01,nc,nc73894826,2023-05-31T22:41:14.235Z,"3km NW of The Geysers, CA",earthquake,0.57,1.47,0.07,10,automatic,nc,nc
 2023-05-31T21:56:50.845Z,63.0592,-150.391,104.9,2.1,ml,,,,0.6,ak,ak0236y2zmbo,2023-05-31T21:58:53.273Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-31T21:56:38.451Z,-3.6169,128.2412,119.534,5.2,mww,93,25,1.887,0.95,us,us7000k5db,2023-05-31T22:10:50.040Z,"10 km NE of Ambon, Indonesia",earthquake,4.87,6.284,0.071,19,reviewed,us,us
-2023-05-31T21:41:36.540Z,19.1611671447754,-155.482833862305,32.8300018310547,1.98,ml,42,115,,0.119999997,hv,hv73432847,2023-05-31T21:47:07.980Z,"4 km S of Pāhala, Hawaii",earthquake,0.61,0.769999981,4.42,7,automatic,hv,hv
