@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T10:07:32.771Z,61.3676,-150.1013,36.6,1.2,ml,,,,0.47,ak,ak0236zjonnh,2023-06-01T10:09:14.566Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-01T10:05:28.931Z,63.5329,-150.8744,0,1.7,ml,,,,0.42,ak,ak0236zjo7x9,2023-06-01T10:07:17.916Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-01T10:03:08.500Z,38.8025017,-122.7798309,1.47,0.92,md,19,66,0.01076,0.02,nc,nc73895021,2023-06-01T10:28:11.472Z,"4km NW of The Geysers, CA",earthquake,0.23,0.35,0.19,20,automatic,nc,nc
+2023-06-01T10:02:09.360Z,14.6858,-90.6282,209.293,4.6,mb,61,148,1.133,0.74,us,us7000k5gi,2023-06-01T10:47:23.040Z,"1 km E of San Pedro Sacatepéquez, Guatemala",earthquake,7.43,7.728,0.046,141,reviewed,us,us
 2023-06-01T10:00:10.295Z,-5.7721,152.0588,38.723,4.9,mb,38,129,6.05,0.7,us,us7000k5gj,2023-06-01T10:23:46.040Z,"159 km S of Kokopo, Papua New Guinea",earthquake,14.75,7.964,0.064,118,reviewed,us,us
 2023-06-01T09:48:31.590Z,19.2228336334229,-155.390335083008,33.0900001525879,1.98,ml,51,151,,0.140000001,hv,hv73433707,2023-06-01T09:54:04.440Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.699999988,3.9,5,automatic,hv,hv
 2023-06-01T09:42:24.630Z,33.358,-116.3811667,9.1,0.69,ml,27,113,0.09449,0.19,ci,ci40239647,2023-06-01T09:45:46.653Z,"11km N of Borrego Springs, CA",earthquake,0.38,0.86,0.18,14,automatic,ci,ci
@@ -154,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T19:25:31.370Z,33.8206667,-117.5091667,0.44,1.25,ml,26,97,0.05352,0.28,ci,ci40239159,2023-05-31T19:29:18.965Z,"6km S of Home Gardens, CA",quarry blast,0.46,31.61,0.281,32,automatic,ci,ci
 2023-05-31T19:11:56.770Z,19.411,-155.319166666667,4.01,0.48,md,14,180,,0.06,hv,hv73432672,2023-05-31T21:34:52.510Z,"9 km WSW of Volcano, Hawaii",earthquake,0.36,0.39,0.0264835937826226,3,reviewed,hv,hv
 2023-05-31T19:11:38.604Z,57.3316,-155.6542,85.1,1.8,ml,,,,0.26,ak,ak0236y1j2x0,2023-05-31T19:13:56.816Z,"76 km WSW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-31T19:05:21.030Z,46.0135,-112.4595,-2,2.05,ml,18,62,0.066,0.13,mb,mb90016388,2023-06-01T04:12:41.930Z,"western Montana",quarry blast,0.35,31.61,0.193490837888611,21,reviewed,mb,mb
+2023-05-31T19:05:21.030Z,46.0135,-112.4595,-2,2.05,ml,18,62,0.066,0.13,mb,mb90016388,2023-06-01T04:12:41.930Z,"5 km E of Butte, Montana",quarry blast,0.35,31.61,0.193490837888611,21,reviewed,mb,mb
 2023-05-31T19:04:16.050Z,19.4018333333333,-155.289833333333,1.59,0.47,md,13,54,,0.09,hv,hv73432667,2023-05-31T19:17:11.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.26,0.160674142415906,2,reviewed,hv,hv
 2023-05-31T19:02:21.790Z,46.4948333333333,-112.017833333333,10.19,1.24,ml,13,98,0.09582,0.06,mb,mb90016568,2023-06-01T03:20:05.380Z,"4 km NW of Clancy, Montana",earthquake,0.37,0.76,0.064156939799429,7,reviewed,mb,mb
 2023-05-31T18:56:22.230Z,38.8253333,-122.8028333,2.7,1.53,md,51,31,0.005978,0.04,nc,nc73894791,2023-06-01T02:56:10.836Z,"7km NW of The Geysers, CA",earthquake,0.12,0.21,0.21,42,reviewed,nc,nc
@@ -269,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T11:02:50.430Z,33.3488333,-116.3305,11.11,0.63,ml,15,113,0.1083,0.18,ci,ci40238695,2023-05-31T11:06:34.990Z,"11km NNE of Borrego Springs, CA",earthquake,0.43,0.73,0.107,13,automatic,ci,ci
 2023-05-31T10:55:18.193Z,1.5057,-90.5778,10,5,mb,99,163,9.888,0.93,us,us7000k58f,2023-05-31T11:15:18.040Z,"250 km N of Puerto Ayora, Ecuador",earthquake,10.31,1.913,0.027,434,reviewed,us,us
 2023-05-31T10:52:28.007Z,68.0328,-158.087,7.589,2.5,ml,33,138,0.664,0.54,us,us7000k58d,2023-06-01T04:37:46.040Z,"106 km N of Ambler, Alaska",earthquake,5.72,7.87,0.051,50,reviewed,us,us
-2023-05-31T10:46:35.740Z,44.758,-114.386,7.75,1.59,ml,13,119,0.4496,0.08,mb,mb90016368,2023-06-01T04:22:09.750Z,"30 km NNW of Challis, Idaho",earthquake,0.44,1.03,0.158608299133025,16,reviewed,mb,mb
