@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-02T08:44:44.542Z,61.5865,-148.2778,21.3,0.2,ml,,,,0.4,ak,ak02371693ct,2023-06-02T08:47:07.364Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-02T08:39:53.680Z,38.8128319,-122.8256683,2.17,0.27,md,7,163,0.004815,0.03,nc,nc73895331,2023-06-02T08:41:30.082Z,"7km WNW of The Geysers, CA",earthquake,0.72,1.52,0.11,7,automatic,nc,nc
-2023-06-02T08:39:48.640Z,38.8081665,-122.8216629,2.59,0.53,md,10,73,0.005913,0.05,nc,nc73895326,2023-06-02T08:41:25.138Z,"7km WNW of The Geysers, CA",earthquake,0.57,1.54,0.27,12,automatic,nc,nc
+2023-06-02T08:39:48.640Z,38.8081665,-122.8216629,2.59,0.53,md,10,73,0.005913,0.05,nc,nc73895326,2023-06-02T08:51:10.881Z,"7km WNW of The Geysers, CA",earthquake,0.57,1.54,0.27,12,automatic,nc,nc
 2023-06-02T08:38:16.918Z,58.2856,-154.9097,1.2,1.1,ml,,,,0.63,ak,ak0237167qwr,2023-06-02T08:40:22.296Z,"84 km NNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2023-06-02T08:21:50.960Z,40.2355003,-121.1409988,1.75,2.39,md,9,107,0.3147,0.2,nc,nc73895321,2023-06-02T08:28:14.739Z,"3km NNE of Prattville, CA",earthquake,0.85,13.71,0.09,8,automatic,nc,nc
-2023-06-02T08:14:47.756Z,41.3673,-106.7631,15.356,3.9,mb,40,59,0.921,0.58,us,us7000k5pl,2023-06-02T08:46:54.046Z,"Wyoming",earthquake,1.32,8.35,0.194,7,reviewed,us,us
+2023-06-02T08:21:50.960Z,40.2355003,-121.1409988,1.75,2.39,md,9,107,0.3147,0.2,nc,nc73895321,2023-06-02T08:50:14.874Z,"3km NNE of Prattville, CA",earthquake,0.85,13.71,0.09,8,automatic,nc,nc
+2023-06-02T08:14:47.756Z,41.3673,-106.7631,15.356,3.9,mb,40,59,0.921,0.58,us,us7000k5pl,2023-06-02T08:52:11.697Z,"Wyoming",earthquake,1.32,8.35,0.194,7,reviewed,us,us
 2023-06-02T08:01:05.010Z,34.0801667,-117.3273333,17.62,1.05,ml,25,104,0.09523,0.18,ci,ci40475632,2023-06-02T08:04:43.327Z,"1km WNW of Colton, CA",earthquake,0.3,0.7,0.211,30,automatic,ci,ci
 2023-06-02T07:56:40.170Z,38.8238335,-122.7993317,4.44,0.29,md,11,117,0.01615,0.01,nc,nc73895316,2023-06-02T08:24:14.720Z,"6km NW of The Geysers, CA",earthquake,0.58,0.88,0.13,10,automatic,nc,nc
 2023-06-02T07:52:50.480Z,33.5506667,-117.0056667,10.15,0.49,ml,14,58,0.09913,0.18,ci,ci40475624,2023-06-02T07:56:20.399Z,"14km E of Murrieta Hot Springs, CA",earthquake,0.38,1.7,0.056,7,automatic,ci,ci
@@ -42,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T03:58:44.420Z,39.6133,-119.9735,6.3,1.4,ml,17,89.22,0.011,0.1473,nn,nn00860656,2023-06-02T05:26:37.655Z,"7 km S of Cold Springs, Nevada",earthquake,,1.1,0.3,5,reviewed,nn,nn
 2023-06-02T03:28:31.243Z,31.67781044,-104.4226565,6.542895508,2.1,ml,19,54,0.003723325736,0.2,tx,tx2023krzj,2023-06-02T08:22:44.755Z,"55 km S of Whites City, New Mexico",earthquake,0.9842668127,0.7432764978,0.1,24,reviewed,tx,tx
 2023-06-02T03:13:58.340Z,19.2608337402344,-155.403839111328,30.3999996185303,2.26,ml,50,124,,0.140000001,hv,hv73435272,2023-06-02T03:20:07.040Z,"10 km NE of Pāhala, Hawaii",earthquake,0.43,0.680000007,3.67,19,automatic,hv,hv
+2023-06-02T03:12:12.227Z,31.72533602,-104.3196814,5.206079102000001,1.9,ml,17,72,0.05125899004,0.2,tx,tx2023kryu,2023-06-02T08:53:47.645Z,"50 km S of Whites City, New Mexico",earthquake,0.7643356321,1.155594322,0.1,21,reviewed,tx,tx
 2023-06-02T02:56:56.737Z,37.2756,-117.5723,4.2,0.9,ml,8,219.43,0.073,0.2306,nn,nn00860655,2023-06-02T05:20:24.283Z,"53 km S of Silver Peak, Nevada",earthquake,,5.7,0.91,5,reviewed,nn,nn
 2023-06-02T02:52:01.250Z,34.2573333,-117.0121667,3.07,2.19,ml,81,20,0.07588,0.16,ci,ci40475440,2023-06-02T03:03:00.360Z,"9km W of Big Bear Lake, CA",earthquake,0.15,0.72,0.194,26,automatic,ci,ci
 2023-06-02T02:42:48.890Z,38.8286667,-122.8541641,2.02,0.32,md,11,87,0.002394,0.02,nc,nc73895226,2023-06-02T03:50:10.047Z,"10km NW of The Geysers, CA",earthquake,0.32,0.78,0.2,11,automatic,nc,nc
@@ -224,7 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T09:05:49.083Z,36.7282,-116.0536,6.2,-0.3,ml,10,95.83,0.034,0.0678,nn,nn00860610,2023-06-01T15:36:03.426Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.41,5,reviewed,nn,nn
 2023-06-01T08:57:15.840Z,40.5193333,-124.436,17.91,3.04,ml,28,219,0.08692,0.16,nc,nc73894986,2023-06-01T22:43:41.408Z,"16km WSW of Ferndale, CA",earthquake,0.82,0.41,0.25,25,reviewed,nc,nc
 2023-06-01T08:56:46.890Z,37.2863,-117.581,7.1,1,ml,9,128.67,0.074,0.1831,nn,nn00860599,2023-06-01T15:17:16.626Z,"52 km S of Silver Peak, Nevada",earthquake,,3.5,0.97,6,reviewed,nn,nn
-2023-06-01T08:53:26.578Z,62.9919,-149.5559,66.1,1.8,ml,,,,0.57,ak,ak0236zirmwh,2023-06-01T08:55:30.348Z,"53 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-01T08:52:31.640Z,34.0205,-118.6901667,13.87,1.4,ml,18,122,0.07553,0.22,ci,ci40239615,2023-06-01T08:56:09.309Z,"1km S of Malibu Beach, CA",earthquake,0.7,0.9,0.225,23,automatic,ci,ci
-2023-06-01T08:50:36.687Z,58.1513,-155.5972,24.8,0.3,ml,,,,0.91,ak,ak0236zir0sz,2023-06-01T08:56:30.558Z,"86 km SE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-06-01T08:49:06.216Z,-5.7009,151.9684,10,4.9,mb,57,153,1.512,0.45,us,us7000k5g9,2023-06-01T09:26:09.040Z,"New Britain region, Papua New Guinea",earthquake,11.23,1.94,0.065,102,reviewed,us,us
