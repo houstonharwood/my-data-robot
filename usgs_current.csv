@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-02T09:00:45.380Z,38.8428345,-122.8776703,2.54,0.95,md,12,92,0.00645,0.02,nc,nc73895336,2023-06-02T09:02:22.077Z,"13km ENE of Cloverdale, CA",earthquake,0.34,0.54,0.34,14,automatic,nc,nc
+2023-06-02T08:56:09.487Z,62.248,-148.5158,24.7,2,ml,,,,0.47,ak,ak023716bl84,2023-06-02T08:57:59.069Z,"50 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-02T08:44:44.542Z,61.5865,-148.2778,21.3,0.2,ml,,,,0.4,ak,ak02371693ct,2023-06-02T08:47:07.364Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-02T08:39:53.680Z,38.8128319,-122.8256683,2.17,0.27,md,7,163,0.004815,0.03,nc,nc73895331,2023-06-02T08:41:30.082Z,"7km WNW of The Geysers, CA",earthquake,0.72,1.52,0.11,7,automatic,nc,nc
-2023-06-02T08:39:48.640Z,38.8081665,-122.8216629,2.59,0.53,md,10,73,0.005913,0.05,nc,nc73895326,2023-06-02T08:51:10.881Z,"7km WNW of The Geysers, CA",earthquake,0.57,1.54,0.27,12,automatic,nc,nc
+2023-06-02T08:39:53.680Z,38.8128319,-122.8256683,2.17,0.27,md,7,163,0.004815,0.03,nc,nc73895331,2023-06-02T09:06:14.972Z,"7km WNW of The Geysers, CA",earthquake,0.72,1.52,0.11,7,automatic,nc,nc
+2023-06-02T08:39:48.640Z,38.8081665,-122.8216629,2.59,0.53,md,10,73,0.005913,0.05,nc,nc73895326,2023-06-02T08:56:13.920Z,"7km WNW of The Geysers, CA",earthquake,0.57,1.54,0.27,12,automatic,nc,nc
 2023-06-02T08:38:16.918Z,58.2856,-154.9097,1.2,1.1,ml,,,,0.63,ak,ak0237167qwr,2023-06-02T08:40:22.296Z,"84 km NNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2023-06-02T08:21:50.960Z,40.2355003,-121.1409988,1.75,2.39,md,9,107,0.3147,0.2,nc,nc73895321,2023-06-02T08:50:14.874Z,"3km NNE of Prattville, CA",earthquake,0.85,13.71,0.09,8,automatic,nc,nc
-2023-06-02T08:14:47.756Z,41.3673,-106.7631,15.356,3.9,mb,40,59,0.921,0.58,us,us7000k5pl,2023-06-02T08:52:11.697Z,"Wyoming",earthquake,1.32,8.35,0.194,7,reviewed,us,us
+2023-06-02T08:21:50.960Z,40.2355003,-121.1409988,1.75,2.39,md,9,107,0.3147,0.2,nc,nc73895321,2023-06-02T08:55:10.911Z,"3km NNE of Prattville, CA",earthquake,0.85,13.71,0.09,8,automatic,nc,nc
+2023-06-02T08:14:47.756Z,41.3673,-106.7631,15.356,3.9,mb,40,59,0.921,0.58,us,us7000k5pl,2023-06-02T09:02:31.030Z,"Wyoming",earthquake,1.32,8.35,0.194,7,reviewed,us,us
 2023-06-02T08:01:05.010Z,34.0801667,-117.3273333,17.62,1.05,ml,25,104,0.09523,0.18,ci,ci40475632,2023-06-02T08:04:43.327Z,"1km WNW of Colton, CA",earthquake,0.3,0.7,0.211,30,automatic,ci,ci
 2023-06-02T07:56:40.170Z,38.8238335,-122.7993317,4.44,0.29,md,11,117,0.01615,0.01,nc,nc73895316,2023-06-02T08:24:14.720Z,"6km NW of The Geysers, CA",earthquake,0.58,0.88,0.13,10,automatic,nc,nc
 2023-06-02T07:52:50.480Z,33.5506667,-117.0056667,10.15,0.49,ml,14,58,0.09913,0.18,ci,ci40475624,2023-06-02T07:56:20.399Z,"14km E of Murrieta Hot Springs, CA",earthquake,0.38,1.7,0.056,7,automatic,ci,ci
@@ -221,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T09:24:21.170Z,19.4035,-155.271166666667,0.93,1.94,ml,21,43,,0.11,hv,hv73433677,2023-06-01T23:43:10.080Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.2,0.165021233337361,14,reviewed,hv,hv
 2023-06-01T09:19:09.400Z,19.2625007629395,-155.395660400391,30.9599990844727,2.3,ml,51,127,,0.140000001,hv,hv73433672,2023-06-01T09:24:40.300Z,"10 km NE of Pāhala, Hawaii",earthquake,0.51,0.589999974,3.24,26,automatic,hv,hv
 2023-06-01T09:16:14.940Z,38.831501,-122.8181686,1.49,0.93,md,12,69,0.01027,0.01,nc,nc73895006,2023-06-01T09:54:13.273Z,"8km NW of The Geysers, CA",earthquake,0.28,0.59,0.25,13,automatic,nc,nc
-2023-06-01T09:05:49.300Z,32.891,-116.2763333,5.25,1,ml,26,78,0.06738,0.21,ci,ci40239623,2023-06-01T09:09:23.531Z,"25km ENE of Pine Valley, CA",earthquake,0.31,0.7,0.159,13,automatic,ci,ci
-2023-06-01T09:05:49.083Z,36.7282,-116.0536,6.2,-0.3,ml,10,95.83,0.034,0.0678,nn,nn00860610,2023-06-01T15:36:03.426Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.41,5,reviewed,nn,nn
-2023-06-01T08:57:15.840Z,40.5193333,-124.436,17.91,3.04,ml,28,219,0.08692,0.16,nc,nc73894986,2023-06-01T22:43:41.408Z,"16km WSW of Ferndale, CA",earthquake,0.82,0.41,0.25,25,reviewed,nc,nc
-2023-06-01T08:56:46.890Z,37.2863,-117.581,7.1,1,ml,9,128.67,0.074,0.1831,nn,nn00860599,2023-06-01T15:17:16.626Z,"52 km S of Silver Peak, Nevada",earthquake,,3.5,0.97,6,reviewed,nn,nn
