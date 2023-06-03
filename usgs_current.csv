@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-03T09:55:56.390Z,33.3996658,-116.3846664,6.6,1.01,ml,33,107,0.1339,0.18,ci,ci40476816,2023-06-03T09:58:05.219Z,"16km N of Borrego Springs, CA",earthquake,0.33,1.08,0.212,9,automatic,ci,ci
-2023-06-03T09:50:49.990Z,36.7818336,-121.3304977,6.41,2.04,md,27,91,0.07534,0.09,nc,nc73895781,2023-06-03T09:52:27.479Z,"1km SW of Tres Pinos, CA",earthquake,0.29,0.76,0.17,22,automatic,nc,nc
-2023-06-03T09:50:17.380Z,38.7371674,-122.6998367,-0.75,1.04,md,8,231,0.03097,0.34,nc,nc73895776,2023-06-03T09:51:52.897Z,"4km S of Anderson Springs, CA",earthquake,2.85,3.7,0.18,7,automatic,nc,nc
+2023-06-03T10:00:34.214Z,62.2805,-149.8384,35.4,1.1,ml,,,,0.52,ak,ak02372upuql,2023-06-03T10:03:17.468Z,"Central Alaska",earthquake,,6.4,,,automatic,ak,ak
+2023-06-03T09:55:56.400Z,33.3993333,-116.3756667,5.49,0.8,ml,28,111,0.1306,0.2,ci,ci40476816,2023-06-03T09:59:45.238Z,"16km N of Borrego Springs, CA",earthquake,0.32,1.55,0.183,18,automatic,ci,ci
+2023-06-03T09:50:49.990Z,36.7818336,-121.3304977,6.41,2.04,md,27,91,0.07534,0.09,nc,nc73895781,2023-06-03T10:08:13.771Z,"1km SW of Tres Pinos, CA",earthquake,0.29,0.76,0.17,22,automatic,nc,nc
+2023-06-03T09:50:17.380Z,38.7371674,-122.6998367,-0.75,1.04,md,8,231,0.03097,0.34,nc,nc73895776,2023-06-03T10:08:12.770Z,"4km S of Anderson Springs, CA",earthquake,2.85,3.7,0.18,7,automatic,nc,nc
 2023-06-03T09:47:13.376Z,62.2541,-150.7314,34.9,2.3,ml,,,,0.83,ak,ak02372ueg6h,2023-06-03T09:50:06.950Z,"26 km WSW of Trapper Creek, Alaska",earthquake,,4,,,automatic,ak,ak
+2023-06-03T09:43:36.492Z,12.8129,47.8315,10,4.6,mb,50,80,5.038,0.65,us,us7000k62c,2023-06-03T10:11:53.040Z,"187 km NNW of Las Khorey, Somalia",earthquake,12.66,1.922,0.084,42,reviewed,us,us
 2023-06-03T09:41:57.090Z,38.8366661,-122.8366699,1.31,0.44,md,15,105,0.002131,0.01,nc,nc73895771,2023-06-03T09:58:11.714Z,"10km NW of The Geysers, CA",earthquake,0.28,0.54,0.28,15,automatic,nc,nc
 2023-06-03T09:33:46.970Z,17.9888333333333,-66.9923333333333,11.65,2.15,md,5,152,0.05302,0.08,pr,pr71412208,2023-06-03T09:45:56.240Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,1.67,1.27,0.163807846267204,4,reviewed,pr,pr
 2023-06-03T09:23:56.093Z,37.5315,56.7631,10,4.1,mb,26,172,1.145,0.64,us,us7000k625,2023-06-03T09:48:28.040Z,"northeastern Iran",earthquake,7.65,1.965,0.131,16,reviewed,us,us
@@ -289,5 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T10:32:35.761Z,39.62,-119.974,7.3,1,ml,16,110.91,0.016,0.1451,nn,nn00860673,2023-06-03T02:04:37.823Z,"6 km S of Cold Springs, Nevada",earthquake,,1.1,0.4,6,reviewed,nn,nn
 2023-06-02T10:26:55.353Z,-5.9395,152.2526,10,4.8,mb,39,86,1.739,0.45,us,us7000k5qj,2023-06-02T12:17:48.040Z,"176 km S of Kokopo, Papua New Guinea",earthquake,5.24,1.796,0.064,75,reviewed,us,us
 2023-06-02T10:14:31.590Z,33.6606667,-116.7676667,10.83,0.28,ml,14,75,0.06728,0.17,ci,ci40475648,2023-06-02T10:18:11.024Z,"10km SSW of Idyllwild, CA",earthquake,0.4,0.7,0.227,7,automatic,ci,ci
-2023-06-02T10:11:46.451Z,60.2429,-154.5724,63.8,1.5,ml,,,,1.08,ak,ak0237178w2d,2023-06-02T19:10:25.686Z,"14 km WNW of Port Alsworth, Alaska",earthquake,,4.7,,,reviewed,ak,ak
-2023-06-02T10:01:19.570Z,38.8253326,-122.8028336,2.4,1.08,md,21,34,0.005977,0.02,nc,nc73895361,2023-06-02T10:55:10.669Z,"7km NW of The Geysers, CA",earthquake,0.22,0.49,0.14,22,automatic,nc,nc
