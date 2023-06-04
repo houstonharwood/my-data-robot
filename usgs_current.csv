@@ -12,13 +12,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T08:43:30.650Z,38.8208351,-122.758667,1.61,1.07,md,15,128,0.01303,0.04,nc,nc73896791,2023-06-04T09:00:13.390Z,"3km W of Cobb, CA",earthquake,0.31,0.55,0.14,16,automatic,nc,nc
 2023-06-04T08:34:55.434Z,58.2489,-155.1577,3,3,ml,,,,0.31,ak,ak02374h9o07,2023-06-04T08:45:58.040Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-04T08:34:55.432Z,58.2466,-155.1761,0.1,3.6,ml,,,,0.61,ak,ak02374h9nlh,2023-06-04T08:41:39.671Z,"86 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-04T08:24:20.007Z,62.5786,-148.9615,0,1.2,ml,,,,0.68,ak,ak02374h7g40,2023-06-04T08:26:42.441Z,"60 km ENE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-04T08:24:20.007Z,62.5786,-148.9615,0,1.2,ml,,,,0.68,ak,ak02374h7g40,2023-06-04T08:26:42.441Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-04T08:10:37.742Z,58.1656,-155.253,0,1.1,ml,,,,0.65,ak,ak02374h4hgh,2023-06-04T08:14:23.050Z,"81 km NW of Karluk, Alaska",earthquake,,61,,,automatic,ak,ak
 2023-06-04T07:52:40.140Z,35.5056667,-118.3991667,6.97,1.19,ml,23,67,0.1682,0.16,ci,ci40477720,2023-06-04T07:56:09.776Z,"12km SE of Bodfish, CA",earthquake,0.3,3.12,0.16,10,automatic,ci,ci
 2023-06-04T07:44:54.809Z,58.1679,-155.3592,18.9,0.6,ml,,,,0.53,ak,ak02374gqdig,2023-06-04T07:47:43.568Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-04T07:42:34.740Z,19.1933326721191,-155.487335205078,35.9000015258789,1.71000004,md,38,84,,0.109999999,hv,hv73439202,2023-06-04T07:45:46.160Z,"1 km SW of Pāhala, Hawaii",earthquake,0.53,0.819999993,0.569999993,3,automatic,hv,hv
 2023-06-04T07:39:41.540Z,40.237999,-121.1536636,0.11,2.58,md,12,103,0.3212,0.21,nc,nc73896781,2023-06-04T08:12:44.208Z,"3km NE of Almanor, CA",earthquake,0.72,15.63,0.13,9,automatic,nc,nc
-2023-06-04T07:31:07.600Z,19.5195,-65.7108,102,3.89,md,9,280,1.2665,0.32,pr,pr2023155000,2023-06-04T08:12:49.270Z,"121 km N of Suárez, Puerto Rico",earthquake,4.4,7.57,0.04,6,reviewed,pr,pr
+2023-06-04T07:31:07.600Z,19.5195,-65.7108,102,3.89,md,9,280,1.2665,0.32,pr,pr2023155000,2023-06-04T08:12:49.270Z,"Puerto Rico region",earthquake,4.4,7.57,0.04,6,reviewed,pr,pr
 2023-06-04T07:30:42.933Z,-28.4172,-70.8739,67.643,4.1,mb,28,123,0.276,0.92,us,us7000k67y,2023-06-04T08:14:26.040Z,"20 km NNW of Vallenar, Chile",earthquake,5.97,6.059,0.197,7,reviewed,us,us
 2023-06-04T07:26:20.620Z,17.8638333333333,-66.8565,13.07,2.47,md,7,250,0.1127,0.09,pr,pr71412268,2023-06-04T07:39:28.130Z,"Puerto Rico region",earthquake,0.8,0.45,0.156259847119449,6,reviewed,pr,pr
 2023-06-04T07:13:18.303Z,12.6175,48.0078,10,4.6,mb,39,224,5.163,0.56,us,us7000k67w,2023-06-04T08:26:13.040Z,"162 km N of Las Khorey, Somalia",earthquake,14.32,2.003,0.095,33,reviewed,us,us
@@ -347,5 +347,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T09:48:56.030Z,46.8781666666667,-112.537166666667,9.43,0.81,ml,11,107,0.05819,0.15,mb,mb90016678,2023-06-03T13:37:10.940Z,"Western Montana",earthquake,0.65,0.76,0.105464930592775,6,reviewed,mb,mb
 2023-06-03T09:43:36.492Z,12.8129,47.8315,10,4.6,mb,50,80,5.038,0.65,us,us7000k62c,2023-06-03T10:11:53.040Z,"187 km NNW of Las Khorey, Somalia",earthquake,12.66,1.922,0.084,42,reviewed,us,us
 2023-06-03T09:41:57.090Z,38.8366661,-122.8366699,1.31,0.44,md,15,105,0.002131,0.01,nc,nc73895771,2023-06-03T10:15:13.809Z,"10km NW of The Geysers, CA",earthquake,0.28,0.54,0.28,15,automatic,nc,nc
-2023-06-03T09:33:46.970Z,17.9888333333333,-66.9923333333333,11.65,2.15,md,5,152,0.05302,0.08,pr,pr71412208,2023-06-03T09:45:56.240Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,1.67,1.27,0.163807846267204,4,reviewed,pr,pr
-2023-06-03T09:32:27.100Z,46.87533333333333,-121.94116666666666,5.14,0.15,ml,17,76,0.01183,0.09,uw,uw61930261,2023-06-03T18:19:12.460Z,"14 km NNE of Ashford, Washington",earthquake,0.3,0.5,0.05512289944514519,7,reviewed,uw,uw
