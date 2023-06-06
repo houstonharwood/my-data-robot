@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-06T06:45:36.750Z,40.4931679,-123.8708344,6.83,1.64,md,9,197,0.07687,0.14,nc,nc73897616,2023-06-06T06:47:12.764Z,"20km E of Rio Dell, CA",earthquake,1.5,1.08,0.12,6,automatic,nc,nc
+2023-06-06T06:41:09.680Z,33.4528333,-116.5745,10.95,0.56,ml,25,77,0.04775,0.15,ci,ci40479264,2023-06-06T06:44:51.562Z,"15km SE of Anza, CA",earthquake,0.23,0.5,0.247,15,automatic,ci,ci
 2023-06-06T06:36:18.303Z,34.74715424,-97.53196716,4.5139575,1.81,ml,16,66.92791748,0.1280398071,0.4480164571,ok,ok2023kzno,2023-06-06T06:39:01.569Z,"9 km SE of Erin Springs, Oklahoma",earthquake,3.058528731,2.482524808,0.3,11,automatic,ok,ok
 2023-06-06T06:30:27.970Z,38.8468323,-122.8160019,1.61,0.71,md,8,82,0.009696,0.01,nc,nc73897611,2023-06-06T06:32:03.842Z,"8km WNW of Cobb, CA",earthquake,0.31,0.97,0.38,10,automatic,nc,nc
 2023-06-06T06:15:08.170Z,59.6599,-152.3194,67.5,1.8,ml,,,,0.54,ak,ak02377r1bj5,2023-06-06T06:18:12.465Z,"30 km WSW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -16,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T04:32:58.770Z,33.981,-116.8166667,17.85,1.75,ml,64,26,0.05452,0.2,ci,ci40479216,2023-06-06T04:43:54.620Z,"8km NNW of Cabazon, CA",earthquake,0.19,0.45,0.144,27,automatic,ci,ci
 2023-06-06T04:14:46.825Z,64.133,-154.4345,7.1,1.3,ml,,,,0.89,ak,ak02377publ6,2023-06-06T04:17:07.179Z,"84 km SE of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-06T04:12:43.919Z,58.1735,-155.3368,2.2,0.8,ml,,,,0.7,ak,ak02377ptvx6,2023-06-06T04:15:50.253Z,"85 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-06T04:08:04.000Z,35.5730018615723,-82.8418350219727,0.280000001192093,2.6099999,md,8,167,0.09913,0.25999999,se,se60527776,2023-06-06T05:04:00.911Z,"4 km NNE of West Canton, North Carolina",earthquake,1.2,6.59000015,0.779999971,7,reviewed,se,se
+2023-06-06T04:08:04.000Z,35.5730018615723,-82.8418350219727,0.280000001192093,2.6099999,md,8,167,0.09913,0.25999999,se,se60527776,2023-06-06T06:42:32.755Z,"4 km NNE of West Canton, North Carolina",earthquake,1.2,6.59000015,0.779999971,7,reviewed,se,se
 2023-06-06T04:00:52.430Z,19.2456665039062,-155.380828857422,29.9699993133545,1.88,md,38,158,,0.100000001,hv,hv73441892,2023-06-06T04:03:56.700Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.56,0.839999974,1.49000001,14,automatic,hv,hv
 2023-06-06T03:55:48.430Z,38.8346672,-122.7881699,1.87,1.03,md,20,67,0.004104,0.02,nc,nc73897581,2023-06-06T06:16:16.086Z,"6km WNW of Cobb, CA",earthquake,0.23,0.4,0.12,19,automatic,nc,nc
 2023-06-06T03:50:06.550Z,38.8183327,-122.8213348,2.32,1.06,md,21,48,0.01015,0.02,nc,nc73897576,2023-06-06T05:50:13.932Z,"7km NW of The Geysers, CA",earthquake,0.23,0.51,0.27,21,automatic,nc,nc
@@ -65,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T23:22:04.780Z,60.0451666666667,-153.079333333333,2.07,0.65,ml,4,184,,0.11,av,av91913201,2023-06-06T00:36:56.410Z,"Southern Alaska",earthquake,0.71,1.36,0.211481513401848,4,reviewed,av,av
 2023-06-05T23:19:53.730Z,60.0521666666667,-153.057833333333,5.21,0.58,ml,3,180,,0.06,av,av91106653,2023-06-06T00:29:06.550Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.67,0.8,0.203337728214426,3,reviewed,av,av
 2023-06-05T23:18:38.854Z,57.5687,-155.5792,19.4,2.7,ml,,,,0.87,ak,ak02376dn0ys,2023-06-05T23:44:44.040Z,"67 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-05T23:17:51.680Z,60.0268333333333,-153.076166666667,-1.37,0.52,ml,4,153,,0.16,av,av91106643,2023-06-06T00:13:00.410Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.97,11.84,0.208289246021429,4,reviewed,av,av
+2023-06-05T23:17:51.680Z,60.0268333333333,-153.076166666667,-1.37,0.52,ml,4,153,,0.16,av,av91106643,2023-06-06T00:13:00.410Z,"Southern Alaska",earthquake,0.97,11.84,0.208289246021429,4,reviewed,av,av
 2023-06-05T23:17:02.340Z,61.0123,-152.817,186.5,2,ml,,,,0.87,ak,ak02376dmray,2023-06-05T23:19:57.093Z,"90 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-05T23:16:55.140Z,60.0323333333333,-153.0835,0.37,0.66,ml,4,169,,0.17,av,av91913186,2023-06-06T00:09:40.850Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.55,2.18,0.152106300164628,4,reviewed,av,av
 2023-06-05T23:11:45.290Z,60.0375,-153.069166666667,2.67,0.53,ml,4,152,,0.17,av,av91913166,2023-06-05T23:42:34.500Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.73,1.68,0.254099753799252,4,reviewed,av,av
@@ -111,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T20:25:15.100Z,57.9719,-155.3994,22.7,1.8,ml,,,,1.09,ak,ak02376bw77a,2023-06-05T20:27:27.620Z,"71 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-06-05T20:22:52.013Z,58.1891,-155.2812,0,1.2,ml,,,,0.42,ak,ak02376bvmwh,2023-06-05T20:24:11.142Z,"84 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-05T20:21:22.514Z,58.2026,-155.2978,1.1,2.4,ml,,,,0.33,ak,ak02376bvcwr,2023-06-05T21:09:15.040Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-05T20:15:40.203Z,63.4918,-150.4083,39,1.3,ml,,,,1.42,ak,ak02376bu3z8,2023-06-05T20:17:21.438Z,"Central Alaska",earthquake,,7.7,,,automatic,ak,ak
+2023-06-05T20:15:40.203Z,63.4918,-150.4083,39,1.3,ml,,,,1.42,ak,ak02376bu3z8,2023-06-05T20:17:21.438Z,"65 km E of Denali National Park, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-06-05T20:14:21.600Z,38.8165016,-122.8248367,1.72,0.75,md,6,159,0.008343,0.02,nc,nc73897376,2023-06-05T20:15:56.111Z,"7km NW of The Geysers, CA",earthquake,0.71,0.88,0.3,8,automatic,nc,nc
 2023-06-05T20:09:16.910Z,33.4693333,-116.3786667,9.95,1.09,ml,25,68,0.06673,0.21,ci,ci40479064,2023-06-05T20:12:49.944Z,"22km SSW of La Quinta, CA",earthquake,0.28,0.83,0.141,28,automatic,ci,ci
 2023-06-05T20:04:20.572Z,39.6124,-119.9638,6.9,2,ml,22,67.6,0.005,0.1623,nn,nn00860881,2023-06-05T20:59:00.085Z,"Nevada",earthquake,,0.9,0.19,8,reviewed,nn,nn
