@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-06T17:21:02.890Z,38.8390007,-122.8393326,1.2,0.23,md,8,168,0.003031,0.01,nc,nc73897781,2023-06-06T17:22:39.435Z,"10km NW of The Geysers, CA",earthquake,0.5,0.92,0.11,8,automatic,nc,nc
 2023-06-06T17:11:36.980Z,38.8310013,-122.8170013,1.21,0.76,md,9,64,0.009325,0.02,nc,nc73897771,2023-06-06T17:13:11.918Z,"8km NW of The Geysers, CA",earthquake,0.3,1.12,0.48,11,automatic,nc,nc
-2023-06-06T17:07:15.711Z,39.6132,-119.9846,13.2,1.4,ml,8,113.28,0.155,0.1027,nn,nn00860913,2023-06-06T17:09:08.390Z,"7 km S of Cold Springs, Nevada",earthquake,,1.3,0.21,4,automatic,nn,nn
+2023-06-06T17:07:16.294Z,39.6227,-119.9713,8.4,1.4,ml,10,92.61,0.117,0.0928,nn,nn00860913,2023-06-06T17:33:32.949Z,"6 km S of Cold Springs, Nevada",earthquake,,2.7,0.21,2,reviewed,nn,nn
 2023-06-06T16:54:47.600Z,19.1825008392334,-155.496337890625,33.7200012207031,2.01,ml,48,80,,0.189999998,hv,hv73442662,2023-06-06T17:00:19.070Z,"2 km SW of Pāhala, Hawaii",earthquake,0.53,0.970000029,3.63,15,automatic,hv,hv
 2023-06-06T16:36:19.190Z,35.80116667,-94.7515,0,1.52,ml,39,89,0.4292157732,0.45,ok,ok2023lahj,2023-06-06T16:47:57.810Z,"1 km ESE of Rocky Mountain, Oklahoma",quarry blast,,0.5,0.21,10,reviewed,ok,ok
 2023-06-06T16:25:56.656Z,49.6739,155.6475,83.306,4.4,mb,43,142,3.671,0.54,us,us7000k6nk,2023-06-06T17:13:58.040Z,"116 km SSW of Severo-Kuril’sk, Russia",earthquake,5.47,8.183,0.093,33,reviewed,us,us
@@ -18,11 +18,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T14:54:20.350Z,38.8076668,-122.8153305,3.41,0.75,md,13,75,0.01089,0.02,nc,nc73897736,2023-06-06T15:11:19.503Z,"6km WNW of The Geysers, CA",earthquake,0.46,0.75,0.04,15,automatic,nc,nc
 2023-06-06T14:50:47.285Z,58.2628,-155.1198,1.1,0.7,ml,,,,0.22,ak,ak02377w0dg8,2023-06-06T14:51:46.559Z,"86 km NNW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-06T14:44:28.750Z,33.8746667,-116.905,13.28,0.95,ml,30,65,0.1793,0.16,ci,ci40479408,2023-06-06T14:48:17.798Z,"6km SSW of Banning, CA",earthquake,0.25,0.71,0.209,26,automatic,ci,ci
-2023-06-06T14:43:57.860Z,38.8196678,-122.8223343,1.99,1.94,md,39,43,0.0105,0.04,nc,nc73897731,2023-06-06T17:09:15.234Z,"7km NW of The Geysers, CA",earthquake,0.16,0.25,0.16,38,automatic,nc,nc
+2023-06-06T14:43:57.850Z,38.8201667,-122.8226667,2.22,1.85,md,63,35,0.0101,0.03,nc,nc73897731,2023-06-06T17:35:18.777Z,"8km NW of The Geysers, CA",earthquake,0.11,0.17,0.194,58,reviewed,nc,nc
 2023-06-06T14:39:06.749Z,63.1234,-151.531,0,1.7,ml,,,,1.21,ak,ak02377vxx9c,2023-06-06T14:41:53.313Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-06T14:19:26.213Z,58.2545,-155.1077,9.9,0.8,ml,,,,0.31,ak,ak02377vtoml,2023-06-06T14:21:10.760Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-06T14:17:39.197Z,0.7519,126.4113,35.312,4.7,mb,63,55,0.956,0.85,us,us7000k6m9,2023-06-06T14:46:40.040Z,"108 km W of Ternate, Indonesia",earthquake,7.05,2.058,0.073,57,reviewed,us,us
 2023-06-06T13:56:27.129Z,62.1558,-152.1174,107.4,1.8,ml,,,,0.42,ak,ak02377vg6l4,2023-06-06T13:59:03.582Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-06T13:55:35.689Z,36.5557,-116.2515,6.9,0,ml,6,162.29,0.106,0.0897,nn,nn00860919,2023-06-06T17:33:34.983Z,"45 km NNW of Pahrump, Nevada",earthquake,,4.8,0.05,2,reviewed,nn,nn
 2023-06-06T13:49:42.071Z,36.9788,-116.2741,10.8,0.3,ml,11,87.18,0.036,0.3368,nn,nn00860910,2023-06-06T13:51:27.678Z,"43 km E of Beatty, Nevada",earthquake,,0.8,0.14,7,automatic,nn,nn
 2023-06-06T13:42:45.690Z,38.8101654,-122.760498,-0.63,0.77,md,8,105,0.009546,0.02,nc,nc73897721,2023-06-06T16:14:14.901Z,"4km WSW of Cobb, CA",earthquake,0.34,1.2,0.23,10,automatic,nc,nc
 2023-06-06T13:41:12.280Z,35.1995,-118.6026667,5.77,1.31,ml,21,46,0.07723,0.14,ci,ci40479360,2023-06-06T13:44:47.918Z,"16km WNW of Tehachapi, CA",earthquake,0.25,0.98,0.165,20,automatic,ci,ci
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T18:01:06.169Z,23.1783,-100.1556,10,4.2,mb,78,95,2.259,1.19,us,us7000k6gw,2023-06-05T19:05:53.040Z,"25 km NNW of Lázaro Cárdenas, Mexico",earthquake,7.01,1.894,0.032,276,reviewed,us,us
 2023-06-05T17:50:48.899Z,34.39783333,-96.84966667,0,1.35,ml,41,179,0.3383336074,0.44,ok,ok2023kyoh,2023-06-06T12:46:40.115Z,"2 km WSW of Mill Creek, Oklahoma",quarry blast,,0.7,0.21,17,reviewed,ok,ok
 2023-06-05T17:45:39.450Z,34.47083333,-96.851,0,1.37,ml,42,175,0.2681473803,0.37,ok,ok2023kyod,2023-06-06T12:35:13.429Z,"7 km NNW of Mill Creek, Oklahoma",quarry blast,,0.6,0.25,14,reviewed,ok,ok
-2023-06-05T17:34:10.657Z,18.4615,145.5893,163.784,4.4,mb,48,99,3.208,0.76,us,us7000k6gp,2023-06-05T18:42:15.040Z,"Pagan region, Northern Mariana Islands",earthquake,12.16,8.767,0.062,75,reviewed,us,us
-2023-06-05T17:31:20.295Z,61.6151,-150.0924,35.2,1.6,ml,,,,0.63,ak,ak02376a5731,2023-06-05T17:33:23.816Z,"12 km NW of Big Lake, Alaska",earthquake,,3.5,,,automatic,ak,ak
