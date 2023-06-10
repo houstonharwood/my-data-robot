@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-10T17:02:13.163Z,36.90107727,-97.55882263,2.839118004,2.16,ml,40,71.43958855,0.1290924847,0.4051365072,ok,ok2023lhqf,2023-06-10T17:06:25.069Z,"9 km ESE of Renfrow, Oklahoma",earthquake,2.212465949,1.628092879,0.2,34,automatic,ok,ok
+2023-06-10T17:26:43.170Z,38.8370018,-122.8033371,2.26,0.22,md,9,103,0.01024,0.01,nc,nc73899601,2023-06-10T17:28:19.045Z,"7km WNW of Cobb, CA",earthquake,0.41,1.16,0.12,9,automatic,nc,nc
+2023-06-10T17:02:13.163Z,36.90107727,-97.55882263,2.839118004,2.16,ml,40,71.43958855,0.1290924847,0.4051365072,ok,ok2023lhqf,2023-06-10T17:06:25.069Z,"Oklahoma",earthquake,2.212465949,1.628092879,0.2,34,automatic,ok,ok
 2023-06-10T16:59:57.330Z,33.3903333,-116.8688333,2.38,0.54,ml,17,56,0.03699,0.27,ci,ci40482728,2023-06-10T17:03:28.652Z,"4km N of Palomar Observatory, CA",earthquake,0.49,0.64,0.066,12,automatic,ci,ci
 2023-06-10T16:26:11.050Z,38.7988319,-122.7788315,0.5,0.29,md,7,150,0.009071,0.02,nc,nc73899581,2023-06-10T16:57:18.267Z,"3km NW of The Geysers, CA",earthquake,0.37,1.79,0.1,8,automatic,nc,nc
 2023-06-10T16:25:09.399Z,65.9071,-166.2879,15,3.3,ml,,,,1.22,ak,ak0237ej76w5,2023-06-10T16:50:03.040Z,"40 km SSW of Shishmaref, Alaska",earthquake,,248.9,,,automatic,ak,ak
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T15:16:10.250Z,18.542,-64.8136666666667,76.59,3.15,md,11,269,0.2131,0.13,pr,pr71412873,2023-06-10T15:44:34.082Z,"23 km N of Cruz Bay, U.S. Virgin Islands",earthquake,0.92,0.64,0.110296718865702,9,reviewed,pr,pr
 2023-06-10T15:07:44.863Z,-5.5951,104.1912,80.858,4.7,mb,30,174,1.738,0.67,us,us7000k7n9,2023-06-10T16:29:23.040Z,"114 km SW of Kotabumi, Indonesia",earthquake,11.74,8.836,0.102,32,reviewed,us,us
 2023-06-10T15:07:43.831Z,58.0294,-151.5245,38,2.1,ml,,,,0.51,ak,ak0237eihyz3,2023-06-10T15:10:22.809Z,"Kodiak Island region, Alaska",earthquake,,4,,,automatic,ak,ak
-2023-06-10T15:06:46.970Z,-21.6179,-69.5058,10,4.6,mb,24,101,0.303,1,us,us7000k7n6,2023-06-10T16:38:30.040Z,"82 km NNE of María Elena, Chile",earthquake,5.31,1.835,0.107,26,reviewed,us,us
+2023-06-10T15:06:46.970Z,-21.6179,-69.5058,10,4.6,mb,24,101,0.303,1,us,us7000k7n6,2023-06-10T16:38:30.040Z,"Tarapaca-Antofagasta border region, Chile",earthquake,5.31,1.835,0.107,26,reviewed,us,us
 2023-06-10T14:58:32.850Z,19.1975002288818,-155.464828491211,30.8899993896484,2.06,ml,46,108,,0.129999995,hv,hv73448132,2023-06-10T15:04:02.930Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.47,0.639999986,4.8,6,automatic,hv,hv
 2023-06-10T14:50:38.771Z,11.7931,125.8935,40.935,4.9,mb,54,122,4.704,0.9,us,us7000k7n5,2023-06-10T15:18:18.040Z,"47 km E of Sulat, Philippines",earthquake,11.39,7.473,0.056,105,reviewed,us,us
 2023-06-10T14:37:38.400Z,44.2866666666667,-115.187666666667,17.67,2.19,ml,15,104,0.8302,0.13,mb,mb90017548,2023-06-10T15:17:37.640Z,"21 km WNW of Stanley, Idaho",earthquake,0.41,0.73,0.176864396594889,20,reviewed,mb,mb
@@ -203,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T17:58:38.500Z,38.8186684,-122.8218307,2.23,1.08,md,22,48,0.01033,0.02,nc,nc73899186,2023-06-09T20:41:15.358Z,"7km NW of The Geysers, CA",earthquake,0.21,0.37,0.15,23,automatic,nc,nc
 2023-06-09T17:48:19.129Z,34.38416667,-96.81633333,0,1.49,ml,60,153,0.3590295462,0.43,ok,ok2023lfwf,2023-06-09T17:57:03.574Z,"Oklahoma",quarry blast,,0.5,0.22,21,reviewed,ok,ok
 2023-06-09T17:45:40.070Z,38.8214989,-122.8531647,2.6,1.03,md,15,91,0.006696,0.01,nc,nc73899181,2023-06-09T20:15:12.216Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.56,0.33,15,automatic,nc,nc
-2023-06-09T17:32:36.210Z,56.3023333333333,-159.4275,10.6,0.83,ml,5,285,,0.25,av,av91918266,2023-06-09T21:33:27.790Z,"41 km W of Chignik Lake, Alaska",earthquake,1.7,3.9,0.116814866870692,5,reviewed,av,av
-2023-06-09T17:28:29.030Z,11.9765,-88.0502,42.624,4.4,mb,97,145,1.235,0.77,us,us7000k7gl,2023-06-09T18:51:58.040Z,"107 km SW of Jiquilillo, Nicaragua",earthquake,6.62,4.505,0.058,89,reviewed,us,us
