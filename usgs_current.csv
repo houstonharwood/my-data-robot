@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-10T06:18:02.417Z,35.34374237,-98.0737381,6.747761726,1.73,ml,10,100.6142578,0.08820143342,0.5748988088,ok,ok2023lguy,2023-06-10T06:20:37.392Z,"12 km WNW of Minco, Oklahoma",earthquake,4.648227079,4.648414073,0.35,7,automatic,ok,ok
-2023-06-10T06:15:39.210Z,38.7856674,-122.73983,0.73,1.1,md,9,119,0.003432,0.01,nc,nc73899446,2023-06-10T06:25:10.679Z,"2km ENE of The Geysers, CA",earthquake,0.32,0.63,0.15,8,automatic,nc,nc
+2023-06-10T06:15:39.210Z,38.7856674,-122.73983,0.73,1.1,md,9,119,0.003432,0.01,nc,nc73899446,2023-06-10T06:33:16.556Z,"2km ENE of The Geysers, CA",earthquake,0.32,0.63,0.15,8,automatic,nc,nc
 2023-06-10T06:09:56.540Z,39.7574997,-120.2938309,1.36,2.08,md,11,84,0.2971,0.06,nc,nc73899441,2023-06-10T06:16:11.465Z,"10km NNW of Loyalton, CA",earthquake,0.43,2.93,0.18,5,automatic,nc,nc
 2023-06-10T06:05:14.721Z,64.9427,-148.972,24.7,1.8,ml,,,,0.39,ak,ak0237ed4kuo,2023-06-10T06:06:30.673Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-10T05:39:47.683Z,64.9517,-147.3155,0,1.2,ml,,,,0.54,ak,ak0237ecqi5i,2023-06-10T05:42:37.673Z,"14 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T20:53:07.175Z,58.2599,-155.1167,2.9,3.5,ml,,,,0.57,ak,ak0237cy7kho,2023-06-10T00:49:59.030Z,"86 km NNW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-06-09T20:53:04.783Z,58.2651,-155.163,5,2.9,ml,,,,0.59,ak,ak0237cy7k8j,2023-06-09T23:24:59.279Z,"88 km NNW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-06-09T20:48:55.200Z,19.1863327026367,-155.480163574219,28.8799991607666,2.12,ml,34,89,,0.150000006,hv,hv73447502,2023-06-09T20:54:29.610Z,"1 km S of Pāhala, Hawaii",earthquake,0.58,0.99000001,4.6,4,automatic,hv,hv
-2023-06-09T20:48:44.590Z,36.0561667,-120.1311667,11.62,1.8,md,35,109,0.138,0.06,nc,nc73899276,2023-06-10T06:19:19.809Z,"6km N of Avenal, CA",earthquake,0.52,0.55,0.149,28,reviewed,nc,nc
+2023-06-09T20:48:44.590Z,36.0561667,-120.1311667,11.62,1.8,md,35,109,0.138,0.06,nc,nc73899276,2023-06-10T06:33:10.555Z,"6km N of Avenal, CA",earthquake,0.52,0.55,0.149,28,reviewed,nc,nc
 2023-06-09T20:43:59.974Z,63.4536,-150.8132,14.4,1.4,ml,,,,0.86,ak,ak0237cy5jj1,2023-06-09T20:46:13.947Z,"46 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-09T20:43:28.771Z,-47.3232,-12.7038,10,5.5,mb,111,60,16.518,0.65,us,us7000k7id,2023-06-09T22:46:52.323Z,"southern Mid-Atlantic Ridge",earthquake,10.34,1.852,0.05,137,reviewed,us,us
 2023-06-09T20:38:44.350Z,38.8404999,-122.8061676,2.04,1.1,md,22,73,0.01253,0.04,nc,nc73899271,2023-06-10T01:09:16.120Z,"8km WNW of Cobb, CA",earthquake,0.22,0.42,0.14,24,automatic,nc,nc
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T06:49:06.940Z,39.2716667,-123.3105,5.06,1.12,md,14,75,0.06623,0.07,nc,nc73899001,2023-06-09T23:24:12.494Z,"9km W of Redwood Valley, CA",earthquake,0.21,1,0.27,13,reviewed,nc,nc
 2023-06-09T06:43:11.090Z,19.6926,-65.6526,33,3.81,md,13,274,1.4336,0.27,pr,pr2023160001,2023-06-09T07:11:27.420Z,"141 km N of Suárez, Puerto Rico",earthquake,1.76,18.23,0.07,4,reviewed,pr,pr
 2023-06-09T06:40:12.840Z,17.95,-66.9778333333333,9.99,3.07,md,10,213,0.06608,0.1,pr,pr71412743,2023-06-09T10:15:36.936Z,"7 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.77,0.243240291458832,11,reviewed,pr,pr
-2023-06-09T06:36:05.710Z,19.0641666666667,-66.457,37.18,3.38,md,16,259,0.588,0.27,pr,pr71412733,2023-06-09T07:25:37.680Z,"66 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.23,5.07,0.0231130035327411,5,reviewed,pr,pr
