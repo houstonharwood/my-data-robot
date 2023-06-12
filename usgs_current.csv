@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-12T14:32:17.156Z,61.5615,-148.3562,11.4,0.9,ml,,,,0.3,ak,ak0237ht4j4j,2023-06-12T14:34:44.955Z,"26 km SSE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-12T14:20:05.213Z,65.4158,-144.7842,0,2.4,ml,,,,0.71,ak,ak0237ht1xop,2023-06-12T14:21:55.410Z,"17 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-12T14:20:05.213Z,65.4158,-144.7842,0,2.4,ml,,,,0.71,ak,ak0237ht1xop,2023-06-12T14:41:29.040Z,"17 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-12T14:15:14.930Z,33.5106667,-117.0878333,12.36,1.53,ml,50,35,0.04405,0.2,ci,ci40483968,2023-06-12T14:18:51.367Z,"6km ENE of Temecula, CA",earthquake,0.21,0.51,0.155,26,automatic,ci,ci
 2023-06-12T13:51:21.703Z,-20.7987,-178.7632,607.923,4.5,mb,80,78,3.347,0.73,us,us7000k7z4,2023-06-12T14:31:45.040Z,"Fiji region",earthquake,11.32,6.004,0.038,200,reviewed,us,us
-2023-06-12T13:47:54.140Z,36.9603348,-121.6070023,9.17,2.61,md,60,33,0.05288,0.19,nc,nc73900336,2023-06-12T14:34:10.978Z,"6km SW of Gilroy, CA",earthquake,0.29,0.66,0.1,69,automatic,nc,nc
+2023-06-12T13:47:54.140Z,36.9603348,-121.6070023,9.17,2.61,md,60,33,0.05288,0.19,nc,nc73900336,2023-06-12T14:36:04.707Z,"6km SW of Gilroy, CA",earthquake,0.29,0.66,0.1,69,automatic,nc,nc
 2023-06-12T13:47:35.880Z,35.9341667,-117.678,0.22,1.7,ml,17,126,0.1438,0.19,ci,ci40483928,2023-06-12T13:51:18.146Z,"21km E of Little Lake, CA",earthquake,0.35,0.88,0.13,15,automatic,ci,ci
 2023-06-12T13:39:36.330Z,35.7001667,-117.4438333,3.85,1.34,ml,15,150,0.03863,0.19,ci,ci40483912,2023-06-12T13:43:11.618Z,"8km SSW of Searles Valley, CA",earthquake,0.55,1.18,0.168,12,automatic,ci,ci
 2023-06-12T13:27:36.030Z,33.2128333,-116.0671667,2.9,0.73,ml,13,72,0.08463,0.18,ci,ci40483888,2023-06-12T13:31:02.924Z,"10km NE of Ocotillo Wells, CA",earthquake,0.71,1.32,0.091,9,automatic,ci,ci
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T13:16:15.640Z,44.2996666666667,-115.1575,9.94,2.3,ml,14,66,0.8072,0.24,mb,mb90017688,2023-06-12T14:34:11.400Z,"19 km WNW of Stanley, Idaho",earthquake,0.52,1.05,0.285441297980352,28,reviewed,mb,mb
 2023-06-12T13:14:45.844Z,64.4881,-150.6089,0,1.8,ml,,,,1.1,ak,ak0237hsfax4,2023-06-12T13:17:08.849Z,"57 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-12T12:46:10.167Z,64.49,-150.3734,6.5,1.5,ml,,,,0.92,ak,ak0237hs0nh4,2023-06-12T12:49:06.273Z,"58 km SSE of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-12T12:38:26.220Z,44.681,-114.2466,6.295,3.7,mwr,38,31,0.602,0.62,us,us7000k7yj,2023-06-12T14:21:57.753Z,"19 km N of Challis, Idaho",earthquake,4.4,5.974,0.033,86,reviewed,us,us
+2023-06-12T12:38:26.220Z,44.681,-114.2466,6.295,3.7,mwr,38,31,0.602,0.62,us,us7000k7yj,2023-06-12T14:41:59.419Z,"19 km N of Challis, Idaho",earthquake,4.4,5.974,0.033,86,reviewed,us,us
 2023-06-12T12:37:20.162Z,-18.9443,-67.8935,10,4.8,mb,41,72,1.424,0.59,us,us7000k7yi,2023-06-12T12:58:09.040Z,"86 km ENE of Colchane, Chile",earthquake,3.94,1.914,0.065,73,reviewed,us,us
 2023-06-12T12:33:24.100Z,35.6601667,-117.5156667,6.44,0.99,ml,11,117,0.07504,0.12,ci,ci40483840,2023-06-12T12:49:27.225Z,"15km ENE of Ridgecrest, CA",earthquake,0.35,1.05,0.044,7,reviewed,ci,ci
 2023-06-12T12:28:34.050Z,35.7188339,-121.071167,3.91,1.34,md,8,95,0.07642,0.01,nc,nc73900321,2023-06-12T13:34:12.624Z,"14km NE of San Simeon, CA",earthquake,0.46,1.29,0.09,6,automatic,nc,nc
@@ -136,5 +136,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T14:50:33.410Z,38.840332,-122.8253326,1.42,0.74,md,7,107,0.008119,0.01,nc,nc73899971,2023-06-11T17:28:13.121Z,"9km WNW of Cobb, CA",earthquake,0.71,2.35,0.17,8,automatic,nc,nc
 2023-06-11T14:49:25.880Z,38.8261681,-122.7956696,2.56,0.96,md,7,113,0.01159,0.01,nc,nc73899966,2023-06-11T17:01:13.107Z,"6km W of Cobb, CA",earthquake,0.91,2.5,0.26,9,automatic,nc,nc
 2023-06-11T14:48:42.150Z,38.779335,-122.7576675,1.51,0.64,md,8,140,0.01067,0.02,nc,nc73899961,2023-06-11T16:35:17.943Z,"0km NNW of The Geysers, CA",earthquake,0.8,0.79,0.19,8,automatic,nc,nc
-2023-06-11T14:40:47.220Z,34.2316667,-117.4963333,8.55,0.87,ml,20,66,0.01174,0.17,ci,ci40483360,2023-06-11T18:27:01.683Z,"3km S of Lytle Creek, CA",earthquake,0.28,0.46,0.177,3,reviewed,ci,ci
-2023-06-11T14:37:14.210Z,38.7815018,-122.7576675,1.55,0.94,md,11,100,0.01646,0.03,nc,nc73899956,2023-06-11T16:08:14.630Z,"0km NNW of The Geysers, CA",earthquake,0.29,0.71,0.35,11,automatic,nc,nc
