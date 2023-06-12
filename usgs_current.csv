@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T17:04:10.340Z,33.038,-114.993,1.32,1.5,ml,13,64,0.06679,0.32,ci,ci40484072,2023-06-12T17:07:57.849Z,"44km NE of Holtville, CA",earthquake,0.68,1.53,0.188,11,automatic,ci,ci
 2023-06-12T16:34:47.377Z,58.2145,-155.3593,1.1,0.8,ml,,,,0.82,ak,ak0237hubw69,2023-06-12T16:37:04.311Z,"89 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-06-12T16:32:54.564Z,58.1975,-155.3743,3.1,1.4,ml,,,,0.75,ak,ak0237hubhby,2023-06-12T16:34:54.621Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-12T16:31:43.458Z,62.6257,-143.0967,2.7,1.9,ml,,,,0.94,ak,ak0237hub8q1,2023-06-12T16:33:56.972Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-12T16:09:20.790Z,35.6875,-117.531,10.52,2.17,ml,24,128,0.1788,0.16,ci,ci40484056,2023-06-12T16:20:39.530Z,"14km SW of Searles Valley, CA",earthquake,0.34,0.7,0.148,26,automatic,ci,ci
 2023-06-12T15:59:47.770Z,18.0765,-66.9473333333333,9.07,1.36,md,4,164,0.1199,0.23,pr,pr71413128,2023-06-12T16:14:46.480Z,"1 km E of Sabana Grande, Puerto Rico",earthquake,2.95,12.97,0.019134704907513,3,reviewed,pr,pr
 2023-06-12T15:58:22.078Z,65.4121,-144.7769,0,1.9,ml,,,,0.8,ak,ak0237htvjsv,2023-06-12T16:00:21.628Z,"17 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-12T15:43:12.581Z,39.613,-119.9829,6.3,1.4,ml,10,123.95,0.017,0.1004,nn,nn00861138,2023-06-12T15:45:46.479Z,"7 km S of Cold Springs, Nevada",earthquake,,0.5,0.14,7,automatic,nn,nn
+2023-06-12T15:43:13.181Z,39.6196,-119.9704,6.6,1.4,ml,11,109.69,0.014,0.1357,nn,nn00861138,2023-06-12T17:08:04.992Z,"6 km S of Cold Springs, Nevada",earthquake,,1.1,0.1,8,reviewed,nn,nn
 2023-06-12T15:35:33.007Z,61.3601,-151.678,90.7,2.8,ml,,,,0.48,ak,ak0237htqn6x,2023-06-12T16:15:16.040Z,"40 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-12T15:15:19.939Z,51.3249,-179.1377,24.1,1.6,ml,,,,0.61,ak,ak0237htmcea,2023-06-12T17:01:21.565Z,"183 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-06-12T15:13:15.642Z,36.3812294,-97.63763428,3.946743965,1.61,ml,15,67.98384094,0.1385554969,0.3414923274,ok,ok2023lldl,2023-06-12T15:16:13.004Z,"Oklahoma",earthquake,2.925970392,2.597813897,0.23,5,automatic,ok,ok
 2023-06-12T15:12:58.600Z,19.3368339538574,-155.172836303711,1.3400000333786,2.26,ml,40,161,,0.239999995,hv,hv73449372,2023-06-12T15:18:28.430Z,"13 km SSE of Volcano, Hawaii",earthquake,0.37,0.5,0.24,11,automatic,hv,hv
 2023-06-12T15:12:50.470Z,19.3571662902832,-155.171661376953,4.28000020980835,2.26,ml,10,124,,0.119999997,hv,hv73449367,2023-06-12T15:18:20.880Z,"11 km SE of Volcano, Hawaii",earthquake,0.74,1.36000001,0.45,11,automatic,hv,hv
@@ -99,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T02:09:25.113Z,63.2379,-151.6612,8,1.5,ml,,,,0.87,ak,ak0237hluf33,2023-06-12T02:12:24.554Z,"33 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-12T02:04:32.052Z,39.6146,-119.9693,6.5,2.4,ml,29,67.91,0.01,0.1682,nn,nn00861124,2023-06-12T15:51:09.138Z,"7 km S of Cold Springs, Nevada",earthquake,,0.9,0.14,9,reviewed,nn,nn
 2023-06-12T01:49:47.590Z,33.2721667,-118.2315,9.71,1.63,ml,25,208,0.1062,0.29,ci,ci40483600,2023-06-12T13:25:04.894Z,"12km SE of Avalon, CA",earthquake,0.66,1.41,0.084,6,reviewed,ci,ci
-2023-06-12T01:49:03.842Z,36.6477,-116.2705,3.1,1.1,ml,24,83.91,0.055,0.2511,nn,nn00861122,2023-06-12T01:51:00.888Z,"52 km ESE of Beatty, Nevada",earthquake,,0.4,0.86,20,automatic,nn,nn
+2023-06-12T01:49:04.362Z,36.6539,-116.2721,7.1,1,ml,33,83.09,0.054,0.119,nn,nn00861122,2023-06-12T17:01:49.793Z,"51 km ESE of Beatty, Nevada",earthquake,,0.6,0.32,15,reviewed,nn,nn
 2023-06-12T01:36:54.540Z,36.6432,-116.2752,10.2,0.5,ml,9,186.82,0.051,0.2171,nn,nn00861121,2023-06-12T01:38:49.884Z,"52 km SE of Beatty, Nevada",earthquake,,1.2,0.13,5,automatic,nn,nn
 2023-06-12T01:23:43.783Z,24.1392,143.0614,10,5,mww,124,81,10.869,0.94,us,us7000k7x0,2023-06-12T01:48:11.040Z,"Volcano Islands, Japan region",earthquake,7.34,1.858,0.075,17,reviewed,us,us
 2023-06-12T01:11:02.572Z,35.42074203,-98.09402466,2.802950382,2.04,ml,13,90.79144287,0.05298443884,0.9434529553,ok,ok2023lkbv,2023-06-12T01:13:40.469Z,"14 km WNW of Union City, Oklahoma",earthquake,3.939074873,2.625823484,0.22,13,automatic,ok,ok
@@ -115,6 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T22:29:49.522Z,58.4863,-154.9231,101.7,1.2,ml,,,,0.59,ak,ak0237gac2w8,2023-06-11T22:32:21.769Z,"103 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-11T22:21:43.100Z,17.9076666666667,-66.8311666666667,13.06,2.29,md,7,234,0.08116,0.08,pr,pr71413063,2023-06-11T22:38:57.180Z,"Puerto Rico region",earthquake,1.09,0.48,0.0328266966863384,4,reviewed,pr,pr
 2023-06-11T21:44:09.299Z,64.5047,-150.3811,22,2,ml,,,,0.72,ak,ak0237g9trxd,2023-06-11T21:45:57.034Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-11T21:37:51.950Z,38.589,-112.5825,4.49,0.89,ml,7,177,0.108,0.04,uu,uu60542006,2023-06-12T17:03:43.210Z,"26 km SSW of Kanosh, Utah",earthquake,1.78,2.51,0.234,2,reviewed,uu,uu
 2023-06-11T21:19:29.979Z,64.7579,-147.8393,6.9,1.4,ml,,,,0.53,ak,ak0237g9ogmd,2023-06-11T21:21:03.996Z,"6 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-11T20:58:54.160Z,58.1773333333333,-155.313333333333,1.91,0.37,ml,4,244,,0.04,av,av91922371,2023-06-11T22:25:51.000Z,"84 km NW of Karluk, Alaska",earthquake,0.65,0.58,0.215415561895648,4,reviewed,av,av
 2023-06-11T20:41:23.840Z,33.5806667,-116.6131667,16.89,0.74,ml,31,43,0.02014,0.13,ci,ci40483512,2023-06-12T15:38:33.334Z,"6km ENE of Anza, CA",earthquake,0.18,0.33,0.15,16,reviewed,ci,ci
