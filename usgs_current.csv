@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-12T12:18:50.392Z,60.3979,-153.0001,147.3,2.5,ml,,,,0.89,ak,ak0237hruqj3,2023-06-12T12:21:13.638Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-12T12:13:12.615Z,60.0508,-152.0711,77,1.7,ml,,,,0.19,ak,ak0237hrtl19,2023-06-12T12:14:52.681Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-06-12T12:33:24.100Z,35.6601667,-117.5156667,6.44,0.99,ml,11,117,0.07504,0.12,ci,ci40483840,2023-06-12T12:36:52.624Z,"15km ENE of Ridgecrest, CA",earthquake,0.35,1.05,0.044,7,automatic,ci,ci
+2023-06-12T12:28:34.050Z,35.7188339,-121.071167,3.91,1.34,md,8,95,0.07642,0.01,nc,nc73900321,2023-06-12T12:43:09.333Z,"14km NE of San Simeon, CA",earthquake,0.46,1.29,0.09,6,automatic,nc,nc
+2023-06-12T12:23:37.040Z,33.9586667,-117.7095,12.88,1.57,ml,49,29,0.04674,0.19,ci,ci40483824,2023-06-12T12:27:11.488Z,"6km SE of Chino Hills, CA",earthquake,0.24,0.51,0.146,26,automatic,ci,ci
+2023-06-12T12:18:50.392Z,60.3979,-153.0001,147.3,2.5,ml,,,,0.89,ak,ak0237hruqj3,2023-06-12T12:21:13.638Z,"75 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-12T12:13:12.615Z,60.0508,-152.0711,77,1.7,ml,,,,0.19,ak,ak0237hrtl19,2023-06-12T12:14:52.681Z,"22 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-06-12T11:37:03.310Z,34.01,-116.7608333,13.38,1.1,ml,28,75,0.09797,0.19,ci,ci40483776,2023-06-12T11:40:33.302Z,"11km NNE of Cabazon, CA",earthquake,0.28,0.86,0.244,29,automatic,ci,ci
 2023-06-12T11:12:17.420Z,38.7938347,-122.7288361,1.78,0.74,md,6,101,0.01225,0.01,nc,nc73900316,2023-06-12T11:32:14.960Z,"3km NE of The Geysers, CA",earthquake,0.59,4.57,0.17,7,automatic,nc,nc
 2023-06-12T11:07:55.150Z,33.6826667,-116.7136667,15.89,0.41,ml,13,106,0.02843,0.19,ci,ci40483760,2023-06-12T11:11:25.139Z,"6km S of Idyllwild, CA",earthquake,0.55,0.68,0.146,4,automatic,ci,ci
 2023-06-12T10:48:14.180Z,33.258,-116.2993333,9.85,0.85,ml,22,94,0.07541,0.19,ci,ci40483752,2023-06-12T10:51:42.032Z,"7km E of Borrego Springs, CA",earthquake,0.41,0.73,0.145,17,automatic,ci,ci
-2023-06-12T10:42:44.180Z,38.5130005,-119.5208359,2.05,2.45,md,9,83,0.07283,0.07,nc,nc73900311,2023-06-12T11:04:10.776Z,"4km W of Walker, CA",earthquake,0.4,2.22,0.42,10,automatic,nc,nc
+2023-06-12T10:42:44.180Z,38.5130005,-119.5208359,2.05,2.45,md,9,83,0.07283,0.07,nc,nc73900311,2023-06-12T12:40:14.316Z,"4km W of Walker, CA",earthquake,0.4,2.22,0.42,10,automatic,nc,nc
 2023-06-12T10:40:19.120Z,19.1700000762939,-155.490829467773,31.3299999237061,1.80999994,md,31,104,,0.129999995,hv,hv73449277,2023-06-12T10:43:34.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.6,0.980000019,0.569999993,7,automatic,hv,hv
 2023-06-12T10:40:13.291Z,59.3696,-152.7937,76.1,1.7,ml,,,,0.31,ak,ak0237hqsi7l,2023-06-12T10:42:31.626Z,"49 km W of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-06-12T10:35:35.060Z,33.1458333,-116.4953333,7.48,0.64,ml,21,74,0.1074,0.24,ci,ci40483744,2023-06-12T10:39:14.277Z,"12km NE of Julian, CA",earthquake,0.49,1.7,0.118,7,automatic,ci,ci
@@ -33,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T06:20:56.468Z,64.0618,-146.7581,16.3,1.4,ml,,,,1.32,ak,ak0237hoaksu,2023-06-12T06:22:56.672Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-12T06:11:48.259Z,-8.5689,157.261,10,5,mb,32,57,2.791,1.11,us,us7000k7xr,2023-06-12T06:32:06.040Z,"69 km SE of Gizo, Solomon Islands",earthquake,5.23,1.911,0.113,25,reviewed,us,us
 2023-06-12T06:09:17.200Z,34.095,-117.324,17.31,1.27,ml,44,47,0.006297,0.21,ci,ci40483704,2023-06-12T06:19:53.100Z,"2km NNW of Colton, CA",earthquake,0.3,0.57,0.187,29,automatic,ci,ci
+2023-06-12T05:45:59.520Z,35.2415,-84.2935,6.21,1.78,md,7,104,0.1567,0.18,se,se60500828,2023-06-12T12:42:39.710Z,"Tennessee",earthquake,0.65,4.11,0.0446448577643859,5,reviewed,se,se
 2023-06-12T05:37:17.819Z,39.6105,-119.9876,4.8,1.1,ml,9,125.18,0.021,0.1887,nn,nn00861130,2023-06-12T05:39:11.601Z,"Nevada",earthquake,,0.7,0.45,6,automatic,nn,nn
 2023-06-12T05:32:03.630Z,33.2655,-116.4258333,3.11,0.66,ml,13,76,0.007749,0.15,ci,ci40483688,2023-06-12T05:35:36.731Z,"5km WNW of Borrego Springs, CA",earthquake,0.39,0.83,0.107,11,automatic,ci,ci
 2023-06-12T05:06:22.210Z,38.824501,-122.7973328,2.85,0.73,md,10,75,0.01658,0.01,nc,nc73900251,2023-06-12T05:34:11.649Z,"6km NW of The Geysers, CA",earthquake,0.34,0.61,0.51,9,automatic,nc,nc
@@ -133,6 +137,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T12:55:45.842Z,62.2575,-151.1301,69.7,1.7,ml,,,,0.42,ak,ak0237g4jb6g,2023-06-11T12:57:36.728Z,"32 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-11T12:48:55.930Z,40.2218323,-121.1561661,-0.35,2.49,md,14,80,0.3321,0.26,nc,nc73899941,2023-06-11T14:50:13.174Z,"2km N of Prattville, CA",earthquake,0.68,12.66,0.17,9,automatic,nc,nc
 2023-06-11T12:47:01.884Z,-7.416,120.2871,399.853,4.4,mb,54,50,2.28,0.94,us,us7000k7tx,2023-06-11T13:02:05.040Z,"127 km NNE of Labuan Bajo, Indonesia",earthquake,6.55,7.124,0.084,41,reviewed,us,us
-2023-06-11T12:44:01.610Z,19.1319999694824,-155.408004760742,31.75,1.86000001,md,45,180,,0.119999997,hv,hv73448742,2023-06-11T12:47:19.200Z,"10 km SE of Pāhala, Hawaii",earthquake,0.75,0.899999976,1.25999999,10,automatic,hv,hv
-2023-06-11T12:35:40.500Z,33.9925,-116.8178333,21.93,1.02,ml,28,37,0.1406,0.28,ci,ci40483280,2023-06-11T12:39:15.328Z,"9km NNW of Cabazon, CA",earthquake,0.46,1.02,0.182,25,automatic,ci,ci
-2023-06-11T12:25:38.663Z,24.2047,122.4863,51.676,4.7,mwr,65,74,0.546,0.57,us,us7000k7tt,2023-06-11T12:54:16.861Z,"59 km WSW of Yonakuni, Japan",earthquake,3.01,5.652,0.065,23,reviewed,us,us
