@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-13T14:08:21.540Z,38.8088341,-122.8259964,1.69,0.77,md,6,159,0.002486,0.01,nc,nc73900686,2023-06-13T14:09:55.828Z,"7km WNW of The Geysers, CA",earthquake,0.66,1.07,0.15,7,automatic,nc,nc
-2023-06-13T14:06:39.490Z,38.769001,-122.7378311,0.78,1.19,md,12,92,0.01255,0.03,nc,nc73900681,2023-06-13T14:08:16.065Z,"2km ESE of The Geysers, CA",earthquake,0.35,0.5,0.25,12,automatic,nc,nc
+2023-06-13T14:06:39.490Z,38.769001,-122.7378311,0.78,1.19,md,12,92,0.01255,0.03,nc,nc73900681,2023-06-13T14:24:16.449Z,"2km ESE of The Geysers, CA",earthquake,0.35,0.5,0.25,12,automatic,nc,nc
 2023-06-13T13:59:38.030Z,19.1854991912842,-155.483840942383,30.9799995422363,1.83000004,md,38,77,,0.109999999,hv,hv73450157,2023-06-13T14:02:48.980Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.56,0.779999971,1.72000003,10,automatic,hv,hv
 2023-06-13T13:29:05.890Z,38.8066673,-122.8141632,3.56,0.77,md,21,60,0.01194,0.06,nc,nc73900676,2023-06-13T13:46:12.211Z,"6km WNW of The Geysers, CA",earthquake,0.32,0.63,0.31,22,automatic,nc,nc
 2023-06-13T13:23:32.200Z,19.1798324584961,-155.486831665039,29.3899993896484,1.80999994,md,29,85,,0.100000001,hv,hv73450137,2023-06-13T13:26:48.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.5,1,0.899999976,3,automatic,hv,hv
@@ -84,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T02:47:18.260Z,35.7293333,-117.5676667,11.93,0.86,ml,10,181,0.1336,0.2,ci,ci40484376,2023-06-13T02:50:46.159Z,"15km WSW of Searles Valley, CA",earthquake,0.82,1.48,0.066,4,automatic,ci,ci
 2023-06-13T02:42:52.990Z,19.3038330078125,-155.217666625977,2.19000005722046,1.85,ml,28,95,,0.180000007,hv,hv73449822,2023-06-13T02:48:24.610Z,"15 km S of Volcano, Hawaii",earthquake,0.37,0.910000026,0.29,5,automatic,hv,hv
 2023-06-13T02:37:13.082Z,61.7219,-151.3974,78.1,1.5,ml,,,,0.34,ak,ak0237j9jqr7,2023-06-13T02:39:29.772Z,"29 km S of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-06-13T02:33:15.930Z,33.534,-116.6826667,9.67,0.64,ml,33,40,0.05436,0.11,ci,ci40484360,2023-06-13T14:23:53.966Z,"2km SSW of Anza, CA",earthquake,0.14,0.28,0.146,14,reviewed,ci,ci
 2023-06-13T02:30:07.357Z,31.69028671,-104.30082,7.494091797,2.9,ml,14,127,0.03588692152,0.2,tx,tx2023llzz,2023-06-13T02:46:46.419Z,"54 km S of Whites City, New Mexico",earthquake,0.9629822293,0.9021232876,0.1,7,reviewed,tx,tx
 2023-06-13T02:20:22.410Z,17.9555,-66.9641666666667,13.47,2.55,md,12,205,0.07745,0.09,pr,pr71413183,2023-06-13T02:34:05.660Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.29,0.102090243704097,6,reviewed,pr,pr
 2023-06-13T02:07:40.330Z,44.352,-115.182166666667,4.8,1.22,ml,8,125,0.8208,0.14,mb,mb90017973,2023-06-13T13:42:47.590Z,"24 km NW of Stanley, Idaho",earthquake,0.5,3.68,0.134237793731496,7,reviewed,mb,mb
@@ -177,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T14:45:44.345Z,65.3571,-144.7991,0,1.7,ml,,,,0.59,ak,ak0237ht7dlt,2023-06-12T14:48:39.031Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-12T14:41:27.110Z,35.0896667,-119.1358333,12.51,1.59,ml,27,85,0.05275,0.23,ci,ci40483992,2023-06-12T21:04:23.820Z,"24km E of Maricopa, CA",earthquake,0.32,1.11,0.125,14,reviewed,ci,ci
 2023-06-12T14:32:17.156Z,61.5615,-148.3562,11.4,0.9,ml,,,,0.3,ak,ak0237ht4j4j,2023-06-12T14:34:44.955Z,"26 km SSE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-12T14:20:05.213Z,65.4158,-144.7842,0,2.4,ml,,,,0.71,ak,ak0237ht1xop,2023-06-12T14:41:29.040Z,"17 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
