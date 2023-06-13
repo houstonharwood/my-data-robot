@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-13T10:50:22.280Z,64.465,-163.6943,10,4.1,ml,,,,0.79,ak,ak0237jee0j7,2023-06-13T11:02:15.040Z,"27 km SSW of White Mountain, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-13T10:50:22.494Z,64.4155,-163.5968,19.4,3.8,ml,,,,0.75,ak,ak0237jee0j7,2023-06-13T11:12:32.647Z,"30 km WSW of Golovin, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-06-13T10:42:29.630Z,35.8956667,-117.736,6.82,0.93,ml,7,155,0.09003,0.12,ci,ci40484528,2023-06-13T10:45:55.639Z,"16km ESE of Little Lake, CA",earthquake,0.5,1.09,0.247,4,automatic,ci,ci
 2023-06-13T10:42:14.800Z,32.0771667,-117.1106667,22.98,1.84,ml,10,300,0.4461,0.07,ci,ci40484520,2023-06-13T10:45:46.659Z,"24km SW of Primo Tapia, B.C., MX",earthquake,2.9,1.53,0.166,8,automatic,ci,ci
 2023-06-13T10:37:16.904Z,58.1794,-155.23,0,1.4,ml,,,,0.29,ak,ak0237jeb7u2,2023-06-13T10:57:28.875Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T06:58:33.800Z,18.4848333333333,-66.6061666666667,13.4,2.58,md,8,134,0.07317,0.18,pr,pr71413223,2023-06-13T07:09:47.330Z,"Puerto Rico region",earthquake,0.43,0.43,0.0836908906876388,4,reviewed,pr,pr
 2023-06-13T06:40:20.150Z,35.8758333,-117.6808333,5.55,1.14,ml,16,121,0.09576,0.11,ci,ci40484440,2023-06-13T06:43:47.831Z,"21km ESE of Little Lake, CA",earthquake,0.35,0.97,0.102,8,automatic,ci,ci
 2023-06-13T06:31:11.730Z,38.8409996,-122.8381653,1.71,0.6,md,9,185,0.003189,0.02,nc,nc73900596,2023-06-13T08:53:16.400Z,"10km NW of The Geysers, CA",earthquake,0.64,0.76,0.24,10,automatic,nc,nc
-2023-06-13T06:15:32.170Z,38.146,-122.4511667,5.82,0.82,md,21,88,0.002656,0.07,nc,nc73900586,2023-06-13T09:06:13.469Z,"6km ENE of Black Point-Green Point, CA",earthquake,0.25,0.4,0.23,18,reviewed,nc,nc
+2023-06-13T06:15:32.170Z,38.146,-122.4511667,5.82,0.82,md,21,88,0.002656,0.07,nc,nc73900586,2023-06-13T11:06:14.188Z,"6km ENE of Black Point-Green Point, CA",earthquake,0.25,0.4,0.23,18,reviewed,nc,nc
 2023-06-13T06:05:24.600Z,19.1784992218018,-155.496826171875,33.8899993896484,1.86000001,md,37,85,,0.100000001,hv,hv73449952,2023-06-13T06:08:48.800Z,"3 km SW of Pāhala, Hawaii",earthquake,0.53,0.75999999,0.419999987,9,automatic,hv,hv
 2023-06-13T05:49:43.830Z,33.2728333,-116.7221667,19.1,0.96,ml,34,49,0.04786,0.18,ci,ci40484432,2023-06-13T05:53:23.609Z,"5km NE of Lake Henshaw, CA",earthquake,0.27,0.61,0.119,25,automatic,ci,ci
 2023-06-13T05:08:20.830Z,32.7616667,-115.4268333,9.35,1.33,ml,13,111,0.04666,0.14,ci,ci40484424,2023-06-13T05:11:47.999Z,"7km SW of Holtville, CA",earthquake,0.68,0.97,0.201,11,automatic,ci,ci
@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T12:13:12.615Z,60.0508,-152.0711,77,1.7,ml,,,,0.19,ak,ak0237hrtl19,2023-06-12T12:14:52.681Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-06-12T12:07:28.820Z,44.6621666666667,-111.878,15.99,1.07,ml,14,98,0.1658,0.08,mb,mb90017788,2023-06-12T20:37:11.690Z,"41 km NE of Spencer, Idaho",earthquake,0.36,0.77,0.165293839561178,11,reviewed,mb,mb
 2023-06-12T11:37:03.200Z,34.0113333,-116.771,13.06,1.04,ml,42,74,0.09794,0.13,ci,ci40483776,2023-06-12T18:48:28.565Z,"10km N of Cabazon, CA",earthquake,0.16,0.47,0.21,23,reviewed,ci,ci
-2023-06-12T11:12:17.420Z,38.7938347,-122.7288361,1.78,0.74,md,6,101,0.01225,0.01,nc,nc73900316,2023-06-12T13:06:13.461Z,"3km NE of The Geysers, CA",earthquake,0.59,4.57,0.17,7,automatic,nc,nc
-2023-06-12T11:07:54.730Z,33.6995,-116.713,17.85,0.53,ml,17,102,0.01168,0.09,ci,ci40483760,2023-06-12T18:41:12.193Z,"4km S of Idyllwild, CA",earthquake,0.3,0.32,0.086,3,reviewed,ci,ci
