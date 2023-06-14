@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-14T21:16:08.480Z,33.5013333,-116.7671667,12.35,0.48,ml,17,69,0.02983,0.29,ci,ci40485976,2023-06-14T21:19:40.814Z,"10km SW of Anza, CA",earthquake,0.71,1.06,0.226,11,automatic,ci,ci
 2023-06-14T21:04:32.490Z,33.711,-117.3486667,0.57,1.68,ml,26,57,0.04067,0.29,ci,ci40485960,2023-06-14T21:08:13.735Z,"5km NNW of Lake Elsinore, CA",earthquake,0.37,0.96,0.121,30,automatic,ci,ci
 2023-06-14T20:29:41.240Z,37.1321678,-121.1756668,1.74,1.78,md,8,112,0.1298,0.1,nc,nc73901171,2023-06-14T21:13:15.067Z,"21km SW of Gustine, CA",earthquake,0.44,11.6,0.13,7,automatic,nc,nc
 2023-06-14T20:21:09.875Z,57.1397,-155.9035,29.7,1.9,ml,,,,0.64,ak,ak0237l7pgft,2023-06-14T20:23:45.907Z,"99 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -22,6 +23,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T17:56:30.800Z,32.7125,-115.5393333,9.02,2.09,ml,23,49,0.08657,0.23,ci,ci40485800,2023-06-14T18:11:29.004Z,"2km SSW of Heber, CA",earthquake,0.44,1.26,0.228,27,automatic,ci,ci
 2023-06-14T17:54:57.859Z,58.1301,-155.4178,9.2,1.1,ml,,,,0.33,ak,ak0237l64bw9,2023-06-14T17:56:44.691Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T17:29:12.960Z,44.7001667,-110.6793333,6.59,0.77,md,9,81,0.01265,0.04,uu,uu60542181,2023-06-14T19:34:23.830Z,"30 km S of Mammoth, Wyoming",earthquake,0.47,0.42,0.022,3,reviewed,uu,uu
+2023-06-14T17:28:50.350Z,34.5745,-118.0326667,9.9,1.02,ml,27,32,0.04738,0.19,ci,ci40485760,2023-06-14T17:32:32.288Z,"6km E of Palmdale, CA",earthquake,0.28,0.55,0.146,16,automatic,ci,ci
+2023-06-14T17:27:23.975Z,37.1337,-115.6456,5.9,1,ml,14,148.82,0.268,0.1637,nn,nn00861218,2023-06-14T17:29:38.022Z,"49 km WSW of Alamo, Nevada",earthquake,,1.8,0.99,10,automatic,nn,nn
 2023-06-14T17:21:19.900Z,33.9561667,-117.1113333,16.12,0.98,ml,29,75,0.07911,0.15,ci,ci40485736,2023-06-14T20:13:42.726Z,"6km WSW of Calimesa, CA",earthquake,0.2,0.59,0.136,19,reviewed,ci,ci
 2023-06-14T17:21:17.490Z,38.8256683,-122.7961655,2.5,1.1,md,22,55,0.0111,0.02,nc,nc73901126,2023-06-14T19:37:16.415Z,"6km W of Cobb, CA",earthquake,0.21,0.5,0.19,24,automatic,nc,nc
 2023-06-14T17:03:36.131Z,57.9448,-137.6239,7,2.7,ml,,,,0.93,ak,ak0237l5tcp9,2023-06-14T19:24:55.040Z,"80 km WSW of Elfin Cove, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -190,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T01:13:48.820Z,19.544,-65.772,31,3.78,md,17,278,1.2736,0.48,pr,pr2023165002,2023-06-14T02:16:26.450Z,"123 km N of Suárez, Puerto Rico",earthquake,2.78,29.8,0.09,12,reviewed,pr,pr
 2023-06-14T01:11:55.422Z,60.0541,-152.2961,100,1.6,ml,,,,0.95,ak,ak0237kwc68l,2023-06-14T01:14:36.873Z,"33 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-14T00:55:11.730Z,19.3713340759277,-155.01383972168,2.92000007629395,1.86,ml,29,160,,0.25,hv,hv73450472,2023-06-14T01:00:55.930Z,"14 km SW of Leilani Estates, Hawaii",earthquake,0.74,1.41999996,0.42,4,automatic,hv,hv
-2023-06-14T00:48:49.790Z,38.7888333,-122.7076667,1.92,1.04,md,31,79,0.007655,0.04,nc,nc73900881,2023-06-14T20:56:48.233Z,"2km NW of Anderson Springs, CA",earthquake,0.18,0.27,0.222,27,reviewed,nc,nc
+2023-06-14T00:48:49.790Z,38.7888333,-122.7076667,1.92,1.04,md,31,79,0.007655,0.04,nc,nc73900881,2023-06-14T21:23:20.000Z,"2km NW of Anderson Springs, CA",earthquake,0.18,0.27,0.222,27,reviewed,nc,nc
 2023-06-14T00:41:41.000Z,33.462,-116.4323333,5.78,0.69,ml,27,102,0.06149,0.15,ci,ci40485168,2023-06-14T15:30:03.792Z,"24km NNW of Borrego Springs, CA",earthquake,0.22,0.63,0.084,15,reviewed,ci,ci
 2023-06-14T00:37:58.969Z,56.4997,-148.61,10,4.1,mb,29,148,2.519,0.88,us,us7000k8am,2023-06-14T00:52:32.040Z,"254 km ESE of Chiniak, Alaska",earthquake,7.54,1.985,0.198,7,reviewed,us,us
 2023-06-14T00:35:43.680Z,36.5521667,-121.1333333,2.64,1.36,md,17,125,0.02268,0.13,nc,nc73900876,2023-06-14T13:16:17.072Z,"2km NNE of Pinnacles, CA",earthquake,0.26,0.36,0.083,14,reviewed,nc,nc
