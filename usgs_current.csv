@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-15T22:45:48.020Z,38.8003349,-122.7723312,3.34,0.77,md,9,118,0.01412,0.01,nc,nc73901546,2023-06-15T22:48:28.004Z,"3km NNW of The Geysers, CA",earthquake,0.78,1.66,0.05,8,automatic,nc,nc
+2023-06-15T22:42:57.260Z,38.8003349,-122.7693329,3.12,0.75,md,15,96,0.01566,0.02,nc,nc73901541,2023-06-15T22:45:38.244Z,"3km NNW of The Geysers, CA",earthquake,0.3,0.7,0.08,14,automatic,nc,nc
 2023-06-15T22:21:44.516Z,62.7698,-150.4792,77,1.5,ml,,,,0.46,ak,ak0237mwfqr7,2023-06-15T22:24:05.197Z,"33 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-06-15T22:18:36.460Z,38.774334,-122.7201691,1.25,1.47,md,15,74,0.0157,0.03,nc,nc73901531,2023-06-15T22:39:14.009Z,"2km W of Anderson Springs, CA",earthquake,0.27,0.59,0.15,18,automatic,nc,nc
 2023-06-15T22:16:36.867Z,62.1132,-147.7322,32,1.7,ml,,,,0.86,ak,ak0237mwenl2,2023-06-15T22:18:22.713Z,"34 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -50,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T17:01:18.510Z,32.8198333,-115.5875,13.24,1.52,ml,28,63,0.06124,0.23,ci,ci40486728,2023-06-15T19:53:26.290Z,"4km SSW of Imperial, CA",earthquake,0.39,0.56,0.257,15,reviewed,ci,ci
 2023-06-15T16:45:47.040Z,39.2283333,-123.4801667,7.69,1.82,md,22,65,0.09551,0.07,nc,nc73901411,2023-06-15T22:29:11.938Z,"23km SSW of Willits, CA",earthquake,0.15,0.57,0.181,30,reviewed,nc,nc
 2023-06-15T16:42:48.760Z,38.8264999,-122.7805023,1.33,0.39,md,8,83,0.009172,0.02,nc,nc73901406,2023-06-15T16:44:25.310Z,"5km W of Cobb, CA",earthquake,0.44,1.18,0.18,8,automatic,nc,nc
-2023-06-15T16:41:38.230Z,38.8236667,-122.787,0.89,2.34,md,70,21,0.0115,0.07,nc,nc73901401,2023-06-15T21:27:14.739Z,"6km W of Cobb, CA",earthquake,0.1,0.15,0.17,62,reviewed,nc,nc
+2023-06-15T16:41:38.230Z,38.8236667,-122.787,0.89,2.34,md,70,21,0.0115,0.07,nc,nc73901401,2023-06-15T22:47:11.065Z,"6km W of Cobb, CA",earthquake,0.1,0.15,0.17,62,reviewed,nc,nc
 2023-06-15T16:39:01.255Z,62.2669,-150.0599,32.6,1.2,ml,,,,0.65,ak,ak0237msywod,2023-06-15T16:41:01.901Z,"6 km SSE of Talkeetna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-15T16:38:31.840Z,45.9191666666667,-112.241,-2,1.54,ml,11,115,0.02479,0.14,mb,mb90018378,2023-06-15T19:56:53.010Z,"12 km WNW of Whitehall, Montana",quarry blast,0.57,31.61,0.131881841899655,13,reviewed,mb,mb
 2023-06-15T16:30:58.615Z,62.8593,-150.3677,92,1.1,ml,,,,0.35,ak,ak0237msx3np,2023-06-15T16:34:00.708Z,"45 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -201,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T23:07:03.503Z,64.7474,-150.4593,4.5,1.5,ml,,,,1.03,ak,ak0237l9eqoe,2023-06-14T23:08:58.727Z,"29 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-14T23:04:12.270Z,33.6535,-116.7665,12.33,0.23,ml,16,112,0.05969,0.08,ci,ci40486104,2023-06-14T23:16:35.351Z,"11km SSW of Idyllwild, CA",earthquake,0.25,0.41,0.095,7,reviewed,ci,ci
 2023-06-14T23:03:58.710Z,36.5506667,-121.129,3.67,1.28,md,23,93,0.02299,0.1,nc,nc73901196,2023-06-15T19:21:15.883Z,"2km NNE of Pinnacles, CA",earthquake,0.27,0.4,0.162,20,reviewed,nc,nc
-2023-06-14T22:45:43.362Z,62.0506,-150.4524,20.5,1.1,ml,,,,0.36,ak,ak0237l91jcw,2023-06-14T22:47:23.863Z,"31 km SSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
