@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-15T13:37:22.430Z,33.1886667,-116.2635,9.06,1.51,ml,55,28,0.008927,0.19,ci,ci40486584,2023-06-15T13:41:08.343Z,"13km SE of Borrego Springs, CA",earthquake,0.23,0.55,0.15,26,automatic,ci,ci
-2023-06-15T13:37:01.490Z,38.725666,-122.9198303,5.74,1.38,md,18,198,0.07169,0.03,nc,nc73901346,2023-06-15T13:38:35.160Z,"12km SE of Cloverdale, CA",earthquake,0.7,1.09,0.23,18,automatic,nc,nc
+2023-06-15T13:37:22.430Z,33.1886667,-116.2635,9.06,1.51,ml,55,28,0.008927,0.19,ci,ci40486584,2023-06-15T13:48:11.740Z,"13km SE of Borrego Springs, CA",earthquake,0.23,0.55,0.15,26,automatic,ci,ci
+2023-06-15T13:37:01.490Z,38.725666,-122.9198303,5.74,1.38,md,18,198,0.07169,0.03,nc,nc73901346,2023-06-15T13:54:14.803Z,"12km SE of Cloverdale, CA",earthquake,0.7,1.09,0.23,18,automatic,nc,nc
 2023-06-15T13:13:09.036Z,61.2075,-149.1631,30,1.7,ml,,,,0.32,ak,ak0237mr11uf,2023-06-15T13:14:41.487Z,"25 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-15T13:01:32.549Z,63.241,-151.7519,0,1.9,ml,,,,0.95,ak,ak0237mqyj2e,2023-06-15T13:03:46.225Z,"33 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T12:57:26.187Z,64.6304,-147.6261,8.7,0.5,ml,,,,0.25,ak,ak0237mqp33a,2023-06-15T12:59:58.301Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -37,7 +37,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T08:43:01.500Z,35.6628333,-117.4805,7.69,1.25,ml,18,52,0.0463,0.23,ci,ci40486408,2023-06-15T11:13:41.364Z,"14km SSW of Searles Valley, CA",earthquake,0.44,1.36,0.167,11,automatic,ci,ci
 2023-06-15T08:40:28.990Z,19.1949996948242,-155.491165161133,34.939998626709,2.18000007,md,47,73,,0.140000001,hv,hv73451602,2023-06-15T08:43:38.240Z,"Hawaii region, Hawaii",earthquake,0.63,0.860000014,1.84000003,26,automatic,hv,hv
 2023-06-15T08:23:16.030Z,44.7005,-110.6771667,6.4,1.64,ml,14,80,0.01234,0.13,uu,uu60542221,2023-06-15T13:41:03.040Z,"30 km S of Mammoth, Wyoming",earthquake,0.38,0.5,0.582,3,reviewed,uu,uu
-2023-06-15T08:21:24.603Z,63.191,-153.1263,34.6,1.8,ml,,,,1.15,ak,ak0237mo3mr0,2023-06-15T08:23:38.329Z,"Central Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-06-15T08:05:32.525Z,62.3896,-149.8165,44.1,2.2,ml,,,,0.83,ak,ak0237mo07w1,2023-06-15T08:41:06.040Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-15T08:03:39.850Z,46.22383333333333,-119.602,7.52,2.33,ml,11,202,0.05997,0.08,uw,uw61933451,2023-06-15T13:13:44.370Z,"9 km WSW of Benton City, Washington",earthquake,0.58,0.21,0.08406709019540548,7,reviewed,uw,uw
 2023-06-15T07:34:15.564Z,61.4195,-150.1204,29.9,1.9,ml,,,,0.49,ak,ak0237mnkyr8,2023-06-15T07:37:00.688Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -168,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T14:06:30.610Z,38.8413315,-122.8239975,1.73,0.65,md,12,95,0.009381,0.01,nc,nc73901076,2023-06-14T16:11:19.067Z,"9km WNW of Cobb, CA",earthquake,0.32,0.81,0.38,13,automatic,nc,nc
 2023-06-14T13:58:02.363Z,31.64038082,-104.4524457,6.799975586,2,ml,30,96,0.02354114744,0.2,tx,tx2023losd,2023-06-14T20:57:04.739Z,"59 km S of Whites City, New Mexico",earthquake,1.285732702,0.9153455423,0,7,reviewed,tx,tx
 2023-06-14T13:55:29.350Z,37.1346664,-121.5656662,0.24,1.05,md,5,152,0.05643,0.08,nc,nc73901071,2023-06-14T15:47:25.947Z,"7km NE of San Martin, CA",earthquake,0.7,9.42,0.13,8,automatic,nc,nc
-2023-06-14T13:53:28.520Z,51.8561666666667,-178.058333333333,-1.8,2.1,ml,7,108,,0.3,av,av91925836,2023-06-15T02:40:27.990Z,"98 km W of Adak, Alaska",earthquake,0.69,1.74,0.280792425154616,7,reviewed,av,av
-2023-06-14T13:47:47.338Z,60.6413,-149.118,6,1.5,ml,,,,0.54,ak,ak0237l3p2nh,2023-06-14T13:49:38.100Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
