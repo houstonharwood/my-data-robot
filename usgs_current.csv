@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-16T20:47:44.184Z,37.2602,-117.6148,6.2,1.7,ml,14,127.48,0.037,0.2594,nn,nn00861310,2023-06-16T20:50:18.981Z,"Central California",earthquake,,1.1,0.83,10,automatic,nn,nn
 2023-06-16T20:42:03.598Z,58.2301,-155.2015,6.4,0.6,ml,,,,0.66,ak,ak0237oiwmy5,2023-06-16T20:43:57.482Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-16T20:30:43.493Z,-23.5246,-175.9239,3.771,5.4,mww,83,72,2.437,0.81,us,us7000k92j,2023-06-16T20:54:40.015Z,"261 km SSW of ‘Ohonua, Tonga",earthquake,8.92,4.37,0.093,11,reviewed,us,us
+2023-06-16T20:36:52.430Z,17.8821666666667,-66.9046666666667,7.85,3,md,6,245,0.0955,0.14,pr,pr71413673,2023-06-16T20:55:26.810Z,"9 km S of Guánica, Puerto Rico",earthquake,0.94,1.49,0.00406563124862025,3,reviewed,pr,pr
+2023-06-16T20:30:43.493Z,-23.5246,-175.9239,3.771,5.4,mww,83,72,2.437,0.81,us,us7000k92j,2023-06-16T21:06:23.961Z,"261 km SSW of ‘Ohonua, Tonga",earthquake,8.92,4.37,0.093,11,reviewed,us,us
 2023-06-16T20:27:11.890Z,43.0386666666667,-110.843833333333,3.41,2.2,ml,12,110,0.3319,0.3,mb,mb90018623,2023-06-16T20:54:18.480Z,"11 km NE of Star Valley Ranch, Wyoming",earthquake,1.06,6.9,0.317608119855469,13,reviewed,mb,mb
 2023-06-16T20:24:05.804Z,58.2365,-155.2228,1.3,1.1,ml,,,,0.48,ak,ak0237oiss78,2023-06-16T20:26:15.329Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-16T20:15:41.700Z,33.8663333,-117.5003333,-0.51,1.3,ml,21,65,0.05139,0.23,ci,ci40487448,2023-06-16T20:45:22.671Z,"2km SE of Home Gardens, CA",quarry blast,0.46,31.61,0.172,10,reviewed,ci,ci
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T16:51:30.497Z,43.0506,-110.8507,4.366,2.6,ml,32,88,0.339,0.73,us,us7000k90s,2023-06-16T17:52:33.580Z,"12 km NE of Star Valley Ranch, Wyoming",earthquake,1.38,3.969,0.045,66,reviewed,us,us
 2023-06-16T16:46:00.960Z,44.7855,-111.0065,8.68,0.37,md,9,247,0.02617,0.13,uu,uu60542331,2023-06-16T18:28:06.980Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.54,1.29,0.24,4,reviewed,uu,uu
 2023-06-16T16:39:48.410Z,32.9235,-116.2365,12.13,0.89,ml,24,78,0.06422,0.18,ci,ci40487264,2023-06-16T19:51:04.215Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.26,0.75,0.104,11,reviewed,ci,ci
-2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-16T20:48:31.044Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
+2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-16T20:59:47.022Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
 2023-06-16T16:37:56.320Z,46.3156666666667,-111.609166666667,-2,0.84,ml,8,145,0.3238,0.25,mb,mb90018543,2023-06-16T17:34:56.900Z,"6 km W of Townsend, Montana",quarry blast,2.04,31.61,0.206760337618721,5,reviewed,mb,mb
 2023-06-16T16:37:39.120Z,44.7878333,-111.0056667,9.61,0.83,ml,12,152,0.0285,0.1,uu,uu60542326,2023-06-16T17:03:48.260Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.99,0.206,2,reviewed,uu,uu
 2023-06-16T16:32:20.500Z,38.8289986,-122.8071671,1.48,0.7,md,15,60,0.006039,0.02,nc,nc73901771,2023-06-16T17:03:14.797Z,"7km NW of The Geysers, CA",earthquake,0.24,0.66,0.38,17,automatic,nc,nc
@@ -66,8 +67,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T14:43:33.800Z,38.8348351,-122.8174973,1.06,1.02,md,13,62,0.01281,0.05,nc,nc73901751,2023-06-16T17:10:15.838Z,"8km W of Cobb, CA",earthquake,0.27,0.63,0.09,16,automatic,nc,nc
 2023-06-16T14:39:12.587Z,31.68869516,-104.297846,7.725463867,2.3,ml,32,64,0.03289276756,0.3,tx,tx2023lsko,2023-06-16T20:02:46.494Z,"54 km S of Whites City, New Mexico",earthquake,0.835613866,0.7700377161,0.1,17,reviewed,tx,tx
 2023-06-16T14:36:41.140Z,36.5984,-115.4331,12.3,1.1,ml,23,145.4,0.241,0.1261,nn,nn00861288,2023-06-16T15:51:36.370Z,"21 km E of Indian Springs, Nevada",earthquake,,4.1,0.14,13,reviewed,nn,nn
-2023-06-16T14:35:48.020Z,38.8163338,-122.8193359,2.78,1.28,md,26,50,0.0101,0.03,nc,nc73901741,2023-06-16T16:02:20.418Z,"7km NW of The Geysers, CA",earthquake,0.21,0.43,0.23,23,automatic,nc,nc
-2023-06-16T14:34:43.290Z,36.6248333,-120.6918333,1.25,1.86,md,19,131,0.1694,0.16,nc,nc73901731,2023-06-16T20:47:11.190Z,"23km N of New Idria, CA",earthquake,0.46,1.39,0.176,20,reviewed,nc,nc
+2023-06-16T14:35:48.040Z,38.8166667,-122.8191667,2.63,1.22,md,40,47,0.009777,0.04,nc,nc73901741,2023-06-16T21:06:54.794Z,"7km NW of The Geysers, CA",earthquake,0.15,0.29,0.178,31,reviewed,nc,nc
+2023-06-16T14:34:43.290Z,36.6248333,-120.6918333,1.25,1.86,md,19,131,0.1694,0.16,nc,nc73901731,2023-06-16T20:58:13.243Z,"23km N of New Idria, CA",earthquake,0.46,1.39,0.176,20,reviewed,nc,nc
 2023-06-16T14:32:51.010Z,19.2033333333333,-66.6286666666667,28.69,3.4,md,15,250,0.7285,0.22,pr,pr71413658,2023-06-16T14:50:41.850Z,"Puerto Rico region",earthquake,0.97,8.3,0.0853745672932646,10,reviewed,pr,pr
 2023-06-16T14:24:20.400Z,45.439,-111.812833333333,4.87,0.42,ml,4,180,0.2038,0.07,mb,mb90018528,2023-06-16T17:10:17.350Z,"11 km NNW of Ennis, Montana",earthquake,0.67,6.57,0.154367200984536,2,reviewed,mb,mb
 2023-06-16T14:05:00.214Z,61.5705,-149.7983,33.2,1.4,ml,,,,0.86,ak,ak0237of43j9,2023-06-16T14:06:26.282Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
