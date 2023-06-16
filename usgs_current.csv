@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-16T19:44:46.590Z,33.6711667,-116.7601667,14.78,1.05,ml,42,57,0.05534,0.22,ci,ci40487440,2023-06-16T19:55:37.640Z,"9km SSW of Idyllwild, CA",earthquake,0.32,0.46,0.204,28,automatic,ci,ci
+2023-06-16T19:44:46.490Z,33.6726667,-116.7573333,15.33,1.05,ml,38,80,0.05263,0.11,ci,ci40487440,2023-06-16T20:05:51.690Z,"8km SSW of Idyllwild, CA",earthquake,0.2,0.27,0.196,24,reviewed,ci,ci
 2023-06-16T19:40:51.262Z,63.8297,-148.8775,55.3,1.8,ml,,,,1.77,ak,ak0237oiavk6,2023-06-16T19:43:10.101Z,"5 km SE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-16T19:32:54.770Z,38.1273346,-122.1675034,1.79,2.02,md,10,119,0.01511,0.07,nc,nc73901821,2023-06-16T19:55:10.894Z,"6km ENE of Vallejo, CA",earthquake,0.99,1.59,0.22,6,automatic,nc,nc
 2023-06-16T19:10:48.382Z,-23.651,-175.3333,10,5.9,mww,94,56,2.472,1.18,us,us7000k91w,2023-06-16T19:34:41.579Z,"Tonga region",earthquake,7.92,1.859,0.098,10,reviewed,us,us
@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T16:51:30.497Z,43.0506,-110.8507,4.366,2.6,ml,32,88,0.339,0.73,us,us7000k90s,2023-06-16T17:52:33.580Z,"12 km NE of Star Valley Ranch, Wyoming",earthquake,1.38,3.969,0.045,66,reviewed,us,us
 2023-06-16T16:46:00.960Z,44.7855,-111.0065,8.68,0.37,md,9,247,0.02617,0.13,uu,uu60542331,2023-06-16T18:28:06.980Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.54,1.29,0.24,4,reviewed,uu,uu
 2023-06-16T16:39:48.410Z,32.9235,-116.2365,12.13,0.89,ml,24,78,0.06422,0.18,ci,ci40487264,2023-06-16T19:51:04.215Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.26,0.75,0.104,11,reviewed,ci,ci
-2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-16T19:45:44.707Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
+2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-16T20:07:56.799Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
 2023-06-16T16:37:56.320Z,46.3156666666667,-111.609166666667,-2,0.84,ml,8,145,0.3238,0.25,mb,mb90018543,2023-06-16T17:34:56.900Z,"6 km W of Townsend, Montana",quarry blast,2.04,31.61,0.206760337618721,5,reviewed,mb,mb
 2023-06-16T16:37:39.120Z,44.7878333,-111.0056667,9.61,0.83,ml,12,152,0.0285,0.1,uu,uu60542326,2023-06-16T17:03:48.260Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.99,0.206,2,reviewed,uu,uu
 2023-06-16T16:32:20.500Z,38.8289986,-122.8071671,1.48,0.7,md,15,60,0.006039,0.02,nc,nc73901771,2023-06-16T17:03:14.797Z,"7km NW of The Geysers, CA",earthquake,0.24,0.66,0.38,17,automatic,nc,nc
@@ -53,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T14:51:12.765Z,61.8147,-154.1284,5.7,1.2,ml,,,,0.61,ak,ak0237ofdzfq,2023-06-16T14:53:44.763Z,"86 km NE of Lime Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-16T14:50:14.410Z,45.7973333333333,-112.137166666667,4.96,0.24,ml,6,158,0.1192,0,mb,mb90018533,2023-06-16T17:15:59.880Z,"8 km SSW of Whitehall, Montana",earthquake,0.67,5.04,0.0379576853408918,2,reviewed,mb,mb
 2023-06-16T14:43:33.800Z,38.8348351,-122.8174973,1.06,1.02,md,13,62,0.01281,0.05,nc,nc73901751,2023-06-16T17:10:15.838Z,"8km W of Cobb, CA",earthquake,0.27,0.63,0.09,16,automatic,nc,nc
+2023-06-16T14:39:12.587Z,31.68869516,-104.297846,7.725463867,2.3,ml,32,64,0.03289276756,0.3,tx,tx2023lsko,2023-06-16T20:02:46.494Z,"54 km S of Whites City, New Mexico",earthquake,0.835613866,0.7700377161,0.1,17,reviewed,tx,tx
 2023-06-16T14:36:41.140Z,36.5984,-115.4331,12.3,1.1,ml,23,145.4,0.241,0.1261,nn,nn00861288,2023-06-16T15:51:36.370Z,"21 km E of Indian Springs, Nevada",earthquake,,4.1,0.14,13,reviewed,nn,nn
 2023-06-16T14:35:48.020Z,38.8163338,-122.8193359,2.78,1.28,md,26,50,0.0101,0.03,nc,nc73901741,2023-06-16T16:02:20.418Z,"7km NW of The Geysers, CA",earthquake,0.21,0.43,0.23,23,automatic,nc,nc
 2023-06-16T14:34:43.060Z,36.6119995,-120.6943359,-0.33,1.77,md,9,144,0.2588,0.22,nc,nc73901731,2023-06-16T15:10:14.108Z,"22km N of New Idria, CA",earthquake,1.19,13.18,0.08,5,automatic,nc,nc
@@ -68,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T12:58:24.533Z,-24.1617,-67.126,180.964,4.7,mb,61,43,1.544,0.74,us,us7000k8x2,2023-06-16T13:14:47.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,7.39,6.509,0.036,238,reviewed,us,us
 2023-06-16T12:52:18.040Z,63.1757,-151.3472,0,2,ml,,,,0.74,ak,ak0237oe7ccs,2023-06-16T12:54:36.750Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-16T12:49:21.171Z,31.66606708,-104.3165066,6.697143555000001,2.4,ml,48,67,0.0443440842,0.2,tx,tx2023lsgx,2023-06-16T18:07:18.319Z,"56 km S of Whites City, New Mexico",earthquake,0.5825731324999999,0.6893051041,0,6,reviewed,tx,tx
+2023-06-16T12:48:36.950Z,38.8361667,-122.7903333,2.04,0.36,md,13,59,0.002239,0.02,nc,nc73901716,2023-06-16T20:10:59.499Z,"6km WNW of Cobb, CA",earthquake,0.28,0.45,0.245,12,reviewed,nc,nc
 2023-06-16T12:42:08.702Z,61.566,-149.7307,34.3,1.7,ml,,,,0.31,ak,ak0237oe56h2,2023-06-16T12:43:47.748Z,"8 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-16T12:40:50.950Z,58.2548333333333,-155.075,4.37,-0.3,ml,7,122,,0.21,av,av91927371,2023-06-16T17:02:26.800Z,"84 km NNW of Karluk, Alaska",earthquake,0.42,0.99,0.312185749859204,7,reviewed,av,av
 2023-06-16T12:31:36.735Z,61.8955,-149.978,23,1.8,ml,,,,0.83,ak,ak0237oe2vtd,2023-06-16T12:33:53.842Z,"16 km N of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -119,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T08:11:34.539Z,-23.5698,-175.8816,22.034,6,mww,112,43,2.47,0.56,us,us7000k8vq,2023-06-16T10:19:16.495Z,"Tonga region",earthquake,7.63,4.071,0.075,17,reviewed,us,us
 2023-06-16T08:06:21.700Z,33.2198333,-116.7486667,8.96,0.42,ml,27,54,0.01819,0.14,ci,ci40487032,2023-06-16T18:14:11.412Z,"3km SSE of Lake Henshaw, CA",earthquake,0.2,0.55,0.109,9,reviewed,ci,ci
 2023-06-16T08:00:48.799Z,64.4484,-163.7036,14.5,3.3,ml,,,,0.94,ak,ak0237obij2n,2023-06-16T08:15:12.040Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-16T07:54:45.550Z,36.373333,-120.9328308,4.72,2.36,md,27,112,0.05569,0.09,nc,nc73901671,2023-06-16T09:23:13.996Z,"24km WSW of New Idria, CA",earthquake,0.26,0.74,0.14,25,automatic,nc,nc
+2023-06-16T07:54:45.680Z,36.3618333,-120.9381667,6.16,2.26,md,57,59,0.04345,0.2,nc,nc73901671,2023-06-16T20:10:15.981Z,"24km NE of King City, CA",earthquake,0.21,0.85,0.153,51,reviewed,nc,nc
 2023-06-16T07:47:38.092Z,65.1385,-165.348,9.2,3.1,ml,,,,0.92,ak,ak0237ob75ap,2023-06-16T08:09:13.040Z,"49 km ESE of Teller, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-16T07:27:18.230Z,34.458,-117.9595,9.05,1.56,ml,42,34,0.009648,0.13,ci,ci40487016,2023-06-16T18:06:12.550Z,"7km SW of Pearblossom, CA",earthquake,0.14,0.29,0.145,26,reviewed,ci,ci
 2023-06-16T07:25:06.430Z,38.8391685,-122.8108368,2.14,0.27,md,8,122,0.01576,0.01,nc,nc73901666,2023-06-16T09:05:16.022Z,"8km WNW of Cobb, CA",earthquake,0.45,1.34,0.16,8,automatic,nc,nc
@@ -215,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T20:20:58.120Z,19.354,-63.9545,33,3.69,md,10,301,1.4167,0.27,pr,pr2023166001,2023-06-16T14:27:15.040Z,"Leeward Islands",earthquake,1.87,18.01,0.15,4,reviewed,pr,pr
 2023-06-15T20:17:50.630Z,46.90716666666667,-121.8755,10.98,0.38,ml,20,126,0.04192,0.1,uw,uw61933501,2023-06-15T22:18:38.000Z,"Washington",earthquake,0.29,0.59,0.18017228741839036,7,reviewed,uw,uw
 2023-06-15T20:17:19.112Z,61.9017,-148.4218,15,1.4,ml,,,,0.74,ak,ak0237mv7ypz,2023-06-15T20:19:55.258Z,"11 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-15T20:06:45.413Z,61.1854,-147.171,10.4,1.4,ml,,,,0.38,ak,ak0237mv5nuj,2023-06-15T20:09:02.933Z,"Southern Alaska",earthquake,,2.8,,,automatic,ak,ak
-2023-06-15T20:00:19.910Z,45.788833333333336,-123.03,-0.45,1.95,ml,6,179,0.1651,0.07,uw,uw61933496,2023-06-15T22:08:25.210Z,"12 km WNW of Scappoose, Oregon",explosion,0.76,31.61,0.1631973929543178,6,reviewed,uw,uw
-2023-06-15T19:58:02.128Z,60.3451,-152.3619,82,1.7,ml,,,,0.38,ak,ak0237muva5w,2023-06-15T19:59:28.714Z,"50 km NW of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
