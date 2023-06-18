@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T19:59:47.780Z,38.7906685,-122.7580032,2.26,0.71,md,5,171,0.01003,0.06,nc,nc73902596,2023-06-18T20:01:22.211Z,"2km N of The Geysers, CA",earthquake,1.02,1.58,0.19,7,automatic,nc,nc
 2023-06-18T19:18:37.530Z,36.074501,-120.6484985,4.13,2.57,md,36,65,0.04276,0.16,nc,nc73902581,2023-06-18T19:42:10.788Z,"24km ENE of San Ardo, CA",earthquake,0.31,1,0.13,32,automatic,nc,nc
 2023-06-18T19:15:19.374Z,63.4835,-149.3159,33.3,1.5,ml,,,,0.68,ak,ak0237rt856p,2023-06-18T19:21:48.254Z,"20 km WNW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-18T18:38:27.522Z,60.2532,-152.8496,107.7,1.7,ml,,,,0.56,ak,ak0237rsrnog,2023-06-18T18:41:16.229Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -24,7 +25,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T15:36:29.521Z,38.1274,38.6026,10,4.5,mb,55,63,0.707,0.94,us,us7000k9dr,2023-06-18T16:24:14.040Z,"10 km N of Sincik, Turkey",earthquake,2.55,1.847,0.075,52,reviewed,us,us
 2023-06-18T15:33:10.730Z,18.0741666666667,-67.0051666666667,22.51,2.38,md,15,107,0.03071,0.19,pr,pr71413898,2023-06-18T15:54:47.370Z,"4 km E of San Germán, Puerto Rico",earthquake,0.48,0.71,0.0652223328386961,8,reviewed,pr,pr
 2023-06-18T15:31:04.770Z,41.803333333333335,-118.47433333333333,-1.22,2.37,ml,6,275,0.6416,0.41,uw,uw61934081,2023-06-18T17:12:57.340Z,"24 km SSE of Denio, Nevada",earthquake,11.07,13.56,0.006428317590866595,3,reviewed,uw,uw
-2023-06-18T15:22:45.155Z,63.6655,-147.3434,250,1.5,ml,,,,0.92,ak,ak0237rqvyrn,2023-06-18T15:35:45.094Z,"78 km E of Denali Park, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-18T15:04:49.691Z,-23.7728,-175.7382,10,5.8,mww,39,121,2.638,0.94,us,us7000k9dk,2023-06-18T17:09:29.387Z,"Tonga region",earthquake,9.5,1.862,0.093,11,reviewed,us,us
 2023-06-18T15:04:13.667Z,64.9961,-147.3866,1.8,1.6,ml,,,,0.57,ak,ak0237rqs1gb,2023-06-18T15:06:47.508Z,"11 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-18T14:57:42.242Z,59.6959,-152.7124,88.1,1.8,ml,,,,0.61,ak,ak0237rqi100,2023-06-18T15:00:04.368Z,"50 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -36,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T14:25:38.915Z,-23.8868,-175.9281,10,5.1,mb,21,164,2.786,1.01,us,us7000k9d7,2023-06-18T14:43:13.040Z,"299 km SSW of ‘Ohonua, Tonga",earthquake,10.43,1.893,0.061,86,reviewed,us,us
 2023-06-18T14:07:45.550Z,45.664,-122.75333333333333,18.92,1.47,ml,12,115,0.05727,0.13,uw,uw61934036,2023-06-18T17:05:18.090Z,"5 km WSW of Lake Shore, Washington",earthquake,0.5,0.62,0.04948468811501261,7,reviewed,uw,uw
 2023-06-18T14:00:32.695Z,57.9225,-155.8802,11.6,1.8,ml,,,,0.74,ak,ak0237rq5sg5,2023-06-18T14:01:52.489Z,"93 km WNW of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
+2023-06-18T13:54:29.600Z,33.4785,-116.5096667,14.09,0.13,ml,14,158,0.079,0.12,ci,ci40488200,2023-06-18T20:04:08.854Z,"17km ESE of Anza, CA",earthquake,0.36,0.67,0.147,7,reviewed,ci,ci
 2023-06-18T13:52:44.165Z,60.0534,-152.893,103.8,1.5,ml,,,,0.22,ak,ak0237rpvhdf,2023-06-18T15:34:30.062Z,"65 km W of Happy Valley, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-06-18T13:45:06.360Z,19.371,-65.6555,54.12,3.37,md,14,274,1.115,0.42,pr,pr71413888,2023-06-18T14:11:06.820Z,"106 km NNE of Suárez, Puerto Rico",earthquake,3.43,11.37,0.135325271444437,11,reviewed,pr,pr
 2023-06-18T13:36:35.614Z,35.47598648,-98.02718353,1.319700837,1.92,ml,13,66.41242981,0.05159967765,0.8742795006,ok,ok2023lvzl,2023-06-18T13:39:43.209Z,"9 km SW of El Reno, Oklahoma",earthquake,3.995108726,3.299736418,0.19,10,automatic,ok,ok
