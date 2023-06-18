@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T08:25:49.670Z,34.0446667,-119.1345,0.99,1.6,ml,18,195,0.1374,0.28,ci,ci40488048,2023-06-18T08:43:19.046Z,"13km SSE of Port Hueneme, CA",earthquake,1.24,31.61,0.278,22,automatic,ci,ci
 2023-06-18T08:22:13.180Z,36.0378342,-120.6060028,2.29,1.04,md,10,102,0.03192,0.09,nc,nc73902431,2023-06-18T08:42:17.007Z,"22km NW of Parkfield, CA",earthquake,0.58,1.38,0.14,4,automatic,nc,nc
 2023-06-18T08:08:22.440Z,33.0968333,-117.28,27.46,0.65,ml,9,261,0.4335,0.22,ci,ci40488040,2023-06-18T08:11:59.854Z,"7km N of Encinitas, CA",earthquake,4.16,2.95,0.001,2,automatic,ci,ci
-2023-06-18T08:05:08.133Z,60.4364,-147.6383,15.3,1.3,ml,,,,0.15,ak,ak0237rmm7i5,2023-06-18T08:07:05.269Z,"46 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-18T08:05:08.133Z,60.4364,-147.6383,15.3,1.3,ml,,,,0.15,ak,ak0237rmm7i5,2023-06-18T08:07:05.269Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-18T07:58:21.250Z,38.8155,-122.8191667,2.94,0.44,md,12,70,0.01025,0.03,nc,nc73902426,2023-06-18T08:32:13.954Z,"7km NW of The Geysers, CA",earthquake,0.33,0.39,0.437,12,reviewed,nc,nc
 2023-06-18T07:24:25.325Z,64.6727,-146.8634,11.3,0.5,ml,,,,0.22,ak,ak0237rm4vtl,2023-06-18T07:26:23.453Z,"9 km E of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T07:14:53.350Z,34.0403333,-116.8465,19.79,1.61,ml,51,45,0.03257,0.22,ci,ci40488032,2023-06-18T07:25:45.910Z,"13km NNE of Banning, CA",earthquake,0.27,0.59,0.154,27,automatic,ci,ci
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T04:03:13.414Z,61.1006,-150.3627,1.6,1.5,ml,,,,0.42,ak,ak0237rk8225,2023-06-18T04:05:00.629Z,"26 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T03:58:39.266Z,-23.1515,-66.3282,226.463,4.5,mwr,64,43,1.716,0.91,us,us7000k9al,2023-06-18T04:16:20.040Z,"66 km W of El Aguilar, Argentina",earthquake,7.9,7.235,,,reviewed,us,guc
 2023-06-18T03:57:57.670Z,38.8185005,-122.8216629,2.67,1.49,md,25,48,0.01029,0.05,nc,nc73902361,2023-06-18T06:26:13.211Z,"7km NW of The Geysers, CA",earthquake,0.22,0.47,0.14,27,automatic,nc,nc
-2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-18T08:45:08.296Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
+2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-18T08:51:23.620Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
 2023-06-18T03:34:44.460Z,38.8358345,-122.7945023,2.21,0.76,md,13,58,0.004142,0.01,nc,nc73902346,2023-06-18T05:17:18.838Z,"6km WNW of Cobb, CA",earthquake,0.32,0.87,0.14,13,automatic,nc,nc
 2023-06-18T03:33:45.857Z,62.2253,-151.1157,71,1.8,ml,,,,0.5,ak,ak0237rjt4ft,2023-06-18T03:35:48.765Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T03:24:56.450Z,19.1611671447754,-155.50666809082,34.3499984741211,1.87,md,32,211,,0.140000001,hv,hv73454317,2023-06-18T03:28:04.130Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.94,0.819999993,1.66999996,10,automatic,hv,hv
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T00:59:55.889Z,61.5732,-149.7168,47.6,1.8,ml,,,,0.29,ak,ak0237ri6f0k,2023-06-18T01:01:54.125Z,"8 km SE of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-18T00:57:58.690Z,59.6275,-139.6479,7.1,2,ml,,,,0.78,ak,ak0237ri5zst,2023-06-18T01:00:20.965Z,"10 km NNE of Yakutat, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-06-18T00:56:00.110Z,38.7943344,-122.8078308,3.43,0.36,md,12,83,0.00706,0.02,nc,nc73902296,2023-06-18T02:11:19.685Z,"5km WNW of The Geysers, CA",earthquake,0.44,1.13,0.26,12,automatic,nc,nc
-2023-06-18T00:15:45.740Z,19.2399997711182,-155.397338867188,31.0799999237061,1.99,ml,26,155,,0.170000002,hv,hv73454222,2023-06-18T00:21:23.130Z,"Hawaii region, Hawaii",earthquake,0.7,1.01999998,0.23,4,automatic,hv,hv
+2023-06-18T00:15:45.740Z,19.2399997711182,-155.397338867188,31.0799999237061,1.99,ml,26,155,,0.170000002,hv,hv73454222,2023-06-18T00:21:23.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.7,1.01999998,0.23,4,automatic,hv,hv
 2023-06-18T00:04:43.902Z,60.7009,-141.7222,19.7,1.1,ml,,,,0.89,ak,ak0237rhulpi,2023-06-18T00:06:47.474Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-17T23:54:40.450Z,47.775333333333336,-122.35666666666667,25.96,1.34,ml,15,115,0.09667,0.27,uw,uw61933881,2023-06-18T00:22:51.400Z,"1 km S of Esperance, Washington",earthquake,0.75,1,0.12702172309741688,6,reviewed,uw,uw
 2023-06-17T23:36:52.767Z,63.1038,-152.3029,5.2,1.7,ml,,,,0.62,ak,ak0237q873q4,2023-06-17T23:38:50.521Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T11:37:34.950Z,38.7923317,-122.7774963,4.22,0.79,md,5,163,0.02091,0.02,nc,nc73902031,2023-06-17T13:51:13.218Z,"2km NW of The Geysers, CA",earthquake,2.03,4.17,0.02,2,automatic,nc,nc
 2023-06-17T11:36:00.859Z,47.9548,147.3618,417.698,5.7,mww,122,43,3.277,0.56,us,us7000k96n,2023-06-17T13:39:58.951Z,"northwest of the Kuril Islands",earthquake,9.43,5.385,0.056,31,reviewed,us,us
 2023-06-17T11:31:12.730Z,33.6843333,-116.7491667,14.9,0.42,ml,19,107,0.03959,0.12,ci,ci40487672,2023-06-17T11:34:49.253Z,"7km SSW of Idyllwild, CA",earthquake,0.45,0.39,0.121,11,automatic,ci,ci
-2023-06-17T11:30:25.586Z,-23.2048,-175.7779,35,5,mb,47,111,6.331,0.83,us,us7000k9bk,2023-06-18T08:20:45.040Z,"223 km SSW of ‘Ohonua, Tonga",earthquake,10.52,1.826,0.078,52,reviewed,us,us
+2023-06-17T11:30:25.586Z,-23.2048,-175.7779,35,5,mb,47,111,6.331,0.83,us,us7000k9bk,2023-06-18T08:20:45.040Z,"Tonga region",earthquake,10.52,1.826,0.078,52,reviewed,us,us
 2023-06-17T11:27:04.270Z,52.0306666666667,-176.213,-1.8,-0.23,ml,4,276,,0.14,av,av91928451,2023-06-18T04:52:27.090Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.33,2.1,0.204579404810954,5,reviewed,av,av
 2023-06-17T11:26:21.874Z,-23.4419,-175.4278,35,6,mww,29,129,2.27,0.9,us,us7000k96l,2023-06-17T13:34:23.774Z,"Tonga region",earthquake,8.7,2,0.056,31,reviewed,us,us
 2023-06-17T11:08:24.015Z,59.8381,-153.3532,123.6,2.1,ml,,,,0.26,ak,ak0237q0vsje,2023-06-17T11:25:24.040Z,"42 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
