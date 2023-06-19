@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T14:42:57.190Z,34.2676667,-117.0158333,-0.27,1.73,ml,42,22,0.07893,0.24,ci,ci40488880,2023-06-19T15:16:47.514Z,"10km WNW of Big Bear Lake, CA",earthquake,0.26,31.61,0.167,27,reviewed,ci,ci
 2023-06-19T14:41:11.740Z,18.0595,-66.8501666666667,12.63,1.93,md,4,188,0.08843,0.21,pr,pr71414003,2023-06-19T14:59:01.820Z,"2 km N of Yauco, Puerto Rico",earthquake,5.38,5.6,0.220809257001785,3,reviewed,pr,pr
 2023-06-19T14:19:28.750Z,17.9551666666667,-66.8398333333333,11.15,2.35,md,7,207,0.04242,0.13,pr,pr71414013,2023-06-19T15:03:29.660Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.52,0.7,0.029567709068135,4,reviewed,pr,pr
-2023-06-19T14:18:56.000Z,37.3017,-104.4473,4.887,4.3,mb,56,39,0.165,0.85,us,us7000k9kq,2023-06-19T15:21:17.533Z,"6 km WNW of Hoehne, Colorado",earthquake,2.39,3.734,0.113,22,reviewed,us,us
+2023-06-19T14:18:56.000Z,37.3017,-104.4473,4.887,4.3,mb,56,39,0.165,0.85,us,us7000k9kq,2023-06-19T15:26:32.397Z,"6 km WNW of Hoehne, Colorado",earthquake,2.39,3.734,0.113,22,reviewed,us,us
 2023-06-19T14:18:09.394Z,46.2139,153.1857,10,4.8,mb,50,93,7.223,0.94,us,us7000k9ks,2023-06-19T14:47:33.040Z,"Kuril Islands",earthquake,9.62,1.892,0.053,109,reviewed,us,us
 2023-06-19T14:16:33.340Z,34.0533333,-116.8288333,22.82,0.99,ml,24,77,0.09749,0.28,ci,ci40488856,2023-06-19T14:20:09.680Z,"15km NNE of Banning, CA",earthquake,0.55,1.24,0.227,25,automatic,ci,ci
 2023-06-19T14:13:06.875Z,37.3002,-104.4766,4.75,3.8,ml,23,65,0.169,1.11,us,us7000k9kp,2023-06-19T15:14:50.472Z,"Colorado",earthquake,4.04,5.504,0.044,68,reviewed,us,us
@@ -154,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T18:38:27.522Z,60.2532,-152.8496,107.7,1.7,ml,,,,0.56,ak,ak0237rsrnog,2023-06-18T18:41:16.229Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T18:33:50.642Z,63.2453,-152.7461,9.6,1.2,ml,,,,0.84,ak,ak0237rsqmvq,2023-06-18T18:37:21.948Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T18:31:59.990Z,18.0833333333333,-66.9823333333333,13.47,2.57,md,5,161,0.1432,0.08,pr,pr71413918,2023-06-18T18:40:26.880Z,"2 km WNW of Sabana Grande, Puerto Rico",earthquake,1.17,1.55,0.0591360781098258,3,reviewed,pr,pr
+2023-06-18T18:20:31.760Z,46.8798333333333,-112.862833333333,15.72,0.81,ml,13,59,0.1607,0.18,mb,mb90018838,2023-06-19T15:25:59.320Z,"16 km WSW of Lincoln, Montana",earthquake,0.56,0.95,0.164576682071963,5,reviewed,mb,mb
 2023-06-18T18:20:10.310Z,38.7891655,-122.767334,2.02,0.75,md,11,76,0.0129,0.03,nc,nc73902576,2023-06-18T19:17:19.629Z,"2km NW of The Geysers, CA",earthquake,0.33,0.59,0.08,12,automatic,nc,nc
 2023-06-18T17:57:44.328Z,-7.5301,127.6668,143.917,4.4,mb,45,56,3.726,0.42,us,us7000k9eg,2023-06-18T18:23:42.040Z,"132 km NE of Lospalos, Timor Leste",earthquake,7.96,8.629,0.102,28,reviewed,us,us
 2023-06-18T17:51:02.103Z,62.9174,-148.3716,13,1,ml,,,,0.97,ak,ak0237rs8yf6,2023-06-18T17:53:06.927Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -177,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T15:53:56.046Z,-23.7135,-175.7205,10,4.6,mb,23,115,2.576,0.85,us,us7000k9dw,2023-06-18T16:17:32.040Z,"274 km SSW of ‘Ohonua, Tonga",earthquake,10.69,1.911,0.107,26,reviewed,us,us
 2023-06-18T15:36:29.521Z,38.1274,38.6026,10,4.5,mb,55,63,0.707,0.94,us,us7000k9dr,2023-06-18T16:24:14.040Z,"10 km N of Sincik, Turkey",earthquake,2.55,1.847,0.075,52,reviewed,us,us
 2023-06-18T15:33:10.730Z,18.0741666666667,-67.0051666666667,22.51,2.38,md,15,107,0.03071,0.19,pr,pr71413898,2023-06-18T15:54:47.370Z,"4 km E of San Germán, Puerto Rico",earthquake,0.48,0.71,0.0652223328386961,8,reviewed,pr,pr
-2023-06-18T15:31:04.770Z,41.803333333333335,-118.47433333333333,-1.22,2.37,ml,6,275,0.6416,0.41,uw,uw61934081,2023-06-18T17:12:57.340Z,"24 km SSE of Denio, Nevada",earthquake,11.07,13.56,0.006428317590866595,3,reviewed,uw,uw
