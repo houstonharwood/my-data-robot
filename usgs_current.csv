@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-21T17:44:43.484Z,36.7121,-115.777,2,0.5,ml,9,138.95,0.157,0.1994,nn,nn00861514,2023-06-21T17:46:46.185Z,"18 km NNW of Indian Springs, Nevada",earthquake,,1.5,0.36,6,automatic,nn,nn
 2023-06-21T17:43:07.004Z,58.2004,-155.264,1.1,1,ml,,,,0.61,ak,ak0237wqtajw,2023-06-21T17:44:34.666Z,"85 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-06-21T17:43:02.460Z,19.1765003204346,-155.491333007812,31.4300003051758,2.63000011,md,45,149,,0.129999995,hv,hv73457497,2023-06-21T17:46:23.630Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.810000002,0.270000011,33,automatic,hv,hv
+2023-06-21T17:43:02.460Z,19.1765003204346,-155.491333007812,31.4300003051758,2.23,ml,45,149,,0.129999995,hv,hv73457497,2023-06-21T17:48:32.000Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.810000002,2.36,14,automatic,hv,hv
 2023-06-21T17:42:59.720Z,33.501,-116.4791667,10.98,0.72,ml,25,64,0.04995,0.21,ci,ci40491152,2023-06-21T17:46:40.385Z,"19km ESE of Anza, CA",earthquake,0.37,0.8,0.147,17,automatic,ci,ci
 2023-06-21T17:31:29.540Z,33.5065,-116.5056667,13.54,0.92,ml,35,42,0.0689,0.2,ci,ci40491136,2023-06-21T17:42:40.870Z,"16km ESE of Anza, CA",earthquake,0.28,0.51,0.199,27,automatic,ci,ci
 2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"80 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T15:21:44.040Z,34.2688333,-118.8145,21.46,1.54,ml,37,81,0.05836,0.19,ci,ci40490936,2023-06-21T17:42:01.453Z,"6km ESE of Moorpark, CA",earthquake,0.24,0.51,0.13,18,reviewed,ci,ci
 2023-06-21T15:09:23.325Z,60.7275,-152.1893,78.9,1.4,ml,,,,0.56,ak,ak0237wpf698,2023-06-21T15:11:12.833Z,"49 km WNW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-21T14:52:00.180Z,38.7669983,-122.9501648,4.8,1.03,md,11,163,0.05063,0.05,nc,nc73903636,2023-06-21T15:09:12.154Z,"7km SE of Cloverdale, CA",earthquake,0.54,2.01,0.11,9,automatic,nc,nc
-2023-06-21T14:26:08.512Z,62.4256,-150.5571,61.3,3.8,ml,,,,1.22,ak,ak0237woxclz,2023-06-21T17:05:46.296Z,"13 km SE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-06-21T14:26:08.512Z,62.4256,-150.5571,61.3,3.8,ml,,,,1.22,ak,ak0237woxclz,2023-06-21T17:53:26.040Z,"13 km SE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-21T14:20:44.770Z,38.8153333,-122.8248333,2.41,0.41,md,18,47,0.007294,0.02,nc,nc73903626,2023-06-21T17:20:14.891Z,"7km NW of The Geysers, CA",earthquake,0.21,0.28,0.419,18,reviewed,nc,nc
 2023-06-21T14:18:25.249Z,39.6242,-119.9699,6.8,2.8,ml,29,69.3,0.018,0.1336,nn,nn00861503,2023-06-21T17:06:54.395Z,"Nevada",earthquake,,0.8,0.18,7,reviewed,nn,nn
 2023-06-21T13:58:59.970Z,35.6848333,-117.483,7.82,2.51,ml,33,74,0.05213,0.14,ci,ci40490864,2023-06-21T17:22:07.480Z,"12km SW of Searles Valley, CA",earthquake,0.18,0.53,0.129,62,reviewed,ci,ci
@@ -215,7 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T19:23:05.110Z,17.8625,-66.8906666666667,12.45,2.4,md,5,249,0.1125,0.1,pr,pr71414173,2023-06-20T19:30:56.830Z,"Puerto Rico region",earthquake,0.86,0.53,0.162646441761975,5,reviewed,pr,pr
 2023-06-20T19:13:31.970Z,37.4338333,-121.8336667,3.37,1.82,md,43,57,0.0152,0.06,nc,nc73903316,2023-06-21T01:18:12.176Z,"6km E of Milpitas, CA",earthquake,0.12,0.22,0.212,37,reviewed,nc,nc
 2023-06-20T18:56:53.040Z,56.4337,-152.1924,24,2.4,ml,,,,0.71,ak,ak0237v3y9tq,2023-06-20T21:25:02.040Z,"109 km SE of Old Harbor, Alaska",earthquake,,4,,,reviewed,ak,ak
-2023-06-20T18:43:15.251Z,58.0332,-155.6838,17.5,1.2,ml,,,,2.05,ak,ak0237v3vebw,2023-06-20T18:46:37.600Z,"89 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
+2023-06-20T18:43:15.251Z,58.0332,-155.6838,17.5,1.2,ml,,,,2.05,ak,ak0237v3vebw,2023-06-21T17:53:13.730Z,"89 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-06-20T18:42:05.410Z,38.8015,-122.8391667,2.37,0.96,md,36,76,0.003426,0.06,nc,nc73903306,2023-06-21T00:02:44.921Z,"8km WNW of The Geysers, CA",earthquake,0.16,0.27,0.305,31,reviewed,nc,nc
 2023-06-20T18:38:54.510Z,33.9478333,-117.1755,11.93,0.94,ml,19,92,0.002306,0.19,ci,ci40490104,2023-06-20T18:42:27.639Z,"5km ENE of Moreno Valley, CA",earthquake,0.34,0.79,0.277,20,automatic,ci,ci
 2023-06-20T18:33:28.680Z,37.9845,-122.4541667,-0.02,1.38,md,21,84,0.02381,0.11,nc,nc73903301,2023-06-20T23:56:58.203Z,"6km ESE of Santa Venetia, CA",quarry blast,0.27,31.61,0.192,14,reviewed,nc,nc
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T18:02:29.504Z,31.6605552,-104.3907401,6.131567383,2.8,ml,24,63,0.03547429267,0.2,tx,tx2023lzzf,2023-06-21T02:27:37.994Z,"57 km S of Whites City, New Mexico",earthquake,1.099226332,0.8342684432000002,0.1,17,reviewed,tx,tx
 2023-06-20T18:02:22.720Z,46.828833333333336,-123.09383333333334,-0.31,1.47,ml,13,203,0.1238,0.45,uw,uw61934711,2023-06-20T19:50:46.180Z,"Washington-Oregon border region",explosion,1.87,31.61,0.3391558937694725,11,reviewed,uw,uw
 2023-06-20T18:00:41.810Z,38.7913322,-122.7616653,1.91,1.09,md,18,63,0.009404,0.02,nc,nc73903266,2023-06-20T18:45:15.743Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.45,0.16,17,automatic,nc,nc
-2023-06-20T17:47:58.420Z,51.8581666666667,-177.828333333333,8.96,0.45,ml,5,236,,0.06,av,av91931691,2023-06-21T03:58:05.250Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,0.71,0.300076369830259,5,reviewed,av,av
