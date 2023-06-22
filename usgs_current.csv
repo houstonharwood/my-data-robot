@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-22T22:22:40.750Z,40.3129997,-124.7555008,8.05,3.24,ml,32,236,,0.22,nc,nc73904051,2023-06-22T22:26:12.245Z,"40km W of Petrolia, CA",earthquake,2.36,2.35,0.226,7,automatic,nc,nc
+2023-06-22T22:22:40.750Z,40.3129997,-124.7555008,8.05,3.24,ml,32,236,,0.22,nc,nc73904051,2023-06-22T22:37:21.040Z,"40km W of Petrolia, CA",earthquake,2.36,2.35,0.226,7,automatic,nc,nc
 2023-06-22T21:57:42.460Z,38.7799988,-122.7358322,-0.79,0.58,md,8,108,0.02028,0.13,nc,nc73904046,2023-06-22T22:20:14.521Z,"2km E of The Geysers, CA",earthquake,0.33,2.77,0.14,5,automatic,nc,nc
 2023-06-22T21:53:58.447Z,35.43585205,-98.05426788,2.792127609,1.75,ml,11,79.60769653,0.02342425287,0.7523090011,ok,ok2023mdxw,2023-06-22T21:56:54.404Z,"11 km WNW of Union City, Oklahoma",earthquake,5.172400458,3.228068814,0.3,7,automatic,ok,ok
 2023-06-22T21:49:53.930Z,38.8373337,-122.8099976,1.1,0.69,md,9,66,0.01995,0.02,nc,nc73904041,2023-06-22T22:07:15.451Z,"8km WNW of Cobb, CA",earthquake,0.43,1.1,0.07,9,automatic,nc,nc
-2023-06-22T21:48:44.860Z,38.1173325,-121.8724976,10.68,2.23,md,6,185,0.4393,0.17,nc,nc73904036,2023-06-22T21:55:13.382Z,"10km N of Pittsburg, CA",earthquake,10.23,4.08,,1,automatic,nc,nc
+2023-06-22T21:48:44.860Z,38.1173325,-121.8724976,10.68,2.23,md,6,185,0.4393,0.17,nc,nc73904036,2023-06-22T22:31:10.581Z,"10km N of Pittsburg, CA",earthquake,10.23,4.08,,1,automatic,nc,nc
 2023-06-22T21:43:52.250Z,38.1033,-118.1579,2.1,1.7,ml,10,99.8,0.31,0.1929,nn,nn00861589,2023-06-22T21:46:32.249Z,"32 km S of Mina, Nevada",earthquake,,1.6,0.72,9,automatic,nn,nn
 2023-06-22T21:16:58.340Z,33.1428333,-116.4083333,28.41,0.84,ml,18,128,0.1252,0.33,ci,ci40492336,2023-06-22T21:20:30.509Z,"13km SSW of Borrego Springs, CA",earthquake,1.58,1.35,0.208,13,automatic,ci,ci
 2023-06-22T21:14:07.850Z,33.9056667,-116.7038333,16.48,0.82,ml,21,50,0.06723,0.17,ci,ci40492320,2023-06-22T21:17:35.346Z,"8km E of Cabazon, CA",earthquake,0.28,0.7,0.161,19,automatic,ci,ci
@@ -126,6 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T09:17:49.600Z,38.8265,-122.7863333,0.5,1.24,md,42,40,0.0123,0.04,nc,nc73903871,2023-06-22T11:59:14.653Z,"6km W of Cobb, CA",earthquake,0.11,0.18,0.168,37,reviewed,nc,nc
 2023-06-22T09:14:06.096Z,31.67796304,-104.3995089,6.080151367,2.1,ml,34,69,0.02261818355,0.2,tx,tx2023mcyu,2023-06-22T18:38:41.724Z,"55 km S of Whites City, New Mexico",earthquake,0.7963057607000001,0.6250312563,0,6,reviewed,tx,tx
 2023-06-22T09:12:07.080Z,38.8311653,-122.8154984,2.4,0.76,md,8,96,0.00884,0.01,nc,nc73903866,2023-06-22T09:35:14.617Z,"8km NW of The Geysers, CA",earthquake,0.52,1.37,0.21,8,automatic,nc,nc
+2023-06-22T08:58:31.050Z,47.1555,-121.796,17.98,0.79,ml,22,158,0.1355,0.12,uw,uw61934996,2023-06-22T22:33:42.730Z,"11 km W of Greenwater, Washington",earthquake,0.41,0.79,0.10778608201804296,13,reviewed,uw,uw
 2023-06-22T08:38:31.855Z,58.1725,-155.371,2.2,0.9,ml,,,,0.14,ak,ak0237y8ypxt,2023-06-22T08:40:05.266Z,"86 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-22T08:27:02.889Z,36.7628,-116.2541,8.6,-0.1,ml,19,69.33,0.028,0.0768,nn,nn00861544,2023-06-22T16:44:52.428Z,"California-Nevada border region",earthquake,,0.9,0.19,6,reviewed,nn,nn
 2023-06-22T08:20:47.952Z,62.9244,-151.3366,100.5,1.4,ml,,,,0.43,ak,ak0237y8uwaj,2023-06-22T08:23:12.927Z,"55 km NNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
