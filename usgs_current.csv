@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T19:17:02.050Z,64.9938,-147.28,0,1.3,ml,,,,0.76,ak,ak0237yfdx9l,2023-06-22T19:19:47.440Z,"16 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-22T19:15:19.050Z,38.8313333,-122.8141667,2.23,0.44,md,20,49,0.008547,0.02,nc,nc73904001,2023-06-23T04:35:18.796Z,"8km NW of The Geysers, CA",earthquake,0.2,0.34,0.186,21,reviewed,nc,nc
 2023-06-22T19:08:11.770Z,60.8006,-151.7129,76.6,1.5,ml,,,,0.54,ak,ak0237yfc0k9,2023-06-22T19:10:29.206Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-22T19:06:32.650Z,40.6376667,-122.2203333,16.95,2.52,md,29,68,0.02716,0.16,nc,nc73903996,2023-06-23T09:33:13.577Z,"1km ESE of Bella Vista, CA",earthquake,0.27,0.43,0.173,42,reviewed,nc,nc
+2023-06-22T19:06:32.650Z,40.6376667,-122.2203333,16.95,2.52,md,29,68,0.02716,0.16,nc,nc73903996,2023-06-23T09:48:10.675Z,"1km ESE of Bella Vista, CA",earthquake,0.27,0.43,0.173,42,reviewed,nc,nc
 2023-06-22T19:05:41.076Z,61.3896,-150.0651,30.7,1.2,ml,,,,0.89,ak,ak0237yfbfob,2023-06-22T19:07:54.828Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-22T19:02:27.740Z,19.1439990997314,-155.453826904297,29.8299999237061,1.97000003,md,32,176,,0.109999999,hv,hv73458717,2023-06-22T19:05:36.790Z,"Island of Hawaii, Hawaii",earthquake,0.69,1,1.62,10,automatic,hv,hv
 2023-06-22T18:58:40.440Z,34.9898333,-118.183,-0.91,1.03,ml,15,60,0.1169,0.18,ci,ci40492184,2023-06-22T19:31:51.856Z,"7km S of Mojave, CA",quarry blast,0.44,31.61,0.1,12,reviewed,ci,ci
@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T17:44:38.180Z,19.1464996337891,-155.454162597656,30.5,1.92999995,md,29,175,,0.0900000036,hv,hv73458632,2023-06-22T17:47:49.620Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.81,1.26999998,1.60000002,6,automatic,hv,hv
 2023-06-22T17:37:27.490Z,33.8263333,-117.4843333,2.84,1.5,ml,26,61,0.03392,0.16,ci,ci40492048,2023-06-22T18:41:25.349Z,"7km SSE of Home Gardens, CA",quarry blast,0.24,0.22,0.242,28,reviewed,ci,ci
 2023-06-22T17:34:55.139Z,63.3967,-151.354,0,1.3,ml,,,,0.97,ak,ak0237yeatbd,2023-06-22T17:37:43.307Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-22T17:33:44.946Z,34.3596,141.4387,10,4.6,mb,65,143,1.837,1.03,us,us7000kae2,2023-06-22T18:15:31.040Z,"134 km SE of Katsuura, Japan",earthquake,6.59,1.678,0.056,96,reviewed,us,us
+2023-06-22T17:33:44.946Z,34.3596,141.4387,10,4.6,mb,65,143,1.837,1.03,us,us7000kae2,2023-06-23T09:46:39.593Z,"134 km SE of Katsuura, Japan",earthquake,6.59,1.678,0.056,96,reviewed,us,us
 2023-06-22T17:18:11.860Z,38.8321667,-122.8203333,2,-0.27,md,11,62,0.01187,0.01,nc,nc73903951,2023-06-23T03:43:19.580Z,"8km NW of The Geysers, CA",earthquake,0.39,0.81,0.18,9,reviewed,nc,nc
 2023-06-22T17:10:16.060Z,19.1744995117188,-155.468673706055,31.0499992370605,1.83000004,md,30,136,,0.100000001,hv,hv73458592,2023-06-22T17:13:43.720Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.72,0.879999995,1.79999995,6,automatic,hv,hv
 2023-06-22T17:04:25.730Z,33.6578333,-116.6936667,14.69,0.26,ml,11,85,0.01991,0.07,ci,ci40492032,2023-06-22T18:28:11.360Z,"9km SSE of Idyllwild, CA",earthquake,0.24,0.48,0.042,3,reviewed,ci,ci
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T10:04:14.306Z,36.7618,-115.8998,10.3,0.2,ml,23,217.37,0.051,0.1386,nn,nn00861545,2023-06-22T16:57:18.057Z,"29 km NW of Indian Springs, Nevada",earthquake,,1.2,0.36,11,reviewed,nn,nn
 2023-06-22T09:54:56.548Z,46.3619,-73.1727,10.519,2.2,mb_lg,13,136,0.917,0.7,us,us7000kai3,2023-06-23T06:55:10.040Z,"13 km E of Mandeville, Canada",earthquake,3.88,8.583,,,reviewed,us,ott
 2023-06-22T09:53:08.113Z,-6.3715,131.2502,53.7,4.6,mb,38,46,2.274,1.37,us,us7000kaai,2023-06-22T10:33:29.040Z,"185 km WSW of Tual, Indonesia",earthquake,8.1,8.265,0.117,22,reviewed,us,us
-2023-06-22T09:48:10.251Z,31.73567641,-104.4948382,4.126342773,1.8,ml,22,77,0.02408752785,0.2,tx,tx2023mczx,2023-06-22T20:24:19.424Z,"50 km SSW of Whites City, New Mexico",earthquake,1.087779237,1.036164671,0.1,6,reviewed,tx,tx
