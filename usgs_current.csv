@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T04:20:07.200Z,38.7771683,-122.7190018,1.2,1.87,md,32,81,0.01512,0.04,nc,nc73904151,2023-06-23T07:46:13.972Z,"2km W of Anderson Springs, CA",earthquake,0.21,0.4,0.16,24,automatic,nc,nc
 2023-06-23T04:18:41.990Z,37.3363342,-121.6073303,5.21,1.16,md,9,131,0.02858,0.1,nc,nc73904146,2023-06-23T07:00:13.708Z,"20km E of Alum Rock, CA",earthquake,0.53,0.8,0.24,2,automatic,nc,nc
 2023-06-23T04:13:06.510Z,19.166166305542,-155.47900390625,30.0900001525879,2.05999994,md,38,100,,0.170000002,hv,hv73459292,2023-06-23T04:16:18.060Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.16999996,0.99000001,16,automatic,hv,hv
-2023-06-23T04:10:16.382Z,61.0243,-148.3426,3.7,1.3,ml,,,,0.68,ak,ak0237ztyas3,2023-06-23T04:13:32.439Z,"33 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-23T04:10:16.382Z,61.0243,-148.3426,3.7,1.3,ml,,,,0.68,ak,ak0237ztyas3,2023-06-23T04:13:32.439Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-23T04:02:04.171Z,60.1254,-152.1815,72.1,1.8,ml,,,,0.41,ak,ak0237ztwk3l,2023-06-23T04:03:58.423Z,"29 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-23T03:46:10.820Z,19.1625003814697,-155.47900390625,31.6100006103516,2.45,ml,49,156,,0.109999999,hv,hv73459267,2023-06-23T03:59:08.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.58,0.730000019,3.13,22,automatic,hv,hv
 2023-06-23T03:31:04.138Z,66.368,-154.7363,0,1.3,ml,,,,1.02,ak,ak0237zthc90,2023-06-23T03:33:32.726Z,"41 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T02:15:19.300Z,39.611,-119.9807,2.4,2.1,ml,12,83.41,0.015,0.2677,nn,nn00861594,2023-06-23T02:45:24.800Z,"7 km S of Cold Springs, Nevada",earthquake,,0.4,0.32,7,automatic,nn,nn
 2023-06-23T02:01:50.430Z,38.823,-122.794,2.65,0.42,md,27,34,0.01256,0.03,nc,nc73904106,2023-06-23T11:50:13.396Z,"6km NNW of The Geysers, CA",earthquake,0.14,0.29,0.146,26,reviewed,nc,nc
 2023-06-23T01:50:02.200Z,35.5028333,-118.398,8.22,1.25,ml,17,40,0.1712,0.13,ci,ci40492496,2023-06-23T01:53:27.447Z,"13km SE of Bodfish, CA",earthquake,0.25,1.25,0.227,13,automatic,ci,ci
-2023-06-23T01:37:15.310Z,35.6141667,-118.3846667,6.82,0.66,ml,8,184,0.0851,0.07,ci,ci40492488,2023-06-23T13:34:45.020Z,"8km E of Lake Isabella, CA",earthquake,0.45,0.54,0.211,5,reviewed,ci,ci
+2023-06-23T01:37:15.310Z,35.6141667,-118.3846667,6.82,0.66,ml,8,184,0.0851,0.07,ci,ci40492488,2023-06-23T13:34:46.010Z,"8km E of Lake Isabella, CA",earthquake,0.45,0.54,0.211,5,reviewed,ci,ci
 2023-06-23T01:11:46.630Z,19.2146,-67.7243,67,3.56,md,8,262,0.8656,0.33,pr,pr2023174000,2023-06-23T01:50:31.143Z,"100 km NE of Punta Cana, Dominican Republic",earthquake,3.55,7.39,0.04,6,reviewed,pr,pr
 2023-06-23T01:10:04.330Z,32.853,-116.4893333,0.75,0.93,ml,11,100,0.1275,0.35,ci,ci40492472,2023-06-23T01:13:40.149Z,"5km NE of Pine Valley, CA",earthquake,0.87,1.92,0.126,14,automatic,ci,ci
 2023-06-23T00:58:08.960Z,-15.7645,-173.5235,41.367,4.5,mb,17,64,2.904,0.21,us,us7000kahb,2023-06-23T01:45:24.040Z,"35 km NE of Hihifo, Tonga",earthquake,6.21,7.446,0.171,10,reviewed,us,us
@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T13:49:31.820Z,58.2703333333333,-155.118333333333,31.45,-0.05,ml,11,96,,0.19,av,av91108303,2023-06-23T05:48:08.250Z,"Alaska Peninsula",earthquake,0.64,0.9,0.319515024693495,10,reviewed,av,av
 2023-06-22T13:49:17.890Z,58.2708333333333,-155.122166666667,31.99,-0.16,ml,7,119,,0.14,av,av91934021,2023-06-23T05:43:03.440Z,"87 km NNW of Karluk, Alaska",earthquake,0.57,0.81,0.252692006254223,7,reviewed,av,av
 2023-06-22T13:47:47.250Z,58.17,-155.3265,1.76,0.06,ml,5,251,,0.1,av,av91108343,2023-06-23T07:33:50.500Z,"84 km NW of Karluk, Alaska",earthquake,0.69,0.74,0.272598227976238,5,reviewed,av,av
-2023-06-22T13:39:45.170Z,38.8199997,-122.8233337,2.06,0.69,md,9,114,0.009652,0.01,nc,nc73903921,2023-06-22T13:56:15.439Z,"8km NW of The Geysers, CA",earthquake,0.38,0.8,0.24,12,automatic,nc,nc
