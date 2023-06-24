@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-24T14:32:43.480Z,33.9415,-116.8601667,4.03,1.25,ml,54,46,0.06905,0.17,ci,ci40494024,2023-06-24T14:36:29.627Z,"2km NE of Banning, CA",earthquake,0.18,0.66,0.091,26,automatic,ci,ci
+2023-06-24T14:32:43.480Z,33.9415,-116.8601667,4.03,1.25,ml,54,46,0.06905,0.17,ci,ci40494024,2023-06-24T14:43:39.580Z,"2km NE of Banning, CA",earthquake,0.18,0.66,0.091,26,automatic,ci,ci
 2023-06-24T14:26:54.930Z,36.1326675415039,-83.7011642456055,16.1000003814697,2.86999989,md,21,64,0.1473,0.230000004,se,se60530806,2023-06-24T14:39:18.020Z,"2 km S of Blaine, Tennessee",earthquake,0.49,1.29999995,1.01999998,17,reviewed,se,se
 2023-06-24T14:19:15.707Z,35.39642715,-98.11131287,2.454967976,1.7,ml,10,100.8142395,0.07253866643,0.9645455705,ok,ok2023mgzw,2023-06-24T14:22:36.104Z,"15 km W of Union City, Oklahoma",earthquake,5.419988316,3.976346164,0.17,9,automatic,ok,ok
 2023-06-24T14:16:52.594Z,66.4062,-150.8182,11,1.9,ml,,,,0.28,ak,ak02381nhcej,2023-06-24T14:18:24.781Z,"64 km SSE of Bettles, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T04:12:42.700Z,61.5281,-149.913,34.1,1,ml,,,,0.65,ak,ak02381hi4q6,2023-06-24T04:15:08.041Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-24T04:04:29.030Z,38.8241653,-122.7649994,2.03,0.78,md,11,123,0.01639,0.02,nc,nc73904521,2023-06-24T04:55:14.930Z,"4km W of Cobb, CA",earthquake,0.35,0.73,0.12,11,automatic,nc,nc
 2023-06-24T04:03:39.945Z,61.5052,-149.9018,34.9,1.5,ml,,,,0.25,ak,ak02381hg72i,2023-06-24T04:05:11.535Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-24T03:49:32.090Z,61.4982,-149.9352,29.9,2.8,ml,,,,0.86,ak,ak02381h4lqi,2023-06-24T09:02:24.326Z,"2 km SSE of Big Lake, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-06-24T03:49:32.090Z,61.4982,-149.9352,29.9,2.8,ml,,,,0.86,ak,ak02381h4lqi,2023-06-24T09:02:24.326Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-06-24T03:31:33.448Z,-8.0425,-74.4634,161.844,4.9,mb,76,107,1.77,0.93,us,us7000kart,2023-06-24T03:52:23.040Z,"38 km NNE of Pucallpa, Peru",earthquake,7.97,6.701,0.027,435,reviewed,us,us
 2023-06-24T03:27:40.290Z,37.0439987,-121.5226669,3.34,0.88,md,7,126,0.07865,0.02,nc,nc73904501,2023-06-24T04:24:15.758Z,"6km NE of Gilroy, CA",earthquake,0.4,1.31,0.08,4,automatic,nc,nc
 2023-06-24T03:22:50.496Z,57.4791,-155.2631,71.9,1.8,ml,,,,0.31,ak,ak02381gyukx,2023-06-24T03:25:37.679Z,"49 km WSW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -261,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T14:59:54.870Z,51.8523333333333,-178.043833333333,-1.8,1.29,ml,6,102,,0.16,av,av91108428,2023-06-24T03:07:50.550Z,"97 km W of Adak, Alaska",earthquake,0.3,1.01,0.200279279500238,6,reviewed,av,av
 2023-06-23T14:59:40.270Z,61.0856666666667,-152.3125,16.73,0.02,ml,5,299,,0.06,av,av91935336,2023-06-24T03:05:47.960Z,"63 km W of Tyonek, Alaska",earthquake,0.64,0.58,0.200253212564113,5,reviewed,av,av
 2023-06-23T14:57:41.510Z,61.0511666666667,-152.359333333333,15.21,1.01,ml,6,304,,0.15,av,av91935331,2023-06-24T02:56:13.380Z,"66 km W of Tyonek, Alaska",earthquake,1.63,1.54,0.238478862898255,6,reviewed,av,av
-2023-06-23T14:48:02.220Z,31.888,-116.557,14.55,2.65,ml,12,88,0.2045,0.24,ci,ci40492920,2023-06-23T19:06:26.525Z,"6km ENE of Ensenada, B.C., MX",earthquake,0.81,1.84,0.134,26,automatic,ci,ci
-2023-06-23T14:47:23.460Z,31.88415527,-101.8952458,10.90681966,1.9,ml,18,80,0.1239388081,0.1,tx,tx2023mffi,2023-06-23T19:27:52.055Z,"21 km SE of Midland, Texas",earthquake,0.6102362782,1.472325908,0.1,12,reviewed,tx,tx
-2023-06-23T14:41:20.170Z,35.6855,-117.539,1.63,0.75,ml,10,138,0.09605,0.16,ci,ci40492912,2023-06-23T14:44:48.428Z,"14km ENE of Ridgecrest, CA",earthquake,0.45,0.56,0.08,6,automatic,ci,ci
