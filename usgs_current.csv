@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T09:30:16.450Z,33.4575,-116.6333333,10.45,0.47,ml,23,88,0.04532,0.16,ci,ci40493840,2023-06-24T09:33:50.245Z,"12km SSE of Anza, CA",earthquake,0.27,0.55,0.091,9,automatic,ci,ci
 2023-06-24T09:29:38.642Z,61.8699,-149.6134,34.7,1.3,ml,,,,0.57,ak,ak02381kkxm0,2023-06-24T09:31:26.942Z,"24 km NW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-24T09:25:00.340Z,19.2124996185303,-155.383834838867,28.1200008392334,2.1,ml,34,175,,0.0900000036,hv,hv73460432,2023-06-24T09:30:30.330Z,"10 km E of Pāhala, Hawaii",earthquake,0.68,0.889999986,1.93,3,automatic,hv,hv
-2023-06-24T09:24:15.430Z,38.5596657,-122.442337,6.22,1.56,md,10,149,0.07722,0.08,nc,nc73904566,2023-06-24T09:36:11.661Z,"2km SSE of Angwin, CA",earthquake,0.62,1.4,0.24,7,automatic,nc,nc
+2023-06-24T09:24:15.430Z,38.5596657,-122.442337,6.22,1.56,md,10,149,0.07722,0.08,nc,nc73904566,2023-06-24T09:45:15.708Z,"2km SSE of Angwin, CA",earthquake,0.62,1.4,0.24,7,automatic,nc,nc
 2023-06-24T09:14:13.873Z,63.6055,-150.6889,11.9,2.5,ml,,,,0.63,ak,ak02381khnyj,2023-06-24T09:27:13.040Z,"51 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-24T09:10:38.270Z,33.6745,-116.7313333,15.12,1.08,ml,44,59,0.03927,0.21,ci,ci40493832,2023-06-24T09:15:09.407Z,"7km S of Idyllwild, CA",earthquake,0.24,0.41,0.145,25,automatic,ci,ci
 2023-06-24T09:10:33.263Z,61.8572,-149.8154,55.4,1,ml,,,,0.54,ak,ak02381kgula,2023-06-24T09:12:52.753Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
@@ -195,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T16:41:44.520Z,38.8153333,-122.8241667,2.37,1.42,md,43,44,0.00755,0.04,nc,nc73904286,2023-06-23T23:37:15.659Z,"7km NW of The Geysers, CA",earthquake,0.14,0.18,0.151,40,reviewed,nc,nc
 2023-06-23T16:41:42.780Z,38.787,-122.7438333,1.94,0.67,md,11,193,0.006707,0.02,nc,nc71130744,2023-06-23T20:57:15.702Z,"2km NE of The Geysers, CA",earthquake,0.57,0.34,0.237,4,reviewed,nc,nc
 2023-06-23T16:38:18.320Z,58.2581666666667,-155.133833333333,6.02,0.25,ml,9,91,,0.22,av,av91935421,2023-06-24T04:16:16.190Z,"86 km NNW of Karluk, Alaska",earthquake,0.52,0.81,0.271810479521645,9,reviewed,av,av
-2023-06-23T16:37:36.080Z,51.8561666666667,-178.047666666667,-1.8,1.33,ml,6,102,,0.23,av,av91935426,2023-06-24T04:13:23.010Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,1.29,0.24515737717444,6,reviewed,av,av
+2023-06-23T16:37:36.080Z,51.8561666666667,-178.047666666667,-1.8,1.33,ml,6,102,,0.23,av,av91935426,2023-06-24T04:13:23.010Z,"97 km W of Adak, Alaska",earthquake,0.39,1.29,0.24515737717444,6,reviewed,av,av
 2023-06-23T16:32:59.470Z,40.5768333,-124.2053333,16.62,1.49,md,17,164,0.1428,0.12,nc,nc73904281,2023-06-24T02:04:16.539Z,"5km WSW of Fortuna, CA",earthquake,0.49,0.85,0.081,10,reviewed,nc,nc
 2023-06-23T16:24:29.380Z,37.6326667,-119.0476667,-2.48,0.32,md,5,144,0.01793,0.02,nc,nc73904276,2023-06-23T23:01:14.467Z,"6km W of Mammoth Lakes, CA",earthquake,0.3,5.26,0.114,5,reviewed,nc,nc
 2023-06-23T16:19:35.120Z,51.8546666666667,-178.037666666667,-1.8,1.47,ml,6,86,,0.28,av,av91935416,2023-06-24T03:57:30.670Z,"96 km W of Adak, Alaska",earthquake,0.45,1.6,0.300539451200271,6,reviewed,av,av
@@ -285,5 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T09:59:25.005Z,39.3538,-119.9848,7,0.7,ml,12,88.54,0.073,0.1536,nn,nn00861612,2023-06-23T17:23:58.861Z,"5 km SE of Floriston, California",earthquake,,1.8,0.22,7,reviewed,nn,nn
 2023-06-23T09:58:24.085Z,39.6144,-119.9705,6.9,1.2,ml,19,80.79,0.01,0.1516,nn,nn00861600,2023-06-23T17:17:43.991Z,"7 km S of Cold Springs, Nevada",earthquake,,1.2,0.23,8,reviewed,nn,nn
 2023-06-23T09:56:25.164Z,60.1543,-152.8544,114.9,1.9,ml,,,,0.35,ak,ak0237zx7ces,2023-06-24T00:53:52.112Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-23T09:51:26.240Z,44.6553333333333,-111.870333333333,10.97,0.73,ml,12,99,0.1639,0.12,mb,mb90019478,2023-06-23T19:44:21.560Z,"Idaho-Montana border region",earthquake,0.52,0.7,0.185759389563424,9,reviewed,mb,mb
-2023-06-23T09:47:14.570Z,53.296,-167.865833333333,11.57,2.18,ml,8,302,,0.17,av,av91935041,2023-06-23T23:25:03.980Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.01,2.21,0.245311321890754,8,reviewed,av,av
