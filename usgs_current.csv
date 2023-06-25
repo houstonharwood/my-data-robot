@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-25T05:21:35.220Z,38.8146667,-122.8215027,2.14,2.46,md,42,26,0.008336,0.06,nc,nc73904921,2023-06-25T05:38:14.975Z,"7km NW of The Geysers, CA",earthquake,0.17,0.24,0.19,49,automatic,nc,nc
+2023-06-25T05:21:00.136Z,-19.8766,-69.1384,114.075,4.1,mb,19,75,0.214,0.33,us,us7000kaxz,2023-06-25T05:53:21.040Z,"67 km ENE of Huara, Chile",earthquake,6.76,4.688,0.15,12,reviewed,us,us
 2023-06-25T05:13:45.400Z,35.6211667,-117.4798333,9.02,1,ml,7,142,0.06334,0.14,ci,ci40494632,2023-06-25T05:17:17.307Z,"18km SSW of Searles Valley, CA",earthquake,0.72,1.39,0.082,4,automatic,ci,ci
 2023-06-25T05:01:48.080Z,34.0581667,-117.1693333,10.91,0.95,ml,28,129,0.05241,0.23,ci,ci40494624,2023-06-25T05:05:24.542Z,"1km ENE of Redlands, CA",earthquake,0.4,0.58,0.206,26,automatic,ci,ci
 2023-06-25T04:58:57.102Z,64.8785,-147.3085,18.4,0.8,ml,,,,1.24,ak,ak023835bd9q,2023-06-25T05:00:26.448Z,"12 km W of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T12:24:49.900Z,33.4821667,-116.5178333,12.61,0.58,ml,33,89,0.0716,0.21,ci,ci40493952,2023-06-24T12:28:16.991Z,"17km ESE of Anza, CA",earthquake,0.31,0.63,0.142,16,automatic,ci,ci
 2023-06-24T12:23:35.070Z,58.2621666666667,-155.133166666667,31.02,0.58,ml,7,153,,0.32,av,av91108513,2023-06-25T04:25:37.510Z,"87 km NNW of Karluk, Alaska",earthquake,1.1,2.05,0.286967146915194,7,reviewed,av,av
 2023-06-24T12:23:00.440Z,58.2456666666667,-155.168,34.44,0.94,ml,12,114,,0.25,av,av91108508,2023-06-25T04:21:41.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.74,1.04,0.339081174127174,12,reviewed,av,av
-2023-06-24T12:22:51.610Z,58.2308333333333,-155.122,31.34,0.75,ml,11,102,,0.18,av,av91936436,2023-06-25T04:14:22.570Z,"83 km NNW of Karluk, Alaska",earthquake,0.55,0.85,0.449067923911541,10,reviewed,av,av
+2023-06-24T12:22:51.610Z,58.2308333333333,-155.122,31.34,0.75,ml,11,102,,0.18,av,av91936436,2023-06-25T04:14:22.570Z,"Alaska Peninsula",earthquake,0.55,0.85,0.449067923911541,10,reviewed,av,av
 2023-06-24T12:22:10.850Z,58.2485,-155.1415,32.93,0.09,ml,10,144,,0.18,av,av91108538,2023-06-25T05:33:52.910Z,"85 km NNW of Karluk, Alaska",earthquake,0.51,0.85,0.254913481004709,10,reviewed,av,av
 2023-06-24T12:21:49.320Z,58.2471666666667,-155.1715,33.53,-0.14,ml,7,154,,0.06,av,av91108528,2023-06-25T05:24:59.310Z,"Alaska Peninsula",earthquake,0.52,0.65,0.251892300140627,8,reviewed,av,av
 2023-06-24T12:20:13.200Z,58.2485,-155.137,32.34,-0.09,ml,12,99,,0.27,av,av91108518,2023-06-25T04:48:11.600Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,1.16,0.281977692594316,11,reviewed,av,av
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T06:21:23.422Z,63.4602,-151.2293,3.8,0.9,ml,,,,0.59,ak,ak02381iqvw3,2023-06-24T06:23:44.021Z,"26 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-24T06:19:42.200Z,32.929,-116.2393333,7.29,0.54,ml,16,69,0.0596,0.25,ci,ci40493736,2023-06-24T06:23:17.689Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.54,1.22,0.103,3,automatic,ci,ci
 2023-06-24T06:13:56.330Z,34.2991667,-117.598,10.29,1.88,ml,65,30,0.07833,0.24,ci,ci40493728,2023-06-24T07:00:18.342Z,"8km SSE of Wrightwood, CA",earthquake,0.24,0.51,0.153,27,automatic,ci,ci
-2023-06-24T05:49:01.325Z,60.0238,-152.5995,99.2,3.4,ml,,,,0.8,ak,ak02381ibekf,2023-06-24T15:34:40.482Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
