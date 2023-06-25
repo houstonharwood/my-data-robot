@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T16:06:21.880Z,32.9415,-116.2785,11.01,0.61,ml,19,111,0.02466,0.17,ci,ci40494952,2023-06-25T16:09:52.183Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.37,0.69,0.083,6,automatic,ci,ci
 2023-06-25T15:57:14.720Z,38.7606659,-122.7170029,1.33,1.47,md,12,81,0.006213,0.03,nc,nc73905136,2023-06-25T16:25:13.767Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.4,0.16,13,automatic,nc,nc
 2023-06-25T15:51:12.283Z,36.7612,-116.2529,9.6,0.2,ml,16,76.88,0.047,0.1293,nn,nn00861715,2023-06-25T15:53:08.528Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.24,10,automatic,nn,nn
-2023-06-25T15:49:29.990Z,38.5149994,-122.5849991,5.99,1.53,md,12,99,0.1127,0.08,nc,nc73905126,2023-06-25T16:15:16.708Z,"7km S of Calistoga, CA",earthquake,0.51,1.5,0.18,10,automatic,nc,nc
+2023-06-25T15:49:29.990Z,38.5149994,-122.5849991,5.99,1.53,md,12,99,0.1127,0.08,nc,nc73905126,2023-06-25T16:30:10.799Z,"7km S of Calistoga, CA",earthquake,0.51,1.5,0.18,10,automatic,nc,nc
 2023-06-25T15:44:27.090Z,19.1606674194336,-155.494995117188,29.3400001525879,1.71000004,md,29,124,,0.129999995,hv,hv73461437,2023-06-25T15:47:48.670Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.73,1.11000001,1.73000002,4,automatic,hv,hv
 2023-06-25T15:41:03.120Z,38.5198326,-122.5858307,7.8,2.13,md,38,33,0.1094,0.14,nc,nc73905116,2023-06-25T16:01:10.743Z,"7km S of Calistoga, CA",earthquake,0.27,1.14,0.1,38,automatic,nc,nc
 2023-06-25T15:37:57.930Z,38.7803345,-122.7213364,1.32,0.96,md,11,84,0.01237,0.04,nc,nc73905111,2023-06-25T15:54:14.700Z,"3km WNW of Anderson Springs, CA",earthquake,0.29,0.73,0.21,10,automatic,nc,nc
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T15:04:30.890Z,38.8186684,-122.8219986,2.12,0.75,md,15,55,0.01044,0.02,nc,nc73905086,2023-06-25T15:21:14.373Z,"7km NW of The Geysers, CA",earthquake,0.25,0.58,0.15,17,automatic,nc,nc
 2023-06-25T14:38:47.920Z,18.7900009155273,-155.244171142578,7.23999977111816,2.0999999,md,23,274,,0.159999996,hv,hv73461427,2023-06-25T14:42:08.470Z,"Hawaii region, Hawaii",earthquake,2.12,2.01999998,2.06999993,6,automatic,hv,hv
 2023-06-25T14:35:46.835Z,60.1473,-153.4581,153.5,2.5,ml,,,,0.78,ak,ak02383b4r1y,2023-06-25T15:32:23.040Z,"48 km E of Port Alsworth, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-25T14:35:45.370Z,38.8260002,-122.8059998,1.2,0.72,md,9,73,0.00411,0.02,nc,nc73905081,2023-06-25T14:52:15.213Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.23,11,automatic,nc,nc
+2023-06-25T14:35:45.370Z,38.8260002,-122.8059998,1.2,0.72,md,9,73,0.00411,0.02,nc,nc73905081,2023-06-25T16:32:13.812Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.23,11,automatic,nc,nc
 2023-06-25T14:33:43.020Z,40.1695,-117.8419,3,1.2,ml,3,304.73,0.411,0.1237,nn,nn00861719,2023-06-25T16:08:25.163Z,"53 km E of Lovelock, Nevada",earthquake,,4.3,0.08,2,reviewed,nn,nn
 2023-06-25T14:31:45.255Z,40.0849,-119.6664,14.8,0.4,ml,5,180.47,0.099,0.1234,nn,nn00861718,2023-06-25T16:05:18.978Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.5,0.14,3,reviewed,nn,nn
 2023-06-25T14:27:08.080Z,36.2696666666667,-83.529,7.39,2.5,md,26,88,0.07146,0.44,se,se60530996,2023-06-25T15:04:14.800Z,"1 km SW of Rutledge, Tennessee",earthquake,0.67,1.66,0.0731366724152389,13,reviewed,se,se
@@ -183,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T17:01:31.420Z,38.7955017,-122.7441635,0.68,0.26,md,6,96,0.01356,0.02,nc,nc73904701,2023-06-24T19:06:12.228Z,"2km NNE of The Geysers, CA",earthquake,0.48,3.32,0.05,8,automatic,nc,nc
 2023-06-24T16:58:43.320Z,34.1288333,-117.4323333,2.56,1.14,ml,26,44,0.06374,0.32,ci,ci40494216,2023-06-24T17:02:15.789Z,"4km NE of Fontana, CA",earthquake,0.49,0.63,0.385,29,automatic,ci,ci
 2023-06-24T16:56:14.982Z,60.8836,-149.5974,47.7,2.5,ml,,,,0.72,ak,ak02381owpav,2023-06-24T21:34:34.170Z,"4 km SSE of Hope, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-06-24T16:38:56.210Z,38.795166,-122.8081665,3.47,0.38,md,9,87,0.007906,0.02,nc,nc73904696,2023-06-24T18:38:12.036Z,"5km WNW of The Geysers, CA",earthquake,0.49,1.15,0.18,10,automatic,nc,nc
-2023-06-24T16:33:08.402Z,58.1906,-155.2827,0,0.4,ml,,,,0.33,ak,ak02381orrdk,2023-06-24T16:39:23.015Z,"84 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
