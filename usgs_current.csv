@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-28T22:33:49.050Z,35.6813316,-117.4185028,3.61,1.53,ml,20,80,0.01673,0.18,ci,ci40498520,2023-06-28T22:35:54.979Z,"10km S of Searles Valley, CA",earthquake,0.4,0.86,0.235,5,automatic,ci,ci
+2023-06-28T22:33:49.070Z,35.6805,-117.4206667,4.67,1.34,ml,16,102,0.01556,0.16,ci,ci40498520,2023-06-28T22:37:34.808Z,"10km S of Searles Valley, CA",earthquake,0.36,0.63,0.207,10,automatic,ci,ci
 2023-06-28T22:33:27.010Z,38.8069992,-122.7921677,1.93,1.76,md,33,39,0.002634,0.04,nc,nc73906461,2023-06-28T22:37:24.234Z,"4km NW of The Geysers, CA",earthquake,0.19,0.29,0.15,29,automatic,nc,nc
 2023-06-28T22:31:36.640Z,38.8149986,-122.8208313,0.03,0.41,md,7,99,0.008944,0.09,nc,nc73906456,2023-06-28T22:34:14.116Z,"7km NW of The Geysers, CA",earthquake,0.35,1.67,0.19,7,automatic,nc,nc
 2023-06-28T22:26:34.070Z,38.810833,-122.8291702,1.82,1.07,md,12,80,0.001962,0.03,nc,nc73906451,2023-06-28T22:28:08.906Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.51,0.23,14,automatic,nc,nc
@@ -27,12 +27,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T20:00:35.618Z,35.53877258,-96.74679565,4.682463169,2,ml,30,37.63975525,0.118216455,0.7212470539,ok,ok2023motd,2023-06-28T20:04:32.086Z,"8 km NW of Prague, Oklahoma",earthquake,2.166363429,1.84807867,0.2,17,automatic,ok,ok
 2023-06-28T19:38:38.188Z,60.0237,-151.7953,58.8,1.9,ml,,,,0.45,ak,ak02388cql1m,2023-06-28T19:40:35.349Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-28T19:28:52.120Z,58.2395,-155.163,3.17,-0.3,ml,7,77,,0.11,av,av91941871,2023-06-28T21:31:43.270Z,"85 km NNW of Karluk, Alaska",earthquake,0.5,1.38,0.253241646805227,7,reviewed,av,av
-2023-06-28T19:23:38.650Z,46.854,-121.7495,0.5,0.1,ml,9,116,0.02056,0.08,uw,uw61937026,2023-06-28T20:15:55.830Z,"23 km ENE of Ashford, Washington",earthquake,0.29,0.99,0.12538716988293686,5,reviewed,uw,uw
+2023-06-28T19:23:38.650Z,46.854,-121.7495,0.5,0.1,ml,9,116,0.02056,0.08,uw,uw61937026,2023-06-28T20:15:55.830Z,"Washington",earthquake,0.29,0.99,0.12538716988293686,5,reviewed,uw,uw
 2023-06-28T19:23:09.012Z,61.6261,-149.9309,45.3,1.3,ml,,,,0.45,ak,ak02388cnb1x,2023-06-28T19:29:17.849Z,"6 km W of Houston, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-28T19:19:51.770Z,46.85633333333333,-121.7515,1.06,1.31,ml,15,102,0.01959,0.09,uw,uw61937021,2023-06-28T20:10:34.140Z,"23 km ENE of Ashford, Washington",earthquake,0.29,0.55,0.18873820110568162,6,reviewed,uw,uw
 2023-06-28T19:16:59.943Z,59.1128,-152.2858,49.1,1.5,ml,,,,0.58,ak,ak02388clwyy,2023-06-28T19:18:37.018Z,"34 km SW of Nanwalek, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-06-28T19:15:37.450Z,33.8673333,-117.4975,0.58,1.29,ml,31,43,0.06623,0.27,ci,ci40498280,2023-06-28T19:19:14.860Z,"2km ESE of Home Gardens, CA",quarry blast,0.41,31.61,0.147,32,automatic,ci,ci
-2023-06-28T19:08:38.799Z,32.5981,47.3725,17.103,4.6,mb,68,171,5.643,0.86,us,us6000knqa,2023-06-28T20:10:12.040Z,"14 km SE of Dehlorān, Iran",earthquake,9.98,4.713,0.052,110,reviewed,us,us
+2023-06-28T19:08:38.799Z,32.5981,47.3725,17.103,4.6,mb,68,171,5.643,0.86,us,us6000knqa,2023-06-28T20:10:12.040Z,"Iran-Iraq border region",earthquake,9.98,4.713,0.052,110,reviewed,us,us
 2023-06-28T19:04:22.799Z,56.3726,-149.7439,10,3.2,ml,40,179,2.098,0.79,us,us6000knq8,2023-06-28T20:30:49.591Z,"206 km SE of Chiniak, Alaska",earthquake,6.01,1.99,0.052,48,reviewed,us,us
 2023-06-28T18:51:03.449Z,61.5383,-149.9056,35.7,1.2,ml,,,,0.28,ak,ak02388c7v2g,2023-06-28T18:52:23.269Z,"3 km NE of Big Lake, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2023-06-28T18:50:45.360Z,19.1521663665771,-155.356170654297,28.9699993133545,1.77,ml,36,183,,0.109999999,hv,hv73464417,2023-06-28T18:56:17.120Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.61,0.839999974,0.34,3,automatic,hv,hv
@@ -223,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T23:01:03.190Z,38.8081665,-122.8121643,1.9,0.97,md,15,79,0.01318,0.02,nc,nc73906116,2023-06-27T23:29:14.381Z,"6km NW of The Geysers, CA",earthquake,0.25,0.54,0.27,16,automatic,nc,nc
 2023-06-27T22:50:13.770Z,39.5981,-119.9679,6.9,0.5,ml,4,236.11,0.011,0.0746,nn,nn00861862,2023-06-28T01:09:13.899Z,"9 km NNE of Verdi, Nevada",earthquake,,2.4,0.28,2,reviewed,nn,nn
 2023-06-27T22:48:16.600Z,61.7135,-147.8487,22.3,1.3,ml,,,,0.57,ak,ak02386r1mv0,2023-06-27T22:50:00.774Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-27T22:40:45.997Z,31.62873653,-104.3339599,6.799975586,1.7,ml,15,72,0.07287918392,0.1,tx,tx2023mncy,2023-06-28T14:39:23.385Z,"60 km S of Whites City, New Mexico",earthquake,1.19496773,1.126747579,0.2,7,reviewed,tx,tx
-2023-06-27T22:38:35.890Z,32.474,-115.5625,6.53,2.42,ml,32,66,0.06561,0.26,ci,ci40497568,2023-06-28T15:12:46.956Z,"12km S of Progreso, B.C., MX",earthquake,0.3,0.85,0.156,47,reviewed,ci,ci
