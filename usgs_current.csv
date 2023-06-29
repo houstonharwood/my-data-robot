@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T05:34:31.903Z,58.2744,-155.4079,131.4,0.5,ml,,,,1.05,ak,ak02389rwzpy,2023-06-29T05:36:35.636Z,"Alaska Peninsula",earthquake,,3.4,,,automatic,ak,ak
+2023-06-29T05:30:44.340Z,64.4247,-150.6311,15.3,1.1,ml,,,,0.46,ak,ak02389rw5te,2023-06-29T05:33:23.278Z,"64 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-29T05:16:10.770Z,17.9681666666667,-67.0771666666667,7.96,2.75,md,14,234,0.03138,0.14,pr,pr71415053,2023-06-29T05:32:47.960Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.54,0.51,0.140520313576305,6,reviewed,pr,pr
+2023-06-29T05:15:50.136Z,-20.4377,-178.0806,528.441,4.9,mb,71,31,2.788,0.79,us,us6000kntf,2023-06-29T05:32:05.040Z,"Fiji region",earthquake,9.72,7.418,0.026,476,reviewed,us,us
 2023-06-29T04:59:31.800Z,19.1940002441406,-155.384506225586,31.3400001525879,2.38,ml,44,163,,0.129999995,hv,hv73464847,2023-06-29T05:05:01.510Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.74000001,3.62,16,automatic,hv,hv
 2023-06-29T04:57:59.357Z,37.2304,71.7896,128.212,5,mww,67,59,2.244,0.89,us,us6000kntb,2023-06-29T05:13:44.040Z,"Afghanistan-Tajikistan border region",earthquake,3.42,6.95,0.089,12,reviewed,us,us
 2023-06-29T04:46:02.350Z,38.7961655,-122.7811661,3.83,0.28,md,6,145,0.006061,0.01,nc,nc73906566,2023-06-29T05:02:15.178Z,"3km NW of The Geysers, CA",earthquake,1.12,3.04,0.04,8,automatic,nc,nc
@@ -84,12 +88,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T20:00:35.618Z,35.53877258,-96.74679565,4.682463169,2,ml,30,37.63975525,0.118216455,0.7212470539,ok,ok2023motd,2023-06-28T20:04:32.086Z,"8 km NW of Prague, Oklahoma",earthquake,2.166363429,1.84807867,0.2,17,automatic,ok,ok
 2023-06-28T19:38:38.188Z,60.0237,-151.7953,58.8,1.9,ml,,,,0.45,ak,ak02388cql1m,2023-06-28T19:40:35.349Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-28T19:28:52.120Z,58.2395,-155.163,3.17,-0.3,ml,7,77,,0.11,av,av91941871,2023-06-28T21:31:43.270Z,"85 km NNW of Karluk, Alaska",earthquake,0.5,1.38,0.253241646805227,7,reviewed,av,av
-2023-06-28T19:23:38.650Z,46.854,-121.7495,0.5,0.1,ml,9,116,0.02056,0.08,uw,uw61937026,2023-06-28T20:15:55.830Z,"23 km ENE of Ashford, Washington",earthquake,0.29,0.99,0.12538716988293686,5,reviewed,uw,uw
+2023-06-28T19:23:38.650Z,46.854,-121.7495,0.5,0.1,ml,9,116,0.02056,0.08,uw,uw61937026,2023-06-28T20:15:55.830Z,"Washington",earthquake,0.29,0.99,0.12538716988293686,5,reviewed,uw,uw
 2023-06-28T19:23:09.012Z,61.6261,-149.9309,45.3,1.3,ml,,,,0.45,ak,ak02388cnb1x,2023-06-28T19:29:17.849Z,"6 km W of Houston, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-28T19:19:51.770Z,46.85633333333333,-121.7515,1.06,1.31,ml,15,102,0.01959,0.09,uw,uw61937021,2023-06-28T20:10:34.140Z,"23 km ENE of Ashford, Washington",earthquake,0.29,0.55,0.18873820110568162,6,reviewed,uw,uw
 2023-06-28T19:16:59.943Z,59.1128,-152.2858,49.1,1.5,ml,,,,0.58,ak,ak02388clwyy,2023-06-28T19:18:37.018Z,"34 km SW of Nanwalek, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-06-28T19:15:37.370Z,33.8663333,-117.5003333,0.64,1.26,ml,37,43,0.05139,0.16,ci,ci40498280,2023-06-28T23:51:28.251Z,"2km SE of Home Gardens, CA",quarry blast,0.27,31.61,0.106,20,reviewed,ci,ci
-2023-06-28T19:08:38.799Z,32.5981,47.3725,17.103,4.6,mb,68,171,5.643,0.86,us,us6000knqa,2023-06-28T20:10:12.040Z,"14 km SE of Dehlorān, Iran",earthquake,9.98,4.713,0.052,110,reviewed,us,us
+2023-06-28T19:08:38.799Z,32.5981,47.3725,17.103,4.6,mb,68,171,5.643,0.86,us,us6000knqa,2023-06-28T20:10:12.040Z,"Iran-Iraq border region",earthquake,9.98,4.713,0.052,110,reviewed,us,us
 2023-06-28T19:04:22.799Z,56.3726,-149.7439,10,3.2,ml,40,179,2.098,0.79,us,us6000knq8,2023-06-28T20:30:49.591Z,"206 km SE of Chiniak, Alaska",earthquake,6.01,1.99,0.052,48,reviewed,us,us
 2023-06-28T18:51:03.449Z,61.5383,-149.9056,35.7,1.2,ml,,,,0.28,ak,ak02388c7v2g,2023-06-28T18:52:23.269Z,"3 km NE of Big Lake, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2023-06-28T18:50:45.360Z,19.1521663665771,-155.356170654297,28.9699993133545,1.77,ml,36,183,,0.109999999,hv,hv73464417,2023-06-28T18:56:17.120Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.61,0.839999974,0.34,3,automatic,hv,hv
@@ -226,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T05:48:52.160Z,44.7431666666667,-112.705833333333,6.64,0.13,ml,3,210,0.1323,0.06,mb,mb90020068,2023-06-28T17:25:20.340Z,"14 km NW of Lima, Montana",earthquake,0.89,2.03,0.00649246546681148,2,reviewed,mb,mb
 2023-06-28T05:47:41.590Z,33.7558333,-116.7093333,18.66,0.52,ml,16,109,0.04168,0.28,ci,ci40497760,2023-06-28T13:02:30.929Z,"2km NNE of Idyllwild, CA",earthquake,0.73,1.39,0.125,7,reviewed,ci,ci
 2023-06-28T05:47:29.110Z,33.715,-116.7035,18.16,0.36,ml,16,152,0.007059,0.19,ci,ci40497752,2023-06-28T13:02:33.608Z,"3km SSE of Idyllwild, CA",earthquake,0.59,0.51,0.062,6,reviewed,ci,ci
-2023-06-28T05:34:27.650Z,39.2238,-120.0799,6.4,-0.1,ml,7,127.6,0.039,0.1351,nn,nn00861886,2023-06-28T17:36:30.943Z,"0 km SSE of Carnelian Bay, California",earthquake,,2.2,0.05,2,reviewed,nn,nn
