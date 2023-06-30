@@ -1,11 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-30T02:55:06.309Z,63.6101,-152.4104,0,1.9,ml,,,,1.03,ak,ak0238bdshgm,2023-06-30T02:57:14.977Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-30T02:43:00.500Z,33.054,-115.8825,2.97,0.81,ml,14,68,0.08003,0.23,ci,ci40500112,2023-06-30T02:46:36.146Z,"24km W of Westmorland, CA",earthquake,0.54,0.75,0.055,7,automatic,ci,ci
+2023-06-30T02:24:57.440Z,33.6735,-116.7218333,17.54,0.36,ml,17,94,0.03811,0.23,ci,ci40500104,2023-06-30T02:28:28.980Z,"7km S of Idyllwild, CA",earthquake,0.62,0.89,0.073,5,automatic,ci,ci
+2023-06-30T02:24:00.271Z,54.6589,-159.8045,35,3.4,ml,23,211,0.793,1.16,us,us6000kp0r,2023-06-30T02:35:05.040Z,"87 km SSE of Sand Point, Alaska",earthquake,3.86,2.019,0.085,18,reviewed,us,us
+2023-06-30T02:21:10.140Z,19.7258,-64.2373,37,3.82,md,15,314,1.5503,0.41,pr,pr2023181000,2023-06-30T02:51:55.799Z,"165 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,25.69,0.06,8,reviewed,pr,pr
+2023-06-30T02:18:28.610Z,38.7815018,-122.76017,0.86,1.72,md,28,60,0.01161,0.06,nc,nc73906966,2023-06-30T02:30:10.867Z,"1km NW of The Geysers, CA",earthquake,0.22,0.33,0.16,26,automatic,nc,nc
 2023-06-30T02:05:36.136Z,35.86791992,-98.04396057,4.370327473,1.89,ml,26,63.57522583,0.09739731997,0.2747952723,ok,ok2023mrar,2023-06-30T02:09:18.912Z,"10 km W of Kingfisher, Oklahoma",earthquake,2.650656025,2.200392987,0.21,20,automatic,ok,ok
-2023-06-30T01:52:28.502Z,2.982,-73.6257,10,4.7,mb,40,61,1.976,1.36,us,us6000kp0m,2023-06-30T02:13:39.553Z,"21 km SE of Vistahermosa, Colombia",earthquake,7.73,1.845,0.052,115,reviewed,us,us
+2023-06-30T01:52:28.502Z,2.982,-73.6257,10,4.7,mb,40,61,1.976,1.36,us,us6000kp0m,2023-06-30T02:56:56.989Z,"21 km SE of Vistahermosa, Colombia",earthquake,7.73,1.845,0.052,115,reviewed,us,us
 2023-06-30T01:51:35.199Z,61.4954,-150.0265,33,1,ml,,,,0.6,ak,ak0238bd697z,2023-06-30T01:53:28.769Z,"4 km SW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T01:51:34.310Z,17.9415,-66.8208333333333,11.03,1.82,md,7,215,0.06486,0.05,pr,pr71415173,2023-06-30T02:06:40.720Z,"5 km S of Indios, Puerto Rico",earthquake,1.07,0.52,0.247069483854203,4,reviewed,pr,pr
 2023-06-30T01:36:51.072Z,65.4215,-144.552,0,1.2,ml,,,,1.29,ak,ak0238bd32mu,2023-06-30T01:40:10.049Z,"20 km SE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T01:18:49.759Z,58.2708,-150.6531,0,1.9,ml,,,,0.53,ak,ak0238bcz7pr,2023-06-30T01:20:54.702Z,"115 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-30T01:03:15.900Z,38.7905006,-122.7123337,0.75,1.28,md,15,106,0.0204,0.06,nc,nc73906956,2023-06-30T01:21:10.430Z,"2km NW of Anderson Springs, CA",earthquake,0.28,0.5,0.2,14,automatic,nc,nc
+2023-06-30T01:03:15.900Z,38.7905006,-122.7123337,0.75,1.28,md,15,106,0.0204,0.06,nc,nc73906956,2023-06-30T02:41:11.935Z,"2km NW of Anderson Springs, CA",earthquake,0.28,0.5,0.2,14,automatic,nc,nc
 2023-06-30T01:02:37.880Z,38.788166,-122.7096634,1.96,1.11,md,10,120,0.02155,0.02,nc,nc73906951,2023-06-30T02:11:10.762Z,"2km NW of Anderson Springs, CA",earthquake,0.44,1.19,0.17,11,automatic,nc,nc
 2023-06-30T00:59:53.600Z,38.8438339,-122.8318329,2.59,0.78,md,9,128,0.005964,0.02,nc,nc73906941,2023-06-30T01:01:26.765Z,"10km WNW of Cobb, CA",earthquake,0.71,1.37,0.15,10,automatic,nc,nc
 2023-06-30T00:53:24.010Z,34.4626667,-117.9568333,8.69,1.23,ml,27,39,0.01374,0.19,ci,ci40500064,2023-06-30T00:57:02.307Z,"7km SW of Pearblossom, CA",earthquake,0.28,0.53,0.318,28,automatic,ci,ci
@@ -26,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T23:09:03.418Z,58.1817,-155.2467,0,0.9,ml,,,,0.69,ak,ak0238a2hdid,2023-06-29T23:10:36.554Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T23:06:30.960Z,38.835,-122.8161667,1.39,0.39,md,8,95,0.01253,0.02,nc,nc73906896,2023-06-30T00:03:00.254Z,"8km W of Cobb, CA",earthquake,0.37,0.67,0.125,6,reviewed,nc,nc
 2023-06-29T23:04:34.129Z,57.1476,-155.3287,0,1.8,ml,,,,0.9,ak,ak0238a2gdas,2023-06-29T23:07:22.051Z,"70 km SW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-29T22:58:57.650Z,38.7813339,-122.7573318,1.13,1.12,md,14,81,0.01622,0.03,nc,nc73906891,2023-06-30T00:13:11.053Z,"0km N of The Geysers, CA",earthquake,0.25,0.48,0.23,11,automatic,nc,nc
+2023-06-29T22:58:57.650Z,38.7813339,-122.7573318,1.13,1.12,md,14,81,0.01622,0.03,nc,nc73906891,2023-06-30T02:49:11.976Z,"0km N of The Geysers, CA",earthquake,0.25,0.48,0.23,11,automatic,nc,nc
 2023-06-29T22:55:36.414Z,58.2786,-155.0427,0.5,1.4,ml,,,,0.58,ak,ak0238a25ukw,2023-06-29T22:57:53.553Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-29T22:48:28.050Z,19.5886,-65.6566,52,3.71,md,11,285,1.3345,0.54,pr,pr2023180001,2023-06-29T23:19:44.767Z,"Puerto Rico region",earthquake,6.14,25.38,0.12,8,reviewed,pr,pr
 2023-06-29T22:35:32.280Z,33.3476667,-116.3401667,13.56,0.82,ml,25,129,0.02949,0.2,ci,ci40499936,2023-06-30T00:10:19.130Z,"11km NNE of Borrego Springs, CA",earthquake,0.38,0.66,0.135,9,reviewed,ci,ci
@@ -152,13 +158,20 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T11:35:08.531Z,64.6489,-149.7078,19.2,0.8,ml,,,,0.26,ak,ak02389vhr9h,2023-06-29T11:37:43.126Z,"28 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-29T11:31:17.553Z,59.9914,-140.3016,0,2.4,ml,,,,0.55,ak,ak02389vgx3f,2023-06-29T11:33:08.012Z,"59 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-29T11:30:20.661Z,10.2224,126.9149,37.914,5.2,mww,63,89,3.4,1.11,us,us6000knv0,2023-06-29T11:45:39.040Z,"97 km ENE of Pilar, Philippines",earthquake,8.24,7.563,0.093,11,reviewed,us,us
+2023-06-29T11:27:03.490Z,58.1908333333333,-155.314,3.58,0.58,ml,14,52,,0.13,av,av91108928,2023-06-30T03:00:16.140Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.44,0.266415727896265,14,reviewed,av,av
+2023-06-29T11:26:45.030Z,58.1856666666667,-155.3055,2.22,-0.02,ml,8,99,,0.08,av,av91942626,2023-06-30T02:56:13.870Z,"Alaska Peninsula",earthquake,0.23,0.41,0.34241586870196,8,reviewed,av,av
 2023-06-29T11:26:43.931Z,39.6359,-119.6411,10.2,1.7,ml,25,76.55,0.12,0.1738,nn,nn00861947,2023-06-29T18:00:24.237Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.3,0.31,8,reviewed,nn,nn
 2023-06-29T11:24:49.520Z,38.8181648,-122.8193359,2.18,0.75,md,10,108,0.008923,0.02,nc,nc73906651,2023-06-29T11:26:25.286Z,"7km NW of The Geysers, CA",earthquake,0.39,0.76,0.17,10,automatic,nc,nc
-2023-06-29T11:24:41.728Z,58.1832,-155.2505,0,0.8,ml,,,,0.78,ak,ak02389vfgy4,2023-06-29T11:26:15.711Z,"83 km NW of Karluk, Alaska",earthquake,,13.7,,,automatic,ak,ak
+2023-06-29T11:24:41.728Z,58.1832,-155.2505,0,0.8,ml,,,,0.78,ak,ak02389vfgy4,2023-06-30T02:52:42.800Z,"83 km NW of Karluk, Alaska",earthquake,,13.7,,,automatic,ak,ak
 2023-06-29T11:23:08.126Z,39.6407,-119.6432,9.8,2.2,ml,32,73.43,0.123,0.1588,nn,nn00861944,2023-06-29T17:02:00.431Z,"5 km E of Spanish Springs, Nevada",earthquake,,1,0.31,9,reviewed,nn,nn
-2023-06-29T11:22:01.276Z,58.1891,-155.3104,1.6,0.8,ml,,,,0.24,ak,ak02389veye7,2023-06-29T11:23:53.688Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
+2023-06-29T11:22:01.276Z,58.1891,-155.3104,1.6,0.8,ml,,,,0.24,ak,ak02389veye7,2023-06-30T02:43:48.430Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-06-29T11:09:02.550Z,38.8213348,-122.8111649,1.22,0.28,md,10,109,0.002227,0.1,nc,nc73906641,2023-06-29T11:36:13.649Z,"7km NW of The Geysers, CA",earthquake,0.44,1.01,0.08,10,automatic,nc,nc
-2023-06-29T10:59:54.410Z,58.1865,-155.310166666667,2.49,0.05,ml,9,100,,0.07,av,av91108908,2023-06-30T02:16:01.290Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.37,0.241065022366433,10,reviewed,av,av
+2023-06-29T11:04:51.270Z,58.2503333333333,-155.074833333333,9.05,-0.2,ml,15,104,,0.16,av,av91942606,2023-06-30T02:39:35.150Z,"Alaska Peninsula",earthquake,0.39,0.47,0.296417255845947,15,reviewed,av,av
+2023-06-29T11:04:21.540Z,58.1813333333333,-155.304,0.88,-0.63,ml,5,158,,0.06,av,av91108923,2023-06-30T02:35:13.810Z,"84 km NW of Karluk, Alaska",earthquake,0.24,1.08,0.281067462450659,5,reviewed,av,av
+2023-06-29T11:04:14.850Z,58.1806666666667,-155.301666666667,0.53,-0.29,ml,6,159,,0.05,av,av91942601,2023-06-30T02:32:35.960Z,"84 km NW of Karluk, Alaska",earthquake,0.23,1.22,0.195927991430516,6,reviewed,av,av
+2023-06-29T11:03:12.900Z,58.1843333333333,-155.307666666667,2.29,-0.11,ml,9,100,,0.08,av,av91108918,2023-06-30T02:27:12.250Z,"Alaska Peninsula",earthquake,0.23,0.35,0.303982183205358,10,reviewed,av,av
+2023-06-29T11:02:51.670Z,58.1846666666667,-155.307333333333,1.91,-0.57,ml,7,100,,0.06,av,av91942596,2023-06-30T02:24:40.540Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.59,0.266173123592412,7,reviewed,av,av
+2023-06-29T10:59:58.950Z,58.1808333333333,-155.303,1.34,0.25,ml,7,100,,0.12,av,av91108913,2023-06-30T02:20:52.820Z,"Alaska Peninsula",earthquake,0.28,1.04,0.231616163497332,7,reviewed,av,av
 2023-06-29T10:58:51.190Z,58.185,-155.310166666667,2.38,0.02,ml,10,101,,0.09,av,av91942586,2023-06-30T02:11:32.610Z,"Alaska Peninsula",earthquake,0.24,0.38,0.319831649065945,10,reviewed,av,av
 2023-06-29T10:58:45.090Z,37.7361667,-112.64,9.49,2.13,ml,22,57,0.3481,0.26,uu,uu60544247,2023-06-29T14:07:37.160Z,"Utah",earthquake,0.47,1.09,0.136,14,reviewed,uu,uu
 2023-06-29T10:58:37.780Z,58.1805,-155.304833333333,0.54,-0.68,ml,5,160,,0.04,av,av91108898,2023-06-30T02:08:57.760Z,"Alaska Peninsula",earthquake,0.23,1.16,0.307200763094828,5,reviewed,av,av
@@ -274,10 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T03:25:13.440Z,58.1895,-155.3025,2.69,-0.02,ml,10,95,,0.08,av,av91942261,2023-06-29T22:27:23.570Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.38,0.297031876515407,10,reviewed,av,av
 2023-06-29T03:15:34.265Z,64.922,-147.2873,0,1.4,ml,,,,1.28,ak,ak02389qm204,2023-06-29T03:18:26.293Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-29T03:07:47.347Z,61.1377,-150.7175,17,1.2,ml,,,,0.21,ak,ak02389qkdda,2023-06-29T03:09:43.165Z,"19 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-29T02:55:21.255Z,58.1728,-155.2741,0.7,0.5,ml,,,,0.32,ak,ak02389q964d,2023-06-29T22:01:42.420Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
-2023-06-29T02:52:46.290Z,37.8678333,-121.7915,11.27,1.78,md,23,215,0.058,0.08,nc,nc73906541,2023-06-29T06:55:13.980Z,"9km SW of Brentwood, CA",earthquake,0.32,0.38,0.152,27,reviewed,nc,nc
-2023-06-29T02:45:07.240Z,19.5683333333333,-156.150333333333,32.53,3.06,ml,50,238,,0.16,hv,hv73464762,2023-06-29T05:21:43.040Z,"17 km WSW of Kailua-Kona, Hawaii",earthquake,0.54,0.89,0.166564874696323,23,reviewed,hv,hv
-2023-06-29T02:44:33.380Z,33.497,-116.7418333,11.13,0.49,ml,29,42,0.05124,0.16,ci,ci40498632,2023-06-29T17:02:27.579Z,"9km SW of Anza, CA",earthquake,0.21,0.54,0.085,14,reviewed,ci,ci
-2023-06-29T02:42:50.360Z,51.8338333333333,-178.015,0.16,1.65,ml,8,127,,0.25,av,av91942231,2023-06-29T21:55:35.760Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,1.22,0.283327611969803,8,reviewed,av,av
-2023-06-29T02:39:04.222Z,59.9348,-153.5322,126.5,1.6,ml,,,,0.49,ak,ak02389q5pcm,2023-06-29T02:41:00.296Z,"36 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-29T02:38:58.270Z,35.8065,-120.3495,3.83,0.91,md,23,104,0.02443,0.04,nc,nc73906536,2023-06-29T20:05:38.678Z,"11km NNW of Cholame, CA",earthquake,0.23,0.31,0.203,10,reviewed,nc,nc
