@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-30T21:16:36.920Z,32.5065,-115.9495,15.23,2.4,ml,35,74,0.08175,0.2,ci,ci40500936,2023-06-30T21:20:21.766Z,"26km S of Ocotillo, CA",earthquake,0.29,0.51,0.124,27,automatic,ci,ci
+2023-06-30T21:13:33.770Z,33.2666667,-116.4125,3.28,0.81,ml,20,108,0.004193,0.22,ci,ci40500928,2023-06-30T21:17:01.886Z,"4km WNW of Borrego Springs, CA",earthquake,0.48,0.61,0.104,16,automatic,ci,ci
 2023-06-30T21:10:31.300Z,38.8409996,-122.8389969,1.2,0.23,md,8,122,0.003648,0.02,nc,nc73907256,2023-06-30T21:12:10.157Z,"10km NW of The Geysers, CA",earthquake,0.33,0.63,0.1,7,automatic,nc,nc
-2023-06-30T20:59:41.150Z,40.2353325,-121.1636658,-1.33,3.45,ml,51,36,0.3291,0.52,nc,nc73907241,2023-06-30T21:10:47.958Z,"2km NNE of Almanor, CA",earthquake,0.66,2.81,0.249,29,automatic,nc,nc
+2023-06-30T20:59:41.150Z,40.2353325,-121.1636658,-1.33,3.45,ml,51,36,0.3291,0.52,nc,nc73907241,2023-06-30T21:20:27.417Z,"2km NNE of Almanor, CA",earthquake,0.66,2.81,0.249,29,automatic,nc,nc
 2023-06-30T20:58:18.399Z,62.1036,-149.7361,36,1.6,ml,,,,0.43,ak,ak0238boiyfj,2023-06-30T21:00:24.518Z,"8 km SE of Susitna North, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-06-30T20:53:20.590Z,40.2141685,-124.114502,11.3,1.4,md,9,93,0.04412,0.06,nc,nc73907231,2023-06-30T21:03:11.288Z,"19km SE of Petrolia, CA",earthquake,0.54,0.92,0.04,5,automatic,nc,nc
 2023-06-30T20:41:42.090Z,38.4883333,-112.8388333,0.17,-0.41,md,8,219,0.02709,0.06,uu,uu60544407,2023-06-30T20:52:33.860Z,"Utah",earthquake,0.75,31.61,0.316,3,reviewed,uu,uu
+2023-06-30T20:24:17.267Z,31.27964336,-103.6789719,5.437451172,1.8,ml,15,79,0.06485485839,0.2,tx,tx2023msky,2023-06-30T21:15:18.485Z,"11 km ESE of Toyah, Texas",earthquake,2.54980925,3.457882045,0.1,6,reviewed,tx,tx
 2023-06-30T20:21:41.450Z,38.4886667,-112.8396667,-0.44,1.47,ml,15,101,0.01214,0.09,uu,uu60544402,2023-06-30T20:37:38.570Z,"Utah",earthquake,0.2,0.13,0.028,2,reviewed,uu,uu
 2023-06-30T20:08:50.910Z,32.3556671,-115.3635025,11.67,3.25,ml,43,58,0.08063,0.36,ci,ci40500864,2023-06-30T20:22:12.613Z,"16km W of Delta, B.C., MX",earthquake,0.38,0.88,0.354,20,automatic,ci,ci
 2023-06-30T19:57:55.050Z,38.8246651,-122.8030014,2.44,1.08,md,21,34,0.005668,0.01,nc,nc73907221,2023-06-30T19:59:32.297Z,"7km NW of The Geysers, CA",earthquake,0.22,0.46,0.16,21,automatic,nc,nc
@@ -13,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T19:45:44.461Z,58.1725,-155.368,0,0,ml,,,,0.4,ak,ak0238bnusj2,2023-06-30T19:47:37.254Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T19:44:38.677Z,63.0442,-150.6523,118.2,1.1,ml,,,,0.13,ak,ak0238bnukd7,2023-06-30T19:47:34.783Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-30T19:34:59.651Z,58.1741,-155.2853,0,1.8,ml,,,,0.49,ak,ak0238bnsgtv,2023-06-30T19:37:31.807Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"135 km NNE of San Juan, Puerto Rico",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
+2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"Puerto Rico region",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
 2023-06-30T19:26:36.420Z,33.8868333,-117.4788333,0.73,1.09,ml,20,74,0.05417,0.3,ci,ci40500808,2023-06-30T19:30:16.447Z,"4km ENE of Home Gardens, CA",earthquake,0.53,31.61,0.24,22,automatic,ci,ci
 2023-06-30T19:16:27.800Z,46.89033333333333,-121.924,12.76,0.31,ml,17,101,0.01891,0.11,uw,uw61937556,2023-06-30T20:13:30.510Z,"16 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.21024528403430495,11,reviewed,uw,uw
 2023-06-30T19:15:13.740Z,36.019,-96.534,0,1.21,ml,51,132,0.1781650379,0.35,ok,ok2023msir,2023-06-30T21:10:46.116Z,"6 km ENE of Drumright, Oklahoma",quarry blast,,0.3,0.18,22,reviewed,ok,ok
@@ -47,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T16:58:46.092Z,31.68622473,-104.4011985,6.131567383,2.1,ml,39,80,0.02187611446,0.2,tx,tx2023msee,2023-06-30T19:41:55.096Z,"54 km S of Whites City, New Mexico",earthquake,0.6688456795999999,0.5891604655,0,7,reviewed,tx,tx
 2023-06-30T16:55:46.937Z,40.3849,-119.4086,15.2,0.7,ml,4,303.66,0.327,0.1333,nn,nn00861995,2023-06-30T18:36:27.360Z,"21 km SSW of Empire, Nevada",earthquake,,4.5,0.12,3,reviewed,nn,nn
 2023-06-30T16:54:55.850Z,34.624,-117.2901667,0.26,1.4,ml,18,94,0.07108,0.35,ci,ci40500648,2023-06-30T16:58:33.027Z,"10km N of Victorville, CA",earthquake,0.85,31.61,0.148,19,automatic,ci,ci
-2023-06-30T16:52:49.740Z,35.0035,-118.5126667,4.61,1.2,ml,25,66,0.1411,0.23,ci,ci40500640,2023-06-30T16:56:21.930Z,"15km SSW of Tehachapi, CA",earthquake,0.33,1.39,0.149,20,automatic,ci,ci
+2023-06-30T16:52:49.600Z,34.9971667,-118.5185,9.29,1.17,ml,25,54,0.1454,0.12,ci,ci40500640,2023-06-30T21:20:25.878Z,"16km SSW of Tehachapi, CA",earthquake,0.17,0.67,0.096,17,reviewed,ci,ci
 2023-06-30T16:49:43.240Z,34.9975,-118.5213333,9.81,1.26,ml,28,46,0.1473,0.09,ci,ci40500624,2023-06-30T21:08:30.050Z,"16km SSW of Tehachapi, CA",earthquake,0.12,0.41,0.196,23,reviewed,ci,ci
 2023-06-30T16:47:26.475Z,61.0466,-152.3693,19.2,0.9,ml,,,,0.6,ak,ak0238bm2vrb,2023-06-30T16:49:22.962Z,"66 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-30T16:46:53.062Z,21.0766,99.5199,10,4.5,mb,33,117,0.218,0.51,us,us6000kp8f,2023-06-30T17:06:31.040Z,"74 km SW of Kēng Tung, Myanmar",earthquake,8.33,1.905,0.106,26,reviewed,us,us
@@ -243,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T21:30:27.800Z,38.2965,-112.6618333,7.53,1.1,ml,11,263,0.1946,0.08,uu,uu60544292,2023-06-29T22:13:34.640Z,"Utah",earthquake,1.63,3.2,0.036,2,reviewed,uu,uu
 2023-06-29T21:26:35.430Z,34.679,-116.3085,1.44,1.53,ml,22,50,0.1295,0.16,ci,ci40499824,2023-06-30T00:35:20.490Z,"14km WSW of Ludlow, CA",earthquake,0.18,0.42,0.122,20,reviewed,ci,ci
 2023-06-29T21:22:41.800Z,40.1961667,-121.0976667,4.72,2.35,md,27,52,0.06313,0.13,nc,nc73906861,2023-06-30T03:36:14.226Z,"4km NNW of Canyondam, CA",earthquake,0.25,0.46,0.169,35,reviewed,nc,nc
-2023-06-29T21:15:10.800Z,38.8171667,-122.8248333,2.62,0.4,md,19,69,0.008955,0.03,nc,nc73906856,2023-06-29T23:58:29.840Z,"7km NW of The Geysers, CA",earthquake,0.25,0.45,0.137,18,reviewed,nc,nc
