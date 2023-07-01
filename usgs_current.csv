@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-01T22:44:37.050Z,38.8073349,-122.8231659,2.31,0.75,md,10,66,0.00494,0.01,nc,nc73907626,2023-07-01T22:47:17.385Z,"7km WNW of The Geysers, CA",earthquake,0.38,0.78,0.11,13,automatic,nc,nc
 2023-07-01T22:34:21.900Z,38.8251648,-122.8131638,2.03,0.77,md,12,70,0.002991,0.01,nc,nc73907621,2023-07-01T22:35:57.822Z,"7km NW of The Geysers, CA",earthquake,0.35,0.8,0.16,15,automatic,nc,nc
 2023-07-01T22:31:34.600Z,35.8471667,-117.6461667,2.44,1.05,ml,14,134,0.1039,0.22,ci,ci40501808,2023-07-01T22:35:09.350Z,"24km WNW of Searles Valley, CA",earthquake,0.48,0.86,0.166,8,automatic,ci,ci
 2023-07-01T22:29:00.420Z,32.7673333,-115.8348333,2.99,2.07,ml,33,56,0.1221,0.27,ci,ci40501800,2023-07-01T22:39:57.110Z,"15km ENE of Ocotillo, CA",earthquake,0.37,0.94,0.161,27,automatic,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T22:17:28.720Z,38.7913322,-122.7603302,1.93,0.49,md,8,123,0.02014,0.02,nc,nc73907611,2023-07-01T22:19:01.829Z,"2km NNW of The Geysers, CA",earthquake,0.51,1.32,0.27,7,automatic,nc,nc
 2023-07-01T22:16:41.450Z,33.9823333,-116.7856667,21.42,0.97,ml,23,82,0.05579,0.33,ci,ci40501792,2023-07-01T22:20:24.244Z,"7km N of Cabazon, CA",earthquake,0.65,1.32,0.283,23,automatic,ci,ci
 2023-07-01T22:15:08.610Z,38.847168,-122.8151703,1.31,0.49,md,9,78,0.009836,0.02,nc,nc73907606,2023-07-01T22:16:41.209Z,"8km WNW of Cobb, CA",earthquake,0.31,0.89,0.3,10,automatic,nc,nc
-2023-07-01T22:00:34.185Z,19.2964,-64.5569,30.924,3.3,ml,17,218,1.012,0.46,us,us6000kpid,2023-07-01T22:24:16.040Z,"109 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.21,14.428,0.066,30,reviewed,us,us
+2023-07-01T22:00:35.910Z,19.2856,-64.5591,12,3.8,md,20,300,1.0143,0.16,pr,pr2023182007,2023-07-01T22:43:23.380Z,"108 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.8,5.26,0.13,13,reviewed,pr,pr
 2023-07-01T21:52:18.420Z,38.7803345,-122.7643356,1.13,0.74,md,9,98,0.009663,0.02,nc,nc73907596,2023-07-01T21:54:57.486Z,"1km WNW of The Geysers, CA",earthquake,0.39,0.76,0.07,7,automatic,nc,nc
 2023-07-01T21:27:55.080Z,38.8165016,-122.7845001,9.85,0.49,md,7,207,0.004401,0.09,nc,nc73907591,2023-07-01T21:29:31.820Z,"5km NNW of The Geysers, CA",earthquake,3.4,8.49,0.21,9,automatic,nc,nc
 2023-07-01T21:11:35.542Z,59.2535,-153.0823,84.5,1.5,ml,,,,0.27,ak,ak0238dcdp76,2023-07-01T21:13:28.181Z,"67 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T22:52:44.880Z,33.399,-116.434,11.84,0.64,ml,18,74,0.09125,0.14,ci,ci40500992,2023-06-30T23:11:46.230Z,"17km NNW of Borrego Springs, CA",earthquake,0.34,1.01,0.137,17,reviewed,ci,ci
 2023-06-30T22:51:57.577Z,64.0415,-148.8036,0.1,1.6,ml,,,,0.46,ak,ak0238bpoenh,2023-06-30T22:53:48.718Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T22:49:26.010Z,35.506,-118.402,9.51,0.9,ml,13,67,0.1671,0.11,ci,ci40500984,2023-06-30T23:07:58.214Z,"12km SE of Bodfish, CA",earthquake,0.24,0.83,0.12,8,reviewed,ci,ci
-2023-06-30T22:45:53.300Z,19.1443333333333,-155.537,39.8,1.64,md,34,112,,0.12,hv,hv73466527,2023-07-01T00:12:33.880Z,"8 km SW of Pāhala, Hawaii",earthquake,0.5,0.61,0.0107943503560999,6,reviewed,hv,hv
