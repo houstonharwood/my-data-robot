@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T06:03:00.530Z,38.838665,-122.8228302,2.07,1.09,md,22,63,0.009885,0.02,nc,nc73907711,2023-07-02T06:04:37.565Z,"9km WNW of Cobb, CA",earthquake,0.21,0.45,0.14,23,automatic,nc,nc
 2023-07-02T05:45:01.310Z,33.8935,-116.7216667,10.14,0.87,ml,37,41,0.05571,0.18,ci,ci40501896,2023-07-02T05:48:34.178Z,"7km ESE of Cabazon, CA",earthquake,0.25,0.5,0.146,25,automatic,ci,ci
 2023-07-02T05:43:49.780Z,18.0156,-68.5058,62,3.8,md,20,222,0.5136,0.54,pr,pr2023183002,2023-07-02T06:16:32.661Z,"41 km SSE of Boca de Yuma, Dominican Republic",earthquake,2.96,5.91,0.09,12,reviewed,pr,pr
-2023-07-02T05:24:49.180Z,45.915333333333336,-122.98916666666666,27.42,2.73,ml,74,37,0.07952,0.15,uw,uw61929027,2023-07-02T06:49:47.198Z,"Oregon",earthquake,0.19,0.38,0.15425468371996853,115,reviewed,uw,uw
+2023-07-02T05:24:49.180Z,45.915333333333336,-122.98916666666666,27.42,2.73,ml,74,37,0.07952,0.15,uw,uw61929027,2023-07-02T06:54:49.368Z,"Oregon",earthquake,0.19,0.38,0.15425468371996853,115,reviewed,uw,uw
 2023-07-02T05:15:53.212Z,62.3881,-151.2403,78,1.9,ml,,,,0.48,ak,ak0238eqf08p,2023-07-02T05:18:22.766Z,"27 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-02T04:57:36.867Z,60.5981,-151.352,36.7,2,ml,,,,0.37,ak,ak0238eq2jg6,2023-07-02T04:58:46.636Z,"2 km SW of Salamatof, Alaska",earthquake,,5.8,,,automatic,ak,ak
 2023-07-02T04:56:43.230Z,19.1760005950928,-155.645660400391,8.14999961853027,2.08999991,md,30,77,,0.180000007,hv,hv73467937,2023-07-02T05:02:15.090Z,"12 km NNW of Wai‘ōhinu, Hawaii",earthquake,0.55,0.899999976,1.04999995,12,automatic,hv,hv
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T19:44:07.160Z,36.9458351,-121.4263306,5.17,1.31,md,10,118,0.1107,0.03,nc,nc73907566,2023-07-01T19:58:10.305Z,"11km NNW of Hollister, CA",earthquake,0.29,1.7,0.12,5,automatic,nc,nc
 2023-07-01T19:38:40.230Z,17.9936666666667,-67.0808333333333,11.25,2.29,md,7,171,0.03016,0.05,pr,pr71415578,2023-07-01T19:57:17.630Z,"4 km WNW of La Parguera, Puerto Rico",earthquake,0.51,0.44,0.00830955802571332,3,reviewed,pr,pr
 2023-07-01T19:37:41.005Z,60.3929,-151.0122,47.1,1,ml,,,,0.48,ak,ak0238dbcf7t,2023-07-02T03:29:37.583Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,reviewed,ak,ak
-2023-07-01T19:30:55.650Z,17.9498333333333,-66.9661666666667,15.37,2.16,md,4,212,0.07681,0.04,pr,pr71415568,2023-07-01T20:10:45.380Z,"6 km WSW of Guánica, Puerto Rico",earthquake,1.97,0.77,0.00965398825668751,4,reviewed,pr,pr
+2023-07-01T19:30:55.650Z,17.9498333333333,-66.9661666666667,15.37,2.16,md,4,212,0.07681,0.04,pr,pr71415568,2023-07-01T20:10:45.380Z,"Puerto Rico region",earthquake,1.97,0.77,0.00965398825668751,4,reviewed,pr,pr
 2023-07-01T19:26:42.610Z,33.95,-116.9075,18.61,1.87,ml,63,20,0.06713,0.2,ci,ci40501744,2023-07-01T19:37:42.530Z,"4km NW of Banning, CA",earthquake,0.19,0.32,0.173,26,automatic,ci,ci
 2023-07-01T19:23:42.540Z,38.7775002,-122.7223358,1.72,1,md,9,77,0.01262,0.03,nc,nc73907546,2023-07-01T19:25:16.548Z,"3km W of Anderson Springs, CA",earthquake,0.93,1.89,0.27,11,automatic,nc,nc
 2023-07-01T19:22:40.601Z,63.8556,-148.773,13.8,1,ml,,,,0.67,ak,ak0238db9798,2023-07-01T19:27:50.619Z,"9 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T07:18:47.087Z,-23.9268,-66.7,205.202,4.1,mwr,32,72,1.669,0.89,us,us6000kpdt,2023-07-01T07:36:52.040Z,"50 km NW of San Antonio de los Cobres, Argentina",earthquake,8.54,9.091,,,reviewed,us,guc
 2023-07-01T07:09:32.940Z,35.6696667,-117.5048333,1.89,0.69,ml,10,99,0.06621,0.17,ci,ci40501224,2023-07-01T07:13:03.739Z,"14km SW of Searles Valley, CA",earthquake,0.57,0.75,0.052,5,automatic,ci,ci
 2023-07-01T07:04:27.450Z,32.0723333,-117.3666667,11.42,1.97,ml,7,256,0.3565,0.06,ci,ci40501216,2023-07-01T07:08:12.711Z,"43km SW of Rosarito, B.C., MX",earthquake,1.35,1,0.156,7,automatic,ci,ci
-2023-07-01T06:56:49.670Z,34.0476667,-117.1686667,8.33,0.71,ml,25,59,0.04827,0.21,ci,ci40501208,2023-07-01T07:00:21.652Z,"2km SE of Redlands, CA",earthquake,0.37,0.8,0.175,13,automatic,ci,ci
-2023-07-01T06:55:06.870Z,18.8496,-64.3921,22,3.74,md,11,303,0.7522,0.2,pr,pr2023182005,2023-07-01T07:25:46.545Z,"71 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.28,15.3,0.12,9,reviewed,pr,pr
