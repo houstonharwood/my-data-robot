@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T12:49:02.950Z,17.9313,-67.0881,6,1.38,md,4,268,0.0581,0.04,pr,pr2023184003,2023-07-03T15:40:40.502Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.82,0.28,0.08,3,reviewed,pr,pr
 2023-07-03T12:44:34.790Z,17.9478,-67.0815,7,4.18,md,22,199,0.0431,0.1,pr,pr2023184002,2023-07-03T17:03:36.098Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.7,0.23,0.11,12,reviewed,pr,pr
 2023-07-03T12:40:05.167Z,-3.7258,140.1678,10,4.7,mb,26,102,1.316,0.65,us,us6000kpts,2023-07-03T12:59:41.040Z,"135 km SSW of Abepura, Indonesia",earthquake,7.76,1.909,0.104,28,reviewed,us,us
-2023-07-03T12:39:56.420Z,39.4113333,-123.2663333,7.58,1.62,md,21,78,0.06309,0.06,nc,nc73908251,2023-07-03T22:08:10.414Z,"8km E of Willits, CA",earthquake,0.17,0.55,0.103,20,reviewed,nc,nc
+2023-07-03T12:39:56.420Z,39.4113333,-123.2663333,7.58,1.62,md,21,78,0.06309,0.06,nc,nc73908251,2023-07-03T22:43:11.515Z,"8km E of Willits, CA",earthquake,0.17,0.55,0.103,20,reviewed,nc,nc
 2023-07-03T12:37:06.300Z,38.762001,-122.7074966,1.58,1.34,md,14,173,0.008905,0.04,nc,nc73908246,2023-07-03T14:50:13.648Z,"2km SW of Anderson Springs, CA",earthquake,0.44,0.4,0.18,10,automatic,nc,nc
 2023-07-03T12:19:11.800Z,38.8041649,-122.8176651,2.83,1.12,md,19,70,0.01015,0.02,nc,nc73908241,2023-07-03T14:19:13.464Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.56,0.34,21,automatic,nc,nc
 2023-07-03T12:13:56.000Z,35.6281667,-120.7413333,6.15,1.09,md,29,55,0.02488,0.13,nc,nc73908231,2023-07-03T18:19:11.039Z,"6km W of Paso Robles, CA",earthquake,0.23,0.53,0.278,14,reviewed,nc,nc
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T06:04:30.356Z,57.7857,-155.9381,8.3,2.4,ml,,,,0.33,ak,ak0238gehdp7,2023-07-03T07:26:04.040Z,"91 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-03T06:03:18.510Z,33.96,-116.7436667,18.34,1,ml,31,67,0.09196,0.19,ci,ci40502424,2023-07-03T06:06:59.598Z,"6km NE of Cabazon, CA",earthquake,0.29,0.56,0.138,26,automatic,ci,ci
 2023-07-03T05:58:52.250Z,38.6346667,-122.861,4.55,1.34,md,41,50,0.02047,0.08,nc,nc73908146,2023-07-03T10:31:13.051Z,"3km NNE of Healdsburg, CA",earthquake,0.16,0.28,0.193,38,reviewed,nc,nc
-2023-07-03T05:51:33.810Z,38.8305,-122.815,2.03,1.58,md,50,35,0.008071,0.04,nc,nc73908141,2023-07-03T22:37:31.548Z,"8km NW of The Geysers, CA",earthquake,0.11,0.19,0.17,44,reviewed,nc,nc
+2023-07-03T05:51:33.810Z,38.8305,-122.815,2.03,1.58,md,50,35,0.008071,0.04,nc,nc73908141,2023-07-03T22:38:22.429Z,"8km NW of The Geysers, CA",earthquake,0.11,0.19,0.17,44,reviewed,nc,nc
 2023-07-03T05:51:17.110Z,38.8195,-122.8219986,2.17,1.09,md,20,61,0.01009,0.02,nc,nc73908136,2023-07-03T05:53:56.700Z,"7km NW of The Geysers, CA",earthquake,0.21,0.44,0.15,19,automatic,nc,nc
 2023-07-03T05:35:59.010Z,17.999,-66.8735,11.6,2.61,md,7,119,0.02444,0.12,pr,pr71415998,2023-07-03T06:14:18.250Z,"1 km S of Palomas, Puerto Rico",earthquake,0.47,0.49,0.124649314471766,5,reviewed,pr,pr
 2023-07-03T05:34:35.030Z,35.4855,-118.3468333,0.3,1.2,ml,14,91,0.203,0.21,ci,ci40502416,2023-07-03T05:38:10.364Z,"17km SE of Bodfish, CA",earthquake,0.32,0.7,0.229,11,automatic,ci,ci
@@ -236,6 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T22:47:05.425Z,57.7796,-155.9668,11.7,4.4,ml,,,,0.7,ak,ak0238f0q4pu,2023-07-03T15:25:05.427Z,"Alaska Peninsula",earthquake,,0.2,,,reviewed,ak,ak
 2023-07-02T22:45:33.332Z,31.52915022,-104.0133316,8.650952148,2.7,ml,62,57,0.03523842304,0.3,tx,tx2023mwgr,2023-07-03T19:43:03.285Z,"31 km NW of Toyah, Texas",earthquake,0.7792670400000001,0.714319189,0.1,27,reviewed,tx,tx
 2023-07-02T22:44:44.400Z,17.9028333333333,-66.8543333333333,14.95,2.3,md,9,232,0.07564,0.16,pr,pr71415923,2023-07-02T23:03:34.810Z,"Puerto Rico region",earthquake,0.64,0.57,0.00875148487075039,4,reviewed,pr,pr
-2023-07-02T22:41:47.644Z,31.53008068,-104.0101112,6.697143555000001,2.1,ml,26,57,0.0378232475,0.1,tx,tx2023mwgn,2023-07-03T20:22:36.540Z,"31 km NW of Toyah, Texas",earthquake,1.08931951,0.6550828538,0,6,reviewed,tx,tx
-2023-07-02T22:39:25.700Z,38.7701667,-122.7143333,2.17,-0.13,md,9,87,0.01081,0.02,nc,nc73908036,2023-07-03T06:16:15.561Z,"2km WSW of Anderson Springs, CA",earthquake,0.72,0.44,0.094,2,reviewed,nc,nc
-2023-07-02T22:37:56.110Z,54.0191666666667,-166.094666666667,14.92,0.09,ml,8,299,,0.08,av,av91946706,2023-07-03T02:56:54.880Z,"24 km WSW of Akutan, Alaska",earthquake,1.47,1.16,0.229169971564869,8,reviewed,av,av
