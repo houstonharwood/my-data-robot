@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T14:21:05.031Z,62.199,-145.614,20,1.1,ml,,,,0.75,ak,ak0238juf4qv,2023-07-05T14:23:02.306Z,"10 km NNW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-05T14:21:00.598Z,61.3647,-150.528,27.4,1.1,ml,,,,0.43,ak,ak0238juf4ej,2023-07-05T14:23:06.003Z,"19 km S of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-05T14:17:14.470Z,32.9656667,-115.5706667,10.29,2.2,ml,34,45,0.06456,0.28,ci,ci40503832,2023-07-05T14:28:05.530Z,"4km WSW of Brawley, CA",earthquake,0.39,1.01,0.098,28,automatic,ci,ci
-2023-07-05T14:16:40.510Z,38.831665,-122.8176651,1.69,1.05,md,23,53,0.01017,0.04,nc,nc73909151,2023-07-05T14:19:24.990Z,"8km NW of The Geysers, CA",earthquake,0.21,0.41,0.25,21,automatic,nc,nc
+2023-07-05T14:16:40.510Z,38.831665,-122.8176651,1.69,1.05,md,23,53,0.01017,0.04,nc,nc73909151,2023-07-05T14:34:12.132Z,"8km NW of The Geysers, CA",earthquake,0.21,0.41,0.25,21,automatic,nc,nc
 2023-07-05T14:13:24.155Z,61.8371,-151.736,107.4,1.6,ml,,,,0.51,ak,ak0238judghr,2023-07-05T14:16:39.451Z,"24 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-05T14:02:18.960Z,38.7913322,-122.7631683,1.19,0.73,md,9,79,0.009664,0.01,nc,nc73909141,2023-07-05T14:19:12.051Z,"2km NNW of The Geysers, CA",earthquake,0.3,0.62,0.08,9,automatic,nc,nc
 2023-07-05T13:51:16.060Z,19.2013339996338,-155.378173828125,30.6599998474121,2.07,ml,41,175,,0.109999999,hv,hv73471487,2023-07-05T13:56:47.650Z,"10 km E of Pāhala, Hawaii",earthquake,0.62,0.670000017,1.07,3,automatic,hv,hv
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T09:37:37.770Z,38.8288345,-122.7985001,2,1.11,md,20,35,0.01055,0.05,nc,nc73909076,2023-07-05T12:45:13.456Z,"7km W of Cobb, CA",earthquake,0.24,0.46,0.15,19,automatic,nc,nc
 2023-07-05T09:28:34.850Z,37.3761673,-122.1719971,0.06,1.41,md,8,129,0.02768,0.07,nc,nc73909071,2023-07-05T12:18:15.296Z,"3km W of Los Altos Hills, CA",earthquake,0.4,2,0.14,8,automatic,nc,nc
 2023-07-05T09:24:27.837Z,63.5449,-147.961,10.4,1.8,ml,,,,0.29,ak,ak0238jrgnmn,2023-07-05T09:26:08.593Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-05T09:21:20.940Z,40.2315,-121.1571667,5.25,3.43,ml,48,28,0.01852,0.26,nc,nc73909066,2023-07-05T14:22:36.495Z,"2km NE of Almanor, CA",earthquake,0.37,0.79,0.142,120,reviewed,nc,nc
+2023-07-05T09:21:20.940Z,40.2315,-121.1571667,5.25,3.43,ml,48,28,0.01852,0.26,nc,nc73909066,2023-07-05T14:39:44.496Z,"2km NE of Almanor, CA",earthquake,0.37,0.79,0.142,120,reviewed,nc,nc
 2023-07-05T09:18:57.378Z,58.5788,-153.5126,88.1,2,ml,,,,0.34,ak,ak0238jrfexf,2023-07-05T09:21:50.473Z,"67 km NNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-05T09:17:05.850Z,38.8546677,-122.7888336,1.6,0.7,md,14,151,0.00649,0.04,nc,nc73909061,2023-07-05T09:33:14.288Z,"7km WNW of Cobb, CA",earthquake,0.35,0.59,0.12,13,automatic,nc,nc
 2023-07-05T09:16:33.137Z,61.2303,-147.5544,15.9,1.3,ml,,,,0.54,ak,ak0238jreyb5,2023-07-05T09:18:02.266Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -151,5 +151,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T14:54:23.492Z,57.7467,-155.9396,0,1.5,ml,,,,0.5,ak,ak0238i72wb1,2023-07-04T14:56:02.003Z,"90 km WNW of Karluk, Alaska",earthquake,,28.4,,,automatic,ak,ak
 2023-07-04T14:42:41.440Z,17.9626666666667,-67.0723333333333,6.87,3.11,md,14,233,0.02759,0.19,pr,pr71416208,2023-07-04T16:04:10.280Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.67,0.27,0.108811051790694,8,reviewed,pr,pr
 2023-07-04T14:42:31.516Z,37.2482,-117.6139,10.6,1.1,ml,9,119.04,0.03,0.1882,nn,nn00862112,2023-07-04T15:44:33.136Z,"56 km S of Silver Peak, Nevada",earthquake,,1.5,0.91,8,reviewed,nn,nn
-2023-07-04T14:33:41.295Z,59.8399,-151.5601,46,2.2,ml,,,,0.5,ak,ak0238i6yfn5,2023-07-04T14:35:23.558Z,"4 km NE of Nikolaevsk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-04T14:31:37.652Z,58.2618,-155.1362,1.1,1.1,ml,,,,0.34,ak,ak0238i6xzxh,2023-07-04T14:33:33.733Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
