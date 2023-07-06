@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T11:44:53.800Z,34.1006667,-116.5395,16.69,0.78,ml,8,140,0.1093,0.25,ci,ci40504520,2023-07-06T11:48:26.467Z,"7km NNE of Morongo Valley, CA",earthquake,0.93,1.36,0.177,11,automatic,ci,ci
 2023-07-06T11:28:54.100Z,33.9315,-116.8035,16.35,0.62,ml,21,109,0.09779,0.15,ci,ci40504504,2023-07-06T11:32:32.472Z,"2km NW of Cabazon, CA",earthquake,0.34,0.66,0.155,18,automatic,ci,ci
-2023-07-06T11:20:44.700Z,37.0506668,-121.5051651,7.45,1.37,md,19,105,0.06383,0.12,nc,nc73909536,2023-07-06T11:37:10.632Z,"8km NE of Gilroy, CA",earthquake,0.41,1.28,0.13,11,automatic,nc,nc
+2023-07-06T11:20:44.700Z,37.0506668,-121.5051651,7.45,1.37,md,19,105,0.06383,0.12,nc,nc73909536,2023-07-06T11:48:13.696Z,"8km NE of Gilroy, CA",earthquake,0.41,1.28,0.13,11,automatic,nc,nc
 2023-07-06T11:20:12.880Z,38.8446655,-122.840332,1.99,1.32,md,28,96,0.007151,0.05,nc,nc73909531,2023-07-06T11:38:13.638Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.27,25,automatic,nc,nc
 2023-07-06T11:07:24.370Z,38.4878349,-119.5569992,-0.75,2.2,md,6,130,0.1022,0.02,nc,nc73909526,2023-07-06T11:30:10.586Z,"7km WSW of Walker, CA",earthquake,1.33,7.7,0.28,4,automatic,nc,nc
 2023-07-06T10:50:21.871Z,63.0583,-151.5299,1.2,1.2,ml,,,,0.86,ak,ak0238lfqzvv,2023-07-06T10:52:34.514Z,"54 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T10:09:45.975Z,-21.5162,-68.7137,140.183,4.7,mb,25,56,0.862,1.06,us,us6000kqey,2023-07-06T10:37:54.040Z,"57 km SW of Ollagüe, Chile",earthquake,6.72,8.876,0.208,7,reviewed,us,us
 2023-07-06T10:05:15.470Z,34.3611667,-116.7156667,2.07,1.04,ml,17,151,0.08536,0.2,ci,ci40504496,2023-07-06T10:08:57.498Z,"16km NE of Big Bear City, CA",earthquake,0.7,0.77,0.144,14,automatic,ci,ci
 2023-07-06T09:58:32.910Z,38.7885017,-122.7666702,1.31,0.79,md,19,76,0.01327,0.05,nc,nc73909491,2023-07-06T10:16:15.181Z,"2km NW of The Geysers, CA",earthquake,0.27,0.47,0.12,15,automatic,nc,nc
-2023-07-06T09:50:51.940Z,36.7195,-80.733,0.41,2.71,md,18,98,0.4664,0.33,se,se60533036,2023-07-06T11:24:18.212Z,"4 km S of Hillsville, Virginia",earthquake,0.55,3.43,0.182232646549031,17,reviewed,se,se
+2023-07-06T09:50:51.940Z,36.7195,-80.733,0.41,2.71,md,18,98,0.4664,0.33,se,se60533036,2023-07-06T11:43:40.343Z,"4 km S of Hillsville, Virginia",earthquake,0.55,3.43,0.182232646549031,17,reviewed,se,se
 2023-07-06T09:44:06.362Z,60.3177,-147.2718,19.2,1.3,ml,,,,0.16,ak,ak0238lf48sc,2023-07-06T09:45:40.207Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-06T09:25:04.600Z,17.9806666666667,-66.8446666666667,17.28,2.38,md,6,187,0.03339,0.06,pr,pr71416503,2023-07-06T11:00:02.160Z,"Puerto Rico region",earthquake,0.58,0.58,0.196911835118768,5,reviewed,pr,pr
 2023-07-06T09:23:39.025Z,62.9678,-150.6431,104.7,1.3,ml,,,,0.16,ak,ak0238lezt9q,2023-07-06T09:25:52.021Z,"52 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T12:06:52.709Z,-0.1114,97.2927,10,5.1,mb,49,177,1.434,0.73,us,us6000kq79,2023-07-05T12:22:44.040Z,"94 km SW of Teluk Dalam, Indonesia",earthquake,5.23,1.913,0.096,35,reviewed,us,us
 2023-07-05T12:05:29.385Z,38.5355,-118.1384,5.2,0.8,ml,6,140.32,0.404,0.2548,nn,nn00862206,2023-07-06T00:50:07.452Z,"16 km N of Mina, Nevada",earthquake,,1.7,0.37,4,reviewed,nn,nn
 2023-07-05T11:59:05.813Z,-1.3298,-24.0467,10,4.8,mb,26,124,11.668,0.88,us,us6000kq7a,2023-07-05T12:26:16.040Z,"central Mid-Atlantic Ridge",earthquake,11.2,1.911,0.124,20,reviewed,us,us
-2023-07-05T11:48:57.540Z,17.9678333333333,-67.0603333333333,6.94,2.39,md,5,223,0.01542,0.16,pr,pr71416338,2023-07-05T12:03:05.370Z,"1 km WSW of La Parguera, Puerto Rico",earthquake,1.52,0.61,0.129387441128377,5,reviewed,pr,pr
-2023-07-05T11:43:11.555Z,60.9873,-149.7254,38.9,2.6,ml,,,,0.31,ak,ak0238jsrk6r,2023-07-05T12:00:35.040Z,"9 km NNW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
