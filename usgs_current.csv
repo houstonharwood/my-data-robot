@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-07T17:41:41.361Z,58.1737,-155.387,0,0.4,ml,,,,0.3,ak,ak0238n7eho8,2023-07-07T17:42:51.931Z,"87 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-07-07T17:40:48.588Z,57.9887,-155.2476,72.4,1.5,ml,,,,1,ak,ak0238n7eaii,2023-07-07T17:42:44.769Z,"66 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-07-07T17:32:50.920Z,33.5926667,-116.6325,13.89,1.13,ml,38,47,0.02598,0.15,ci,ci39606778,2023-07-07T17:36:32.346Z,"6km NE of Anza, CA",earthquake,0.21,0.34,0.148,27,automatic,ci,ci
 2023-07-07T17:32:43.230Z,33.4591667,-117.376,28.72,1.21,ml,19,115,0.2603,0.26,ci,ci39606770,2023-07-07T17:36:28.683Z,"15km NW of Fallbrook, CA",earthquake,0.99,0.72,0.163,22,automatic,ci,ci
 2023-07-07T17:31:42.759Z,58.1769,-155.3651,1.2,1,ml,,,,0.65,ak,ak0238n7ccmk,2023-07-07T17:34:02.992Z,"86 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -45,7 +47,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T12:10:10.460Z,35.78,-121.5226667,4.39,2.44,md,45,203,0.1871,0.09,nc,nc73909881,2023-07-07T16:55:15.708Z,"27km S of Lopez Point, CA",earthquake,0.31,0.94,0.115,47,reviewed,nc,nc
 2023-07-07T11:52:48.201Z,57.0107,-153.9853,12.4,1.8,ml,,,,0.36,ak,ak0238n3wacp,2023-07-07T15:44:32.801Z,"13 km ENE of Akhiok, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-07-07T11:51:30.683Z,60.9677,-147.7543,81.1,1.5,ml,,,,1.33,ak,ak0238n3w0do,2023-07-07T11:53:28.713Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-07T11:32:12.230Z,40.3011667,-124.3565,8.06,1.48,md,12,224,0.01658,0.09,nc,nc73909876,2023-07-07T16:55:13.708Z,"7km WSW of Petrolia, CA",earthquake,0.75,0.36,0.205,7,reviewed,nc,nc
+2023-07-07T11:35:41.104Z,39.2347,-120.0856,7.2,-0.4,ml,4,164.06,0.042,0.0264,nn,nn00862281,2023-07-07T17:44:26.015Z,"0 km NNW of Carnelian Bay, California",earthquake,,3.2,0,1,reviewed,nn,nn
+2023-07-07T11:32:12.230Z,40.3011667,-124.3565,8.06,1.48,md,12,224,0.01658,0.09,nc,nc73909876,2023-07-07T17:44:10.998Z,"7km WSW of Petrolia, CA",earthquake,0.75,0.36,0.205,7,reviewed,nc,nc
 2023-07-07T11:30:15.620Z,33.5535,-116.755,4.47,0.47,ml,16,60,0.01896,0.12,ci,ci39606394,2023-07-07T14:34:41.843Z,"8km W of Anza, CA",earthquake,0.23,0.31,0.144,10,reviewed,ci,ci
 2023-07-07T11:18:49.880Z,33.3613333,-116.248,8.84,0.73,ml,20,125,0.1694,0.18,ci,ci39606370,2023-07-07T11:22:17.746Z,"17km NE of Borrego Springs, CA",earthquake,0.41,1.37,0.185,15,automatic,ci,ci
 2023-07-07T10:59:54.530Z,34.0771667,-117.2666667,17.1,0.44,ml,10,254,0.123,0.09,ci,ci39606362,2023-07-07T14:58:46.871Z,"3km N of Loma Linda, CA",earthquake,0.45,0.7,0.132,7,reviewed,ci,ci
@@ -107,8 +110,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T04:21:47.088Z,63.8685,-22.8633,10,4.2,mb,17,130,1.108,0.63,us,us6000kqn0,2023-07-07T04:40:56.267Z,"Iceland region",earthquake,9.27,1.961,0.141,14,reviewed,us,us
 2023-07-07T04:00:38.017Z,63.8728,-22.6028,10,4,mb,11,151,1.04,1.02,us,us6000kqmw,2023-07-07T06:27:38.427Z,"8 km WNW of Grindavík, Iceland",earthquake,7.13,1.989,0.195,7,reviewed,us,us
 2023-07-07T03:58:51.433Z,59.8708,-153.0717,123.4,1.6,ml,,,,0.56,ak,ak0238mz635j,2023-07-07T04:18:58.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-07T03:49:09.070Z,33.938,-116.022,7.44,1.09,ml,17,81,0.0655,0.2,ci,ci39606194,2023-07-07T03:52:40.339Z,"23km SSE of Twentynine Palms, CA",earthquake,0.36,1.02,0.129,17,automatic,ci,ci
-2023-07-07T03:48:42.960Z,33.4025,-116.3681667,1.64,0.95,ml,26,78,0.1298,0.21,ci,ci39606186,2023-07-07T03:52:21.079Z,"16km N of Borrego Springs, CA",earthquake,0.38,0.77,0.119,25,automatic,ci,ci
+2023-07-07T03:49:09.030Z,33.9416667,-116.0211667,7.93,1.07,ml,14,108,0.0618,0.14,ci,ci37555804,2023-07-07T17:48:29.845Z,"22km SSE of Twentynine Palms, CA",earthquake,0.26,0.82,0.142,9,reviewed,ci,ci
+2023-07-07T03:48:42.760Z,33.3931667,-116.3621667,2.19,0.93,ml,30,67,0.06639,0.17,ci,ci39606186,2023-07-07T17:43:16.794Z,"15km N of Borrego Springs, CA",earthquake,0.23,0.33,0.104,21,reviewed,ci,ci
 2023-07-07T03:40:13.560Z,-8.3586,-74.1798,174.602,4.5,mb,24,93,1.589,1.03,us,us6000kqmq,2023-07-07T04:13:56.040Z,"39 km E of San Fernando, Peru",earthquake,6.54,9.402,0.17,10,reviewed,us,us
 2023-07-07T03:32:25.480Z,19.1891670227051,-155.393325805664,30.5,2.17,ml,45,164,,0.129999995,hv,hv73473237,2023-07-07T03:37:56.500Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.689999998,3.63,6,automatic,hv,hv
 2023-07-07T03:27:07.641Z,37.5142,-117.5812,1,0.7,ml,10,113.38,0.286,0.1617,nn,nn00862265,2023-07-07T16:30:00.987Z,"27 km S of Silver Peak, Nevada",earthquake,,4.7,0.55,6,reviewed,nn,nn
