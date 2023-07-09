@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-09T17:40:38.560Z,34.0633316,-117.2460022,13.46,1.18,ml,23,88,0.1281,0.16,ci,ci39608330,2023-07-09T17:42:42.922Z,"2km NE of Loma Linda, CA",earthquake,0.32,0.92,0.08,5,automatic,ci,ci
+2023-07-09T17:40:38.870Z,34.0555,-117.2458333,10.06,0.94,ml,28,84,0.1241,0.23,ci,ci39608330,2023-07-09T17:44:10.851Z,"2km ENE of Loma Linda, CA",earthquake,0.35,1.06,0.16,19,automatic,ci,ci
 2023-07-09T17:21:51.602Z,62.3806,-151.0649,69.3,1.4,ml,,,,0.63,ak,ak0238qicx4o,2023-07-09T17:23:48.479Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-09T17:17:25.824Z,62.1445,-150.2989,7.9,2,ml,,,,0.72,ak,ak0238qic0a3,2023-07-09T17:18:50.820Z,"19 km S of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-09T17:11:33.953Z,-33.2122,-70.3268,101.785,5.6,mww,98,42,0.252,0.73,us,us6000kr5g,2023-07-09T17:42:43.111Z,"Region Metropolitana, Chile",earthquake,4.4,3.114,0.052,35,reviewed,us,us
+2023-07-09T17:11:33.953Z,-33.2122,-70.3268,101.785,5.6,mww,98,42,0.252,0.73,us,us6000kr5g,2023-07-09T17:48:08.370Z,"Region Metropolitana, Chile",earthquake,4.4,3.114,0.052,35,reviewed,us,us
 2023-07-09T16:56:58.850Z,38.7471657,-122.7296677,0.87,1.47,md,10,163,0.01288,0.03,nc,nc73910791,2023-07-09T17:32:11.218Z,"4km SE of The Geysers, CA",earthquake,0.29,0.43,0.2,8,automatic,nc,nc
 2023-07-09T16:20:44.197Z,63.8743,-149.8237,15.6,0.9,ml,,,,0.63,ak,ak0238qhr98j,2023-07-09T16:22:38.530Z,"38 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-09T16:19:30.817Z,11.5785,-87.3492,10,4.4,mb,27,187,1.218,1.05,us,us6000kr58,2023-07-09T17:27:23.040Z,"93 km WSW of Masachapa, Nicaragua",earthquake,7.44,1.966,0.057,88,reviewed,us,us
@@ -41,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T13:38:36.375Z,24.0074,143.2032,10,5.3,mww,60,115,11.022,0.98,us,us6000kr3t,2023-07-09T13:55:44.040Z,"Volcano Islands, Japan region",earthquake,5.67,1.877,0.098,10,reviewed,us,us
 2023-07-09T13:33:43.421Z,61.2255,-146.3864,0,1.4,ml,,,,1.11,ak,ak0238qg1qo6,2023-07-09T13:35:44.726Z,"10 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-09T12:52:52.332Z,35.47128677,-98.04328918,0.9373678565,2.13,ml,22,69.52349854,0.04825342074,0.7218821688,ok,ok2023niho,2023-07-09T12:56:40.175Z,"10 km SW of El Reno, Oklahoma",earthquake,2.486048555,1.905774651,0.26,18,automatic,ok,ok
+2023-07-09T12:28:16.250Z,52.0933333333333,-176.256333333333,14.9,0.61,ml,6,304,,0.31,av,av91955096,2023-07-09T17:46:19.510Z,"35 km NE of Adak, Alaska",earthquake,3.03,1.39,0.316433572068845,6,reviewed,av,av
 2023-07-09T12:28:11.885Z,63.3464,-145.454,5.8,1.5,ml,,,,0.72,ak,ak0238qff61w,2023-07-09T12:30:08.125Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-09T12:21:10.510Z,33.4648333,-116.4176667,8.41,0.84,ml,29,48,0.1499,0.22,ci,ci39608234,2023-07-09T13:12:02.088Z,"24km N of Borrego Springs, CA",earthquake,0.3,1.25,0.086,26,reviewed,ci,ci
 2023-07-09T12:18:21.330Z,46.50733184814453,-122.46833038330078,20.4400005340576,1.6781294345855713,ml,53,36,0.08425,0.0900000036,uw,uw61939116,2023-07-09T14:25:46.360Z,"Washington",earthquake,0.19,0.610000014,0.3109090328216553,39,reviewed,uw,uw
@@ -247,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T18:00:24.320Z,38.7806664,-122.7448349,1.08,0.96,md,12,161,0.01913,0.05,nc,nc73910286,2023-07-08T19:17:15.242Z,"1km ENE of The Geysers, CA",earthquake,0.44,0.71,0.16,13,automatic,nc,nc
 2023-07-08T17:59:35.840Z,37.5593333,-122.3825,7.46,1.34,md,14,85,0.0376,0.05,nc,nc73910291,2023-07-09T04:04:16.338Z,"2km S of Hillsborough, CA",earthquake,0.27,0.54,0.302,12,reviewed,nc,nc
 2023-07-08T17:57:28.423Z,64.0041,-21.9844,1.264,4.4,mb,118,91,0.799,0.65,us,us6000kqzu,2023-07-09T13:05:03.795Z,"7 km SSW of Hafnarfjörður, Iceland",earthquake,6.88,5.444,0.052,109,reviewed,us,us
-2023-07-08T17:47:28.528Z,63.8681,-152.6777,2.1,1,ml,,,,0.52,ak,ak0238ouz3h0,2023-07-08T17:48:59.772Z,"18 km W of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-08T17:43:03.870Z,38.8320007,-122.8171692,1.56,0.69,md,15,57,0.01023,0.01,nc,nc73910276,2023-07-08T18:09:18.809Z,"8km NW of The Geysers, CA",earthquake,0.28,0.53,0.1,15,automatic,nc,nc
