@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-10T08:52:11.375Z,58.1883,-155.2965,1.5,0.8,ml,,,,0.43,ak,ak0238s0px9t,2023-07-10T08:53:53.121Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-07-10T08:44:11.350Z,34.0108333,-116.444,6.31,0.8,ml,18,52,0.07361,0.16,ci,ci39608594,2023-07-10T08:47:42.951Z,"8km NE of Desert Hot Springs, CA",earthquake,0.31,0.71,0.099,19,automatic,ci,ci
 2023-07-10T08:40:44.400Z,33.6323333,-116.6786667,12.58,0.37,ml,13,114,0.07682,0.1,ci,ci39608586,2023-07-10T08:44:11.082Z,"9km N of Anza, CA",earthquake,0.33,0.47,0.142,6,automatic,ci,ci
 2023-07-10T08:40:09.940Z,33.6358333,-116.676,12.58,0.7,ml,24,59,0.07659,0.19,ci,ci39608578,2023-07-10T08:43:38.079Z,"9km N of Anza, CA",earthquake,0.35,0.7,0.136,23,automatic,ci,ci
@@ -105,8 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T19:55:08.410Z,33.3403333,-115.6578333,3.7,1.13,ml,13,118,0.06371,0.19,ci,ci39608378,2023-07-09T19:58:41.758Z,"7km E of Bombay Beach, CA",earthquake,0.42,0.42,0.109,17,automatic,ci,ci
 2023-07-09T19:52:22.336Z,35.625,140.4151,58.794,4.6,mb,75,142,2.007,1,us,us6000kr76,2023-07-09T21:15:28.014Z,"2 km N of Narutō, Japan",earthquake,7.67,7.359,0.065,71,reviewed,us,us
 2023-07-09T19:42:56.050Z,32.7966667,-115.448,8.92,2.25,ml,27,57,0.008689,0.28,ci,ci39608370,2023-07-09T20:36:33.081Z,"6km WSW of Holtville, CA",earthquake,0.45,1.22,0.143,26,automatic,ci,ci
-2023-07-09T19:38:05.114Z,56.9129,-154.8137,35,3,ml,21,219,1.107,1.21,us,us6000kr6y,2023-07-09T20:22:40.040Z,"39 km W of Akhiok, Alaska",earthquake,4.82,2.012,0.052,48,reviewed,us,us
-2023-07-09T19:37:50.255Z,55.9352,-155.4007,6.9,3.5,ml,,,,1.01,ak,ak0238qjnbv3,2023-07-09T19:41:42.286Z,"135 km SSW of Akhiok, Alaska",earthquake,,179.1,,,automatic,ak,ak
+2023-07-09T19:38:05.102Z,56.9938,-155.0227,2.5,2.9,ml,,,,0.87,ak,ak0238qjnbv3,2023-07-10T08:49:33.523Z,"52 km W of Akhiok, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-07-09T19:32:31.341Z,24.0215,142.9238,10,4.7,mb,73,73,12.393,0.59,us,us6000kr6t,2023-07-09T20:12:41.040Z,"Volcano Islands, Japan region",earthquake,11.54,1.879,0.055,101,reviewed,us,us
 2023-07-09T19:31:06.640Z,45.8161666666667,-113.728333333333,6.56,1.53,ml,19,87,0.5443,0.07,mb,mb90021053,2023-07-09T21:53:25.670Z,"19 km E of Sula, Montana",earthquake,0.28,0.89,0.14832171047185,11,reviewed,mb,mb
 2023-07-09T19:23:09.742Z,6.9421,-76.6284,72.99,4.2,mb,12,160,1.323,0.93,us,us6000kr6p,2023-07-09T20:03:34.040Z,"northern Colombia",earthquake,8.36,15.648,0.215,6,reviewed,us,us
@@ -219,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T09:16:23.240Z,38.8248329,-122.7948303,2.97,0.71,md,6,169,0.01199,0.01,nc,nc73910631,2023-07-09T11:15:14.773Z,"6km W of Cobb, CA",earthquake,1,2.34,0.1,7,automatic,nc,nc
 2023-07-09T09:14:18.054Z,62.3135,-151.1876,77.6,1.1,ml,,,,0.25,ak,ak0238qdjvot,2023-07-09T09:15:48.683Z,"29 km SW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-09T09:09:20.973Z,61.4319,-146.4356,19.8,2.1,ml,,,,0.44,ak,ak0238qditc1,2023-07-09T09:10:51.817Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-09T08:56:02.695Z,59.9651,-151.5901,63.9,1.5,ml,,,,0.39,ak,ak0238qd7ez1,2023-07-09T08:58:03.746Z,"8 km ENE of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-07-09T08:53:13.890Z,33.365,-116.2793333,9.95,0.74,ml,19,125,0.1505,0.21,ci,ci39608178,2023-07-09T08:56:40.874Z,"15km NE of Borrego Springs, CA",earthquake,0.53,1.44,0.122,15,automatic,ci,ci
-2023-07-09T08:50:29.700Z,36.1326667,-118.2225,1.92,1.87,ml,19,123,0.2808,0.16,ci,ci39608170,2023-07-09T08:54:03.131Z,"26km SW of Olancha, CA",earthquake,0.4,1.56,0.133,16,automatic,ci,ci
