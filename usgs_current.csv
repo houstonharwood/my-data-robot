@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-10T15:45:20.093Z,58.1661,-155.3338,23.5,0.4,ml,,,,0.59,ak,ak0238s4uheg,2023-07-10T15:47:16.139Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T15:25:19.744Z,59.0989,-151.7992,0,2,ml,,,,0.95,ak,ak0238s4q6ti,2023-07-10T15:27:18.350Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-10T15:19:04.559Z,58.257,-155.1718,0,0.6,ml,,,,0.44,ak,ak0238s4ovcn,2023-07-10T15:21:52.785Z,"Alaska Peninsula",earthquake,,49.5,,,automatic,ak,ak
 2023-07-10T15:14:22.023Z,58.1932,-155.2755,2.5,1,ml,,,,0.41,ak,ak0238s4nu4p,2023-07-10T15:16:59.096Z,"84 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -108,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T01:24:12.240Z,19.1626663208008,-155.479507446289,32.8300018310547,2.27999997,md,35,108,,0.100000001,hv,hv73476872,2023-07-10T01:27:22.600Z,"4 km S of Pāhala, Hawaii",earthquake,0.62,0.939999998,0.850000024,19,automatic,hv,hv
 2023-07-10T01:21:12.554Z,65.9181,-151.1755,0,1.1,ml,,,,0.64,ak,ak0238rwd8xj,2023-07-10T01:23:41.391Z,"65 km NW of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-10T01:17:11.680Z,38.8366661,-122.8034973,1.91,0.7,md,10,74,0.01042,0.02,nc,nc73910936,2023-07-10T02:42:16.460Z,"7km WNW of Cobb, CA",earthquake,0.39,1.39,0.13,11,automatic,nc,nc
-2023-07-10T01:00:04.629Z,36.7514,-115.7178,4.1,0.7,ml,10,277.72,0.216,0.1549,nn,nn00862374,2023-07-10T01:02:06.070Z,"20 km NNW of Indian Springs, Nevada",earthquake,,344.8,0.14,7,automatic,nn,nn
+2023-07-10T01:00:06.383Z,36.7676,-115.7997,0,0.7,ml,16,255.28,0.154,0.1538,nn,nn00862374,2023-07-10T15:48:25.052Z,"24 km NNW of Indian Springs, Nevada",earthquake,,0,0.22,8,reviewed,nn,nn
 2023-07-10T00:56:19.000Z,19.1601657867432,-155.483001708984,29.6299991607666,2.02999997,md,37,119,,0.100000001,hv,hv73476857,2023-07-10T00:59:47.300Z,"4 km S of Pāhala, Hawaii",earthquake,0.55,0.839999974,0.75,16,automatic,hv,hv
 2023-07-10T00:47:07.940Z,40.3165,-121.1158333,10.19,1.82,md,17,76,0.07235,0.13,nc,nc73910931,2023-07-10T07:47:18.313Z,"5km NNW of Hamilton Branch, CA",earthquake,0.29,0.58,0.132,16,reviewed,nc,nc
 2023-07-10T00:46:59.080Z,33.2361667,-116.6503333,12.02,0.45,ml,21,84,0.03701,0.18,ci,ci39608450,2023-07-10T13:16:44.678Z,"5km SSW of Warner Springs, CA",earthquake,0.3,0.59,0.203,5,reviewed,ci,ci
@@ -196,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T15:59:41.750Z,38.8064995,-122.8213348,2.04,2.26,md,39,51,0.006568,0.04,nc,nc73910761,2023-07-09T18:11:14.472Z,"6km WNW of The Geysers, CA",earthquake,0.16,0.23,0.18,37,automatic,nc,nc
 2023-07-09T15:56:04.066Z,63.269,-151.0653,0,1.4,ml,,,,0.83,ak,ak0238qhdgba,2023-07-09T15:57:49.751Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-09T15:50:31.520Z,38.8213348,-122.8040009,1.65,0.79,md,10,97,0.005171,0.01,nc,nc73910756,2023-07-09T15:53:21.913Z,"6km NW of The Geysers, CA",earthquake,0.42,1,0.12,11,automatic,nc,nc
-2023-07-09T15:48:58.350Z,19.5743,-67.8276,20,3.68,md,14,276,1.1963,0.33,pr,pr2023190000,2023-07-09T17:04:43.040Z,"125 km NNE of Punta Cana, Dominican Republic",earthquake,1.24,28.8,0.08,9,reviewed,pr,pr
-2023-07-09T15:47:50.560Z,38.811,-122.8101667,2.81,-0.15,md,15,85,0.012,0.01,nc,nc71130829,2023-07-10T05:57:34.908Z,"6km NW of The Geysers, CA",earthquake,0.37,0.27,0.073,14,reviewed,nc,nc
-2023-07-09T15:47:13.240Z,38.8208333,-122.8038333,1.38,0.41,md,18,55,0.005505,0.02,nc,nc73910751,2023-07-10T01:03:16.895Z,"6km NW of The Geysers, CA",earthquake,0.23,0.33,0.153,16,reviewed,nc,nc
-2023-07-09T15:46:36.840Z,38.8191681,-122.807663,6.76,0.77,md,7,100,0.004622,0.03,nc,nc73910746,2023-07-09T16:05:14.684Z,"6km NW of The Geysers, CA",earthquake,1.34,6.5,0.09,8,automatic,nc,nc
