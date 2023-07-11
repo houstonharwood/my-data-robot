@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T13:30:39.970Z,35.5291667,-117.3866667,10.11,2.04,ml,25,49,0.01854,0.2,ci,ci39609722,2023-07-11T13:34:17.094Z,"26km S of Trona, CA",earthquake,0.34,0.55,0.153,25,automatic,ci,ci
 2023-07-11T13:24:09.230Z,32.7396667,-115.5646667,13.67,1.26,ml,14,109,0.05382,0.3,ci,ci39609714,2023-07-11T13:27:40.179Z,"3km WNW of Heber, CA",earthquake,0.91,1.12,0.359,13,automatic,ci,ci
 2023-07-11T13:16:13.224Z,62.2101,-150.26,16.4,1.6,ml,,,,0.31,ak,ak0238tr0q5m,2023-07-11T13:17:37.059Z,"11 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-11T13:03:40.530Z,36.02716667,-97.91266667,5.66,2.05,ml,88,32,0.09538128294,0.16,ok,ok2023nlyy,2023-07-11T13:19:07.621Z,"5 km N of Dover, Oklahoma",earthquake,,0.4,0.2,46,reviewed,ok,ok
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T12:01:24.850Z,57.7866,-155.9355,4.9,2.1,ml,,,,0.35,ak,ak0238tqc3ph,2023-07-11T12:03:12.355Z,"91 km WNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-11T12:00:00.030Z,19.1538333892822,-155.485000610352,33.4900016784668,2.16000009,md,44,137,,0.100000001,hv,hv73478487,2023-07-11T12:03:23.280Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,0.850000024,0.579999983,21,automatic,hv,hv
 2023-07-11T11:52:45.509Z,36.02616667,-97.91366667,6.01,1.93,ml,89,37,0.09358163609,0.2,ok,ok2023nlwp,2023-07-11T12:03:02.404Z,"Oklahoma",earthquake,,0.4,0.22,47,reviewed,ok,ok
-2023-07-11T11:42:07.494Z,24.0506,121.5488,19.44,3,ml,10,118,0.129,0.24,us,us7000keun,2023-07-11T12:07:35.142Z,"9 km NW of Hualien City, Taiwan",earthquake,3.3,3.4,0.081,20,reviewed,us,us
+2023-07-11T11:42:07.159Z,24.0417,121.5466,22.435,3.1,ml,11,117,0.139,0.45,us,us7000keun,2023-07-11T13:37:23.484Z,"Taiwan",earthquake,3.74,3.13,0.081,20,reviewed,us,us
 2023-07-11T11:41:48.910Z,34.1333333,-117.4296667,4,0.68,ml,18,83,0.05915,0.13,ci,ci39609666,2023-07-11T13:25:05.387Z,"5km NNE of Fontana, CA",earthquake,0.34,0.77,0.22,10,reviewed,ci,ci
 2023-07-11T11:31:20.880Z,62.7418,-149.4749,60.8,1.3,ml,,,,0.65,ak,ak0238tpx3a0,2023-07-11T11:33:24.363Z,"45 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T11:25:40.995Z,64.8741,-149.0195,18.8,0.7,ml,,,,0.21,ak,ak0238tpvuj7,2023-07-11T11:27:05.222Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T13:58:06.590Z,38.8701,-119.6403,2.4,0,ml,4,256.39,0.034,0.1391,nn,nn00862419,2023-07-10T23:39:24.315Z,"Nevada",earthquake,,5.4,0,1,reviewed,nn,nn
 2023-07-10T13:49:50.407Z,-6.3609,149.2983,39.135,4.7,mb,55,93,3.576,0.71,us,us7000keld,2023-07-10T16:05:31.040Z,"32 km WSW of Kandrian, Papua New Guinea",earthquake,9.78,7.51,0.073,57,reviewed,us,us
 2023-07-10T13:43:32.625Z,59.6268,-152.8591,100.5,2.1,ml,,,,0.52,ak,ak0238s3n7he,2023-07-10T16:00:52.040Z,"60 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-10T13:31:46.432Z,60.6599,-150.8996,42.3,1.5,ml,,,,0.42,ak,ak0238s3knyr,2023-07-10T13:33:22.740Z,"15 km NNW of Sterling, Alaska",earthquake,,1,,,automatic,ak,ak
