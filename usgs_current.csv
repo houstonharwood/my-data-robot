@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T20:03:54.962Z,-25.6564,-179.9443,527.103,4.7,mb,25,108,4.017,0.65,us,us7000keyk,2023-07-11T20:30:36.040Z,"south of the Fiji Islands",earthquake,14.3,9.833,0.11,25,reviewed,us,us
 2023-07-11T19:57:03.470Z,33.8856667,-116.1861667,7.91,0.94,ml,23,75,0.04108,0.15,ci,ci39610242,2023-07-11T20:00:37.403Z,"19km N of Indio, CA",earthquake,0.29,0.69,0.113,14,automatic,ci,ci
 2023-07-11T19:52:55.035Z,61.2502,-149.2938,30.2,1.2,ml,,,,0.36,ak,ak0238tut4sf,2023-07-11T19:54:27.071Z,"16 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-11T19:52:38.670Z,17.8598333333333,-66.6223333333333,6.84,2.42,md,8,258,0.1826,0.08,pr,pr71417443,2023-07-11T20:07:17.960Z,"16 km S of Ponce, Puerto Rico",earthquake,0.68,0.51,0.0339869627119351,5,reviewed,pr,pr
+2023-07-11T19:52:38.670Z,17.8598333333333,-66.6223333333333,6.84,2.42,md,8,258,0.1826,0.08,pr,pr71417443,2023-07-11T20:07:17.960Z,"Puerto Rico region",earthquake,0.68,0.51,0.0339869627119351,5,reviewed,pr,pr
 2023-07-11T19:50:25.729Z,58.2545,-155.1668,2.9,0.7,ml,,,,0.54,ak,ak0238tusn3g,2023-07-11T19:51:58.821Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T19:38:12.405Z,-59.6484,-29.794,10,5.2,mb,54,75,6.503,0.73,us,us7000key8,2023-07-11T19:55:59.040Z,"South Sandwich Islands region",earthquake,10.9,1.901,0.074,61,reviewed,us,us
 2023-07-11T19:35:14.920Z,38.9861679,-122.6011658,4.13,1.14,md,6,188,0.2286,0.14,nc,nc73911511,2023-07-11T20:13:12.059Z,"4 km NE of Clearlake, CA",earthquake,2.94,13.47,0.26,3,automatic,nc,nc
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T17:39:28.140Z,36.1443333,-118.2361667,4.5,1.66,ml,17,132,0.2961,0.14,ci,ci39610058,2023-07-11T17:43:10.118Z,"26km SW of Olancha, CA",earthquake,0.29,2.35,0.105,11,automatic,ci,ci
 2023-07-11T17:26:28.348Z,-34.7883,-107.3982,10,5,mb,140,57,28.706,0.65,us,us7000kexf,2023-07-11T18:37:50.040Z,"southern East Pacific Rise",earthquake,12.91,1.81,0.05,128,reviewed,us,us
 2023-07-11T17:19:40.830Z,39.4073333,-120.1508333,10.13,2.11,md,12,90,0.1077,0.1,nc,nc73911486,2023-07-11T20:19:11.100Z,"9 km NNE of Truckee, CA",earthquake,0.32,0.91,0.396,20,reviewed,nc,nc
-2023-07-11T17:18:04.050Z,40.2298333,-121.1688333,5.71,2.54,md,39,33,0.0253,0.17,nc,nc73911481,2023-07-11T20:04:11.010Z,"2 km NNE of Almanor, CA",earthquake,0.27,0.46,0.148,50,reviewed,nc,nc
+2023-07-11T17:18:04.050Z,40.2298333,-121.1688333,5.71,2.54,md,39,33,0.0253,0.17,nc,nc73911481,2023-07-11T20:40:12.235Z,"2 km NNE of Almanor, CA",earthquake,0.27,0.46,0.148,50,reviewed,nc,nc
 2023-07-11T17:14:33.830Z,38.8186684,-122.8248367,2.37,0.82,md,13,63,0.009117,0.01,nc,nc73911476,2023-07-11T17:55:11.199Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.72,0.2,14,automatic,nc,nc
 2023-07-11T17:10:28.640Z,38.5578333,-122.5556667,10.32,1.3,md,43,59,0.1088,0.06,nc,nc73911471,2023-07-11T20:24:16.132Z,"3 km SE of Calistoga, CA",earthquake,0.18,0.38,0.165,35,reviewed,nc,nc
 2023-07-11T17:09:11.900Z,38.8233337,-122.7874985,1.68,1.09,md,19,40,0.01138,0.01,nc,nc73911466,2023-07-11T17:33:13.055Z,"6 km W of Cobb, CA",earthquake,0.21,0.35,0.15,20,automatic,nc,nc
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T09:20:03.560Z,40.7553333,-111.9221667,5.02,0.91,ml,19,45,0.02001,0.15,uu,uu60545037,2023-07-11T15:22:55.060Z,"2 km WSW of Salt Lake City, Utah",earthquake,0.32,0.88,0.334,2,reviewed,uu,uu
 2023-07-11T09:02:07.855Z,63.2908,-150.6626,30.2,1.3,ml,,,,1.07,ak,ak0238tojzap,2023-07-11T09:04:26.939Z,"59 km ESE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-07-11T08:59:15.170Z,33.8225,-116.9986667,11.68,0.67,ml,13,87,0.1141,0.17,ci,ci39609578,2023-07-11T09:02:46.313Z,"6km NW of San Jacinto, CA",earthquake,0.49,1,0.129,8,automatic,ci,ci
-2023-07-11T08:51:29.210Z,18.8335,-64.3056666666667,44.05,3.42,md,6,307,0.781,0.26,pr,pr71417373,2023-07-11T18:37:55.340Z,"75 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.17,6.86,0.0257365784850709,4,reviewed,pr,pr
+2023-07-11T08:51:29.210Z,18.8335,-64.3056666666667,44.05,3.42,md,6,307,0.781,0.26,pr,pr71417373,2023-07-11T20:36:24.056Z,"75 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.17,6.86,0.0257365784850709,4,reviewed,pr,pr
 2023-07-11T08:37:07.540Z,34.3288333,-118.5863333,0.92,1.65,ml,35,65,0.02752,0.3,ci,ci39609570,2023-07-11T14:23:26.223Z,"8km N of Chatsworth, CA",earthquake,0.32,0.59,0.137,27,automatic,ci,ci
 2023-07-11T08:33:58.190Z,38.8191667,-122.7623333,1.51,0.39,md,18,90,0.01275,0.04,nc,nc73911346,2023-07-11T20:34:15.192Z,"3 km W of Cobb, CA",earthquake,0.26,0.4,0.233,17,reviewed,nc,nc
 2023-07-11T08:33:32.560Z,33.5863333,-116.7505,12.14,0.45,ml,17,64,0.01352,0.14,ci,ci39609562,2023-07-11T08:37:00.644Z,"8km WNW of Anza, CA",earthquake,0.31,0.48,0.109,11,automatic,ci,ci
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T20:53:23.380Z,33.6745,-116.7471667,10.58,1.15,ml,19,97,0.04577,0.14,ci,ci39609114,2023-07-11T17:27:24.426Z,"8km SSW of Idyllwild, CA",earthquake,0.36,0.5,0.172,5,reviewed,ci,ci
 2023-07-10T20:49:54.924Z,61.472,-146.5253,35.7,1.6,ml,,,,0.66,ak,ak0238s7ukqm,2023-07-10T20:52:43.714Z,"39 km NNW of Valdez, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-10T20:42:38.829Z,34.3965,-96.85966667,0,1.8,ml,25,162,0.3383336074,0.28,ok,ok2023nkso,2023-07-11T18:29:24.152Z,"3 km WSW of Mill Creek, Oklahoma",quarry blast,,0.6,0.21,5,reviewed,ok,ok
-2023-07-10T20:35:52.715Z,63.2553,-150.4523,47.8,1.1,ml,,,,0.83,ak,ak0238s7rkjr,2023-07-10T20:37:40.954Z,"Central Alaska",earthquake,,3,,,automatic,ak,ak
