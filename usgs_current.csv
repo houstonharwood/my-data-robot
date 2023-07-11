@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T20:03:54.962Z,-25.6564,-179.9443,527.103,4.7,mb,25,108,4.017,0.65,us,us7000keyk,2023-07-11T20:30:36.040Z,"south of the Fiji Islands",earthquake,14.3,9.833,0.11,25,reviewed,us,us
 2023-07-11T19:57:03.470Z,33.8856667,-116.1861667,7.91,0.94,ml,23,75,0.04108,0.15,ci,ci39610242,2023-07-11T20:00:37.403Z,"19km N of Indio, CA",earthquake,0.29,0.69,0.113,14,automatic,ci,ci
 2023-07-11T19:52:55.035Z,61.2502,-149.2938,30.2,1.2,ml,,,,0.36,ak,ak0238tut4sf,2023-07-11T19:54:27.071Z,"16 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-11T19:52:38.670Z,17.8598333333333,-66.6223333333333,6.84,2.42,md,8,258,0.1826,0.08,pr,pr71417443,2023-07-11T20:07:17.960Z,"16 km S of Ponce, Puerto Rico",earthquake,0.68,0.51,0.0339869627119351,5,reviewed,pr,pr
+2023-07-11T19:52:38.670Z,17.8598333333333,-66.6223333333333,6.84,2.42,md,8,258,0.1826,0.08,pr,pr71417443,2023-07-11T20:07:17.960Z,"Puerto Rico region",earthquake,0.68,0.51,0.0339869627119351,5,reviewed,pr,pr
 2023-07-11T19:50:25.729Z,58.2545,-155.1668,2.9,0.7,ml,,,,0.54,ak,ak0238tusn3g,2023-07-11T19:51:58.821Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T19:38:12.405Z,-59.6484,-29.794,10,5.2,mb,54,75,6.503,0.73,us,us7000key8,2023-07-11T19:55:59.040Z,"South Sandwich Islands region",earthquake,10.9,1.901,0.074,61,reviewed,us,us
 2023-07-11T19:35:14.920Z,38.9861679,-122.6011658,4.13,1.14,md,6,188,0.2286,0.14,nc,nc73911511,2023-07-11T20:48:11.294Z,"4 km NE of Clearlake, CA",earthquake,2.94,13.47,0.26,3,automatic,nc,nc
@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T07:08:08.600Z,34.5019989,-116.515831,5.01,1.43,ml,39,65,0.1573,0.19,ci,ci39609522,2023-07-11T07:11:38.685Z,"40km NE of Big Bear City, CA",earthquake,0.29,1.39,0.297,4,automatic,ci,ci
 2023-07-11T06:58:51.060Z,35.8695,-117.6925,9.82,1.25,ml,16,119,0.0846,0.11,ci,ci39609514,2023-07-11T07:02:26.349Z,"21km ESE of Little Lake, CA",earthquake,0.24,0.51,0.094,7,automatic,ci,ci
 2023-07-11T06:58:20.488Z,60.6185,-147.6908,16.1,1.3,ml,,,,0.7,ak,ak0238tn3pij,2023-07-11T07:00:38.881Z,"57 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-11T06:47:22.170Z,44.2706666666667,-114.8455,4.04,1.88,ml,16,104,0.5899,0.18,mb,mb90021123,2023-07-11T20:54:26.060Z,"9 km NE of Stanley, Idaho",earthquake,0.43,1.09,0.243402157603361,16,reviewed,mb,mb
 2023-07-11T06:42:27.019Z,36.02583333,-97.91783333,5.18,1.77,ml,77,50,0.09178198924,0.18,ok,ok2023nlmg,2023-07-11T12:53:02.475Z,"4 km N of Dover, Oklahoma",earthquake,,0.4,0.19,39,reviewed,ok,ok
 2023-07-11T06:38:36.451Z,59.8904,-153.3066,121.9,1.9,ml,,,,0.34,ak,ak0238tmzfq5,2023-07-11T10:59:10.040Z,"46 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-11T06:29:44.295Z,62.505,-152.8758,0,1.4,ml,,,,1,ak,ak0238tmxjml,2023-07-11T06:31:36.352Z,"95 km SE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -241,8 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T21:08:50.320Z,38.7548332,-122.7433319,1.09,1.17,md,7,126,0.002305,0.01,nc,nc73911206,2023-07-10T21:33:15.162Z,"3 km SSE of The Geysers, CA",earthquake,0.41,0.56,0.23,5,automatic,nc,nc
 2023-07-10T21:00:23.380Z,19.8212,-61.1886,9.921,4.2,mb,33,207,2.215,1.22,us,us7000keqe,2023-07-10T21:21:28.040Z,"250 km NNE of Codrington, Antigua and Barbuda",earthquake,10.27,7.619,0.153,12,reviewed,us,us
 2023-07-10T20:58:44.090Z,33.4886667,-116.494,12.75,1.02,ml,32,61,0.06676,0.14,ci,ci39609138,2023-07-11T18:15:11.340Z,"18km ESE of Anza, CA",earthquake,0.17,0.46,0.132,26,reviewed,ci,ci
-2023-07-10T20:54:47.614Z,61.6646,-149.9679,42.2,1.6,ml,,,,0.65,ak,ak0238s7vmrd,2023-07-10T20:56:18.767Z,"8 km WNW of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-07-10T20:54:03.880Z,33.6726667,-116.734,14.09,0.47,ml,16,118,0.04181,0.09,ci,ci39609130,2023-07-11T14:01:06.184Z,"8km S of Idyllwild, CA",earthquake,0.24,0.37,0.192,7,reviewed,ci,ci
-2023-07-10T20:53:25.530Z,33.6723333,-116.7401667,15.79,1.78,ml,75,19,0.04439,0.18,ci,ci39609122,2023-07-11T18:09:36.278Z,"8km SSW of Idyllwild, CA",earthquake,0.14,0.27,0.17,63,reviewed,ci,ci
-2023-07-10T20:53:23.380Z,33.6745,-116.7471667,10.58,1.15,ml,19,97,0.04577,0.14,ci,ci39609114,2023-07-11T17:27:24.426Z,"8km SSW of Idyllwild, CA",earthquake,0.36,0.5,0.172,5,reviewed,ci,ci
-2023-07-10T20:49:54.924Z,61.472,-146.5253,35.7,1.6,ml,,,,0.66,ak,ak0238s7ukqm,2023-07-10T20:52:43.714Z,"39 km NNW of Valdez, Alaska",earthquake,,1.3,,,automatic,ak,ak
