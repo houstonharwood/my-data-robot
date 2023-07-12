@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-12T17:37:35.180Z,33.475666,-115.7998352,6.43,1.2,ml,22,88,0.05646,0.17,ci,ci39610834,2023-07-12T17:39:40.060Z,"14 km ESE of North Shore, CA",earthquake,0.37,0.97,0.271,4,automatic,ci,ci
+2023-07-12T17:37:35.230Z,33.4723333,-115.7976667,6.46,1.07,ml,19,66,0.05888,0.25,ci,ci39610834,2023-07-12T17:41:04.416Z,"14km ESE of North Shore, CA",earthquake,0.45,1.14,0.115,14,automatic,ci,ci
 2023-07-12T17:21:49.730Z,32.9801667,-116.3175,8.73,1.04,ml,33,52,0.02812,0.22,ci,ci39610826,2023-07-12T17:25:29.555Z,"25km SW of Ocotillo Wells, CA",earthquake,0.29,0.61,0.222,20,automatic,ci,ci
-2023-07-12T17:16:15.300Z,38.779335,-122.7286682,0.38,1.56,md,25,75,0.01796,0.07,nc,nc73911956,2023-07-12T17:29:11.524Z,"2 km E of The Geysers, CA",earthquake,0.25,0.54,0.16,23,automatic,nc,nc
+2023-07-12T17:16:15.300Z,38.779335,-122.7286682,0.38,1.56,md,25,75,0.01796,0.07,nc,nc73911956,2023-07-12T17:46:12.622Z,"2 km E of The Geysers, CA",earthquake,0.25,0.54,0.16,23,automatic,nc,nc
 2023-07-12T16:34:46.420Z,19.1486663818359,-155.467666625977,30.2800006866455,1.99000001,md,36,170,,0.109999999,hv,hv73479627,2023-07-12T16:37:53.960Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,1.09000003,1.03999996,12,automatic,hv,hv
 2023-07-12T16:33:07.761Z,61.9888,-149.9529,43.2,0.9,ml,,,,0.54,ak,ak0238vgg07s,2023-07-12T16:34:40.320Z,"19 km SSW of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-07-12T16:26:33.290Z,38.8388329,-122.8069992,2.07,1.08,md,20,84,0.01301,0.02,nc,nc73911941,2023-07-12T17:25:13.622Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.55,0.12,22,automatic,nc,nc
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T00:44:31.700Z,44.7963333,-110.9955,6.53,1.12,ml,10,128,0.03777,0.19,uu,uu60545077,2023-07-12T13:15:13.730Z,"15 km E of Hebgen Lake Estates, Montana",earthquake,0.6,1.05,0.177,3,reviewed,uu,uu
 2023-07-12T00:40:28.130Z,38.7538333,-122.7141667,1.75,0.13,md,10,71,0.0114,0.02,nc,nc73911606,2023-07-12T05:14:14.240Z,"3 km SW of Anderson Springs, CA",earthquake,0.58,0.37,0.269,4,reviewed,nc,nc
 2023-07-12T00:34:41.379Z,20.5423,-60.7752,9.914,5,mb,25,214,3.014,0.5,us,us7000kf05,2023-07-12T00:57:49.040Z,"North Atlantic Ocean",earthquake,10.32,6.578,0.252,5,reviewed,us,us
-2023-07-12T00:33:31.760Z,33.8325,-116.1186667,11.86,0.81,ml,14,96,0.09275,0.13,ci,ci39610394,2023-07-12T00:37:04.151Z,"15km NE of Indio, CA",earthquake,0.32,0.61,0.132,15,automatic,ci,ci
+2023-07-12T00:33:31.780Z,33.834,-116.1191667,11.47,0.87,ml,29,96,0.09295,0.16,ci,ci39610394,2023-07-12T17:45:20.359Z,"15km NE of Indio, CA",earthquake,0.25,0.5,0.148,14,reviewed,ci,ci
 2023-07-12T00:32:54.245Z,61.4133,-151.4166,78.6,1,ml,,,,0.43,ak,ak0238v6wyeo,2023-07-12T00:34:56.050Z,"35 km NNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-12T00:23:35.170Z,37.5821667,-119.008,2.36,0.48,md,11,226,0.03203,0.07,nc,nc73911596,2023-07-12T04:30:14.966Z,"7 km SSW of Mammoth Lakes, CA",earthquake,0.61,0.5,0.199,11,reviewed,nc,nc
 2023-07-12T00:17:00.850Z,19.1464996337891,-155.359329223633,27.75,1.84000003,md,30,230,,0.109999999,hv,hv73479057,2023-07-12T00:20:12.840Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.93,0.870000005,1.77999997,8,automatic,hv,hv
@@ -185,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T22:42:44.058Z,-6.5576,130.0755,128.337,4.4,mb,21,101,2.029,0.41,us,us7000kezh,2023-07-11T23:05:24.040Z,"Banda Sea",earthquake,9.64,9.291,0.148,13,reviewed,us,us
 2023-07-11T22:34:51.090Z,38.8289986,-122.8101654,1.91,0.45,md,10,83,0.005596,0.03,nc,nc73911561,2023-07-11T22:51:14.022Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.32,0.31,12,automatic,nc,nc
 2023-07-11T22:34:04.687Z,51.0677,179.1896,32.153,4,ml,39,228,0.319,0.48,us,us7000kezm,2023-07-11T23:37:55.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.09,8.093,0.074,24,reviewed,us,us
-2023-07-11T22:12:35.210Z,38.7828333,-122.9115,4.63,0.89,md,32,141,0.03476,0.06,nc,nc73911556,2023-07-12T15:22:15.779Z,"10 km ESE of Cloverdale, CA",earthquake,0.31,0.54,0.124,28,reviewed,nc,nc
+2023-07-11T22:12:35.210Z,38.7828333,-122.9115,4.63,0.89,md,32,141,0.03476,0.06,nc,nc73911556,2023-07-12T17:43:13.608Z,"10 km ESE of Cloverdale, CA",earthquake,0.31,0.54,0.124,28,reviewed,nc,nc
 2023-07-11T22:06:07.590Z,44.6126666666667,-112.586333333333,8.35,0.73,ml,7,137,0.04143,0.06,mb,mb90021203,2023-07-12T17:16:57.720Z,"2 km S of Lima, Montana",earthquake,0.35,0.47,0.180486420700091,6,reviewed,mb,mb
 2023-07-11T22:03:13.270Z,38.8368333,-122.8118333,1.81,0.3,md,16,71,0.01349,0.02,nc,nc73911551,2023-07-12T15:48:13.080Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.49,0.314,17,reviewed,nc,nc
 2023-07-11T22:00:22.770Z,36.1465,-118.1791667,3.89,1.18,ml,15,134,0.2641,0.14,ci,ci39610306,2023-07-11T23:27:39.210Z,"22km SW of Olancha, CA",earthquake,0.29,1.9,0.097,4,reviewed,ci,ci
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T18:05:21.827Z,-24.1888,-67.3799,221.733,4.4,mb,21,87,1.433,0.91,us,us7000kexg,2023-07-11T21:03:02.040Z,"107 km W of San Antonio de los Cobres, Argentina",earthquake,6.69,9.62,0.203,7,reviewed,us,us
 2023-07-11T18:03:33.740Z,46.1195,-111.548166666667,10.27,1.16,ml,7,93,0.2379,0.04,mb,mb90021138,2023-07-11T19:56:50.010Z,"10 km SW of Toston, Montana",earthquake,0.55,1.84,0.080148010499826,4,reviewed,mb,mb
 2023-07-11T18:03:32.510Z,44.8026667,-110.9935,7.5,1.12,ml,11,167,0.04426,0.1,uu,uu60545047,2023-07-11T20:34:09.480Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.6,0.87,0.248,3,reviewed,uu,uu
-2023-07-11T17:41:44.930Z,44.8248333333333,-111.568833333333,12.79,1.11,ml,7,101,0.09897,0.04,mb,mb90021133,2023-07-11T19:47:56.710Z,"30 km WNW of Hebgen Lake Estates, Montana",earthquake,0.49,0.84,0.0916760329151045,5,reviewed,mb,mb
