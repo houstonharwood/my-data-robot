@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T07:04:18.312Z,58.9477,-154.0811,104.3,2,ml,,,,0.27,ak,ak023909iyav,2023-07-15T07:06:00.461Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-07-15T06:56:09.540Z,18.0078333333333,-66.8195,15.11,2.69,md,7,161,0.06555,0.1,pr,pr71417953,2023-07-15T07:07:19.940Z,"1 km N of Indios, Puerto Rico",earthquake,0.63,0.84,0.183598507414513,5,reviewed,pr,pr
+2023-07-15T06:52:50.914Z,31.6031,-114.4651,13.528,2.6,ml,31,118,0.653,0.76,us,us7000kfxl,2023-07-15T07:02:38.040Z,"9 km SSE of Golfo de Santa Clara, Mexico",earthquake,3.94,8.546,0.048,56,reviewed,us,us
 2023-07-15T06:49:46.880Z,19.173999786377,-155.492828369141,37.5200004577637,1.90999997,md,32,99,,0.119999997,hv,hv73482357,2023-07-15T06:52:56.530Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.66,0.99000001,0.949999988,3,automatic,hv,hv
 2023-07-15T06:30:59.790Z,33.7563333,-115.8946667,4.98,0.9,ml,22,162,0.08105,0.14,ci,ci39613450,2023-07-15T06:34:22.373Z,"26km N of North Shore, CA",earthquake,0.34,0.71,0.097,14,automatic,ci,ci
 2023-07-15T06:29:33.020Z,35.45164871,-98.05698395,6.530943394,2.18,ml,12,92.96044922,0.03543621674,1.367173758,ok,ok2023nsty,2023-07-15T06:32:31.762Z,"12 km WNW of Union City, Oklahoma",earthquake,3.65217025,4.83799254,0.33,10,automatic,ok,ok
@@ -15,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T04:30:19.670Z,33.968,-116.645,16.26,1.24,ml,39,41,0.06425,0.18,ci,ci39613426,2023-07-15T04:34:35.354Z,"11km SW of Morongo Valley, CA",earthquake,0.23,0.53,0.128,26,automatic,ci,ci
 2023-07-15T04:28:28.519Z,56.0352,-149.342,10,2.8,ml,20,282,2.496,0.54,us,us7000kfx3,2023-07-15T04:51:02.040Z,"250 km SE of Chiniak, Alaska",earthquake,12.12,2.021,0.066,30,reviewed,us,us
 2023-07-15T04:28:14.993Z,58.188,-155.2567,0,1.1,ml,,,,0.56,ak,ak023907vsez,2023-07-15T04:32:56.264Z,"83 km NW of Karluk, Alaska",earthquake,,31.6,,,automatic,ak,ak
-2023-07-15T04:23:07.810Z,38.8208351,-122.8041687,3.68,1.12,md,13,84,0.005274,0.01,nc,nc73913091,2023-07-15T04:50:13.407Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.76,0.12,13,automatic,nc,nc
+2023-07-15T04:23:07.810Z,38.8208351,-122.8041687,3.68,1.12,md,13,84,0.005274,0.01,nc,nc73913091,2023-07-15T07:00:13.192Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.76,0.12,13,automatic,nc,nc
 2023-07-15T04:22:02.460Z,38.8238335,-122.8031693,2.34,0.76,md,16,61,0.005411,0.05,nc,nc73913086,2023-07-15T04:38:14.327Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.89,0.08,18,automatic,nc,nc
 2023-07-15T04:21:32.572Z,60.9449,-150.1977,50.4,1.2,ml,,,,0.28,ak,ak023907ubrd,2023-07-15T04:24:00.405Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-15T04:19:48.571Z,57.5267,-152.747,0,1.5,ml,,,,0.4,ak,ak023907txk9,2023-07-15T04:21:32.203Z,"17 km SSW of Womens Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -211,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T07:34:53.490Z,36.5978333,-121.1965,7.64,1.12,md,31,94,0.02757,0.12,nc,nc73912816,2023-07-14T12:17:20.440Z,"9 km NNW of Pinnacles, CA",earthquake,0.28,0.43,0.157,23,reviewed,nc,nc
 2023-07-14T07:26:30.880Z,47.5411666666667,-113.852666666667,16.46,0.59,ml,11,92,0.1041,0.14,mb,mb90021408,2023-07-14T15:37:02.200Z,"10 km W of Condon, Montana",earthquake,0.62,0.84,0.229775177116694,4,reviewed,mb,mb
 2023-07-14T07:19:59.840Z,36.5663333,-121.128,8.89,1.02,md,19,131,0.04652,0.07,nc,nc73912811,2023-07-14T10:15:13.777Z,"4 km NNE of Pinnacles, CA",earthquake,0.35,0.52,0.285,19,reviewed,nc,nc
-2023-07-14T07:04:59.130Z,45.366,-112.142666666667,0.08,1.2,ml,9,94,0.151,0.12,mb,mb90021403,2023-07-14T15:42:39.490Z,"5 km NNW of Alder, Montana",earthquake,0.37,1.52,0.145328251877905,8,reviewed,mb,mb
-2023-07-14T07:01:36.070Z,36.5234,-116.9639,4.1,1,ml,28,171.81,0.202,0.1504,nn,nn00862588,2023-07-14T16:23:41.758Z,"13 km NW of Furnace Creek, California",earthquake,,1.9,0.23,9,reviewed,nn,nn
