@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T19:57:25.040Z,38.8338318,-122.8030014,1.94,1.29,md,22,71,0.01089,0.01,nc,nc73913401,2023-07-15T20:08:10.910Z,"7 km W of Cobb, CA",earthquake,0.19,0.38,0.19,24,automatic,nc,nc
 2023-07-15T19:57:05.900Z,38.8359985,-122.8170013,1.6,0.75,md,7,97,0.0137,0.01,nc,nc73913396,2023-07-15T19:58:43.751Z,"8 km W of Cobb, CA",earthquake,0.49,1.63,0.16,9,automatic,nc,nc
 2023-07-15T19:52:17.850Z,34.295,-116.8365,5.44,1.04,ml,23,47,0.05342,0.23,ci,ci39613802,2023-07-15T19:55:51.944Z,"4km NNE of Big Bear City, CA",earthquake,0.41,1.19,0.112,18,automatic,ci,ci
-2023-07-15T19:49:18.450Z,38.8338318,-122.8125,1.8,0.27,md,12,52,0.01059,0.01,nc,nc73913391,2023-07-15T19:50:53.717Z,"8 km W of Cobb, CA",earthquake,0.31,0.9,0.16,13,automatic,nc,nc
+2023-07-15T19:49:18.450Z,38.8338318,-122.8125,1.8,0.27,md,12,52,0.01059,0.01,nc,nc73913391,2023-07-15T20:12:16.932Z,"8 km W of Cobb, CA",earthquake,0.31,0.9,0.16,13,automatic,nc,nc
 2023-07-15T19:45:38.250Z,33.9165,-116.7106667,15.09,1.35,ml,47,37,0.06112,0.2,ci,ci39613794,2023-07-15T19:56:41.450Z,"7km E of Cabazon, CA",earthquake,0.23,0.55,0.134,27,automatic,ci,ci
 2023-07-15T19:31:50.500Z,34.2918333,-116.8315,5.86,1.08,ml,14,100,0.07956,0.23,ci,ci39613786,2023-07-15T19:46:05.812Z,"4km NNE of Big Bear City, CA",earthquake,0.44,1.11,0.145,24,automatic,ci,ci
 2023-07-15T19:28:48.179Z,57.928,-154.7402,58.1,0.9,ml,,,,0.21,ak,ak02390gtd1t,2023-07-15T19:30:21.908Z,"43 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T10:21:07.610Z,37.5646667,-118.8593333,-1.13,0.72,md,12,246,0.03489,0.07,nc,nc73913181,2023-07-15T19:05:14.499Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.76,0.45,0.097,12,reviewed,nc,nc
 2023-07-15T10:14:31.362Z,58.4603,-155.4489,122.7,1,ml,,,,0.25,ak,ak02390bdfa8,2023-07-15T10:16:32.623Z,"74 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-15T10:03:57.466Z,59.7895,-153.4616,122.9,1.9,ml,,,,0.31,ak,ak02390bb4g0,2023-07-15T10:14:50.040Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-15T10:02:21.330Z,36.704,-121.34,2.49,2,md,48,110,0.006269,0.11,nc,nc73913176,2023-07-15T19:57:10.841Z,"10 km S of Tres Pinos, CA",earthquake,0.17,0.23,0.169,52,reviewed,nc,nc
+2023-07-15T10:02:21.330Z,36.704,-121.34,2.49,2,md,48,110,0.006269,0.11,nc,nc73913176,2023-07-15T20:12:17.931Z,"10 km S of Tres Pinos, CA",earthquake,0.17,0.23,0.169,52,reviewed,nc,nc
 2023-07-15T09:49:21.815Z,62.4455,-150.5312,80.4,1.2,ml,,,,1.12,ak,ak02390azh05,2023-07-15T09:51:23.228Z,"13 km ESE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-15T09:39:32.408Z,37.3011,-117.2708,20.9,0.4,ml,7,173.33,0.306,0.2,nn,nn00862660,2023-07-15T16:01:04.268Z,"45 km S of Goldfield, Nevada",earthquake,,2.2,0.7,7,reviewed,nn,nn
 2023-07-15T09:34:52.870Z,33.8693333,-117.757,9.19,0.9,ml,21,47,0.04897,0.19,ci,ci39613514,2023-07-15T09:38:24.536Z,"6km ESE of Yorba Linda, CA",earthquake,0.36,0.8,0.126,14,automatic,ci,ci
@@ -164,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T01:32:50.140Z,19.1868324279785,-155.498672485352,34.1100006103516,2.11,ml,29,133,,0.170000002,hv,hv73482097,2023-07-15T01:38:20.980Z,"2 km SW of Pāhala, Hawaii",earthquake,0.85,1.15999997,0.18,4,automatic,hv,hv
 2023-07-15T01:31:25.342Z,36.8278,-115.9496,9.8,0.2,ml,5,212.66,0.038,0.0745,nn,nn00862662,2023-07-15T15:26:39.203Z,"37 km NW of Indian Springs, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
 2023-07-15T01:30:10.620Z,19.342,-155.4925,6.9,1.97,ml,38,47,,0.13,hv,hv73482092,2023-07-15T02:34:49.390Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.62,0.103855737020734,7,reviewed,hv,hv
+2023-07-15T01:24:26.690Z,52.099,-176.189833333333,-1.8,0.6,ml,4,285,,0.29,av,av91963566,2023-07-15T20:20:01.120Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,4.62,3.39,0.223272419387352,4,reviewed,av,av
 2023-07-15T01:13:57.470Z,39.1063333,-123.0486667,5.02,2.06,md,61,55,0.03204,0.12,nc,nc73913071,2023-07-15T05:08:15.512Z,"11 km ESE of Talmage, CA",earthquake,0.17,0.4,0.161,64,reviewed,nc,nc
 2023-07-15T01:09:46.481Z,61.2974,-146.8792,28,1,ml,,,,0.63,ak,ak023905zhfc,2023-07-15T01:11:52.661Z,"34 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-15T01:09:23.471Z,36.8322,-115.9607,8.8,0.2,ml,15,160.08,0.031,0.1143,nn,nn00862638,2023-07-15T15:23:32.044Z,"38 km NW of Indian Springs, Nevada",earthquake,,1.2,0.34,8,reviewed,nn,nn
