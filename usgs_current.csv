@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T10:37:12.480Z,31.541666,-115.6719971,5.09,3.95,mlr,26,66,0.1778,0.26,ci,ci39614090,2023-07-16T10:39:25.767Z,"87 km ESE of Maneadero, B.C., MX",earthquake,0.32,2.33,0.24,20,automatic,ci,ci
 2023-07-16T10:26:31.410Z,33.2235,-116.0645,9.64,0.91,ml,27,58,0.08677,0.25,ci,ci39614074,2023-07-16T10:30:03.604Z,"11km NE of Ocotillo Wells, CA",earthquake,0.39,1.08,0.113,14,automatic,ci,ci
 2023-07-16T10:24:27.940Z,31.5345,-115.6675,0.53,1.97,ml,5,119,0.174,0.15,ci,ci39614066,2023-07-16T10:28:13.700Z,"88km ESE of Maneadero, B.C., MX",earthquake,0.39,31.61,0.051,6,automatic,ci,ci
 2023-07-16T10:16:03.504Z,54.6475,-159.6762,35,3.8,mb,40,169,0.841,0.59,us,us7000kg40,2023-07-16T10:29:13.040Z,"93 km SE of Sand Point, Alaska",earthquake,6.59,1.996,0.191,7,reviewed,us,us
-2023-07-16T10:02:44.850Z,36.8391685,-121.4103317,8.42,1.86,md,34,77,,0.1,nc,nc73913596,2023-07-16T10:20:15.138Z,"1 km SW of Hollister, CA",earthquake,0.26,0.57,0.24,25,automatic,nc,nc
+2023-07-16T10:02:44.850Z,36.8391685,-121.4103317,8.42,1.86,md,34,77,,0.1,nc,nc73913596,2023-07-16T10:35:11.221Z,"1 km SW of Hollister, CA",earthquake,0.26,0.57,0.24,25,automatic,nc,nc
 2023-07-16T09:34:21.960Z,38.1195,-118.3042,1.8,0.8,ml,8,149.3,0.206,0.0733,nn,nn00862744,2023-07-16T09:37:13.768Z,"34 km SSW of Mina, Nevada",earthquake,,2.5,0.9,3,automatic,nn,nn
 2023-07-16T09:07:40.700Z,33.967,-116.5716667,7.79,1.28,ml,46,66,0.03139,0.19,ci,ci39614058,2023-07-16T09:18:34.440Z,"6km W of Desert Hot Springs, CA",earthquake,0.22,0.7,0.125,25,automatic,ci,ci
 2023-07-16T09:07:13.031Z,59.244,-138.7832,9.9,2.3,ml,,,,0.68,ak,ak02391y9sqv,2023-07-16T09:09:52.473Z,"63 km ESE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T23:49:31.067Z,35.00614166,-97.9047699,0.6853352785,1.97,ml,27,57.97462463,0.08018687367,0.8104478851,ok,ok2023nucg,2023-07-15T23:52:48.768Z,"5 km SSE of Chickasha, Oklahoma",earthquake,2.262995496,1.722122242,0.22,20,automatic,ok,ok
 2023-07-15T23:32:22.546Z,31.72577955,-104.5281339,3.45793457,2.5,ml,11,169,0.007296100276,0.1,tx,tx2023nubr,2023-07-15T23:51:34.453Z,"51 km SSW of Whites City, New Mexico",earthquake,0.9196079802,0.6156869694,0.2,10,reviewed,tx,tx
 2023-07-15T23:17:20.933Z,64.9924,-147.397,1.5,1.6,ml,,,,1.01,ak,ak02390j4ohp,2023-07-15T23:20:18.212Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T00:17:13.040Z,"Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
+2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T00:17:13.040Z,"7 km NNW of Chacra, Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
 2023-07-15T23:08:40.410Z,38.8381653,-122.8073349,2.15,0.74,md,17,54,0.01327,0.02,nc,nc73913456,2023-07-16T01:16:13.794Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.65,0.27,18,automatic,nc,nc
 2023-07-15T22:40:26.450Z,46.2075,-122.1895,6.61,0.39,ml,12,111,0.03433,0.1,uw,uw61931982,2023-07-16T05:06:43.430Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.46,0.11662859648933283,7,reviewed,uw,uw
 2023-07-15T22:35:36.690Z,38.7874985,-122.7251663,1.81,0.75,md,7,120,0.009986,0.01,nc,nc73913451,2023-07-16T00:49:16.623Z,"3 km ENE of The Geysers, CA",earthquake,0.4,0.79,0.13,7,automatic,nc,nc
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T11:01:35.680Z,37.624,-119.0428333,0.37,0.34,md,15,81,0.01815,0.04,nc,nc73913201,2023-07-15T21:45:14.467Z,"6 km WSW of Mammoth Lakes, CA",earthquake,0.26,0.31,0.226,14,reviewed,nc,nc
 2023-07-15T10:46:36.840Z,38.7903328,-122.8056641,3.47,0.84,md,17,103,0.002851,0.05,nc,nc73913196,2023-07-15T12:38:15.209Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.87,0.13,18,automatic,nc,nc
 2023-07-15T10:42:08.900Z,38.7915001,-122.8050003,4.24,0.76,md,13,84,0.00351,0.06,nc,nc73913191,2023-07-15T12:10:15.027Z,"4 km WNW of The Geysers, CA",earthquake,0.49,1.34,0.14,12,automatic,nc,nc
-2023-07-15T10:34:37.095Z,62.2829,-153.2917,0,1,ml,,,,1.03,ak,ak02390bhq1p,2023-07-15T10:36:43.725Z,"98 km SE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
