@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T09:07:40.700Z,33.967,-116.5716667,7.79,1.28,ml,46,66,0.03139,0.19,ci,ci39614058,2023-07-16T09:18:34.440Z,"6km W of Desert Hot Springs, CA",earthquake,0.22,0.7,0.125,25,automatic,ci,ci
+2023-07-16T09:07:13.031Z,59.244,-138.7832,9.9,2.3,ml,,,,0.68,ak,ak02391y9sqv,2023-07-16T09:09:52.473Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T08:44:57.965Z,65.8019,-147.7956,1.7,1.4,ml,,,,0.96,ak,ak02391xwe3f,2023-07-16T09:05:08.772Z,"northern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-07-16T08:43:47.446Z,58.1947,-155.3772,3.8,1.6,ml,,,,0.51,ak,ak02391xvxpm,2023-07-16T09:05:14.906Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-07-16T08:43:05.137Z,54.7026,-160.9814,15.2,3.3,ml,,,,0.71,ak,ak02391xw2o1,2023-07-16T09:05:00.749Z,"76 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
@@ -78,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T23:49:31.067Z,35.00614166,-97.9047699,0.6853352785,1.97,ml,27,57.97462463,0.08018687367,0.8104478851,ok,ok2023nucg,2023-07-15T23:52:48.768Z,"5 km SSE of Chickasha, Oklahoma",earthquake,2.262995496,1.722122242,0.22,20,automatic,ok,ok
 2023-07-15T23:32:22.546Z,31.72577955,-104.5281339,3.45793457,2.5,ml,11,169,0.007296100276,0.1,tx,tx2023nubr,2023-07-15T23:51:34.453Z,"51 km SSW of Whites City, New Mexico",earthquake,0.9196079802,0.6156869694,0.2,10,reviewed,tx,tx
 2023-07-15T23:17:20.933Z,64.9924,-147.397,1.5,1.6,ml,,,,1.01,ak,ak02390j4ohp,2023-07-15T23:20:18.212Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T00:17:13.040Z,"Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
+2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T00:17:13.040Z,"7 km NNW of Chacra, Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
 2023-07-15T23:08:40.410Z,38.8381653,-122.8073349,2.15,0.74,md,17,54,0.01327,0.02,nc,nc73913456,2023-07-16T01:16:13.794Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.65,0.27,18,automatic,nc,nc
 2023-07-15T22:40:26.450Z,46.2075,-122.1895,6.61,0.39,ml,12,111,0.03433,0.1,uw,uw61931982,2023-07-16T05:06:43.430Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.46,0.11662859648933283,7,reviewed,uw,uw
 2023-07-15T22:35:36.690Z,38.7874985,-122.7251663,1.81,0.75,md,7,120,0.009986,0.01,nc,nc73913451,2023-07-16T00:49:16.623Z,"3 km ENE of The Geysers, CA",earthquake,0.4,0.79,0.13,7,automatic,nc,nc
@@ -194,8 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T09:22:44.440Z,34.8686667,-120.5406667,0.98,1.72,ml,20,80,0.04219,0.28,ci,ci39613506,2023-07-15T09:26:29.037Z,"10km W of Orcutt, CA",earthquake,0.44,31.61,0.156,17,automatic,ci,ci
 2023-07-15T09:21:29.240Z,32.8921667,-116.5948333,7.7,0.95,ml,32,39,0.03059,0.21,ci,ci39613498,2023-07-15T09:25:08.893Z,"10km NW of Pine Valley, CA",earthquake,0.25,0.62,0.106,14,automatic,ci,ci
 2023-07-15T09:21:22.550Z,58.1691666666667,-155.376333333333,1.98,-0.27,ml,9,74,,0.07,av,av91964011,2023-07-16T04:57:46.020Z,"Alaska Peninsula",earthquake,0.21,0.48,0.132165369363388,9,reviewed,av,av
-2023-07-15T09:20:30.410Z,32.675,-115.8033333,5.64,1.08,ml,15,112,0.06978,0.21,ci,ci39613490,2023-07-15T09:24:04.467Z,"19km ESE of Ocotillo, CA",earthquake,0.56,1.79,0.16,9,automatic,ci,ci
-2023-07-15T09:19:33.412Z,38.5401,-119.5318,5.9,0.7,ml,6,167.01,0.047,0.0664,nn,nn00862670,2023-07-15T15:57:56.819Z,"California-Nevada border region",earthquake,,2.5,0.26,2,reviewed,nn,nn
-2023-07-15T09:18:00.830Z,58.1833333333333,-155.328,1.96,-0.04,ml,11,106,,0.1,av,av91964006,2023-07-16T04:55:31.230Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.4,0.223156253757877,11,reviewed,av,av
-2023-07-15T09:16:47.670Z,58.1838333333333,-155.329166666667,1.74,-0.4,ml,9,106,,0.08,av,av91964001,2023-07-16T04:50:37.070Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.38,0.249839280153044,8,reviewed,av,av
-2023-07-15T09:11:33.980Z,61.8288,-149.6186,39.3,1.6,ml,,,,0.24,ak,ak02390arcqe,2023-07-15T09:13:03.442Z,"22 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
