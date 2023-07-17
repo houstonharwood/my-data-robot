@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T21:27:11.742Z,62.3936,-151.0202,73,1.7,ml,,,,0.64,ak,ak02393t2mpy,2023-07-17T21:29:48.655Z,"17 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-17T21:18:26.954Z,61.6644,-146.1401,31.9,2,ml,,,,0.53,ak,ak02393t0qg7,2023-07-17T21:20:03.358Z,"46 km S of Tolsona, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-17T21:18:19.690Z,32.6325,-115.8278333,14.88,0.97,ml,8,112,0.08723,0.14,ci,ci39615050,2023-07-17T21:21:56.728Z,"19km SE of Ocotillo, CA",earthquake,0.45,0.76,0.283,3,automatic,ci,ci
 2023-07-17T21:14:02.613Z,61.7199,-151.3296,73.5,1.2,ml,,,,0.43,ak,ak02393sztph,2023-07-17T21:16:21.177Z,"30 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -150,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T02:27:22.160Z,19.2598323822021,-155.375671386719,30.9099998474121,2.24,ml,49,136,,0.150000006,hv,hv73484517,2023-07-17T02:32:53.810Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,2.64,21,automatic,hv,hv
 2023-07-17T02:25:57.410Z,59.6243,-139.6144,10.9,2.5,ml,,,,0.87,ak,ak02393hr2bh,2023-07-17T02:41:52.830Z,"10 km NE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-17T02:15:19.122Z,58.2183,-154.0716,68.6,1.6,ml,,,,0.34,ak,ak02393hou7c,2023-07-17T02:17:35.345Z,"70 km WNW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-17T02:14:39.590Z,38.715168,-122.9176636,6.21,1.36,md,15,156,0.07721,0.04,nc,nc73913816,2023-07-17T04:22:15.627Z,"12 km NNW of Healdsburg, CA",earthquake,0.52,1.33,0.21,12,automatic,nc,nc
+2023-07-17T02:14:39.610Z,38.7161667,-122.9151667,6.34,1.17,md,37,50,0.07511,0.04,nc,nc73913816,2023-07-17T21:31:20.918Z,"12 km NNW of Healdsburg, CA",earthquake,0.21,0.7,0.155,28,reviewed,nc,nc
 2023-07-17T02:12:32.876Z,61.629,-149.8275,35.5,2,ml,,,,0.29,ak,ak02393ho847,2023-07-17T02:17:56.886Z,"0 km WSW of Houston, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-07-17T02:10:07.750Z,37.5833333,-118.785,3.92,0.65,md,12,302,0.03567,0.03,nc,nc73913811,2023-07-17T19:31:28.629Z,"10 km WNW of Toms Place, CA",earthquake,2.65,1.45,0.171,12,reviewed,nc,nc
 2023-07-17T02:01:45.000Z,35.7685,-117.5996667,3.67,2.01,ml,22,64,0.1401,0.19,ci,ci39614498,2023-07-17T16:52:49.690Z,"18km W of Searles Valley, CA",earthquake,0.33,1.11,0.129,22,reviewed,ci,ci
@@ -187,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T22:41:56.600Z,47.8718333333333,-114.822666666667,3.89,1.77,ml,18,128,0.03159,0.09,mb,mb90021663,2023-07-17T14:28:09.060Z,"17 km WNW of Niarada, Montana",earthquake,0.39,0.59,0.365580881779427,10,reviewed,mb,mb
 2023-07-16T22:35:34.832Z,40.2187,-119.685,9.1,1.4,ml,7,232.31,0.061,0.0939,nn,nn00862823,2023-07-16T23:11:52.027Z,"Nevada",earthquake,,1.9,0.41,5,reviewed,nn,nn
 2023-07-16T22:35:27.417Z,58.2527,-155.1401,1.7,0.9,ml,,,,0.29,ak,ak0239266grp,2023-07-16T22:36:50.927Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
-2023-07-16T22:33:16.290Z,19.4230003356934,-155.282165527344,0.569999992847443,1.95,ml,14,113,,0.170000002,hv,hv73484252,2023-07-16T22:38:47.970Z,"5 km WSW of Volcano, Hawaii",earthquake,0.2,0.319999993,0.42,10,automatic,hv,hv
+2023-07-16T22:33:16.340Z,19.418,-155.278833333333,-0.08,1.58,ml,17,62,,0.1,hv,hv73484252,2023-07-17T21:26:00.280Z,"Hawaii region, Hawaii",earthquake,0.13,0.17,0.111429964240414,10,reviewed,hv,hv
 2023-07-16T22:30:07.950Z,42.20633333333333,-119.39316666666667,8.26,2.75,ml,7,180,0.3791,0.29,uw,uw61932197,2023-07-17T00:20:22.200Z,"Oregon",earthquake,1.47,6.32,0.06001925412792364,3,reviewed,uw,uw
 2023-07-16T22:17:57.570Z,40.1523323,-123.8458328,22.07,2.19,md,19,77,0.08739,0.13,nc,nc73913736,2023-07-16T22:41:17.559Z,"4 km NNW of Redway, CA",earthquake,0.67,0.59,0.15,6,automatic,nc,nc
 2023-07-16T22:13:49.680Z,33.4315,-116.436,14.29,0.5,ml,18,116,0.09206,0.16,ci,ci39614442,2023-07-16T22:17:17.242Z,"20km NNW of Borrego Springs, CA",earthquake,0.37,0.74,0.146,7,automatic,ci,ci
@@ -202,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T21:34:53.502Z,61.2825,-149.9254,40.5,1.7,ml,,,,0.47,ak,ak023925kvgm,2023-07-16T21:37:04.841Z,"7 km N of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-16T21:34:00.762Z,38.1403,-118.2327,9.7,1.5,ml,8,97.5,0.204,0.1848,nn,nn00862821,2023-07-16T23:05:31.056Z,"California-Nevada border region",earthquake,,2.8,0.85,5,reviewed,nn,nn
 2023-07-16T21:32:38.007Z,61.9045,-148.8289,93.2,1,ml,,,,0.82,ak,ak023925keu0,2023-07-16T21:34:44.798Z,"14 km NNW of Sutton-Alpine, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-07-16T21:29:14.240Z,35.53233333,-96.75983333,7.95,1.39,ml,57,61,0.1223759857,0.21,ok,ok2023nvtd,2023-07-17T15:32:16.351Z,"8 km NW of Prague, Oklahoma",earthquake,,0.6,0.26,4,reviewed,ok,ok
