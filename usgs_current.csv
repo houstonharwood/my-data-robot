@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T17:14:47.877Z,62.7641,-150.6309,85.2,0.9,ml,,,,0.45,ak,ak02393qm6s3,2023-07-17T17:16:17.252Z,"30 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:12:42.830Z,38.8126667,-122.823,2.66,0.34,md,7,104,0.006139,0.01,nc,nc73913996,2023-07-17T22:27:12.832Z,"7 km NW of The Geysers, CA",earthquake,0.64,0.97,0.541,7,reviewed,nc,nc
 2023-07-17T17:11:16.640Z,34.0021667,-117.0505,24.38,1.15,ml,19,62,0.1318,0.25,ci,ci39614858,2023-07-17T17:15:03.315Z,"2km N of Calimesa, CA",earthquake,0.76,1.72,0.354,22,automatic,ci,ci
-2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"45 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:01:46.900Z,19.4370002746582,-155.598663330078,36.8199996948242,1.74,ml,16,102,,0.280000001,hv,hv73485272,2023-07-17T17:07:29.300Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.24,1.47000003,0.16,4,automatic,hv,hv
 2023-07-17T16:56:50.572Z,58.619,-153.5904,81.6,2,ml,,,,0.56,ak,ak02393q9rj5,2023-07-17T17:00:33.094Z,"73 km NNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T16:46:14.390Z,38.8121681,-122.8233337,2.34,0.63,md,8,87,0.005631,0.03,nc,nc73913986,2023-07-17T18:47:19.009Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.66,0.21,10,automatic,nc,nc
@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T01:50:21.150Z,19.2628326416016,-155.371826171875,31.2399997711182,1.99000001,md,30,155,,0.129999995,hv,hv73484462,2023-07-17T01:53:33.810Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.63,0.74000001,1.80999994,6,automatic,hv,hv
 2023-07-17T01:40:17.730Z,19.2409992218018,-155.367004394531,29.4300003051758,1.78,ml,27,167,,0.100000001,hv,hv73484452,2023-07-17T01:45:47.340Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.87,0.689999998,0.15,3,automatic,hv,hv
 2023-07-17T01:30:48.590Z,36.6554985,-121.284668,6.61,2.49,md,46,111,,0.11,nc,nc73913781,2023-07-17T02:03:14.806Z,"15 km SSE of Tres Pinos, CA",earthquake,0.24,0.56,0.13,50,automatic,nc,nc
-2023-07-17T01:27:32.968Z,59.7038,-139.5868,4,3.8,ml,,,,1.03,ak,ak02393h606z,2023-07-17T14:45:05.814Z,"Southeastern Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-07-17T01:27:32.968Z,59.7038,-139.5868,4,3.8,ml,,,,1.03,ak,ak02393h606z,2023-07-17T22:41:10.040Z,"Southeastern Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-07-17T01:24:32.060Z,39.5631667,-120.2976667,9.15,2.45,md,16,63,0.1075,0.11,nc,nc73913776,2023-07-17T21:40:11.883Z,"13 km SSW of Loyalton, CA",earthquake,0.29,0.87,0.142,34,reviewed,nc,nc
 2023-07-17T01:18:55.919Z,50.4438,-174.5818,37.705,3.8,mb,27,235,1.76,0.46,us,us7000kg8u,2023-07-17T21:43:53.040Z,"196 km S of Atka, Alaska",earthquake,8.72,25.352,0.079,41,reviewed,us,us
 2023-07-17T01:09:17.364Z,61.8968,-150.214,35.3,1.5,ml,,,,0.46,ak,ak02393h2460,2023-07-17T01:11:53.069Z,"19 km NNW of Willow, Alaska",earthquake,,3.1,,,automatic,ak,ak
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T23:05:45.710Z,35.6628333,-117.4898333,4.76,1.22,ml,12,58,0.05389,0.16,ci,ci39614458,2023-07-17T15:21:39.037Z,"14km SSW of Searles Valley, CA",earthquake,0.32,0.7,0.144,8,reviewed,ci,ci
 2023-07-16T23:01:58.799Z,65.0011,-147.0361,0,1.1,ml,,,,0.59,ak,ak023926koe1,2023-07-16T23:04:00.663Z,"14 km N of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-16T22:59:37.150Z,34.999,-118.5183333,8.91,1.23,ml,24,48,0.1454,0.11,ci,ci39614450,2023-07-17T22:15:52.070Z,"16km SSW of Tehachapi, CA",earthquake,0.15,0.47,0.156,20,reviewed,ci,ci
-2023-07-16T22:41:56.600Z,47.8718333333333,-114.822666666667,3.89,1.77,ml,18,128,0.03159,0.09,mb,mb90021663,2023-07-17T14:28:09.060Z,"western Montana",earthquake,0.39,0.59,0.365580881779427,10,reviewed,mb,mb
