@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-17T17:01:46.900Z,19.4370002746582,-155.598663330078,36.8199996948242,1.74,ml,16,102,,0.280000001,hv,hv73485272,2023-07-17T17:07:29.300Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.24,1.47000003,0.16,4,automatic,hv,hv
+2023-07-17T16:56:50.572Z,58.619,-153.5904,81.6,2,ml,,,,0.56,ak,ak02393q9rj5,2023-07-17T17:00:33.094Z,"73 km NNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T16:46:14.390Z,38.8121681,-122.8233337,2.34,0.63,md,8,87,0.005631,0.03,nc,nc73913986,2023-07-17T16:47:50.904Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.66,0.21,10,automatic,nc,nc
 2023-07-17T16:39:23.186Z,64.7622,-150.7785,17.5,0.8,ml,,,,0.38,ak,ak02393q6266,2023-07-17T16:41:42.163Z,"27 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-17T16:37:23.670Z,38.8323326,-122.7996674,1.99,1.09,md,23,45,0.009478,0.04,nc,nc73913976,2023-07-17T16:55:15.290Z,"7 km W of Cobb, CA",earthquake,0.21,0.42,0.17,24,automatic,nc,nc
@@ -47,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T10:55:29.588Z,62.0406,-150.5004,20.4,1.2,ml,,,,0.23,ak,ak02393mowhq,2023-07-17T10:57:06.935Z,"33 km SSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T10:48:10.714Z,61.7774,-150.3892,16,1.1,ml,,,,0.39,ak,ak02393mnd0x,2023-07-17T10:51:25.284Z,"18 km W of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-17T10:44:43.490Z,38.8093338,-122.8233337,2.22,1.05,md,13,73,0.00459,0.03,nc,nc73913936,2023-07-17T13:10:12.731Z,"7 km WNW of The Geysers, CA",earthquake,0.28,0.46,0.09,14,automatic,nc,nc
-2023-07-17T10:40:53.054Z,61.4415,-149.4788,37.2,3.4,ml,,,,0.73,ak,ak02393mlqi5,2023-07-17T16:48:03.243Z,"10 km SE of Knik-Fairview, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-07-17T10:40:53.054Z,61.4415,-149.4788,37.2,3.4,ml,,,,0.73,ak,ak02393mlqi5,2023-07-17T16:59:58.852Z,"10 km SE of Knik-Fairview, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-07-17T10:34:30.960Z,38.8165016,-122.8206635,2.17,1.32,md,18,55,0.01012,0.02,nc,nc73913926,2023-07-17T12:43:12.582Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.37,0.09,16,automatic,nc,nc
 2023-07-17T10:15:50.750Z,44.681,-110.0565,12.87,0.65,md,6,87,0.09238,0.02,uu,uu60545542,2023-07-17T14:32:20.910Z,"36 km S of Silver Gate, Montana",earthquake,0.46,0.98,0.268,4,reviewed,uu,uu
 2023-07-17T10:15:11.719Z,61.0286,-148.4101,8.2,1.1,ml,,,,0.59,ak,ak02393mgagz,2023-07-17T10:16:31.698Z,"32 km NNE of Whittier, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -203,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T17:46:24.421Z,39.6391,-119.7305,10.5,-0.3,ml,4,185.18,0.181,0.0594,nn,nn00862813,2023-07-16T19:44:32.119Z,"Nevada",earthquake,,4.9,0,1,reviewed,nn,nn
 2023-07-16T17:21:39.130Z,46.220666666666666,-119.59733333333334,7.26,0.92,ml,14,214,0.06266,0.05,uw,uw61932107,2023-07-16T23:37:16.400Z,"9 km WSW of Benton City, Washington",earthquake,0.38,0.15,0.10410225602477718,10,reviewed,uw,uw
 2023-07-16T17:17:47.779Z,63.5567,-150.6128,1.6,1.1,ml,,,,0.61,ak,ak0239233hfd,2023-07-16T17:20:06.185Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-16T17:09:42.952Z,36.758,-116.2705,8.7,-0.4,ml,5,162.95,0.053,0.0522,nn,nn00862828,2023-07-16T22:52:58.980Z,"46 km ESE of Beatty, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
-2023-07-16T17:08:52.719Z,58.1798,-155.3706,2.7,0.6,ml,,,,0.18,ak,ak0239231kd3,2023-07-16T17:10:41.367Z,"87 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
