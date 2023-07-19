@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-19T04:41:00.590Z,33.975666,-118.1934967,13.59,3,ml,125,22,0.03683,0.3,ci,ci39615994,2023-07-19T04:45:34.180Z,"1 km WSW of Bell, CA",earthquake,0.22,0.45,0.41,19,automatic,ci,ci
-2023-07-19T04:37:48.810Z,33.9743347,-118.1989975,14.37,3.02,ml,130,23,0.04141,0.3,ci,ci39615986,2023-07-19T04:45:04.345Z,"1 km WSW of Bell, CA",earthquake,0.22,0.41,0.38,18,automatic,ci,ci
-2023-07-19T04:37:37.260Z,36.6245003,-121.1546631,9.85,1.55,md,18,173,,0.06,nc,nc73914446,2023-07-19T04:40:56.281Z,"10 km N of Pinnacles, CA",earthquake,0.5,0.77,0.16,12,automatic,nc,nc
+2023-07-19T04:49:40.450Z,38.7978325,-122.7556686,3.42,0.84,md,16,91,0.02077,0.02,nc,nc73914461,2023-07-19T04:51:16.487Z,"2 km N of The Geysers, CA",earthquake,0.32,0.74,0.17,17,automatic,nc,nc
+2023-07-19T04:41:00.590Z,33.975666,-118.1934967,13.59,3,ml,125,22,0.03683,0.3,ci,ci39615994,2023-07-19T04:52:00.370Z,"1 km WSW of Bell, CA",earthquake,0.22,0.45,0.41,19,automatic,ci,ci
+2023-07-19T04:37:48.810Z,33.9743347,-118.1989975,14.37,3.02,ml,130,23,0.04141,0.3,ci,ci39615986,2023-07-19T04:49:29.998Z,"1 km WSW of Bell, CA",earthquake,0.22,0.41,0.38,18,automatic,ci,ci
+2023-07-19T04:37:37.260Z,36.6245003,-121.1546631,9.85,1.55,md,18,173,,0.06,nc,nc73914446,2023-07-19T04:51:11.667Z,"10 km N of Pinnacles, CA",earthquake,0.5,0.77,0.16,12,automatic,nc,nc
 2023-07-19T04:33:02.668Z,60.3415,-152.5304,96.2,1.7,ml,,,,0.17,ak,ak02396u280q,2023-07-19T04:34:27.758Z,"57 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-19T04:32:12.220Z,33.4928333,-116.8021667,9.31,1.41,ml,7,167,0.3203,0.21,ci,ci39615970,2023-07-19T04:35:50.316Z,"8km NE of Aguanga, CA",earthquake,1.18,31.61,0.227,9,automatic,ci,ci
-2023-07-19T04:22:09.925Z,28.9851,-98.2926,4.735,3.6,mb_lg,11,59,0.296,0.45,us,us7000kgs1,2023-07-19T04:43:35.872Z,"18 km E of Pleasanton, Texas",earthquake,1.01,5.55,0.048,115,reviewed,us,us
+2023-07-19T04:22:09.636Z,28.96636963,-98.27929687,4.230672201,3.9,ml,14,51,0.1403671936,0.1,tx,tx2023nzxt,2023-07-19T04:52:39.305Z,"19 km E of Pleasanton, Texas",earthquake,1.009091897,2.903891821,0.2,11,reviewed,tx,tx
 2023-07-19T04:20:57.670Z,33.5126667,-116.4428333,8.29,0.69,ml,25,68,0.01787,0.18,ci,ci39615954,2023-07-19T04:24:35.896Z,"21km SW of La Quinta, CA",earthquake,0.34,0.63,0.091,16,automatic,ci,ci
 2023-07-19T04:08:35.620Z,38.1426,-117.8764,6.8,1.4,ml,9,127.36,0.102,0.1792,nn,nn00862965,2023-07-19T04:11:16.327Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.27,7,automatic,nn,nn
 2023-07-19T04:06:44.119Z,62.3572,-152.2114,0,1.2,ml,,,,0.74,ak,ak02396twivv,2023-07-19T04:08:57.710Z,"58 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T20:38:59.920Z,52.8245,-169.9315,1.19,-0.47,ml,4,116,,0.11,av,av91110608,2023-07-18T23:27:04.640Z,"73 km W of Nikolski, Alaska",earthquake,0.32,0.2,0.387022836296262,4,reviewed,av,av
 2023-07-18T20:37:34.010Z,52.8108333333333,-169.911833333333,2.99,1.85,ml,5,177,,0.31,av,av91110593,2023-07-18T22:59:53.700Z,"72 km WSW of Nikolski, Alaska",earthquake,1.13,1.09,0.32470352634449,5,reviewed,av,av
 2023-07-18T20:34:37.140Z,52.8035,-169.9005,4.86,0.57,ml,5,194,,0.17,av,av91110603,2023-07-18T23:18:41.380Z,"71 km WSW of Nikolski, Alaska",earthquake,1.14,0.85,0.278681399872786,5,reviewed,av,av
-2023-07-18T20:30:55.209Z,45.0385,23.0251,12.806,4,mb,46,36,1.136,1.19,us,us7000kgn3,2023-07-19T03:31:30.117Z,"Romania",earthquake,2.88,4.943,0.156,13,reviewed,us,us
+2023-07-18T20:30:55.209Z,45.0385,23.0251,12.806,4,mb,46,36,1.136,1.19,us,us7000kgn3,2023-07-19T04:47:16.666Z,"Romania",earthquake,2.88,4.943,0.156,13,reviewed,us,us
 2023-07-18T20:27:04.650Z,52.815,-169.914833333333,4.53,1.08,ml,5,160,,0.3,av,av91110598,2023-07-18T23:02:20.550Z,"72 km WSW of Nikolski, Alaska",earthquake,1.5,1.1,0.233390450761103,5,reviewed,av,av
 2023-07-18T20:25:56.415Z,62.7494,-149.9237,59,1.2,ml,,,,1.06,ak,ak02395g07mh,2023-07-18T20:28:02.176Z,"34 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-18T20:14:47.899Z,59.9388,-152.1624,66.6,0.8,ml,,,,0.63,ak,ak02395fxu39,2023-07-18T20:16:55.077Z,"24 km W of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
