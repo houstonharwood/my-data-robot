@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-20T18:58:32.195Z,58.7204,-153.5989,13.4,2.2,ml,,,,0.34,ak,ak02398q325v,2023-07-20T18:59:55.301Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-20T18:58:15.013Z,58.717,-153.65,6.5,2.1,ml,,,,0.47,ak,ak02398q30u5,2023-07-20T18:59:47.195Z,"85 km NNW of Aleneva, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-07-20T18:42:41.765Z,58.7271,-153.5595,12.9,1.1,ml,,,,0.53,ak,ak02398pzng0,2023-07-20T18:44:26.851Z,"83 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-20T18:23:56.340Z,33.47,-116.4941667,14.14,0.72,ml,22,96,0.07816,0.18,ci,ci39617706,2023-07-20T18:27:29.749Z,"19km ESE of Anza, CA",earthquake,0.33,0.66,0.146,18,automatic,ci,ci
 2023-07-20T18:13:13.472Z,58.232,-155.1796,0.8,0,ml,,,,0.26,ak,ak02398ptdhv,2023-07-20T18:15:35.411Z,"85 km NNW of Karluk, Alaska",earthquake,,83.3,,,automatic,ak,ak
@@ -45,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T13:51:13.057Z,62.6524,-151.3375,67.1,1.2,ml,,,,0.67,ak,ak02398n2cat,2023-07-20T13:52:54.050Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-20T13:51:09.304Z,62.0815,-149.4107,35.5,1.2,ml,,,,0.56,ak,ak02398n2ccy,2023-07-20T13:52:59.518Z,"24 km ESE of Susitna North, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-07-20T13:45:05.170Z,45.716,-112.3535,8.88,1.14,ml,17,88,0.1262,0.09,mb,mb90021833,2023-07-20T15:18:37.940Z,"19 km N of Twin Bridges, Montana",earthquake,0.23,1.01,0.103296781493421,10,reviewed,mb,mb
+2023-07-20T13:38:15.390Z,48.75483333333333,-121.74683333333333,4.19,1.43,ml,5,161,0.1084,0.38,uw,uw61933492,2023-07-20T18:58:10.330Z,"Mount Baker area, Washington",earthquake,2.46,31.61,0.14459690361747146,4,reviewed,uw,uw
 2023-07-20T13:38:10.360Z,38.8161659,-122.8176651,2.31,0.78,md,18,53,0.009342,0.03,nc,nc73914976,2023-07-20T13:57:13.942Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.66,0.25,20,automatic,nc,nc
 2023-07-20T13:37:56.887Z,62.8125,-149.008,60.1,1.8,ml,,,,0.41,ak,ak02398mzg08,2023-07-20T13:39:37.901Z,"64 km S of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-20T13:35:43.003Z,36.1299,-115.4531,1.6,1.5,ml,22,241.2,0.444,0.2332,nn,nn00863034,2023-07-20T13:37:57.644Z,"10 km NNW of Blue Diamond, Nevada",earthquake,,11.3,0.98,18,automatic,nn,nn
@@ -211,7 +214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T21:02:15.350Z,35.618,-117.4546667,6.6,1.09,ml,22,53,0.03203,0.14,ci,ci39616946,2023-07-20T00:02:39.658Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.35,0.114,8,reviewed,ci,ci
 2023-07-19T20:55:05.007Z,61.5635,-149.7458,39,1,ml,,,,0.43,ak,ak023973pvms,2023-07-19T20:57:50.369Z,"8 km SSE of Houston, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-19T20:48:34.950Z,35.602,-117.4291667,10.25,0.5,mh,6,96,0.03105,0.13,ci,ci39616898,2023-07-20T18:46:25.192Z,"18km S of Searles Valley, CA",earthquake,0.59,0.7,,0,reviewed,ci,ci
-2023-07-19T20:39:39.237Z,31.60296827,-103.9238595,6.645727539,2.2,ml,20,42,0.03914645828,0.1,tx,tx2023obeb,2023-07-20T16:15:42.141Z,"32 km WSW of Mentone, Texas",earthquake,0.7339195979,1.018123542,0,6,reviewed,tx,tx
+2023-07-19T20:39:39.237Z,31.60296827,-103.9238595,6.645727539,2.2,ml,20,42,0.03914645828,0.1,tx,tx2023obeb,2023-07-20T16:15:42.141Z,"western Texas",earthquake,0.7339195979,1.018123542,0,6,reviewed,tx,tx
 2023-07-19T20:12:21.760Z,36.0235,-117.8985,5.38,0.76,ml,12,151,0.01704,0.14,ci,ci39616850,2023-07-20T17:23:56.968Z,"5km ESE of Coso Junction, CA",earthquake,0.3,0.51,0.192,4,reviewed,ci,ci
 2023-07-19T19:58:03.725Z,63.9137,-148.7124,112.6,1.4,ml,,,,0.29,ak,ak023973532s,2023-07-19T20:00:18.804Z,"13 km ENE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-19T19:55:15.210Z,19.3746666666667,-155.291666666667,1.86,2,ml,23,95,,0.1,hv,hv73488702,2023-07-19T21:51:45.930Z,"9 km SW of Volcano, Hawaii",earthquake,0.18,0.24,0.190295531411755,6,reviewed,hv,hv
@@ -228,7 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T19:14:16.640Z,33.4953333,-116.484,14.33,0.94,ml,35,57,0.05618,0.23,ci,ci39616730,2023-07-19T20:04:14.541Z,"19km ESE of Anza, CA",earthquake,0.33,0.49,0.184,24,reviewed,ci,ci
 2023-07-19T19:13:45.380Z,33.49,-116.4883333,14.51,0.6,ml,17,62,0.06203,0.21,ci,ci37559324,2023-07-20T17:20:27.866Z,"19km ESE of Anza, CA",earthquake,0.43,0.7,0.114,9,reviewed,ci,ci
 2023-07-19T19:13:40.540Z,33.4898333,-116.4848333,14.34,0.73,ml,23,62,0.05968,0.15,ci,ci39616754,2023-07-20T17:20:06.106Z,"19km ESE of Anza, CA",earthquake,0.27,0.5,0.065,10,reviewed,ci,ci
-2023-07-19T19:05:19.090Z,38.8003333,-122.7538333,3.99,0.27,md,28,97,0.004603,0.03,nc,nc73914636,2023-07-19T23:44:11.565Z,"3 km N of The Geysers, CA",earthquake,0.22,0.55,0.283,23,reviewed,nc,nc
-2023-07-19T19:02:23.450Z,35.7731667,-117.5945,6.54,1.03,ml,17,67,0.04255,0.22,ci,ci39616714,2023-07-19T20:04:30.542Z,"17km W of Searles Valley, CA",earthquake,0.4,0.81,0.138,7,reviewed,ci,ci
-2023-07-19T19:02:03.090Z,46.0153333333333,-112.4595,-2,2.07,ml,15,113,0.06604,0.1,mb,mb90021798,2023-07-19T19:14:02.180Z,"5 km ENE of Butte, Montana",quarry blast,0.36,31.61,0.310666678859784,15,reviewed,mb,mb
-2023-07-19T18:59:07.190Z,35.1355,-118.1536667,12.67,0.81,ml,11,66,0.03826,0.08,ci,ci39616706,2023-07-19T23:26:21.559Z,"9km NNE of Mojave, CA",earthquake,0.18,0.36,0.198,8,reviewed,ci,ci
