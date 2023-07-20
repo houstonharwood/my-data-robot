@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-20T16:01:17.830Z,33.7061667,-116.7616667,16.27,2.13,ml,76,22,0.03991,0.18,ci,ci39617538,2023-07-20T16:11:43.590Z,"6km SW of Idyllwild, CA",earthquake,0.15,0.32,0.227,25,automatic,ci,ci
-2023-07-20T15:57:08.720Z,37.4641685,-118.7294998,2.88,1.21,md,9,222,0.1485,0.03,nc,nc73915001,2023-07-20T16:07:10.929Z,"12 km SSW of Toms Place, CA",earthquake,2.08,3.5,0.08,7,automatic,nc,nc
+2023-07-20T15:57:08.720Z,37.4641685,-118.7294998,2.88,1.21,md,9,222,0.1485,0.03,nc,nc73915001,2023-07-20T16:16:12.831Z,"12 km SSW of Toms Place, CA",earthquake,2.08,3.5,0.08,7,automatic,nc,nc
 2023-07-20T15:53:33.104Z,58.2446,-155.1901,1.2,0.9,ml,,,,0.53,ak,ak02398o9ou6,2023-07-20T15:54:30.173Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2023-07-20T15:39:15.530Z,38.748333,-122.421669,2.95,1.88,md,20,56,0.06851,0.14,nc,nc73914996,2023-07-20T15:58:12.829Z,"14 km ESE of Hidden Valley Lake, CA",earthquake,0.42,3.57,0.07,14,automatic,nc,nc
+2023-07-20T15:39:15.530Z,38.748333,-122.421669,2.95,1.88,md,20,56,0.06851,0.14,nc,nc73914996,2023-07-20T16:14:10.821Z,"14 km ESE of Hidden Valley Lake, CA",earthquake,0.42,3.57,0.07,14,automatic,nc,nc
 2023-07-20T15:33:14.280Z,35.7635,-117.5981667,10.9,0.69,ml,13,100,0.05213,0.13,ci,ci39617514,2023-07-20T15:52:43.186Z,"17km NNE of Ridgecrest, CA",earthquake,0.36,0.5,0.127,4,reviewed,ci,ci
 2023-07-20T15:25:05.670Z,17.9793333333333,-67.0613333333333,7.16,2.13,md,7,181,0.01903,0.22,pr,pr71418623,2023-07-20T15:51:14.710Z,"Puerto Rico region",earthquake,1.47,0.7,0.0604543312254293,3,reviewed,pr,pr
 2023-07-20T15:22:59.777Z,61.3668,-151.0553,63.2,1.2,ml,,,,0.45,ak,ak02398o36tf,2023-07-20T15:25:22.426Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T10:08:59.370Z,38.8400002,-122.8241653,1.88,0.72,md,14,67,0.008953,0.01,nc,nc73914901,2023-07-20T11:57:16.126Z,"9 km WNW of Cobb, CA",earthquake,0.28,0.69,0.11,16,automatic,nc,nc
 2023-07-20T09:54:49.160Z,38.840168,-122.8233337,2.22,1.1,md,21,87,0.009621,0.02,nc,nc73914896,2023-07-20T11:30:14.970Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.54,0.16,25,automatic,nc,nc
 2023-07-20T09:51:42.760Z,19.1921672821045,-155.462997436523,30.6000003814697,1.89999998,md,29,117,,0.100000001,hv,hv73489527,2023-07-20T09:54:51.460Z,"2 km SE of Pāhala, Hawaii",earthquake,0.56,0.850000024,0.949999988,3,automatic,hv,hv
-2023-07-20T09:33:42.630Z,33.4891667,-116.7686667,7.67,1.53,ml,63,39,0.03516,0.21,ci,ci39617274,2023-07-20T09:44:33.680Z,"10km ENE of Aguanga, CA",earthquake,0.18,0.59,0.117,26,automatic,ci,ci
+2023-07-20T09:33:42.590Z,33.4881667,-116.7686667,8.43,1.43,ml,76,26,0.03583,0.19,ci,ci39617274,2023-07-20T16:18:50.960Z,"10km ENE of Aguanga, CA",earthquake,0.13,0.4,0.179,43,reviewed,ci,ci
 2023-07-20T09:26:08.660Z,44.6168333333333,-112.593666666667,7.4,2.75,ml,11,79,0.03594,0.08,mb,mb90021823,2023-07-20T13:57:56.560Z,"2 km S of Lima, Montana",earthquake,0.25,0.49,0.244427847847843,37,reviewed,mb,mb
 2023-07-20T09:24:55.100Z,33.457,-116.5775,9.71,0.45,ml,23,76,0.0429,0.15,ci,ci39617266,2023-07-20T15:30:55.715Z,"14km SE of Anza, CA",earthquake,0.24,0.46,0.194,11,reviewed,ci,ci
 2023-07-20T09:24:50.780Z,37.7508333,-112.6226667,7.78,1.73,ml,15,62,0.3939,0.18,uu,uu60545777,2023-07-20T15:28:12.860Z,"18 km WSW of Panguitch, Utah",earthquake,0.57,1.92,0.077,12,reviewed,uu,uu
@@ -183,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T21:09:37.437Z,60.2116,-152.5195,94.2,1.3,ml,,,,0.55,ak,ak0239741isv,2023-07-19T21:11:54.983Z,"50 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-19T21:02:15.350Z,35.618,-117.4546667,6.6,1.09,ml,22,53,0.03203,0.14,ci,ci39616946,2023-07-20T00:02:39.658Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.35,0.114,8,reviewed,ci,ci
 2023-07-19T20:55:05.007Z,61.5635,-149.7458,39,1,ml,,,,0.43,ak,ak023973pvms,2023-07-19T20:57:50.369Z,"8 km SSE of Houston, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-07-19T20:39:39.237Z,31.60296827,-103.9238595,6.645727539,2.2,ml,20,42,0.03914645828,0.1,tx,tx2023obeb,2023-07-20T16:15:42.141Z,"32 km WSW of Mentone, Texas",earthquake,0.7339195979,1.018123542,0,6,reviewed,tx,tx
 2023-07-19T19:58:03.725Z,63.9137,-148.7124,112.6,1.4,ml,,,,0.29,ak,ak023973532s,2023-07-19T20:00:18.804Z,"13 km ENE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-19T19:55:15.210Z,19.3746666666667,-155.291666666667,1.86,2,ml,23,95,,0.1,hv,hv73488702,2023-07-19T21:51:45.930Z,"9 km SW of Volcano, Hawaii",earthquake,0.18,0.24,0.190295531411755,6,reviewed,hv,hv
 2023-07-19T19:44:20.305Z,61.0349,-148.1895,13.4,0.8,ml,,,,0.38,ak,ak02397324by,2023-07-19T19:46:17.788Z,"39 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -222,9 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T17:13:53.040Z,46.3326666666667,-111.627,-2,1.29,ml,9,123,0.3432,0.15,mb,mb90021788,2023-07-20T14:39:56.770Z,"7 km SSW of The Silos, Montana",quarry blast,1.41,31.61,0.358428907793565,7,reviewed,mb,mb
 2023-07-19T17:10:54.700Z,46.849333333333334,-121.75316666666667,1.26,1.27,ml,25,71,0.01949,0.09,uw,uw61933227,2023-07-20T00:46:58.250Z,"Washington",earthquake,0.16,0.41,0.13243254208905442,17,reviewed,uw,uw
 2023-07-19T17:07:27.760Z,38.5038333,-112.8573333,1.67,-0.72,md,8,161,0.01389,0.09,uu,uu60545732,2023-07-20T15:55:02.260Z,"17 km NE of Milford, Utah",earthquake,0.84,1.34,0.433,2,reviewed,uu,uu
+2023-07-19T17:06:56.380Z,33.2528333,-116.307,6.11,-0.18,ml,3,223,0.07465,0.02,ci,ci39616450,2023-07-20T16:27:03.013Z,"6km E of Borrego Springs, CA",earthquake,0.62,0.94,0.08,2,reviewed,ci,ci
 2023-07-19T16:58:16.070Z,34.6373333,-117.3051667,-1.01,0.97,ml,16,85,0.07911,0.21,ci,ci39616426,2023-07-19T18:44:51.377Z,"11km ENE of Adelanto, CA",quarry blast,0.53,31.61,0.108,9,reviewed,ci,ci
 2023-07-19T16:36:44.095Z,12.6642,-88.3383,60.768,4.4,mb,50,151,0.8,0.83,us,us7000kgx7,2023-07-19T17:02:07.040Z,"65 km SSW of Chirilagua, El Salvador",earthquake,5.74,6.465,0.053,102,reviewed,us,us
 2023-07-19T16:36:25.697Z,66.3366,-154.7199,0,2.8,ml,,,,0.67,ak,ak023971847d,2023-07-19T16:39:07.846Z,"38 km NNW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-19T16:25:22.453Z,68.8788,-143.1339,13.7,3,ml,,,,1.09,ak,ak0239715r2t,2023-07-19T16:36:01.755Z,"129 km NE of Arctic Village, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-07-19T16:23:28.780Z,46.215666666666664,-119.58716666666666,6.95,0.33,ml,7,222,0.06926,0.05,uw,uw61933202,2023-07-20T00:58:37.100Z,"9 km SW of Benton City, Washington",earthquake,0.63,0.22,0.15694051268945122,4,reviewed,uw,uw
-2023-07-19T16:15:14.906Z,-58.5697,-26.4622,161.314,5.4,mb,74,75,7.023,0.6,us,us7000kgwy,2023-07-19T18:19:04.645Z,"South Sandwich Islands region",earthquake,5.64,7.096,0.052,127,reviewed,us,us
