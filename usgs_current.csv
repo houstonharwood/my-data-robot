@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-21T17:33:45.060Z,33.1686667,-115.6295,1.56,1.13,ml,17,68,0.01457,0.16,ci,ci39618602,2023-07-21T17:37:21.941Z,"12km WNW of Calipatria, CA",earthquake,0.38,0.43,0.138,17,automatic,ci,ci
+2023-07-21T17:33:45.010Z,33.1668333,-115.6321667,2.28,1.24,ml,22,73,0.01745,0.13,ci,ci39618602,2023-07-21T17:54:26.819Z,"12km WNW of Calipatria, CA",earthquake,0.22,0.26,0.217,16,reviewed,ci,ci
 2023-07-21T17:23:14.500Z,36.4830017,-121.0541687,7.54,1.82,md,14,180,0.02784,0.06,nc,nc73915271,2023-07-21T17:46:12.117Z,"10 km SE of Pinnacles, CA",earthquake,0.56,0.88,0.26,10,automatic,nc,nc
 2023-07-21T17:18:42.914Z,66.4326,-154.4846,0,1.6,ml,,,,0.96,ak,ak0239acsf8j,2023-07-21T17:21:06.521Z,"44 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-21T17:10:37.179Z,36.0345,-97.90866667,5.67,1.48,ml,88,30,0.1025798703,0.21,ok,ok2023oeoc,2023-07-21T17:23:56.466Z,"Oklahoma",earthquake,,0.4,0.23,40,reviewed,ok,ok
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T17:07:36.600Z,38.8325005,-122.8101654,2.03,1.09,md,20,47,0.009093,0.01,nc,nc73915261,2023-07-21T17:25:13.997Z,"8 km W of Cobb, CA",earthquake,0.21,0.4,0.15,24,automatic,nc,nc
 2023-07-21T16:58:38.143Z,39.1665,-119.6308,1.5,1.5,ml,11,45.09,0.081,0.2082,nn,nn00863057,2023-07-21T17:00:59.404Z,"8 km SSW of Dayton, Nevada",earthquake,,5.8,0.29,9,automatic,nn,nn
 2023-07-21T16:48:48.490Z,33.6543333,-116.7173333,14.73,0.34,ml,17,81,0.03911,0.08,ci,ci39618570,2023-07-21T17:43:29.095Z,"10km S of Idyllwild, CA",earthquake,0.24,0.4,0.123,12,reviewed,ci,ci
-2023-07-21T16:47:45.770Z,36.6328316,-121.2051697,9.11,2.21,md,41,82,,0.11,nc,nc73915251,2023-07-21T17:11:10.913Z,"12 km NNW of Pinnacles, CA",earthquake,0.24,0.51,0.14,22,automatic,nc,nc
+2023-07-21T16:47:45.770Z,36.6328316,-121.2051697,9.11,2.21,md,41,82,,0.11,nc,nc73915251,2023-07-21T17:50:12.143Z,"12 km NNW of Pinnacles, CA",earthquake,0.24,0.51,0.14,22,automatic,nc,nc
 2023-07-21T16:41:45.683Z,2.4063,126.8905,56.921,4.4,mb,25,125,1.692,0.63,us,us7000khg2,2023-07-21T17:02:04.040Z,"145 km WNW of Tobelo, Indonesia",earthquake,6.04,9.95,0.124,19,reviewed,us,us
 2023-07-21T16:41:17.522Z,61.0722,-146.356,15,1.4,ml,,,,0.79,ak,ak0239acbv54,2023-07-21T16:43:32.999Z,"6 km S of Valdez, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-21T16:36:48.082Z,57.874,-156.9173,7.1,0.9,ml,,,,0.31,ak,ak0239acaux4,2023-07-21T16:39:18.417Z,"46 km SE of Egegik, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T07:23:50.370Z,32.7666667,-115.4406667,15.35,2.23,ml,33,68,0.03889,0.28,ci,ci39618202,2023-07-21T07:34:19.370Z,"8km SW of Holtville, CA",earthquake,0.44,0.79,0.21,26,automatic,ci,ci
 2023-07-21T07:20:02.422Z,58.1816,-155.3746,0,1,ml,,,,0.47,ak,ak0239a6ufhu,2023-07-21T07:21:47.348Z,"87 km NW of Karluk, Alaska",earthquake,,24.5,,,automatic,ak,ak
 2023-07-21T07:12:58.662Z,59.7139,-153.7089,0,1.7,ml,,,,1.15,ak,ak0239a6su3u,2023-07-21T07:14:37.269Z,"23 km ESE of Pedro Bay, Alaska",earthquake,,14.9,,,automatic,ak,ak
+2023-07-21T06:58:57.050Z,29.16595459,-97.67130055,1.002644857,2.4,ml,15,58,0.03693369507,0.2,tx,tx2023odty,2023-07-21T17:51:38.358Z,"11 km SSW of Smiley, Texas",earthquake,0.8999110654,1.361564476,0.1,6,reviewed,tx,tx
 2023-07-21T06:36:53.957Z,58.7334,-153.619,13.5,1.3,ml,,,,0.35,ak,ak0239a6cjbn,2023-07-21T06:38:21.477Z,"85 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-21T06:24:33.888Z,38.4663,-119.4974,12.2,1.7,ml,15,88.2,0.121,0.1839,nn,nn00863049,2023-07-21T06:26:56.671Z,"5 km SSW of Walker, California",earthquake,,0.6,0.41,11,automatic,nn,nn
 2023-07-21T06:20:08.900Z,33.0541667,-116.3958333,14.78,0.71,ml,23,95,0.0424,0.15,ci,ci39618194,2023-07-21T17:39:15.712Z,"19km E of Julian, CA",earthquake,0.23,0.45,0.217,5,reviewed,ci,ci
