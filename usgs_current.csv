@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-21T03:29:18.210Z,38.8113327,-122.8291702,0.37,0.75,md,11,61,0.01053,0.03,nc,nc73915111,2023-07-21T03:30:52.585Z,"7 km WNW of The Geysers, CA",earthquake,0.26,0.66,0.11,11,automatic,nc,nc
+2023-07-21T03:29:18.210Z,38.8113327,-122.8291702,0.37,0.75,md,11,61,0.01053,0.03,nc,nc73915111,2023-07-21T03:47:14.968Z,"7 km WNW of The Geysers, CA",earthquake,0.26,0.66,0.11,11,automatic,nc,nc
 2023-07-21T03:19:52.320Z,38.8235016,-122.7631683,1.91,1.7,md,29,59,0.008728,0.03,nc,nc73915101,2023-07-21T03:37:13.910Z,"4 km W of Cobb, CA",earthquake,0.21,0.33,0.18,26,automatic,nc,nc
 2023-07-21T03:17:17.861Z,59.9093,-153.1594,120.9,1.3,ml,,,,0.52,ak,ak0239a4g34a,2023-07-21T03:19:18.820Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-21T03:07:45.850Z,38.8300018,-122.8138351,2.32,0.4,md,8,96,0.007222,0.01,nc,nc73915096,2023-07-21T03:24:12.844Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.63,0.33,9,automatic,nc,nc
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T12:17:01.730Z,33.4423333,-116.5905,12.66,0.47,ml,25,81,0.05314,0.13,ci,ci39617330,2023-07-20T16:58:04.570Z,"15km SSE of Anza, CA",earthquake,0.21,0.46,0.088,10,reviewed,ci,ci
 2023-07-20T12:16:04.570Z,38.7608333,-122.7135,1.87,0.17,md,10,106,0.008914,0.03,nc,nc73914941,2023-07-21T00:42:29.252Z,"2 km SW of Anderson Springs, CA",earthquake,0.73,0.41,0.272,4,reviewed,nc,nc
 2023-07-20T12:10:36.540Z,37.7425,-112.58,7.99,1.31,ml,9,244,0.4287,0.22,uu,uu60545797,2023-07-20T14:42:24.530Z,"Utah",earthquake,4.79,1.69,0.134,5,reviewed,uu,uu
-2023-07-20T12:00:14.820Z,36.7716667,-121.3215,6.18,1.18,md,24,123,0.06716,0.08,nc,nc73914936,2023-07-21T01:38:11.157Z,"2 km S of Tres Pinos, CA",earthquake,0.24,0.64,0.216,20,reviewed,nc,nc
+2023-07-20T12:00:14.820Z,36.7716667,-121.3215,6.18,1.18,md,24,123,0.06716,0.08,nc,nc73914936,2023-07-21T03:47:15.968Z,"2 km S of Tres Pinos, CA",earthquake,0.24,0.64,0.216,20,reviewed,nc,nc
 2023-07-20T11:54:21.050Z,44.7848333,-111.057,9.72,0.29,ml,9,141,0.03702,0.12,uu,uu60545792,2023-07-20T14:02:52.190Z,"Yellowstone National Park, Montana",earthquake,0.65,1.71,0.204,2,reviewed,uu,uu
 2023-07-20T11:54:02.210Z,46.83016666666666,-121.92583333333333,9.52,0.62,ml,27,117,0.01959,0.12,uw,uw61933487,2023-07-20T20:03:01.470Z,"11 km NE of Ashford, Washington",earthquake,0.24,0.33,0.11542353784786191,16,reviewed,uw,uw
 2023-07-20T11:45:48.600Z,58.1695,-155.376166666667,1.21,-0.47,ml,4,256,,0.02,av,av91970881,2023-07-21T01:53:38.490Z,"86 km NW of Karluk, Alaska",earthquake,1.57,2,0.197808696458043,4,reviewed,av,av
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T03:57:51.447Z,-22.2841,-67.2914,168.924,4.3,mb,17,87,1.056,0.77,us,us7000kh0x,2023-07-20T21:36:38.040Z,"116 km NE of San Pedro de Atacama, Chile",earthquake,8.79,8.906,0.2,7,reviewed,us,us
 2023-07-20T03:57:16.830Z,19.1863327026367,-155.503173828125,32.5699996948242,2.01999998,md,25,221,,0.109999999,hv,hv73489207,2023-07-20T04:00:29.090Z,"3 km SW of Pāhala, Hawaii",earthquake,1.07,1.37,2.04999995,4,automatic,hv,hv
 2023-07-20T03:52:27.020Z,38.8359985,-122.8083344,1.77,0.35,md,7,76,0.01266,0.01,nc,nc73914796,2023-07-20T04:09:16.291Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.06,0.23,9,automatic,nc,nc
-2023-07-20T03:46:36.150Z,35.6333333,-117.4591667,7.69,1.31,ml,25,58,0.04289,0.14,ci,ci39617162,2023-07-20T15:04:45.541Z,"16km SSW of Searles Valley, CA",earthquake,0.2,0.53,0.112,13,reviewed,ci,ci
-2023-07-20T03:46:29.710Z,45.364,-121.7,-1.25,0.1,ml,4,159,0.006684,0,uw,uw61933452,2023-07-20T05:30:03.030Z,"7 km NNE of Government Camp, Oregon",earthquake,0.99,0.48,0.09586575621820546,3,reviewed,uw,uw
