@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T02:54:53.110Z,34.3216667,-116.4513333,8.57,1.04,ml,13,105,0.0644,0.2,ci,ci39619658,2023-07-23T02:58:23.074Z,"23km N of Yucca Valley, CA",earthquake,0.43,0.93,0.169,19,automatic,ci,ci
 2023-07-23T02:46:32.000Z,33.3221667,-115.7066667,1.52,1.12,ml,17,74,0.03765,0.24,ci,ci39619642,2023-07-23T02:50:07.853Z,"4km SE of Bombay Beach, CA",earthquake,0.4,0.95,0.101,15,automatic,ci,ci
 2023-07-23T02:39:14.566Z,59.8652,-152.1106,68.7,1.2,ml,,,,0.46,ak,ak0239df2200,2023-07-23T02:40:50.035Z,"18 km WNW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-23T02:28:26.120Z,61.3389,-146.8301,21.1,1.9,ml,,,,0.71,ak,ak0239dezq0k,2023-07-23T02:30:29.891Z,"34 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -18,7 +19,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T00:30:41.630Z,35.5171667,-118.548,4.6,1.2,ml,19,67,0.1573,0.14,ci,ci39619554,2023-07-23T00:34:11.395Z,"9km SSW of Bodfish, CA",earthquake,0.3,1.08,0.155,13,automatic,ci,ci
 2023-07-23T00:29:24.984Z,63.1107,-150.7726,27.7,1.1,ml,,,,1.2,ak,ak0239ddt2fm,2023-07-23T00:31:19.912Z,"67 km SE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-07-23T00:25:15.120Z,33.8686667,-116.8205,14.54,1.57,ml,52,24,0.03993,0.21,ci,ci39619546,2023-07-23T00:28:47.585Z,"6km SSW of Cabazon, CA",earthquake,0.23,0.38,0.141,26,automatic,ci,ci
-2023-07-23T00:06:53.092Z,58.1645,-155.4083,1.3,0.4,ml,,,,0.17,ak,ak0239ddo74t,2023-07-23T00:09:28.889Z,"87 km NW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-07-23T00:04:45.225Z,58.2659,-155.1158,1.7,1.7,ml,,,,0.34,ak,ak0239ddnr3e,2023-07-23T00:06:27.785Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-22T23:51:08.680Z,19.2560005187988,-155.402496337891,30.8999996185303,1.96,ml,36,145,,0.109999999,hv,hv73493327,2023-07-22T23:56:39.510Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.819999993,4.07,5,automatic,hv,hv
 2023-07-22T23:47:44.211Z,64.9911,-147.3756,4.6,1.8,ml,,,,0.43,ak,ak0239c42l85,2023-07-22T23:49:47.491Z,"12 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T12:18:16.080Z,38.8470001,-122.8166656,1.46,0.93,md,12,58,0.009259,0.02,nc,nc73915511,2023-07-22T13:30:14.263Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.57,0.11,11,automatic,nc,nc
 2023-07-22T12:16:26.890Z,38.848999,-122.8170013,1.39,0.34,md,7,84,0.007518,0.01,nc,nc73915506,2023-07-22T13:02:13.103Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.04,0.27,7,automatic,nc,nc
 2023-07-22T12:15:58.958Z,58.2929,-155.0113,1.2,0.7,ml,,,,0.32,ak,ak0239bxbzsn,2023-07-22T12:17:40.805Z,"87 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-22T12:14:26.112Z,32.6817,131.975,27.103,4.9,mb,71,64,1.742,0.66,us,us7000khm4,2023-07-22T12:48:48.142Z,"30 km SSE of Saiki, Japan",earthquake,7.45,5.138,0.031,321,reviewed,us,us
+2023-07-22T12:14:26.112Z,32.6817,131.975,27.103,4.9,mb,71,64,1.742,0.66,us,us7000khm4,2023-07-23T02:56:32.852Z,"30 km SSE of Saiki, Japan",earthquake,7.45,5.138,0.031,321,reviewed,us,us
 2023-07-22T12:13:06.088Z,38.4503,-119.3802,4.5,0.8,ml,7,219.81,0.071,0.2313,nn,nn00863116,2023-07-22T14:37:30.614Z,"11 km SE of Walker, California",earthquake,,2.7,0,1,reviewed,nn,nn
 2023-07-22T12:08:51.540Z,35.81,-117.6278333,6.49,2.26,ml,22,60,0.1114,0.17,ci,ci39619186,2023-07-22T12:19:33.220Z,"21km WNW of Searles Valley, CA",earthquake,0.26,1.01,0.119,26,automatic,ci,ci
 2023-07-22T12:02:08.653Z,58.1647,-155.2609,1.1,0.6,ml,,,,0.32,ak,ak0239bx93ne,2023-07-22T12:04:16.170Z,"81 km NW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
