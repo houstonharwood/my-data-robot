@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T07:02:56.550Z,19.2304992675781,-155.503829956055,31.9599990844727,1.83000004,md,33,82,,0.109999999,hv,hv73493757,2023-07-23T07:05:59.480Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.829999983,1.80999994,6,automatic,hv,hv
 2023-07-23T06:58:05.140Z,36.0586662,-120.6376648,-0.71,1.87,md,22,82,0.0351,0.16,nc,nc73915721,2023-07-23T07:09:11.026Z,"24 km E of San Ardo, CA",earthquake,0.41,2.07,0.15,11,automatic,nc,nc
 2023-07-23T06:57:45.040Z,34.4378333,-116.9228333,6.35,1.22,ml,7,241,0.4274,0.33,ci,ci39619746,2023-07-23T07:01:24.150Z,"4km E of Lucerne Valley, CA",earthquake,4.08,31.61,0.288,12,automatic,ci,ci
-2023-07-23T06:55:28.120Z,38.8176651,-122.8206635,2.06,1.03,md,14,66,0.01102,0.02,nc,nc73915716,2023-07-23T06:58:08.849Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.51,0.19,15,automatic,nc,nc
+2023-07-23T06:55:28.120Z,38.8176651,-122.8206635,2.06,1.03,md,14,66,0.01102,0.02,nc,nc73915716,2023-07-23T07:22:15.106Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.51,0.19,15,automatic,nc,nc
 2023-07-23T06:52:41.650Z,35.2661667,-118.5745,5.31,1.56,ml,34,70,0.09988,0.19,ci,ci39619738,2023-07-23T07:03:42.900Z,"19km NW of Tehachapi, CA",earthquake,0.26,1.67,0.14,27,automatic,ci,ci
 2023-07-23T06:47:18.910Z,18.266,-66.5103333333333,39.58,2.65,md,18,73,0.1496,0.12,pr,pr71418938,2023-07-23T07:01:42.520Z,"8 km SSW of Ciales, Puerto Rico",earthquake,0.49,0.56,0.151983967459827,9,reviewed,pr,pr
 2023-07-23T06:37:35.660Z,35.502,-118.3961667,5.53,0.83,ml,19,66,0.1725,0.1,ci,ci39619730,2023-07-23T06:41:08.270Z,"13km SE of Bodfish, CA",earthquake,0.2,1.1,0.158,6,automatic,ci,ci
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T23:40:28.315Z,55.0342,-157.6805,9.9,3.7,ml,,,,0.6,ak,ak0239c4120l,2023-07-23T00:50:30.372Z,"134 km SE of Perryville, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-07-22T23:35:58.190Z,38.8356667,-122.7998352,1.77,0.69,md,9,69,0.01928,0.02,nc,nc73915661,2023-07-22T23:38:42.112Z,"7 km WNW of Cobb, CA",earthquake,0.33,1.16,0.31,9,automatic,nc,nc
 2023-07-22T22:58:29.314Z,59.8632,-152.9634,100.1,1.2,ml,,,,0.35,ak,ak0239c3jhcj,2023-07-22T23:00:19.268Z,"64 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-07-22T22:54:35.596Z,36.6932,-116.3061,5.6,-0.3,ml,14,128.8,0.037,0.0831,nn,nn00863144,2023-07-23T00:12:31.533Z,"California-Nevada border region",earthquake,,1.2,0.3,3,reviewed,nn,nn
+2023-07-22T22:54:35.596Z,36.6932,-116.3061,5.6,-0.3,ml,14,128.8,0.037,0.0831,nn,nn00863144,2023-07-23T00:12:31.533Z,"46 km ESE of Beatty, Nevada",earthquake,,1.2,0.3,3,reviewed,nn,nn
 2023-07-22T22:54:13.880Z,33.2241667,-116.0881667,7.57,1.39,ml,46,51,0.09557,0.24,ci,ci39619522,2023-07-22T23:05:11.050Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.28,0.95,0.121,26,automatic,ci,ci
 2023-07-22T22:37:28.470Z,38.8321648,-122.8195038,2.61,0.74,md,8,64,0.01403,0.01,nc,nc73915636,2023-07-23T00:51:15.598Z,"8 km NW of The Geysers, CA",earthquake,0.96,2.93,0.12,8,automatic,nc,nc
 2023-07-22T22:25:34.750Z,46.85783333333333,-121.76333333333334,-2.59,0.33,ml,10,166,0.0215,0.15,uw,uw61943021,2023-07-23T05:01:52.510Z,"23 km ENE of Ashford, Washington",earthquake,0.42,0.67,0.06584661518946983,5,reviewed,uw,uw
@@ -209,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T07:29:53.151Z,61.1422,-147.6839,3.4,1.4,ml,,,,0.6,ak,ak0239buftcj,2023-07-22T07:31:54.113Z,"62 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-22T07:28:52.490Z,36.2393333,-118.351,5.99,1.1,ml,11,180,0.4243,0.28,ci,ci39619114,2023-07-22T07:32:19.942Z,"31km W of Olancha, CA",earthquake,1.5,23.32,0.069,3,automatic,ci,ci
 2023-07-22T07:28:28.680Z,37.5308333,-118.7965,5.36,2.5,md,29,79,0.05199,0.03,nc,nc73915436,2023-07-22T22:24:13.740Z,"11 km WSW of Toms Place, CA",earthquake,0.4,0.49,0.197,41,reviewed,nc,nc
-2023-07-22T07:26:41.466Z,31.6251,-104.4182,5,2.5,ml,22,91,0.083,0.25,us,us7000khkb,2023-07-22T09:42:00.774Z,"61 km S of Whites City, New Mexico",earthquake,2.72,1.964,0.091,27,reviewed,us,us
-2023-07-22T07:26:13.780Z,33.477,-116.4836667,15.93,0.46,ml,21,131,0.1006,0.21,ci,ci39619098,2023-07-22T07:29:45.076Z,"20km ESE of Anza, CA",earthquake,0.45,0.83,0.089,8,automatic,ci,ci
-2023-07-22T07:22:43.150Z,33.4758333,-116.4973333,13.54,0.8,ml,26,96,0.07638,0.16,ci,ci39619090,2023-07-22T07:26:24.801Z,"19km ESE of Anza, CA",earthquake,0.29,0.54,0.182,21,automatic,ci,ci
-2023-07-22T07:22:17.700Z,33.4726667,-116.4918333,13.37,0.48,ml,22,49,0.07493,0.19,ci,ci39619082,2023-07-22T07:25:54.554Z,"19km ESE of Anza, CA",earthquake,0.4,0.69,0.064,12,automatic,ci,ci
