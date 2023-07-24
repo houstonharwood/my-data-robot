@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-24T12:05:17.700Z,33.0366667,-116.3618333,5.44,1.08,ml,30,71,0.07659,0.2,ci,ci39620338,2023-07-24T12:08:53.255Z,"23km ESE of Julian, CA",earthquake,0.26,0.92,0.141,23,automatic,ci,ci
+2023-07-24T12:04:23.656Z,60.0432,-149.1641,14.4,1.7,ml,,,,0.41,ak,ak0239f8c96l,2023-07-24T12:06:04.357Z,"15 km ESE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-24T12:01:24.430Z,38.8339996,-122.9551697,4.62,1.14,md,8,176,0.01294,0.02,nc,nc73916136,2023-07-24T12:13:10.677Z,"6 km ENE of Cloverdale, CA",earthquake,1.6,2.07,0.12,8,automatic,nc,nc
+2023-07-24T11:58:14.176Z,60.2591,-147.0542,10.7,1.4,ml,,,,0.76,ak,ak0239f82de5,2023-07-24T12:00:48.146Z,"57 km ENE of Chenega, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-24T11:52:05.530Z,33.7075,-116.7316667,18.79,0.45,ml,12,108,0.01504,0.11,ci,ci39620314,2023-07-24T11:55:40.131Z,"4km SSW of Idyllwild, CA",earthquake,0.38,0.44,0.129,10,automatic,ci,ci
 2023-07-24T11:50:55.300Z,33.946,-116.5423333,12.84,0.5,ml,11,88,0.1112,0.13,ci,ci39620306,2023-07-24T11:54:21.071Z,"4km WSW of Desert Hot Springs, CA",earthquake,0.44,1.21,0.178,6,automatic,ci,ci
+2023-07-24T11:48:07.696Z,62.248,-151.3875,78.2,1.1,ml,,,,0.25,ak,ak0239f807zw,2023-07-24T12:00:50.207Z,"28 km N of Skwentna, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-07-24T11:47:47.299Z,59.9694,-151.8495,67.5,1.8,ml,,,,0.21,ak,ak0239f8036x,2023-07-24T11:49:15.625Z,"7 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-24T11:39:05.211Z,60.1626,-147.0186,9.4,3,ml,,,,0.53,ak,ak0239f7yabe,2023-07-24T11:50:01.040Z,"56 km E of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-24T11:38:32.260Z,69.14,-144.4179,0,2.4,ml,,,,0.9,ak,ak0239f7y4l6,2023-07-24T11:54:51.040Z,"114 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -33,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T07:03:32.843Z,63.029,-151.5376,0,1,ml,,,,0.96,ak,ak0239f5cw5e,2023-07-24T07:16:33.950Z,"57 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-24T06:50:02.300Z,33.8778333,-118.2818333,11.25,1.74,ml,38,43,0.04222,0.32,ci,ci39620186,2023-07-24T07:00:30.720Z,"3km ESE of Gardena, CA",earthquake,0.45,0.72,0.234,26,automatic,ci,ci
 2023-07-24T06:45:11.440Z,19.388500213623,-155.279495239258,1.37999999523163,1.73,ml,15,68,,0.109999999,hv,hv73495122,2023-07-24T06:50:41.760Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.219999999,0.2,8,automatic,hv,hv
+2023-07-24T06:37:00.015Z,38.3246,141.6123,70.571,4.4,mb,28,150,2.498,0.68,us,us7000khxb,2023-07-24T12:03:26.040Z,"near the east coast of Honshu, Japan",earthquake,9.7,9.486,0.095,32,reviewed,us,us
 2023-07-24T06:28:55.250Z,61.9463,-151.4679,74.6,1.8,ml,,,,0.56,ak,ak0239f4wv6d,2023-07-24T06:31:10.376Z,"6 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-24T06:12:43.940Z,33.4365,-116.9983333,25.17,0.5,ml,10,199,0.2532,0.26,ci,ci39620178,2023-07-24T06:16:26.052Z,"11km NE of Pala, CA",earthquake,1.59,3.36,0.036,6,automatic,ci,ci
 2023-07-24T05:58:07.990Z,38.8168335,-122.7958298,2.4,1.27,md,18,47,0.008862,0.02,nc,nc73916066,2023-07-24T08:30:14.261Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.44,0.2,15,automatic,nc,nc
@@ -163,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T15:03:21.175Z,63.2749,-151.0223,8.5,1,ml,,,,0.81,ak,ak0239dmkzlc,2023-07-23T15:06:02.486Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-23T14:38:34.802Z,40.0708,-119.6938,15.9,1.1,ml,5,163.02,0.104,0.1503,nn,nn00863158,2023-07-23T16:58:02.410Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.29,5,reviewed,nn,nn
 2023-07-23T14:25:26.272Z,43.6426,-110.1656,2.957,2.5,ml,20,108,0.32,0.61,us,us7000khtn,2023-07-23T15:48:18.040Z,"37 km E of Kelly, Wyoming",earthquake,2.18,3.113,0.069,28,reviewed,us,us
-2023-07-23T14:23:49.320Z,35.6816597,-98.12252045,5.201623917,2,ml,17,66.70233154,0.08036170155,0.535036611,ok,ok2023ohzq,2023-07-23T14:26:44.263Z,"Oklahoma",earthquake,3.510077987,4.074165369,0.31,14,automatic,ok,ok
+2023-07-23T14:23:49.579Z,35.6655,-98.11816667,6.62,2.01,ml,58,49,0.08368357843,0.24,ok,ok2023ohzq,2023-07-24T12:14:48.541Z,"7 km N of Calumet, Oklahoma",earthquake,,0.5,0.22,5,reviewed,ok,ok
 2023-07-23T14:20:14.871Z,60.5626,-151.7337,91.1,1.1,ml,,,,0.96,ak,ak0239dm36jx,2023-07-23T14:22:45.995Z,"23 km WSW of Salamatof, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-07-23T14:17:26.100Z,34.3263333,-116.4541667,7.25,1.51,ml,31,50,0.06872,0.21,ci,ci39619858,2023-07-23T14:28:38.250Z,"24km N of Yucca Valley, CA",earthquake,0.36,0.88,0.141,27,automatic,ci,ci
 2023-07-23T14:14:20.751Z,-17.3225,-175.0199,275.719,4.5,mb,19,100,3.831,0.26,us,us7000khtl,2023-07-23T14:47:17.040Z,"183 km NW of Neiafu, Tonga",earthquake,10.43,12.4,0.151,16,reviewed,us,us
@@ -183,6 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T12:30:15.350Z,39.343,-119.4799,10.3,0.1,ml,6,181.47,0.271,0.1641,nn,nn00863178,2023-07-24T03:24:11.961Z,"9 km WSW of Stagecoach, Nevada",earthquake,,7.6,0,1,reviewed,nn,nn
 2023-07-23T12:26:29.380Z,38.8238335,-122.793335,2.9,0.71,md,9,81,0.01592,0.02,nc,nc73915776,2023-07-23T13:01:14.164Z,"6 km NNW of The Geysers, CA",earthquake,0.36,0.87,0.12,9,automatic,nc,nc
 2023-07-23T12:18:14.328Z,-12.4387,167.0866,242.448,4.4,mb,38,108,8.501,0.54,us,us7000khsr,2023-07-23T12:34:08.040Z,"Santa Cruz Islands",earthquake,5.8,7.839,0.075,51,reviewed,us,us
-2023-07-23T12:12:49.570Z,18.1436666666667,-66.7268333333333,20.01,2.75,md,16,90,0.1087,0.09,pr,pr71418998,2023-07-23T12:40:29.525Z,"2 km SSW of Adjuntas, Puerto Rico",earthquake,0.23,0.46,0.0895162825817526,10,reviewed,pr,pr
-2023-07-23T12:12:43.890Z,17.9438333333333,-67.1068333333333,14.38,1.25,md,3,277,0.06228,0,pr,pr71419003,2023-07-23T12:29:03.720Z,"Puerto Rico region",earthquake,3.16,1.73,0.0472975167877774,2,reviewed,pr,pr
-2023-07-23T11:57:49.100Z,19.2360000610352,-154.672164916992,16.9899997711182,2.37,ml,47,282,,0.200000003,hv,hv73494112,2023-07-24T04:24:51.040Z,"36 km SE of Leilani Estates, Hawaii",earthquake,0.95,17.4099998,0.38,6,automatic,hv,hv
