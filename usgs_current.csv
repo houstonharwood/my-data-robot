@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T04:44:28.330Z,61.7075,-141.8136,44.8,1.3,ml,,,,0.4,ak,ak0239f3tdch,2023-07-24T04:45:46.392Z,"66 km ENE of McCarthy, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-07-24T04:42:30.790Z,37.3460007,-121.7043304,8.43,1.45,md,11,71,0.04941,0.04,nc,nc73916056,2023-07-24T05:18:15.093Z,"11 km ESE of Alum Rock, CA",earthquake,0.3,0.85,0.04,7,automatic,nc,nc
 2023-07-24T04:38:29.470Z,37.3466682,-121.7043304,8.44,1.41,md,20,64,0.04948,0.06,nc,nc73916046,2023-07-24T04:55:13.953Z,"11 km E of Alum Rock, CA",earthquake,0.22,0.54,0.08,11,automatic,nc,nc
-2023-07-24T04:35:00.800Z,37.3470001,-121.7076645,7.43,2.64,md,65,35,,0.06,nc,nc73916041,2023-07-24T04:48:55.904Z,"11 km ESE of Alum Rock, CA",earthquake,0.13,0.34,0.15,64,automatic,nc,nc
+2023-07-24T04:35:00.800Z,37.3470001,-121.7076645,7.43,2.64,md,65,35,,0.06,nc,nc73916041,2023-07-24T05:29:11.159Z,"11 km ESE of Alum Rock, CA",earthquake,0.13,0.34,0.15,64,automatic,nc,nc
 2023-07-24T04:23:38.600Z,33.4603333,-116.5785,9.17,0.58,ml,24,71,0.03959,0.15,ci,ci39620138,2023-07-24T04:27:09.441Z,"14km SE of Anza, CA",earthquake,0.27,0.54,0.172,17,automatic,ci,ci
 2023-07-24T04:07:17.350Z,33.8546667,-116.7476667,9.08,1.56,ml,24,46,0.1113,0.36,ci,ci39620130,2023-07-24T04:10:53.363Z,"8km SSE of Cabazon, CA",earthquake,0.65,2.25,0.11,25,automatic,ci,ci
 2023-07-24T04:01:40.269Z,61.8198,-150.9765,70.9,2.3,ml,,,,0.46,ak,ak0239f3k6gg,2023-07-24T04:03:31.899Z,"29 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T22:00:06.504Z,64.5398,-148.9692,13.4,0.8,ml,,,,0.56,ak,ak0239dqqcju,2023-07-23T22:01:48.524Z,"6 km ESE of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-23T20:56:00.566Z,57.4603,-154.9478,71.1,2.7,ml,,,,0.49,ak,ak0239dpvgzc,2023-07-23T21:52:10.040Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-23T20:53:07.786Z,36.4399,-115.8847,14.4,1.4,ml,12,288.03,0.3,0.351,nn,nn00863159,2023-07-23T20:55:22.873Z,"23 km SW of Indian Springs, Nevada",earthquake,,1.9,0.85,10,automatic,nn,nn
-2023-07-23T20:52:06.480Z,34.7508,-112.4326,5,3.8,ml,26,41,0.38,0.9,us,us7000khv5,2023-07-24T05:20:25.868Z,"Arizona",earthquake,1.96,1.933,0.028,171,reviewed,us,us
+2023-07-23T20:52:06.480Z,34.7508,-112.4326,5,3.8,ml,26,41,0.38,0.9,us,us7000khv5,2023-07-24T05:25:44.335Z,"Arizona",earthquake,1.96,1.933,0.028,171,reviewed,us,us
 2023-07-23T20:38:24.482Z,59.4818,-152.1598,63.7,1.5,ml,,,,0.47,ak,ak0239dprnxs,2023-07-23T20:40:28.596Z,"19 km NW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-23T20:33:34.850Z,38.8398323,-122.8773346,2.17,0.63,md,8,137,0.02015,0.01,nc,nc73915841,2023-07-23T21:05:15.076Z,"13 km WNW of The Geysers, CA",earthquake,0.32,0.9,0.38,8,automatic,nc,nc
 2023-07-23T20:30:56.290Z,19.3846666666667,-155.2785,1.56,2.39,ml,39,66,,0.11,hv,hv73494512,2023-07-23T20:54:05.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.14,0.220859335335292,18,reviewed,hv,hv
@@ -190,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T06:02:50.055Z,2.645,127.3046,89.666,4.6,mb,23,82,1.862,0.76,us,us7000khr9,2023-07-23T06:34:06.040Z,"128 km NW of Tobelo, Indonesia",earthquake,11.26,5.011,0.129,22,reviewed,us,us
 2023-07-23T05:52:21.718Z,40.0766,-119.6945,16.5,0.6,ml,4,164.04,0.098,0.0579,nn,nn00863156,2023-07-23T16:51:46.925Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.13,4,reviewed,nn,nn
 2023-07-23T05:43:39.620Z,33.2641667,-116.4231667,3.93,0.09,ml,10,79,0.006443,0.05,ci,ci39619698,2023-07-23T05:47:10.102Z,"5km WNW of Borrego Springs, CA",earthquake,0.24,0.17,0.024,2,automatic,ci,ci
-2023-07-23T05:30:52.380Z,61.2129,-147.0706,24.7,1.3,ml,,,,0.77,ak,ak0239dgsiae,2023-07-23T05:33:04.776Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-23T05:28:54.188Z,62.6639,-151.0606,79.2,1.4,ml,,,,0.68,ak,ak0239dgs2zu,2023-07-23T05:31:09.930Z,"24 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
