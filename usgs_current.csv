@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T20:40:00.892Z,57.202,-157.7562,169,2.1,ml,,,,0.98,ak,ak0239fdbe1l,2023-07-24T20:43:16.950Z,"40 km SSW of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T20:38:39.060Z,33.895,-116.6895,14.2,2.62,ml,78,20,0.08086,0.18,ci,ci39621018,2023-07-25T03:16:40.356Z,"9km ESE of Cabazon, CA",earthquake,0.15,0.35,0.228,26,automatic,ci,ci
 2023-07-24T20:37:47.624Z,58.195,-155.2555,1.1,0.1,ml,,,,0.14,ak,ak0239fdaui2,2023-07-24T20:40:00.741Z,"84 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"21 km NE of Perryville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-07-24T20:14:30.392Z,22.7759,94.4871,105.736,4.4,mb,26,165,3.098,0.87,us,us7000ki2c,2023-07-24T20:43:33.040Z,"84 km E of Falam, Myanmar",earthquake,13.48,5.144,0.117,21,reviewed,us,us
 2023-07-24T20:09:27.560Z,37.5695,-118.8493333,-0.4,1.02,md,10,273,0.02604,0.03,nc,nc73916281,2023-07-24T21:13:11.886Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.28,0.47,0.136,9,reviewed,nc,nc
 2023-07-24T20:05:09.100Z,36.8896667,-121.612,1.81,1.8,md,33,71,0.01688,0.08,nc,nc73916276,2023-07-24T22:30:53.673Z,"3 km E of Aromas, CA",earthquake,0.16,0.28,0.121,33,reviewed,nc,nc
@@ -143,6 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T10:47:11.020Z,40.4835,-124.2101667,22.04,2.91,md,33,58,0.06444,0.1,nc,nc73916121,2023-07-24T22:43:11.457Z,"9 km WSW of Rio Dell, CA",earthquake,0.24,0.36,0.171,63,reviewed,nc,nc
 2023-07-24T10:34:23.450Z,37.5831667,-118.8405,-0.59,-0.15,md,8,259,0.01135,0.01,nc,nc73916116,2023-07-24T16:23:22.446Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.07,0.41,0.192,7,reviewed,nc,nc
 2023-07-24T10:32:27.433Z,61.9717,-148.8621,40.3,0.9,ml,,,,0.33,ak,ak0239f7bebb,2023-07-24T10:34:20.697Z,"22 km NNW of Sutton-Alpine, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-24T10:26:50.357Z,40.1802,-119.7948,4.8,0.9,ml,4,227.64,0.049,0.0187,nn,nn00863221,2023-07-25T05:26:40.971Z,"29 km E of Herlong, California",earthquake,,4.6,0.2,3,reviewed,nn,nn
 2023-07-24T10:26:49.714Z,59.1197,-154.618,130,1.5,ml,,,,0.99,ak,ak0239f7a5qj,2023-07-24T10:29:31.191Z,"36 km SSE of Kokhanok, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-07-24T10:21:04.930Z,19.1816673278809,-155.460494995117,32.6399993896484,1.76999998,md,38,113,,0.100000001,hv,hv73495282,2023-07-24T10:24:20.640Z,"3 km SE of Pāhala, Hawaii",earthquake,0.55,0.730000019,1,8,automatic,hv,hv
 2023-07-24T10:09:36.320Z,37.6785,-118.8901667,2.79,0.37,md,18,137,0.01485,0.04,nc,nc73916111,2023-07-24T18:24:36.146Z,"9 km ENE of Mammoth Lakes, CA",earthquake,0.56,0.37,0.168,17,reviewed,nc,nc
@@ -159,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T08:57:15.520Z,32.4006667,-115.2213333,12.3,2.08,ml,24,53,0.07322,0.28,ci,ci39620242,2023-07-24T20:58:21.840Z,"6km NNW of Delta, B.C., MX",earthquake,0.39,1,0.215,15,reviewed,ci,ci
 2023-07-24T08:54:56.850Z,33.4826667,-116.8878333,11.79,0.27,ml,30,57,0.0695,0.18,ci,ci39620234,2023-07-24T20:40:54.157Z,"5km NNW of Aguanga, CA",earthquake,0.22,0.58,0.102,8,reviewed,ci,ci
 2023-07-24T08:48:42.910Z,37.3458333,-121.7033333,8.35,0.93,md,30,40,0.04861,0.08,nc,nc73916096,2023-07-24T17:50:02.692Z,"11 km ESE of Alum Rock, CA",earthquake,0.18,0.37,0.151,25,reviewed,nc,nc
+2023-07-24T08:35:35.640Z,39.9331,-119.1395,16.1,0.8,ml,4,282.63,0.292,0.0597,nn,nn00863220,2023-07-25T05:23:34.903Z,"Nevada",earthquake,,5.9,0.17,4,reviewed,nn,nn
 2023-07-24T08:32:08.260Z,18.134,-67.7973333333333,135.65,3.27,md,11,309,0.3918,0.23,pr,pr71419128,2023-07-24T08:47:11.970Z,"Mona Passage, Puerto Rico",earthquake,2.34,0.97,0.0506774086586188,6,reviewed,pr,pr
 2023-07-24T08:27:15.660Z,34.005,-116.9148333,11.31,1.04,ml,46,75,0.09004,0.18,ci,ci39620218,2023-07-24T20:09:57.524Z,"10km NNW of Banning, CA",earthquake,0.18,0.59,0.143,22,reviewed,ci,ci
 2023-07-24T08:24:06.102Z,-34.0455,-70.3686,3.3,4.9,mb,49,93,0.208,0.5,us,us7000khxt,2023-07-24T08:52:59.040Z,"29 km ENE of Machalí, Chile",earthquake,2.12,4.44,0.035,252,reviewed,us,us
