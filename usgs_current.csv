@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T17:28:30.654Z,60.8654,-150.2194,47.3,1.2,ml,,,,0.82,ak,ak0239gyzxfb,2023-07-25T17:31:09.629Z,"Kenai Peninsula, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-25T17:20:26.320Z,38.7791672,-122.7448349,0.25,1.29,md,16,74,0.007529,0.03,nc,nc73916596,2023-07-25T18:17:11.660Z,"1 km ENE of The Geysers, CA",earthquake,0.21,0.52,0.1,16,automatic,nc,nc
 2023-07-25T17:15:47.355Z,39.614,-119.9724,6.7,2,ml,17,67.83,0.011,0.1126,nn,nn00863251,2023-07-25T19:02:05.241Z,"7 km S of Cold Springs, Nevada",earthquake,,0.8,0.31,9,reviewed,nn,nn
-2023-07-25T17:11:50.710Z,38.8264999,-122.8068314,2.77,0.28,md,9,150,0.004003,0.01,nc,nc73916581,2023-07-25T17:37:15.018Z,"7 km NW of The Geysers, CA",earthquake,0.57,1.79,0.11,10,automatic,nc,nc
+2023-07-25T17:11:50.710Z,38.8264999,-122.8068314,2.77,0.28,md,9,150,0.004003,0.01,nc,nc73916581,2023-07-25T19:42:14.087Z,"7 km NW of The Geysers, CA",earthquake,0.57,1.79,0.11,10,automatic,nc,nc
 2023-07-25T17:09:37.470Z,35.7523333,-117.5733333,7.5,1.48,ml,26,68,0.06625,0.15,ci,ci39621682,2023-07-25T18:03:54.460Z,"15km W of Searles Valley, CA",earthquake,0.24,0.59,0.199,14,reviewed,ci,ci
 2023-07-25T17:06:53.360Z,38.8208351,-122.7908325,1.52,0.77,md,8,74,0.01096,0.02,nc,nc73916576,2023-07-25T19:15:12.915Z,"6 km NNW of The Geysers, CA",earthquake,0.54,1.36,0.13,9,automatic,nc,nc
 2023-07-25T16:47:12.740Z,33.7095,-117.3355,-0.54,1.06,ml,26,59,0.05799,0.17,ci,ci39621634,2023-07-25T17:49:59.077Z,"5km N of Lake Elsinore, CA",quarry blast,0.35,31.61,0.114,13,reviewed,ci,ci
@@ -68,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T11:21:01.200Z,35.6486667,-117.4573333,2.66,1.59,ml,26,54,0.03192,0.15,ci,ci39621426,2023-07-25T16:50:27.477Z,"14km SSW of Searles Valley, CA",earthquake,0.2,0.44,0.145,13,reviewed,ci,ci
 2023-07-25T11:16:37.580Z,17.9791666666667,-66.9053333333333,11.75,2.44,md,11,107,0.007609,0.16,pr,pr71419213,2023-07-25T11:29:35.210Z,"Puerto Rico",earthquake,0.71,0.41,0.0957998007593672,7,reviewed,pr,pr
 2023-07-25T11:13:04.385Z,-35.6438,-71.4505,93.778,4.7,mb,47,77,0.121,0.68,us,us7000ki6w,2023-07-25T11:29:59.040Z,"6 km NW of Colbún, Chile",earthquake,5.45,4.605,0.051,116,reviewed,us,us
+2023-07-25T11:09:08.998Z,31.63791552,-104.2554713,2.223950195,1.9,ml,23,67,0.03468603487,0.2,tx,tx2023olkf,2023-07-25T19:42:06.233Z,"56 km NW of Toyah, Texas",earthquake,0.7889405767999998,0.7979835846,0.1,7,reviewed,tx,tx
 2023-07-25T11:08:58.220Z,38.8378334,-122.7821655,1.8,0.68,md,11,77,0.006413,0.01,nc,nc73916436,2023-07-25T11:56:20.222Z,"5 km WNW of Cobb, CA",earthquake,0.36,0.48,0.39,13,automatic,nc,nc
 2023-07-25T11:02:06.343Z,38.1371,-117.9763,12.3,1.7,ml,9,64.4,0.063,0.1508,nn,nn00863236,2023-07-25T17:26:01.974Z,"Nevada",earthquake,,1.1,0.56,6,reviewed,nn,nn
 2023-07-25T10:55:31.600Z,38.8358345,-122.7829971,1.96,1.25,md,18,68,0.006287,0.02,nc,nc73916431,2023-07-25T11:29:20.048Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.47,0.17,18,automatic,nc,nc
@@ -195,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T19:59:17.833Z,61.9907,-149.8846,46.1,1.1,ml,,,,0.18,ak,ak0239fcu2cn,2023-07-24T20:01:00.615Z,"19 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-24T19:54:00.610Z,38.8105011,-122.8236694,2.22,0.66,md,10,73,0.004602,0.01,nc,nc73916271,2023-07-24T20:50:13.731Z,"7 km WNW of The Geysers, CA",earthquake,0.42,1.37,0.32,10,automatic,nc,nc
 2023-07-24T19:53:02.530Z,17.729,-67.0411666666667,39.11,2.11,md,4,315,0.2391,0.05,pr,pr71419198,2023-07-24T20:21:49.440Z,"27 km S of La Parguera, Puerto Rico",earthquake,2.77,2.02,0.038613612481337,3,reviewed,pr,pr
-2023-07-24T19:43:06.840Z,38.1165,-122.1731667,-0.03,1.56,md,13,104,0.01991,0.06,nc,nc73916266,2023-07-24T23:22:04.738Z,"6 km E of Vallejo, CA",quarry blast,0.36,31.61,0.248,18,reviewed,nc,nc
-2023-07-24T19:43:02.680Z,38.836,-122.8088333,2.09,0.48,md,25,51,0.01262,0.02,nc,nc73916261,2023-07-24T23:41:14.918Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.34,0.143,24,reviewed,nc,nc
