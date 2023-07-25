@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T07:33:35.710Z,33.5701667,-116.366,12.71,0.54,ml,16,102,0.07809,0.12,ci,ci39621362,2023-07-25T07:37:10.602Z,"12km SSW of La Quinta, CA",earthquake,0.33,0.56,0.143,8,automatic,ci,ci
 2023-07-25T07:29:19.424Z,38.3191,-118.708,1.5,1.3,ml,9,144.67,0.173,0.1325,nn,nn00863222,2023-07-25T07:31:54.020Z,"23 km SSW of Hawthorne, Nevada",earthquake,,5,0.15,6,automatic,nn,nn
 2023-07-25T07:25:31.892Z,58.1762,-155.3758,0,0.6,ml,,,,0.82,ak,ak0239gt0ybp,2023-07-25T07:27:26.772Z,"86 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2023-07-25T07:17:19.446Z,51.2068,-179.1554,27.02,3.7,mb,29,213,0.408,0.77,us,us7000ki65,2023-07-25T08:08:33.040Z,"190 km WSW of Adak, Alaska",earthquake,5.44,9.743,0.205,6,reviewed,us,us
+2023-07-25T07:17:19.446Z,51.2068,-179.1554,27.02,3.7,mb,29,213,0.408,0.77,us,us7000ki65,2023-07-25T08:08:33.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.44,9.743,0.205,6,reviewed,us,us
 2023-07-25T07:05:22.930Z,35.7706667,-117.5596667,1.36,0.93,ml,12,110,0.1528,0.23,ci,ci39621354,2023-07-25T07:09:01.853Z,"14km W of Searles Valley, CA",earthquake,0.54,0.73,0.056,5,automatic,ci,ci
 2023-07-25T07:02:18.669Z,60.3231,-141.4321,30.9,1.3,ml,,,,0.92,ak,ak0239gsvzu2,2023-07-25T07:03:39.441Z,"128 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-25T07:00:56.120Z,37.5466667,-119.0168333,3.55,0.49,md,11,257,0.06363,0.06,nc,nc73916406,2023-07-25T09:29:20.394Z,"11 km SSW of Mammoth Lakes, CA",earthquake,0.75,1.26,0.156,11,reviewed,nc,nc
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T20:38:39.060Z,33.895,-116.6895,14.2,2.62,ml,78,20,0.08086,0.18,ci,ci39621018,2023-07-25T06:03:38.866Z,"9km ESE of Cabazon, CA",earthquake,0.15,0.35,0.228,26,automatic,ci,ci
 2023-07-24T20:37:47.624Z,58.195,-155.2555,1.1,0.1,ml,,,,0.14,ak,ak0239fdaui2,2023-07-24T20:40:00.741Z,"84 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-07-24T20:24:40.560Z,19.3836666666667,-155.194666666667,24.22,1.95,md,24,151,,0.08,hv,hv73495857,2023-07-25T05:46:01.700Z,"7 km SSE of Volcano, Hawaii",earthquake,1.19,0.61,0.127900858723131,6,reviewed,hv,hv
-2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"21 km NE of Perryville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-07-24T20:14:30.392Z,22.7759,94.4871,105.736,4.4,mb,26,165,3.098,0.87,us,us7000ki2c,2023-07-24T20:43:33.040Z,"84 km E of Falam, Myanmar",earthquake,13.48,5.144,0.117,21,reviewed,us,us
 2023-07-24T20:09:27.560Z,37.5695,-118.8493333,-0.4,1.02,md,10,273,0.02604,0.03,nc,nc73916281,2023-07-24T21:13:11.886Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.28,0.47,0.136,9,reviewed,nc,nc
 2023-07-24T20:05:09.100Z,36.8896667,-121.612,1.81,1.8,md,33,71,0.01688,0.08,nc,nc73916276,2023-07-24T22:30:53.673Z,"3 km E of Aromas, CA",earthquake,0.16,0.28,0.121,33,reviewed,nc,nc
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T10:07:59.010Z,34.1081667,-117.9308333,11.68,0.8,ml,18,74,0.07726,0.21,ci,ci39620266,2023-07-24T21:12:54.315Z,"0km ENE of Irwindale, CA",earthquake,0.44,0.67,0.158,6,reviewed,ci,ci
 2023-07-24T10:04:09.032Z,62.4169,-149.1973,49.8,1,ml,,,,0.74,ak,ak0239f75cuf,2023-07-24T10:05:40.953Z,"44 km NE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-24T09:59:03.760Z,36.3888333,-120.2806667,7.61,1.8,md,27,133,0.08976,0.13,nc,nc73916106,2023-07-24T21:36:13.021Z,"13 km SSE of Cantua Creek, CA",earthquake,0.28,0.29,0.257,28,reviewed,nc,nc
-2023-07-24T09:50:37.370Z,37.537,-118.831,0.78,0.32,md,9,290,0.05296,0.04,nc,nc73916101,2023-07-24T16:47:19.270Z,"14 km WSW of Toms Place, CA",earthquake,3.91,2.06,0.25,8,reviewed,nc,nc
