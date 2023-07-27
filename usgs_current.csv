@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-27T13:01:30.090Z,19.236499786377,-155.376495361328,28.7900009155273,1.79999995,md,33,148,,0.119999997,hv,hv73499177,2023-07-27T13:04:39.320Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.779999971,0.449999988,7,automatic,hv,hv
 2023-07-27T12:30:07.860Z,33.4843333,-116.8875,15.65,0.39,ml,22,46,0.06875,0.28,ci,ci39623418,2023-07-27T12:33:46.953Z,"5km NNW of Aguanga, CA",earthquake,0.57,1.1,0.066,9,automatic,ci,ci
 2023-07-27T12:09:39.756Z,61.7279,-149.9956,30.1,1,ml,,,,0.66,ak,ak0239k6zehj,2023-07-27T12:11:13.358Z,"3 km SE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T12:06:12.215Z,61.7588,-150.5201,33.3,1.4,ml,,,,0.14,ak,ak0239k6yp7p,2023-07-27T12:07:33.727Z,"23 km N of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T07:56:52.823Z,61.5761,-149.8365,32.7,2,ml,,,,0.5,ak,ak0239k4ac4i,2023-07-27T07:58:36.500Z,"6 km S of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-27T07:53:57.508Z,62.8421,-150.3147,76.5,1.1,ml,,,,1.37,ak,ak0239k49pc6,2023-07-27T07:56:29.113Z,"44 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-27T07:42:07.430Z,31.56759707,-104.0565342,7.468383789,2.5,ml,32,54,0.01941537205,0.3,tx,tx2023oouk,2023-07-27T12:58:24.719Z,"western Texas",earthquake,0.7456616087,0.7067497273,0.2,23,reviewed,tx,tx
-2023-07-27T07:38:21.710Z,37.854332,-122.2366638,8.92,2.63,md,70,33,,0.05,nc,nc73917236,2023-07-27T12:57:32.321Z,"3 km N of Piedmont, CA",earthquake,0.13,0.27,0.1,74,automatic,nc,nc
+2023-07-27T07:38:21.710Z,37.854332,-122.2366638,8.92,2.63,md,70,33,,0.05,nc,nc73917236,2023-07-27T13:15:24.479Z,"3 km N of Piedmont, CA",earthquake,0.13,0.27,0.1,74,automatic,nc,nc
 2023-07-27T07:32:31.554Z,-14.6718,168.0724,10,4.6,mb,40,54,6.871,0.75,us,us6000kvuz,2023-07-27T08:09:11.040Z,"104 km SSE of Sola, Vanuatu",earthquake,9.54,1.865,0.112,33,reviewed,us,us
 2023-07-27T07:24:05.150Z,38.8161659,-122.8284988,2.12,0.61,md,8,98,0.007307,0.01,nc,nc73917231,2023-07-27T07:42:15.495Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.25,0.2,8,automatic,nc,nc
 2023-07-27T07:21:27.921Z,58.784,-154.2997,112.8,1.4,ml,,,,0.4,ak,ak0239k42s54,2023-07-27T07:25:08.471Z,"77 km SSE of Kokhanok, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -198,9 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T13:34:01.855Z,61.6007,-146.4911,28.7,1.5,ml,,,,1.04,ak,ak0239ik6rkp,2023-07-26T13:35:57.419Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T13:23:16.750Z,38.8311653,-122.8141632,2.1,1.1,md,22,48,0.008391,0.02,nc,nc73916961,2023-07-26T16:52:15.764Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.48,0.14,22,automatic,nc,nc
 2023-07-26T13:18:44.560Z,43.6466666666667,-110.115833333333,5,2.02,ml,14,147,0.356,0.2,mb,mb90022518,2023-07-26T13:50:31.130Z,"41 km E of Kelly, Wyoming",earthquake,0.71,31.61,0.18516658755118,15,reviewed,mb,mb
-2023-07-26T13:16:53.460Z,46.186,-122.20183333333334,5.26,-0.02,ml,7,121,0.02422,0.18,uw,uw61944036,2023-07-26T17:43:10.840Z,"36 km NNE of Amboy, Washington",earthquake,0.71,0.91,0.061730467632704365,4,reviewed,uw,uw
-2023-07-26T13:15:05.600Z,46.178,-122.2085,5.62,0.04,ml,8,165,0.02412,0.15,uw,uw61944031,2023-07-26T17:58:20.580Z,"Washington",earthquake,0.95,0.59,0.05816495836783141,4,reviewed,uw,uw
-2023-07-26T13:12:27.470Z,36.5825,-121.1371667,10.09,1.05,md,25,145,0.04029,0.14,nc,nc73916956,2023-07-27T06:16:14.781Z,"6 km N of Pinnacles, CA",earthquake,0.39,0.44,0.188,18,reviewed,nc,nc
-2023-07-26T13:10:23.313Z,58.1488,-155.5881,23.8,0.7,ml,,,,1.19,ak,ak0239ik1o1n,2023-07-26T13:12:16.423Z,"86 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-26T13:09:17.940Z,33.575,-117.2571667,5.52,1.5,ml,54,52,0.05725,0.22,ci,ci39622570,2023-07-26T19:17:57.370Z,"3km SE of Wildomar, CA",earthquake,0.2,1.17,0.169,23,reviewed,ci,ci
-2023-07-26T13:02:50.693Z,-14.8533,168.0858,10,5.2,mb,48,57,6.724,0.62,us,us6000kvmw,2023-07-26T13:18:32.040Z,"110 km E of Port-Olry, Vanuatu",earthquake,9.2,1.867,0.107,29,reviewed,us,us
