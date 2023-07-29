@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T11:19:09.606Z,1.4318,128.2493,69.517,5,mww,66,66,1.099,0.79,us,us6000kwhp,2023-07-29T11:37:24.040Z,"42 km SE of Tobelo, Indonesia",earthquake,6.31,4.782,0.075,17,reviewed,us,us
 2023-07-29T11:18:04.023Z,58.2591,-155.0944,29.3,0.9,ml,,,,0.27,ak,ak0239nhiik2,2023-07-29T11:19:40.759Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T11:08:57.884Z,57.5648,-155.051,250,0.9,ml,,,,0.75,ak,ak0239nhgmpf,2023-07-29T11:11:23.276Z,"35 km W of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
-2023-07-29T10:57:08.650Z,40.1655,-121.2666667,4.65,2.12,md,25,64,0.124,0.26,nc,nc73917886,2023-07-29T11:47:41.845Z,"10 km SW of Almanor, CA",earthquake,0.45,1.98,0.188,29,reviewed,nc,nc
+2023-07-29T10:57:08.650Z,40.1655,-121.2666667,4.65,2.12,md,25,64,0.124,0.26,nc,nc73917886,2023-07-29T11:51:12.757Z,"10 km SW of Almanor, CA",earthquake,0.45,1.98,0.188,29,reviewed,nc,nc
 2023-07-29T10:55:46.040Z,38.8274994,-122.800499,1.72,1.03,md,16,50,0.008528,0.01,nc,nc73917881,2023-07-29T11:23:15.592Z,"7 km W of Cobb, CA",earthquake,0.24,0.53,0.18,15,automatic,nc,nc
 2023-07-29T10:47:32.799Z,53.4356,-165.2317,35,3.7,mb,46,171,1.044,0.75,us,us6000kwhk,2023-07-29T11:27:49.040Z,"85 km SSE of Akutan, Alaska",earthquake,7.16,1.991,0.122,17,reviewed,us,us
 2023-07-29T10:40:15.940Z,32.2331667,-115.2968333,1.77,2.42,ml,16,70,0.09846,0.26,ci,ci39625050,2023-07-29T10:43:55.156Z,"12 km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.49,1.04,0.288,25,automatic,ci,ci
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T09:45:50.092Z,36.3397,-115.3553,4.9,0.9,ml,11,254.01,0.23,0.2404,nn,nn00863691,2023-07-29T09:48:12.694Z,"24 km N of Summerlin South, Nevada",earthquake,,79.4,0.17,9,automatic,nn,nn
 2023-07-29T09:43:49.320Z,33.4745,-116.4678333,13.06,0.56,ml,15,105,0.06015,0.15,ci,ci39625010,2023-07-29T09:47:24.785Z,"21 km ESE of Anza, CA",earthquake,0.37,0.78,0.138,7,automatic,ci,ci
 2023-07-29T09:35:10.300Z,19.1948337554932,-155.492492675781,32.5299987792969,2.15,ml,42,74,,0.119999997,hv,hv73502032,2023-07-29T09:40:41.550Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.44,0.600000024,0.13,4,automatic,hv,hv
-2023-07-29T09:34:07.940Z,38.8061676,-122.8488312,10.93,0.95,md,7,152,0.01158,0.06,nc,nc73917871,2023-07-29T09:53:18.109Z,"9 km WNW of The Geysers, CA",earthquake,3.31,8.27,0.21,5,automatic,nc,nc
+2023-07-29T09:34:07.940Z,38.8061676,-122.8488312,10.93,0.95,md,7,152,0.01158,0.06,nc,nc73917871,2023-07-29T11:51:13.757Z,"9 km WNW of The Geysers, CA",earthquake,3.31,8.27,0.21,5,automatic,nc,nc
 2023-07-29T09:12:08.580Z,38.8246651,-122.8031693,2.4,0.84,md,20,46,0.005541,0.01,nc,nc73917866,2023-07-29T11:23:15.732Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.61,0.2,20,automatic,nc,nc
 2023-07-29T09:00:46.420Z,33.836,-117.099,16.29,0.71,ml,18,83,0.09208,0.19,ci,ci39624994,2023-07-29T09:04:22.091Z,"6 km NE of Nuevo, CA",earthquake,0.41,0.72,0.081,10,automatic,ci,ci
 2023-07-29T08:43:07.710Z,33.393,-116.9053333,14.32,0.51,ml,17,103,0.05309,0.16,ci,ci39624986,2023-07-29T08:46:52.492Z,"6 km NW of Palomar Observatory, CA",earthquake,0.38,0.82,0.234,11,automatic,ci,ci
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T12:02:46.880Z,52.0035,178.599333333333,9.02,-0.08,ml,4,319,,0.14,av,av91111998,2023-07-29T02:44:07.390Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.08,1.76,0.431353941635142,4,reviewed,av,av
 2023-07-28T12:00:15.890Z,51.8851666666667,179.585166666667,7.26,0.14,ml,4,244,,0.1,av,av91981021,2023-07-29T02:20:45.790Z,"260 km W of Adak, Alaska",earthquake,0.94,0.88,0.493083807080844,4,reviewed,av,av
 2023-07-28T11:56:23.740Z,37.547,-118.8446667,-1.17,0.29,md,8,281,0.0447,0.04,nc,nc73917586,2023-07-29T00:45:12.922Z,"15 km W of Toms Place, CA",earthquake,2.96,0.62,0.119,8,reviewed,nc,nc
-2023-07-28T11:54:41.910Z,39.3573333,-122.8615,23.79,1.65,md,7,159,0.2052,0.09,nc,nc71131034,2023-07-29T04:10:15.068Z,"10 km SE of Lake Pillsbury, CA",earthquake,0.77,2.38,0.282,8,reviewed,nc,nc
-2023-07-28T11:54:28.950Z,40.2416667,-121.2025,4.03,1.86,md,12,158,0.04412,0.08,nc,nc73917581,2023-07-29T03:28:13.863Z,"4 km NW of Almanor, CA",earthquake,0.4,0.35,0.235,13,reviewed,nc,nc
-2023-07-28T11:53:11.437Z,62.7794,-150.8077,100.5,0.8,ml,,,,0.56,ak,ak0239lu6o7a,2023-07-28T11:55:20.955Z,"31 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
