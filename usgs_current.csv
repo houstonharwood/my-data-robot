@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T10:33:35.310Z,34.1023331,-118.3508301,19.9,1.13,ml,17,116,0.04485,0.19,ci,ci39625042,2023-07-29T10:35:39.226Z,"2 km NE of West Hollywood, CA",earthquake,0.66,1.14,0.204,5,automatic,ci,ci
+2023-07-29T10:31:39.102Z,58.2413,-155.2045,0,1,ml,,,,0.49,ak,ak0239ngzxyu,2023-07-29T10:33:52.070Z,"87 km NNW of Karluk, Alaska",earthquake,,23.8,,,automatic,ak,ak
 2023-07-29T10:22:44.400Z,33.0358333,-116.4328333,7.37,0.85,ml,35,40,0.06652,0.2,ci,ci39625034,2023-07-29T10:26:19.001Z,"16 km ESE of Julian, CA",earthquake,0.23,1.04,0.177,16,automatic,ci,ci
 2023-07-29T10:09:53.345Z,60.1049,-152.1594,53.9,1.2,ml,,,,0.57,ak,ak0239ngv9bj,2023-07-29T10:11:59.420Z,"28 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-29T10:08:30.020Z,34.0301667,-117.2155,14.45,1.01,ml,34,65,0.08988,0.17,ci,ci39625026,2023-07-29T10:12:05.238Z,"4 km SW of Redlands, CA",earthquake,0.25,0.52,0.267,28,automatic,ci,ci
@@ -77,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T00:04:26.252Z,58.1659,-155.2357,0,1.2,ml,,,,0.65,ak,ak0239navsld,2023-07-29T00:06:39.013Z,"81 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-29T00:03:40.649Z,61.7634,-151.8403,96.3,1.5,ml,,,,0.47,ak,ak0239navlwy,2023-07-29T00:07:10.610Z,"34 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-29T00:02:23.580Z,18.0301666666667,-66.8503333333333,16.27,2.03,md,8,121,0.06134,0.06,pr,pr71419538,2023-07-29T00:13:17.010Z,"0 km S of Yauco, Puerto Rico",earthquake,0.85,0.57,0.112835769139415,6,reviewed,pr,pr
-2023-07-29T00:01:22.800Z,17.9733333333333,-66.8623333333333,16.93,1.54,md,3,351,0.0162,0.03,pr,pr71419548,2023-07-29T00:16:53.890Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,6.73,0.62,0.0437034660213875,3,reviewed,pr,pr
+2023-07-29T00:01:22.800Z,17.9733333333333,-66.8623333333333,16.93,1.54,md,3,351,0.0162,0.03,pr,pr71419548,2023-07-29T00:16:53.890Z,"Puerto Rico region",earthquake,6.73,0.62,0.0437034660213875,3,reviewed,pr,pr
 2023-07-28T23:59:38.850Z,17.9283333333333,-66.877,14.17,1.36,md,3,287,0.04652,0.1,pr,pr71419553,2023-07-29T00:21:59.670Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,3.5,0.98,0.0802908094494468,3,reviewed,pr,pr
 2023-07-28T23:58:17.021Z,61.2884,-152.3946,17.1,1.6,ml,,,,0.85,ak,ak0239m1cyyu,2023-07-29T05:30:38.990Z,"71 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-28T23:57:52.660Z,18.017,-66.8401666666667,16.1,3.05,md,26,126,0.04638,0.12,pr,pr71419533,2023-07-29T00:37:41.040Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.24,0.42,0.0668509756334421,11,reviewed,pr,pr
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T18:45:40.840Z,37.9843333,-122.4543333,-0.02,1.52,md,20,84,0.02385,0.11,nc,nc73917671,2023-07-29T06:44:15.400Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.25,31.61,0.202,17,reviewed,nc,nc
 2023-07-28T18:31:48.740Z,38.1421667,-122.2305,9.23,2.22,md,87,67,0.03244,0.16,nc,nc73917666,2023-07-28T22:35:14.195Z,"3 km N of Vallejo, CA",earthquake,0.15,0.24,0.119,81,reviewed,nc,nc
 2023-07-28T18:30:17.880Z,32.596,-117.006,-0.43,1.17,ml,13,209,0.06505,0.27,ci,ci39624514,2023-07-28T20:28:02.015Z,"5 km SE of Chula Vista, CA",quarry blast,1.41,31.61,0.113,6,reviewed,ci,ci
-2023-07-28T18:23:26.960Z,52.8106666666667,-169.907,-1.73,0.42,ml,5,175,,0.22,av,av91112028,2023-07-29T04:14:13.990Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.29,0.55,0.34183701165959,5,reviewed,av,av
+2023-07-28T18:23:26.960Z,52.8106666666667,-169.907,-1.73,0.42,ml,5,175,,0.22,av,av91112028,2023-07-29T04:14:13.990Z,"71 km WSW of Nikolski, Alaska",earthquake,0.29,0.55,0.34183701165959,5,reviewed,av,av
 2023-07-28T18:23:20.984Z,31.61428987,-103.9793146,6.902807617,1.8,ml,25,55,0.009631686099,0.1,tx,tx2023orlc,2023-07-28T21:12:27.800Z,"37 km WSW of Mentone, Texas",earthquake,0.7272361511,0.7272824422,0,7,reviewed,tx,tx
 2023-07-28T18:20:53.470Z,31.61517544,-103.9895401,8.39387207,2.5,ml,13,68,0.02451322626,0.2,tx,tx2023orkz,2023-07-28T20:27:09.653Z,"38 km NNW of Toyah, Texas",earthquake,0.971158629,0.9355015316,0.2,18,reviewed,tx,tx
 2023-07-28T18:10:40.840Z,33.461,-116.52,12.18,0.56,ml,16,87,0.07648,0.12,ci,ci39624482,2023-07-28T20:24:33.775Z,"18 km SE of Anza, CA",earthquake,0.26,0.59,0.04,12,reviewed,ci,ci
@@ -221,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T10:40:38.155Z,39.501,-120.3029,8.4,1.2,ml,13,142.91,0.075,0.1321,nn,nn00863650,2023-07-28T14:39:00.900Z,"11 km SSE of Sierraville, California",earthquake,,2.4,0.41,6,reviewed,nn,nn
 2023-07-28T10:38:54.758Z,61.7429,-152.0803,119.2,1.2,ml,,,,0.27,ak,ak0239lti4oz,2023-07-28T10:40:29.045Z,"45 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-28T10:37:17.750Z,58.1853333333333,-155.312166666667,2.6,0.51,ml,8,155,,0.12,av,av91980931,2023-07-29T01:51:34.760Z,"85 km NW of Karluk, Alaska",earthquake,0.31,0.49,0.361076702031986,8,reviewed,av,av
-2023-07-28T10:32:57.090Z,34.0366667,-116.8408333,20.56,1.29,ml,50,54,0.02749,0.16,ci,ci39624186,2023-07-28T19:15:22.570Z,"13 km NNE of Banning, CA",earthquake,0.18,0.42,0.172,26,reviewed,ci,ci
