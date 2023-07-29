@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-29T16:08:16.003Z,58.6363,-153.4641,66.8,2.2,ml,,,,0.28,ak,ak0239nkfkcg,2023-07-29T16:09:46.161Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-29T15:52:04.410Z,38.7976685,-122.7388306,0.73,0.76,md,9,105,0.0145,0.01,nc,nc73917926,2023-07-29T16:09:16.513Z,"3 km NE of The Geysers, CA",earthquake,0.26,0.63,0.37,10,automatic,nc,nc
+2023-07-29T15:52:04.410Z,38.7976685,-122.7388306,0.73,0.76,md,9,105,0.0145,0.01,nc,nc73917926,2023-07-29T16:37:14.668Z,"3 km NE of The Geysers, CA",earthquake,0.26,0.63,0.37,10,automatic,nc,nc
 2023-07-29T15:31:09.052Z,58.1469,-155.586,19.8,0.7,ml,,,,0.5,ak,ak0239njz1o9,2023-07-29T15:32:21.692Z,"87 km SE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-29T15:20:28.630Z,38.8001671,-122.7361679,0.71,0.73,md,11,107,0.01691,0.03,nc,nc73917921,2023-07-29T16:09:15.513Z,"3 km SSW of Cobb, CA",earthquake,0.27,0.82,0.11,11,automatic,nc,nc
 2023-07-29T14:27:30.590Z,35.7005,-117.6015,10.97,0.84,ml,11,133,0.1216,0.2,ci,ci39625138,2023-07-29T14:31:04.334Z,"11 km NE of Ridgecrest, CA",earthquake,0.61,0.99,0.231,6,automatic,ci,ci
@@ -193,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T17:45:24.530Z,33.2586667,-116.2021667,11,0.88,ml,18,117,0.07884,0.13,ci,ci39624450,2023-07-28T20:14:51.853Z,"14 km NNW of Ocotillo Wells, CA",earthquake,0.28,0.53,0.072,8,reviewed,ci,ci
 2023-07-28T17:38:01.236Z,-18.011,-178.4386,598.592,5,mb,195,39,3.352,0.83,us,us6000kw9k,2023-07-29T15:24:01.040Z,"237 km E of Levuka, Fiji",earthquake,10.48,5.832,0.024,581,reviewed,us,us
 2023-07-28T17:30:42.941Z,60.2594,-152.2953,85.2,2,ml,,,,0.23,ak,ak0239lxmfae,2023-07-28T19:47:19.325Z,"41 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-28T17:27:54.450Z,48.087666666666664,-121.93916666666667,-0.25,1.6400000000000001,ml,15,67,0.01537,0.14,uw,uw61944701,2023-07-28T20:06:24.910Z,"2 km E of Granite Falls, Washington",explosion,0.37,31.61,0.07402399785443503,13,reviewed,uw,uw
+2023-07-28T17:27:54.450Z,48.087666666666664,-121.93916666666667,-0.25,1.6400000000000001,ml,15,67,0.01537,0.14,uw,uw61944701,2023-07-29T16:37:11.917Z,"2 km E of Granite Falls, Washington",explosion,0.37,31.61,0.07402399785443503,13,reviewed,uw,uw
 2023-07-28T17:22:40.600Z,36.9675,-90.4013333333333,0.65,2.42,md,32,57,0.19,0.34,nm,nm60539881,2023-07-29T14:42:11.331Z,"13 km E of Williamsville, Missouri",earthquake,0.47,0.09,0.056499398622111,17,reviewed,nm,nm
 2023-07-28T17:20:44.960Z,56.8658333333333,-158.0805,5.38,0.38,ml,5,241,,0.14,av,av91112023,2023-07-29T03:56:16.750Z,"66 km NNE of Chignik, Alaska",earthquake,0.78,0.89,0.435122783189886,5,reviewed,av,av
 2023-07-28T17:16:11.730Z,19.1604995727539,-155.4931640625,31.8700008392334,1.91,ml,40,118,,0.0900000036,hv,hv73500997,2023-07-28T17:21:42.480Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.850000024,0.26,3,automatic,hv,hv
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T17:09:08.840Z,56.886,-158.140333333333,7.48,-0.57,ml,5,154,,0.24,av,av91981281,2023-07-29T03:52:39.650Z,"67 km NNE of Chignik, Alaska",earthquake,1.37,1.03,0.187578975019391,5,reviewed,av,av
 2023-07-28T17:04:18.014Z,-14.6485,167.6423,9.524,4.8,mb,26,202,6.685,1.09,us,us6000kw99,2023-07-28T17:44:31.040Z,"75 km NE of Port-Olry, Vanuatu",earthquake,13.93,6.118,0.121,22,reviewed,us,us
 2023-07-28T17:03:53.512Z,-58.7785,-25.131,32.459,4.8,mb,25,180,7.724,0.97,us,us6000kw9a,2023-07-28T18:40:37.040Z,"South Sandwich Islands region",earthquake,16.21,5.605,0.128,21,reviewed,us,us
-2023-07-28T16:40:50.900Z,34.0701667,-118.1281667,10.4,1.43,ml,15,98,0.02151,0.14,ci,ci39624370,2023-07-28T20:10:22.819Z,"1 km NNW of Monterey Park, CA",earthquake,0.32,0.55,0.135,8,reviewed,ci,ci
-2023-07-28T16:40:21.300Z,37.3481667,-121.705,8.37,1.07,md,21,53,0.05018,0.07,nc,nc73917636,2023-07-29T06:36:14.160Z,"11 km E of Alum Rock, CA",earthquake,0.24,0.42,0.252,19,reviewed,nc,nc
