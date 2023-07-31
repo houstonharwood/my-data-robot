@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-31T02:18:49.650Z,33.3045,-116.2798333,9.64,1.01,ml,33,53,0.1136,0.23,ci,ci39625866,2023-07-31T02:22:28.312Z,"10 km ENE of Borrego Springs, CA",earthquake,0.33,0.88,0.177,24,automatic,ci,ci
+2023-07-31T02:16:03.995Z,-20.3578,-177.4589,397.969,4.5,mb,24,153,2.26,0.92,us,us6000kwsa,2023-07-31T02:28:20.040Z,"241 km WNW of Houma, Tonga",earthquake,13.39,14.642,0.111,24,reviewed,us,us
 2023-07-31T01:58:50.020Z,33.8726667,-116.8433333,13.02,0.69,ml,18,86,0.05461,0.26,ci,ci39625858,2023-07-31T02:02:27.055Z,"7 km SSE of Banning, CA",earthquake,0.72,1.33,0.14,16,automatic,ci,ci
-2023-07-31T01:58:06.830Z,37.0333328,-121.4856644,3.82,1.91,md,38,65,0.06889,0.1,nc,nc73918536,2023-07-31T02:18:12.562Z,"8 km ENE of Gilroy, CA",earthquake,0.23,0.7,0.19,31,automatic,nc,nc
+2023-07-31T01:58:06.830Z,37.0333328,-121.4856644,3.82,1.91,md,38,65,0.06889,0.1,nc,nc73918536,2023-07-31T02:29:10.632Z,"8 km ENE of Gilroy, CA",earthquake,0.23,0.7,0.19,31,automatic,nc,nc
 2023-07-31T01:52:07.050Z,38.8363342,-122.8054962,2.3,0.71,md,9,84,0.01201,0.03,nc,nc73918531,2023-07-31T02:08:11.493Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.22,0.4,11,automatic,nc,nc
 2023-07-31T01:44:38.720Z,34.0276667,-116.7871667,16.43,0.72,ml,14,145,0.01868,0.27,ci,ci39625850,2023-07-31T01:48:14.309Z,"12 km N of Cabazon, CA",earthquake,1.14,1.89,0.297,15,automatic,ci,ci
 2023-07-31T01:42:13.045Z,59.6362,-152.443,22.2,0.8,ml,,,,0.5,ak,ak0239qms12h,2023-07-31T01:44:55.030Z,"37 km WSW of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T00:46:43.870Z,33.9508333,-117.8128333,8.76,1.2,ml,28,97,0.09234,0.24,ci,ci39625826,2023-07-31T00:50:23.440Z,"7 km SW of Chino Hills, CA",earthquake,0.47,1.22,0.316,30,automatic,ci,ci
 2023-07-31T00:42:57.045Z,61.3039,-152.5042,0.2,0.8,ml,,,,1,ak,ak0239qm6p60,2023-07-31T00:44:45.750Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-31T00:33:16.920Z,38.8353348,-122.819664,2.29,0.67,md,13,69,0.01278,0.03,nc,nc73918516,2023-07-31T01:13:12.199Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.82,0.28,13,automatic,nc,nc
-2023-07-31T00:29:17.950Z,38.8311653,-122.8171692,1.85,1.01,md,22,48,0.009535,0.02,nc,nc73918511,2023-07-31T01:03:13.279Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.39,0.11,23,automatic,nc,nc
+2023-07-31T00:29:17.950Z,38.8311653,-122.8171692,1.85,1.01,md,22,48,0.009535,0.02,nc,nc73918511,2023-07-31T02:25:12.608Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.39,0.11,23,automatic,nc,nc
 2023-07-31T00:19:04.220Z,38.8074989,-122.8151703,2.77,1.26,md,24,59,0.01103,0.02,nc,nc73918506,2023-07-31T01:58:12.437Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.45,0.2,25,automatic,nc,nc
 2023-07-31T00:08:07.430Z,38.8364983,-122.7931671,2.19,0.7,md,11,57,0.002916,0.03,nc,nc73918501,2023-07-31T01:30:15.285Z,"6 km WNW of Cobb, CA",earthquake,0.37,0.72,0.19,12,automatic,nc,nc
 2023-07-31T00:02:07.290Z,38.8089981,-122.8161697,3.2,1.13,md,29,53,0.01016,0.02,nc,nc73918491,2023-07-31T00:36:13.000Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.41,0.18,29,automatic,nc,nc
@@ -206,7 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T03:06:51.219Z,60.0221,-151.5126,77,1.2,ml,,,,0.71,ak,ak0239p07x9d,2023-07-30T03:08:18.031Z,"9 km ESE of Ninilchik, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-30T02:42:22.740Z,34.2116667,-117.743,4.15,0.97,ml,18,51,0.07505,0.36,ci,ci39625410,2023-07-30T02:46:07.771Z,"12 km N of La Verne, CA",earthquake,0.53,1.63,0.252,22,automatic,ci,ci
 2023-07-30T02:40:47.150Z,46.248333333333335,-122.08766666666666,4.7,0.6,ml,17,151,0.03513,0.12,uw,uw61936192,2023-07-30T04:01:08.290Z,"37 km SSE of Morton, Washington",earthquake,0.38,1.1,0.10231082730977073,11,reviewed,uw,uw
-2023-07-30T02:33:38.686Z,65.9119,-156.4078,14.3,1.6,ml,,,,0.67,ak,ak0239ozs8we,2023-07-30T02:36:10.383Z,"23 km N of Huslia, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-07-30T02:27:54.320Z,38.8353348,-122.8301697,4.72,0.76,md,12,72,0.005273,0.05,nc,nc73918106,2023-07-30T05:01:12.146Z,"9 km NW of The Geysers, CA",earthquake,0.56,0.95,0.12,13,automatic,nc,nc
-2023-07-30T02:27:43.420Z,46.259,-122.06566666666667,2,2.19,ml,54,65,0.05234,0.2,uw,uw61936182,2023-07-30T04:36:47.690Z,"36 km SSE of Morton, Washington",earthquake,0.29,1.06,0.2198423694716587,35,reviewed,uw,uw
-2023-07-30T02:27:05.353Z,9.0636,-76.5735,56.342,5.3,mww,72,144,0.289,0.73,us,us6000kwll,2023-07-30T03:17:51.911Z,"28 km NW of Arboletes, Colombia",earthquake,7.75,5.4,0.098,10,reviewed,us,us
