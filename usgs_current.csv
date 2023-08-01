@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T08:03:21.156Z,19.3035,121.2047,40.155,5.4,mww,61,56,3.499,1.1,us,us6000kx06,2023-08-01T10:08:21.061Z,"76 km N of Namuac, Philippines",earthquake,8.5,7.662,0.073,18,reviewed,us,us
 2023-08-01T08:03:11.720Z,17.921,-66.9883333333333,4.48,2.75,md,8,236,0.07177,0.11,pr,pr71419978,2023-08-01T08:15:56.060Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.71,0.57,0.0442661625865863,5,reviewed,pr,pr
 2023-08-01T07:58:14.260Z,38.8431664,-122.8421631,1.76,0.61,md,14,93,0.006934,0.01,nc,nc73918946,2023-08-01T08:58:16.118Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.62,0.2,15,automatic,nc,nc
-2023-08-01T07:56:57.880Z,38.8246651,-122.8493347,10.34,0.49,md,6,98,0.006553,0.04,nc,nc73918941,2023-08-01T08:33:15.978Z,"10 km WNW of The Geysers, CA",earthquake,2.72,7.48,0.35,9,automatic,nc,nc
+2023-08-01T07:56:59.180Z,38.8343333,-122.81,2.3,0.43,md,30,46,0.01092,0.03,nc,nc73918941,2023-08-01T15:47:24.434Z,"8 km W of Cobb, CA",earthquake,0.15,0.32,0.134,26,reviewed,nc,nc
 2023-08-01T07:44:42.980Z,33.478,-116.4273333,12.44,0.31,ml,15,118,0.1174,0.22,ci,ci39626642,2023-08-01T07:54:15.888Z,"23 km SSW of La Quinta, CA",earthquake,0.57,1.29,0.115,5,automatic,ci,ci
 2023-08-01T07:25:50.728Z,63.6022,-147.2394,3.8,1.2,ml,,,,0.48,ak,ak0239sdsf8g,2023-08-01T07:27:50.537Z,"84 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T07:21:50.170Z,19.4898338317871,-155.463500976562,1.26999998092651,1.95,ml,18,64,,0.25999999,hv,hv73505647,2023-08-01T07:27:21.980Z,"24 km WNW of Volcano, Hawaii",earthquake,0.47,1.38,0.33,5,automatic,hv,hv
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T06:23:20.990Z,33.6876667,-116.7348333,15.86,0.78,ml,31,64,0.03257,0.16,ci,ci39626618,2023-08-01T13:49:35.820Z,"6 km SSW of Idyllwild, CA",earthquake,0.31,0.47,0.154,22,reviewed,ci,ci
 2023-08-01T06:20:50.623Z,-23.6037,-179.9236,515.329,4.2,mb,24,100,4.995,0.61,us,us6000kwzs,2023-08-01T06:42:47.040Z,"south of the Fiji Islands",earthquake,14.01,9.903,0.098,29,reviewed,us,us
 2023-08-01T06:19:59.780Z,34.096,-117.2886667,4.51,0.79,ml,9,199,0.04414,0.31,ci,ci39626610,2023-08-01T06:23:31.169Z,"3 km NE of Colton, CA",earthquake,1.27,1.73,0.141,14,automatic,ci,ci
-2023-08-01T05:53:20.410Z,33.89,-116.2066667,10.55,0.72,ml,13,77,0.0449,0.16,ci,ci39626594,2023-08-01T05:56:54.214Z,"19 km ENE of Thousand Palms, CA",earthquake,0.33,0.74,0.175,11,automatic,ci,ci
+2023-08-01T05:53:20.340Z,33.884,-116.2013333,10.24,0.82,ml,26,71,0.04742,0.13,ci,ci39626594,2023-08-01T15:49:59.721Z,"18 km N of Indio, CA",earthquake,0.19,0.43,0.107,9,reviewed,ci,ci
 2023-08-01T05:47:10.440Z,17.9626666666667,-67.0746666666667,6.87,2.6,md,15,233,0.02975,0.11,pr,pr71419968,2023-08-01T06:41:46.960Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.44,0.22,0.180074945456029,6,reviewed,pr,pr
 2023-08-01T05:41:45.553Z,58.193,-155.2439,0,1,ml,,,,0.46,ak,ak0239scoz3f,2023-08-01T05:43:36.833Z,"83 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T05:33:46.300Z,38.8429985,-122.838501,1.55,0.29,md,10,106,0.004993,0.01,nc,nc73918921,2023-08-01T06:00:17.143Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.57,0.15,10,automatic,nc,nc
@@ -161,6 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T01:20:03.420Z,38.7396667,-112.4966667,7.65,0.61,md,10,98,0.1356,0.15,uu,uu60546652,2023-08-01T13:10:26.610Z,"8 km SW of Kanosh, Utah",earthquake,0.54,2.07,0.481,6,reviewed,uu,uu
 2023-08-01T01:17:21.850Z,44.6816667,-110.463,3.54,0.7,md,7,113,0.04651,0.19,uu,uu60546647,2023-08-01T13:29:05.700Z,"Yellowstone National Park, Wyoming",earthquake,0.5,1.94,0.266,4,reviewed,uu,uu
 2023-08-01T01:11:18.130Z,19.2226657867432,-155.392166137695,30.3899993896484,1.97000003,md,24,165,,0.119999997,hv,hv73505392,2023-08-01T01:14:21.550Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.959999979,0.150000006,9,automatic,hv,hv
+2023-08-01T01:05:46.000Z,46.87,-112.537666666667,10.61,0.43,ml,5,143,0.0564,0.02,mb,mb90023078,2023-08-01T15:47:14.980Z,"14 km SE of Lincoln, Montana",earthquake,0.6,0.83,0.0984747826458319,2,reviewed,mb,mb
 2023-08-01T00:52:19.460Z,17.926,-67.1026666666667,11.87,2.35,md,11,277,0.07043,0.1,pr,pr71419923,2023-08-01T01:12:41.370Z,"8 km SW of La Parguera, Puerto Rico",earthquake,0.57,0.24,0.106337537653248,4,reviewed,pr,pr
 2023-08-01T00:43:26.110Z,36.5775,-121.135,10.62,0.98,md,22,141,0.04098,0.12,nc,nc73918876,2023-08-01T05:30:14.966Z,"5 km N of Pinnacles, CA",earthquake,0.4,0.84,0.263,20,reviewed,nc,nc
 2023-08-01T00:42:41.690Z,19.0375003814697,-155.330673217773,31.4799995422363,2.03999996,md,33,217,,0.140000001,hv,hv73505357,2023-08-01T00:45:50.130Z,"24 km SE of Pāhala, Hawaii",earthquake,0.66,1.30999994,0.850000024,9,automatic,hv,hv
@@ -232,6 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T18:51:09.306Z,59.968,-153.1869,0,0.9,ml,,,,0.96,ak,ak0239qwybte,2023-07-31T18:53:11.349Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T18:37:58.962Z,58.1781,-155.2439,0.1,0.9,ml,,,,0.47,ak,ak0239qwvfma,2023-07-31T18:40:14.302Z,"82 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-31T18:37:01.450Z,37.7268333,-112.6348333,8.17,1.67,ml,10,89,0.382,0.22,uu,uu60546637,2023-07-31T19:39:53.430Z,"19 km E of Brian Head, Utah",earthquake,0.67,3.32,0.102,10,reviewed,uu,uu
+2023-07-31T18:33:56.592Z,56.0913,-152.9358,10,3.2,ml,22,219,1.707,0.47,us,us6000kwwl,2023-08-01T15:52:34.040Z,"121 km SE of Akhiok, Alaska",earthquake,8.22,2.013,0.051,50,reviewed,us,us
 2023-07-31T18:29:19.919Z,58.1856,-155.2829,1.2,0.1,ml,,,,0.64,ak,ak0239qwtmvr,2023-07-31T18:31:09.195Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-31T18:28:50.390Z,38.836834,-122.8026657,2.54,0.38,md,7,114,0.009751,0.01,nc,nc73918776,2023-07-31T18:30:27.829Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.88,0.2,8,automatic,nc,nc
 2023-07-31T18:28:22.690Z,37.5298333,-118.8201667,-1.36,0.44,md,8,273,0.06051,0.03,nc,nc73918781,2023-07-31T20:47:10.562Z,"13 km WSW of Toms Place, CA",earthquake,0.51,0.33,0.06,6,reviewed,nc,nc
