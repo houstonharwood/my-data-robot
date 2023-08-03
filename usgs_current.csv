@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T22:25:58.470Z,44.809,-110.9696667,6.77,0.9,ml,7,212,0.05605,0.17,uu,uu60546967,2023-08-03T22:47:50.520Z,"18 km ENE of Hebgen Lake Estates, Montana",earthquake,0.75,1.25,0.108,2,reviewed,uu,uu
 2023-08-03T22:14:39.650Z,46.909,-112.529833333333,10.51,1.37,ml,12,72,0.07055,0.1,mb,mb90023433,2023-08-03T22:30:14.460Z,"12 km ESE of Lincoln, Montana",earthquake,0.48,0.65,0.16139869013101,4,reviewed,mb,mb
 2023-08-03T22:09:36.263Z,3.52,-76.2413,160.408,5.1,mww,80,75,2.324,0.55,us,us6000kxnn,2023-08-03T22:55:20.040Z,"7 km ESE of Palmira, Colombia",earthquake,7.23,6.08,0.08,15,reviewed,us,us
-2023-08-03T22:03:10.820Z,41.1069984,-121.5928345,1,2.45,md,11,106,0.08345,0.08,nc,nc73919901,2023-08-03T22:46:10.685Z,"17 km NW of Fall River Mills, CA",earthquake,0.33,1.4,0.14,13,automatic,nc,nc
+2023-08-03T22:03:10.820Z,41.1069984,-121.5928345,1,2.45,md,11,106,0.08345,0.08,nc,nc73919901,2023-08-03T23:55:28.351Z,"17 km NW of Fall River Mills, CA",earthquake,0.33,1.4,0.14,13,automatic,nc,nc
 2023-08-03T22:01:05.000Z,41.1038322,-121.5868301,1.17,2.41,md,16,66,0.08326,0.08,nc,nc73919896,2023-08-03T22:31:10.597Z,"16 km NW of Fall River Mills, CA",earthquake,0.24,1.17,0.24,12,automatic,nc,nc
 2023-08-03T21:56:48.616Z,59.7335,-153.1727,105.7,3.8,ml,,,,0.49,ak,ak0239vxdtm6,2023-08-03T22:21:51.040Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-03T21:42:10.285Z,61.9879,-149.4581,45.6,1,ml,,,,0.22,ak,ak0239vxaqqs,2023-08-03T21:43:33.012Z,"28 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"31 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-03T20:46:42.150Z,19.2536659240723,-155.410827636719,35.2200012207031,1.96000004,md,31,172,,0.100000001,hv,hv73508707,2023-08-03T20:49:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.69,0.819999993,1.17999995,12,automatic,hv,hv
 2023-08-03T20:46:28.060Z,45.3285,-112.594166666667,8.83,2.61,ml,31,66,0.03404,0.13,mb,mb90023418,2023-08-03T23:34:58.000Z,"12 km NNE of Dillon, Montana",earthquake,0.28,0.25,0.114408359223125,23,reviewed,mb,mb
-2023-08-03T20:40:41.960Z,33.9818333,-116.741,4.92,0.73,ml,12,118,0.1551,0.35,ci,ci40529152,2023-08-03T20:44:17.946Z,"8 km NNE of Cabazon, CA",earthquake,0.76,11.89,0.101,13,automatic,ci,ci
+2023-08-03T20:40:41.470Z,33.9846667,-116.7453333,16.27,0.66,ml,13,101,0.07229,0.09,ci,ci40529152,2023-08-03T23:50:23.110Z,"8 km NNE of Cabazon, CA",earthquake,0.22,0.57,0.193,13,reviewed,ci,ci
 2023-08-03T20:31:29.281Z,60.2794,-148.3769,0,1.8,ml,,,,1.04,ak,ak0239vwmzq8,2023-08-03T20:34:10.333Z,"31 km NW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T20:31:23.143Z,-17.4752,-178.7123,539.784,4.8,mb,36,67,3.2,0.8,us,us6000kxmt,2023-08-03T20:45:46.040Z,"219 km ENE of Levuka, Fiji",earthquake,11.29,7.326,0.105,28,reviewed,us,us
 2023-08-03T20:26:44.723Z,-32.8712,-178.4044,35,4.9,mb,23,229,5.399,1.12,us,us6000kxn3,2023-08-03T21:15:30.040Z,"south of the Kermadec Islands",earthquake,6.61,1.966,0.145,15,reviewed,us,us
@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T00:28:00.187Z,59.0371,-154.0637,106.2,1.9,ml,,,,0.24,ak,ak0239vkpm8i,2023-08-03T00:29:43.468Z,"60 km SE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-03T00:26:05.192Z,62.9186,-149.6842,62.6,1.9,ml,,,,0.61,ak,ak0239vkp76v,2023-08-03T00:28:24.665Z,"56 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-03T00:14:10.420Z,17.9906666666667,-67.0573333333333,14.54,1.63,md,4,139,0.02453,0.06,pr,pr71420258,2023-08-03T00:56:19.740Z,"2 km NNW of La Parguera, Puerto Rico",earthquake,0.78,0.83,0.0342489815794569,4,reviewed,pr,pr
-2023-08-02T23:56:05.800Z,17.955,-67.1093333333333,11.43,2.18,md,6,238,0.05112,0.09,pr,pr71420243,2023-08-03T00:11:59.280Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,1.44,0.33,0.0380150085779098,4,reviewed,pr,pr
