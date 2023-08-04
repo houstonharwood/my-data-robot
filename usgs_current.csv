@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-04T09:53:53.750Z,33.1688333,-116.0986667,9.64,1.57,ml,46,37,0.05953,0.23,ci,ci40529352,2023-08-04T09:57:42.879Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.26,0.7,0.189,27,automatic,ci,ci
+2023-08-04T10:01:09.527Z,58.2659,-154.1586,66.7,1.6,ml,,,,0.27,ak,ak0239xe1j60,2023-08-04T10:03:15.835Z,"77 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-04T09:53:53.750Z,33.1688333,-116.0986667,9.64,1.57,ml,46,37,0.05953,0.23,ci,ci40529352,2023-08-04T10:04:49.430Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.26,0.7,0.189,27,automatic,ci,ci
 2023-08-04T09:52:40.590Z,35.7165,-117.5578333,4.56,0.82,ml,12,145,0.1206,0.16,ci,ci40529344,2023-08-04T09:56:16.324Z,"15 km WSW of Searles Valley, CA",earthquake,0.51,1.07,0.141,7,automatic,ci,ci
 2023-08-04T09:47:15.763Z,60.5356,-151.3838,52.5,1.3,ml,,,,0.53,ak,ak0239xdpyzc,2023-08-04T09:48:31.028Z,"7 km WSW of Kenai, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-08-04T09:42:04.470Z,35.6676667,-117.5365,1.8,0.95,ml,10,126,0.09188,0.13,ci,ci40529336,2023-08-04T09:45:38.377Z,"14 km ENE of Ridgecrest, CA",earthquake,0.37,0.96,0.154,7,automatic,ci,ci
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T21:16:47.650Z,38.8151665,-122.8151703,2.81,0.83,md,8,138,0.00913,0.01,nc,nc73919871,2023-08-03T21:33:12.283Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.87,0.06,9,automatic,nc,nc
 2023-08-03T21:06:18.910Z,44.7005,-111.790333333333,11.77,1.26,ml,12,101,0.09357,0.15,mb,mb90023423,2023-08-03T22:05:37.000Z,"45 km NW of Island Park, Idaho",earthquake,0.47,0.69,0.252329727195716,5,reviewed,mb,mb
 2023-08-03T20:54:18.150Z,37.1083333,-121.5651667,3.59,0.94,md,18,59,0.07366,0.17,nc,nc73919866,2023-08-03T23:28:11.921Z,"5 km ENE of San Martin, CA",earthquake,0.33,1.25,0.165,14,reviewed,nc,nc
-2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"31 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-03T20:46:42.150Z,19.2536659240723,-155.410827636719,35.2200012207031,1.96000004,md,31,172,,0.100000001,hv,hv73508707,2023-08-03T20:49:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.69,0.819999993,1.17999995,12,automatic,hv,hv
 2023-08-03T20:46:28.060Z,45.3285,-112.594166666667,8.83,2.61,ml,31,66,0.03404,0.13,mb,mb90023418,2023-08-03T23:34:58.000Z,"12 km NNE of Dillon, Montana",earthquake,0.28,0.25,0.114408359223125,23,reviewed,mb,mb
 2023-08-03T20:40:41.470Z,33.9846667,-116.7453333,16.27,0.66,ml,13,101,0.07229,0.09,ci,ci40529152,2023-08-03T23:50:23.110Z,"8 km NNE of Cabazon, CA",earthquake,0.22,0.57,0.193,13,reviewed,ci,ci
@@ -191,8 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T10:34:35.670Z,19.4251666666667,-156.381,35.36,2.41,md,36,242,,0.22,hv,hv73508232,2023-08-03T21:14:51.930Z,"46 km WSW of Kailua-Kona, Hawaii",earthquake,0.66,1.56,0.130541614148365,18,reviewed,hv,hv
 2023-08-03T10:32:23.937Z,39.8326,-120.4357,10.5,0.5,ml,4,239.23,0.064,0.0491,nn,nn00863922,2023-08-03T21:26:48.236Z,"3 km NE of Portola, California",earthquake,,2.2,0.17,3,reviewed,nn,nn
 2023-08-03T10:20:12.907Z,39.3369,-119.7525,1.1,0.3,ml,5,164.51,0.054,0.1118,nn,nn00863912,2023-08-03T19:20:09.972Z,"Nevada",earthquake,,31.2,0.35,3,reviewed,nn,nn
-2023-08-03T10:11:12.886Z,15.1735,39.3849,10.015,4.6,mb,51,80,4.946,0.81,us,us6000kxhj,2023-08-03T10:43:40.040Z,"36 km N of Adi Keyh, Eritrea",earthquake,12.73,5.243,0.083,43,reviewed,us,us
-2023-08-03T10:05:39.917Z,62.5142,-150.7214,59.4,2.4,ml,,,,0.73,ak,ak0239vqj3uz,2023-08-03T10:07:24.572Z,"3 km NE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-03T10:05:12.270Z,18.731,-67.4425,6.97,2.9,md,7,296,0.3464,0.32,pr,pr71420343,2023-08-03T10:19:59.390Z,"44 km NW of San Antonio, Puerto Rico",earthquake,2.95,2.74,0.127324090377415,7,reviewed,pr,pr
-2023-08-03T10:01:33.260Z,47.4308333333333,-113.0815,15,0.52,ml,12,101,0.3381,0.12,mb,mb90023368,2023-08-03T15:15:21.470Z,"41 km NE of Seeley Lake, Montana",earthquake,0.34,31.61,0.0950452082643989,4,reviewed,mb,mb
-2023-08-03T10:00:40.810Z,37.4783333,-121.6161667,8.11,0.64,md,10,171,0.0293,0.05,nc,nc73919721,2023-08-03T17:51:13.973Z,"22 km NE of Alum Rock, CA",earthquake,0.52,0.58,0.095,10,reviewed,nc,nc
