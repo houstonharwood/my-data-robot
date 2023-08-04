@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T12:53:53.908Z,35.30914307,-101.6905799,6.920694987,2,ml,7,81,0.1234416051,0.3,tx,tx2023pdur,2023-08-04T13:18:37.119Z,"16 km NE of Amarillo, Texas",earthquake,3.24285344,1.96996745,0.1,7,reviewed,tx,tx
 2023-08-04T12:53:33.160Z,36.769165,-121.3041687,6.69,1.15,md,7,149,,0.09,nc,nc73920106,2023-08-04T13:25:10.668Z,"3 km SSE of Tres Pinos, CA",earthquake,0.78,1.01,0.17,6,automatic,nc,nc
 2023-08-04T12:52:05.179Z,22.0058,121.6872,10,4.4,mb,30,124,0.984,0.59,us,us6000kxsv,2023-08-04T13:09:53.040Z,"97 km E of Hengchun, Taiwan",earthquake,5.59,1.884,0.148,13,reviewed,us,us
-2023-08-04T12:47:52.660Z,38.7636681,-122.7198334,1.03,0.73,md,6,181,0.004443,0.01,nc,nc73920101,2023-08-04T13:05:13.558Z,"3 km WSW of Anderson Springs, CA",earthquake,0.88,0.73,0.48,7,automatic,nc,nc
+2023-08-04T12:47:52.660Z,38.7636681,-122.7198334,1.03,0.73,md,6,181,0.004443,0.01,nc,nc73920101,2023-08-04T13:33:12.714Z,"3 km WSW of Anderson Springs, CA",earthquake,0.88,0.73,0.48,7,automatic,nc,nc
 2023-08-04T12:43:42.420Z,33.8145,-116.9941667,12.34,0.61,ml,11,83,0.1063,0.12,ci,ci40529400,2023-08-04T12:47:14.466Z,"5 km NW of San Jacinto, CA",earthquake,0.4,1.21,0.118,12,automatic,ci,ci
 2023-08-04T12:39:51.847Z,54.715,-160.4595,35,3.7,mb,31,170,0.517,0.6,us,us6000kxsw,2023-08-04T13:22:02.040Z,"Alaska Peninsula",earthquake,7.24,1.995,0.253,4,reviewed,us,us
 2023-08-04T12:34:37.410Z,35.7115,-117.5055,8.25,1.35,ml,18,79,0.08109,0.2,ci,ci40529392,2023-08-04T12:45:11.270Z,"11 km SW of Searles Valley, CA",earthquake,0.39,1.5,0.165,11,automatic,ci,ci
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T21:16:47.650Z,38.8151665,-122.8151703,2.81,0.83,md,8,138,0.00913,0.01,nc,nc73919871,2023-08-03T21:33:12.283Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.87,0.06,9,automatic,nc,nc
 2023-08-03T21:06:18.910Z,44.7005,-111.790333333333,11.77,1.26,ml,12,101,0.09357,0.15,mb,mb90023423,2023-08-03T22:05:37.000Z,"45 km NW of Island Park, Idaho",earthquake,0.47,0.69,0.252329727195716,5,reviewed,mb,mb
 2023-08-03T20:54:18.150Z,37.1083333,-121.5651667,3.59,0.94,md,18,59,0.07366,0.17,nc,nc73919866,2023-08-03T23:28:11.921Z,"5 km ENE of San Martin, CA",earthquake,0.33,1.25,0.165,14,reviewed,nc,nc
-2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"31 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-03T20:46:42.150Z,19.2536659240723,-155.410827636719,35.2200012207031,1.96000004,md,31,172,,0.100000001,hv,hv73508707,2023-08-03T20:49:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.69,0.819999993,1.17999995,12,automatic,hv,hv
 2023-08-03T20:46:28.060Z,45.3285,-112.594166666667,8.83,2.61,ml,31,66,0.03404,0.13,mb,mb90023418,2023-08-03T23:34:58.000Z,"12 km NNE of Dillon, Montana",earthquake,0.28,0.25,0.114408359223125,23,reviewed,mb,mb
 2023-08-03T20:40:41.470Z,33.9846667,-116.7453333,16.27,0.66,ml,13,101,0.07229,0.09,ci,ci40529152,2023-08-03T23:50:23.110Z,"8 km NNE of Cabazon, CA",earthquake,0.22,0.57,0.193,13,reviewed,ci,ci
@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T13:48:37.656Z,63.3029,-152.8942,1.6,2.4,ml,,,,0.85,ak,ak0239vskmb9,2023-08-03T13:52:00.036Z,"64 km WSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-03T13:47:52.806Z,63.4483,-152.9753,6.8,1.8,ml,,,,1.11,ak,ak0239vskfrk,2023-08-03T13:49:54.300Z,"58 km SW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T13:38:45.165Z,62.2221,-149.2703,34.1,1.1,ml,,,,0.47,ak,ak0239vsihqc,2023-08-03T13:41:23.196Z,"30 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-03T13:35:49.860Z,48.40716666666667,-121.856,-0.53,1.23,ml,7,82,0.189,0.13,uw,uw61937557,2023-08-03T19:03:58.860Z,"15 km NE of Lake Cavanaugh, Washington",earthquake,0.32,0.93,0.13442447225447895,5,reviewed,uw,uw
-2023-08-03T13:32:26.525Z,62.0071,-151.5707,74.4,0.9,ml,,,,0.33,ak,ak0239vsh5zq,2023-08-03T13:35:18.005Z,"9 km WNW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
