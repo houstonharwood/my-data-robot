@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T20:27:14.606Z,62.4385,-149.3898,49.1,0.9,ml,,,,0.56,ak,ak0239xk5flz,2023-08-04T20:29:44.919Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-04T20:25:26.865Z,58.2626,-155.1348,28,1.1,ml,,,,0.43,ak,ak0239xk51qm,2023-08-04T20:27:31.856Z,"87 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-04T20:16:39.391Z,36.2954,-115.1899,16,1.5,ml,12,289.34,0.211,0.3679,nn,nn00863969,2023-08-04T20:19:11.006Z,"12 km NNW of North Las Vegas, Nevada",earthquake,,1,0.83,10,automatic,nn,nn
 2023-08-04T20:01:18.390Z,34.3201667,-117.1411667,1.95,1.16,ml,27,47,0.117,0.21,ci,ci40529792,2023-08-04T20:04:50.910Z,"9 km NNE of Lake Arrowhead, CA",earthquake,0.34,0.9,0.195,31,automatic,ci,ci
 2023-08-04T19:47:30.080Z,38.8271675,-122.8003311,1.8,1.47,md,32,32,0.008492,0.02,nc,nc73920316,2023-08-04T20:13:11.960Z,"7 km W of Cobb, CA",earthquake,0.16,0.29,0.17,31,automatic,nc,nc
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T17:42:28.360Z,38.7960014,-122.8081665,3.04,0.3,md,7,112,0.008637,0.02,nc,nc73920236,2023-08-04T18:10:13.275Z,"5 km WNW of The Geysers, CA",earthquake,1.04,2.78,0.13,8,automatic,nc,nc
 2023-08-04T17:39:51.166Z,61.5477,-149.802,41,1,ml,,,,0.18,ak,ak0239xifsto,2023-08-04T17:46:37.699Z,"8 km ENE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-08-04T17:32:31.450Z,58.2533,-155.1605,4,0.4,ml,,,,5.03,ak,ak0239xie9a7,2023-08-04T17:35:40.427Z,"86 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-04T17:31:26.090Z,37.5328333,-118.8566667,5.54,0.87,md,18,173,0.06115,0.03,nc,nc73920226,2023-08-04T20:13:12.216Z,"16 km SE of Mammoth Lakes, CA",earthquake,0.47,0.71,0.157,17,reviewed,nc,nc
+2023-08-04T17:31:26.090Z,37.5328333,-118.8566667,5.54,0.87,md,18,173,0.06115,0.03,nc,nc73920226,2023-08-04T20:27:14.041Z,"16 km SE of Mammoth Lakes, CA",earthquake,0.47,0.71,0.157,17,reviewed,nc,nc
 2023-08-04T17:27:44.140Z,43.720333333333336,-121.25333333333333,-1.05,0.38,ml,5,184,0.0147,0.11,uw,uw61938002,2023-08-04T19:17:24.000Z,"Newberry Caldera area, Oregon",earthquake,0.29,0.18,0.15388088412602863,3,reviewed,uw,uw
 2023-08-04T17:12:46.710Z,46.85433333333334,-123.24516666666666,-0.35,1.4000000000000001,ml,15,128,0.02943,0.4,uw,uw61937992,2023-08-04T18:19:18.660Z,"1 km NNW of Oakville, Washington",explosion,1.23,31.61,0.24537315764051382,10,reviewed,uw,uw
 2023-08-04T17:08:25.485Z,57.202,-155.1845,10,1.7,ml,,,,0.45,ak,ak0239xi93n8,2023-08-04T17:10:12.174Z,"59 km SW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -203,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T20:46:42.150Z,19.2536659240723,-155.410827636719,35.2200012207031,1.96000004,md,31,172,,0.100000001,hv,hv73508707,2023-08-03T20:49:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.69,0.819999993,1.17999995,12,automatic,hv,hv
 2023-08-03T20:46:28.060Z,45.3285,-112.594166666667,8.83,2.61,ml,31,66,0.03404,0.13,mb,mb90023418,2023-08-03T23:34:58.000Z,"12 km NNE of Dillon, Montana",earthquake,0.28,0.25,0.114408359223125,23,reviewed,mb,mb
 2023-08-03T20:40:41.470Z,33.9846667,-116.7453333,16.27,0.66,ml,13,101,0.07229,0.09,ci,ci40529152,2023-08-03T23:50:23.110Z,"8 km NNE of Cabazon, CA",earthquake,0.22,0.57,0.193,13,reviewed,ci,ci
-2023-08-03T20:31:29.281Z,60.2794,-148.3769,0,1.8,ml,,,,1.04,ak,ak0239vwmzq8,2023-08-03T20:34:10.333Z,"31 km NW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-03T20:31:23.143Z,-17.4752,-178.7123,539.784,4.8,mb,36,67,3.2,0.8,us,us6000kxmt,2023-08-03T20:45:46.040Z,"219 km ENE of Levuka, Fiji",earthquake,11.29,7.326,0.105,28,reviewed,us,us
