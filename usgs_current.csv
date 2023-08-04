@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-04T03:30:43.750Z,39.4824982,-123.1108322,2.8,1.54,md,12,181,0.0983,0.08,nc,nc73919991,2023-08-04T03:32:17.747Z,"16 km WNW of Lake Pillsbury, CA",earthquake,0.97,2.36,0.04,5,automatic,nc,nc
+2023-08-04T03:32:21.655Z,61.7737,-150.7061,41.9,1.1,ml,,,,0.94,ak,ak0239xa261w,2023-08-04T03:34:49.571Z,"27 km NNW of Susitna, Alaska",earthquake,,3,,,automatic,ak,ak
+2023-08-04T03:30:43.750Z,39.4824982,-123.1108322,2.8,1.54,md,12,181,0.0983,0.08,nc,nc73919991,2023-08-04T03:41:12.320Z,"16 km WNW of Lake Pillsbury, CA",earthquake,0.97,2.36,0.04,5,automatic,nc,nc
 2023-08-04T03:08:54.818Z,43.1737,-127.3363,10,2.5,ml,23,291,2.427,0.83,us,us6000kxqr,2023-08-04T03:32:16.040Z,"236 km W of Port Orford, Oregon",earthquake,4.94,2.026,0.049,54,reviewed,us,us
 2023-08-04T03:05:03.856Z,33.2484,92.1078,10,4.9,mb,50,116,6.973,0.98,us,us6000kxqs,2023-08-04T03:24:08.040Z,"196 km N of Nagqu, China",earthquake,8.92,1.614,0.055,103,reviewed,us,us
 2023-08-04T02:52:13.180Z,38.5060005,-122.7301636,3.84,1.32,md,6,143,0.07786,0.01,nc,nc73919986,2023-08-04T03:27:11.260Z,"2 km ESE of Larkfield-Wikiup, CA",earthquake,0.69,1.64,0.16,5,automatic,nc,nc
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T21:16:47.650Z,38.8151665,-122.8151703,2.81,0.83,md,8,138,0.00913,0.01,nc,nc73919871,2023-08-03T21:33:12.283Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.87,0.06,9,automatic,nc,nc
 2023-08-03T21:06:18.910Z,44.7005,-111.790333333333,11.77,1.26,ml,12,101,0.09357,0.15,mb,mb90023423,2023-08-03T22:05:37.000Z,"45 km NW of Island Park, Idaho",earthquake,0.47,0.69,0.252329727195716,5,reviewed,mb,mb
 2023-08-03T20:54:18.150Z,37.1083333,-121.5651667,3.59,0.94,md,18,59,0.07366,0.17,nc,nc73919866,2023-08-03T23:28:11.921Z,"5 km ENE of San Martin, CA",earthquake,0.33,1.25,0.165,14,reviewed,nc,nc
-2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"31 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-08-03T20:48:15.802Z,61.8061,-150.9467,57.6,1,ml,,,,0.1,ak,ak0239vwqlv0,2023-08-03T20:49:40.963Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-03T20:46:42.150Z,19.2536659240723,-155.410827636719,35.2200012207031,1.96000004,md,31,172,,0.100000001,hv,hv73508707,2023-08-03T20:49:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.69,0.819999993,1.17999995,12,automatic,hv,hv
 2023-08-03T20:46:28.060Z,45.3285,-112.594166666667,8.83,2.61,ml,31,66,0.03404,0.13,mb,mb90023418,2023-08-03T23:34:58.000Z,"12 km NNE of Dillon, Montana",earthquake,0.28,0.25,0.114408359223125,23,reviewed,mb,mb
 2023-08-03T20:40:41.470Z,33.9846667,-116.7453333,16.27,0.66,ml,13,101,0.07229,0.09,ci,ci40529152,2023-08-03T23:50:23.110Z,"8 km NNE of Cabazon, CA",earthquake,0.22,0.57,0.193,13,reviewed,ci,ci
@@ -224,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T03:58:15.019Z,36.4705,-98.755,8.53,1.67,ml,81,71,0.04229170093,0.16,ok,ok2023pbhn,2023-08-03T12:36:56.570Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.21,28,reviewed,ok,ok
 2023-08-03T03:49:57.203Z,58.8807,-153.9141,15.7,1.2,ml,,,,0.13,ak,ak0239vmmjhk,2023-08-03T03:51:29.763Z,"79 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-03T03:45:17.597Z,58.8888,-153.8371,10.6,1.1,ml,,,,0.09,ak,ak0239vmllkf,2023-08-03T03:47:10.652Z,"81 km SE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-03T03:41:02.370Z,40.2178333,-121.1638333,3.76,1.65,md,11,194,0.033,0.05,nc,nc73919606,2023-08-03T14:10:12.728Z,"1 km E of Almanor, CA",earthquake,0.52,0.33,0.212,14,reviewed,nc,nc
-2023-08-03T03:37:59.280Z,34.1606667,-118.3558333,16.95,1.29,ml,18,100,0.01604,0.09,ci,ci39628378,2023-08-03T14:02:49.175Z,"2 km ESE of North Hollywood, CA",earthquake,0.27,0.32,0.285,8,reviewed,ci,ci
