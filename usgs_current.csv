@@ -60,6 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T10:01:49.020Z,35.7595,-117.5885,1.81,2.57,ml,25,91,0.1479,0.18,ci,ci40530200,2023-08-05T10:48:39.040Z,"17 km W of Searles Valley, CA",earthquake,0.3,0.54,0.175,25,automatic,ci,ci
 2023-08-05T09:47:12.204Z,62.8795,-150.696,109.9,2.4,ml,,,,0.34,ak,ak0239z19b74,2023-08-05T10:32:28.040Z,"42 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T09:43:43.707Z,63.2187,-150.4183,108,2.2,ml,,,,0.49,ak,ak0239z18is1,2023-08-05T10:15:15.040Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-05T09:37:15.309Z,55.0434,-156.772,20.4,3,ml,,,,1.09,ak,ak0239z177ln,2023-08-05T18:49:11.957Z,"173 km SE of Chignik, Alaska",earthquake,,7.5,,,reviewed,ak,ak
 2023-08-05T09:35:10.800Z,17.9335,-67.1103333333333,12.07,2.36,md,13,245,0.07237,0.09,pr,pr71420578,2023-08-05T10:00:03.720Z,"8 km SW of La Parguera, Puerto Rico",earthquake,0.49,0.26,0.0750443231221798,7,reviewed,pr,pr
 2023-08-05T09:27:26.664Z,63.3061,-145.2762,8.3,1.2,ml,,,,1.19,ak,ak0239z151zu,2023-08-05T09:30:00.199Z,"29 km NE of Paxson, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-05T09:13:08.503Z,64.7171,-146.704,13.1,1,ml,,,,0.33,ak,ak0239z120ki,2023-08-05T09:14:52.146Z,"17 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -76,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T08:18:29.312Z,36.8527,-116.2503,13.4,-0.2,ml,12,102.83,0.049,0.0886,nn,nn00864003,2023-08-05T08:20:29.759Z,"45 km E of Beatty, Nevada",earthquake,,1,0.27,6,automatic,nn,nn
 2023-08-05T08:17:18.016Z,59.9673,-152.5023,71.8,1.2,ml,,,,0.45,ak,ak0239z0hgk9,2023-08-05T08:18:51.196Z,"43 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T08:12:10.206Z,61.1904,-150.9777,54.6,1.7,ml,,,,0.51,ak,ak0239z0gddo,2023-08-05T08:13:52.747Z,"7 km NE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-08-05T07:47:48.960Z,37.5808333,-118.9651667,6.8,0.62,md,16,215,0.05812,0.03,nc,nc73920536,2023-08-05T18:34:05.562Z,"6 km S of Mammoth Lakes, CA",earthquake,0.66,1.37,0.181,17,reviewed,nc,nc
+2023-08-05T07:47:48.960Z,37.5808333,-118.9651667,6.8,0.62,md,16,215,0.05812,0.03,nc,nc73920536,2023-08-05T18:49:11.540Z,"6 km S of Mammoth Lakes, CA",earthquake,0.66,1.37,0.181,17,reviewed,nc,nc
 2023-08-05T07:32:44.942Z,59.7516,-150.731,40.4,1.3,ml,,,,0.51,ak,ak0239yzzary,2023-08-05T07:35:05.045Z,"17 km SE of Fox River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T07:22:24.209Z,50.9182,92.5095,10,4.5,mb,34,67,5.597,0.43,us,us6000ky1z,2023-08-05T07:40:50.040Z,"38 km ENE of Khandagayty, Russia",earthquake,5.05,1.929,0.102,28,reviewed,us,us
 2023-08-05T07:20:07.272Z,-28.2143,-63.1854,597.681,6.2,mww,111,33,4.29,0.9,us,us6000ky1y,2023-08-05T09:29:11.838Z,"Santiago Del Estero, Argentina",earthquake,10.14,4.07,0.032,91,reviewed,us,us
@@ -110,12 +111,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T04:32:40.310Z,37.8009987,-122.1893311,9.49,0.96,md,11,129,0.02221,0.05,nc,nc73920466,2023-08-05T05:18:12.981Z,"4 km E of Oakland, CA",earthquake,0.53,0.86,0.18,8,automatic,nc,nc
 2023-08-05T04:30:52.008Z,63.5545,-147.4021,68.5,1.1,ml,,,,0.33,ak,ak0239yy6l2o,2023-08-05T04:32:54.003Z,"Central Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-08-05T04:26:56.608Z,63.2972,-150.9314,0,1.2,ml,,,,0.74,ak,ak0239yy5qkc,2023-08-05T04:29:22.179Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-05T04:24:12.660Z,58.3375,-154.6004,50,1.2,ml,,,,1.01,ak,ak0239yy57qq,2023-08-05T04:25:58.150Z,"86 km N of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-08-05T04:15:58.000Z,-7.9689,107.2038,46.079,4.5,mb,22,86,0.67,1.17,us,us6000ky14,2023-08-05T04:54:05.040Z,"89 km SSW of Banjar, Indonesia",earthquake,6.74,7.9,0.145,15,reviewed,us,us
 2023-08-05T04:15:49.090Z,38.7589989,-122.7126694,1.06,1.1,md,9,168,0.009877,0.07,nc,nc73920461,2023-08-05T06:35:13.412Z,"2 km SW of Anderson Springs, CA",earthquake,0.69,0.59,0.16,8,automatic,nc,nc
-2023-08-05T04:13:22.587Z,58.6844,-155.4592,206,1.6,ml,,,,0.94,ak,ak0239yy2vmq,2023-08-05T04:15:58.260Z,"69 km E of King Salmon, Alaska",earthquake,,6.5,,,automatic,ak,ak
 2023-08-05T04:05:04.175Z,12.6031,144.89,35,4.7,mb,30,139,0.98,1.09,us,us6000ky13,2023-08-05T04:24:52.040Z,"75 km SSE of Inarajan Village, Guam",earthquake,11.88,1.939,0.066,71,reviewed,us,us
-2023-08-05T04:02:55.268Z,59.8457,-151.5978,250,1.6,ml,,,,0.93,ak,ak0239yy0l9y,2023-08-05T04:06:36.507Z,"3 km N of Nikolaevsk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-05T04:02:50.428Z,61.2937,-149.8939,36.1,1.7,ml,,,,0.47,ak,ak0239yy0kwi,2023-08-05T04:04:51.512Z,"8 km N of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-05T03:51:54.940Z,19.3306674957275,-155.205001831055,3.53999996185303,1.81,ml,38,114,,0.140000001,hv,hv73510602,2023-08-05T03:57:26.190Z,"12 km SSE of Volcano, Hawaii",earthquake,0.43,1.48000002,0.26,6,automatic,hv,hv
 2023-08-05T03:49:47.850Z,33.5738333,-116.706,15.21,1.17,ml,42,42,0.02745,0.15,ci,ci40529984,2023-08-05T04:00:39.650Z,"4 km NW of Anza, CA",earthquake,0.19,0.32,0.24,28,automatic,ci,ci
@@ -195,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T19:11:51.700Z,34.995,-118.1951667,0.15,1.58,ml,12,61,0.1191,0.25,ci,ci40529744,2023-08-04T19:15:34.753Z,"7 km SSW of Mojave, CA",earthquake,0.51,31.61,0.18,31,automatic,ci,ci
 2023-08-04T19:11:32.100Z,37.5443333,-118.8318333,-0.78,0.62,md,8,314,0.04567,0.04,nc,nc73920301,2023-08-04T19:58:11.877Z,"14 km W of Toms Place, CA",earthquake,1.22,0.38,0.078,8,reviewed,nc,nc
 2023-08-04T18:56:24.460Z,19.4168338775635,-155.446334838867,3.29999995231628,1.72,ml,20,48,,0.119999997,hv,hv73509917,2023-08-04T19:01:54.750Z,"22 km W of Volcano, Hawaii",earthquake,0.3,1.25,3.86,3,automatic,hv,hv
-2023-08-04T18:49:05.580Z,33.296,-116.2536667,5.61,0.72,ml,23,74,0.08108,0.26,ci,ci40529720,2023-08-04T18:52:41.761Z,"12 km ENE of Borrego Springs, CA",earthquake,0.47,0.86,0.122,11,automatic,ci,ci
-2023-08-04T18:45:00.330Z,37.533,-118.8553333,5.85,0.8,md,13,287,0.06062,0.02,nc,nc73920296,2023-08-04T19:48:12.818Z,"16 km WSW of Toms Place, CA",earthquake,2.06,1.29,0.089,11,reviewed,nc,nc
-2023-08-04T18:43:36.580Z,34.0805,-117.0336667,12.6,2.13,ml,74,28,0.05951,0.16,ci,ci40529712,2023-08-05T00:53:31.750Z,"5 km N of Yucaipa, CA",earthquake,0.16,0.39,0.137,26,reviewed,ci,ci
