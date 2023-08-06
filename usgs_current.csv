@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-06T05:16:15.710Z,48.631500244140625,-121.95999908447266,-0.529999971389771,3.0389838218688965,ml,32,82,,0.479999989,uw,uw61938537,2023-08-06T05:30:50.469Z,"12 km N of Hamilton, Washington",earthquake,0.62,1.73000002,0.3767765760421753,144,automatic,uw,uw
+2023-08-06T05:36:07.370Z,35.6246681,-117.4465027,2.91,1.54,ml,14,81,0.04442,0.07,ci,ci40530592,2023-08-06T05:38:20.303Z,"16 km SSW of Searles Valley, CA",earthquake,0.49,0.73,0.19,3,automatic,ci,ci
+2023-08-06T05:32:36.430Z,62.1956,-149.5706,37.4,1.6,ml,,,,0.5,ak,ak023a0mbrej,2023-08-06T05:34:19.217Z,"15 km ENE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-08-06T05:16:15.480Z,48.62716666666667,-121.9505,1.25,2.86,ml,32,43,0.119,0.24,uw,uw61938537,2023-08-06T05:36:46.687Z,"12 km NNE of Hamilton, Washington",earthquake,0.25,0.48,0.16659470427184342,33,reviewed,uw,uw
 2023-08-06T05:10:30.570Z,33.6666667,-116.7501667,11.76,0.09,ml,16,69,0.05706,0.12,ci,ci40530584,2023-08-06T05:16:12.520Z,"9 km SSW of Idyllwild, CA",earthquake,0.3,0.57,0.108,6,automatic,ci,ci
 2023-08-06T05:03:27.870Z,19.1959991455078,-155.386672973633,29.3799991607666,1.80999994,md,33,172,,0.100000001,hv,hv73512077,2023-08-06T05:06:38.530Z,"Hawaii region, Hawaii",earthquake,0.64,0.730000019,0.899999976,3,automatic,hv,hv
 2023-08-06T04:50:58.560Z,36.0148333,-117.8428333,0.75,1.02,ml,8,124,0.06842,0.1,ci,ci40530576,2023-08-06T04:54:29.305Z,"10 km ESE of Coso Junction, CA",earthquake,0.27,0.36,0.159,7,automatic,ci,ci
@@ -18,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T03:39:29.839Z,60.344,-141.3535,18.1,2.8,ml,,,,0.2,ak,ak023a0l6dp3,2023-08-06T04:00:43.040Z,"127 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-06T03:05:26.220Z,33.6366667,-116.7495,18.48,0.63,ml,21,67,0.04456,0.23,ci,ci40530552,2023-08-06T03:09:10.758Z,"12 km NW of Anza, CA",earthquake,0.46,0.56,0.249,12,automatic,ci,ci
 2023-08-06T02:58:17.320Z,61.2951,-152.4328,0.3,1.2,ml,,,,0.71,ak,ak023a0kozqc,2023-08-06T03:00:19.099Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-06T02:53:32.820Z,39.1920013,-123.5006638,0.28,1.79,md,12,85,0.06404,0.06,nc,nc73920896,2023-08-06T03:48:10.885Z,"23 km E of Navarro Head, CA",earthquake,0.28,2.36,0.13,8,automatic,nc,nc
+2023-08-06T02:53:32.820Z,39.1920013,-123.5006638,0.28,1.79,md,12,85,0.06404,0.06,nc,nc73920896,2023-08-06T05:36:15.498Z,"23 km E of Navarro Head, CA",earthquake,0.28,2.36,0.13,8,automatic,nc,nc
 2023-08-06T02:52:23.942Z,62.8552,-149.9009,79.5,1.4,ml,,,,0.95,ak,ak023a0knpy2,2023-08-06T02:54:41.880Z,"46 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-06T02:21:22.310Z,35.8286667,-117.6731667,5.46,1.88,ml,22,66,0.07719,0.21,ci,ci40530544,2023-08-06T02:32:15.020Z,"23 km N of Ridgecrest, CA",earthquake,0.36,1.25,0.101,21,automatic,ci,ci
 2023-08-06T02:04:13.400Z,36.027832,-121.5479965,6.72,1.99,md,23,203,0.1139,0.18,nc,nc73920876,2023-08-06T04:54:19.254Z,"2 km ENE of Lopez Point, CA",earthquake,1.17,1.83,0.14,19,automatic,nc,nc
@@ -173,5 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T06:16:57.004Z,60.4815,-150.8846,39.6,1.8,ml,,,,0.54,ak,ak0239yzagn8,2023-08-05T06:18:40.121Z,"7 km WSW of Funny River, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-08-05T06:15:26.529Z,63.4205,-151.2316,0,1.3,ml,,,,0.8,ak,ak0239yza6ks,2023-08-05T06:17:29.306Z,"27 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-05T05:50:25.180Z,34.4533333,-117.9543333,10.18,0.81,ml,13,62,0.004471,0.17,ci,ci40530136,2023-08-05T05:53:57.703Z,"7 km SW of Pearblossom, CA",earthquake,0.39,0.58,0.177,14,automatic,ci,ci
-2023-08-05T05:35:39.080Z,38.0169983,-122.2631683,5.61,0.67,md,9,135,0.01324,0.05,nc,nc73920511,2023-08-05T05:37:17.186Z,"2 km S of Rodeo, CA",earthquake,0.53,1.42,0.06,5,automatic,nc,nc
-2023-08-05T05:32:59.829Z,61.3114,-152.5195,11.5,1.4,ml,,,,0.11,ak,ak0239yysgpq,2023-08-05T05:34:12.505Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
