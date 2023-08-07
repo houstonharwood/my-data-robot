@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-07T18:06:52.920Z,37.4561653,-121.7701645,5.21,1.63,md,10,116,0.02473,0.01,nc,nc73921506,2023-08-07T18:08:29.793Z,"11 km NNE of Alum Rock, CA",earthquake,0.35,0.48,0.16,8,automatic,nc,nc
+2023-08-07T18:05:02.606Z,39.5502,-119.5075,1.7,1.2,ml,8,90.63,0.186,0.2585,nn,nn00864081,2023-08-07T18:07:43.012Z,"Nevada",earthquake,,5.7,0.29,6,automatic,nn,nn
+2023-08-07T17:58:55.570Z,38.7998352,-122.7429962,-0.92,1.85,md,30,59,0.01309,0.21,nc,nc73921501,2023-08-07T18:01:48.654Z,"3 km NNE of The Geysers, CA",earthquake,0.4,1.01,0.16,30,automatic,nc,nc
 2023-08-07T17:52:54.361Z,60.1737,-151.0299,47.7,1.9,ml,,,,0.42,ak,ak023a2h4mv0,2023-08-07T17:54:18.483Z,"21 km ESE of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-07T17:49:15.460Z,38.8083344,-122.8143311,2.17,1.09,md,28,57,0.01161,0.02,nc,nc73921496,2023-08-07T17:50:49.431Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.34,0.16,28,automatic,nc,nc
 2023-08-07T17:46:55.692Z,58.2206,-155.0654,1.2,0.8,ml,,,,0.3,ak,ak023a2h3co1,2023-08-07T17:48:12.668Z,"81 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -153,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T20:23:28.070Z,36.338665,-120.8779984,2.71,1.44,md,8,105,0.05872,0.23,nc,nc73921146,2023-08-06T21:34:13.145Z,"20 km WSW of New Idria, CA",earthquake,0.82,3.19,0.16,6,automatic,nc,nc
 2023-08-06T20:22:05.897Z,61.3093,-139.9473,10,4.8,mwr,127,79,0.708,1.04,us,us6000kybs,2023-08-07T00:22:17.814Z,"Southern Yukon Territory, Canada",earthquake,3.32,1.833,0.042,54,reviewed,us,us
 2023-08-06T20:16:08.809Z,63.2435,-150.5817,129.5,2,ml,,,,0.36,ak,ak023a0v5rw0,2023-08-06T20:18:44.731Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-06T19:57:58.840Z,33.2878333,-116.2595,6.74,0.84,ml,22,87,0.08536,0.2,ci,ci40530944,2023-08-06T20:01:43.778Z,"11 km ENE of Borrego Springs, CA",earthquake,0.51,1.06,0.137,14,automatic,ci,ci
+2023-08-06T19:57:58.870Z,33.2888333,-116.2651667,7.98,0.84,ml,25,87,0.08224,0.18,ci,ci40530944,2023-08-07T18:03:00.297Z,"11 km ENE of Borrego Springs, CA",earthquake,0.32,0.85,0.125,13,reviewed,ci,ci
 2023-08-06T19:54:55.960Z,35.86133333,-98.05583333,7.5,1.2,ml,41,69,0.1079788109,0.17,ok,ok2023phzp,2023-08-07T17:27:45.734Z,"Oklahoma",earthquake,,0.5,0.35,5,reviewed,ok,ok
 2023-08-06T19:42:50.030Z,37.5056667,-118.8413333,-0.08,0.93,md,12,299,0.08477,0.05,nc,nc73921141,2023-08-06T23:37:11.864Z,"16 km WSW of Toms Place, CA",earthquake,2.83,5.21,0.112,11,reviewed,nc,nc
 2023-08-06T19:40:17.357Z,-9.7268,114.0302,40.448,4.9,mb,72,65,1.254,0.71,us,us6000kybj,2023-08-06T20:08:31.040Z,"146 km SSW of Muncar, Indonesia",earthquake,7.81,5.978,0.076,54,reviewed,us,us
@@ -165,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T18:16:12.760Z,35.9628333,-117.5086667,0.16,1.51,ml,25,100,0.1965,0.18,ci,ci40530920,2023-08-07T17:27:43.207Z,"24 km NNW of Searles Valley, CA",earthquake,0.34,0.99,0.116,14,reviewed,ci,ci
 2023-08-06T18:14:22.551Z,-8.4569,116.7018,10,4.8,mb,15,93,1.125,0.45,us,us6000kyb6,2023-08-06T18:41:42.040Z,"Lombok region, Indonesia",earthquake,6.63,1.926,0.278,4,reviewed,us,us
 2023-08-06T18:12:41.634Z,30.7637,131.3898,13.247,5.5,mww,100,60,1.095,0.75,us,us6000kyb4,2023-08-06T20:17:19.620Z,"Kyushu, Japan",earthquake,6.15,4.154,0.059,28,reviewed,us,us
-2023-08-06T17:59:47.940Z,19.32200050354,-155.200164794922,3.63000011444092,1.83,ml,28,136,,0.170000002,hv,hv73512562,2023-08-06T18:05:19.210Z,"13 km SSE of Volcano, Hawaii",earthquake,0.46,2.11999989,0.27,5,automatic,hv,hv
