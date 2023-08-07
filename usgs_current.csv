@@ -96,10 +96,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T09:14:14.668Z,36.1003,142.072,31.045,4.6,mb,24,168,3.15,0.9,us,us6000kye7,2023-08-07T12:59:22.040Z,"118 km ENE of Hasaki, Japan",earthquake,8.64,7.416,0.181,9,reviewed,us,us
 2023-08-07T09:07:43.561Z,65.686,-145.1527,6.1,1,ml,,,,0.8,ak,ak023a2c3hys,2023-08-07T09:09:29.039Z,"20 km NW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T09:02:20.340Z,33.564,-116.8086667,6.58,0.26,ml,15,91,0.04755,0.09,ci,ci40531128,2023-08-07T16:20:24.040Z,"13 km W of Anza, CA",earthquake,0.2,0.36,0.139,5,reviewed,ci,ci
-2023-08-07T08:43:04.430Z,40.4401667,-123.5406667,31.41,1.79,md,25,60,0.0458,0.12,nc,nc73921366,2023-08-07T21:15:11.556Z,"33 km WSW of Hayfork, CA",earthquake,0.36,0.63,0.196,19,reviewed,nc,nc
+2023-08-07T08:43:04.430Z,40.4401667,-123.5406667,31.41,1.79,md,25,60,0.0458,0.12,nc,nc73921366,2023-08-07T21:53:19.642Z,"33 km WSW of Hayfork, CA",earthquake,0.36,0.63,0.196,19,reviewed,nc,nc
 2023-08-07T08:39:25.700Z,33.5151667,-116.5616667,14.09,1,ml,50,68,0.03948,0.16,ci,ci40531112,2023-08-07T16:14:56.250Z,"11 km ESE of Anza, CA",earthquake,0.18,0.27,0.16,23,reviewed,ci,ci
 2023-08-07T08:13:02.570Z,61.3531,-146.6924,25.6,1.4,ml,,,,0.47,ak,ak023a2bj9ht,2023-08-07T08:15:06.080Z,"30 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-07T08:08:05.050Z,19.4048333333333,-155.286166666667,1.49,2.05,ml,25,31,,0.1,hv,hv73513647,2023-08-07T20:17:34.840Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.15,0.164228447791232,13,reviewed,hv,hv
+2023-08-07T08:08:05.050Z,19.4048333333333,-155.286166666667,1.49,2.05,ml,25,31,,0.1,hv,hv73513647,2023-08-07T20:17:34.840Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.15,0.164228447791232,13,reviewed,hv,hv
 2023-08-07T08:02:35.159Z,61.4442,-149.2855,30.5,1.2,ml,,,,0.41,ak,ak023a2bgz4r,2023-08-07T08:04:03.029Z,"14 km S of Gateway, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-07T07:48:39.620Z,37.8086662,-122.2371674,7.3,1.37,md,13,167,0.05517,0.03,nc,nc73921361,2023-08-07T10:09:15.561Z,"2 km NNW of Oakland, CA",earthquake,0.4,0.64,0.27,11,automatic,nc,nc
 2023-08-07T07:34:30.650Z,38.8223343,-122.7996674,2.78,0.47,md,7,99,0.008198,0.01,nc,nc73921356,2023-08-07T09:42:16.399Z,"6 km NW of The Geysers, CA",earthquake,0.48,0.98,0.25,8,automatic,nc,nc
@@ -163,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T00:07:57.279Z,37.2459,71.7508,111.065,4.4,mb,28,103,2.229,0.98,us,us6000kycy,2023-08-07T00:50:11.040Z,"32 km SSE of Khorugh, Tajikistan",earthquake,6.16,9.864,0.139,15,reviewed,us,us
 2023-08-07T00:07:23.903Z,61.3522,-140.0184,0.41,2.7,ml,37,110,0.716,0.89,us,us6000kycw,2023-08-07T16:32:27.845Z,"Southern Yukon Territory, Canada",earthquake,4.75,10.137,0.044,68,reviewed,us,us
 2023-08-07T00:06:40.740Z,46.22533333333333,-119.6035,7.01,0.59,ml,8,206,0.05925,0.05,uw,uw61938732,2023-08-07T04:41:51.510Z,"9 km WSW of Benton City, Washington",earthquake,0.69,0.33,0.09089159854784445,7,reviewed,uw,uw
+2023-08-07T00:03:02.008Z,28.80523682,-98.21518842,6.382690430000001,2.3,ml,17,57,0.04015157845,0.3,tx,tx2023piht,2023-08-07T21:58:04.993Z,"26 km NW of Pawnee, Texas",earthquake,1.484693186,2.911248771,0.1,10,reviewed,tx,tx
 2023-08-07T00:02:00.115Z,63.2226,-150.584,136,2,ml,,,,0.2,ak,ak023a26pfl7,2023-08-07T00:03:57.190Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-06T23:57:05.340Z,38.7906685,-122.7614975,1.84,1.1,md,16,62,0.01004,0.02,nc,nc73921226,2023-08-07T02:15:14.811Z,"2 km NNW of The Geysers, CA",earthquake,0.25,0.49,0.15,17,automatic,nc,nc
 2023-08-06T23:55:11.592Z,-55.7244,-27.2115,10,5.3,mww,113,33,5.531,0.73,us,us6000kyct,2023-08-07T14:16:11.393Z,"South Sandwich Islands region",earthquake,10.37,1.732,0.089,12,reviewed,us,us
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T22:08:16.280Z,33.4868333,-116.7971667,8.18,0.42,ml,20,69,0.01889,0.13,ci,ci40530976,2023-08-07T18:17:11.833Z,"8 km NE of Aguanga, CA",earthquake,0.24,0.58,0.134,11,reviewed,ci,ci
 2023-08-06T22:05:03.539Z,65.9213,-141.6774,0,2.4,ml,,,,0.98,ak,ak023a0wa9t2,2023-08-06T22:11:22.381Z,"109 km E of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T22:04:58.208Z,51.5828,-172.8021,30.851,4.5,mwr,123,174,2.084,0.55,us,us6000kyc9,2023-08-07T04:26:50.699Z,"118 km SE of Atka, Alaska",earthquake,7.62,5.639,0.061,26,reviewed,us,us
-2023-08-06T21:58:34.480Z,34.8298333333333,-85.14,4.96,2.3,md,12,106,0.2186,0.15,se,se60542261,2023-08-07T12:03:12.330Z,"Alabama",earthquake,0.39,1.63,0.108410092355316,10,reviewed,se,se
