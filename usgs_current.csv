@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T19:13:23.830Z,38.8391685,-122.8056641,9.55,0.22,md,7,107,0.01612,0.07,nc,nc73921531,2023-08-07T19:14:59.582Z,"7 km WNW of Cobb, CA",earthquake,1.46,7.96,0.07,8,automatic,nc,nc
 2023-08-07T19:01:59.210Z,46.0043333333333,-112.464333333333,-2,1.96,ml,11,168,0.06322,0.08,mb,mb90023788,2023-08-07T19:28:10.130Z,"5 km E of Butte, Montana",quarry blast,0.5,31.61,0.256814942501688,19,reviewed,mb,mb
 2023-08-07T18:52:04.990Z,38.8258324,-122.7958298,2.55,0.74,md,11,59,0.01139,0.01,nc,nc73921526,2023-08-07T18:53:40.332Z,"6 km W of Cobb, CA",earthquake,0.4,1.13,0.48,11,automatic,nc,nc
-2023-08-07T18:51:38.360Z,38.8253326,-122.7971649,2.42,1.03,md,22,34,0.01027,0.02,nc,nc73921521,2023-08-07T18:53:15.867Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.42,0.21,23,automatic,nc,nc
+2023-08-07T18:51:38.360Z,38.8253326,-122.7971649,2.42,1.03,md,22,34,0.01027,0.02,nc,nc73921521,2023-08-07T19:46:12.914Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.42,0.21,23,automatic,nc,nc
 2023-08-07T18:48:22.310Z,35.036,-117.683,-0.82,1.55,ml,23,44,0.102,0.17,ci,ci40531408,2023-08-07T19:36:54.729Z,"5 km NW of Boron, CA",quarry blast,0.37,31.61,0.143,25,reviewed,ci,ci
 2023-08-07T18:12:11.618Z,55.5151,-158.575,14.7,2.1,ml,,,,0.38,ak,ak023a2hheix,2023-08-07T18:14:11.152Z,"56 km SE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T18:07:41.783Z,60.1319,-153.1061,130.3,1.5,ml,,,,0.21,ak,ak023a2hge9u,2023-08-07T18:09:29.816Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -114,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T03:25:05.810Z,38.7953339,-122.7833328,3.07,1.99,md,36,76,0.01694,0.03,nc,nc73921276,2023-08-07T05:14:11.851Z,"3 km NW of The Geysers, CA",earthquake,0.18,0.36,0.15,40,automatic,nc,nc
 2023-08-07T03:23:37.729Z,36.27933333,-97.49933333,6.68,1.29,ml,43,66,0.06478728652,0.26,ok,ok2023pioj,2023-08-07T13:52:56.611Z,"Oklahoma",earthquake,,0.6,0.18,3,reviewed,ok,ok
 2023-08-07T03:20:07.080Z,33.3625,-116.3635,12.14,0.75,ml,11,157,0.03581,0.14,ci,ci37528197,2023-08-07T19:21:02.814Z,"12 km N of Borrego Springs, CA",earthquake,0.38,0.66,0.158,20,reviewed,ci,ci
-2023-08-07T03:20:04.340Z,33.354,-116.3571667,13.04,0.84,ml,24,172,0.02845,0.11,ci,ci40531056,2023-08-07T19:40:43.292Z,"11 km N of Borrego Springs, CA",earthquake,0.29,0.65,0.142,13,reviewed,ci,ci
+2023-08-07T03:20:04.460Z,33.3571667,-116.3605,12.47,0.83,ml,32,88,0.03086,0.15,ci,ci40531056,2023-08-07T19:42:29.675Z,"11 km N of Borrego Springs, CA",earthquake,0.26,0.6,0.141,13,reviewed,ci,ci
 2023-08-07T03:00:44.400Z,38.7956657,-122.7825012,3.14,1.83,md,44,75,0.004907,0.04,nc,nc73921261,2023-08-07T03:50:14.361Z,"3 km NW of The Geysers, CA",earthquake,0.18,0.29,0.17,42,automatic,nc,nc
 2023-08-07T02:37:39.630Z,47.67,-120.3405,1.52,0.86,ml,11,97,0.06572,0.06,uw,uw61938777,2023-08-07T04:29:48.620Z,"9 km W of Entiat, Washington",earthquake,0.23,1.47,0.10018701260522223,10,reviewed,uw,uw
 2023-08-07T02:36:48.239Z,58.5147,-153.5727,54.6,1.9,ml,,,,0.46,ak,ak023a283ouv,2023-08-07T02:38:36.044Z,"63 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T23:46:53.090Z,48.23466666666667,-121.6975,9.84,0.45,md,3,174,0.06303,0.01,uw,uw61938722,2023-08-07T04:44:37.290Z,"5 km SSE of Swede Heaven, Washington",earthquake,1.09,1.37,0.38627815009808986,3,reviewed,uw,uw
 2023-08-06T23:32:33.630Z,8.2839,-82.9507,21.173,4.4,mwr,39,132,0.386,0.79,us,us6000kycq,2023-08-06T23:48:06.040Z,"Panama-Costa Rica border region",earthquake,4.95,8.075,0.075,17,reviewed,us,us
 2023-08-06T23:31:33.519Z,-23.2502,-179.8982,556.793,4.3,mb,26,98,4.817,0.88,us,us6000kycr,2023-08-07T00:16:58.040Z,"south of the Fiji Islands",earthquake,15.26,12.232,0.111,23,reviewed,us,us
-2023-08-06T23:25:26.210Z,35.3173333,-118.5655,5.21,3.34,ml,64,24,0.1212,0.19,ci,ci40530992,2023-08-07T15:07:53.540Z,"23 km NNW of Tehachapi, CA",earthquake,0.15,0.58,0.14,118,reviewed,ci,ci
+2023-08-06T23:25:26.210Z,35.3173333,-118.5655,5.21,3.34,ml,64,24,0.1212,0.19,ci,ci40530992,2023-08-07T19:43:19.763Z,"23 km NNW of Tehachapi, CA",earthquake,0.15,0.58,0.14,118,reviewed,ci,ci
 2023-08-06T23:22:59.136Z,62.9713,-150.4873,94.5,1.2,ml,,,,0.45,ak,ak023a0wzfqx,2023-08-07T04:28:22.894Z,"Central Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-08-06T23:19:57.283Z,31.63106963,-104.5015912,6.671435547,1.8,ml,25,139,0.03760115906,0.2,tx,tx2023pigi,2023-08-07T18:40:03.075Z,"western Texas",earthquake,1.359231429,1.00222574,0,7,reviewed,tx,tx
 2023-08-06T23:18:59.590Z,19.3228340148926,-155.242004394531,4.80999994277954,2.13,ml,34,123,,0.129999995,hv,hv73513152,2023-08-06T23:24:30.680Z,"13 km S of Volcano, Hawaii",earthquake,0.34,0.850000024,0.19,14,automatic,hv,hv
@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T20:16:08.809Z,63.2435,-150.5817,129.5,2,ml,,,,0.36,ak,ak023a0v5rw0,2023-08-06T20:18:44.731Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-06T19:57:58.870Z,33.2888333,-116.2651667,7.98,0.84,ml,25,87,0.08224,0.18,ci,ci40530944,2023-08-07T18:03:00.297Z,"11 km ENE of Borrego Springs, CA",earthquake,0.32,0.85,0.125,13,reviewed,ci,ci
 2023-08-06T19:54:55.960Z,35.86133333,-98.05583333,7.5,1.2,ml,41,69,0.1079788109,0.17,ok,ok2023phzp,2023-08-07T17:27:45.734Z,"Oklahoma",earthquake,,0.5,0.35,5,reviewed,ok,ok
-2023-08-06T19:42:50.030Z,37.5056667,-118.8413333,-0.08,0.93,md,12,299,0.08477,0.05,nc,nc73921141,2023-08-06T23:37:11.864Z,"16 km WSW of Toms Place, CA",earthquake,2.83,5.21,0.112,11,reviewed,nc,nc
