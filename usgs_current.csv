@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-08T10:22:34.060Z,38.8170013,-122.8205032,2.52,0.76,md,8,105,0.01035,0.01,nc,nc73921756,2023-08-08T10:24:10.128Z,"7 km NW of The Geysers, CA",earthquake,0.48,1.12,0.15,7,automatic,nc,nc
+2023-08-08T10:21:17.445Z,39.326,-119.9178,9,0.6,ml,9,77.79,0.098,0.132,nn,nn00864135,2023-08-08T10:23:14.859Z,"9 km NNE of Incline Village, Nevada",earthquake,,1.2,0.14,7,automatic,nn,nn
+2023-08-08T10:19:31.560Z,38.7845001,-122.7789993,1.06,0.77,md,9,112,0.01112,0.02,nc,nc73921751,2023-08-08T10:21:04.895Z,"2 km WNW of The Geysers, CA",earthquake,0.28,0.55,0.1,10,automatic,nc,nc
+2023-08-08T10:14:01.930Z,37.3273315,-122.2145004,8.51,1.48,md,8,68,0.04329,0.07,nc,nc73921746,2023-08-08T10:15:40.205Z,"7 km SSE of Portola Valley, CA",earthquake,0.46,0.95,0.1,8,automatic,nc,nc
 2023-08-08T09:44:17.946Z,38.1789,-117.9686,9,2.6,ml,23,119.57,0.024,0.3375,nn,nn00864131,2023-08-08T09:48:48.565Z,"26 km SSE of Mina, Nevada",earthquake,,0.3,0.82,13,automatic,nn,nn
 2023-08-08T09:23:30.689Z,58.7719,-155.8442,240.5,1.8,ml,,,,0.57,ak,ak023a3zq8x8,2023-08-08T09:26:05.100Z,"48 km E of King Salmon, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-08-08T09:21:38.560Z,38.8266678,-122.8215027,1.65,0.68,md,7,152,0.009507,0.02,nc,nc73921736,2023-08-08T09:40:13.663Z,"8 km NW of The Geysers, CA",earthquake,0.46,1.07,0.25,9,automatic,nc,nc
@@ -6,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T09:01:54.462Z,61.4912,-150.67,45.4,1.8,ml,,,,0.39,ak,ak023a3zll06,2023-08-08T09:03:49.837Z,"10 km SW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-08-08T08:53:33.790Z,33.8953333,-117.0895,4.05,0.66,ml,14,75,0.09424,0.23,ci,ci40531728,2023-08-08T08:57:11.269Z,"11 km SSW of Calimesa, CA",earthquake,0.43,1.28,0.157,11,automatic,ci,ci
 2023-08-08T08:53:20.730Z,32.3796667,-115.1301667,5.71,2.42,ml,19,74,0.07055,0.32,ci,ci40531720,2023-08-08T08:56:53.146Z,"6 km ENE of Delta, B.C., MX",earthquake,0.67,1.36,0.178,22,automatic,ci,ci
-2023-08-08T08:47:38.040Z,32.3626671,-115.1168365,16.68,3.39,ml,29,106,0.08544,0.29,ci,ci40531712,2023-08-08T09:16:59.040Z,"7 km E of Delta, B.C., MX",earthquake,0.53,1.1,0.246,23,automatic,ci,ci
+2023-08-08T08:47:38.040Z,32.3626671,-115.1168365,16.68,3.39,ml,29,106,0.08544,0.29,ci,ci40531712,2023-08-08T10:24:01.168Z,"7 km E of Delta, B.C., MX",earthquake,0.53,1.1,0.246,23,automatic,ci,ci
 2023-08-08T08:45:22.440Z,38.8370018,-122.805336,1.89,0.78,md,13,81,0.01179,0.01,nc,nc73921726,2023-08-08T09:10:13.482Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.72,0.16,16,automatic,nc,nc
 2023-08-08T08:33:31.554Z,39.3294,-119.9067,8.6,1.1,ml,11,101.39,0.107,0.0761,nn,nn00864129,2023-08-08T08:35:24.840Z,"10 km NNE of Incline Village, Nevada",earthquake,,1,0.27,9,automatic,nn,nn
 2023-08-08T08:32:10.740Z,19.2686672210693,-155.494338989258,6.15999984741211,1.83000004,md,17,95,,0.159999996,hv,hv73515512,2023-08-08T08:35:12.050Z,"7 km NNW of Pāhala, Hawaii",earthquake,0.51,0.779999971,1.02999997,6,automatic,hv,hv
@@ -106,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T20:23:43.520Z,17.9216666666667,-66.9576666666667,16.41,2.23,md,13,234,0.06859,0.09,pr,pr71420773,2023-08-07T20:35:18.710Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.55,0.47,0.107046904683026,7,reviewed,pr,pr
 2023-08-07T20:22:06.720Z,46.06333333333333,-123.26866666666666,-0.3,1.82,ml,10,65,0.009668,0.33,uw,uw61939257,2023-08-08T06:28:20.130Z,"6 km SW of Clatskanie, Oregon",explosion,1.14,31.61,0.10699314482122069,6,reviewed,uw,uw
 2023-08-07T20:09:04.201Z,40.2469,-119.491,13.5,0.5,ml,3,283.96,0.2,0.1093,nn,nn00864111,2023-08-08T00:48:48.344Z,"34 km NNE of Sutcliffe, Nevada",earthquake,,11.4,0.33,3,reviewed,nn,nn
-2023-08-07T19:58:52.510Z,18.0538333333333,-67.1041666666667,20.08,2.54,md,15,127,0.04746,0.13,pr,pr71420763,2023-08-07T20:13:29.350Z,"Mona Passage",earthquake,0.39,0.41,0.0925987981898602,9,reviewed,pr,pr
+2023-08-07T19:58:52.510Z,18.0538333333333,-67.1041666666667,20.08,2.54,md,15,127,0.04746,0.13,pr,pr71420763,2023-08-07T20:13:29.350Z,"3 km WNW of Palmarejo, Puerto Rico",earthquake,0.39,0.41,0.0925987981898602,9,reviewed,pr,pr
 2023-08-07T19:55:09.730Z,48.86683333333333,-121.68316666666666,1.7,1.94,ml,2,357,0.01459,0.02,uw,uw61939242,2023-08-07T21:10:15.090Z,"19 km E of Glacier, Washington",earthquake,8.43,0.43,0.07242501123032452,1,reviewed,uw,uw
 2023-08-07T19:50:29.527Z,61.825,-150.9813,70,1.8,ml,,,,0.41,ak,ak023a2ib0q0,2023-08-07T19:52:34.452Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T19:33:49.750Z,48.838,-121.8025,21.84,1.45,ml,6,202,0.08426,0.43,uw,uw61939222,2023-08-08T06:37:03.250Z,"11 km ESE of Glacier, Washington",earthquake,2,3.63,0.1532705836713435,5,reviewed,uw,uw
