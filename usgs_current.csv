@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T23:32:58.310Z,36.1113333,-117.8568333,3.57,1.25,ml,10,149,0.006435,0.26,ci,ci40533784,2023-08-10T23:36:30.899Z,"11 km NE of Coso Junction, CA",earthquake,1.08,0.76,0.199,4,automatic,ci,ci
+2023-08-10T23:29:51.816Z,64.6876,-149.2656,17.5,0.7,ml,,,,0.52,ak,ak023a7j6cb1,2023-08-10T23:31:39.475Z,"11 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-10T23:00:56.930Z,34.1618333,-117.4606667,10.84,1.09,ml,19,95,0.04124,0.12,ci,ci40533760,2023-08-10T23:09:44.137Z,"7 km N of Fontana, CA",earthquake,0.28,0.4,0.148,13,reviewed,ci,ci
 2023-08-10T22:49:04.081Z,0.1276,97.3338,10,4.5,mb,27,180,1.193,0.51,us,us6000kz5i,2023-08-10T23:14:44.040Z,"Nias region, Indonesia",earthquake,8.85,1.959,0.136,16,reviewed,us,us
 2023-08-10T22:44:38.740Z,33.6791667,-116.7611667,13.31,0.82,ml,26,110,0.05386,0.14,ci,ci40533744,2023-08-10T23:05:39.687Z,"8 km SSW of Idyllwild, CA",earthquake,0.29,0.45,0.14,16,reviewed,ci,ci
@@ -21,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T21:24:06.750Z,17.9271,-66.9471,11,3.39,md,21,219,0.0832,0.1,pr,pr2023222002,2023-08-10T22:15:00.914Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.75,0.41,0.19,17,reviewed,pr,pr
 2023-08-10T21:21:05.160Z,41.6116667,-112.2025,3.72,1.24,md,13,52,0.03892,0.21,uu,uu60033604,2023-08-10T21:44:28.780Z,"6 km W of Bear River City, Utah",earthquake,0.47,1.62,0.434,3,reviewed,uu,uu
 2023-08-10T21:20:41.080Z,41.6061667,-112.1976667,4.68,1.23,md,13,51,0.03979,0.14,uu,uu60547367,2023-08-10T21:45:01.970Z,"5 km W of Bear River City, Utah",earthquake,0.39,1.56,0.166,6,reviewed,uu,uu
+2023-08-10T21:17:30.450Z,37.5791667,-118.8456667,-0.51,0.52,md,10,251,0.01705,0.03,nc,nc73922651,2023-08-10T23:35:48.423Z,"13 km ESE of Mammoth Lakes, CA",earthquake,0.89,0.31,0.198,9,reviewed,nc,nc
 2023-08-10T21:10:37.164Z,58.2039,-155.5527,34.8,0.8,ml,,,,0.78,ak,ak023a7hvdd0,2023-08-10T21:12:26.668Z,"84 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T21:07:39.696Z,61.2554,-147.4066,25.8,1.4,ml,,,,0.72,ak,ak023a7huqep,2023-08-10T21:09:36.882Z,"58 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-10T21:06:08.730Z,19.2369995117188,-155.38200378418,30.6299991607666,2.08,ml,37,146,,0.119999997,hv,hv73518957,2023-08-10T21:11:40.120Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,1.07000005,0.2,4,automatic,hv,hv
@@ -34,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:52:28.330Z,19.4333324432373,-155.352005004883,3.63000011444092,1.73000002,md,10,122,,0.370000005,hv,hv73518847,2023-08-10T19:55:36.350Z,"12 km W of Volcano, Hawaii",earthquake,1.23,9.68999958,0.980000019,6,automatic,hv,hv
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
 2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-10T23:31:18.333Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
