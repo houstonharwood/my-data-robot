@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T20:40:50.507Z,61.539,-147.1394,0,1.2,ml,,,,0.76,ak,ak023a94zqre,2023-08-11T20:42:52.402Z,"40 km SE of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-11T20:39:50.943Z,58.2091,-155.1779,47.8,0.5,ml,,,,0.67,ak,ak023a94zj2u,2023-08-11T20:42:12.003Z,"83 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-11T20:19:20.160Z,35.6791667,-117.5566667,7.04,1.15,ml,14,131,0.1092,0.18,ci,ci40534640,2023-08-11T20:23:02.467Z,"13 km ENE of Ridgecrest, CA",earthquake,0.42,1.09,0.165,10,automatic,ci,ci
-2023-08-11T20:15:43.330Z,18.8369998931885,-155.164001464844,16.5599994659424,3.24,ml,51,262,,0.170000002,hv,hv73520172,2023-08-11T20:37:18.305Z,"50 km ESE of Naalehu, Hawaii",earthquake,1.16,16.7600002,2.79,27,automatic,hv,hv
+2023-08-11T20:15:43.330Z,18.8369998931885,-155.164001464844,16.5599994659424,3.24,ml,51,262,,0.170000002,hv,hv73520172,2023-08-11T21:10:20.985Z,"50 km ESE of Naalehu, Hawaii",earthquake,1.16,16.7600002,2.79,27,automatic,hv,hv
 2023-08-11T20:00:58.940Z,32.817,-117.0638333,2.71,1.06,ml,15,113,0.07064,0.22,ci,ci40534592,2023-08-11T20:04:33.582Z,"7 km NW of La Mesa, CA",earthquake,1.03,2.36,0.157,6,automatic,ci,ci
 2023-08-11T19:48:20.924Z,60.7912,-151.7628,73.8,2.5,ml,,,,0.22,ak,ak023a94fylo,2023-08-11T19:49:43.944Z,"28 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-11T19:19:49.954Z,38.1408,-118.1951,4.9,1.2,ml,8,127.42,0.175,0.1658,nn,nn00864327,2023-08-11T20:19:02.262Z,"28 km SSW of Mina, Nevada",earthquake,,2.9,0.26,5,reviewed,nn,nn
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T12:13:56.670Z,19.1493339538574,-155.503005981445,32.1399993896484,2.39,ml,45,142,,0.119999997,hv,hv73519592,2023-08-11T12:30:47.040Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.51,0.769999981,3.77,15,automatic,hv,hv
 2023-08-11T12:12:36.930Z,34.141,-117.411,6.74,0.91,ml,31,81,0.04731,0.16,ci,ci40534128,2023-08-11T17:53:54.044Z,"5 km NW of Rialto, CA",earthquake,0.28,0.47,0.237,18,reviewed,ci,ci
 2023-08-11T12:02:25.440Z,36.6238333,-121.0766667,12.24,1.12,md,23,172,0.05422,0.15,nc,nc73922951,2023-08-11T18:59:18.899Z,"12 km NNE of Pinnacles, CA",earthquake,0.62,0.88,0.217,17,reviewed,nc,nc
-2023-08-11T12:02:19.300Z,34.1396667,-117.4218333,6.96,2.48,ml,125,16,0.04239,0.19,ci,ci40534112,2023-08-11T17:48:12.220Z,"6 km NE of Fontana, CA",earthquake,0.11,0.29,0.154,24,reviewed,ci,ci
+2023-08-11T12:02:19.300Z,34.1396667,-117.4218333,6.96,2.48,ml,125,16,0.04239,0.19,ci,ci40534112,2023-08-11T21:10:01.089Z,"6 km NE of Fontana, CA",earthquake,0.11,0.29,0.154,24,reviewed,ci,ci
 2023-08-11T11:56:30.330Z,19.1686668395996,-155.501159667969,36.9700012207031,1.78999996,md,34,144,,0.100000001,hv,hv73519577,2023-08-11T11:59:33.810Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.860000014,1.78999996,4,automatic,hv,hv
 2023-08-11T11:48:54.814Z,61.1346,-141.7886,0.4,1.4,ml,,,,0.59,ak,ak023a8zokdl,2023-08-11T11:50:56.547Z,"69 km ESE of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-11T11:44:52.724Z,39.4561,-120.3225,10.2,0.3,ml,6,169.74,0.031,0.1457,nn,nn00864319,2023-08-11T17:28:47.081Z,"15 km SSE of Sierraville, California",earthquake,,1.8,0.2,3,reviewed,nn,nn
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T21:21:05.160Z,41.6116667,-112.2025,3.72,1.24,md,13,52,0.03892,0.21,uu,uu60033604,2023-08-10T21:44:28.780Z,"6 km W of Bear River City, Utah",earthquake,0.47,1.62,0.434,3,reviewed,uu,uu
 2023-08-10T21:20:41.080Z,41.6061667,-112.1976667,4.68,1.23,md,13,51,0.03979,0.14,uu,uu60547367,2023-08-10T21:45:01.970Z,"5 km W of Bear River City, Utah",earthquake,0.39,1.56,0.166,6,reviewed,uu,uu
 2023-08-10T21:17:30.450Z,37.5791667,-118.8456667,-0.51,0.52,md,10,251,0.01705,0.03,nc,nc73922651,2023-08-10T23:49:16.273Z,"13 km ESE of Mammoth Lakes, CA",earthquake,0.89,0.31,0.198,9,reviewed,nc,nc
-2023-08-10T21:10:37.164Z,58.2039,-155.5527,34.8,0.8,ml,,,,0.78,ak,ak023a7hvdd0,2023-08-11T02:31:27.470Z,"84 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
