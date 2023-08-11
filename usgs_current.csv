@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-11T23:15:01.550Z,33.2345,-116.4495,9.58,0.62,ml,9,139,0.04317,0.23,ci,ci40534848,2023-08-11T23:18:42.188Z,"7 km WSW of Borrego Springs, CA",earthquake,1.36,0.91,0.191,11,automatic,ci,ci
+2023-08-11T23:15:03.810Z,33.3631667,-116.3968333,4.04,0.49,ml,11,88,0.04403,0.15,ci,ci40534848,2023-08-11T23:26:00.232Z,"12 km N of Borrego Springs, CA",earthquake,0.48,31.61,0.11,9,reviewed,ci,ci
 2023-08-11T23:05:08.035Z,63.1226,-148.5935,65.8,1.1,ml,,,,0.38,ak,ak023a96kg8j,2023-08-11T23:06:36.445Z,"34 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-11T22:50:28.750Z,35.0338333,-119.228,18.17,1.21,ml,15,106,0.1785,0.24,ci,ci40534816,2023-08-11T22:54:22.348Z,"16 km E of Maricopa, CA",earthquake,0.57,1.22,0.207,15,automatic,ci,ci
+2023-08-11T22:50:28.600Z,35.0446667,-119.2298333,16.26,1.12,ml,16,123,0.1831,0.13,ci,ci40534816,2023-08-11T23:23:43.223Z,"16 km E of Maricopa, CA",earthquake,0.33,1.09,0.126,10,reviewed,ci,ci
 2023-08-11T22:43:42.320Z,32.4283333,-115.4853333,11.07,2.7,ml,37,56,0.1361,0.26,ci,ci40534808,2023-08-11T23:21:28.280Z,"19 km SSE of Progreso, B.C., MX",earthquake,0.27,0.73,0.235,25,reviewed,ci,ci
 2023-08-11T22:39:10.940Z,38.8289986,-122.8113327,0.96,0.31,md,8,89,0.005681,0.02,nc,nc73923176,2023-08-11T22:58:13.289Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.43,0.2,7,automatic,nc,nc
 2023-08-11T22:30:08.590Z,33.3046667,-115.6743333,7.77,1.67,ml,42,80,0.0687,0.21,ci,ci40534800,2023-08-11T23:14:19.150Z,"7 km SE of Bombay Beach, CA",earthquake,0.26,0.54,0.13,22,reviewed,ci,ci
@@ -157,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T06:00:37.620Z,19.4026660919189,-155.273666381836,0.949999988079071,1.78,ml,15,58,,0.0900000036,hv,hv73519257,2023-08-11T06:06:07.520Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.289999992,0.23,8,automatic,hv,hv
 2023-08-11T06:00:33.300Z,19.3991661071777,-155.281997680664,0.430000007152557,1.7,ml,9,147,,0.180000007,hv,hv73519252,2023-08-11T06:06:04.040Z,"Island of Hawaii, Hawaii",earthquake,0.49,0.379999995,0.23,7,automatic,hv,hv
 2023-08-11T05:57:37.640Z,58.2518333333333,-155.129833333333,29.88,-0.4,ml,11,94,,0.18,av,av91996991,2023-08-11T22:45:16.120Z,"85 km NNW of Karluk, Alaska",earthquake,0.65,1.19,0.30021335609787,11,reviewed,av,av
+2023-08-11T05:41:10.510Z,58.2653333333333,-155.073333333333,31.26,-0.1,ml,8,109,,0.16,av,av91113128,2023-08-11T23:29:42.430Z,"85 km NNW of Karluk, Alaska",earthquake,0.77,1.21,0.117170761946245,7,reviewed,av,av
 2023-08-11T05:40:49.550Z,58.249,-155.106333333333,31.46,-0.04,ml,8,99,,0.1,av,av91113123,2023-08-11T23:22:44.220Z,"85 km NNW of Karluk, Alaska",earthquake,0.63,0.9,0.163826995878491,7,reviewed,av,av
 2023-08-11T05:40:30.440Z,58.2456666666667,-155.104833333333,32.28,-0.08,ml,8,109,,0.08,av,av91113118,2023-08-11T23:15:11.620Z,"84 km NNW of Karluk, Alaska",earthquake,0.69,0.7,0.269597613906161,7,reviewed,av,av
 2023-08-11T05:39:55.710Z,58.2625,-155.125333333333,32.62,0.39,ml,14,94,,0.15,av,av91996971,2023-08-11T23:01:40.770Z,"Alaska Peninsula",earthquake,0.54,0.72,0.321175554918079,14,reviewed,av,av
@@ -253,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T23:37:54.230Z,32.3778333,-115.1205,15.19,1.29,ml,16,70,0.07074,0.27,ci,ci40533792,2023-08-11T00:42:27.684Z,"7 km ENE of Delta, B.C., MX",earthquake,0.54,0.86,0.039,1,reviewed,ci,ci
 2023-08-10T23:32:58.130Z,36.1211667,-117.88,3.5,1.11,ml,13,131,0.02067,0.1,ci,ci40533784,2023-08-11T00:15:00.050Z,"10 km NE of Coso Junction, CA",earthquake,0.31,0.23,0.087,3,reviewed,ci,ci
 2023-08-10T23:32:34.240Z,36.1175,-117.875,3.87,1.28,ml,9,202,0.01631,0.07,ci,ci37528301,2023-08-11T00:18:41.851Z,"10 km NE of Coso Junction, CA",earthquake,0.32,0.27,0.219,4,reviewed,ci,ci
-2023-08-10T23:29:51.816Z,64.6876,-149.2656,17.5,0.7,ml,,,,0.52,ak,ak023a7j6cb1,2023-08-10T23:31:39.475Z,"11 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
