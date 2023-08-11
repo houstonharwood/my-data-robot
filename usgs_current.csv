@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T13:38:07.850Z,58.2247,-155.0774,1.1,0.3,ml,,,,0.2,ak,ak023a90t6sx,2023-08-11T13:40:04.594Z,"Alaska Peninsula",earthquake,,2.6,,,automatic,ak,ak
 2023-08-11T13:34:11.110Z,19.2511672973633,-155.393493652344,31.6900005340576,1.99000001,md,36,152,,0.100000001,hv,hv73519672,2023-08-11T13:37:20.830Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.699999988,0.99000001,3,automatic,hv,hv
 2023-08-11T13:30:42.850Z,19.4063339233398,-155.283340454102,1.13999998569489,2.01999998,md,18,43,,0.109999999,hv,hv73519667,2023-08-11T13:33:43.740Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.230000004,0.819999993,12,automatic,hv,hv
-2023-08-11T13:22:04.640Z,38.8204994,-122.8249969,1.96,0.57,md,6,93,0.008261,0,nc,nc73922966,2023-08-11T13:23:40.699Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.14,0.16,8,automatic,nc,nc
+2023-08-11T13:22:04.640Z,38.8204994,-122.8249969,1.96,0.57,md,6,93,0.008261,0,nc,nc73922966,2023-08-11T13:41:14.160Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.14,0.16,8,automatic,nc,nc
 2023-08-11T13:20:28.491Z,61.3002,-152.5027,6.1,1.6,ml,,,,0.34,ak,ak023a90pdi9,2023-08-11T13:22:03.365Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-11T13:20:08.517Z,38.6798,142.5387,58.495,4.9,mb,34,133,2.394,0.71,us,us6000kz8m,2023-08-11T13:39:54.040Z,"83 km ESE of Ōfunato, Japan",earthquake,6.88,5.981,0.132,21,reviewed,us,us
 2023-08-11T12:58:43.451Z,60.0292,-153.4059,166.1,1.6,ml,,,,0.51,ak,ak023a90c49l,2023-08-11T13:01:03.344Z,"47 km NE of Pedro Bay, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:47:53.880Z,46.203,-122.18816666666666,5.44,0.05,ml,12,91,0.003358,0.17,uw,uw61949026,2023-08-11T00:17:51.600Z,"38 km NNE of Amboy, Washington",earthquake,0.52,0.85,0.10241233328329387,6,reviewed,uw,uw
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
 2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-11T12:58:10.389Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T14:18:47.660Z,60.1522,-152.8303,113.6,1.2,ml,,,,0.51,ak,ak023a7dr2ny,2023-08-10T14:21:00.672Z,"65 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-10T14:16:13.430Z,33.6691667,-116.7166667,15.29,0.77,ml,14,85,0.03575,0.08,ci,ci37528293,2023-08-10T21:55:38.959Z,"8 km S of Idyllwild, CA",earthquake,0.32,0.47,0.107,14,reviewed,ci,ci
 2023-08-10T14:16:12.560Z,33.6675,-116.7156667,15.21,0.66,ml,18,84,0.03495,0.07,ci,ci40533208,2023-08-10T21:55:39.453Z,"8 km S of Idyllwild, CA",earthquake,0.24,0.33,0.052,5,reviewed,ci,ci
-2023-08-10T13:44:09.386Z,62.5102,-148.3598,45.9,1.1,ml,,,,0.69,ak,ak023a7db4q2,2023-08-10T13:46:16.232Z,"79 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
