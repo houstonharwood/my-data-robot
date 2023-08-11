@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-11T02:50:15.800Z,36.0526657,-120.6210022,3.05,1.83,md,24,76,0.02576,0.09,nc,nc73922776,2023-08-11T02:52:17.851Z,"24 km NW of Parkfield, CA",earthquake,0.28,0.68,0.12,14,automatic,nc,nc
+2023-08-11T02:50:15.800Z,36.0526657,-120.6210022,3.05,1.83,md,24,76,0.02576,0.09,nc,nc73922776,2023-08-11T02:59:13.426Z,"24 km NW of Parkfield, CA",earthquake,0.28,0.68,0.12,14,automatic,nc,nc
 2023-08-11T02:46:15.947Z,60.0342,-153.2205,123.3,1.4,ml,,,,0.25,ak,ak023a8ub5i2,2023-08-11T02:48:32.842Z,"56 km ENE of Pedro Bay, Alaska",earthquake,,4,,,automatic,ak,ak
 2023-08-11T02:36:38.541Z,60.5199,-151.1869,20,1.8,ml,,,,0.37,ak,ak023a8u9232,2023-08-11T02:38:06.195Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-11T02:31:12.185Z,58.1769,-155.4222,0,0,ml,,,,0.41,ak,ak023a8u7xgy,2023-08-11T02:32:18.001Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
@@ -126,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T15:33:15.980Z,58.2675,-155.1455,33.86,0.31,ml,12,89,,0.16,av,av91112933,2023-08-11T00:20:38.580Z,"87 km NNW of Karluk, Alaska",earthquake,0.7,0.8,0.36404964276708,11,reviewed,av,av
 2023-08-10T15:32:45.590Z,19.9624996185303,-155.613327026367,18.7000007629395,2.72000003,md,28,164,,0.209999993,hv,hv73518522,2023-08-10T16:41:48.896Z,"9 km SE of Waimea, Hawaii",earthquake,0.79,2.03999996,2.79999995,4,automatic,hv,hv
 2023-08-10T15:30:24.869Z,58.269,-155.1226,38.4,0.2,ml,,,,0.39,ak,ak023a7ef13q,2023-08-11T00:01:10.710Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-08-10T15:29:57.910Z,58.2651666666667,-155.1265,31.67,-0.45,ml,7,149,,0.04,av,av91112928,2023-08-11T00:07:08.940Z,"Alaska Peninsula",earthquake,0.74,0.6,0.146297685801332,6,reviewed,av,av
+2023-08-10T15:29:57.910Z,58.2651666666667,-155.1265,31.67,-0.45,ml,7,149,,0.04,av,av91112928,2023-08-11T00:07:08.940Z,"87 km NNW of Karluk, Alaska",earthquake,0.74,0.6,0.146297685801332,6,reviewed,av,av
 2023-08-10T15:29:42.060Z,38.8095016,-122.8141632,3.43,0.91,md,23,55,0.01175,0.02,nc,nc73922526,2023-08-10T16:03:14.608Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.51,0.33,22,automatic,nc,nc
 2023-08-10T15:29:18.980Z,58.2505,-155.1065,29.85,0.09,ml,12,99,,0.09,av,av91112913,2023-08-10T23:51:32.060Z,"85 km NNW of Karluk, Alaska",earthquake,0.46,0.62,0.306530460627664,11,reviewed,av,av
 2023-08-10T15:12:34.850Z,58.9596,-149.0951,35,1.9,ml,,,,0.52,ak,ak023a7eb6um,2023-08-10T15:15:08.729Z,"125 km S of Lowell Point, Alaska",earthquake,,22.3,,,automatic,ak,ak
@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T10:15:22.900Z,33.3355,-116.2995,10.56,0.74,ml,41,83,0.1192,0.21,ci,ci40533056,2023-08-10T20:03:24.691Z,"11 km NE of Borrego Springs, CA",earthquake,0.23,0.51,0.226,12,reviewed,ci,ci
 2023-08-10T10:13:31.990Z,33.1455,-115.9806667,5.81,2.06,ml,74,29,0.02802,0.22,ci,ci40533048,2023-08-10T19:41:59.400Z,"14 km E of Ocotillo Wells, CA",earthquake,0.15,0.51,0.201,25,reviewed,ci,ci
 2023-08-10T09:58:46.000Z,38.7948341,-122.8115005,3.47,0.72,md,8,99,0.009254,0.01,nc,nc73922466,2023-08-10T11:14:13.958Z,"5 km WNW of The Geysers, CA",earthquake,0.57,1.57,0.08,9,automatic,nc,nc
-2023-08-10T09:56:46.500Z,44.5185,-115.218666666667,5.48,2.66,ml,44,94,0.6392,0.27,mb,mb90024168,2023-08-10T17:10:26.870Z,"southern Idaho",earthquake,0.41,0.82,0.184719462293854,38,reviewed,mb,mb
+2023-08-10T09:56:46.500Z,44.5185,-115.218666666667,5.48,2.66,ml,44,94,0.6392,0.27,mb,mb90024168,2023-08-10T17:10:26.870Z,"40 km NW of Stanley, Idaho",earthquake,0.41,0.82,0.184719462293854,38,reviewed,mb,mb
 2023-08-10T09:51:51.620Z,58.2568333333333,-155.099666666667,4.35,0.56,ml,15,94,,0.21,av,av91112873,2023-08-10T22:35:19.940Z,"85 km NNW of Karluk, Alaska",earthquake,0.4,0.68,0.205164064301137,15,reviewed,av,av
 2023-08-10T09:50:51.859Z,35.44433333,-98.05566667,6.8,1.38,ml,34,68,0.02969417299,0.34,ok,ok2023ponr,2023-08-10T18:01:37.145Z,"11 km WNW of Union City, Oklahoma",earthquake,,0.7,0.07,3,reviewed,ok,ok
 2023-08-10T09:40:25.060Z,60.5298,-141.235,28.1,1.2,ml,,,,0.59,ak,ak023a7awkne,2023-08-10T09:41:50.949Z,"135 km SE of McCarthy, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -217,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T07:04:44.872Z,38.5421,-118.1431,3,1,ml,4,142.25,0.406,0.1665,nn,nn00864256,2023-08-10T17:15:26.040Z,"17 km N of Mina, Nevada",earthquake,,4.7,0.09,3,reviewed,nn,nn
 2023-08-10T06:58:38.277Z,-5.6413,133.8409,10,5.1,mb,45,109,3.136,0.94,us,us6000kz0u,2023-08-10T07:12:55.040Z,"120 km E of Tual, Indonesia",earthquake,5.32,1.859,0.085,45,reviewed,us,us
 2023-08-10T06:57:32.033Z,57.2033,-155.1314,0,1.7,ml,,,,0.53,ak,ak023a797xjn,2023-08-10T06:59:07.123Z,"57 km SW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-10T18:20:39.405Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
+2023-08-10T06:53:10.080Z,36.8736649,-121.6139984,5.25,2.7,md,57,42,,0.15,nc,nc73922426,2023-08-11T03:01:13.592Z,"3 km ESE of Aromas, CA",earthquake,0.23,0.43,0.1,70,automatic,nc,nc
 2023-08-10T06:48:51.816Z,6.4872,126.3356,68.234,4.9,mb,56,96,0.948,0.9,us,us6000kz0s,2023-08-10T07:03:19.040Z,"22 km NE of Pondaguitan, Philippines",earthquake,8.89,7.427,0.084,45,reviewed,us,us
 2023-08-10T06:48:30.828Z,36.7537,-116.2575,8.8,-0.3,ml,7,224.16,0.019,0.039,nn,nn00864246,2023-08-10T13:47:32.913Z,"California-Nevada border region",earthquake,,3,0,1,reviewed,nn,nn
 2023-08-10T06:46:38.450Z,34.466,-118.6941667,8.66,1.04,ml,27,44,0.04953,0.23,ci,ci40533016,2023-08-10T15:42:56.691Z,"7 km WSW of Castaic, CA",earthquake,0.29,0.86,0.14,13,reviewed,ci,ci
