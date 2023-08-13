@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T20:46:45.996Z,36.7633,-116.254,11.2,0.3,ml,15,95.91,0.048,0.1199,nn,nn00864410,2023-08-13T20:48:49.423Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.24,10,automatic,nn,nn
 2023-08-13T20:43:58.770Z,38.7963333,-122.7513351,2.08,0.39,md,6,133,0.01736,0.01,nc,nc73923766,2023-08-13T21:08:11.207Z,"2 km NNE of The Geysers, CA",earthquake,0.47,2.24,0.18,8,automatic,nc,nc
 2023-08-13T20:29:30.224Z,64.4792,-149.4265,15.2,2.4,ml,,,,0.53,ak,ak023acg01b2,2023-08-13T20:49:31.040Z,"18 km WSW of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-13T20:29:07.003Z,63.8649,-22.902,10,4.5,mb,30,112,1.121,0.87,us,us6000kzr9,2023-08-13T21:23:54.071Z,"Iceland region",earthquake,5.39,1.75,0.106,26,reviewed,us,us
+2023-08-13T20:29:07.003Z,63.8649,-22.902,10,4.5,mb,30,112,1.121,0.87,us,us6000kzr9,2023-08-13T21:29:05.760Z,"Iceland region",earthquake,5.39,1.75,0.106,26,reviewed,us,us
 2023-08-13T20:04:33.800Z,33.4648333,-116.8928333,11.31,2.16,ml,80,28,0.08031,0.24,ci,ci40536080,2023-08-13T20:15:20.310Z,"4 km NW of Aguanga, CA",earthquake,0.21,0.69,0.2,26,automatic,ci,ci
 2023-08-13T19:46:02.150Z,61.587,-146.3141,30.3,1.7,ml,,,,0.43,ak,ak023acfi6pj,2023-08-13T19:47:40.219Z,"50 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-13T19:40:39.171Z,53.2223,-164.0385,24.6,2.1,ml,,,,0.36,ak,ak023acfh0j4,2023-08-13T20:49:33.011Z,"153 km SE of Akutan, Alaska",earthquake,,3.8,,,reviewed,ak,ak
@@ -57,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T14:37:56.800Z,58.1678333333333,-155.386833333333,2.12,-0.39,ml,6,140,,0.06,av,av91999976,2023-08-13T20:23:59.040Z,"86 km NW of Karluk, Alaska",earthquake,0.29,0.96,0.134965516133366,6,reviewed,av,av
 2023-08-13T14:21:43.643Z,60.2156,-150.5822,40.3,1.9,ml,,,,0.41,ak,ak023accdqzg,2023-08-13T14:23:31.562Z,"33 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-13T14:18:39.720Z,33.329,-116.3471667,10.51,0.84,ml,27,122,0.08434,0.22,ci,ci40535856,2023-08-13T14:22:19.222Z,"8 km NNE of Borrego Springs, CA",earthquake,0.4,0.75,0.167,17,automatic,ci,ci
-2023-08-13T14:14:38.580Z,53.8555,-166.803,5.38,-0.53,ml,5,128,,0.06,av,av91999936,2023-08-13T20:20:15.810Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.34,0.95,0.212149390123475,5,reviewed,av,av
+2023-08-13T14:14:38.580Z,53.8555,-166.803,5.38,-0.53,ml,5,128,,0.06,av,av91999936,2023-08-13T20:20:15.810Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.95,0.212149390123475,5,reviewed,av,av
 2023-08-13T14:11:27.920Z,53.8538333333333,-166.801166666667,4.32,-0.42,ml,6,89,,0.12,av,av91999926,2023-08-13T20:17:20.210Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.63,2.24,0.268345997517758,6,reviewed,av,av
 2023-08-13T14:06:50.440Z,19.3705005645752,-155.081329345703,3.42000007629395,1.81,ml,42,128,,0.340000004,hv,hv73523142,2023-08-13T14:12:19.210Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.72,0.800000012,3.74,6,automatic,hv,hv
 2023-08-13T14:01:12.520Z,59.6361,-153.9847,19.5,1.9,ml,,,,0.32,ak,ak023acc9e9g,2023-08-13T14:02:33.765Z,"18 km SSE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T21:53:05.980Z,19.179666519165,-155.467498779297,35.0800018310547,1.85000002,md,31,108,,0.100000001,hv,hv73522007,2023-08-12T21:56:13.710Z,"Island of Hawaii, Hawaii",earthquake,0.8,1.13999999,1.25999999,8,automatic,hv,hv
 2023-08-12T21:52:12.240Z,-3.1994,-75.744,126.786,4.4,mb,40,111,2.84,0.53,us,us6000kzlz,2023-08-12T22:10:00.040Z,"82 km ENE of Alianza Cristiana, Peru",earthquake,10.23,9.67,0.09,36,reviewed,us,us
 2023-08-12T21:40:18.730Z,17.7446666666667,-66.2855,19.55,2.98,md,7,225,0.5736,0.16,pr,pr71421403,2023-08-12T23:58:09.416Z,"Puerto Rico region",earthquake,1.51,2.76,0.067101001930105,3,reviewed,pr,pr
-2023-08-12T21:29:03.510Z,47.61066666666667,-121.80466666666666,16.63,1.08,ml,10,127,0.1014,0.1,uw,uw61940902,2023-08-13T17:22:57.240Z,"7 km NE of Fall City, Washington",earthquake,0.43,0.76,0.3394245157449476,6,reviewed,uw,uw
