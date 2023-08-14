@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T07:09:15.270Z,19.4015,-155.276,0.96,0.57,md,18,46,,0.08,hv,hv73524632,2023-08-14T09:37:47.340Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.22,0.0660326891024144,4,reviewed,hv,hv
 2023-08-14T07:05:39.120Z,19.4031666666667,-155.2785,0.65,0.67,md,18,37,,0.11,hv,hv73524627,2023-08-14T09:32:35.860Z,"6 km SW of Volcano, Hawaii",earthquake,0.13,0.21,0.0390353983014467,2,reviewed,hv,hv
 2023-08-14T06:59:05.310Z,19.4008333333333,-155.278,0.87,0.86,md,13,51,,0.06,hv,hv73524612,2023-08-14T07:16:00.960Z,"Island of Hawaii, Hawaii",earthquake,0.14,0.3,0.289990569058825,2,reviewed,hv,hv
-2023-08-14T06:56:37.180Z,19.3988333333333,-155.270333333333,1.76,0.54,md,15,54,,0.16,hv,hv73524607,2023-08-14T08:24:18.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.38,0.167775951278295,3,reviewed,hv,hv
+2023-08-14T06:56:37.180Z,19.3988333333333,-155.270333333333,1.76,0.54,md,15,54,,0.16,hv,hv73524607,2023-08-14T08:24:18.820Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.38,0.167775951278295,3,reviewed,hv,hv
 2023-08-14T06:53:07.763Z,61.3327,-152.5346,14.6,1,ml,,,,0.48,ak,ak023advces8,2023-08-14T06:54:36.988Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T06:49:11.980Z,38.7755013,-122.7148361,2.24,0.91,md,7,94,0.01419,0.02,nc,nc73923921,2023-08-14T07:48:11.866Z,"2 km W of Anderson Springs, CA",earthquake,1.43,2.32,0.21,7,automatic,nc,nc
 2023-08-14T06:48:41.450Z,19.3983333333333,-155.272166666667,0.84,0.56,md,19,39,,0.11,hv,hv73524592,2023-08-14T07:02:22.660Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.2,0.0459519779355473,3,reviewed,hv,hv
@@ -194,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T13:54:43.719Z,37.132,-116.2376,4.4,0,ml,8,148.03,0.108,0.1319,nn,nn00864393,2023-08-13T13:56:32.878Z,"52 km ENE of Beatty, Nevada",earthquake,,12.4,0.78,5,automatic,nn,nn
 2023-08-13T13:52:05.710Z,53.851,-166.79,-0.83,-0.54,ml,4,138,,0.12,av,av91999906,2023-08-13T20:14:28.750Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.5,10.75,0.19233892564623,5,reviewed,av,av
 2023-08-13T13:47:19.961Z,58.1742,-155.3824,1.1,0.5,ml,,,,0.17,ak,ak023acbxu64,2023-08-13T20:11:30.410Z,"87 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-08-13T13:39:56.760Z,53.8546666666667,-166.801,5.44,-0.46,ml,5,126,,0.07,av,av91113183,2023-08-13T20:09:04.220Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.37,1.01,0.179668924466823,5,reviewed,av,av
+2023-08-13T13:39:56.760Z,53.8546666666667,-166.801,5.44,-0.46,ml,5,126,,0.07,av,av91113183,2023-08-13T20:09:04.220Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.37,1.01,0.179668924466823,5,reviewed,av,av
 2023-08-13T13:39:30.880Z,53.854,-166.801166666667,4.71,-0.31,ml,6,125,,0.09,av,av91999891,2023-08-13T20:06:57.350Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.9,0.288322870397285,6,reviewed,av,av
 2023-08-13T13:37:06.134Z,-57.984,-25.6997,51.871,4.8,mb,23,69,16.64,0.84,us,us6000kzpw,2023-08-13T14:58:36.040Z,"South Sandwich Islands region",earthquake,11.07,8.065,0.124,20,reviewed,us,us
 2023-08-13T13:33:59.659Z,36.8521,-116.1993,4,-0.3,ml,11,134.32,0.066,0.1138,nn,nn00864408,2023-08-14T02:04:03.802Z,"50 km E of Beatty, Nevada",earthquake,,3,0.42,5,reviewed,nn,nn
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T12:08:42.891Z,58.1849,-155.2929,0,0.5,ml,,,,0.76,ak,ak023acb43fj,2023-08-13T13:19:36.770Z,"84 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-08-13T12:06:21.870Z,21.6794,120.9855,10,4.7,mb,70,95,1.136,0.62,us,us6000kzpj,2023-08-13T12:25:25.040Z,"43 km SE of Hengchun, Taiwan",earthquake,7.61,1.868,0.065,73,reviewed,us,us
 2023-08-13T11:57:45.970Z,58.233,-155.163333333333,1.4,-0.16,ml,6,140,,0.08,av,av91999791,2023-08-13T13:15:48.550Z,"85 km NNW of Karluk, Alaska",earthquake,0.31,1.67,0.19403864797646,6,reviewed,av,av
-2023-08-13T11:46:29.702Z,60.7444,-151.8664,76.6,1.7,ml,,,,0.53,ak,ak023acaqrzu,2023-08-13T11:48:19.027Z,"32 km W of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
