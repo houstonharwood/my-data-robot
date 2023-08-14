@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-14T22:14:36.155Z,57.258,-155.4118,143.1,3.7,ml,,,,0.84,ak,ak023ae4n1q7,2023-08-14T22:17:40.898Z,"Alaska Peninsula",earthquake,,9.8,,,automatic,ak,ak
+2023-08-14T22:14:36.155Z,57.258,-155.4118,143.1,3.7,ml,,,,0.84,ak,ak023ae4n1q7,2023-08-14T22:23:55.018Z,"Alaska Peninsula",earthquake,,9.8,,,automatic,ak,ak
 2023-08-14T22:11:39.380Z,33.6598333,-116.7643333,8.21,1.17,ml,15,99,0.06597,0.34,ci,ci40536984,2023-08-14T22:15:20.496Z,"10 km SSW of Idyllwild, CA",earthquake,0.82,1.68,0.409,18,automatic,ci,ci
 2023-08-14T21:51:45.794Z,60.9911,-146.5264,20.9,1.6,ml,,,,0.68,ak,ak023ae49kcz,2023-08-14T22:01:10.763Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-14T21:47:32.910Z,58.2425,-155.1998,1.7,0.3,ml,,,,0.31,ak,ak023ae48oi3,2023-08-14T21:49:29.326Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2023-08-14T21:40:47.790Z,37.4780006,-118.5563354,5.19,2.31,md,24,107,0.1124,0.04,nc,nc73924156,2023-08-14T21:45:11.672Z,"8 km NNE of Round Valley, CA",earthquake,0.39,2.06,0.17,26,automatic,nc,nc
+2023-08-14T21:40:47.790Z,37.4780006,-118.5563354,5.19,2.31,md,24,107,0.1124,0.04,nc,nc73924156,2023-08-14T22:27:11.886Z,"8 km NNE of Round Valley, CA",earthquake,0.39,2.06,0.17,26,automatic,nc,nc
 2023-08-14T21:26:04.150Z,34.2235,-117.4328333,9.05,1.09,ml,26,84,0.03115,0.28,ci,ci40536936,2023-08-14T21:41:38.621Z,"3 km W of Devore, CA",earthquake,0.52,0.86,0.148,21,automatic,ci,ci
 2023-08-14T21:25:34.770Z,33.7678333,-116.1378333,5.84,0.88,ml,23,72,0.07544,0.22,ci,ci40536928,2023-08-14T21:29:44.546Z,"9 km NE of Indio, CA",earthquake,0.48,1.46,0.134,21,automatic,ci,ci
 2023-08-14T21:23:27.042Z,58.2855,-155.0211,1.2,2,ml,,,,0.46,ak,ak023ae43d22,2023-08-14T21:25:34.899Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T13:31:16.928Z,59.9422,-151.063,33.1,3,ml,,,,0.85,ak,ak023adzdqwo,2023-08-14T18:00:33.440Z,"11 km NNW of Fox River, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-08-14T13:25:19.380Z,19.5611667633057,-155.115173339844,18.6299991607666,2.16000009,md,22,107,,0.0900000036,hv,hv73525052,2023-08-14T13:28:19.900Z,"Island of Hawaii, Hawaii",earthquake,0.54,1.25999999,0.720000029,3,automatic,hv,hv
 2023-08-14T13:22:14.750Z,51.7041,-172.7044,39.2,2.2,ml,,,,0.74,ak,ak023adzbum9,2023-08-14T17:31:22.245Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,5.1,,,reviewed,ak,ak
-2023-08-14T13:07:35.050Z,34.0825,-117.3003333,15.29,0.82,ml,23,51,0.1085,0.18,ci,ci40536424,2023-08-14T13:11:09.291Z,"2 km NE of Colton, CA",earthquake,0.35,0.55,0.187,15,automatic,ci,ci
+2023-08-14T13:07:34.820Z,34.088,-117.3006667,16.04,0.84,ml,22,100,0.1129,0.12,ci,ci40536424,2023-08-14T22:25:47.260Z,"2 km NE of Colton, CA",earthquake,0.24,0.53,0.152,13,reviewed,ci,ci
 2023-08-14T13:05:59.338Z,59.9371,-152.2228,60.4,1.6,ml,,,,0.15,ak,ak023adz89ml,2023-08-14T13:07:48.414Z,"27 km W of Happy Valley, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-08-14T12:45:30.760Z,62.4509,-151.3291,77.9,1.5,ml,,,,0.56,ak,ak023adyvcgk,2023-08-14T12:48:13.281Z,"29 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-14T12:40:48.350Z,19.4051666259766,-155.27116394043,0.00999999977648258,2.11,ml,20,48,,0.239999995,hv,hv73524997,2023-08-14T12:46:19.560Z,"5 km SW of Volcano, Hawaii",earthquake,0.24,0.310000002,0.22,11,automatic,hv,hv
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T22:38:06.120Z,58.1775,-155.291166666667,2.22,0.52,ml,9,98,,0.08,av,av92000391,2023-08-14T02:08:40.050Z,"Alaska Peninsula",earthquake,0.22,0.62,0.311677960216432,9,reviewed,av,av
 2023-08-13T22:30:12.200Z,38.824501,-122.8123322,1.48,0.92,md,19,43,0.002081,0.01,nc,nc73923816,2023-08-13T23:04:13.906Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.47,0.21,19,automatic,nc,nc
 2023-08-13T22:28:58.832Z,61.8355,-150.7069,45.1,1.6,ml,,,,0.3,ak,ak023ach6r0b,2023-08-13T22:30:30.524Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-13T22:24:49.290Z,19.3895,-155.282,1.45,1.8,md,16,69,,0.11,hv,hv73523857,2023-08-14T00:27:13.330Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.16,0.00967801825628234,3,reviewed,hv,hv
