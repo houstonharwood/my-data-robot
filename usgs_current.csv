@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-15T02:35:57.170Z,19.3966674804688,-155.279159545898,1.54999995231628,2.44000006,md,20,46,,0.200000003,hv,hv73526077,2023-08-15T02:39:06.470Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.280000001,0.629999995,17,automatic,hv,hv
+2023-08-15T02:35:57.170Z,19.3966674804688,-155.279159545898,1.54999995231628,2.23,ml,20,46,,0.200000003,hv,hv73526077,2023-08-15T02:41:28.740Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.280000001,1.78,13,automatic,hv,hv
 2023-08-15T02:32:59.680Z,19.3976669311523,-155.273498535156,0.330000013113022,2.11,ml,21,38,,0.289999992,hv,hv73526072,2023-08-15T02:38:28.550Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.25999999,0.28,10,automatic,hv,hv
 2023-08-15T02:32:08.720Z,19.3929996490479,-155.278167724609,1.11000001430511,1.89,ml,16,93,,0.109999999,hv,hv73526067,2023-08-15T02:37:39.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.170000002,0.22,9,automatic,hv,hv
 2023-08-15T02:30:19.346Z,55.924,-158.0448,12.7,1.4,ml,,,,0.31,ak,ak023afgd4kh,2023-08-15T02:32:22.658Z,"46 km SSE of Chignik, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -28,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T23:11:37.306Z,60.3269,-151.4705,38.8,1.4,ml,,,,0.69,ak,ak023ae57u9u,2023-08-14T23:13:17.624Z,"10 km WSW of Cohoe, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-08-14T23:05:23.378Z,61.4029,-150.0623,30.6,1.4,ml,,,,0.76,ak,ak023ae56iwh,2023-08-14T23:07:44.331Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-14T23:01:46.760Z,34.158,-117.4525,8.43,1.13,ml,28,89,0.04028,0.18,ci,ci40537000,2023-08-14T23:53:41.646Z,"7 km N of Fontana, CA",earthquake,0.3,0.6,0.202,13,reviewed,ci,ci
+2023-08-14T22:47:58.310Z,45.65833333333333,-118.938,-0.61,1.58,ml,5,109,0.2297,0.17,uw,uw61941307,2023-08-15T02:44:19.960Z,"11 km W of Pendleton, Oregon",explosion,0.49,31.61,0.09626272560512428,4,reviewed,uw,uw
 2023-08-14T22:32:57.640Z,40.043,-113.4311667,5.56,1.74,ml,14,83,0.3216,0.22,uu,uu60547607,2023-08-14T23:05:50.340Z,"61 km WSW of Dugway, Utah",earthquake,0.59,0.94,0.193,7,reviewed,uu,uu
 2023-08-14T22:28:26.860Z,40.1453323,-123.859169,19.29,2.03,md,16,132,0.0969,0.05,nc,nc73924166,2023-08-14T23:13:10.135Z,"4 km NW of Redway, CA",earthquake,0.47,0.41,0.05,7,automatic,nc,nc
 2023-08-14T22:15:55.650Z,53.7547,-164.464,39.758,4.2,mb,39,173,0.755,0.54,us,us6000kzz8,2023-08-14T23:15:13.040Z,"95 km ESE of Akutan, Alaska",earthquake,3.8,10.995,0.176,9,reviewed,us,us
