@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-16T11:03:39.590Z,33.7686667,-116.1496667,2.79,1.13,ml,33,70,0.06609,0.23,ci,ci40537976,2023-08-16T11:07:12.612Z,"8 km NE of Indio, CA",earthquake,0.36,0.66,0.116,27,automatic,ci,ci
 2023-08-16T10:52:43.750Z,35.4811667,-118.2921667,2.91,1.13,ml,15,110,0.2166,0.1,ci,ci40537968,2023-08-16T10:56:20.789Z,"22 km ESE of Bodfish, CA",earthquake,0.21,0.81,0.17,11,automatic,ci,ci
 2023-08-16T10:49:39.510Z,19.2070007324219,-155.406829833984,32.4900016784668,2.22,ml,33,167,,0.100000001,hv,hv73529272,2023-08-16T10:55:11.230Z,"7 km E of Pāhala, Hawaii",earthquake,1.01,0.790000021,0.18,6,automatic,hv,hv
 2023-08-16T10:32:06.846Z,-41.193,-83.7423,10,4.8,mb,51,210,7.966,0.55,us,us7000knnp,2023-08-16T10:51:29.040Z,"West Chile Rise",earthquake,12.03,1.965,0.09,38,reviewed,us,us
@@ -20,8 +21,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T08:13:50.530Z,33.7723333,-116.1493333,2.08,0.57,ml,15,115,0.06488,0.2,ci,ci40537920,2023-08-16T08:17:27.276Z,"8 km NE of Indio, CA",earthquake,0.49,0.78,0.06,7,automatic,ci,ci
 2023-08-16T08:12:44.530Z,33.7675,-116.137,4.12,0.78,ml,22,106,0.07621,0.2,ci,ci40537912,2023-08-16T08:16:21.810Z,"9 km NE of Indio, CA",earthquake,0.42,1.08,0.137,12,automatic,ci,ci
 2023-08-16T08:07:52.163Z,63.2356,-151.1208,0,1.2,ml,,,,0.42,ak,ak023ah7c7gw,2023-08-16T08:10:14.219Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-16T08:06:00.480Z,19.4015,-155.275333333333,1.16,0.47,md,15,48,,0.08,hv,hv73529092,2023-08-16T08:20:47.110Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.34,0.0865958908530832,4,reviewed,hv,hv
-2023-08-16T08:05:39.123Z,37.3328,-116.7828,0.1,0.5,ml,10,303.04,0.195,0.3587,nn,nn00864525,2023-08-16T08:07:45.107Z,"47 km N of Beatty, Nevada",earthquake,,19.6,1.06,6,automatic,nn,nn
+2023-08-16T08:06:00.480Z,19.4015,-155.275333333333,1.16,0.47,md,15,48,,0.08,hv,hv73529092,2023-08-16T08:20:47.110Z,"Hawaii region, Hawaii",earthquake,0.18,0.34,0.0865958908530832,4,reviewed,hv,hv
+2023-08-16T08:05:39.123Z,37.3328,-116.7828,0.1,0.5,ml,10,303.04,0.195,0.3587,nn,nn00864525,2023-08-16T08:07:45.107Z,"Nevada",earthquake,,19.6,1.06,6,automatic,nn,nn
 2023-08-16T08:03:02.890Z,33.9823333,-117.6465,29.29,1.17,ml,12,70,0.1428,0.17,ci,ci40537904,2023-08-16T08:06:33.215Z,"5 km SE of Chino, CA",earthquake,0.6,0.99,0.274,24,automatic,ci,ci
 2023-08-16T07:57:50.320Z,35.8468333,-117.6828333,9.9,0.78,ml,10,155,0.07684,0.2,ci,ci40537896,2023-08-16T08:01:42.797Z,"22 km ESE of Little Lake, CA",earthquake,0.64,1.26,0.079,4,automatic,ci,ci
 2023-08-16T07:51:01.650Z,59.76,-152.9017,99.2,1.4,ml,,,,0.29,ak,ak023ah703h1,2023-08-16T07:52:51.798Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -238,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T11:24:00.497Z,63.1786,-150.1318,78.5,1.9,ml,,,,0.5,ak,ak023aflooz5,2023-08-15T11:26:38.506Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-15T11:22:51.938Z,58.2438,-155.0739,0,1.9,ml,,,,0.57,ak,ak023aflodih,2023-08-15T11:24:41.876Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-15T11:13:34.589Z,60.3504,-152.5066,78.6,1.4,ml,,,,1,ak,ak023aflmeqa,2023-08-15T11:15:00.653Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-15T11:01:36.960Z,44.0591667,-110.3011667,13.22,1.32,md,16,134,0.165,0.13,uu,uu60547632,2023-08-15T13:02:35.810Z,"54 km NNE of Kelly, Wyoming",earthquake,0.42,1.54,0.078,9,reviewed,uu,uu
