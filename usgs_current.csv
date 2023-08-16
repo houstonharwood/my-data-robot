@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T17:01:00.370Z,19.1429996490479,-155.469329833984,30.3899993896484,1.91999996,md,31,184,,0.119999997,hv,hv73529987,2023-08-16T17:04:04.380Z,"6 km S of Pāhala, Hawaii",earthquake,0.79,0.839999974,1.91999996,4,automatic,hv,hv
 2023-08-16T16:45:47.120Z,19.4143333435059,-155.273162841797,0.189999997615814,1.90999997,md,12,55,,0.100000001,hv,hv73529967,2023-08-16T16:48:42.670Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.270000011,0.639999986,13,automatic,hv,hv
 2023-08-16T16:45:30.610Z,19.3864994049072,-155.278167724609,1.37999999523163,1.84,ml,6,147,,0.0700000003,hv,hv73529962,2023-08-16T16:51:00.320Z,"7 km SW of Volcano, Hawaii",earthquake,0.63,0.660000026,0.36,6,automatic,hv,hv
-2023-08-16T16:40:56.360Z,19.4023342132568,-155.276840209961,1.07000005245209,1.79999995,md,13,76,,0.159999996,hv,hv73529952,2023-08-16T16:46:28.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25,0.779999971,12,automatic,hv,hv
+2023-08-16T16:40:56.360Z,19.4023342132568,-155.276840209961,1.07000005245209,1.79999995,md,13,76,,0.159999996,hv,hv73529952,2023-08-16T16:46:28.810Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.25,0.779999971,12,automatic,hv,hv
 2023-08-16T16:40:33.649Z,63.107,-151.3602,0,1.1,ml,,,,1,ak,ak023ahcapic,2023-08-16T16:42:21.344Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T16:39:59.675Z,-24.3781,-176.0386,26.179,4.9,mb,30,111,3.285,1.06,us,us7000knt7,2023-08-16T18:53:25.040Z,"south of the Fiji Islands",earthquake,10.76,4.558,0.068,69,reviewed,us,us
 2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"47 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T13:38:41.575Z,62.0241,-150.1264,25.4,1.6,ml,,,,0.29,ak,ak023ahahzvh,2023-08-16T13:39:55.060Z,"21 km SW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-16T13:20:44.006Z,39.7566,-119.5943,6.6,1.2,ml,13,101.55,0.167,0.1228,nn,nn00864536,2023-08-16T17:40:38.196Z,"15 km NE of Spanish Springs, Nevada",earthquake,,1.8,0.12,8,reviewed,nn,nn
 2023-08-16T13:04:19.230Z,37.0531654,-121.5031662,6.91,2.6,md,57,58,,0.12,nc,nc73924731,2023-08-16T17:06:32.665Z,"8 km NE of Gilroy, CA",earthquake,0.22,0.64,0.11,65,automatic,nc,nc
-2023-08-16T12:51:42.946Z,60.4693,-150.8419,55,3.7,ml,,,,0.72,ak,ak023ah9zcn5,2023-08-16T18:20:49.346Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-08-16T12:51:42.946Z,60.4693,-150.8419,55,3.7,ml,,,,0.72,ak,ak023ah9zcn5,2023-08-16T19:38:31.679Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-16T12:47:40.512Z,-13.8814,167.1582,192.955,6.5,mww,114,25,7.177,0.68,us,us7000knq0,2023-08-16T14:54:29.149Z,"42 km W of Sola, Vanuatu",earthquake,7.44,6.217,0.068,21,reviewed,us,us
 2023-08-16T12:32:13.886Z,62.5229,-149.4656,37.7,1.3,ml,,,,1.17,ak,ak023ah9v7u4,2023-08-16T12:34:21.298Z,"33 km ENE of Chase, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-08-16T12:22:20.905Z,61.2393,-151.3537,70.2,1,ml,,,,0.17,ak,ak023ah9t2f9,2023-08-16T13:31:47.232Z,"18 km NW of Beluga, Alaska",earthquake,,0.4,,,reviewed,ak,ak
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T19:49:24.140Z,36.0133333,-120.5725,3.79,2.22,md,54,46,0.02936,0.07,nc,nc73924496,2023-08-16T01:04:14.534Z,"18 km NW of Parkfield, CA",earthquake,0.16,0.23,0.101,45,reviewed,nc,nc
 2023-08-15T19:45:36.563Z,59.9868,-153.5138,139.7,1.9,ml,,,,0.36,ak,ak023afqkqmw,2023-08-15T19:47:45.401Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-15T19:43:14.260Z,36.0121667,-120.5758333,4.29,2.65,md,71,43,0.03192,0.11,nc,nc73924491,2023-08-16T00:36:14.386Z,"18 km NW of Parkfield, CA",earthquake,0.18,0.26,0.113,75,reviewed,nc,nc
-2023-08-15T19:37:43.564Z,43.3208,-127.3175,15.776,3.1,ml,55,252,2.406,0.69,us,us7000knj7,2023-08-16T11:18:32.548Z,"237 km W of Langlois, Oregon",earthquake,9.4,9.064,0.038,90,reviewed,us,us
-2023-08-15T19:35:38.640Z,19.4130001068115,-155.274673461914,0.910000026226044,1.78999996,md,13,52,,0.0900000036,hv,hv73528022,2023-08-15T19:38:33.420Z,"Hawaii region, Hawaii",earthquake,0.18,0.370000005,0.910000026,12,automatic,hv,hv
