@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-17T19:24:56.609Z,58.3052,-154.9662,3.7,1.9,ml,,,,0.34,ak,ak023aj1iz4s,2023-08-17T19:26:33.554Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-08-17T18:58:16.770Z,36.7739983,-121.3314972,5.61,1.86,md,25,118,,0.09,nc,nc73925211,2023-08-17T19:11:11.520Z,"2 km SSW of Tres Pinos, CA",earthquake,0.33,0.83,0.16,22,automatic,nc,nc
 2023-08-17T18:55:42.061Z,61.6454,-149.9743,25.6,2.5,ml,,,,0.45,ak,ak023aj145m6,2023-08-17T18:57:15.078Z,"8 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-17T18:15:51.837Z,61.3902,-146.7538,15,2.4,ml,,,,0.93,ak,ak023aj0vlpp,2023-08-17T18:17:34.650Z,"36 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -12,11 +13,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T17:25:45.540Z,38.675,-87.5638333333333,0.09,2.42,md,13,92,0.4229,0.67,nm,nm60501038,2023-08-17T18:29:23.434Z,"3 km W of Vincennes, Indiana",earthquake,0.98,4.84,0.421374156076452,8,reviewed,nm,nm
 2023-08-17T17:24:42.830Z,19.1823329925537,-155.35466003418,29.9799995422363,1.97000003,md,31,189,,0.109999999,hv,hv73531457,2023-08-17T17:28:02.960Z,"13 km E of Pāhala, Hawaii",earthquake,0.69,0.810000002,0.430000007,9,automatic,hv,hv
 2023-08-17T17:21:46.905Z,61.4162,-151.5046,67.8,1.8,ml,,,,0.19,ak,ak023aj0bg0y,2023-08-17T17:23:17.528Z,"38 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-17T17:20:31.640Z,37.2021,-104.7282,5.096,3,ml,28,58,0.091,1.48,us,us7000kp2k,2023-08-17T17:44:49.124Z,"8 km NNE of Segundo, Colorado",earthquake,4,5.891,0.091,16,reviewed,us,us
-2023-08-17T17:17:18.031Z,4.2142,-73.6065,7.942,5.7,mww,79,77,0.949,0.98,us,us7000kp2j,2023-08-17T19:21:32.548Z,"6 km SW of Restrepo, Colombia",earthquake,5.61,4.311,0.089,12,reviewed,us,us
+2023-08-17T17:20:31.640Z,37.2021,-104.7282,5.096,3,ml,28,58,0.091,1.48,us,us7000kp2k,2023-08-17T19:24:32.308Z,"8 km NNE of Segundo, Colorado",earthquake,4,5.891,0.091,16,reviewed,us,us
+2023-08-17T17:17:18.031Z,4.2142,-73.6065,7.942,5.7,mww,79,77,0.949,0.98,us,us7000kp2j,2023-08-17T19:26:29.759Z,"6 km SW of Restrepo, Colombia",earthquake,5.61,4.311,0.089,12,reviewed,us,us
 2023-08-17T17:07:25.540Z,40.0973333,-123.7553333,21.56,1.5,md,16,84,0.1107,0.09,nc,nc73925176,2023-08-17T18:05:11.164Z,"6 km ESE of Redway, CA",earthquake,0.39,0.47,0.174,11,reviewed,nc,nc
 2023-08-17T17:05:33.450Z,38.1136665,-122.7969971,19.33,1.36,md,7,202,0.07107,0.36,nc,nc73925171,2023-08-17T18:43:12.370Z,"5 km N of Point Reyes Station, CA",earthquake,11.43,31.28,,1,automatic,nc,nc
-2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-17T19:18:34.755Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
+2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-17T19:26:05.973Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
 2023-08-17T16:51:26.509Z,37.2041,-104.7543,2.869,3.2,ml,30,58,0.085,0.74,us,us7000kp2h,2023-08-17T19:01:04.555Z,"8 km N of Segundo, Colorado",earthquake,3.24,6.064,0.069,36,reviewed,us,us
 2023-08-17T16:47:48.470Z,35.494,-118.3916667,10.86,1.28,ml,27,66,0.1813,0.17,ci,ci39642890,2023-08-17T18:20:09.610Z,"14 km SE of Bodfish, CA",earthquake,0.27,0.55,0.191,11,reviewed,ci,ci
 2023-08-17T16:46:33.240Z,19.4221668243408,-155.350662231445,4.6100001335144,2.01,ml,26,73,,0.0900000036,hv,hv73531432,2023-08-17T16:52:04.510Z,"12 km W of Volcano, Hawaii",earthquake,0.37,1.15999997,0.29,5,automatic,hv,hv
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T19:49:24.105Z,39.6341,-120.0431,0,-0.2,ml,2,275.45,0.069,0.044,nn,nn00864566,2023-08-16T22:34:55.630Z,"7 km SW of Cold Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2023-08-16T19:47:36.421Z,61.3195,-151.4665,9.9,0.8,ml,,,,0.48,ak,ak023ahe4i88,2023-08-16T21:36:12.668Z,"Southern Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-16T19:45:51.930Z,37.5348333,-118.8471667,-1.8,1.99,md,22,211,0.05694,0.06,nc,nc73924851,2023-08-17T03:51:16.238Z,"15 km WSW of Toms Place, CA",earthquake,0.61,0.53,0.065,21,reviewed,nc,nc
-2023-08-16T19:26:44.290Z,19.3958339691162,-155.279495239258,2.21000003814697,1.88999999,md,28,91,,0.379999995,hv,hv73530212,2023-08-16T19:29:51.840Z,"Island of Hawaii, Hawaii",earthquake,0.47,0.389999986,0.99000001,16,automatic,hv,hv
