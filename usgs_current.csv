@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T07:22:10.830Z,38.8071671,-122.8180008,2.77,1.04,md,22,58,0.008896,0.02,nc,nc73925551,2023-08-18T07:46:11.764Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.52,0.28,22,automatic,nc,nc
 2023-08-18T06:41:43.780Z,38.8170013,-122.7965012,3.03,0.81,md,7,115,0.009069,0.01,nc,nc73925536,2023-08-18T07:05:13.548Z,"6 km NW of The Geysers, CA",earthquake,0.77,1.99,0.07,9,automatic,nc,nc
 2023-08-18T06:40:54.147Z,9.2651,93.9048,10,4.7,mb,33,136,6.603,0.51,us,us7000kp6j,2023-08-18T07:48:15.040Z,"294 km SSE of Port Blair, India",earthquake,10.97,1.927,0.112,24,reviewed,us,us
-2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"Nicobar Islands, India region",earthquake,10.29,1.877,0.091,36,reviewed,us,us
+2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"258 km SSE of Port Blair, India",earthquake,10.29,1.877,0.091,36,reviewed,us,us
 2023-08-18T06:35:02.580Z,34.0633333,-117.1365,10.81,1.26,ml,47,42,0.03424,0.18,ci,ci39643594,2023-08-18T06:45:34.420Z,"1 km SSW of Mentone, CA",earthquake,0.21,0.34,0.243,28,automatic,ci,ci
 2023-08-18T06:26:44.970Z,32.4173333,-115.1538333,1.67,2.29,ml,16,73,0.04877,0.3,ci,ci39643586,2023-08-18T06:30:19.214Z,"8 km NNE of Delta, B.C., MX",earthquake,0.65,1.18,0.048,8,automatic,ci,ci
 2023-08-18T06:25:17.490Z,32.404,-115.1261667,7.36,2.43,ml,16,72,0.04631,0.27,ci,ci39643578,2023-08-18T06:28:45.550Z,"8 km NE of Delta, B.C., MX",earthquake,0.71,1.11,0.157,27,automatic,ci,ci
@@ -156,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T19:24:56.609Z,58.3052,-154.9662,3.7,1.9,ml,,,,0.34,ak,ak023aj1iz4s,2023-08-17T19:26:33.554Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-08-17T19:17:00.660Z,38.8168333,-122.8208333,2.81,0.26,md,16,61,0.01028,0.01,nc,nc73925231,2023-08-17T22:43:17.726Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.39,0.294,16,reviewed,nc,nc
 2023-08-17T19:16:45.770Z,37.5925,-118.8181667,2.6,0.66,md,12,183,0.009036,0.04,nc,nc73925226,2023-08-17T21:18:15.250Z,"13 km WNW of Toms Place, CA",earthquake,0.54,0.46,0.132,12,reviewed,nc,nc
+2023-08-17T19:04:00.610Z,46.0005,-112.474166666667,-2,1.78,ml,12,111,0.05714,0.07,mb,mb90024623,2023-08-18T15:40:23.940Z,"4 km E of Butte, Montana",quarry blast,0.42,31.61,0.122358579167726,14,reviewed,mb,mb
 2023-08-17T18:58:16.670Z,36.7758333,-121.3293333,6.51,1.88,md,34,120,0.06962,0.08,nc,nc73925211,2023-08-18T07:55:11.813Z,"2 km SSW of Tres Pinos, CA",earthquake,0.21,0.55,0.186,37,reviewed,nc,nc
 2023-08-17T18:55:56.060Z,34.9976667,-118.1938333,-0.93,1.23,ml,18,58,0.1215,0.2,ci,ci39643074,2023-08-17T20:52:37.279Z,"6 km SSW of Mojave, CA",quarry blast,0.46,31.61,0.17,5,reviewed,ci,ci
 2023-08-17T18:55:42.061Z,61.6454,-149.9743,25.6,2.5,ml,,,,0.45,ak,ak023aj145m6,2023-08-17T20:11:34.040Z,"8 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -197,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T16:00:54.660Z,37.0568333,-121.5043333,10.2,0.94,md,19,43,0.03505,0.11,nc,nc73925136,2023-08-17T22:36:14.694Z,"8 km NE of Gilroy, CA",earthquake,0.29,0.77,0.225,16,reviewed,nc,nc
 2023-08-17T15:59:04.620Z,44.545,-111.1611667,11.19,0.8,md,8,204,0.07456,0.23,uu,uu60547832,2023-08-17T18:09:04.280Z,"13 km SSW of West Yellowstone, Montana",earthquake,1.09,1.69,0.162,5,reviewed,uu,uu
 2023-08-17T15:53:09.180Z,38.8224983,-122.8541641,2.49,1.09,md,18,93,0.01496,0.02,nc,nc73925126,2023-08-17T17:06:11.840Z,"10 km WNW of The Geysers, CA",earthquake,0.29,0.54,0.15,18,automatic,nc,nc
-2023-08-17T15:46:34.770Z,42.202,-121.847,-1.64,2.09,ml,5,129,0.1123,0.14,uw,uw61941877,2023-08-17T18:07:51.590Z,"5 km WSW of Klamath Falls, Oregon",explosion,0.89,31.61,0.24482178338107197,3,reviewed,uw,uw
-2023-08-17T15:40:56.670Z,34.1421667,-117.4211667,6.55,1.11,ml,37,49,0.04493,0.19,ci,ci40538904,2023-08-17T17:10:13.965Z,"6 km NE of Fontana, CA",earthquake,0.26,0.51,0.166,11,reviewed,ci,ci
