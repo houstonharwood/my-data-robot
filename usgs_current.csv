@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T15:56:04.570Z,33.5026667,-116.898,17.47,0.49,ml,19,90,0.07488,0.34,ci,ci39643922,2023-08-18T15:59:41.601Z,"7 km NNW of Aguanga, CA",earthquake,0.95,1.67,0.131,9,automatic,ci,ci
+2023-08-18T15:35:13.706Z,52.603,-170.9371,5,3.5,ml,,,,0.83,ak,ak023akmqurv,2023-08-18T16:02:20.010Z,"144 km WSW of Nikolski, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-08-18T15:23:46.191Z,58.8829,-154.4249,121.1,1.8,ml,,,,0.55,ak,ak023akmocqb,2023-08-18T15:26:39.954Z,"65 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:18:01.628Z,62.644,-149.469,59.2,1.4,ml,,,,0.88,ak,ak023akmn6o2,2023-08-18T15:20:02.677Z,"39 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-18T15:06:52.770Z,33.5103333,-116.76,8.2,0.84,ml,36,41,0.04104,0.2,ci,ci39643874,2023-08-18T15:10:20.304Z,"9 km WSW of Anza, CA",earthquake,0.25,0.55,0.115,22,automatic,ci,ci
-2023-08-18T15:06:36.530Z,38.7958336,-122.7693329,3.67,0.33,md,7,116,0.008911,0.01,nc,nc73925701,2023-08-18T15:23:18.290Z,"2 km NNW of The Geysers, CA",earthquake,0.85,2.93,0.11,9,automatic,nc,nc
+2023-08-18T15:06:36.530Z,38.7958336,-122.7693329,3.67,0.33,md,7,116,0.008911,0.01,nc,nc73925701,2023-08-18T15:59:18.513Z,"2 km NNW of The Geysers, CA",earthquake,0.85,2.93,0.11,9,automatic,nc,nc
 2023-08-18T15:03:28.530Z,19.1778335571289,-155.489166259766,32.6500015258789,2.07999992,md,39,82,,0.109999999,hv,hv73532562,2023-08-18T15:06:47.620Z,"Hawaii region, Hawaii",earthquake,0.58,0.699999988,1.26999998,7,automatic,hv,hv
 2023-08-18T14:30:56.340Z,33.6415,-116.7291667,11.28,0.94,ml,28,55,0.07383,0.2,ci,ci39643842,2023-08-18T14:34:21.102Z,"11 km NNW of Anza, CA",earthquake,0.3,0.57,0.184,25,automatic,ci,ci
 2023-08-18T14:28:11.240Z,19.1318340301514,-155.495162963867,33.9900016784668,2.03,ml,40,165,,0.150000006,hv,hv73532537,2023-08-18T14:33:41.590Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.7,0.959999979,4.61,4,automatic,hv,hv
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T11:54:30.957Z,58.2416,-155.1702,2.1,0.1,ml,,,,0.45,ak,ak023akkh8as,2023-08-18T11:57:07.150Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-08-18T11:52:42.656Z,61.3048,-150.4877,42,1.2,ml,,,,0.63,ak,ak023akkgtrd,2023-08-18T11:54:40.029Z,"26 km S of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-18T11:47:54.660Z,33.6845016,-116.9616699,14.99,2.99,ml,113,14,0.03166,0.21,ci,ci39643762,2023-08-18T15:06:11.919Z,"7 km S of Hemet, CA",earthquake,0.18,0.33,0.322,18,automatic,ci,ci
-2023-08-18T11:22:39.269Z,51.8727,178.0084,137.728,4.2,mb,37,159,0.359,0.4,us,us7000kp7b,2023-08-18T15:52:29.199Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,12.09,6.296,0.065,66,reviewed,us,us
+2023-08-18T11:22:39.269Z,51.8727,178.0084,137.728,4.2,mb,37,159,0.359,0.4,us,us7000kp7b,2023-08-18T15:55:39.598Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,12.09,6.296,0.065,66,reviewed,us,us
 2023-08-18T11:19:54.113Z,31.61848698,-104.0880086,5.823071289,1.9,ml,16,62,0.02434825716,0.1,tx,tx2023qdgq,2023-08-18T13:21:46.695Z,"43 km NW of Toyah, Texas",earthquake,0.599534136,0.4818309469,0.1,18,reviewed,tx,tx
 2023-08-18T11:04:08.110Z,38.8110008,-122.8296661,1.29,0.75,md,9,66,0.002164,0.03,nc,nc73925631,2023-08-18T12:30:16.334Z,"7 km WNW of The Geysers, CA",earthquake,0.34,0.76,0.23,10,automatic,nc,nc
 2023-08-18T10:54:12.490Z,44.8446666666667,-111.4805,7.63,1.18,ml,17,99,0.03856,0.15,mb,mb90024663,2023-08-18T15:21:15.110Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.69,0.54,0.200654898160508,13,reviewed,mb,mb
@@ -195,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T16:18:02.155Z,-18.6608,-177.8433,559.973,4.6,mb,40,69,3.498,1,us,us7000kp27,2023-08-17T16:53:50.040Z,"Fiji region",earthquake,12.14,9.464,0.095,33,reviewed,us,us
 2023-08-17T16:16:23.734Z,59.9511,-150.6923,30.6,1,ml,,,,0.6,ak,ak023aizow0y,2023-08-17T17:08:33.613Z,"18 km NE of Fox River, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-08-17T16:11:06.072Z,62.1377,-152.0877,109.9,2.6,ml,,,,0.62,ak,ak023aizns4k,2023-08-17T16:13:01.343Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-17T16:00:54.660Z,37.0568333,-121.5043333,10.2,0.94,md,19,43,0.03505,0.11,nc,nc73925136,2023-08-17T22:36:14.694Z,"8 km NE of Gilroy, CA",earthquake,0.29,0.77,0.225,16,reviewed,nc,nc
-2023-08-17T15:59:04.620Z,44.545,-111.1611667,11.19,0.8,md,8,204,0.07456,0.23,uu,uu60547832,2023-08-17T18:09:04.280Z,"13 km SSW of West Yellowstone, Montana",earthquake,1.09,1.69,0.162,5,reviewed,uu,uu
