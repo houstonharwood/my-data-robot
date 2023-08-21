@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T03:22:00.344Z,61.7026,-146.6328,20,1.5,ml,,,,0.57,ak,ak023ape4vnm,2023-08-21T03:24:09.160Z,"33 km SSE of Nelchina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-21T03:13:04.020Z,19.1816673278809,-155.487838745117,35,2.03999996,md,41,76,,0.100000001,hv,hv73535602,2023-08-21T03:18:35.680Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.44,0.600000024,0.360000014,17,automatic,hv,hv
 2023-08-21T03:09:47.840Z,34.4255,-119.1781667,1.02,1.67,ml,22,71,0.03549,0.27,ci,ci39645978,2023-08-21T03:13:26.280Z,"6 km ESE of Ojai, CA",earthquake,0.42,0.69,0.127,28,automatic,ci,ci
-2023-08-21T03:03:58.310Z,34.42,-119.193,1.01,2.82,ml,42,70,0.04888,0.3,ci,ci39645970,2023-08-21T04:58:45.556Z,"6 km SE of Ojai, CA",earthquake,0.36,0.79,0.137,25,automatic,ci,ci
+2023-08-21T03:03:58.270Z,34.4135,-119.1998333,2.37,2.84,ml,76,30,0.05658,0.31,ci,ci39645970,2023-08-21T18:29:27.090Z,"6 km SE of Ojai, CA",earthquake,0.22,0.42,0.123,83,reviewed,ci,ci
 2023-08-21T02:54:13.324Z,5.1157,127.4696,145.449,4.9,mb,69,115,2.702,0.55,us,us7000kps6,2023-08-21T03:10:37.040Z,"198 km SE of Pondaguitan, Philippines",earthquake,5.67,6.542,0.057,97,reviewed,us,us
 2023-08-21T02:52:35.100Z,64.931,-147.2807,1.4,1,ml,,,,1.29,ak,ak023apdpy96,2023-08-21T02:55:39.304Z,"13 km WNW of Two Rivers, Alaska",earthquake,,5.6,,,automatic,ak,ak
 2023-08-21T02:51:14.020Z,34.4283333,-119.1915,0.78,2.1,ml,27,61,0.04545,0.26,ci,ci39645962,2023-08-21T02:55:00.183Z,"5 km ESE of Ojai, CA",earthquake,0.34,31.61,0.122,25,automatic,ci,ci
@@ -281,7 +281,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T21:43:06.750Z,34.4245,-119.1943333,2.12,3.04,ml,35,41,0.04858,0.35,ci,ci39645394,2023-08-21T04:55:23.537Z,"5 km ESE of Ojai, CA",earthquake,0.4,0.7,0.136,7,reviewed,ci,ci
 2023-08-20T21:42:46.530Z,34.443,-119.1996667,0.81,2.73,ml,14,77,0.05174,0.27,ci,ci37565916,2023-08-21T05:00:07.641Z,"4 km E of Ojai, CA",earthquake,0.41,0.97,0.12,3,reviewed,ci,ci
 2023-08-20T21:41:41.780Z,19.1846675872803,-155.492828369141,33.189998626709,2.00999999,md,38,75,,0.100000001,hv,hv73535157,2023-08-20T21:44:57.990Z,"2 km SW of Pāhala, Hawaii",earthquake,0.56,0.589999974,0.25999999,17,automatic,hv,hv
-2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T18:20:36.365Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
+2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T18:30:56.827Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
 2023-08-20T21:39:27.861Z,45.0774,23.1933,9.25,4.2,mb,45,67,1.222,1,us,us7000kpq7,2023-08-21T05:04:17.440Z,"2 km SSW of Leleşti, Romania",earthquake,4.88,5.157,0.103,26,reviewed,us,us
 2023-08-20T21:38:03.220Z,34.2161667,-116.5648333,0.22,1.65,ml,30,67,0.1332,0.19,ci,ci39645378,2023-08-21T00:48:20.685Z,"17 km NW of Yucca Valley, CA",earthquake,0.26,0.6,0.125,27,automatic,ci,ci
 2023-08-20T21:32:56.970Z,61.2891,-152.5013,4,1.4,ml,,,,0.37,ak,ak023ao1dlkx,2023-08-21T01:45:26.740Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -313,5 +313,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T18:43:37.771Z,62.9343,-151.3203,111.3,1.6,ml,,,,0.3,ak,ak023anznmk4,2023-08-20T18:45:28.855Z,"56 km NNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-20T18:37:27.602Z,39.5362,-118.4138,12.5,1.6,ml,9,112.59,0.368,0.0838,nn,nn00864706,2023-08-20T18:39:59.356Z,"Nevada",earthquake,,1.1,0.26,5,automatic,nn,nn
 2023-08-20T18:32:44.230Z,38.8334999,-122.8160019,1.6,1.12,md,21,46,0.0111,0.02,nc,nc73926316,2023-08-20T20:01:16.489Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.38,0.21,23,automatic,nc,nc
-2023-08-20T18:28:39.070Z,19.4881666666667,-155.437666666667,0.17,1.97,md,26,87,,0.15,hv,hv73534907,2023-08-21T14:52:00.330Z,"21 km WNW of Volcano, Hawaii",earthquake,0.21,0.47,0.180497473321655,12,reviewed,hv,hv
-2023-08-20T18:27:42.970Z,37.9321667,-113.5308333,6.86,1.44,md,11,129,0.1608,0.22,uu,uu60547997,2023-08-21T16:03:04.330Z,"27 km NNE of Beryl Junction, Utah",earthquake,0.64,4.25,0.163,7,reviewed,uu,uu
