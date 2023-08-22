@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-22T20:42:14.340Z,37.0719986,-121.4041672,4.45,1.45,md,6,171,0.2652,0.06,nc,nc73927176,2023-08-22T20:43:49.186Z,"16 km ENE of Gilroy, CA",earthquake,1.84,5.92,,1,automatic,nc,nc
 2023-08-22T20:27:47.897Z,57.8967,-154.6925,57.1,1,ml,,,,0.73,ak,ak023arbtrol,2023-08-22T20:30:39.809Z,"39 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-22T20:21:37.337Z,59.9152,-151.4334,57.8,0.9,ml,,,,0.45,ak,ak023arbsgkl,2023-08-22T20:23:59.618Z,"15 km NE of Nikolaevsk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-08-22T20:18:12.388Z,63.4969,-151.7531,0,1.3,ml,,,,1.62,ak,ak023arbrrhy,2023-08-22T20:22:39.806Z,"5 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T16:23:50.902Z,63.4771,-151.1395,1.1,1.1,ml,,,,0.78,ak,ak023ar9f6mq,2023-08-22T16:26:02.214Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-22T16:13:39.830Z,38.8320007,-122.8209991,2.11,0.79,md,12,76,0.01211,0.02,nc,nc73927121,2023-08-22T17:05:17.166Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.87,0.17,13,automatic,nc,nc
 2023-08-22T16:07:39.310Z,34.141,-118.1255,3.52,1.18,ml,18,79,0.001881,0.08,ci,ci39647586,2023-08-22T17:14:16.181Z,"0 km N of Caltech, Pasadena, CA",earthquake,0.22,0.12,0.199,14,reviewed,ci,ci
-2023-08-22T15:58:32.220Z,37.0353333,-119.6743333,23.07,1.95,md,11,153,0.04753,0.15,nc,nc73927116,2023-08-22T18:35:18.713Z,"7 km NNE of Friant, CA",earthquake,1.32,0.66,0.159,9,reviewed,nc,nc
+2023-08-22T15:58:32.220Z,37.0353333,-119.6743333,23.07,1.95,md,11,153,0.04753,0.15,nc,nc73927116,2023-08-22T20:44:14.442Z,"7 km NNE of Friant, CA",earthquake,1.32,0.66,0.159,9,reviewed,nc,nc
 2023-08-22T15:57:53.255Z,58.2069,-155.035,16.4,0.2,ml,,,,1.29,ak,ak023ar911jx,2023-08-22T15:59:55.292Z,"78 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T15:51:38.530Z,19.2171669006348,-155.368667602539,31.0900001525879,2.2,ml,26,204,,0.129999995,hv,hv73537867,2023-08-22T15:57:12.540Z,"11 km E of Pāhala, Hawaii",earthquake,0.79,0.970000029,0.08,3,automatic,hv,hv
 2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
@@ -190,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T04:39:49.960Z,37.4931667,-118.9971667,4.5,0.69,md,18,160,0.1153,0.02,nc,nc73926946,2023-08-22T05:43:12.301Z,"16 km S of Mammoth Lakes, CA",earthquake,0.56,1.38,0.151,14,reviewed,nc,nc
 2023-08-22T04:37:28.836Z,61.9608,-149.321,16.2,0.5,ml,,,,0.59,ak,ak023ar2cx2c,2023-08-22T14:16:55.532Z,"24 km N of Fishhook, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-08-22T04:32:01.243Z,64.5475,-146.9561,0,0.6,ml,,,,0.84,ak,ak023ar2bszg,2023-08-22T04:34:00.039Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-22T04:30:58.870Z,45.5038333333333,-111.681,0.38,0.73,ml,5,203,0.09989,0.03,mb,mb90025068,2023-08-22T17:36:28.360Z,"Western Montana",earthquake,0.63,6.03,0.38985490473329,3,reviewed,mb,mb
+2023-08-22T04:30:58.870Z,45.5038333333333,-111.681,0.38,0.73,ml,5,203,0.09989,0.03,mb,mb90025068,2023-08-22T17:36:28.360Z,"17 km NNE of Ennis, Montana",earthquake,0.63,6.03,0.38985490473329,3,reviewed,mb,mb
 2023-08-22T04:28:53.554Z,64.5331,-147.0936,2,0.8,ml,,,,0.46,ak,ak023ar2b25n,2023-08-22T04:31:19.469Z,"9 km W of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-22T04:27:26.840Z,37.494,-119,4.01,1.97,md,23,146,0.1136,0.04,nc,nc73926936,2023-08-22T17:09:11.941Z,"16 km S of Mammoth Lakes, CA",earthquake,0.36,1.59,0.121,20,reviewed,nc,nc
 2023-08-22T04:27:15.400Z,44.5855,-110.3685,1.97,1.67,ml,20,100,0.03459,0.18,uu,uu60548092,2023-08-22T14:05:43.480Z,"50 km SSE of Mammoth, Wyoming",earthquake,0.31,1.58,0.329,4,reviewed,uu,uu
