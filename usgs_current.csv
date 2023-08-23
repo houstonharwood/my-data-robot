@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-23T09:01:51.850Z,38.8358345,-122.8056641,1.72,0.67,md,8,109,0.01224,0.01,nc,nc73927351,2023-08-23T09:03:24.333Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.41,0.25,9,automatic,nc,nc
+2023-08-23T09:14:48.368Z,59.7769,-152.9897,96.2,1.4,ml,,,,0.25,ak,ak023assqk90,2023-08-23T09:16:37.438Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-23T09:08:55.810Z,19.3646666666667,-155.293666666667,2.03,0.57,md,16,109,,0.11,hv,hv73539112,2023-08-23T09:19:31.860Z,"10 km SW of Volcano, Hawaii",earthquake,0.24,0.4,0.0971383998438123,2,reviewed,hv,hv
+2023-08-23T09:01:51.850Z,38.8358345,-122.8056641,1.72,0.67,md,8,109,0.01224,0.01,nc,nc73927351,2023-08-23T09:18:12.631Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.41,0.25,9,automatic,nc,nc
 2023-08-23T08:58:10.051Z,60.0647,-152.852,162.3,1.1,ml,,,,0.83,ak,ak023asseh71,2023-08-23T08:59:43.062Z,"63 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-08-23T08:53:15.880Z,19.4026666666667,-155.275,1.2,0.55,md,17,41,,0.09,hv,hv73539092,2023-08-23T09:05:15.500Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.27,0.0291040247777061,3,reviewed,hv,hv
 2023-08-23T08:51:30.015Z,60.1086,-152.5773,94.1,1,ml,,,,0.38,ak,ak023assd0q1,2023-08-23T08:53:57.604Z,"50 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -43,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T05:32:44.380Z,38.8260002,-122.809166,1.66,0.68,md,16,63,0.002696,0.02,nc,nc73927321,2023-08-23T05:54:12.521Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.62,0.34,16,automatic,nc,nc
 2023-08-23T05:12:22.740Z,19.1948337554932,-155.414672851562,32.6399993896484,1.84000003,md,27,183,,0.0900000036,hv,hv73538672,2023-08-23T05:15:32.870Z,"Hawaii region, Hawaii",earthquake,0.7,0.819999993,0.920000017,3,automatic,hv,hv
 2023-08-23T05:07:30.170Z,36.9389991760254,-89.2054977416992,1.66999995708466,2.55999994,md,15,125,0.3086,0.140000001,nm,nm60546071,2023-08-23T06:50:16.934Z,"southeastern Missouri",earthquake,0.57,14.5600004,0.360000014,13,reviewed,nm,nm
-2023-08-23T04:54:09.500Z,19.8051662445068,-155.355499267578,30.1599998474121,3.01,ml,48,148,,0.109999999,hv,hv73538632,2023-08-23T09:13:23.925Z,"23 km SSW of Laupāhoehoe, Hawaii",earthquake,0.46,1.20000005,2.84,27,automatic,hv,hv
+2023-08-23T04:54:09.500Z,19.8051662445068,-155.355499267578,30.1599998474121,3.01,ml,48,148,,0.109999999,hv,hv73538632,2023-08-23T09:21:16.401Z,"23 km SSW of Laupāhoehoe, Hawaii",earthquake,0.46,1.20000005,2.84,27,automatic,hv,hv
 2023-08-23T04:53:20.990Z,19.1474990844727,-155.496170043945,29.7600002288818,2.23,ml,24,199,,0.119999997,hv,hv73538627,2023-08-23T04:58:52.020Z,"6 km SSW of Pāhala, Hawaii",earthquake,1.08,1.15999997,3.41,15,automatic,hv,hv
 2023-08-23T04:48:43.320Z,56.1106,-158.3277,42.7,1.9,ml,,,,1.12,ak,ak023aspyo3o,2023-08-23T04:51:26.378Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
 2023-08-23T04:45:50.481Z,61.7697,-142.8726,78.3,1.5,ml,,,,0.52,ak,ak023aspy1l4,2023-08-23T04:47:50.419Z,"37 km N of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -273,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T09:34:39.104Z,60.3688,-147.7298,14.3,1.2,ml,,,,0.6,ak,ak023ar5bgmo,2023-08-22T09:37:19.122Z,"37 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T09:27:50.730Z,47.70883333333333,-120.22316666666667,-0.5,0.05,ml,6,133,0.04472,0.09,uw,uw61943232,2023-08-23T05:18:03.640Z,"3 km NNW of Entiat, Washington",earthquake,0.48,11.17,0.2864725017382631,5,reviewed,uw,uw
 2023-08-22T09:25:52.800Z,35.6761667,-117.4963333,5.87,0.86,ml,12,143,0.06015,0.17,ci,ci39647162,2023-08-22T09:29:31.990Z,"13 km SW of Searles Valley, CA",earthquake,0.68,1.4,0.149,5,automatic,ci,ci
-2023-08-22T09:20:58.380Z,34.4235,-119.197,1.41,1.35,ml,21,78,0.05097,0.27,ci,ci39647154,2023-08-22T09:24:42.007Z,"5 km ESE of Ojai, CA",earthquake,0.39,0.69,0.203,25,automatic,ci,ci
-2023-08-22T09:19:39.120Z,33.907,-116.7815,17.23,0.62,ml,12,103,0.0744,0.14,ci,ci39647146,2023-08-22T09:23:20.800Z,"1 km SSE of Cabazon, CA",earthquake,0.45,0.77,0.174,17,automatic,ci,ci
