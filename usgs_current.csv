@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T12:50:56.080Z,58.2025,-155.1099,44.6,0,ml,,,,0.48,ak,ak023asuqlfs,2023-08-23T12:52:20.957Z,"80 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-23T12:43:30.020Z,19.2356662750244,-155.392837524414,31.9500007629395,1.92,ml,46,142,,0.119999997,hv,hv73539502,2023-08-23T12:49:00.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.43,0.589999974,3.98,5,automatic,hv,hv
 2023-08-23T12:41:17.374Z,59.1557,-152.6593,76.4,1.1,ml,,,,0.45,ak,ak023asuol09,2023-08-23T12:43:22.948Z,"47 km WSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-23T12:40:09.138Z,35.07206726,-95.52429199,3.563564777,1.56,ml,16,95.68869019,0.1373674572,0.7537728974,ok,ok2023qmmu,2023-08-23T12:43:47.999Z,"14 km ESE of Crowder, Oklahoma",earthquake,4.01973072,2.874795744,0.31,7,automatic,ok,ok
+2023-08-23T12:40:09.160Z,35.08766667,-95.52216667,7.35,1.97,ml,49,55,0.1223759857,0.24,ok,ok2023qmmu,2023-08-23T13:30:54.789Z,"Oklahoma",earthquake,,0.6,0.22,5,reviewed,ok,ok
 2023-08-23T12:32:28.190Z,19.39,-155.279,1.15,0.39,md,12,75,,0.05,hv,hv73539487,2023-08-23T12:46:49.400Z,"Island of Hawaii, Hawaii",earthquake,0.18,0.19,0.138357348556522,2,reviewed,hv,hv
 2023-08-23T12:22:46.840Z,19.4143333333333,-155.247666666667,2.12,1.05,md,22,113,,0.09,hv,hv73539477,2023-08-23T12:39:48.680Z,"3 km SSW of Volcano, Hawaii",earthquake,0.18,0.19,0.29944862979106,3,reviewed,hv,hv
 2023-08-23T12:18:51.210Z,61.8786,-149.2625,18.2,1.1,ml,,,,0.49,ak,ak023asujq5d,2023-08-23T12:20:50.915Z,"15 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -254,7 +254,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T15:58:32.220Z,37.0353333,-119.6743333,23.07,1.95,md,11,153,0.04753,0.15,nc,nc73927116,2023-08-22T20:44:14.442Z,"7 km NNE of Friant, CA",earthquake,1.32,0.66,0.159,9,reviewed,nc,nc
 2023-08-22T15:57:53.255Z,58.2069,-155.035,16.4,0.2,ml,,,,1.29,ak,ak023ar911jx,2023-08-22T15:59:55.292Z,"78 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T15:51:38.530Z,19.2171669006348,-155.368667602539,31.0900001525879,2.2,ml,26,204,,0.129999995,hv,hv73537867,2023-08-22T15:57:12.540Z,"11 km E of Pāhala, Hawaii",earthquake,0.79,0.970000029,0.08,3,automatic,hv,hv
-2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
+2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"Puerto Rico region",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
 2023-08-22T15:32:11.496Z,60.4216,-147.757,16,1.3,ml,,,,0.84,ak,ak023ar8vlfh,2023-08-22T15:34:55.650Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T15:30:41.540Z,19.378,-155.283666666667,1.4,1.78,md,17,94,,0.07,hv,hv73537842,2023-08-23T04:33:56.750Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.0282047101677299,2,reviewed,hv,hv
 2023-08-22T15:29:29.440Z,37.4951667,-118.8018333,9,0.86,md,13,305,0.09714,0.03,nc,nc73927111,2023-08-22T17:31:13.310Z,"13 km SW of Toms Place, CA",earthquake,1.17,1.21,0.128,13,reviewed,nc,nc
@@ -277,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T14:00:26.620Z,35.7885,-98.58066667,11.34,1.74,ml,57,146,0.1916623893,0.19,ok,ok2023qkty,2023-08-23T12:38:16.849Z,"15 km ENE of Thomas, Oklahoma",earthquake,,1.3,0.23,27,reviewed,ok,ok
 2023-08-22T13:49:56.180Z,33.4763333,-116.7951667,4.59,0.35,ml,17,72,0.02906,0.11,ci,ci39647418,2023-08-22T17:26:38.376Z,"8 km ENE of Aguanga, CA",earthquake,0.2,0.26,0.132,14,reviewed,ci,ci
 2023-08-22T13:45:48.550Z,44.5985,-110.3255,6.09,0.49,md,4,187,0.06646,0.04,uu,uu60548112,2023-08-22T14:38:40.410Z,"51 km SE of Mammoth, Wyoming",earthquake,0.81,2.42,0.534,4,reviewed,uu,uu
-2023-08-22T13:34:07.235Z,61.067,-146.3023,17.7,2.8,ml,,,,0.81,ak,ak023ar7p59a,2023-08-22T15:18:43.040Z,"7 km SSE of Valdez, Alaska",earthquake,,0.1,,,reviewed,ak,ak
