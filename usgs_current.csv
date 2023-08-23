@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T07:04:39.420Z,34.4264984,-119.1881638,2,2.02,ml,51,57,0.04315,0.34,ci,ci39648122,2023-08-23T07:06:46.454Z,"6 km ESE of Ojai, CA",earthquake,0.34,0.66,0.31,28,automatic,ci,ci
+2023-08-23T07:02:40.870Z,38.7271652,-122.9271698,3.59,1.88,md,41,45,0.07553,0.06,nc,nc73927331,2023-08-23T07:05:51.381Z,"12 km SE of Cloverdale, CA",earthquake,0.18,1.08,0.19,38,automatic,nc,nc
+2023-08-23T07:01:40.120Z,19.386999130249,-155.278839111328,1.53999996185303,1.92999995,md,17,67,,0.180000007,hv,hv73538872,2023-08-23T07:04:45.000Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.270000011,1.29999995,14,automatic,hv,hv
+2023-08-23T06:55:04.470Z,62.1452,-148.6646,19.6,1,ml,,,,0.13,ak,ak023asr6yen,2023-08-23T06:56:13.308Z,"40 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-23T06:52:24.250Z,35.8893333,-117.7105,6.89,0.74,ml,7,173,0.09192,0.12,ci,ci39648114,2023-08-23T06:55:53.695Z,"18 km ESE of Little Lake, CA",earthquake,0.57,1.21,0.178,3,automatic,ci,ci
 2023-08-23T06:43:17.448Z,62.1491,-148.3642,29.4,1.1,ml,,,,0.97,ak,ak023asr4esv,2023-08-23T06:45:43.946Z,"39 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-23T06:39:37.584Z,60.6869,-151.5979,61.9,1.2,ml,,,,0.43,ak,ak023asr3li6,2023-08-23T06:40:59.898Z,"16 km W of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -142,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T16:54:55.055Z,39.4229,-119.9358,7.2,0.9,ml,8,109.38,0.15,0.1365,nn,nn00864829,2023-08-23T00:05:16.953Z,"8 km ENE of Floriston, California",earthquake,,2.7,0.23,4,reviewed,nn,nn
 2023-08-22T16:50:05.889Z,59.2276,-152.0362,59.5,1,ml,,,,0.16,ak,ak023ar9kvho,2023-08-22T16:51:55.869Z,"15 km SSW of Nanwalek, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-08-22T16:45:43.369Z,61.6042,-151.5619,70.1,1.1,ml,,,,0.5,ak,ak023ar9jvsw,2023-08-22T16:47:41.065Z,"43 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-22T16:29:30.680Z,37.5208333,-118.9923333,4.07,1.25,md,16,181,0.09318,0.08,nc,nc73927126,2023-08-23T06:35:14.741Z,"13 km S of Mammoth Lakes, CA",earthquake,0.54,1.32,0.211,14,reviewed,nc,nc
+2023-08-22T16:29:30.680Z,37.5208333,-118.9923333,4.07,1.25,md,16,181,0.09318,0.08,nc,nc73927126,2023-08-23T07:04:11.910Z,"13 km S of Mammoth Lakes, CA",earthquake,0.54,1.32,0.211,14,reviewed,nc,nc
 2023-08-22T16:26:06.976Z,60.201,-141.2885,5,1.4,ml,,,,0.9,ak,ak023ar9fqe1,2023-08-22T16:28:33.362Z,"113 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-22T16:23:50.902Z,63.4771,-151.1395,1.1,1.1,ml,,,,0.78,ak,ak023ar9f6mq,2023-08-22T16:26:02.214Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-22T16:20:21.110Z,39.3935,-119.7206,5.1,1,ml,8,123.78,0.034,0.1276,nn,nn00864827,2023-08-22T23:59:01.093Z,"Nevada",earthquake,,1.7,0.2,3,reviewed,nn,nn
@@ -229,7 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T10:41:25.100Z,32.9975,-116.2336667,4.67,1.52,ml,43,48,0.07255,0.21,ci,ci39647178,2023-08-22T10:52:19.050Z,"19 km SSW of Ocotillo Wells, CA",earthquake,0.26,1.11,0.119,27,automatic,ci,ci
 2023-08-22T10:39:38.380Z,47.2943333333333,-113.181666666667,19.18,1.12,ml,16,93,0.1989,0.09,mb,mb90025003,2023-08-22T14:02:31.230Z,"26 km ENE of Seeley Lake, Montana",earthquake,0.29,0.85,0.0671684034070988,4,reviewed,mb,mb
 2023-08-22T10:35:31.846Z,61.2228,-147.014,14.5,1.1,ml,,,,0.21,ak,ak023ar5x44g,2023-08-22T10:36:46.713Z,"37 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-22T10:33:30.270Z,40.3058319,-124.5524979,15.09,3.33,ml,28,256,0.1615,0.15,nc,nc73927056,2023-08-23T04:35:14.124Z,"23 km W of Petrolia, CA",earthquake,1.97,0.41,0.314,11,automatic,nc,nc
+2023-08-22T10:33:30.270Z,40.2936667,-124.5531667,15.43,3.11,ml,45,250,0.1612,0.17,nc,nc73927056,2023-08-23T07:06:46.744Z,"23 km W of Petrolia, CA",earthquake,0.59,0.29,0.194,28,reviewed,nc,nc
 2023-08-22T10:32:02.827Z,62.4202,-150.2821,20.6,1.2,ml,,,,0.61,ak,ak023ar5weqi,2023-08-22T10:34:37.435Z,"9 km WSW of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-22T10:23:54.500Z,19.3913333333333,-155.278166666667,1.48,1.97,ml,25,53,,0.1,hv,hv73537612,2023-08-22T15:34:38.570Z,"Island of Hawaii, Hawaii",earthquake,0.14,0.13,0.167372017111135,12,reviewed,hv,hv
 2023-08-22T10:17:34.400Z,38.4244,36.6825,10.457,4.7,mwr,95,40,0.208,0.59,us,us7000kq2s,2023-08-22T10:47:41.439Z,"Central Turkey",earthquake,4.13,4.097,0.061,26,reviewed,us,us
@@ -278,6 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T07:17:59.761Z,-5.3559,146.7909,230.624,4.4,mb,36,117,4.039,0.99,us,us7000kq2c,2023-08-22T08:04:39.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,11.53,7.251,0.112,23,reviewed,us,us
 2023-08-22T07:11:00.650Z,64.9972,-147.4331,2,1.5,ml,,,,1.14,ak,ak023ar3zlpt,2023-08-22T07:12:51.556Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-22T07:08:14.794Z,63.1817,-152.7827,9,0.5,ml,,,,0.31,ak,ak023ar3z02i,2023-08-22T14:28:19.048Z,"66 km SW of Denali National Park, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-08-22T07:04:20.380Z,31.61319555,-103.997466,8.895178223,3.2,ml,45,56,0.01853198574,0.1,tx,tx2023qkgj,2023-08-22T20:34:02.894Z,"38 km NNW of Toyah, Texas",earthquake,0.4984914377,0.4691772138,0.1,27,reviewed,tx,tx
-2023-08-22T07:03:13.879Z,31.61103917,-103.9895211,7.828295898,2.5,ml,13,58,0.01764547106,0.1,tx,tx2023qkgg,2023-08-22T14:39:08.666Z,"37 km NNW of Toyah, Texas",earthquake,0.5460336326,0.5629794604,0.1,30,reviewed,tx,tx
-2023-08-22T07:00:13.301Z,31.61457704,-103.9966655,8.895178223,3.7,ml,40,57,0.01873879714,0.1,tx,tx2023qkgd,2023-08-22T20:31:41.376Z,"38 km NNW of Toyah, Texas",earthquake,0.5222862519,0.4599644025,0.2,25,reviewed,tx,tx
