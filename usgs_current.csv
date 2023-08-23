@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T18:31:46.210Z,37.9878349,-122.4503326,1.6,1.55,md,12,87,0.02386,0.05,nc,nc73927501,2023-08-23T18:33:21.881Z,"7 km E of Santa Venetia, CA",earthquake,0.23,0.44,0.18,8,automatic,nc,nc
 2023-08-23T18:22:28.717Z,59.8669,-139.34,0,1.5,ml,,,,0.97,ak,ak023asy552h,2023-08-23T18:29:20.285Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T18:00:52.049Z,61.6469,-153.9455,0,1.3,ml,,,,0.37,ak,ak023asy0gyc,2023-08-23T18:02:34.503Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T17:59:24.138Z,55.7921,-158.1471,16.8,2.2,ml,,,,0.65,ak,ak023asxrmfx,2023-08-23T18:00:42.885Z,"58 km SSE of Chignik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T17:52:53.279Z,61.7866,-150.7043,52,1.2,ml,,,,0.49,ak,ak023asxq6of,2023-08-23T17:54:49.994Z,"28 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-08-23T17:51:25.804Z,-55.9309,-27.6023,89.63,5.1,mb,71,45,5.362,0.92,us,us7000kqdh,2023-08-23T18:33:49.040Z,"South Sandwich Islands region",earthquake,10.36,4.808,0.064,78,reviewed,us,us
 2023-08-23T17:48:52.270Z,19.2006664276123,-155.386840820312,30.0400009155273,2.22,ml,32,166,,0.129999995,hv,hv73540197,2023-08-23T17:54:23.410Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,1,4.47,4,automatic,hv,hv
 2023-08-23T17:46:17.037Z,38.1551,-117.8944,10.2,1.9,ml,8,123.18,0.084,0.1869,nn,nn00864880,2023-08-23T18:10:33.867Z,"32 km SE of Mina, Nevada",earthquake,,1.7,0.74,6,reviewed,nn,nn
 2023-08-23T17:40:44.490Z,34.4028333,-119.202,1.26,1.92,ml,29,94,0.06324,0.3,ci,ci39648522,2023-08-23T17:44:22.213Z,"6 km SE of Ojai, CA",earthquake,0.41,0.69,0.307,31,automatic,ci,ci
@@ -11,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T17:22:44.380Z,33.489,-116.7945,-0.14,0.46,ml,19,62,0.01837,0.3,ci,ci39648466,2023-08-23T17:40:02.486Z,"8 km NE of Aguanga, CA",earthquake,0.53,31.61,0.047,13,automatic,ci,ci
 2023-08-23T17:20:54.730Z,33.6625,-116.7783333,28.86,1.25,ml,9,132,0.156,0.31,ci,ci39648458,2023-08-23T17:40:02.289Z,"10 km SSW of Idyllwild, CA",earthquake,1.55,0.98,0.355,11,automatic,ci,ci
 2023-08-23T17:19:11.090Z,34.4028333,-119.2148333,1.07,1.4,ml,12,110,0.07241,0.29,ci,ci39648450,2023-08-23T17:39:56.896Z,"6 km SSE of Ojai, CA",earthquake,0.63,0.95,0.351,17,automatic,ci,ci
+2023-08-23T17:15:31.280Z,19.4131666666667,-155.251666666667,1.64,1.21000004,md,11,122,,0.09,hv,hv73540122,2023-08-23T18:34:48.300Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.32,1.35000002,4,reviewed,hv,hv
 2023-08-23T17:14:01.110Z,33.42,-116.61,8.09,0.83,ml,33,69,0.07555,0.17,ci,ci39648434,2023-08-23T17:39:52.604Z,"16 km N of Warner Springs, CA",earthquake,0.24,0.75,0.177,22,automatic,ci,ci
 2023-08-23T17:12:54.790Z,19.4146666666667,-155.317333333333,2.87,1.74,ml,22,80,,0.08,hv,hv73540117,2023-08-23T17:37:18.910Z,"9 km WSW of Volcano, Hawaii",earthquake,0.21,0.33,0.106970329946381,5,reviewed,hv,hv
 2023-08-23T17:07:04.450Z,19.3745,-155.284666666667,1.36,1.1,md,19,98,,0.11,hv,hv73540097,2023-08-23T17:28:11.170Z,"9 km SW of Volcano, Hawaii",earthquake,0.19,0.23,0.284340463025508,6,reviewed,hv,hv
@@ -69,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T14:21:19.314Z,38.1428,-117.9221,8.7,1.5,ml,7,118.86,0.075,0.1612,nn,nn00864838,2023-08-23T17:02:23.704Z,"31 km SSE of Mina, Nevada",earthquake,,1.5,0.41,6,reviewed,nn,nn
 2023-08-23T14:17:59.130Z,19.3725,-155.281833333333,1.78,2.1,ml,25,105,,0.1,hv,hv73539702,2023-08-23T16:43:31.790Z,"9 km SSW of Volcano, Hawaii",earthquake,0.19,0.23,0.169508888463,13,reviewed,hv,hv
 2023-08-23T14:12:16.610Z,19.3903331756592,-155.280670166016,1.14999997615814,1.83,ml,21,57,,0.230000004,hv,hv73539687,2023-08-23T14:17:47.970Z,"Hawaii region, Hawaii",earthquake,0.21,0.300000012,2.29,10,automatic,hv,hv
-2023-08-23T14:02:09.263Z,-20.4241,-69.1505,91.324,5.3,mww,145,50,0.282,0.87,us,us7000kqbg,2023-08-23T17:16:20.828Z,"53 km E of La Tirana, Chile",earthquake,4.15,3.603,0.071,19,reviewed,us,us
+2023-08-23T14:02:09.263Z,-20.4241,-69.1505,91.324,5.3,mww,145,50,0.282,0.87,us,us7000kqbg,2023-08-23T18:37:19.140Z,"53 km E of La Tirana, Chile",earthquake,4.15,3.603,0.071,19,reviewed,us,us
 2023-08-23T13:59:07.789Z,61.7219,-151.7946,94.4,1.2,ml,,,,0.23,ak,ak023asvdure,2023-08-23T14:00:25.583Z,"36 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-23T13:56:55.660Z,61.8992,-150.1254,8.4,1.6,ml,,,,0.41,ak,ak023asvdbb2,2023-08-23T13:58:32.088Z,"17 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-23T13:41:23.130Z,19.3766670227051,-155.278167724609,1.10000002384186,1.75,md,20,90,,0.180000007,hv,hv73539607,2023-08-23T13:44:21.100Z,"8 km SSW of Volcano, Hawaii",earthquake,0.22,0.239999995,0.800000012,12,automatic,hv,hv
@@ -275,7 +278,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T21:33:04.811Z,-5.5592,147.2947,169.694,4.2,mb,18,146,3.823,0.97,us,us7000kq7d,2023-08-23T02:11:18.040Z,"126 km NNW of Finschhafen, Papua New Guinea",earthquake,13.52,9.344,0.152,12,reviewed,us,us
 2023-08-22T21:27:09.452Z,58.0289,-156.3396,133.7,0.9,ml,,,,0.11,ak,ak023arcf4bl,2023-08-22T21:28:42.650Z,"64 km ESE of Egegik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-22T21:24:29.997Z,59.8914,-150.4938,37.9,1.3,ml,,,,0.9,ak,ak023arceirb,2023-08-22T21:26:51.420Z,"26 km E of Fox River, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-08-22T21:23:57.652Z,39.0201,48.7091,55.15,4.8,mb,63,95,0.506,0.91,us,us7000kq79,2023-08-23T06:09:22.152Z,"4 km ESE of Masally, Azerbaijan",earthquake,7.65,6.619,0.049,129,reviewed,us,us
+2023-08-22T21:23:57.652Z,39.0201,48.7091,55.15,4.8,mb,63,95,0.506,0.91,us,us7000kq79,2023-08-23T18:32:36.040Z,"4 km ESE of Masally, Azerbaijan",earthquake,7.65,6.619,0.049,129,reviewed,us,us
 2023-08-22T21:23:08.799Z,58.2817,-155.1439,29,0.3,ml,,,,0.14,ak,ak023arce9en,2023-08-22T21:24:25.860Z,"89 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-22T21:20:26.220Z,34.4191667,-119.169,1.06,1.77,ml,31,71,0.03149,0.27,ci,ci39647938,2023-08-22T21:33:14.025Z,"8 km ESE of Ojai, CA",earthquake,0.38,0.56,0.183,31,automatic,ci,ci
 2023-08-22T21:14:32.800Z,34.03,-116.7608333,20.24,1.13,ml,24,79,0.03932,0.18,ci,ci39647930,2023-08-22T21:18:02.571Z,"13 km N of Cabazon, CA",earthquake,0.32,0.71,0.219,30,automatic,ci,ci
@@ -309,5 +312,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T18:46:55.285Z,30.373,94.8343,34.153,4.8,mb,134,40,7.415,0.58,us,us7000kq64,2023-08-22T19:11:18.040Z,"209 km NNE of Shi Yomi, India",earthquake,8.11,5.128,0.04,194,reviewed,us,us
 2023-08-22T18:43:50.693Z,60.07,-152.8225,103.4,1.2,ml,,,,0.23,ak,ak023araqc59,2023-08-22T18:45:42.571Z,"62 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-22T18:43:34.774Z,-19.101,169.0517,161.801,4.5,mb,51,61,3.803,0.76,us,us7000kq63,2023-08-22T19:00:52.040Z,"Vanuatu",earthquake,5.48,7.743,0.082,47,reviewed,us,us
-2023-08-22T18:37:56.807Z,3.3654,125.7075,55.943,4.5,mb,60,110,3.064,0.93,us,us7000kq5z,2023-08-22T19:25:20.040Z,"222 km NNE of Bitung, Indonesia",earthquake,3.8,8.158,0.077,57,reviewed,us,us
-2023-08-22T18:36:36.210Z,46.194,-122.19733333333333,4.06,0.09,ml,8,109,0.0103,0.06,uw,uw61943312,2023-08-23T03:30:32.680Z,"36 km NNE of Amboy, Washington",earthquake,0.47,0.82,0.14194045045816936,4,reviewed,uw,uw
