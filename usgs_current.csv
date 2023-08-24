@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-24T14:40:52.208Z,61.2906,-152.4406,0,1.7,ml,,,,0.9,ak,ak023aujenok,2023-08-24T14:42:54.187Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-24T14:26:47.550Z,44.7773333,-110.8846667,5.97,1.49,ml,16,110,0.0267,0.15,uu,uu60548217,2023-08-24T14:50:43.050Z,"Yellowstone National Park, Wyoming",earthquake,0.41,0.96,0.19,5,reviewed,uu,uu
 2023-08-24T13:58:13.460Z,38.7876663,-122.745163,1.63,0.74,md,11,84,0.00794,0.02,nc,nc73927986,2023-08-24T14:23:14.866Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.76,0.03,11,automatic,nc,nc
 2023-08-24T13:56:22.630Z,38.831665,-122.817337,1.76,0.76,md,18,67,0.01002,0.01,nc,nc73927981,2023-08-24T14:13:12.810Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.44,0.13,17,automatic,nc,nc
 2023-08-24T13:55:58.200Z,19.3911666666667,-155.275333333333,1.68,2.35,ml,34,48,,0.1,hv,hv73542092,2023-08-24T14:31:21.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.13,0.195948030320201,18,reviewed,hv,hv
@@ -225,7 +226,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T18:31:05.760Z,19.3816666666667,-155.280833333333,1.14,1.04,md,12,163,,0.07,hv,hv73540287,2023-08-23T19:59:14.460Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.2,0.0895002038644912,2,reviewed,hv,hv
 2023-08-23T18:28:28.720Z,19.3955,-155.277,1.19,1.31,md,14,56,,0.1,hv,hv73540277,2023-08-23T20:09:35.170Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.25,0.13550171785727,2,reviewed,hv,hv
 2023-08-23T18:27:22.770Z,19.3883333333333,-155.28,1.47,0.66,md,11,85,,0.07,hv,hv73540272,2023-08-23T20:13:55.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.22,0.0121946170905392,2,reviewed,hv,hv
-2023-08-23T18:25:15.380Z,19.3995,-155.2735,11.56,1.05,md,25,97,,0.13,hv,hv73540262,2023-08-23T20:18:56.210Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.28,0.258687123190057,11,reviewed,hv,hv
+2023-08-23T18:25:15.380Z,19.3995,-155.2735,11.56,1.05,md,25,97,,0.13,hv,hv73540262,2023-08-23T20:18:56.210Z,"6 km SW of Volcano, Hawaii",earthquake,0.39,0.28,0.258687123190057,11,reviewed,hv,hv
 2023-08-23T18:22:28.717Z,59.8669,-139.34,0,1.5,ml,,,,0.97,ak,ak023asy552h,2023-08-23T18:29:20.285Z,"41 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T18:21:57.740Z,19.3993333333333,-155.284,1.37,0.92,md,12,56,,0.08,hv,hv73540257,2023-08-23T19:04:01.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.33,0.250359756020153,2,reviewed,hv,hv
 2023-08-23T18:18:31.610Z,19.4041666666667,-155.289833333333,1.33,0.42,md,12,71,,0.08,hv,hv73540252,2023-08-23T19:12:10.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.31,0.125267778184737,3,reviewed,hv,hv
@@ -302,5 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T14:57:04.490Z,19.3935,-155.238166666667,2.09,0.38,md,14,102,,0.09,hv,hv73539787,2023-08-23T15:28:50.150Z,"5 km S of Volcano, Hawaii",earthquake,0.24,0.37,0.0686717530142105,4,reviewed,hv,hv
 2023-08-23T14:56:07.190Z,19.3878333333333,-155.280333333333,1.25,0.16,md,11,89,,0.08,hv,hv73539782,2023-08-23T15:20:16.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.2,0.00571320111838883,2,reviewed,hv,hv
 2023-08-23T14:55:01.271Z,39.3887,-120.233,9.3,-0.4,ml,3,240.85,0.077,0.1462,nn,nn00864889,2023-08-23T19:09:42.479Z,"7 km NNW of Truckee, California",earthquake,,5.8,0.26,2,reviewed,nn,nn
-2023-08-23T14:50:58.281Z,62.7331,-147.1883,62.3,2.3,ml,,,,1.02,ak,ak023asvxgtg,2023-08-23T14:54:29.051Z,"60 km NNW of Lake Louise, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-08-23T14:50:27.570Z,19.4063333333333,-155.286166666667,1.21,0.57,md,16,71,,0.06,hv,hv73539767,2023-08-23T15:15:58.010Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.28,0.0938684614233883,4,reviewed,hv,hv
