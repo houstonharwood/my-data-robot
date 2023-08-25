@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T20:25:02.880Z,38.8231659,-122.8098297,3.02,0.76,md,8,84,0.0002979,0.01,nc,nc73929051,2023-08-25T20:26:39.008Z,"7 km NW of The Geysers, CA",earthquake,0.48,1.97,0.23,10,automatic,nc,nc
 2023-08-25T20:19:43.670Z,19.4926662445068,-155.564498901367,15.0500001907349,2.03,ml,32,88,,0.129999995,hv,hv73544492,2023-08-25T20:25:19.660Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.75999999,0.97,4,automatic,hv,hv
 2023-08-25T20:15:07.050Z,33.0715,-116.2103333,2.36,0.85,ml,17,76,0.0912,0.23,ci,ci39651154,2023-08-25T20:18:35.066Z,"11 km SW of Ocotillo Wells, CA",earthquake,0.34,0.74,0.168,12,automatic,ci,ci
 2023-08-25T20:04:50.640Z,33.8696667,-117.5213333,0.71,0.93,ml,20,79,0.08216,0.28,ci,ci39651138,2023-08-25T20:08:28.626Z,"1 km S of Home Gardens, CA",quarry blast,0.67,31.61,0.186,15,automatic,ci,ci
@@ -102,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T14:15:58.630Z,38.7963333,-122.8268333,1.62,1.55,md,37,63,0.007069,0.04,nc,nc73928416,2023-08-25T18:51:15.780Z,"6 km WNW of The Geysers, CA",earthquake,0.17,0.26,0.268,29,reviewed,nc,nc
 2023-08-25T14:15:35.310Z,38.8131667,-122.8168333,3.56,1.43,md,25,52,0.01056,0.05,nc,nc73928411,2023-08-25T19:02:14.839Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.34,0.345,17,reviewed,nc,nc
 2023-08-25T14:14:45.620Z,38.8246667,-122.8105,3.04,3.96,mw,107,18,0.001313,0.07,nc,nc73928421,2023-08-25T20:23:25.135Z,"7 km NW of The Geysers, CA",earthquake,0.08,0.12,,5,reviewed,nc,nc
-2023-08-25T14:13:27.410Z,33.8203333,-118.2518333,7.98,2.65,ml,60,72,0.05336,0.3,ci,ci39650530,2023-08-25T19:42:41.358Z,"3 km ESE of Carson, CA",earthquake,0.35,1.04,0.095,23,automatic,ci,ci
+2023-08-25T14:13:27.410Z,33.8203333,-118.2518333,7.98,2.65,ml,60,72,0.05336,0.3,ci,ci39650530,2023-08-25T20:32:23.251Z,"3 km ESE of Carson, CA",earthquake,0.35,1.04,0.095,23,automatic,ci,ci
 2023-08-25T14:05:05.410Z,38.8208351,-122.7971649,2.99,0.74,md,11,88,0.01293,0.02,nc,nc73928396,2023-08-25T14:30:15.298Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.97,0.09,12,automatic,nc,nc
 2023-08-25T14:02:05.308Z,59.7525,-153.3712,116.2,2,ml,,,,0.69,ak,ak023aw6prci,2023-08-25T14:05:19.653Z,"41 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-25T13:52:28.970Z,18.7648333333333,-155.477333333333,13.07,3.04,ml,27,282,,0.11,hv,hv73543987,2023-08-25T20:02:56.530Z,"35 km SSE of Naalehu, Hawaii",earthquake,0.76,0.65,0.250896824196688,23,reviewed,hv,hv
@@ -155,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T08:24:59.910Z,34.4285,-119.1971667,3.32,1.03,ml,10,147,0.05003,0.29,ci,ci39650370,2023-08-25T08:28:35.244Z,"5 km ESE of Ojai, CA",earthquake,0.56,0.58,0.157,7,automatic,ci,ci
 2023-08-25T08:24:04.179Z,20.3241,-109.1215,10,4.4,mb,126,201,6.568,1.14,us,us7000kqwh,2023-08-25T13:05:59.040Z,"Revilla Gigedo Islands region",earthquake,10.76,1.962,0.039,190,reviewed,us,us
 2023-08-25T07:55:15.527Z,39.9599,-120.5693,9.2,1.2,ml,8,238.84,0.186,0.1622,nn,nn00865028,2023-08-25T16:41:57.574Z,"12 km NW of Lake Davis, California",earthquake,,4.1,0.28,5,reviewed,nn,nn
+2023-08-25T07:48:53.193Z,39.5862,-119.9943,2.4,0.5,ml,3,264.97,0.033,0.0615,nn,nn00865035,2023-08-25T20:29:32.193Z,"7 km NNE of Verdi, California",earthquake,,5.9,0,1,reviewed,nn,nn
 2023-08-25T07:48:24.463Z,39.5851,-119.9929,2.7,0.4,ml,3,267.7,0.033,0.0599,nn,nn00865034,2023-08-25T20:20:14.259Z,"6 km NNE of Verdi, California",earthquake,,4.5,0.21,3,reviewed,nn,nn
 2023-08-25T07:46:59.030Z,17.9576666666667,-66.8291666666667,18.69,2.33,md,14,206,0.05072,0.15,pr,pr71422118,2023-08-25T08:03:53.220Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.69,0.55,0.200578867446,5,reviewed,pr,pr
 2023-08-25T07:40:34.710Z,34.4621667,-119.2095,6.33,0.99,ml,15,107,0.06461,0.22,ci,ci39650362,2023-08-25T16:59:38.132Z,"3 km ENE of Ojai, CA",earthquake,0.53,0.81,0.177,6,reviewed,ci,ci
@@ -288,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T20:44:56.337Z,63.2159,-150.5536,119.8,1.3,ml,,,,0.35,ak,ak023aun04ht,2023-08-24T20:47:02.585Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-24T20:37:55.990Z,33.8608333,-117.501,0.57,1.29,ml,30,55,0.06361,0.29,ci,ci39649962,2023-08-24T20:41:34.098Z,"3 km SE of Home Gardens, CA",quarry blast,0.48,31.61,0.188,36,automatic,ci,ci
 2023-08-24T20:33:32.960Z,41.6121667,-112.8878333,4.85,1.08,md,13,197,0.1875,0.14,uu,uu60548257,2023-08-24T20:44:57.480Z,"41 km SSW of Snowville, Utah",earthquake,0.8,4.31,0.194,4,reviewed,uu,uu
-2023-08-24T20:33:16.330Z,18.7728333333333,-65.2263333333333,57.17,3.19,md,10,251,0.4903,0.12,pr,pr71422063,2023-08-24T20:55:45.480Z,"52 km N of Culebra, Puerto Rico",earthquake,1.34,2.01,0.0405107525366037,6,reviewed,pr,pr
