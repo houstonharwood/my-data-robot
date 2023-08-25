@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T12:49:46.260Z,40.5343323,-124.4348297,19.33,2.1,md,10,299,0.09463,0.12,nc,nc73928371,2023-08-25T12:56:11.766Z,"15 km WSW of Ferndale, CA",earthquake,2.93,0.6,0.08,7,automatic,nc,nc
+2023-08-25T12:46:47.900Z,38.8409996,-122.7751694,0.9,0.71,md,9,136,0.001866,0.02,nc,nc73928366,2023-08-25T12:48:22.325Z,"5 km WNW of Cobb, CA",earthquake,0.35,0.52,0.37,10,automatic,nc,nc
 2023-08-25T12:26:01.880Z,38.8453331,-122.8174973,1.62,0.76,md,8,122,0.01037,0.02,nc,nc73928361,2023-08-25T12:43:11.692Z,"9 km WNW of Cobb, CA",earthquake,0.57,1.01,0.31,8,automatic,nc,nc
 2023-08-25T12:18:02.484Z,58.9053,-152.3505,58.7,3.7,ml,,,,0.26,ak,ak023aw5mbdk,2023-08-25T12:27:46.040Z,"55 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-25T12:14:24.560Z,62.4754,-152.0203,101.6,1.6,ml,,,,0.4,ak,ak023aw5li7s,2023-08-25T12:17:41.142Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -176,6 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T17:38:13.350Z,36.2125,-118.3043333,2.85,2.65,ml,30,88,0.2903,0.18,ci,ci39649714,2023-08-24T18:44:42.177Z,"28 km WSW of Olancha, CA",earthquake,0.2,1.8,0.179,29,reviewed,ci,ci
 2023-08-24T17:27:16.537Z,64.434,-147.9528,13.9,0.8,ml,,,,0.28,ak,ak023aul43fp,2023-08-24T17:29:28.482Z,"42 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-24T17:26:49.680Z,40.533,-112.1718333,2.89,1.37,md,12,93,0.06506,0.12,uu,uu60033649,2023-08-24T19:18:13.430Z,"4 km SW of Bingham Canyon, Utah",earthquake,0.52,0.66,0.339,3,reviewed,uu,uu
+2023-08-24T17:15:50.340Z,34.69383333,-96.74016667,0,1.01,ml,25,86,0.1727660974,0.38,ok,ok2023qork,2023-08-25T12:50:27.397Z,"4 km NE of Fitzhugh, Oklahoma",quarry blast,,0.8,0.2,14,reviewed,ok,ok
 2023-08-24T17:14:52.610Z,64.7539,-150.7379,8.6,1.1,ml,,,,0.55,ak,ak023aul1dwt,2023-08-24T17:16:47.773Z,"27 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T17:10:13.630Z,19.4090003967285,-154.908493041992,2.36999988555908,1.76999998,md,18,206,,0.129999995,hv,hv73542367,2023-08-24T17:13:33.420Z,"6 km S of Leilani Estates, Hawaii",earthquake,0.77,0.479999989,0.699999988,3,automatic,hv,hv
 2023-08-24T17:04:57.790Z,38.8271675,-122.803833,1.55,0.75,md,8,100,0.006161,0.01,nc,nc73928036,2023-08-24T17:23:14.917Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.15,0.07,8,automatic,nc,nc
@@ -234,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T13:14:10.400Z,38.7789993,-122.7663345,1.25,1.84,md,33,76,0.02202,0.06,nc,nc73927971,2023-08-24T15:36:13.309Z,"1 km WNW of The Geysers, CA",earthquake,0.21,0.34,0.16,34,automatic,nc,nc
 2023-08-24T13:11:49.340Z,19.3776664733887,-155.279663085938,1.28999996185303,1.82,ml,15,95,,0.100000001,hv,hv73541982,2023-08-24T13:17:20.270Z,"8 km SSW of Volcano, Hawaii",earthquake,0.2,0.280000001,0.19,7,automatic,hv,hv
 2023-08-24T13:07:18.290Z,38.7886658,-122.7421646,0.67,0.9,md,10,88,0.006889,0.04,nc,nc73927966,2023-08-24T13:24:11.527Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.9,0.17,10,automatic,nc,nc
-2023-08-24T12:46:51.450Z,35.9098333,-117.7498333,8.07,0.98,ml,17,59,0.06776,0.12,ci,ci39649394,2023-08-24T22:12:13.706Z,"14 km ESE of Little Lake, CA",earthquake,0.21,0.46,0.22,7,reviewed,ci,ci
-2023-08-24T12:44:06.000Z,19.1896667480469,-155.473495483398,32.3600006103516,1.83000004,md,37,155,,0.119999997,hv,hv73541917,2023-08-24T12:47:08.140Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.75999999,1.83000004,4,automatic,hv,hv
-2023-08-24T12:43:52.462Z,41.7427,-81.0171,7.048,2.3,mb_lg,15,159,0.854,0.29,us,us7000kqmi,2023-08-24T20:46:10.399Z,"4 km SE of Madison, Ohio",earthquake,2.18,3.546,0.132,15,reviewed,us,us
