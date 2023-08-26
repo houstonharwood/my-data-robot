@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-26T19:28:05.740Z,35.645,-117.4701667,4.84,1.08,ml,14,104,0.04283,0.17,ci,ci39651938,2023-08-26T19:31:39.787Z,"15 km SSW of Searles Valley, CA",earthquake,0.39,0.64,0.223,9,automatic,ci,ci
 2023-08-26T19:23:53.494Z,62.9062,-150.73,95.4,1.5,ml,,,,0.34,ak,ak023axxcvmd,2023-08-26T19:27:16.196Z,"45 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-26T19:18:32.440Z,38.8339996,-122.7903366,4.9,0.68,md,13,56,0.004403,0.06,nc,nc73929616,2023-08-26T19:20:06.712Z,"6 km WNW of Cobb, CA",earthquake,0.62,1.8,0.3,13,automatic,nc,nc
+2023-08-26T19:18:32.440Z,38.8339996,-122.7903366,4.9,0.68,md,13,56,0.004403,0.06,nc,nc73929616,2023-08-26T19:36:13.143Z,"6 km WNW of Cobb, CA",earthquake,0.62,1.8,0.3,13,automatic,nc,nc
 2023-08-26T19:06:38.142Z,60.5966,-151.8396,76,1.4,ml,,,,0.33,ak,ak023axx979i,2023-08-26T19:08:22.528Z,"28 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-26T18:45:51.350Z,40.2076683,-121.1579971,1.48,2.22,md,6,212,0.2428,0.15,nc,nc73929606,2023-08-26T19:09:10.992Z,"0 km WSW of Prattville, CA",earthquake,1.88,12.63,0.03,5,automatic,nc,nc
 2023-08-26T18:19:03.580Z,38.8199997,-122.814003,2.85,0.79,md,9,69,0.004573,0.02,nc,nc73929586,2023-08-26T18:38:12.801Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.15,0.13,10,automatic,nc,nc
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T17:26:44.400Z,38.8364983,-122.7914963,1.83,0.78,md,16,58,0.00211,0.02,nc,nc73929571,2023-08-26T18:47:14.855Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.43,0.12,17,automatic,nc,nc
 2023-08-26T17:26:15.439Z,62.3158,-151.3345,89.6,1.5,ml,,,,0.18,ak,ak023axw6kmf,2023-08-26T17:28:09.308Z,"35 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-26T17:25:08.180Z,35.2098333,-118.6698333,8.46,0.97,ml,17,77,0.02626,0.29,ci,ci39651882,2023-08-26T17:28:37.623Z,"14 km E of Arvin, CA",earthquake,0.57,1.1,0.168,13,automatic,ci,ci
-2023-08-26T17:16:10.010Z,19.1971664428711,-155.380340576172,31.4899997711182,2.05999994,md,41,175,,0.100000001,hv,hv73545922,2023-08-26T17:19:17.200Z,"Hawaii region, Hawaii",earthquake,0.66,0.74000001,0.959999979,7,automatic,hv,hv
+2023-08-26T17:16:10.010Z,19.1971664428711,-155.380340576172,31.4899997711182,2.05999994,md,41,175,,0.100000001,hv,hv73545922,2023-08-26T17:19:17.200Z,"10 km E of Pāhala, Hawaii",earthquake,0.66,0.74000001,0.959999979,7,automatic,hv,hv
 2023-08-26T16:51:24.330Z,38.8121681,-122.8195038,2.86,0.76,md,18,56,0.008245,0.02,nc,nc73929561,2023-08-26T17:08:13.284Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.61,0.16,19,automatic,nc,nc
 2023-08-26T16:49:45.360Z,19.3876667022705,-155.27766418457,0.829999983310699,1.74,ml,17,64,,0.209999993,hv,hv73545877,2023-08-26T16:55:16.610Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.349999994,2.68,9,automatic,hv,hv
 2023-08-26T16:37:59.800Z,33.485,-116.5915,8.92,1.88,ml,62,21,0.01403,0.2,ci,ci39651874,2023-08-26T16:49:13.300Z,"11 km SE of Anza, CA",earthquake,0.18,0.43,0.264,25,automatic,ci,ci
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T20:03:49.631Z,-6.0887,147.6614,60.151,4.5,mb,29,103,3.332,0.48,us,us7000kr17,2023-08-26T17:45:54.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.62,8.032,0.111,27,reviewed,us,us
 2023-08-25T19:50:28.490Z,61.6946,-149.8878,29.3,1.6,ml,,,,0.5,ak,ak023aw9z9j5,2023-08-25T19:52:26.525Z,"8 km NNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T19:41:04.109Z,60.1752,-150.8536,58.4,1.4,ml,,,,0.3,ak,ak023aw9xa7e,2023-08-25T19:43:24.652Z,"29 km SE of Kasilof, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-08-25T19:39:02.900Z,38.8198318,-122.814003,3.04,0.89,md,13,69,0.004699,0.02,nc,nc73929016,2023-08-25T20:25:13.310Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.83,0.27,13,automatic,nc,nc
-2023-08-25T19:39:02.476Z,63.2975,-149.9078,82.7,1.8,ml,,,,0.33,ak,ak023aw9wunb,2023-08-25T19:40:58.390Z,"49 km WSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
