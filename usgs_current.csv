@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-28T04:06:35.351Z,58.6868,-154.0503,83,2.2,ml,,,,0.15,ak,ak023b0zedyn,2023-08-28T04:07:51.460Z,"93 km SSE of Kokhanok, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-08-28T03:12:48.800Z,36.277832,-120.8258362,7,1.52,md,11,143,0.06492,0.08,nc,nc73930056,2023-08-28T03:29:19.873Z,"21 km SW of New Idria, CA",earthquake,0.36,0.63,0.3,7,automatic,nc,nc
 2023-08-28T03:10:50.600Z,33.9736667,-117.1618333,12.84,0.85,ml,27,97,0.07407,0.18,ci,ci39652842,2023-08-28T03:14:22.592Z,"8 km NE of Moreno Valley, CA",earthquake,0.28,0.83,0.114,16,automatic,ci,ci
 2023-08-28T03:04:31.984Z,61.1745,-151.1679,50.9,1.3,ml,,,,0.51,ak,ak023b0ysiny,2023-08-28T03:06:10.118Z,"5 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-28T02:55:05.650Z,38.7854996,-122.7088318,0.08,1.84,md,8,84,0.03532,0.05,nc,nc73930051,2023-08-28T03:12:14.779Z,"2 km NW of Anderson Springs, CA",earthquake,0.29,1.04,0.14,10,automatic,nc,nc
-2023-08-28T02:43:26.178Z,41.7374,-80.9694,5,3.6,mwr,76,47,0.824,0.77,us,us7000krer,2023-08-28T03:53:45.435Z,"7 km ESE of Madison, Ohio",earthquake,4.75,1.971,0.041,58,reviewed,us,us
+2023-08-28T02:43:26.178Z,41.7374,-80.9694,5,3.6,mwr,76,47,0.824,0.77,us,us7000krer,2023-08-28T04:04:26.162Z,"7 km ESE of Madison, Ohio",earthquake,4.75,1.971,0.041,58,reviewed,us,us
 2023-08-28T02:43:18.880Z,35.68,-117.5425,2.49,1.49,ml,20,74,0.09785,0.19,ci,ci39652834,2023-08-28T02:46:55.454Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.7,0.125,15,automatic,ci,ci
 2023-08-28T02:42:55.780Z,19.3646659851074,-155.298004150391,2.13000011444092,1.8,ml,14,103,,0.200000003,hv,hv73548772,2023-08-28T02:48:27.220Z,"10 km SW of Volcano, Hawaii",earthquake,0.39,0.569999993,0.19,3,automatic,hv,hv
 2023-08-28T02:33:50.700Z,33.0708333,-116.4248333,14.8,0.99,ml,24,66,0.09947,0.18,ci,ci39652826,2023-08-28T02:37:19.735Z,"16 km E of Julian, CA",earthquake,0.29,0.62,0.185,15,automatic,ci,ci
@@ -16,7 +17,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T02:02:00.240Z,32.3476667,-115.056,19.55,2.05,ml,13,104,0.04774,0.21,ci,ci39652794,2023-08-28T02:05:30.010Z,"8 km NE of Guadalupe Victoria, B.C., MX",earthquake,0.65,0.69,0.252,16,automatic,ci,ci
 2023-08-28T01:58:27.757Z,64.6837,-150.1198,27.6,0.9,ml,,,,0.49,ak,ak023b0xx7sn,2023-08-28T01:59:52.395Z,"42 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-28T01:57:40.300Z,35.6833333,-117.5438333,6.73,1.48,ml,23,75,0.09948,0.18,ci,ci39652786,2023-08-28T02:08:07.190Z,"14 km ENE of Ridgecrest, CA",earthquake,0.33,1.23,0.098,15,automatic,ci,ci
-2023-08-28T01:24:31.710Z,58.38,-154.2989,14.6,1.9,ml,,,,0.91,ak,ak023b0xpxr7,2023-08-28T01:27:27.570Z,"Alaska Peninsula",earthquake,,2.1,,,automatic,ak,ak
 2023-08-28T01:22:43.350Z,33.1776667,-116.3055,9.66,1.5,ml,45,50,0.04572,0.24,ci,ci39652762,2023-08-28T01:26:27.807Z,"11 km SE of Borrego Springs, CA",earthquake,0.27,0.75,0.163,26,automatic,ci,ci
 2023-08-28T01:06:50.750Z,35.0776667,-118.4095,0.79,1.07,ml,15,72,0.1032,0.17,ci,ci39652754,2023-08-28T01:10:29.430Z,"7 km SSE of Tehachapi, CA",earthquake,0.33,0.68,0.136,15,automatic,ci,ci
 2023-08-28T00:53:40.550Z,18.1916666666667,-66.1813333333333,78.9,2.88,md,12,136,0.2139,0.16,pr,pr71422403,2023-08-28T01:15:10.390Z,"2 km NNE of Parcelas La Milagrosa, Puerto Rico",earthquake,1.3,0.93,0.127022243465665,6,reviewed,pr,pr
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T04:18:31.180Z,36.2885,-121.6686667,11.3,0.88,md,20,85,0.08471,0.09,nc,nc73929781,2023-08-27T23:13:53.592Z,"21 km E of Point Sur, CA",earthquake,0.36,0.61,0.417,17,reviewed,nc,nc
 2023-08-27T04:17:23.520Z,35.6743333,-117.5336667,4.28,1.53,ml,23,54,0.09,0.16,ci,ci39652210,2023-08-27T05:16:39.511Z,"14 km ENE of Ridgecrest, CA",earthquake,0.29,0.86,0.084,14,automatic,ci,ci
 2023-08-27T04:09:15.536Z,59.5955,-152.6866,84.7,2.9,ml,,,,0.23,ak,ak023azbvn35,2023-08-27T04:18:35.040Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-27T04:05:13.910Z,38.8393326,-122.7878342,5.44,0.43,md,8,130,0.002166,0.08,nc,nc73929771,2023-08-27T04:25:18.074Z,"6 km WNW of Cobb, CA",earthquake,0.96,1.33,0.36,9,automatic,nc,nc
