@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-29T06:42:31.370Z,38.8286667,-122.8128357,1.26,0.7,md,6,130,0.005689,0.01,nc,nc73930441,2023-08-29T06:44:06.342Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.11,0.17,9,automatic,nc,nc
 2023-08-29T06:28:53.354Z,60.1404,-153.0644,125.5,2,ml,,,,0.5,ak,ak023b2o9ct3,2023-08-29T06:32:34.122Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-29T06:14:31.150Z,33.8368333,-117.7408333,12.55,1.14,ml,13,106,0.08781,0.25,ci,ci39653882,2023-08-29T06:18:07.517Z,"7 km ENE of Villa Park, CA",earthquake,0.62,1.26,0.277,10,automatic,ci,ci
 2023-08-29T06:09:58.266Z,57.7771,-156.3921,128,2.3,ml,,,,0.14,ak,ak023b2o5aky,2023-08-29T06:32:41.040Z,"66 km ENE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -202,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T09:11:23.900Z,35.8288333,-117.6615,9.12,1.04,ml,14,127,0.08642,0.19,ci,ci39652922,2023-08-28T09:14:58.721Z,"23 km N of Ridgecrest, CA",earthquake,0.48,1.31,0.126,7,automatic,ci,ci
 2023-08-28T09:08:33.327Z,37.0824,142.3857,15.039,4.8,mb,66,117,3.395,1.01,us,us7000krg2,2023-08-28T10:54:35.040Z,"124 km ESE of Tomioka, Japan",earthquake,8.14,4.707,0.061,84,reviewed,us,us
 2023-08-28T09:01:41.686Z,38.6269,-119.342,5.5,1.1,ml,10,89.44,0.144,0.1637,nn,nn00865183,2023-08-29T02:04:33.627Z,"15 km E of Topaz, California",earthquake,,3.7,0.14,4,reviewed,nn,nn
-2023-08-28T09:00:16.300Z,51.8586666666667,-178.150833333333,4.68,1.16,ml,5,231,,0.14,av,av92023191,2023-08-29T00:11:15.610Z,"104 km W of Adak, Alaska",earthquake,0.65,0.71,0.196974769242389,5,reviewed,av,av
+2023-08-28T09:00:16.300Z,51.8586666666667,-178.150833333333,4.68,1.16,ml,5,231,,0.14,av,av92023191,2023-08-29T00:11:15.610Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.65,0.71,0.196974769242389,5,reviewed,av,av
 2023-08-28T08:57:33.500Z,53.3475,-168.195,6.7,-0.27,ml,5,307,,0.32,av,av92023186,2023-08-29T00:06:52.280Z,"63 km NE of Nikolski, Alaska",earthquake,2.56,1.19,0.302845003314515,4,reviewed,av,av
 2023-08-28T08:55:28.500Z,19.3825,-155.281666666667,1.39,0.52,md,20,74,,0.08,hv,hv73549347,2023-08-28T09:09:13.510Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.18,0.0239374729479922,3,reviewed,hv,hv
 2023-08-28T08:54:41.830Z,19.3813333333333,-155.2825,1.24,1.51,md,16,83,,0.09,hv,hv73549342,2023-08-28T09:12:20.240Z,"8 km SW of Volcano, Hawaii",earthquake,0.28,0.19,0.180062285734862,2,reviewed,hv,hv
@@ -233,8 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T06:53:08.900Z,19.3745002746582,-155.290161132812,0.709999978542328,1.75,ml,14,150,,0.189999998,hv,hv73549187,2023-08-28T06:58:40.300Z,"9 km SW of Volcano, Hawaii",earthquake,0.25,0.370000005,0.32,5,automatic,hv,hv
 2023-08-28T06:52:02.440Z,54.726,-164.069666666667,17.2,0.79,ml,5,214,,0.11,av,av92023141,2023-08-28T23:35:58.480Z,"44 km WSW of False Pass, Alaska",earthquake,0.9,0.68,0.271330777352617,5,reviewed,av,av
 2023-08-28T06:51:58.140Z,19.3636665344238,-155.289001464844,1.58000004291534,1.77,ml,18,114,,0.150000006,hv,hv73549182,2023-08-28T06:57:28.840Z,"10 km SSW of Volcano, Hawaii",earthquake,0.32,0.430000007,0.41,5,automatic,hv,hv
-2023-08-28T06:47:20.930Z,19.3871669769287,-155.278671264648,0.920000016689301,1.85,ml,21,66,,0.109999999,hv,hv73549177,2023-08-28T06:52:52.070Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.180000007,0.2,6,automatic,hv,hv
-2023-08-28T06:45:37.620Z,35.769,-117.5965,8.73,0.5,ml,11,169,0.1425,0.22,ci,ci39652890,2023-08-28T06:49:13.378Z,"17 km W of Searles Valley, CA",earthquake,0.92,2.35,0.162,4,automatic,ci,ci
-2023-08-28T06:45:03.058Z,61.0841,-150.3325,13.2,1.5,ml,,,,0.72,ak,ak023b10tjlt,2023-08-28T06:46:44.577Z,"26 km NE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-28T06:44:15.040Z,19.3886661529541,-155.280838012695,1.19000005722046,1.91,ml,18,60,,0.280000001,hv,hv73549172,2023-08-28T06:49:46.150Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.310000002,0.27,9,automatic,hv,hv
-2023-08-28T06:41:44.304Z,36.7772,-115.8885,7.5,0.1,ml,5,271.4,0.049,0.1187,nn,nn00865146,2023-08-29T02:04:09.676Z,"30 km NW of Indian Springs, Nevada",earthquake,,7.9,0.23,2,reviewed,nn,nn
