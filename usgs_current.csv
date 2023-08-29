@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T08:08:53.410Z,33.0295,-117.8636667,21.24,1.63,ml,8,239,0.5468,0.2,ci,ci39653914,2023-08-29T11:57:00.326Z,"50 km WSW of Carlsbad, CA",earthquake,2.44,12.58,0.066,16,automatic,ci,ci
 2023-08-29T08:08:43.211Z,39.3739,78.0863,10,4.6,mb,35,71,2.362,1.25,us,us7000kru3,2023-08-29T08:51:27.040Z,"76 km NE of Dunbage, China",earthquake,7.69,1.915,0.137,16,reviewed,us,us
 2023-08-29T08:07:23.250Z,18.6481666666667,-65.0856666666667,30.8,3.21,md,13,256,0.6061,0.24,pr,pr71422468,2023-08-29T08:22:54.870Z,"37 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.76,7.4,0.0637371280197674,8,reviewed,pr,pr
-2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-29T15:34:38.402Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
+2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-29T15:39:54.703Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
 2023-08-29T07:58:22.440Z,36.742,-121.3925,10.64,0.59,md,12,196,0.04914,0.09,nc,nc73930451,2023-08-29T09:48:12.022Z,"8 km SSW of Ridgemark, CA",earthquake,0.75,0.57,0.359,10,reviewed,nc,nc
 2023-08-29T07:53:27.420Z,33.5195,-116.5048333,14.19,0.4,ml,14,91,0.04375,0.14,ci,ci39653898,2023-08-29T07:57:04.947Z,"16 km ESE of Anza, CA",earthquake,0.46,0.61,0.07,4,automatic,ci,ci
 2023-08-29T07:38:01.860Z,33.5221667,-116.7546667,3.96,0.25,ml,17,62,0.0394,0.15,ci,ci39653890,2023-08-29T07:41:34.183Z,"8 km WSW of Anza, CA",earthquake,0.3,0.65,0.069,6,automatic,ci,ci
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T18:39:23.410Z,38.5701667,-112.7098333,2.79,0.78,ml,12,120,0.1007,0.07,uu,uu60548587,2023-08-28T20:32:11.050Z,"32 km NE of Milford, Utah",earthquake,0.45,2.36,0.148,3,reviewed,uu,uu
 2023-08-28T18:38:26.520Z,36.7453333,-121.3916667,10.81,0.89,md,14,111,0.04836,0.08,nc,nc73930191,2023-08-29T00:32:15.959Z,"8 km SSW of Ridgemark, CA",earthquake,0.39,0.55,0.275,10,reviewed,nc,nc
 2023-08-28T18:36:19.850Z,36.7426682,-121.394165,11.05,1.46,md,11,107,,0.13,nc,nc73930181,2023-08-28T21:10:18.792Z,"8 km SSW of Ridgemark, CA",earthquake,0.63,1.35,0.31,9,automatic,nc,nc
-2023-08-28T18:35:07.750Z,35.0328333,-117.6861667,0.32,1.69,ml,28,87,0.09857,0.29,ci,ci39653442,2023-08-28T18:38:46.334Z,"5 km NW of Boron, CA",quarry blast,0.63,31.61,0.126,33,automatic,ci,ci
+2023-08-28T18:35:07.400Z,35.0318333,-117.6838333,-0.79,1.75,ml,36,51,0.09775,0.19,ci,ci39653450,2023-08-29T15:40:34.070Z,"5 km NW of Boron, CA",quarry blast,0.35,31.61,0.154,26,reviewed,ci,ci
 2023-08-28T18:21:47.080Z,36.743,-121.394,11.11,0.54,md,11,195,0.04762,0.08,nc,nc73930176,2023-08-29T00:22:17.902Z,"8 km SSW of Ridgemark, CA",earthquake,0.45,0.53,0.11,7,reviewed,nc,nc
 2023-08-28T18:20:11.170Z,34.0195,-116.7228333,17.74,1.13,ml,26,116,0.06502,0.16,ci,ci39653418,2023-08-28T18:23:44.238Z,"13 km NNE of Cabazon, CA",earthquake,0.3,0.61,0.173,27,automatic,ci,ci
 2023-08-28T18:10:47.280Z,19.3823337554932,-155.279159545898,0.930000007152557,1.77999997,md,17,80,,0.150000006,hv,hv73550157,2023-08-28T18:13:51.790Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.189999998,0.75999999,11,automatic,hv,hv
@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T16:10:54.157Z,62.3339,-149.8618,0,1,ml,,,,0.41,ak,ak023b16khj3,2023-08-28T16:13:57.524Z,"12 km E of Talkeetna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-28T16:01:46.630Z,52.0861666666667,-176.152,3.41,0.55,ml,6,152,,0.32,av,av92023391,2023-08-29T01:33:14.580Z,"40 km NE of Adak, Alaska",earthquake,1.17,1.81,0.166739139551932,6,reviewed,av,av
 2023-08-28T15:57:25.789Z,63.5201,-150.8942,10.3,2.3,ml,,,,0.94,ak,ak023b1692dc,2023-08-28T17:32:36.428Z,"41 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-28T15:40:10.440Z,38.8125,-122.8138351,3.04,0.38,md,9,92,0.01252,0.01,nc,nc73930146,2023-08-28T16:52:15.310Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.19,0.25,10,automatic,nc,nc
