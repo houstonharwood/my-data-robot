@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T00:22:46.550Z,41.39,-111.6655,9.21,0.78,md,10,142,0.1382,0.09,uu,uu60548792,2023-08-31T00:39:09.290Z,"14 km ENE of Wolf Creek, Utah",earthquake,0.47,1.52,0.029,4,reviewed,uu,uu
 2023-08-31T00:20:51.973Z,-7.8694,122.6782,282.502,4.4,mb,20,92,2.445,0.67,us,us7000ks8q,2023-08-31T00:36:09.040Z,"97 km NNE of Maumere, Indonesia",earthquake,10.95,11.082,0.203,7,reviewed,us,us
 2023-08-31T00:17:23.865Z,59.2287,-151.9872,35.1,2,ml,,,,0.44,ak,ak023b5vp10i,2023-08-31T00:19:25.960Z,"14 km SSW of Nanwalek, Alaska",earthquake,,9.9,,,automatic,ak,ak
-2023-08-31T00:11:18.900Z,41.3895,-111.6551667,11.84,3.66,ml,38,78,,0.19,uu,uu60548782,2023-08-31T05:49:34.753Z,"15 km ENE of Wolf Creek, Utah",earthquake,0.33,0.52,0.2,35,reviewed,uu,uu
+2023-08-31T00:11:18.900Z,41.3895,-111.6551667,11.84,3.66,ml,38,78,,0.19,uu,uu60548782,2023-08-31T05:55:02.507Z,"15 km ENE of Wolf Creek, Utah",earthquake,0.33,0.52,0.2,35,reviewed,uu,uu
 2023-08-31T00:07:05.050Z,38.7944984,-122.7623367,5.39,0.64,md,6,128,0.02003,0.02,nc,nc73931126,2023-08-31T00:25:17.358Z,"2 km NNW of The Geysers, CA",earthquake,0.75,4.39,0.12,8,automatic,nc,nc
 2023-08-30T23:59:15.640Z,33.4903333,-116.7586667,6.78,0.99,ml,38,36,0.04118,0.21,ci,ci39655538,2023-08-31T00:02:47.488Z,"11 km SW of Anza, CA",earthquake,0.23,0.48,0.113,26,automatic,ci,ci
 2023-08-30T23:57:37.990Z,33.262,-116.4238333,3.09,0.77,ml,14,119,0.008336,0.25,ci,ci39655530,2023-08-31T00:01:11.903Z,"5 km W of Borrego Springs, CA",earthquake,0.59,1.24,0.078,13,automatic,ci,ci
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T15:24:08.813Z,38.4887,-118.0878,0,0.9,ml,4,145.08,0.404,0.1824,nn,nn00865286,2023-08-30T22:25:32.897Z,"11 km N of Mina, Nevada",earthquake,,0,0.09,2,reviewed,nn,nn
 2023-08-30T15:19:16.070Z,34.4103333,-119.2016667,2.91,1.5,ml,13,88,0.0593,0.19,ci,ci39654954,2023-08-30T21:44:45.764Z,"6 km SE of Ojai, CA",earthquake,0.26,0.39,0.185,16,reviewed,ci,ci
 2023-08-30T15:09:57.128Z,60.9555,-147.4285,1.7,0.9,ml,,,,0.74,ak,ak023b4h1jf8,2023-08-30T15:12:04.585Z,"41 km WNW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-30T15:05:32.165Z,32.91412354,-100.9037967,6.431599935,2.1,ml,14,75,0.03262104156,0.3,tx,tx2023qzmc,2023-08-30T16:08:03.479Z,"western Texas",earthquake,1.018317039,1.146376028,0.2,18,reviewed,tx,tx
+2023-08-30T15:05:32.165Z,32.91412354,-100.9037967,6.431599935,2.1,ml,14,75,0.03262104156,0.3,tx,tx2023qzmc,2023-08-30T16:08:03.479Z,"21 km N of Snyder, Texas",earthquake,1.018317039,1.146376028,0.2,18,reviewed,tx,tx
 2023-08-30T15:01:13.040Z,34.666,-119.5421667,14.05,1.14,ml,10,125,0.1325,0.13,ci,ci39654930,2023-08-30T21:17:00.804Z,"27 km NNE of Montecito, CA",earthquake,0.33,0.8,0.14,6,reviewed,ci,ci
 2023-08-30T15:00:43.570Z,58.1818333333333,-155.334333333333,2.02,0.28,ml,7,110,,0.06,av,av92025151,2023-08-30T22:23:58.460Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.39,0.210161680047794,7,reviewed,av,av
 2023-08-30T14:40:11.623Z,63.6416,-147.49,66.1,1.2,ml,,,,1.01,ak,ak023b4gmnii,2023-08-30T14:42:35.681Z,"71 km E of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T06:01:26.850Z,19.3864994049072,-155.27783203125,1.29999995231628,1.75,ml,18,67,,0.119999997,hv,hv73552727,2023-08-30T06:06:56.490Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.200000003,0.2,6,automatic,hv,hv
 2023-08-30T06:00:18.860Z,36.5535,-121.1063333,4.96,1.23,md,18,122,0.03784,0.14,nc,nc73930816,2023-08-30T19:28:12.809Z,"4 km NE of Pinnacles, CA",earthquake,0.36,0.6,0.167,16,reviewed,nc,nc
 2023-08-30T05:59:49.670Z,46.78,-121.96016666666667,9.38,0.58,ml,27,65,0.0345,0.12,uw,uw61946587,2023-08-30T18:22:40.020Z,"5 km ENE of Ashford, Washington",earthquake,0.25,0.35,0.15050696294839253,16,reviewed,uw,uw
-2023-08-30T05:50:57.010Z,17.951,-66.932,15.78,2.47,md,15,203,0.03064,0.12,pr,pr71422598,2023-08-30T07:15:38.670Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.63,0.32,0.187187037425772,11,reviewed,pr,pr
