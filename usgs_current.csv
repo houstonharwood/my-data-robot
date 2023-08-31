@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T03:53:08.790Z,19.3988342285156,-155.274002075195,1.11000001430511,2.43,ml,30,38,,0.219999999,hv,hv73554267,2023-08-31T03:58:40.020Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.38,15,automatic,hv,hv
 2023-08-31T03:50:44.520Z,37.5158333,-118.7701667,9.04,0.98,md,17,142,0.08764,0.04,nc,nc73931241,2023-08-31T04:48:13.442Z,"9 km WSW of Toms Place, CA",earthquake,0.99,0.7,0.116,17,reviewed,nc,nc
 2023-08-31T03:46:23.060Z,34.5041667,-119.0033333,4.18,1.84,ml,45,26,0.07569,0.29,ci,ci39655642,2023-08-31T03:56:40.410Z,"14 km NW of Fillmore, CA",earthquake,0.32,1.3,0.162,28,automatic,ci,ci
-2023-08-31T03:33:50.640Z,19.3395004272461,-155.299499511719,3.17000007629395,2.01999998,md,18,119,,0.170000002,hv,hv73554247,2023-08-31T03:36:43.630Z,"Island of Hawaii, Hawaii",earthquake,0.48,0.860000014,0.550000012,15,automatic,hv,hv
+2023-08-31T03:33:50.640Z,19.3433333333333,-155.304333333333,3.09,1.32,md,19,84,,0.11,hv,hv73554247,2023-08-31T04:53:34.160Z,"13 km SW of Volcano, Hawaii",earthquake,0.27,0.43,0.134696017159623,4,reviewed,hv,hv
 2023-08-31T03:25:59.750Z,33.4866667,-116.7568333,6.88,0.97,ml,43,41,0.04449,0.22,ci,ci39655634,2023-08-31T03:29:36.889Z,"11 km SW of Anza, CA",earthquake,0.22,0.49,0.138,26,automatic,ci,ci
 2023-08-31T03:23:16.880Z,33.7021667,-116.8126667,15.28,0.9,ml,32,63,0.07771,0.15,ci,ci39655626,2023-08-31T03:26:48.641Z,"9 km SE of Valle Vista, CA",earthquake,0.25,0.39,0.212,28,automatic,ci,ci
 2023-08-31T03:10:02.670Z,33.4953333,-116.5848333,9.18,0.54,ml,25,78,0.01453,0.17,ci,ci39655610,2023-08-31T03:13:36.604Z,"11 km SE of Anza, CA",earthquake,0.31,0.45,0.171,13,automatic,ci,ci
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T00:22:46.550Z,41.39,-111.6655,9.21,0.78,md,10,142,0.1382,0.09,uu,uu60548792,2023-08-31T00:39:09.290Z,"14 km ENE of Wolf Creek, Utah",earthquake,0.47,1.52,0.029,4,reviewed,uu,uu
 2023-08-31T00:20:51.973Z,-7.8694,122.6782,282.502,4.4,mb,20,92,2.445,0.67,us,us7000ks8q,2023-08-31T00:36:09.040Z,"97 km NNE of Maumere, Indonesia",earthquake,10.95,11.082,0.203,7,reviewed,us,us
 2023-08-31T00:17:23.865Z,59.2287,-151.9872,35.1,2,ml,,,,0.44,ak,ak023b5vp10i,2023-08-31T00:19:25.960Z,"Kenai Peninsula, Alaska",earthquake,,9.9,,,automatic,ak,ak
-2023-08-31T00:11:18.900Z,41.3895,-111.6551667,11.84,3.66,ml,38,78,,0.19,uu,uu60548782,2023-08-31T04:47:04.037Z,"Utah",earthquake,0.33,0.52,0.2,35,reviewed,uu,uu
+2023-08-31T00:11:18.900Z,41.3895,-111.6551667,11.84,3.66,ml,38,78,,0.19,uu,uu60548782,2023-08-31T04:52:08.461Z,"Utah",earthquake,0.33,0.52,0.2,35,reviewed,uu,uu
 2023-08-31T00:07:05.050Z,38.7944984,-122.7623367,5.39,0.64,md,6,128,0.02003,0.02,nc,nc73931126,2023-08-31T00:25:17.358Z,"2 km NNW of The Geysers, CA",earthquake,0.75,4.39,0.12,8,automatic,nc,nc
 2023-08-30T23:59:15.640Z,33.4903333,-116.7586667,6.78,0.99,ml,38,36,0.04118,0.21,ci,ci39655538,2023-08-31T00:02:47.488Z,"11 km SW of Anza, CA",earthquake,0.23,0.48,0.113,26,automatic,ci,ci
 2023-08-30T23:57:37.990Z,33.262,-116.4238333,3.09,0.77,ml,14,119,0.008336,0.25,ci,ci39655530,2023-08-31T00:01:11.903Z,"5 km W of Borrego Springs, CA",earthquake,0.59,1.24,0.078,13,automatic,ci,ci
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T19:37:52.089Z,61.1036,-148.7791,26.5,1.2,ml,,,,1.17,ak,ak023b4jl9hz,2023-08-30T19:49:50.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-30T19:35:23.410Z,34.189,-116.8646667,8.75,1.17,ml,37,39,0.08664,0.13,ci,ci39655266,2023-08-30T22:03:56.010Z,"8 km SE of Big Bear Lake, CA",earthquake,0.2,0.43,0.175,24,reviewed,ci,ci
 2023-08-30T19:33:58.717Z,39.6903,-119.899,6.2,0.7,ml,6,86.54,0.096,0.0826,nn,nn00865289,2023-08-30T22:44:09.804Z,"6 km E of Cold Springs, Nevada",earthquake,,3.2,0.5,4,reviewed,nn,nn
-2023-08-30T19:24:50.908Z,-26.2674,27.7464,5,3.5,mb_lg,10,133,2.307,0.61,us,us7000ks6b,2023-08-31T04:34:09.839Z,"10 km SSE of Randfontein, South Africa",earthquake,6.58,2.003,0.17,9,reviewed,us,us
+2023-08-30T19:24:50.908Z,-26.2674,27.7464,5,3.5,mb_lg,10,133,2.307,0.61,us,us7000ks6b,2023-08-31T04:54:43.562Z,"10 km SSE of Randfontein, South Africa",earthquake,6.58,2.003,0.17,9,reviewed,us,us
 2023-08-30T19:14:40.100Z,35.1445,-97.54333333,6.33,1.97,ml,94,45,0.07378552076,0.29,ok,ok2023qzui,2023-08-31T03:40:44.988Z,"5 km NNE of Cole, Oklahoma",earthquake,,0.5,0.19,40,reviewed,ok,ok
 2023-08-30T19:10:52.900Z,37.6741676,-121.9083328,16.59,1.4,md,6,169,0.07621,0.01,nc,nc73931031,2023-08-30T19:28:12.665Z,"3 km WNW of Pleasanton, CA",earthquake,1.96,0.82,0.15,5,automatic,nc,nc
 2023-08-30T18:59:25.717Z,54.9345,-161.3526,51.282,5.1,mww,88,153,0.653,0.77,us,us7000ks64,2023-08-31T00:38:44.412Z,"63 km ESE of King Cove, Alaska",earthquake,8.04,5.493,0.05,38,reviewed,us,us
@@ -262,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T05:27:55.580Z,51.856,179.636833333333,8.98,0.82,ml,4,311,,0.24,av,av92024691,2023-08-30T19:34:07.630Z,"256 km W of Adak, Alaska",earthquake,1.67,2.37,0.46989433676918,4,reviewed,av,av
 2023-08-30T05:08:35.646Z,61.4894,-147.7744,20.8,1.2,ml,,,,0.58,ak,ak023b4b2y0c,2023-08-30T05:10:36.098Z,"36 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-30T05:05:42.548Z,31.60325829,-104.102984,6.234399414,2.2,ml,20,58,0.03176024668,0.1,tx,tx2023qysi,2023-08-30T08:39:52.655Z,"43 km NW of Toyah, Texas",earthquake,0.6939308466,0.5510098019000002,0.1,21,reviewed,tx,tx
-2023-08-30T04:55:53.980Z,38.7970009,-122.7388306,1.96,0.74,md,8,118,0.01384,0.01,nc,nc73930801,2023-08-30T06:01:11.983Z,"3 km NE of The Geysers, CA",earthquake,0.45,1.03,0.05,9,automatic,nc,nc
-2023-08-30T04:54:57.743Z,66.1213,-149.0597,2,1.1,ml,,,,1.63,ak,ak023b4arf1x,2023-08-30T04:57:51.707Z,"12 km N of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
