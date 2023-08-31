@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-31T20:47:25.831Z,61.7031,-151.2776,76,2.5,ml,,,,0.51,ak,ak023b67s4r1,2023-08-31T20:49:03.381Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-31T20:23:58.530Z,19.3925,-155.277333333333,1.54,2.01,ml,25,50,,0.11,hv,hv73555162,2023-08-31T20:36:12.210Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.259453965917676,13,reviewed,hv,hv
-2023-08-31T20:22:51.010Z,38.7823334,-122.7453308,0.39,1.08,md,16,77,0.006786,0.04,nc,nc73931421,2023-08-31T20:24:24.862Z,"1 km ENE of The Geysers, CA",earthquake,0.24,0.46,0.08,15,automatic,nc,nc
+2023-08-31T20:22:51.010Z,38.7823334,-122.7453308,0.39,1.08,md,16,77,0.006786,0.04,nc,nc73931421,2023-08-31T20:48:15.332Z,"1 km ENE of The Geysers, CA",earthquake,0.24,0.46,0.08,15,automatic,nc,nc
 2023-08-31T20:21:36.837Z,35.34930801,-97.93083954,3.452839851,2,ml,15,126.313446,0.04272605106,0.6827086435,ok,ok2023rbrz,2023-08-31T20:24:40.752Z,"Oklahoma",earthquake,3.615662392,2.596982437,0.13,10,automatic,ok,ok
 2023-08-31T20:12:37.920Z,35.7809,-115.1715,15.9,2.2,ml,13,285.55,1.088,0.5336,nn,nn00865326,2023-08-31T20:15:45.150Z,"California-Nevada border region",earthquake,,1.5,1.01,12,automatic,nn,nn
 2023-08-31T20:10:21.360Z,36.9954987,-121.5593338,4.56,1.92,md,6,145,,0.33,nc,nc73931416,2023-08-31T20:37:14.259Z,"1 km SE of Gilroy, CA",earthquake,2.91,26.18,0.14,2,automatic,nc,nc
@@ -164,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T04:39:39.450Z,40.2855,-124.5415,12.22,1.82,md,12,274,0.1522,0.16,nc,nc73931251,2023-08-31T06:29:18.445Z,"22 km WSW of Petrolia, CA",earthquake,0.91,1.02,0.165,8,reviewed,nc,nc
 2023-08-31T04:26:44.910Z,19.3626670837402,-155.289840698242,1.92999994754791,1.98,ml,21,114,,0.310000002,hv,hv73554307,2023-08-31T04:32:22.030Z,"10 km SSW of Volcano, Hawaii",earthquake,0.43,0.699999988,0.28,7,automatic,hv,hv
 2023-08-31T04:26:44.370Z,19.353,-155.312333333333,-0.61,2.08,ml,17,98,,0.22,hv,hv73554302,2023-08-31T04:40:49.140Z,"12 km SW of Volcano, Hawaii",earthquake,0.3,0.32,0.193510120114802,11,reviewed,hv,hv
-2023-08-31T04:23:00.267Z,31.91711426,-102.0238662,8.363525391,2.5,ml,21,52,0.1149880129,0.1,tx,tx2023rami,2023-08-31T16:35:50.419Z,"10 km SSE of Midland, Texas",earthquake,1.651760226,2.165729259,0.2,30,reviewed,tx,tx
+2023-08-31T04:23:00.267Z,31.91711426,-102.0238662,8.363525391,2.5,ml,21,52,0.1149880129,0.1,tx,tx2023rami,2023-08-31T20:52:44.073Z,"10 km SSE of Midland, Texas",earthquake,1.651760226,2.165729259,0.2,30,reviewed,tx,tx
 2023-08-31T04:22:47.990Z,19.3808326721191,-155.277160644531,-0.0900000035762787,1.89999998,md,14,97,,0.280000001,hv,hv73554297,2023-08-31T04:25:59.650Z,"8 km SSW of Volcano, Hawaii",earthquake,0.31,0.400000006,0.340000004,13,automatic,hv,hv
 2023-08-31T04:21:07.670Z,34.0755,-117.2905,15.84,1.08,ml,58,64,0.1066,0.16,ci,ci39655658,2023-08-31T15:57:50.851Z,"2 km E of Colton, CA",earthquake,0.16,0.4,0.125,24,reviewed,ci,ci
 2023-08-31T04:18:30.860Z,18.0611666666667,-66.9393333333333,7.35,1.7,md,6,172,0.103,0.19,pr,pr71422768,2023-08-31T04:40:15.280Z,"2 km N of Liborio Negron Torres, Puerto Rico",earthquake,1.53,0.98,0.0499248400997564,4,reviewed,pr,pr
@@ -238,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T21:18:57.860Z,38.7858315,-122.7773361,3.3,1.06,md,13,99,0.01106,0.02,nc,nc73931101,2023-08-30T21:40:15.435Z,"2 km WNW of The Geysers, CA",earthquake,0.41,0.83,0.12,14,automatic,nc,nc
 2023-08-30T21:17:18.250Z,37.7429,141.9388,48.798,4.6,mb,60,133,3.117,1.44,us,us7000ks74,2023-08-31T06:21:43.487Z,"85 km E of Minami-Sōma, Japan",earthquake,7.53,7.118,0.058,90,reviewed,us,us
 2023-08-30T20:59:36.760Z,63.0504,-148.0203,59.9,1.9,ml,,,,0.63,ak,ak023b4kbdos,2023-08-30T21:01:44.594Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-30T20:49:40.480Z,38.8380013,-122.793663,1.92,0.74,md,11,90,0.002624,0.01,nc,nc73931096,2023-08-30T21:29:14.366Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.77,0.48,12,automatic,nc,nc
