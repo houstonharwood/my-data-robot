@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-01T10:34:17.960Z,19.2660007476807,-155.375839233398,30.1399993896484,1.97000003,md,42,152,,0.129999995,hv,hv73556207,2023-09-01T10:37:25.590Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.59,0.709999979,0.460000008,13,automatic,hv,hv
+2023-09-01T10:28:14.720Z,19.3834991455078,-155.283828735352,0.109999999403954,2,ml,9,161,,0.129999995,hv,hv73556192,2023-09-01T10:33:46.150Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.370000005,0.26,10,automatic,hv,hv
 2023-09-01T10:22:47.240Z,32.9961667,-116.4503333,9.91,0.66,ml,17,103,0.04127,0.15,ci,ci39656610,2023-09-01T10:26:16.236Z,"17 km ESE of Julian, CA",earthquake,0.31,0.58,0.084,6,automatic,ci,ci
 2023-09-01T10:22:02.327Z,62.2211,-151.1634,74.3,1.6,ml,,,,0.34,ak,ak023b7p7qh4,2023-09-01T10:23:41.597Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-01T10:15:23.877Z,62.5767,-151.4392,11.2,1.4,ml,,,,0.51,ak,ak023b7p6a4j,2023-09-01T10:17:39.064Z,"35 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -6,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T09:58:07.920Z,18.1548333333333,-65.7591666666667,13.07,2.59,md,9,122,0.0652,0.21,pr,pr71422903,2023-09-01T10:15:03.920Z,"Puerto Rico region",earthquake,0.81,0.56,0.103102724922626,4,reviewed,pr,pr
 2023-09-01T09:48:15.020Z,17.9411666666667,-66.9335,16.89,2.18,md,9,214,0.03889,0.08,pr,pr71422893,2023-09-01T10:08:45.000Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.85,0.54,0.036600859960668,5,reviewed,pr,pr
 2023-09-01T09:20:56.243Z,61.5011,-148.8323,29.2,2.1,ml,,,,0.5,ak,ak023b7olzlk,2023-09-01T09:22:35.522Z,"6 km NE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-09-01T09:13:19.379Z,31.9415,-102.0201,3.369,2.6,mb_lg,51,39,0.091,0.33,us,us7000kskp,2023-09-01T10:31:20.660Z,"8 km SE of Midland, Texas",earthquake,0.84,3.212,0.082,40,reviewed,us,us
+2023-09-01T09:13:18.761Z,31.9317627,-102.0195789,9.928629557,2.7,ml,16,57,0.1010632896,0.1,tx,tx2023rcrm,2023-09-01T10:36:49.066Z,"9 km SE of Midland, Texas",earthquake,0.798815756,0.980517681,0.3,12,reviewed,tx,tx
 2023-09-01T09:10:55.820Z,33.5021667,-116.4956667,13.26,0.36,ml,12,195,0.06258,0.07,ci,ci39656602,2023-09-01T09:14:32.924Z,"18 km ESE of Anza, CA",earthquake,0.49,0.35,0.097,6,automatic,ci,ci
 2023-09-01T08:50:05.050Z,38.8390007,-122.8238297,1.66,0.65,md,9,92,0.009113,0.01,nc,nc73931626,2023-09-01T09:14:14.668Z,"9 km WNW of Cobb, CA",earthquake,0.38,1.29,0.4,10,automatic,nc,nc
 2023-09-01T08:49:27.880Z,33.5046667,-116.4986667,14.47,0.8,ml,24,90,0.05921,0.18,ci,ci39656594,2023-09-01T08:52:55.747Z,"17 km ESE of Anza, CA",earthquake,0.35,0.48,0.207,21,automatic,ci,ci
@@ -192,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T10:53:06.070Z,31.68192129,-104.4264632,6.337231444999999,2.1,ml,18,68,0.02619876304,0.2,tx,tx2023razh,2023-08-31T17:40:38.201Z,"54 km S of Whites City, New Mexico",earthquake,0.9924200682,0.8486105198,0.1,6,reviewed,tx,tx
 2023-08-31T10:52:53.369Z,35.14266667,-97.53283333,4.75,1.1,ml,66,42,0.07018622707,0.38,ok,ok2023razh,2023-08-31T13:47:23.905Z,"5 km W of Goldsby, Oklahoma",earthquake,,0.8,0.3,4,reviewed,ok,ok
 2023-08-31T10:40:21.678Z,38.4445,-119.2993,0.8,1.5,ml,8,92.77,0.146,0.1965,nn,nn00865305,2023-08-31T10:43:07.101Z,"17 km ESE of Walker, California",earthquake,,5.8,0.09,2,automatic,nn,nn
-2023-08-31T10:33:50.800Z,33.49,-116.583,9.31,0.78,ml,29,74,0.01672,0.11,ci,ci39655794,2023-08-31T13:00:51.890Z,"11 km SE of Anza, CA",earthquake,0.16,0.29,0.168,22,reviewed,ci,ci
-2023-08-31T10:32:59.100Z,35.14683333,-97.52933333,5.13,1.85,ml,94,42,0.07378552076,0.3,ok,ok2023rayp,2023-08-31T12:45:33.426Z,"4 km W of Goldsby, Oklahoma",earthquake,,0.6,0.25,40,reviewed,ok,ok
-2023-08-31T10:32:46.569Z,62.7765,-148.756,0,1.6,ml,,,,0.43,ak,ak023b61qmk0,2023-08-31T10:34:20.098Z,"69 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
