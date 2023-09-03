@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T16:17:48.480Z,33.4145,-115.997,5.4,1,ml,9,152,0.2291,0.29,ci,ci39657802,2023-09-03T16:21:23.547Z,"11 km ESE of Oasis, CA",earthquake,1.57,31.61,0.049,3,automatic,ci,ci
+2023-09-03T16:10:35.636Z,57.1414,-156.083,1.8,2.1,ml,,,,0.44,ak,ak023bb3sj2j,2023-09-03T16:13:08.638Z,"89 km ESE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-09-03T16:09:11.690Z,33.3413333,-115.753,1.53,1.4,ml,32,53,0.02,0.19,ci,ci39657794,2023-09-03T16:12:46.498Z,"2 km WSW of Bombay Beach, CA",earthquake,0.27,0.45,0.102,26,automatic,ci,ci
 2023-09-03T15:50:22.444Z,37.4273,-114.4238,13.9,2.3,ml,18,140.15,0.484,0.3141,nn,nn00865389,2023-09-03T15:53:47.934Z,"Nevada",earthquake,,0.7,0.85,11,automatic,nn,nn
 2023-09-03T15:47:29.830Z,33.0245,-116.3471667,9.53,0.94,ml,22,112,0.07487,0.22,ci,ci39657786,2023-09-03T15:51:04.386Z,"24 km WSW of Ocotillo Wells, CA",earthquake,0.37,0.9,0.203,16,automatic,ci,ci
 2023-09-03T15:26:16.120Z,35.6418333,-117.4365,12.38,1.2,ml,12,87,0.02545,0.19,ci,ci39657778,2023-09-03T15:29:51.916Z,"14 km SSW of Searles Valley, CA",earthquake,0.63,1.8,0.211,9,automatic,ci,ci
@@ -48,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:16:18.758Z,43.5496,-128.5598,10,3,ml,23,283,3.28,0.54,us,us7000kt03,2023-09-03T10:29:56.040Z,"off the coast of Oregon",earthquake,5.03,2.026,0.044,68,reviewed,us,us
 2023-09-03T10:14:22.977Z,61.4197,-149.9206,32.4,1.4,ml,,,,0.53,ak,ak023bb08rbt,2023-09-03T10:16:25.709Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-03T09:59:03.114Z,9.2036,93.8861,10,4.7,mb,54,136,6.649,0.48,us,us7000kt05,2023-09-03T10:38:13.040Z,"299 km SSE of Port Blair, India",earthquake,10.12,1.913,0.085,42,reviewed,us,us
-2023-09-03T09:43:41.120Z,61.2146,-149.9081,36.3,2.6,ml,,,,0.59,ak,ak023baztkuz,2023-09-03T15:15:54.632Z,"0 km SW of Anchorage, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T16:17:40.412Z,"2 km NW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T11:11:55.718Z,"16 km SE of El Negro, Puerto Rico",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
 2023-09-03T09:31:19.870Z,33.3236667,-116.7856667,12.7,0.51,ml,17,100,0.07103,0.22,ci,ci39657690,2023-09-03T09:34:55.078Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.5,1.18,0.175,11,automatic,ci,ci
 2023-09-03T09:22:56.900Z,18.109,-65.746,19.73,2.27,md,8,143,0.08968,0.14,pr,pr71423383,2023-09-03T10:00:06.410Z,"6 km S of Punta Santiago, Puerto Rico",earthquake,0.72,0.39,0.00390427148370698,5,reviewed,pr,pr
@@ -179,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T16:57:26.160Z,33.9696667,-116.6521667,15.8,1.24,ml,33,61,0.06877,0.22,ci,ci39657410,2023-09-02T17:01:00.494Z,"11 km SW of Morongo Valley, CA",earthquake,0.3,0.66,0.115,27,automatic,ci,ci
 2023-09-02T16:40:41.881Z,62.5158,-151.9303,7.6,1.6,ml,,,,0.39,ak,ak023b9gfmjg,2023-09-02T16:42:33.553Z,"60 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-02T16:36:36.870Z,19.2094993591309,-155.375839233398,29.1299991607666,2.32999992,md,40,174,,0.129999995,hv,hv73558512,2023-09-02T16:39:51.550Z,"10 km E of Pāhala, Hawaii",earthquake,0.58,0.660000026,1.29999995,23,automatic,hv,hv
-2023-09-02T16:20:24.300Z,38.8359985,-122.7985001,2.54,0.28,md,9,67,0.006809,0.03,nc,nc73932231,2023-09-02T16:45:14.583Z,"7 km WNW of Cobb, CA",earthquake,0.44,1.28,0.15,9,automatic,nc,nc
-2023-09-02T16:16:45.130Z,19.390832901001,-155.274002075195,1.64999997615814,2.07,ml,22,47,,0.170000002,hv,hv73558477,2023-09-02T16:22:15.510Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.25999999,0.27,10,automatic,hv,hv
-2023-09-02T16:12:51.650Z,46.1945,-122.19,3.56,-0.13,ml,8,167,0.005315,0.09,uw,uw61956586,2023-09-03T04:34:11.800Z,"37 km NNE of Amboy, Washington",earthquake,1.28,1.1,0.06021947777994916,4,reviewed,uw,uw
