@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T10:24:31.050Z,34.4781685,-116.5100021,0.57,1.44,ml,43,64,0.1903,0.15,ci,ci39657698,2023-09-03T10:26:36.027Z,"39 km NE of Big Bear City, CA",earthquake,0.21,0.59,0.157,4,automatic,ci,ci
 2023-09-03T10:14:22.977Z,61.4197,-149.9206,32.4,1.4,ml,,,,0.53,ak,ak023bb08rbt,2023-09-03T10:16:25.709Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-03T09:43:41.120Z,61.2146,-149.9081,36.3,2.6,ml,,,,0.59,ak,ak023baztkuz,2023-09-03T09:57:48.547Z,"0 km SW of Anchorage, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T10:09:23.610Z,"Puerto Rico region",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
@@ -16,12 +17,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T08:40:24.120Z,38.8163338,-122.7976685,2.47,0.85,md,14,59,0.008556,0.06,nc,nc73932506,2023-09-03T09:00:14.278Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.76,0.44,14,automatic,nc,nc
 2023-09-03T08:36:08.910Z,18.8013333333333,-64.4298333333333,7.68,3.34,md,3,344,0.67,0.06,pr,pr71423363,2023-09-03T09:48:30.440Z,"64 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,4.25,3.53,0.0146429594472068,3,reviewed,pr,pr
 2023-09-03T08:25:06.545Z,61.532,-146.4771,31.5,1.3,ml,,,,0.34,ak,ak023baz47q6,2023-09-03T08:26:52.152Z,"45 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-03T08:20:06.789Z,66.0074,-148.2239,13.2,1.8,ml,,,,0.74,ak,ak023baz355y,2023-09-03T08:22:24.282Z,"39 km E of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-03T08:20:06.789Z,66.0074,-148.2239,13.2,1.8,ml,,,,0.74,ak,ak023baz355y,2023-09-03T08:22:24.282Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-03T08:19:39.490Z,61.5845,-147.5373,24.6,1.3,ml,,,,0.42,ak,ak023baz2zz1,2023-09-03T08:21:08.527Z,"25 km SSE of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-03T08:17:57.800Z,38.7876663,-122.74617,1.72,1.15,md,14,84,0.008605,0.02,nc,nc73932501,2023-09-03T09:14:14.372Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.47,0.35,14,automatic,nc,nc
 2023-09-03T08:17:53.430Z,38.7874985,-122.7460022,1.68,1.63,md,10,84,0.01693,0.01,nc,nc73932496,2023-09-03T08:49:14.213Z,"1 km NE of The Geysers, CA",earthquake,0.31,0.79,0.13,10,automatic,nc,nc
 2023-09-03T08:02:17.170Z,35.33330154,-97.94405365,0.7944366932,2.68,ml,63,40.75735474,0.06139500812,0.7345536144,ok,ok2023rgge,2023-09-03T08:19:35.040Z,"2 km N of Minco, Oklahoma",earthquake,1.555486477,1.061266933,0.27,42,automatic,ok,ok
-2023-09-03T07:49:43.700Z,18.9421,-64.5248,4,4.28,md,29,218,0.7308,0.35,pr,pr2023246000,2023-09-03T09:42:09.713Z,"73 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.18,1.11,0.07,14,reviewed,pr,pr
+2023-09-03T07:49:43.700Z,18.9421,-64.5248,4,4.28,md,29,218,0.7308,0.35,pr,pr2023246000,2023-09-03T10:25:45.014Z,"73 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.18,1.11,0.07,14,reviewed,pr,pr
 2023-09-03T07:48:45.636Z,31.5855,-103.9267,5,2.7,mb_lg,24,65,0.057,0.27,us,us7000ksz2,2023-09-03T08:31:15.040Z,"32 km NNW of Toyah, Texas",earthquake,1.16,1.405,0.095,32,reviewed,us,us
 2023-09-03T07:24:42.893Z,62.8848,-150.9072,100.9,3,ml,,,,0.55,ak,ak023bayin68,2023-09-03T10:04:56.470Z,"43 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-03T07:08:28.700Z,19.3659992218018,-155.286499023438,1.9099999666214,1.97000003,md,17,125,,0.159999996,hv,hv73559482,2023-09-03T07:11:36.400Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.430000007,0.639999986,14,automatic,hv,hv
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T00:46:30.090Z,33.5958333,-116.8203333,13.46,1.01,ml,40,37,0.04107,0.17,ci,ci39657538,2023-09-03T00:50:06.937Z,"14 km WNW of Anza, CA",earthquake,0.21,0.4,0.19,27,automatic,ci,ci
 2023-09-03T00:32:43.350Z,46.08433333333333,-122.00966666666666,7.67,0.36,ml,14,170,0.04151,0.19,uw,uw61956706,2023-09-03T03:24:33.380Z,"38 km WNW of Trout Lake, Washington",earthquake,0.42,0.61,0.23098635423732278,8,reviewed,uw,uw
 2023-09-03T00:31:15.131Z,62.1535,-147.6362,22.2,1.3,ml,,,,0.52,ak,ak023baue1uh,2023-09-03T00:33:07.028Z,"34 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-03T00:21:21.340Z,19.1966667175293,-155.358337402344,31.7900009155273,2.06999993,md,27,202,,0.129999995,hv,hv73559077,2023-09-03T00:24:35.610Z,"12 km E of Pāhala, Hawaii",earthquake,1.33,0.930000007,1.02999997,3,automatic,hv,hv
+2023-09-03T00:21:21.340Z,19.1966667175293,-155.358337402344,31.7900009155273,2.06999993,md,27,202,,0.129999995,hv,hv73559077,2023-09-03T00:24:35.610Z,"Hawaii region, Hawaii",earthquake,1.33,0.930000007,1.02999997,3,automatic,hv,hv
 2023-09-03T00:20:53.120Z,46.1935,-122.2,1.82,0,ml,8,112,0.008933,0.05,uw,uw61956701,2023-09-03T03:30:44.970Z,"Washington",earthquake,0.65,0.48,0.0951723406125737,4,reviewed,uw,uw
 2023-09-03T00:10:25.250Z,17.9496666666667,-66.9278333333333,11.68,2.32,md,10,208,0.02891,0.09,pr,pr71423308,2023-09-03T00:32:03.790Z,"Puerto Rico region",earthquake,0.64,0.42,0.097236006465919,4,reviewed,pr,pr
 2023-09-02T23:52:05.450Z,59.7916,-152.9027,105,1.8,ml,,,,0.22,ak,ak023b9ko5k1,2023-09-02T23:53:47.539Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -198,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T10:40:01.730Z,58.1908333333333,-155.266,2.13,0.44,ml,8,91,,0.07,av,av92026836,2023-09-03T00:46:49.490Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.59,0.30598122830839,9,reviewed,av,av
 2023-09-02T10:38:43.900Z,-7.2786,129.5377,126.687,4.2,mb,18,66,5.103,0.31,us,us7000ksug,2023-09-02T11:12:26.040Z,"Kepulauan Babar, Indonesia",earthquake,7.7,11.739,0.141,15,reviewed,us,us
 2023-09-02T10:30:02.590Z,17.9851666666667,-67.0103333333333,9.64,2.39,md,14,148,0.03585,0.07,pr,pr71423233,2023-09-02T10:57:34.440Z,"Puerto Rico",earthquake,0.31,0.54,0.0402259369419291,4,reviewed,pr,pr
-2023-09-02T10:23:04.134Z,58.2552,-155.1074,1.7,1.5,ml,,,,0.42,ak,ak023b9crau5,2023-09-03T00:39:46.350Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
