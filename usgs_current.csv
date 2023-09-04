@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T06:01:07.009Z,63.1361,-147.6525,8.6,1.2,ml,,,,1.06,ak,ak023bclbjpd,2023-09-04T06:03:39.137Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-04T05:54:22.460Z,33.4901667,-116.5851667,9.1,0.59,ml,23,59,0.01493,0.15,ci,ci39658066,2023-09-04T05:58:01.573Z,"11 km SE of Anza, CA",earthquake,0.29,0.49,0.209,12,automatic,ci,ci
+2023-09-04T05:54:06.370Z,33.4898333,-116.5828333,9.15,0.64,ml,24,60,0.0169,0.11,ci,ci39658058,2023-09-04T05:57:43.008Z,"11 km SE of Anza, CA",earthquake,0.18,0.29,0.156,16,automatic,ci,ci
 2023-09-04T05:50:35.180Z,34.4306667,-119.1623333,0.68,1.48,ml,18,119,0.02145,0.33,ci,ci39658050,2023-09-04T05:54:11.144Z,"8 km ESE of Ojai, CA",earthquake,0.45,0.77,0.183,26,automatic,ci,ci
-2023-09-04T05:47:37.480Z,34.4964981,-119.0026703,5.31,1.89,ml,53,37,0.07301,0.27,ci,ci39658042,2023-09-04T05:49:44.515Z,"13 km NW of Fillmore, CA",earthquake,0.29,0.88,0.177,31,automatic,ci,ci
-2023-09-04T05:40:23.470Z,33.8143333,-118.2565,8,1.32,ml,25,82,0.0537,0.33,ci,ci39658026,2023-09-04T05:53:01.124Z,"3 km SE of Carson, CA",earthquake,0.63,1.27,0.141,27,automatic,ci,ci
+2023-09-04T05:47:37.480Z,34.4964981,-119.0026703,5.31,1.89,ml,53,37,0.07301,0.27,ci,ci39658042,2023-09-04T05:58:12.800Z,"13 km NW of Fillmore, CA",earthquake,0.29,0.88,0.177,31,automatic,ci,ci
+2023-09-04T05:40:23.470Z,33.8143333,-118.2565,8,1.32,ml,25,82,0.0537,0.33,ci,ci39658026,2023-09-04T05:57:57.899Z,"3 km SE of Carson, CA",earthquake,0.63,1.27,0.141,27,automatic,ci,ci
 2023-09-04T05:39:26.449Z,57.807,-155.9133,128.2,1.8,ml,,,,0.88,ak,ak023bckyays,2023-09-04T05:41:58.888Z,"Alaska Peninsula",earthquake,,4.5,,,automatic,ak,ak
 2023-09-04T05:35:49.370Z,38.8380013,-122.8078308,1.84,0.75,md,10,70,0.01366,0.03,nc,nc73932841,2023-09-04T05:37:26.774Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.21,0.32,11,automatic,nc,nc
 2023-09-04T05:19:38.318Z,64.6128,-146.8819,20.6,0.7,ml,,,,0.6,ak,ak023bcku1k7,2023-09-04T05:21:20.679Z,"9 km N of Salcha, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -43,7 +46,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T00:07:08.110Z,38.8246651,-122.8533325,2.64,1.56,md,33,58,0.00399,0.04,nc,nc73932776,2023-09-04T00:47:18.713Z,"10 km WNW of The Geysers, CA",earthquake,0.2,0.38,0.2,33,automatic,nc,nc
 2023-09-04T00:02:37.830Z,45.950833333333335,-119.438,7.29,1.05,md,4,351,0.3547,0.06,uw,uw61956936,2023-09-04T05:20:14.690Z,"7 km NE of Irrigon, Oregon",earthquake,5.23,8.22,0.0037707944955316375,4,reviewed,uw,uw
 2023-09-03T23:57:54.777Z,-5.1825,150.1745,260.415,4.6,mb,30,83,2.214,0.92,us,us7000kt33,2023-09-04T00:13:09.040Z,"New Britain region, Papua New Guinea",earthquake,9.96,6.604,0.092,35,reviewed,us,us
-2023-09-03T23:28:34.660Z,39.3313332,-122.9531631,2.4,2.65,md,7,191,0.664,0.25,nc,nc73932756,2023-09-04T00:50:46.255Z,"9 km S of Lake Pillsbury, CA",earthquake,4.01,13.24,0.21,4,automatic,nc,nc
 2023-09-03T23:21:05.204Z,-23.689,-179.9518,513.882,4.5,mb,50,69,5.058,1.09,us,us7000kt2v,2023-09-03T23:36:25.040Z,"south of the Fiji Islands",earthquake,12.13,8.443,0.054,99,reviewed,us,us
 2023-09-03T23:16:03.040Z,46.098333333333336,-119.3895,16.48,0.5700000000000001,ml,7,304,0.2116,0.07,uw,uw61956921,2023-09-04T05:13:02.940Z,"19 km SSE of Benton City, Washington",earthquake,0.6,1.37,0.05515435945591163,6,reviewed,uw,uw
 2023-09-03T23:11:23.350Z,46.1955,-122.20116666666667,2.32,0,ml,9,62,0.01185,0.06,uw,uw61956911,2023-09-04T04:40:56.340Z,"36 km NNE of Amboy, Washington",earthquake,0.35,0.56,0.17378143260634799,7,reviewed,uw,uw
@@ -126,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T13:58:02.180Z,37.4895,-118.8438333,6.78,0.78,md,8,189,0.101,0.02,nc,nc73932571,2023-09-03T18:54:11.720Z,"16 km WSW of Toms Place, CA",earthquake,1.03,2.85,0.101,8,reviewed,nc,nc
 2023-09-03T13:53:28.500Z,48.6285,-123.134,16.39,0.53,ml,9,155,0.01723,0.37,uw,uw61956826,2023-09-03T16:44:36.620Z,"13 km NW of Friday Harbor, Washington",earthquake,2.83,1.8,0.06783382869504301,3,reviewed,uw,uw
 2023-09-03T13:47:01.893Z,61.3039,-150.6455,52.9,1.6,ml,,,,0.41,ak,ak023bb28359,2023-09-03T13:48:35.372Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-03T13:38:21.130Z,36.0461667,-121.5785,7.38,1.91,md,53,179,0.1251,0.14,nc,nc73932566,2023-09-04T05:29:16.220Z,"3 km NNW of Lopez Point, CA",earthquake,0.28,0.5,0.173,46,reviewed,nc,nc
+2023-09-03T13:38:21.130Z,36.0461667,-121.5785,7.38,1.91,md,53,179,0.1251,0.14,nc,nc73932566,2023-09-04T05:59:18.486Z,"3 km NNW of Lopez Point, CA",earthquake,0.28,0.5,0.173,46,reviewed,nc,nc
 2023-09-03T13:33:46.220Z,33.9131667,-117.1788333,9.71,0.75,ml,14,149,0.05591,0.32,ci,ci39657738,2023-09-03T13:37:24.170Z,"5 km ESE of Moreno Valley, CA",earthquake,1.03,2.22,0.097,16,automatic,ci,ci
 2023-09-03T13:27:28.740Z,46.853,-121.75983333333333,1.2,0.58,ml,19,85,0.02283,0.07,uw,uw61956816,2023-09-03T16:50:18.000Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.45,0.1238072673508992,8,reviewed,uw,uw
 2023-09-03T13:21:01.430Z,46.196,-122.18766666666667,2.91,0.61,ml,17,80,0.004382,0.09,uw,uw61956811,2023-09-03T16:55:44.370Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.41,0.1430559775676299,17,reviewed,uw,uw
@@ -202,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T06:26:54.760Z,48.766333333333336,-121.81133333333334,-0.99,1.23,ml,10,104,0.0622,0.37,uw,uw61956746,2023-09-03T19:16:47.120Z,"16 km SE of Glacier, Washington",earthquake,0.82,2.12,0.10059167019440751,7,reviewed,uw,uw
 2023-09-03T06:21:18.620Z,-59.2024,-25.3675,26.736,4.8,mb,49,166,15.467,0.42,us,us7000ksyp,2023-09-03T06:51:24.040Z,"South Sandwich Islands region",earthquake,14.87,6.193,0.076,53,reviewed,us,us
 2023-09-03T06:12:48.294Z,40.2049,-98.3074,9.821,2.5,mb_lg,10,66,1.208,0.35,us,us7000ksym,2023-09-03T06:37:29.040Z,"10 km SSW of Lawrence, Nebraska",earthquake,3.95,2.216,0.089,33,reviewed,us,us
-2023-09-03T06:08:20.520Z,34.0995,-116.8531667,10.32,0.7,ml,19,108,0.06889,0.11,ci,ci39657618,2023-09-03T06:11:48.260Z,"17 km SSE of Big Bear Lake, CA",earthquake,0.24,0.42,0.14,15,automatic,ci,ci
-2023-09-03T06:00:30.700Z,17.9563333333333,-66.9293333333333,16.44,2.86,md,16,203,0.02524,0.16,pr,pr71423328,2023-09-03T06:10:07.780Z,"Puerto Rico region",earthquake,0.52,0.47,0.0713029590532428,5,reviewed,pr,pr
