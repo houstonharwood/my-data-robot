@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T07:30:27.020Z,33.4103333,-116.5925,8.3,0.64,ml,24,72,0.08453,0.12,ci,ci39658082,2023-09-04T07:34:00.728Z,"15 km NNE of Warner Springs, CA",earthquake,0.27,0.65,0.19,12,automatic,ci,ci
 2023-09-04T07:30:06.680Z,40.5778351,-124.1073303,9.27,1.58,md,6,219,0.2084,0.06,nc,nc73932871,2023-09-04T07:31:42.445Z,"4 km NNW of Hydesville, CA",earthquake,2.18,2.23,,1,automatic,nc,nc
 2023-09-04T07:24:15.356Z,63.1626,-152.1655,12,1.1,ml,,,,0.82,ak,ak023bcm1xkv,2023-09-04T07:26:15.500Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-04T07:12:56.603Z,37.0173,-104.9821,6.772,1.8,ml,9,86,0.191,0.58,us,us7000kt4x,2023-09-04T07:48:07.040Z,"15 km SSE of Stonewall Gap, Colorado",earthquake,1.73,2.393,0.128,8,reviewed,us,us
 2023-09-04T07:11:09.273Z,63.1025,-150.4633,86.7,1.4,ml,,,,0.45,ak,ak023bclz4sv,2023-09-04T07:13:14.030Z,"69 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-04T07:04:26.580Z,38.8219986,-122.8026657,3.27,0.42,md,9,97,0.005953,0.01,nc,nc73932866,2023-09-04T07:06:01.782Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.04,0.34,10,automatic,nc,nc
 2023-09-04T07:03:54.900Z,38.8453331,-122.8148346,1.42,1.34,md,24,51,0.01144,0.03,nc,nc73932861,2023-09-04T07:40:14.042Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.33,0.17,26,automatic,nc,nc
@@ -61,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T00:07:08.110Z,38.8246651,-122.8533325,2.64,1.56,md,33,58,0.00399,0.04,nc,nc73932776,2023-09-04T00:47:18.713Z,"10 km WNW of The Geysers, CA",earthquake,0.2,0.38,0.2,33,automatic,nc,nc
 2023-09-04T00:02:37.830Z,45.950833333333335,-119.438,7.29,1.05,md,4,351,0.3547,0.06,uw,uw61956936,2023-09-04T05:20:14.690Z,"7 km NE of Irrigon, Oregon",earthquake,5.23,8.22,0.0037707944955316375,4,reviewed,uw,uw
 2023-09-03T23:57:54.777Z,-5.1825,150.1745,260.415,4.6,mb,30,83,2.214,0.92,us,us7000kt33,2023-09-04T00:13:09.040Z,"New Britain region, Papua New Guinea",earthquake,9.96,6.604,0.092,35,reviewed,us,us
+2023-09-03T23:33:52.170Z,38.8495,-122.8163333,1.62,0.26,md,16,116,0.00752,0.06,nc,nc73932821,2023-09-04T07:47:49.701Z,"9 km WNW of Cobb, CA",earthquake,0.44,0.43,0.242,15,reviewed,nc,nc
 2023-09-03T23:21:05.204Z,-23.689,-179.9518,513.882,4.5,mb,50,69,5.058,1.09,us,us7000kt2v,2023-09-03T23:36:25.040Z,"south of the Fiji Islands",earthquake,12.13,8.443,0.054,99,reviewed,us,us
 2023-09-03T23:16:03.040Z,46.098333333333336,-119.3895,16.48,0.5700000000000001,ml,7,304,0.2116,0.07,uw,uw61956921,2023-09-04T05:13:02.940Z,"19 km SSE of Benton City, Washington",earthquake,0.6,1.37,0.05515435945591163,6,reviewed,uw,uw
 2023-09-03T23:11:23.350Z,46.1955,-122.20116666666667,2.32,0,ml,9,62,0.01185,0.06,uw,uw61956911,2023-09-04T04:40:56.340Z,"36 km NNE of Amboy, Washington",earthquake,0.35,0.56,0.17378143260634799,7,reviewed,uw,uw
@@ -206,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T08:15:04.900Z,37.4285,-118.5436667,0.63,1.16,md,15,104,0.07681,0.05,nc,nc73932491,2023-09-04T06:46:13.750Z,"5 km ENE of Round Valley, CA",earthquake,0.27,2.88,0.114,13,reviewed,nc,nc
 2023-09-03T08:06:56.580Z,37.5421667,-118.7998333,7.32,0.97,md,17,157,0.05314,0.02,nc,nc73932486,2023-09-03T18:41:15.646Z,"11 km WSW of Toms Place, CA",earthquake,0.71,0.68,0.17,16,reviewed,nc,nc
 2023-09-03T08:02:17.170Z,35.33330154,-97.94405365,0.7944366932,2.68,ml,63,40.75735474,0.06139500812,0.7345536144,ok,ok2023rgge,2023-09-03T18:05:04.043Z,"2 km N of Minco, Oklahoma",earthquake,1.555486477,1.061266933,0.27,42,automatic,ok,ok
-2023-09-03T07:49:43.700Z,18.9421,-64.5248,4,4.28,md,29,218,0.7308,0.35,pr,pr2023246000,2023-09-04T01:21:44.934Z,"73 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.18,1.11,0.07,14,reviewed,pr,pr
-2023-09-03T07:48:45.636Z,31.5855,-103.9267,5,2.7,mb_lg,24,65,0.057,0.27,us,us7000ksz2,2023-09-03T08:31:15.040Z,"western Texas",earthquake,1.16,1.405,0.095,32,reviewed,us,us
