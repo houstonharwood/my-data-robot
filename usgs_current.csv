@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-04T09:11:28.323Z,64.9303,-147.2859,2.3,1.2,ml,,,,0.86,ak,ak023bcn61hc,2023-09-04T09:12:46.192Z,"Central Alaska",earthquake,,3.6,,,automatic,ak,ak
+2023-09-04T09:11:16.839Z,2.1758,127.2627,103.215,5,mb,63,107,1.399,0.87,us,us7000kt5c,2023-09-04T09:30:47.040Z,"Molucca Sea",earthquake,8.34,6.349,0.063,81,reviewed,us,us
 2023-09-04T09:09:18.330Z,35.4561667,-118.3366667,0.08,0.85,ml,13,60,0.1783,0.19,ci,ci39658098,2023-09-04T09:12:49.485Z,"20 km SE of Bodfish, CA",earthquake,0.4,31.61,0.109,9,automatic,ci,ci
 2023-09-04T09:07:08.320Z,19.3938331604004,-155.276168823242,1.37000000476837,2.42,ml,26,46,,0.310000002,hv,hv73561222,2023-09-04T09:12:38.180Z,"6 km SW of Volcano, Hawaii",earthquake,0.31,0.310000002,0.31,11,automatic,hv,hv
 2023-09-04T09:07:03.630Z,19.390832901001,-155.27783203125,1.32000005245209,2.37,ml,17,53,,0.129999995,hv,hv73561217,2023-09-04T09:12:34.110Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.300000012,0.44,12,automatic,hv,hv
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T08:25:50.160Z,38.8261681,-122.8108368,1.38,0.77,md,8,94,0.002832,0.02,nc,nc73932886,2023-09-04T08:42:16.406Z,"7 km NW of The Geysers, CA",earthquake,0.41,1.05,0.18,8,automatic,nc,nc
 2023-09-04T08:08:27.670Z,38.8261681,-122.8113327,2.68,0.72,md,10,102,0.002938,0.01,nc,nc73932881,2023-09-04T08:10:02.419Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.05,0.3,12,automatic,nc,nc
 2023-09-04T08:06:29.490Z,18.0133333333333,-66.7871666666667,15.85,2.66,md,15,167,0.007822,0.13,pr,pr71423623,2023-09-04T08:17:14.730Z,"0 km SE of Guayanilla, Puerto Rico",earthquake,0.39,0.55,0.114816567093632,6,reviewed,pr,pr
-2023-09-04T07:58:50.734Z,-43.5513,172.787,13.77,2.9,ml,17,186,0.182,0.36,us,us7000kt55,2023-09-04T08:55:53.776Z,"South Island of New Zealand",earthquake,3.6,6.5,0.074,24,reviewed,us,us
+2023-09-04T07:58:50.734Z,-43.5513,172.787,13.77,2.9,ml,17,186,0.182,0.36,us,us7000kt55,2023-09-04T09:27:55.739Z,"South Island of New Zealand",earthquake,3.6,6.5,0.074,24,reviewed,us,us
 2023-09-04T07:51:03.880Z,38.7695007,-122.7266693,2.29,1.34,md,24,64,0.008022,0.05,nc,nc73932876,2023-09-04T08:26:13.306Z,"3 km ESE of The Geysers, CA",earthquake,0.27,0.53,0.15,24,automatic,nc,nc
 2023-09-04T07:30:27.020Z,33.4103333,-116.5925,8.3,0.64,ml,24,72,0.08453,0.12,ci,ci39658082,2023-09-04T07:34:00.728Z,"15 km NNE of Warner Springs, CA",earthquake,0.27,0.65,0.19,12,automatic,ci,ci
 2023-09-04T07:30:06.680Z,40.5778351,-124.1073303,9.27,1.58,md,6,219,0.2084,0.06,nc,nc73932871,2023-09-04T08:15:15.239Z,"4 km NNW of Hydesville, CA",earthquake,2.18,2.23,,1,automatic,nc,nc
@@ -199,6 +200,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:05:49.380Z,39.2808333,-123.1878333,7.9,1.37,md,19,59,0.1036,0.07,nc,nc73932526,2023-09-04T07:13:13.892Z,"2 km NE of Redwood Valley, CA",earthquake,0.18,0.63,0.159,19,reviewed,nc,nc
 2023-09-03T09:59:03.114Z,9.2036,93.8861,10,4.7,mb,54,136,6.649,0.48,us,us7000kt05,2023-09-04T07:14:53.462Z,"299 km SSE of Port Blair, India",earthquake,10.12,1.913,0.085,42,reviewed,us,us
 2023-09-03T09:52:13.610Z,37.3001667,-121.6165,6.1,0.94,md,25,46,0.04632,0.09,nc,nc73932521,2023-09-04T05:13:05.172Z,"19 km N of Morgan Hill, CA",earthquake,0.2,0.39,0.158,21,reviewed,nc,nc
-2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"2 km NW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T11:11:55.718Z,"Puerto Rico region",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
-2023-09-03T09:31:19.870Z,33.3236667,-116.7856667,12.7,0.51,ml,17,100,0.07103,0.22,ci,ci39657690,2023-09-03T09:34:55.078Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.5,1.18,0.175,11,automatic,ci,ci
