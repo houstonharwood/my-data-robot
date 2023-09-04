@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T10:13:20.450Z,38.7728348,-122.7360001,0.38,0.52,md,7,101,0.0104,0.02,nc,nc73932901,2023-09-04T10:14:57.332Z,"2 km ESE of The Geysers, CA",earthquake,0.35,1.12,0.15,6,automatic,nc,nc
+2023-09-04T09:57:27.340Z,17.9728333333333,-66.9168333333333,14.71,2.21,md,4,183,0.03583,0.04,pr,pr71423633,2023-09-04T10:15:57.780Z,"0 km W of Guánica, Puerto Rico",earthquake,2.13,0.58,0.0133462748979847,3,reviewed,pr,pr
 2023-09-04T09:32:34.750Z,34.1885,-117.3026667,8.15,1.52,ml,54,32,0.04889,0.17,ci,ci39658106,2023-09-04T09:36:15.090Z,"5 km NE of Muscoy, CA",earthquake,0.18,0.57,0.163,24,automatic,ci,ci
 2023-09-04T09:11:28.323Z,64.9303,-147.2859,2.3,1.2,ml,,,,0.86,ak,ak023bcn61hc,2023-09-04T09:12:46.192Z,"Central Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-09-04T09:11:16.839Z,2.1758,127.2627,103.215,5,mb,63,107,1.399,0.87,us,us7000kt5c,2023-09-04T09:30:47.040Z,"Molucca Sea",earthquake,8.34,6.349,0.063,81,reviewed,us,us
@@ -39,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T05:40:23.470Z,33.8143333,-118.2565,8,1.32,ml,25,82,0.0537,0.33,ci,ci39658026,2023-09-04T05:57:57.899Z,"3 km SE of Carson, CA",earthquake,0.63,1.27,0.141,27,automatic,ci,ci
 2023-09-04T05:39:26.449Z,57.807,-155.9133,128.2,1.8,ml,,,,0.88,ak,ak023bckyays,2023-09-04T05:41:58.888Z,"90 km WNW of Karluk, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2023-09-04T05:35:49.370Z,38.8380013,-122.8078308,1.84,0.75,md,10,70,0.01366,0.03,nc,nc73932841,2023-09-04T05:37:26.774Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.21,0.32,11,automatic,nc,nc
-2023-09-04T05:26:08.839Z,37.9198,27.0744,10,4.8,mb,32,55,0.688,0.84,us,us7000kt4d,2023-09-04T09:41:56.969Z,"11 km SSW of Özdere, Turkey",earthquake,4.5,1.697,0.249,5,reviewed,us,us
+2023-09-04T05:26:08.839Z,37.9198,27.0744,10,4.8,mb,32,55,0.688,0.84,us,us7000kt4d,2023-09-04T10:05:50.510Z,"11 km SSW of Özdere, Turkey",earthquake,4.5,1.697,0.249,5,reviewed,us,us
 2023-09-04T05:19:38.318Z,64.6128,-146.8819,20.6,0.7,ml,,,,0.6,ak,ak023bcku1k7,2023-09-04T05:21:20.679Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-04T04:57:07.480Z,37.7216682,-122.117836,6.88,1.36,md,10,108,0.002742,0.08,nc,nc73932836,2023-09-04T06:17:18.595Z,"3 km E of San Leandro, CA",earthquake,0.37,0.62,0.19,7,automatic,nc,nc
 2023-09-04T04:49:08.350Z,17.9663333333333,-66.8678333333333,17.52,2.16,md,6,200,0.01391,0.08,pr,pr71423578,2023-09-04T05:08:12.790Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.75,0.52,0.085936516703675,4,reviewed,pr,pr
@@ -195,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:29:01.628Z,58.2553,-155.0602,0.1,1.8,ml,,,,0.44,ak,ak023bb0bxf6,2023-09-03T10:30:18.645Z,"84 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-03T10:28:56.913Z,-5.3203,153.7259,56.486,5.1,mww,80,61,1.919,0.73,us,us7000kt06,2023-09-03T14:59:46.007Z,"194 km ESE of Kokopo, Papua New Guinea",earthquake,7.08,4.552,0.093,11,reviewed,us,us
 2023-09-03T10:24:31.220Z,34.4791667,-116.5086667,1.87,1.32,ml,25,67,0.1417,0.18,ci,ci39657698,2023-09-03T10:28:02.222Z,"39 km NE of Big Bear City, CA",earthquake,0.29,0.63,0.137,25,automatic,ci,ci
-2023-09-03T10:19:54.050Z,48.4905,-123.63183333333333,19.16,1.07,ml,17,80,0.1307,0.24,uw,uw61956776,2023-09-03T18:30:32.210Z,"10 km WNW of Langford, Canada",earthquake,0.42,1.2,0.04053188856325518,11,reviewed,uw,uw
-2023-09-03T10:16:18.758Z,43.5496,-128.5598,10,3,ml,23,283,3.28,0.54,us,us7000kt03,2023-09-03T10:29:56.040Z,"off the coast of Oregon",earthquake,5.03,2.026,0.044,68,reviewed,us,us
-2023-09-03T10:14:22.977Z,61.4197,-149.9206,32.4,1.4,ml,,,,0.53,ak,ak023bb08rbt,2023-09-03T10:16:25.709Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-03T10:05:49.380Z,39.2808333,-123.1878333,7.9,1.37,md,19,59,0.1036,0.07,nc,nc73932526,2023-09-04T07:13:13.892Z,"2 km NE of Redwood Valley, CA",earthquake,0.18,0.63,0.159,19,reviewed,nc,nc
