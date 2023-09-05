@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-05T03:36:43.500Z,33.9824982,-116.9536667,6.36,1.24,ml,40,49,0.06493,0.16,ci,ci39658458,2023-09-05T03:38:49.424Z,"6 km NNE of Beaumont, CA",earthquake,0.24,0.72,0.283,11,automatic,ci,ci
+2023-09-05T03:36:43.500Z,33.9843333,-116.9603333,7.04,1.04,ml,40,42,0.065,0.24,ci,ci39658458,2023-09-05T03:40:16.194Z,"6 km NNE of Beaumont, CA",earthquake,0.27,0.96,0.164,27,automatic,ci,ci
 2023-09-05T03:34:07.597Z,65.0131,-146.5856,11.9,1.5,ml,,,,0.31,ak,ak023be79o7r,2023-09-05T03:35:33.624Z,"19 km NE of Pleasant Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-05T03:31:04.330Z,34.3043333,-118.3551667,7.19,1.15,ml,15,89,0.03794,0.15,ci,ci39658450,2023-09-05T03:34:37.602Z,"4 km NNE of Lake View Terrace, CA",earthquake,0.4,0.66,0.422,21,automatic,ci,ci
 2023-09-05T03:26:42.340Z,19.3865,-155.2795,1.14,0.43,md,14,109,,0.06,hv,hv73562782,2023-09-05T03:36:24.170Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.19,0.188204455160882,2,reviewed,hv,hv
@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T01:22:52.140Z,17.809,-66.057,22.49,2.51,md,7,299,0.1627,0.21,pr,pr71423743,2023-09-05T01:35:53.180Z,"Puerto Rico region",earthquake,1.47,2.11,0.160467528389411,6,reviewed,pr,pr
 2023-09-05T01:17:00.344Z,62.1324,-147.9899,34.5,1.1,ml,,,,0.5,ak,ak023be5z59u,2023-09-05T01:19:06.523Z,"40 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-05T01:13:16.880Z,38.8209991,-122.786499,1.83,0.69,md,11,81,0.008965,0.04,nc,nc73933216,2023-09-05T01:42:15.166Z,"6 km W of Cobb, CA",earthquake,0.36,0.85,0.25,12,automatic,nc,nc
+2023-09-05T01:06:56.630Z,19.371,-155.280833333333,5.07,0.55,md,16,162,,0.06,hv,hv73562557,2023-09-05T03:44:41.710Z,"9 km SSW of Volcano, Hawaii",earthquake,0.63,0.54,0.208351533012639,3,reviewed,hv,hv
 2023-09-05T00:55:24.251Z,-23.9441,175.472,12.047,5.7,mww,116,25,6.623,0.48,us,us7000ktai,2023-09-05T02:58:38.545Z,"south of the Fiji Islands",earthquake,3.4,3.64,0.049,40,reviewed,us,us
 2023-09-05T00:54:30.378Z,-4.7339,141.3112,10.71,4.9,mb,54,72,2.287,0.47,us,us7000ktaj,2023-09-05T01:26:41.040Z,"153 km N of Kiunga, Papua New Guinea",earthquake,5.87,4.228,0.072,61,reviewed,us,us
 2023-09-05T00:52:21.520Z,19.1366672515869,-155.376663208008,28.3299999237061,2.51,ml,51,184,,0.140000001,hv,hv73562527,2023-09-05T03:15:58.040Z,"12 km SE of Pāhala, Hawaii",earthquake,0.52,0.730000019,2.8,27,automatic,hv,hv
@@ -123,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T14:52:38.010Z,33.7325,-116.764,16.41,0.83,ml,22,83,0.04284,0.16,ci,ci39658194,2023-09-04T14:56:14.653Z,"4 km WSW of Idyllwild, CA",earthquake,0.37,0.48,0.198,16,automatic,ci,ci
 2023-09-04T14:48:58.979Z,61.838,-148.8721,20,2.2,ml,,,,0.63,ak,ak023bcqd7eq,2023-09-04T14:50:41.585Z,"8 km NW of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-04T14:47:29.933Z,-2.3394,-12.4382,10,5.1,mb,98,49,5.877,0.57,us,us7000kt6h,2023-09-04T15:10:04.040Z,"north of Ascension Island",earthquake,9.83,1.805,0.042,183,reviewed,us,us
-2023-09-04T14:33:52.190Z,37.3733333,-121.7603333,2.97,1.05,md,19,76,0.08323,0.07,nc,nc73932976,2023-09-05T03:27:01.322Z,"6 km E of Alum Rock, CA",earthquake,0.39,0.7,0.291,17,reviewed,nc,nc
+2023-09-04T14:33:52.190Z,37.3733333,-121.7603333,2.97,1.05,md,19,76,0.08323,0.07,nc,nc73932976,2023-09-05T03:41:19.833Z,"6 km E of Alum Rock, CA",earthquake,0.39,0.7,0.291,17,reviewed,nc,nc
 2023-09-04T14:23:37.730Z,18.9335,-64.5933,51,3.69,md,9,319,0.6853,0.28,pr,pr2023247004,2023-09-04T15:18:52.040Z,"69 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.18,8.029,0.09,7,reviewed,pr,pr
 2023-09-04T14:20:03.880Z,18.003,-66.7553333333333,12.95,2.71,md,22,163,0.03837,0.26,pr,pr71423643,2023-09-04T14:52:00.800Z,"2 km SE of Magas Arriba, Puerto Rico",earthquake,0.55,0.44,0.190068399536179,6,reviewed,pr,pr
 2023-09-04T14:16:39.280Z,33.392,-116.3526667,4.71,0.57,ml,10,174,0.1348,0.16,ci,ci39658178,2023-09-04T14:20:12.443Z,"15 km N of Borrego Springs, CA",earthquake,0.61,1.19,0.138,8,automatic,ci,ci
