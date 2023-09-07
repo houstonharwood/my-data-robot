@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T15:39:59.140Z,19.1653327941895,-155.501007080078,35.5299987792969,2.19000006,md,45,106,,0.119999997,hv,hv73567857,2023-09-07T15:43:14.870Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,0.74000001,0.349999994,9,automatic,hv,hv
 2023-09-07T15:33:09.090Z,19.0991668701172,-155.006164550781,14.8999996185303,1.87,ml,45,237,,0.280000001,hv,hv73567852,2023-09-07T15:38:40.090Z,"42 km SSW of Leilani Estates, Hawaii",earthquake,1.43,2.8499999,4.28,4,automatic,hv,hv
 2023-09-07T15:22:35.450Z,36.46533333,-98.7635,7.86,1.92,ml,86,70,0.03419329011,0.25,ok,ok2023rocs,2023-09-07T15:38:01.519Z,"Oklahoma",earthquake,,0.3,0.2,33,reviewed,ok,ok
 2023-09-07T15:19:19.129Z,34.49783333,-97.20916667,0,1.5,ml,75,67,0.1376729839,0.59,ok,ok2023rocp,2023-09-07T15:29:47.846Z,"8 km W of Davis, Oklahoma",quarry blast,,0.6,0.23,26,reviewed,ok,ok
@@ -10,7 +11,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T14:16:45.710Z,33.838,-117.6643333,4.97,1.73,ml,15,137,0.0627,0.23,ci,ci39660354,2023-09-07T14:20:26.554Z,"10 km WSW of Corona, CA",earthquake,0.56,0.85,0.485,20,automatic,ci,ci
 2023-09-07T14:05:09.240Z,38.8148346,-122.8258362,2.01,0.75,md,10,79,0.006505,0.01,nc,nc73934186,2023-09-07T14:22:14.314Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.83,0.24,11,automatic,nc,nc
 2023-09-07T13:35:25.590Z,33.471,-116.4263333,8.67,1.44,ml,54,37,0.05226,0.23,ci,ci39660306,2023-09-07T13:46:16.710Z,"24 km SSW of La Quinta, CA",earthquake,0.26,0.73,0.125,26,automatic,ci,ci
-2023-09-07T13:35:18.710Z,33.1415,-116.7048333,22.59,1.53,ml,17,173,0.2446,0.25,ci,ci39660298,2023-09-07T13:38:55.306Z,"12 km NW of Julian, CA",earthquake,1.16,1.97,0.244,5,automatic,ci,ci
 2023-09-07T13:21:21.784Z,66.2589,-150.0387,9.6,1.6,ml,,,,0.59,ak,ak023bho7y1e,2023-09-07T13:23:17.890Z,"51 km WNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-07T12:58:52.100Z,36.5683327,-121.2148361,6.41,1.97,md,30,92,,0.23,nc,nc73934171,2023-09-07T13:48:13.127Z,"8 km WNW of Pinnacles, CA",earthquake,0.41,1.29,0.2,26,automatic,nc,nc
 2023-09-07T12:53:20.648Z,36.6229,-116.2846,6.2,-0.1,ml,7,120.75,0.049,0.0394,nn,nn00865525,2023-09-07T14:56:47.530Z,"California-Nevada border region",earthquake,,3.2,0.03,2,reviewed,nn,nn
@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T15:58:03.580Z,19.3898334503174,-155.277496337891,1.50999999046326,1.77,ml,19,53,,0.159999996,hv,hv73566037,2023-09-06T16:03:34.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.200000003,0.3,10,automatic,hv,hv
 2023-09-06T15:52:15.281Z,41.463,130.1568,636.101,4.8,mb,101,41,3.049,0.89,us,us7000ktnn,2023-09-06T16:19:06.821Z,"40 km E of Hoemul-li, North Korea",earthquake,9.69,7.34,0.025,489,reviewed,us,us
 2023-09-06T15:49:17.992Z,64.2148,-145.838,5.6,3.4,ml,,,,0.71,ak,ak023bg21gik,2023-09-07T07:31:04.516Z,"6 km N of Big Delta, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2023-09-06T15:46:08.080Z,19.3903331756592,-155.276504516602,1.62999999523163,1.73,ml,19,52,,0.119999997,hv,hv73566012,2023-09-06T15:51:39.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.25,0.29,10,automatic,hv,hv
