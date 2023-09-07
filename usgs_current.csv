@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-07T15:22:35.084Z,36.46209717,-98.75943756,7.025580883,2.14,ml,12,107.8851318,0.03569506109,0.2141632387,ok,ok2023rocs,2023-09-07T15:25:02.837Z,"17 km SE of Waynoka, Oklahoma",earthquake,3.925060907,4.616200247,0.55,8,automatic,ok,ok
-2023-09-07T15:19:20.383Z,34.48856354,-97.20537567,1.767307401,1.92,ml,18,82.69962311,0.1438982487,0.9794469725,ok,ok2023rocp,2023-09-07T15:23:36.958Z,"8 km WSW of Davis, Oklahoma",earthquake,3.457694614,2.133947082,0.21,6,automatic,ok,ok
+2023-09-07T15:22:35.084Z,36.46209717,-98.75943756,7.025580883,2.14,ml,12,107.8851318,0.03569506109,0.2141632387,ok,ok2023rocs,2023-09-07T15:25:48.474Z,"17 km SE of Waynoka, Oklahoma",earthquake,3.925060907,4.616200247,0.55,8,automatic,ok,ok
+2023-09-07T15:19:19.129Z,34.49783333,-97.20916667,0,1.5,ml,75,67,0.1376729839,0.59,ok,ok2023rocp,2023-09-07T15:29:47.846Z,"8 km W of Davis, Oklahoma",quarry blast,,0.6,0.23,26,reviewed,ok,ok
 2023-09-07T14:46:58.303Z,60.4353,-152.6096,126.1,1.6,ml,,,,0.71,ak,ak023bhoytd2,2023-09-07T14:48:49.732Z,"67 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-07T14:39:35.310Z,38.5093346,-119.4944992,3.32,2.29,md,7,116,0.07903,0.05,nc,nc73934206,2023-09-07T15:26:12.688Z,"1 km WSW of Walker, CA",earthquake,0.66,1.02,0.51,2,automatic,nc,nc
 2023-09-07T14:25:05.410Z,38.5055008,-119.5224991,4.3,2.85,md,11,106,,0.06,nc,nc73934201,2023-09-07T15:11:18.597Z,"4 km WSW of Walker, CA",earthquake,0.34,0.88,0.16,16,automatic,nc,nc
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T10:50:47.530Z,42.1756667,-112.6725,9.78,1.79,ml,17,125,0.1181,0.14,uu,uu60549417,2023-09-07T13:15:51.130Z,"23 km N of Snowville, Utah",earthquake,0.74,0.47,0.11,4,reviewed,uu,uu
 2023-09-07T10:45:14.533Z,-30.299,-71.4416,42.054,4.3,mwr,31,135,0.409,0.89,us,us7000ktwh,2023-09-07T13:54:34.040Z,"Near the coast of Coquimbo, Chile",earthquake,5.57,8.643,,,reviewed,us,guc
 2023-09-07T10:20:40.942Z,57.1731,-155.0531,21,1.9,ml,,,,0.31,ak,ak023bhmfhce,2023-09-07T13:06:34.508Z,"56 km SW of Karluk, Alaska",earthquake,,4,,,reviewed,ak,ak
-2023-09-07T10:16:23.250Z,34.6798333,-118.0313333,5.02,0.58,ml,12,99,0.05244,0.16,ci,ci39660242,2023-09-07T10:19:53.199Z,"11 km E of Lancaster, CA",earthquake,0.4,1.06,0.086,8,automatic,ci,ci
+2023-09-07T10:16:23.030Z,34.6846667,-118.0316667,6.65,0.57,ml,15,86,0.05189,0.1,ci,ci39660242,2023-09-07T15:32:06.541Z,"11 km E of Lancaster, CA",earthquake,0.21,0.49,0.102,8,reviewed,ci,ci
 2023-09-07T10:10:05.180Z,34.0365,-117.1448333,5.8,0.77,ml,26,119,0.02694,0.11,ci,ci39660234,2023-09-07T15:24:15.916Z,"4 km SSW of Mentone, CA",earthquake,0.16,0.33,0.215,11,reviewed,ci,ci
 2023-09-07T10:04:01.520Z,38.4823333,-112.845,0.39,-0.22,md,8,192,0.01106,0.08,uu,uu60549412,2023-09-07T13:31:28.220Z,"17 km ENE of Milford, Utah",earthquake,0.66,0.84,0.434,3,reviewed,uu,uu
 2023-09-07T10:02:55.290Z,36.0838333,-117.8946667,-0.49,1.16,ml,10,179,0.04662,0.13,ci,ci39660226,2023-09-07T13:29:48.187Z,"6 km NE of Coso Junction, CA",earthquake,0.36,31.61,0.159,9,reviewed,ci,ci
@@ -108,6 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T03:09:31.964Z,65.0175,-147.4969,0,1,ml,,,,1.34,ak,ak023bhi726g,2023-09-07T03:12:46.146Z,"8 km NE of Fox, Alaska",earthquake,,14.6,,,automatic,ak,ak
 2023-09-07T02:48:46.256Z,52.8154,-166.8065,15.5,1.9,ml,,,,0.27,ak,ak023bhhu4r7,2023-09-07T03:38:20.979Z,"119 km S of Unalaska, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2023-09-07T02:44:52.308Z,61.813,-150.6257,46.2,1.4,ml,,,,0.68,ak,ak023bhht67m,2023-09-07T02:47:40.047Z,"30 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-09-07T02:44:38.013Z,29.0057373,-98.32375919,12.47192383,2.2,ml,18,93,0.194254033,0.3,tx,tx2023rnds,2023-09-07T15:32:36.344Z,"15 km ENE of Pleasanton, Texas",earthquake,3.4779781789999995,3.398531236,0.1,7,reviewed,tx,tx
 2023-09-07T02:44:07.680Z,36.5014992,-121.0763321,5.02,2.45,md,22,100,,0.11,nc,nc73934006,2023-09-07T04:39:14.668Z,"7 km ESE of Pinnacles, CA",earthquake,0.33,0.97,0.18,23,automatic,nc,nc
 2023-09-07T02:39:09.490Z,19.3913326263428,-155.288497924805,-0.00999999977648258,1.70000005,md,11,109,,0.140000001,hv,hv73567002,2023-09-07T02:44:40.800Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.360000014,0.99000001,8,automatic,hv,hv
 2023-09-07T02:23:26.860Z,34.4058333,-119.1838333,1.61,1.32,ml,22,73,0.04928,0.23,ci,ci39660122,2023-09-07T13:50:22.693Z,"7 km SE of Ojai, CA",earthquake,0.29,0.41,0.145,12,reviewed,ci,ci
