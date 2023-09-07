@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-07T23:37:06.340Z,38.8468323,-122.8174973,1.43,0.61,md,8,127,0.009054,0.02,nc,nc73934426,2023-09-07T23:38:41.517Z,"9 km WNW of Cobb, CA",earthquake,0.42,0.85,0.2,9,automatic,nc,nc
-2023-09-07T23:31:35.020Z,39.4893341,-121.7994995,16.8,2.66,ml,5,170,0.2034,0.01,nc,nc73934421,2023-09-07T23:35:37.013Z,"11 km NW of Biggs, CA",earthquake,1.33,3.53,1.251,4,automatic,nc,nc
-2023-09-07T23:30:10.850Z,39.4718323,-122.5343323,2.36,2.9,md,6,152,0.3599,0.34,nc,nc73934416,2023-09-07T23:35:36.493Z,"13 km S of Stony Gorge Reservoir, CA",earthquake,5.02,23.92,0.15,4,automatic,nc,nc
+2023-09-07T23:31:35.020Z,39.4893341,-121.7994995,16.8,2.66,ml,5,170,0.2034,0.01,nc,nc73934421,2023-09-07T23:40:12.464Z,"11 km NW of Biggs, CA",earthquake,1.33,3.53,1.251,4,automatic,nc,nc
+2023-09-07T23:30:10.850Z,39.4718323,-122.5343323,2.36,2.9,md,6,152,0.3599,0.34,nc,nc73934416,2023-09-07T23:40:12.640Z,"13 km S of Stony Gorge Reservoir, CA",earthquake,5.02,23.92,0.15,4,automatic,nc,nc
 2023-09-07T23:18:58.430Z,33.6723333,-116.7745,15.5,1.05,ml,37,42,0.06349,0.18,ci,ci39660922,2023-09-07T23:22:27.984Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.42,0.183,26,automatic,ci,ci
 2023-09-07T23:07:47.944Z,56.2251,163.7617,10,4.8,mb,82,73,4.372,0.64,us,us7000ku23,2023-09-07T23:37:01.040Z,"79 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.56,1.849,0.037,225,reviewed,us,us
 2023-09-07T23:02:17.459Z,56.2452,163.9004,10,5,mb,100,71,4.441,0.78,us,us7000ku1x,2023-09-07T23:23:02.040Z,"88 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.03,1.784,0.027,434,reviewed,us,us
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T16:26:39.043Z,39.6946,-119.5265,13.1,0.2,ml,3,174,0.11,0.1492,nn,nn00865544,2023-09-07T23:33:30.210Z,"16 km ENE of Spanish Springs, Nevada",earthquake,,10.2,0.32,2,reviewed,nn,nn
 2023-09-07T16:24:21.700Z,38.4813333,-112.8501667,0.19,-0.49,md,9,102,0.009569,0.1,uu,uu60549442,2023-09-07T18:01:12.420Z,"16 km ENE of Milford, Utah",earthquake,0.33,1.06,0.08,3,reviewed,uu,uu
 2023-09-07T16:21:49.072Z,60.0151,-150.2008,15.6,1.6,ml,,,,0.58,ak,ak023bhq0ayj,2023-09-07T16:23:36.702Z,"42 km W of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-07T16:15:05.335Z,59.7476,-152.2748,66.8,2.2,ml,,,,0.6,ak,ak023bhpyxar,2023-09-07T18:11:14.040Z,"25 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-07T16:15:05.335Z,59.7476,-152.2748,66.8,2.2,ml,,,,0.6,ak,ak023bhpyxar,2023-09-07T18:11:14.040Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-07T16:04:16.460Z,36.21583333,-95.84916667,0,1.32,ml,62,117,0.3086394344,0.46,ok,ok2023roeb,2023-09-07T16:14:33.405Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.5,0.21,23,reviewed,ok,ok
 2023-09-07T16:02:41.720Z,34.8136667,-118.9151667,12.19,1.35,ml,32,47,0.03948,0.17,ci,ci39660450,2023-09-07T16:17:11.029Z,"3 km ESE of Frazier Park, CA",earthquake,0.24,0.37,0.199,13,reviewed,ci,ci
 2023-09-07T15:49:30.380Z,43.2051666666667,-111.440666666667,2.88,2.18,ml,16,120,0.1595,0.21,mb,mb90026578,2023-09-07T17:45:30.300Z,"25 km SSW of Irwin, Idaho",earthquake,0.5,3.27,0.195963732371233,20,reviewed,mb,mb
