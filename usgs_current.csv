@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T22:18:28.441Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,automatic,ci,ci
 2023-09-08T22:11:54.940Z,33.5215,-116.747,2.64,0.63,ml,17,63,0.04453,0.14,ci,ci39661690,2023-09-08T22:15:24.968Z,"8 km WSW of Anza, CA",earthquake,0.23,0.26,0.171,16,automatic,ci,ci
 2023-09-08T22:11:28.827Z,58.1689,-155.3919,1.2,0.1,ml,,,,0.25,ak,ak023bjh22cy,2023-09-08T22:12:51.418Z,"86 km NW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-08T22:39:41.919Z,"56 km W of Oukaïmedene, Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
+2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-08T22:45:11.945Z,"56 km W of Oukaïmedene, Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
 2023-09-08T21:58:51.680Z,34.4331667,-117.7066667,5.21,1.3,ml,19,110,0.05617,0.22,ci,ci39661682,2023-09-08T22:02:54.221Z,"6 km W of Pinon Hills, CA",earthquake,0.41,1.08,0.281,30,automatic,ci,ci
 2023-09-08T21:50:52.880Z,38.840332,-122.8108368,1.82,1.1,md,15,61,0.01612,0.02,nc,nc73934831,2023-09-08T22:07:13.348Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.5,0.21,15,automatic,nc,nc
 2023-09-08T21:41:38.080Z,38.8240013,-122.809166,1.53,0.91,md,8,146,0.0009325,0.01,nc,nc73934821,2023-09-08T21:43:13.115Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.81,0.2,8,automatic,nc,nc
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T20:46:17.871Z,64.3853,-148.3124,4.5,2,ml,,,,0.74,ak,ak023bjg2odi,2023-09-08T20:48:49.937Z,"42 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-08T20:41:00.950Z,38.7928352,-122.7594986,2.84,0.91,md,10,131,0.02021,0.02,nc,nc73934801,2023-09-08T20:42:37.615Z,"2 km N of The Geysers, CA",earthquake,0.37,0.74,0.18,10,automatic,nc,nc
 2023-09-08T20:35:12.120Z,35.7601667,-117.5766667,0.63,1.49,ml,20,93,0.1565,0.23,ci,ci39661618,2023-09-08T20:38:44.666Z,"16 km W of Searles Valley, CA",earthquake,0.47,0.74,0.134,15,automatic,ci,ci
-2023-09-08T20:34:17.320Z,35.7325,-117.5755,5.84,1.08,ml,10,148,0.1407,0.16,ci,ci39661610,2023-09-08T20:37:57.459Z,"15 km NE of Ridgecrest, CA",earthquake,0.77,2.56,0.161,9,automatic,ci,ci
+2023-09-08T20:34:17.070Z,35.7458333,-117.5691667,9.08,1.08,ml,14,95,0.1225,0.09,ci,ci39661610,2023-09-08T22:43:38.365Z,"15 km W of Searles Valley, CA",earthquake,0.27,0.98,0.181,8,reviewed,ci,ci
 2023-09-08T20:32:00.345Z,-32.1614,-13.7933,10,5,mb,74,67,28.038,0.66,us,us7000kue5,2023-09-08T21:10:13.040Z,"southern Mid-Atlantic Ridge",earthquake,8.15,1.733,0.068,73,reviewed,us,us
 2023-09-08T20:12:11.160Z,38.8283348,-122.8099976,1.49,0.61,md,12,42,0.004933,0.01,nc,nc73934791,2023-09-08T20:13:47.612Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.68,0.31,11,automatic,nc,nc
 2023-09-08T20:12:05.230Z,38.8286667,-122.8103333,1.51,0.79,md,13,42,0.005268,0.02,nc,nc73934786,2023-09-08T20:13:42.667Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.82,0.29,13,automatic,nc,nc
@@ -50,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T17:45:38.080Z,40.9616667,-121.5498333,12.2,2.42,md,35,39,0.1056,0.1,nc,nc73934686,2023-09-08T22:23:15.444Z,"10 km WSW of Fall River Mills, CA",earthquake,0.19,0.51,0.177,45,reviewed,nc,nc
 2023-09-08T17:40:15.440Z,40.954,-121.5635,13.36,1.82,md,24,56,0.1043,0.1,nc,nc73934676,2023-09-08T21:52:13.274Z,"11 km NE of Burney, CA",earthquake,0.22,0.7,0.206,28,reviewed,nc,nc
 2023-09-08T17:36:58.220Z,40.9606667,-121.5498352,11.44,2.28,md,19,75,0.1063,0.08,nc,nc73934671,2023-09-08T19:40:11.481Z,"10 km WSW of Fall River Mills, CA",earthquake,0.26,0.71,0.14,16,automatic,nc,nc
+2023-09-08T17:36:47.210Z,40.9576667,-121.5678333,12.86,1.63,md,29,59,0.09936,0.05,nc,nc73934666,2023-09-08T22:43:30.497Z,"11 km NE of Burney, CA",earthquake,0.2,0.71,0.207,14,reviewed,nc,nc
 2023-09-08T17:36:13.710Z,41.003334,-121.5446701,37.86,2.27,md,6,175,0.08569,0.01,nc,nc73934661,2023-09-08T19:13:00.769Z,"9 km W of Fall River Mills, CA",earthquake,0.9,0.7,0.06,4,automatic,nc,nc
 2023-09-08T17:33:36.980Z,19.3896675109863,-155.272003173828,1.69000005722046,1.99000001,md,17,51,,0.180000007,hv,hv73569842,2023-09-08T17:36:40.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.230000004,1.25999999,14,automatic,hv,hv
 2023-09-08T17:30:31.100Z,40.953167,-121.5715027,10.92,2.41,md,12,139,0.1013,0.12,nc,nc73934651,2023-09-08T18:59:56.253Z,"11 km NE of Burney, CA",earthquake,0.56,2.2,0.2,9,automatic,nc,nc
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T23:07:47.944Z,56.2251,163.7617,10,4.8,mb,82,73,4.372,0.64,us,us7000ku23,2023-09-07T23:37:01.040Z,"79 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.56,1.849,0.037,225,reviewed,us,us
 2023-09-07T23:02:17.459Z,56.2452,163.9004,10,5,mb,100,71,4.441,0.78,us,us7000ku1x,2023-09-07T23:23:02.040Z,"88 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.03,1.784,0.027,434,reviewed,us,us
 2023-09-07T22:55:44.110Z,38.8318329,-122.8108368,1.89,0.97,md,14,95,0.008447,0.01,nc,nc73934411,2023-09-07T23:15:16.323Z,"8 km W of Cobb, CA",earthquake,0.3,0.52,0.27,15,automatic,nc,nc
-2023-09-07T22:44:43.390Z,40.2228333,-121.166,1.82,2.12,md,26,51,0.2479,0.2,nc,nc73934401,2023-09-08T05:39:16.592Z,"1 km NE of Almanor, CA",earthquake,0.4,2.37,0.112,25,reviewed,nc,nc
-2023-09-07T22:42:49.497Z,61.2256,-151.2623,66,2.9,ml,,,,0.33,ak,ak023bhtpenv,2023-09-07T23:02:07.040Z,"13 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
