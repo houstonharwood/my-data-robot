@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-09T21:48:32.530Z,19.175500869751,-155.47900390625,32.5299987792969,2.25,md,35,81,,0.119999997,hv,hv73572682,2023-09-09T21:51:43.680Z,"3 km S of Pāhala, Hawaii",earthquake,0.65,1.10000002,1.87,18,automatic,hv,hv
 2023-09-09T21:45:01.050Z,38.8256683,-122.8010025,2.72,0.7,md,11,84,0.007441,0.01,nc,nc73935191,2023-09-09T21:46:37.853Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.11,0.13,11,automatic,nc,nc
-2023-09-09T21:40:54.310Z,38.0999985,-122.3864975,9.05,1.86,md,6,191,0.5136,0.12,nc,nc73935181,2023-09-09T21:42:27.842Z,"11 km E of Black Point-Green Point, CA",earthquake,4.73,11.82,,1,automatic,nc,nc
+2023-09-09T21:40:54.310Z,38.0999985,-122.3864975,9.05,1.86,md,6,191,0.5136,0.12,nc,nc73935181,2023-09-09T21:58:12.472Z,"11 km E of Black Point-Green Point, CA",earthquake,4.73,11.82,,1,automatic,nc,nc
 2023-09-09T21:35:57.290Z,32.0415001,-116.2180023,14.71,3.12,ml,46,63,0.2322,0.22,ci,ci39662050,2023-09-09T21:38:16.757Z,"42 km ENE of Ensenada, B.C., MX",earthquake,0.29,0.87,0.358,21,automatic,ci,ci
 2023-09-09T21:23:30.660Z,17.9445,-66.9056666666667,16.52,2.32,md,5,210,0.03944,0.05,pr,pr71424323,2023-09-09T21:36:07.320Z,"3 km S of Guánica, Puerto Rico",earthquake,3.08,0.94,0.00262065884578755,3,reviewed,pr,pr
 2023-09-09T21:02:49.850Z,38.8214989,-122.814003,3.26,0.92,md,11,91,0.003606,0.02,nc,nc73935166,2023-09-09T21:04:23.183Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.33,0.32,13,automatic,nc,nc
@@ -151,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T03:44:42.780Z,38.8088341,-122.8133316,3.45,1.45,md,32,56,0.01238,0.02,nc,nc73934921,2023-09-09T04:33:15.584Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,31,automatic,nc,nc
 2023-09-09T03:37:50.276Z,59.2681,-152.3987,67.9,1.8,ml,,,,0.31,ak,ak023bktfsmr,2023-09-09T03:39:16.583Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-09T03:31:05.368Z,57.1907,-155.2351,15,1.8,ml,,,,0.74,ak,ak023bkteequ,2023-09-09T03:33:14.693Z,"63 km SW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-09T03:09:49.627Z,-4.7683,-105.5237,10,5.3,mb,64,113,15.751,1.26,us,us7000kuik,2023-09-09T03:30:09.040Z,"central East Pacific Rise",earthquake,6.57,1.889,0.026,496,reviewed,us,us
+2023-09-09T03:09:49.320Z,-4.737,-105.53,10,5.8,mww,84,59,15.75,0.8,us,us7000kuik,2023-09-09T21:55:57.168Z,"central East Pacific Rise",earthquake,12.4,1.834,0.044,50,reviewed,us,us
 2023-09-09T03:05:36.990Z,19.3689994812012,-155.084167480469,72.5100021362305,2.57999992,md,14,329,,0.219999999,hv,hv73570862,2023-09-09T13:21:14.240Z,"Hawaii region, Hawaii",earthquake,8.66,3.41000009,0.860000014,3,automatic,hv,hv
 2023-09-09T03:03:36.262Z,29.3465,129.337,10,4.6,mb,53,89,2.361,0.68,us,us7000kuii,2023-09-09T03:39:38.040Z,"102 km NNW of Tatsugō, Japan",earthquake,4.25,1.813,0.066,71,reviewed,us,us
 2023-09-09T02:55:52.530Z,38.8063316,-122.7703323,1.03,0.32,md,7,227,0.01064,0.01,nc,nc73934911,2023-09-09T02:57:29.807Z,"3 km NNW of The Geysers, CA",earthquake,0.94,0.99,0.14,8,automatic,nc,nc
@@ -203,7 +203,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T23:02:14.186Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,reviewed,ci,ci
 2023-09-08T22:11:54.890Z,33.523,-116.7471667,2.87,0.64,ml,18,62,0.04308,0.12,ci,ci39661690,2023-09-08T23:21:24.598Z,"8 km WSW of Anza, CA",earthquake,0.22,0.54,0.153,16,reviewed,ci,ci
 2023-09-08T22:11:28.590Z,58.1766666666667,-155.357166666667,1.65,-0.02,ml,9,120,,0.08,av,av92036106,2023-09-09T03:34:03.796Z,"Alaska Peninsula",earthquake,0.24,0.58,0.112136403263533,9,reviewed,av,av
-2023-09-08T22:11:02.401Z,31.07,-8.3815,26.321,6.8,mww,426,12,2.368,0.71,us,us7000kufc,2023-09-09T21:50:05.683Z,"Morocco",earthquake,6,1.591,0.032,95,reviewed,us,us
+2023-09-08T22:11:02.401Z,31.07,-8.3815,26.321,6.8,mww,426,12,2.368,0.71,us,us7000kufc,2023-09-09T21:55:12.472Z,"Morocco",earthquake,6,1.591,0.032,95,reviewed,us,us
 2023-09-08T22:09:49.136Z,25.094,124.8015,74.338,4.8,mb,53,87,0.879,0.65,us,us7000kufb,2023-09-08T23:50:51.040Z,"48 km NNE of Tarama, Japan",earthquake,6.49,5.418,0.064,75,reviewed,us,us
 2023-09-08T22:06:10.870Z,58.1696666666667,-155.356,2.51,-0.14,ml,9,76,,0.08,av,av92036096,2023-09-09T03:01:03.850Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.48,0.188352577378976,9,reviewed,av,av
-2023-09-08T21:58:51.590Z,34.4265,-117.7085,6.36,1.13,ml,17,109,0.05094,0.11,ci,ci39661682,2023-09-08T23:19:24.409Z,"6 km W of Pinon Hills, CA",earthquake,0.21,0.37,0.145,12,reviewed,ci,ci
