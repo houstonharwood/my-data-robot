@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-09T14:38:05.460Z,33.3731651,-116.2799988,10.18,1.63,ml,66,30,0.1554,0.23,ci,ci39661898,2023-09-09T14:40:10.286Z,"16 km NE of Borrego Springs, CA",earthquake,0.22,0.65,0.264,26,automatic,ci,ci
 2023-09-09T14:10:17.575Z,38.1536,-117.9681,6.5,1.7,ml,15,102.97,0.047,0.2241,nn,nn00865639,2023-09-09T14:13:15.364Z,"29 km SSE of Mina, Nevada",earthquake,,0.4,0.57,9,automatic,nn,nn
 2023-09-09T14:09:16.788Z,63.0049,-150.6849,33.7,1.7,ml,,,,1.42,ak,ak023bkzthni,2023-09-09T14:11:23.408Z,"Central Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-09-09T13:58:16.040Z,38.8406677,-122.8248367,1.95,0.63,md,9,107,0.008573,0.01,nc,nc73935046,2023-09-09T13:59:51.774Z,"9 km WNW of Cobb, CA",earthquake,0.82,1.76,0.3,9,automatic,nc,nc
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T23:02:14.186Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,reviewed,ci,ci
 2023-09-08T22:11:54.890Z,33.523,-116.7471667,2.87,0.64,ml,18,62,0.04308,0.12,ci,ci39661690,2023-09-08T23:21:24.598Z,"8 km WSW of Anza, CA",earthquake,0.22,0.54,0.153,16,reviewed,ci,ci
 2023-09-08T22:11:28.590Z,58.1766666666667,-155.357166666667,1.65,-0.02,ml,9,120,,0.08,av,av92036106,2023-09-09T03:34:03.796Z,"Alaska Peninsula",earthquake,0.24,0.58,0.112136403263533,9,reviewed,av,av
-2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-09T14:29:47.784Z,"Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
+2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-09T14:35:02.659Z,"Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
 2023-09-08T22:09:49.136Z,25.094,124.8015,74.338,4.8,mb,53,87,0.879,0.65,us,us7000kufb,2023-09-08T23:50:51.040Z,"48 km NNE of Tarama, Japan",earthquake,6.49,5.418,0.064,75,reviewed,us,us
 2023-09-08T22:06:10.870Z,58.1696666666667,-155.356,2.51,-0.14,ml,9,76,,0.08,av,av92036096,2023-09-09T03:01:03.850Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.48,0.188352577378976,9,reviewed,av,av
 2023-09-08T21:58:51.590Z,34.4265,-117.7085,6.36,1.13,ml,17,109,0.05094,0.11,ci,ci39661682,2023-09-08T23:19:24.409Z,"6 km W of Pinon Hills, CA",earthquake,0.21,0.37,0.145,12,reviewed,ci,ci
@@ -249,8 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T15:03:01.320Z,33.9695,-116.8101667,16.67,1.76,ml,48,46,0.06551,0.2,ci,ci39661298,2023-09-08T21:35:42.420Z,"6 km NNW of Cabazon, CA",earthquake,0.22,0.56,0.213,27,reviewed,ci,ci
 2023-09-08T14:49:42.730Z,39.233,-123.5361667,3.83,1.13,md,14,123,0.08336,0.12,nc,nc73934591,2023-09-09T05:38:13.932Z,"20 km ENE of Navarro Head, CA",earthquake,0.31,1.53,0.223,13,reviewed,nc,nc
 2023-09-08T14:48:07.080Z,46.856,-121.7595,1.62,-0.07,ml,16,104,0.02353,0.07,uw,uw61958166,2023-09-08T16:17:36.510Z,"23 km ENE of Ashford, Washington",earthquake,0.3,0.51,0.24667466778255817,6,reviewed,uw,uw
-2023-09-08T14:39:49.983Z,60.3041,-152.1196,81.4,1.3,ml,,,,0.33,ak,ak023bjcgn7a,2023-09-08T14:42:00.668Z,"37 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-09-08T14:36:22.584Z,43.9002,13.3924,10,4,mb,48,32,0.896,0.72,us,us7000ku9l,2023-09-09T12:44:57.969Z,"24 km NE of Marotta, Italy",earthquake,4.33,1.894,0.134,15,reviewed,us,us
-2023-09-08T14:35:17.060Z,19.382999420166,-155.278839111328,2.27999997138977,2.15,ml,37,70,,0.310000002,hv,hv73569647,2023-09-08T14:40:46.720Z,"8 km SW of Volcano, Hawaii",earthquake,0.35,0.389999986,2.09,19,automatic,hv,hv
-2023-09-08T14:35:00.260Z,19.3683338165283,-155.292327880859,1.70000004768372,2.17,ml,10,155,,0.0500000007,hv,hv73569642,2023-09-08T14:40:32.030Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.430000007,0.4,19,automatic,hv,hv
-2023-09-08T14:34:39.115Z,62.2015,-150.2559,14.3,0.6,ml,,,,1.13,ak,ak023bjcfjs7,2023-09-08T14:36:12.666Z,"12 km S of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
