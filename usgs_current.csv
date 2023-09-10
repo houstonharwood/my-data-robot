@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-10T21:06:24.510Z,33.6178333,-116.7566667,15.14,1.43,ml,42,33,0.05474,0.21,ci,ci39662338,2023-09-10T21:09:59.920Z,"10 km NW of Anza, CA",earthquake,0.27,0.51,0.172,26,automatic,ci,ci
+2023-09-10T21:06:24.510Z,33.6178333,-116.7566667,15.14,1.43,ml,42,33,0.05474,0.21,ci,ci39662338,2023-09-10T21:16:47.610Z,"10 km NW of Anza, CA",earthquake,0.27,0.51,0.172,26,automatic,ci,ci
 2023-09-10T21:02:40.574Z,61.3472,-150.9849,7.6,1,ml,,,,0.6,ak,ak023bmrhf2z,2023-09-10T21:06:37.178Z,"23 km NNE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-09-10T20:50:03.701Z,59.8131,-153.0995,121.3,2.3,ml,,,,0.38,ak,ak023bmr674p,2023-09-10T20:52:13.238Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-10T20:50:03.701Z,59.8131,-153.0995,121.3,2.3,ml,,,,0.38,ak,ak023bmr674p,2023-09-10T21:17:54.040Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-10T20:49:56.350Z,18.7338333333333,-68.1496666666667,61.48,3.43,md,11,237,0.3094,0.35,pr,pr71424508,2023-09-10T21:03:31.230Z,"31 km ENE of Punta Cana, Dominican Republic",earthquake,2.23,2.71,0.155834044994942,8,reviewed,pr,pr
 2023-09-10T20:27:53.712Z,53.6179,-164.6556,50.5,2.2,ml,,,,0.96,ak,ak023bmr1hbt,2023-09-10T20:46:22.775Z,"93 km SE of Akutan, Alaska",earthquake,,3.3,,,reviewed,ak,ak
 2023-09-10T20:24:32.844Z,57.6678,-154.1864,29,2.4,ml,,,,0.54,ak,ak023bmr0onl,2023-09-10T21:08:27.040Z,"18 km NW of Larsen Bay, Alaska",earthquake,,1.1,,,reviewed,ak,ak
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T14:44:14.407Z,64.151,-147.3288,3.9,1.2,ml,,,,0.48,ak,ak023bmnkc0w,2023-09-10T14:46:04.719Z,"43 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-10T14:43:40.870Z,46.92,-120.56066666666666,-0.3,1.84,ml,29,91,0.0115,0.76,uw,uw61949742,2023-09-10T18:22:36.220Z,"8 km S of Ellensburg, Washington",earthquake,0.86,1.49,0.1254076489178445,22,reviewed,uw,uw
 2023-09-10T14:42:54.160Z,40.7915001,-121.8860016,8.61,1.8,md,11,148,0.1162,0.1,nc,nc73935391,2023-09-10T15:30:15.250Z,"5 km E of Round Mountain, CA",earthquake,0.86,1.82,0.24,5,automatic,nc,nc
-2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-10T21:13:52.875Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
+2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-10T21:18:57.638Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
 2023-09-10T14:26:46.030Z,40.7915001,-121.8833313,5.71,2.17,md,17,82,0.1182,0.09,nc,nc73935381,2023-09-10T14:48:10.031Z,"5 km E of Round Mountain, CA",earthquake,0.31,2.12,0.14,7,automatic,nc,nc
 2023-09-10T14:21:45.861Z,61.1157,-151.9187,92.2,1.1,ml,,,,0.34,ak,ak023bmnfgze,2023-09-10T14:23:47.309Z,"42 km W of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-10T14:20:43.089Z,60.8706,-152.6422,129.7,1.8,ml,,,,0.33,ak,ak023bmnf91w,2023-09-10T14:23:27.955Z,"76 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T21:45:01.050Z,38.8256683,-122.8010025,2.72,0.7,md,11,84,0.007441,0.01,nc,nc73935191,2023-09-09T21:46:37.853Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.11,0.13,11,automatic,nc,nc
 2023-09-09T21:41:07.480Z,38.7965,-122.735,1.35,0.44,md,20,100,0.01331,0.03,nc,nc73935181,2023-09-10T19:22:38.533Z,"3 km NE of The Geysers, CA",earthquake,0.21,0.36,0.119,14,reviewed,nc,nc
 2023-09-09T21:35:57.200Z,32.0403333,-116.2108333,16.18,2.91,ml,30,84,0.2261,0.23,ci,ci39662050,2023-09-10T18:49:26.589Z,"43 km ENE of Ensenada, B.C., MX",earthquake,0.31,1.25,0.163,71,reviewed,ci,ci
-2023-09-09T21:23:30.660Z,17.9445,-66.9056666666667,16.52,2.32,md,5,210,0.03944,0.05,pr,pr71424323,2023-09-09T21:36:07.320Z,"3 km S of Guánica, Puerto Rico",earthquake,3.08,0.94,0.00262065884578755,3,reviewed,pr,pr
