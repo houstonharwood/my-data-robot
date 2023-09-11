@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-11T05:05:00.400Z,40.9555016,-121.5681686,12.78,2.22,md,9,118,0.1009,0.09,nc,nc73935621,2023-09-11T05:06:38.748Z,"11 km NE of Burney, CA",earthquake,2.06,3.29,0.01,5,automatic,nc,nc
 2023-09-11T04:48:36.880Z,63.2355,-154.4712,14.2,1.6,ml,,,,0.3,ak,ak023bo5692g,2023-09-11T04:50:46.738Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-11T04:41:31.850Z,38.8356667,-122.8050003,1.43,0.36,md,8,108,0.01177,0.06,nc,nc73935606,2023-09-11T04:43:09.498Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.14,0.29,9,automatic,nc,nc
 2023-09-11T04:41:18.714Z,59.5765,-152.982,89.2,1.6,ml,,,,0.38,ak,ak023bo54pnj,2023-09-11T04:43:13.622Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -135,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T14:44:14.407Z,64.151,-147.3288,3.9,1.2,ml,,,,0.48,ak,ak023bmnkc0w,2023-09-10T14:46:04.719Z,"43 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-10T14:43:40.870Z,46.92,-120.56066666666666,-0.3,1.84,ml,29,91,0.0115,0.76,uw,uw61949742,2023-09-10T18:22:36.220Z,"8 km S of Ellensburg, Washington",earthquake,0.86,1.49,0.1254076489178445,22,reviewed,uw,uw
 2023-09-10T14:42:54.160Z,40.7915001,-121.8860016,8.61,1.8,md,11,148,0.1162,0.1,nc,nc73935391,2023-09-10T15:30:15.250Z,"5 km E of Round Mountain, CA",earthquake,0.86,1.82,0.24,5,automatic,nc,nc
-2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-11T00:15:52.195Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
+2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-11T05:06:26.617Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
 2023-09-10T14:26:46.030Z,40.7915001,-121.8833313,5.71,2.17,md,17,82,0.1182,0.09,nc,nc73935381,2023-09-10T14:48:10.031Z,"5 km E of Round Mountain, CA",earthquake,0.31,2.12,0.14,7,automatic,nc,nc
 2023-09-10T14:21:45.861Z,61.1157,-151.9187,92.2,1.1,ml,,,,0.34,ak,ak023bmnfgze,2023-09-10T14:23:47.309Z,"42 km W of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-10T14:20:43.089Z,60.8706,-152.6422,129.7,1.8,ml,,,,0.33,ak,ak023bmnf91w,2023-09-10T14:23:27.955Z,"76 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -202,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T05:28:33.164Z,29.318,129.334,11.43,4.8,mb,88,107,2.388,0.67,us,us7000kurj,2023-09-10T06:16:46.040Z,"99 km NNW of Tatsugō, Japan",earthquake,6.53,4.356,0.043,170,reviewed,us,us
 2023-09-10T05:28:22.780Z,38.8573341,-122.7738342,1.58,1.05,md,15,175,0.01485,0.03,nc,nc73935306,2023-09-10T05:29:58.737Z,"6 km NW of Cobb, CA",earthquake,0.39,0.48,0.24,16,automatic,nc,nc
 2023-09-10T05:25:38.050Z,34.1471667,-116.4303333,8.43,1.42,ml,34,53,0.05349,0.19,ci,ci39662178,2023-09-10T05:29:03.038Z,"4 km N of Yucca Valley, CA",earthquake,0.26,0.77,0.179,26,automatic,ci,ci
-2023-09-10T05:02:08.490Z,33.3371667,-116.193,8.3,1.22,ml,40,53,0.1529,0.22,ci,ci39662170,2023-09-10T05:05:39.912Z,"17 km SSW of Oasis, CA",earthquake,0.28,1.75,0.121,27,automatic,ci,ci
-2023-09-10T05:01:18.240Z,38.4838333,-119.5473328,0.6,2.4,md,7,136,0.1042,0.02,nc,nc73935291,2023-09-10T05:27:14.957Z,"7 km WSW of Walker, CA",earthquake,0.74,2.83,0.29,5,automatic,nc,nc
