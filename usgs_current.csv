@@ -30,13 +30,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T09:24:27.430Z,38.8045006,-122.7808304,2.85,1.1,md,25,64,0.008746,0.02,nc,nc73935996,2023-09-12T10:01:21.724Z,"4 km NW of The Geysers, CA",earthquake,0.23,0.45,0.13,26,automatic,nc,nc
 2023-09-12T08:57:27.193Z,28.0882,130.2821,10,4.9,mb,55,103,2.178,0.61,us,us7000kv8k,2023-09-12T09:17:49.040Z,"Ryukyu Islands, Japan",earthquake,3.89,1.747,0.076,55,reviewed,us,us
 2023-09-12T08:37:29.563Z,63.1477,-149.8004,77.3,2,ml,,,,0.47,ak,ak023bpv0yim,2023-09-12T08:39:31.480Z,"50 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-12T08:37:09.090Z,34.4421667,-117.9155,11.4,1.19,ml,14,73,0.03367,0.14,ci,ci39663274,2023-09-12T08:40:46.149Z,"7 km S of Pearblossom, CA",earthquake,0.31,0.53,0.347,23,automatic,ci,ci
+2023-09-12T08:37:09.070Z,34.4433333,-117.92,11.41,0.84,ml,20,64,0.02979,0.14,ci,ci39663274,2023-09-12T15:21:44.673Z,"7 km S of Pearblossom, CA",earthquake,0.21,0.4,0.128,9,reviewed,ci,ci
 2023-09-12T08:37:08.260Z,38.8201675,-122.817337,2.27,0.79,md,17,60,0.006525,0.03,nc,nc73935986,2023-09-12T08:38:44.232Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.67,0.17,19,automatic,nc,nc
-2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-12T15:11:19.048Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
+2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-12T15:16:35.871Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
 2023-09-12T08:23:57.461Z,63.0135,-150.74,116.3,2.2,ml,,,,0.44,ak,ak023bpuy0mq,2023-09-12T08:26:00.358Z,"57 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:12:18.530Z,33.4895,-116.4983333,8.47,0.61,ml,19,93,0.08695,0.15,ci,ci39663266,2023-09-12T13:34:46.993Z,"18 km ESE of Anza, CA",earthquake,0.24,0.8,0.184,15,reviewed,ci,ci
 2023-09-12T08:10:58.464Z,39.5659,-118.1042,5,2.3,ml,12,144.95,0.237,0.076,nn,nn00865715,2023-09-12T08:13:37.543Z,"55 km ENE of Fallon Station, Nevada",earthquake,,0.8,0.19,8,automatic,nn,nn
-2023-09-12T08:04:48.880Z,34.4415,-117.9135,11.26,0.97,ml,18,60,0.03542,0.16,ci,ci39663258,2023-09-12T08:08:22.047Z,"7 km S of Pearblossom, CA",earthquake,0.3,0.56,0.257,8,automatic,ci,ci
+2023-09-12T08:04:48.880Z,34.4393333,-117.9108333,11.13,0.94,ml,23,63,0.03807,0.12,ci,ci39663258,2023-09-12T15:16:22.566Z,"8 km S of Pearblossom, CA",earthquake,0.18,0.34,0.146,10,reviewed,ci,ci
 2023-09-12T08:04:22.692Z,61.4313,-150.7631,53.1,1.4,ml,,,,0.25,ak,ak023bputvdp,2023-09-12T08:05:54.784Z,"18 km SW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-12T07:54:27.260Z,38.8138351,-122.7856674,1.27,1.01,md,14,53,0.003935,0.02,nc,nc73935976,2023-09-12T07:56:01.896Z,"5 km NNW of The Geysers, CA",earthquake,0.27,0.43,0.23,18,automatic,nc,nc
 2023-09-12T07:50:39.840Z,18.0258333333333,-66.7605,12.58,2.3,md,9,176,0.03009,0.13,pr,pr71424628,2023-09-12T07:59:03.580Z,"1 km NE of Magas Arriba, Puerto Rico",earthquake,0.48,0.71,0.135077623610081,4,reviewed,pr,pr
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T23:57:56.280Z,34.3396667,-117.4296667,10.71,1.27,ml,33,75,0.05807,0.14,ci,ci39663178,2023-09-12T00:09:49.852Z,"7 km SW of Oak Hills, CA",earthquake,0.2,0.3,0.121,20,reviewed,ci,ci
 2023-09-11T23:56:08.599Z,29.04327393,-97.85948989,0.0244547526,2.8,ml,12,73,0.04961824465,0.1,tx,tx2023rwbr,2023-09-12T10:37:23.645Z,"16 km ENE of Falls City, Texas",earthquake,0.7643002763,1.262380539,0.1,16,reviewed,tx,tx
 2023-09-11T23:52:26.241Z,39.1902,-118.5882,8.2,1.5,ml,8,73.91,0.383,0.1046,nn,nn00865706,2023-09-12T00:34:44.271Z,"27 km SSE of Fallon Station, Nevada",earthquake,,3.4,0.41,5,reviewed,nn,nn
-2023-09-11T23:49:25.306Z,29.07440186,-97.87603401,3.00793457,3.2,ml,22,91,0.09359883685,0.4,tx,tx2023rwbl,2023-09-12T15:13:37.280Z,"17 km NE of Falls City, Texas",earthquake,1.124982521,2.9301561,0.1,13,reviewed,tx,tx
+2023-09-11T23:49:24.549Z,29.05975342,-97.87189798,4.670857747,3.1,ml,22,82,0.08016490881,0.2,tx,tx2023rwbl,2023-09-12T15:18:58.911Z,"16 km ENE of Falls City, Texas",earthquake,1.295215068,2.533880727,0,7,reviewed,tx,tx
 2023-09-11T23:39:54.720Z,38.822834,-122.8134995,2.98,0.84,md,7,165,0.002734,0.01,nc,nc73935871,2023-09-11T23:41:28.753Z,"7 km NW of The Geysers, CA",earthquake,0.84,1.78,0.12,8,automatic,nc,nc
 2023-09-11T23:37:54.270Z,47.30166666666667,-122.113,22.25,1,ml,20,171,0.07939,0.16,uw,uw61950207,2023-09-12T01:32:42.510Z,"3 km SSW of Lake Morton-Berrydale, Washington",earthquake,0.73,1.1,0.0995256726359362,10,reviewed,uw,uw
 2023-09-11T23:25:13.612Z,64.9766,-147.4567,0,1.4,ml,,,,0.42,ak,ak023bogciap,2023-09-11T23:26:32.768Z,"7 km ENE of Fox, Alaska",earthquake,,23.4,,,automatic,ak,ak
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T20:13:48.989Z,62.6257,-149.2815,56.1,1.6,ml,,,,1.04,ak,ak023boehpma,2023-09-11T20:16:25.420Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T20:09:21.070Z,35.1205,-116.6343333,0.3,0.7,ml,5,148,0.05689,0.04,ci,ci39662986,2023-09-11T21:14:43.469Z,"16 km SSE of Fort Irwin, CA",earthquake,0.42,0.36,0.156,4,reviewed,ci,ci
 2023-09-11T20:07:55.290Z,38.7835007,-122.7334976,1.58,1.06,md,12,81,0.002536,0.05,nc,nc73935806,2023-09-11T20:09:32.717Z,"2 km ENE of The Geysers, CA",earthquake,0.32,0.75,0.21,11,automatic,nc,nc
-2023-09-11T20:07:23.617Z,29.09088135,-97.86982996,2.518839518,3.2,ml,18,85,0.06749534479,0.5,tx,tx2023rvuc,2023-09-11T20:49:56.040Z,"18 km SSE of Stockdale, Texas",earthquake,2.592961808,2.170116844,0.2,10,reviewed,tx,tx
+2023-09-11T20:07:23.647Z,29.09454346,-97.86982996,2.518839518,3.2,ml,19,85,0.06950751704,0.3,tx,tx2023rvuc,2023-09-12T15:14:59.130Z,"18 km SSE of Stockdale, Texas",earthquake,2.206267046,2.101764894,0.2,10,reviewed,tx,tx
 2023-09-11T20:05:27.088Z,62.5338,-151.3575,83,1.6,ml,,,,0.37,ak,ak023boefy78,2023-09-11T20:07:25.148Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T20:04:17.460Z,33.3211667,-116.8983333,18.81,0.71,ml,23,65,0.04404,0.16,ci,ci39662978,2023-09-11T20:32:17.011Z,"5 km SW of Palomar Observatory, CA",earthquake,0.29,0.63,0.144,16,reviewed,ci,ci
 2023-09-11T19:55:38.176Z,62.6732,-152.2561,1,1.5,ml,,,,0.29,ak,ak023boe5995,2023-09-11T19:57:11.309Z,"79 km WNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T17:32:01.694Z,24.3609,94.9066,117.827,4.9,mb,124,47,5.294,0.8,us,us7000kv42,2023-09-12T03:27:57.338Z,"Myanmar-India border region",earthquake,9.29,6.121,0.039,206,reviewed,us,us
 2023-09-11T17:27:37.655Z,58.2048,-155.3808,0,0.3,ml,,,,0.44,ak,ak023bocsdyd,2023-09-12T01:55:26.880Z,"Alaska Peninsula",earthquake,,88.7,,,automatic,ak,ak
 2023-09-11T17:20:03.180Z,36.7715,-96.9695,0,1.03,ml,34,152,0.1979611533,0.94,ok,ok2023rvop,2023-09-11T17:48:48.567Z,"8 km ESE of Kildare, Oklahoma",quarry blast,,1.3,0.26,18,reviewed,ok,ok
-2023-09-11T17:17:37.373Z,62.2707,-147.6078,47.4,1.6,ml,,,,0.42,ak,ak023bocq8ri,2023-09-11T17:20:00.087Z,"43 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-11T17:17:37.373Z,62.2707,-147.6078,47.4,1.6,ml,,,,0.42,ak,ak023bocq8ri,2023-09-11T17:20:00.087Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-11T17:10:10.740Z,59.3953,-153.4025,105.7,2.8,ml,,,,0.29,ak,ak023bocooo7,2023-09-11T18:43:12.040Z,"59 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-11T17:05:16.630Z,47.8685,-122.71416666666667,-0.04,1.6400000000000001,ml,16,99,0.09997,0.53,uw,uw61950082,2023-09-11T17:50:04.360Z,"6 km SSW of Port Ludlow, Washington",explosion,0.81,31.61,0.2880362542489072,9,reviewed,uw,uw
 2023-09-11T16:49:59.190Z,18.6091666666667,-67.3813333333333,12.91,2.57,md,9,266,0.242,0.34,pr,pr71424583,2023-09-11T17:18:36.760Z,"31 km NW of Aguadilla, Puerto Rico",earthquake,2.04,1.04,0.00450968866694224,3,reviewed,pr,pr
