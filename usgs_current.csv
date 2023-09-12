@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T17:54:03.490Z,33.7186667,-117.3288333,-0.51,1.04,ml,17,113,0.05798,0.21,ci,ci39663490,2023-09-12T18:42:04.497Z,"6 km N of Lake Elsinore, CA",quarry blast,0.54,31.61,0.185,12,reviewed,ci,ci
 2023-09-12T17:35:23.400Z,33.2718333,-116.8091667,15.21,0.33,ml,20,75,0.05534,0.17,ci,ci39663466,2023-09-12T18:34:12.045Z,"5 km NW of Lake Henshaw, CA",earthquake,0.31,0.64,0.102,6,reviewed,ci,ci
 2023-09-12T17:34:18.685Z,61.3841,-147.5648,24,1.4,ml,,,,0.65,ak,ak023bq0d6zw,2023-09-12T17:36:10.126Z,"47 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-12T17:25:20.030Z,47.64566666666666,-117.69016666666667,7.01,2.73,ml,15,62,0.1168,0.09,uw,uw61950352,2023-09-12T18:43:25.357Z,"4 km NW of Fairchild Air Force Base, Washington",earthquake,0.32,0.8,0.23702522488812505,6,reviewed,uw,uw
+2023-09-12T17:25:20.030Z,47.64566666666666,-117.69016666666667,7.01,2.73,ml,15,62,0.1168,0.09,uw,uw61950352,2023-09-12T18:49:19.600Z,"4 km NW of Fairchild Air Force Base, Washington",earthquake,0.32,0.8,0.23702522488812505,6,reviewed,uw,uw
 2023-09-12T17:19:15.387Z,31.6693,-104.4584,10.578,2.8,ml,35,59,0.036,0.44,us,us7000kvbq,2023-09-12T17:48:33.040Z,"56 km S of Whites City, New Mexico",earthquake,1.41,7.386,0.051,79,reviewed,us,us
 2023-09-12T17:15:47.290Z,38.8006668,-122.7376633,5.42,0.79,md,10,115,0.01723,0.07,nc,nc73936086,2023-09-12T17:17:23.833Z,"3 km SSW of Cobb, CA",earthquake,0.58,1.28,0.08,11,automatic,nc,nc
 2023-09-12T17:12:25.510Z,38.8238335,-122.8108368,2.7,1.32,md,20,53,0.0007394,0.02,nc,nc73936081,2023-09-12T17:57:16.692Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.47,0.13,19,automatic,nc,nc
@@ -68,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T07:34:08.242Z,63.2614,-152.0359,0.8,1.5,ml,,,,0.61,ak,ak023bpueu54,2023-09-12T07:36:06.714Z,"34 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-12T07:17:02.600Z,19.3621673583984,-155.153335571289,1.05999994277954,1.75999999,md,35,98,,0.280000001,hv,hv73576097,2023-09-12T07:20:19.400Z,"11 km S of Fern Forest, Hawaii",earthquake,0.73,0.479999989,0.430000007,13,automatic,hv,hv
 2023-09-12T07:16:59.010Z,19.3421669006348,-155.154830932617,5.19999980926514,1.98000002,md,16,98,,0.239999995,hv,hv73576092,2023-09-12T07:20:13.370Z,"13 km S of Fern Forest, Hawaii",earthquake,0.83,1.80999994,0.100000001,5,automatic,hv,hv
+2023-09-12T07:14:27.188Z,40.1141,-119.648,15.7,0.2,ml,3,202.31,0.085,0.1231,nn,nn00865742,2023-09-12T18:46:28.087Z,"Nevada",earthquake,,5.2,0.31,3,reviewed,nn,nn
 2023-09-12T07:13:55.940Z,38.8294983,-122.815834,1.93,0.82,md,12,77,0.007575,0.01,nc,nc73935966,2023-09-12T07:15:31.268Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.83,0.32,13,automatic,nc,nc
 2023-09-12T07:07:01.870Z,38.8223333,-122.7786667,0.79,0.33,md,16,51,0.009197,0.04,nc,nc73935961,2023-09-12T11:23:52.556Z,"5 km W of Cobb, CA",earthquake,0.24,0.33,0.176,16,reviewed,nc,nc
 2023-09-12T07:05:47.590Z,39.5699,-118.0932,5.3,1.4,ml,7,75.1,0.232,0.1799,nn,nn00865713,2023-09-12T17:09:53.174Z,"56 km ENE of Fallon Station, Nevada",earthquake,,2.5,0.22,4,reviewed,nn,nn
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T19:29:44.820Z,33.9473333,-117.1136667,15.1,0.83,ml,25,73,0.08792,0.13,ci,ci39662906,2023-09-11T20:23:22.858Z,"7 km SW of Calimesa, CA",earthquake,0.21,0.46,0.117,17,reviewed,ci,ci
 2023-09-11T19:23:11.160Z,35.062,-118.3371667,-0.93,1.25,ml,24,43,0.07133,0.16,ci,ci39662882,2023-09-11T20:21:36.649Z,"13 km SE of Tehachapi, CA",quarry blast,0.34,31.61,0.146,21,reviewed,ci,ci
 2023-09-11T19:07:26.570Z,33.4143333,-116.6221667,8.38,0.71,ml,30,66,0.08187,0.15,ci,ci39662866,2023-09-11T20:16:59.532Z,"15 km N of Warner Springs, CA",earthquake,0.2,0.58,0.196,13,reviewed,ci,ci
-2023-09-11T18:48:34.280Z,40.958,-121.5613333,14.23,2,md,31,44,0.1022,0.12,nc,nc73935781,2023-09-12T04:19:15.522Z,"11 km WSW of Fall River Mills, CA",earthquake,0.24,0.66,0.207,34,reviewed,nc,nc
