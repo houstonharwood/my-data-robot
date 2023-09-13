@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-13T13:38:46.216Z,62.0389,-149.7963,34.4,1.3,ml,,,,0.53,ak,ak023brljq25,2023-09-13T13:40:41.351Z,"13 km SSE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-13T13:22:49.958Z,62.2399,-151.3275,67,1.2,ml,,,,0.98,ak,ak023brlgaw3,2023-09-13T13:25:01.733Z,"28 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-13T12:57:52.208Z,61.7717,-149.6542,29.4,1.5,ml,,,,0.5,ak,ak023brl2dis,2023-09-13T12:59:31.723Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T12:43:09.330Z,19.2474994659424,-155.402496337891,30.8400001525879,1.88,md,36,131,,0.119999997,hv,hv73576817,2023-09-13T12:46:25.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.819999993,1.05999994,11,automatic,hv,hv
@@ -25,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T09:00:21.490Z,18.8406,-65.4181,38,3.36,md,12,252,0.6673,0.32,pr,pr2023256000,2023-09-13T10:48:50.607Z,"60 km NNE of Luquillo, Puerto Rico",earthquake,2.84,8.45,0.11,11,reviewed,pr,pr
 2023-09-13T08:59:36.020Z,18.0115,-66.7393,5,1.94,md,5,179,0.1367,0.15,pr,pr2023256001,2023-09-13T11:12:41.271Z,"Puerto Rico region",earthquake,0.62,1.28,0.15,3,reviewed,pr,pr
 2023-09-13T08:57:04.131Z,63.0554,-150.4404,83.8,0.9,ml,,,,0.55,ak,ak023brioje5,2023-09-13T08:59:09.836Z,"64 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-09-13T08:51:01.993Z,31.93817139,-102.0442311,7.409790039,1.9,ml,17,71,0.09301759491,0.2,tx,tx2023ryou,2023-09-13T13:42:21.806Z,"7 km SSE of Midland, Texas",earthquake,0.922193319,2.359152113,0.2,7,reviewed,tx,tx
 2023-09-13T08:38:17.106Z,43.8736,13.3926,10,4.1,mb,47,54,0.878,0.68,us,us7000kvh7,2023-09-13T13:03:00.757Z,"22 km NE of Senigallia, Italy",earthquake,2.91,1.851,0.175,9,reviewed,us,us
 2023-09-13T08:26:43.540Z,38.7825012,-122.7809982,2.91,1.09,md,13,154,0.0182,0.14,nc,nc73936281,2023-09-13T08:28:20.788Z,"2 km WNW of The Geysers, CA",earthquake,0.68,1.31,0.16,15,automatic,nc,nc
 2023-09-13T08:15:36.110Z,38.8400002,-122.8769989,2.42,0.57,md,11,111,0.005344,0.02,nc,nc73936276,2023-09-13T08:17:10.942Z,"13 km WNW of The Geysers, CA",earthquake,0.48,0.74,0.29,12,automatic,nc,nc
@@ -79,9 +81,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T02:08:38.380Z,38.8263321,-122.8146667,1.89,1.32,md,25,46,0.004634,0.01,nc,nc73936186,2023-09-13T03:07:11.941Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.34,0.11,27,automatic,nc,nc
 2023-09-13T02:06:51.199Z,59.7894,-153.1405,102.5,1.5,ml,,,,0.29,ak,ak023bret3vj,2023-09-13T02:08:39.308Z,"54 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-13T02:02:26.850Z,17.9495,-66.3258333333333,12.82,2.3,md,9,205,0.2091,0.31,pr,pr71424653,2023-09-13T02:20:15.300Z,"3 km SSW of Las Ochenta, Puerto Rico",earthquake,1.36,0.89,0.0148960027006333,3,reviewed,pr,pr
-2023-09-13T01:53:19.730Z,35.7118333,-117.5701667,1.64,1.04,ml,16,90,0.128,0.14,ci,ci39663770,2023-09-13T01:56:57.379Z,"14 km NE of Ridgecrest, CA",earthquake,0.37,0.56,0.151,9,automatic,ci,ci
+2023-09-13T01:53:19.720Z,35.7058333,-117.575,2.29,1.08,ml,22,79,0.09062,0.16,ci,ci39663770,2023-09-13T13:45:13.609Z,"13 km NE of Ridgecrest, CA",earthquake,0.28,0.36,0.123,8,reviewed,ci,ci
 2023-09-13T01:25:13.072Z,59.6021,-156.0013,6.8,1.8,ml,,,,0.53,ak,ak023brebnxn,2023-09-13T01:27:36.373Z,"31 km NNW of Igiugig, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-13T01:21:57.640Z,33.2509995,-116.2423325,7.14,0.93,ml,20,90,0.1475,0.15,ci,ci39663762,2023-09-13T01:25:27.209Z,"12 km E of Borrego Springs, CA",earthquake,0.35,1.09,0.15,2,automatic,ci,ci
+2023-09-13T01:21:57.590Z,33.2461667,-116.2396667,9.86,0.83,ml,33,70,0.05467,0.19,ci,ci39663762,2023-09-13T13:41:54.975Z,"13 km E of Borrego Springs, CA",earthquake,0.25,0.66,0.065,10,reviewed,ci,ci
 2023-09-13T01:15:27.048Z,39.4913,-119.6093,0.6,2.1,ml,9,72.18,0.279,0.2334,nn,nn00865763,2023-09-13T01:17:47.426Z,"13 km ESE of Sparks, Nevada",earthquake,,94.1,0.2,8,automatic,nn,nn
 2023-09-13T01:12:14.850Z,17.9758333333333,-66.8458333333333,9.71,2.7,md,7,196,0.03182,0.17,pr,pr71424643,2023-09-13T01:19:49.640Z,"Puerto Rico region",earthquake,0.74,0.99,0.0433476063127376,3,reviewed,pr,pr
 2023-09-13T01:04:52.540Z,33.309,-116.2421667,6.7,1.18,ml,47,42,0.1061,0.2,ci,ci39663754,2023-09-13T13:36:20.667Z,"14 km ENE of Borrego Springs, CA",earthquake,0.21,0.83,0.15,27,reviewed,ci,ci
