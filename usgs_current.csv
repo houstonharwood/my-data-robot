@@ -1,9 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-14T03:36:30.160Z,38.8178329,-122.8208313,2.51,0.96,md,16,57,0.01007,0.02,nc,nc73936581,2023-09-14T03:38:04.667Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.49,0.2,20,automatic,nc,nc
-2023-09-14T03:24:50.472Z,58.1972,-155.374,1.3,0.1,ml,,,,0.46,ak,ak023bt31qt3,2023-09-14T03:26:35.111Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-09-14T02:48:35.770Z,35.0276667,-116.9591667,1.65,1.49,ml,11,66,0.1551,0.13,ci,ci39664626,2023-09-14T02:52:16.825Z,"16 km NNE of Barstow, CA",earthquake,0.31,0.75,0.105,20,automatic,ci,ci
 2023-09-14T02:47:27.072Z,-23.983,-66.7608,204.56,4.4,mb,40,53,1.658,0.52,us,us7000kvn7,2023-09-14T03:03:27.040Z,"51 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.55,7.722,0.131,18,reviewed,us,us
-2023-09-14T02:43:54.130Z,36.5726662,-121.1758347,7.88,3.43,ml,62,97,0.007762,0.19,nc,nc73936566,2023-09-14T03:22:12.137Z,"5 km NNW of Pinnacles, CA",earthquake,0.3,0.63,0.173,31,automatic,nc,nc
+2023-09-14T02:43:54.130Z,36.5726662,-121.1758347,7.88,3.43,ml,62,97,0.007762,0.19,nc,nc73936566,2023-09-14T03:52:00.836Z,"5 km NNW of Pinnacles, CA",earthquake,0.3,0.63,0.173,31,automatic,nc,nc
 2023-09-14T02:17:25.620Z,33.6746667,-116.7115,14.48,1.19,ml,39,34,0.03933,0.22,ci,ci39664610,2023-09-14T02:28:25.460Z,"7 km S of Idyllwild, CA",earthquake,0.3,0.44,0.195,26,automatic,ci,ci
 2023-09-14T02:14:14.656Z,57.7333,-154.5776,32.5,1.4,ml,,,,0.28,ak,ak023bt2e3a1,2023-09-14T02:15:35.482Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-14T02:08:38.040Z,33.099,-116.747,8.4,0.97,ml,6,123,0.1303,0.33,ci,ci39664602,2023-09-14T02:12:15.350Z,"11 km NNE of San Diego Country Estates, CA",earthquake,1.55,4.87,0.109,3,automatic,ci,ci
@@ -177,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T05:18:31.195Z,31.62901529,-104.3635558,6.851391602,2.7,ml,18,76,0.06442958063,0.1,tx,tx2023ryhu,2023-09-13T13:00:58.679Z,"60 km S of Whites City, New Mexico",earthquake,0.9610586562,1.219660307,0,6,reviewed,tx,tx
 2023-09-13T05:18:22.720Z,19.5594997406006,-155.994338989258,9.47000026702881,1.91999996,md,22,286,,0.209999993,hv,hv73576652,2023-09-13T05:21:26.990Z,"3 km WSW of Kahaluu-Keauhou, Hawaii",earthquake,1.35,0.660000026,0.949999988,7,automatic,hv,hv
 2023-09-13T05:12:39.660Z,40.9233333,-121.585,9.59,2.14,md,32,47,0.1222,0.12,nc,nc73936226,2023-09-14T00:16:13.098Z,"8 km NE of Burney, CA",earthquake,0.18,0.62,0.174,44,reviewed,nc,nc
+2023-09-13T05:05:50.270Z,58.204,-155.308166666667,2.89,0.33,ml,12,89,,0.14,av,av92042806,2023-09-14T03:50:27.760Z,"86 km NW of Karluk, Alaska",earthquake,0.31,0.47,0.241372060195115,12,reviewed,av,av
 2023-09-13T05:03:28.314Z,64.6363,-149.1561,15.7,1.1,ml,,,,0.22,ak,ak023brgkprz,2023-09-13T05:05:01.741Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T05:01:20.104Z,58.252,-155.0687,1.2,0.5,ml,,,,0.18,ak,ak023brgk9pm,2023-09-13T05:02:17.889Z,"84 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-09-13T04:45:38.520Z,38.8271675,-122.8146667,1.81,0.76,md,18,46,0.01641,0.01,nc,nc73936221,2023-09-13T04:47:12.846Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.6,0.08,20,automatic,nc,nc
@@ -191,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T04:08:01.976Z,60.715,-147.0276,19.8,1.9,ml,,,,0.61,ak,ak023brg0aoj,2023-09-13T04:09:31.528Z,"25 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-13T04:07:20.139Z,31.7877,142.2815,10,4.4,mb,35,136,2.471,0.59,us,us7000kvfd,2023-09-13T21:46:26.040Z,"Izu Islands, Japan region",earthquake,10.99,1.886,0.115,22,reviewed,us,us
 2023-09-13T03:58:36.950Z,38.7709999,-122.7190018,1.34,1.62,md,18,65,0.01567,0.06,nc,nc73936196,2023-09-13T04:58:13.572Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.43,0.09,22,automatic,nc,nc
-2023-09-13T03:53:32.840Z,34.3873333,-119.2161667,2.01,1.56,ml,30,97,0.06896,0.25,ci,ci39663834,2023-09-13T14:07:53.559Z,"7 km SSE of Ojai, CA",earthquake,0.26,0.46,0.14,18,reviewed,ci,ci
-2023-09-13T03:50:55.310Z,46.18983333333333,-122.197,6.56,0.2,ml,20,52,0.01083,0.21,uw,uw61950502,2023-09-13T18:46:12.750Z,"36 km NNE of Amboy, Washington",earthquake,0.37,0.35,0.15284251062328214,10,reviewed,uw,uw
