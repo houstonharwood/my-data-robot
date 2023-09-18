@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-18T11:50:14.666Z,64.6161,-148.3616,10.3,1.5,ml,,,,0.57,ak,ak023bzu43h6,2023-09-18T11:52:45.177Z,"30 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-18T12:13:34.030Z,33.028,-116.2926667,3.26,1.37,ml,37,40,0.07375,0.18,ci,ci39667858,2023-09-18T12:17:11.128Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.28,0.79,0.141,26,automatic,ci,ci
+2023-09-18T11:50:14.666Z,64.6161,-148.3616,10.3,1.5,ml,,,,0.57,ak,ak023bzu43h6,2023-09-18T12:15:15.526Z,"30 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-18T11:41:02.640Z,38.8193321,-122.7969971,0.98,0.39,md,7,100,0.01099,0.01,nc,nc73938381,2023-09-18T11:42:38.281Z,"6 km NW of The Geysers, CA",earthquake,0.39,1.02,0.15,8,automatic,nc,nc
 2023-09-18T11:31:11.439Z,29.7108,139.0214,443.735,4.5,mb,82,96,3.461,0.56,us,us7000kwfn,2023-09-18T11:46:48.040Z,"Izu Islands, Japan region",earthquake,10.1,7.015,0.037,217,reviewed,us,us
 2023-09-18T11:30:20.092Z,61.9902,-148.0518,38.5,1.7,ml,,,,0.59,ak,ak023bztztkp,2023-09-18T11:32:21.367Z,"29 km NW of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T06:24:05.461Z,-22.3842,68.9751,10,4.7,mb,26,68,5.851,0.48,us,us7000kwet,2023-09-18T07:28:20.040Z,"Mid-Indian Ridge",earthquake,4.79,1.876,0.126,19,reviewed,us,us
 2023-09-18T06:23:26.710Z,38.8066673,-122.7926636,0.94,0.3,md,8,64,0.002437,0.01,nc,nc73938201,2023-09-18T06:25:01.810Z,"4 km NW of The Geysers, CA",earthquake,0.49,0.98,0.09,7,automatic,nc,nc
 2023-09-18T06:22:30.130Z,38.8066673,-122.7914963,1.8,1.26,md,14,46,0.003245,0.01,nc,nc73938191,2023-09-18T07:10:13.374Z,"4 km NW of The Geysers, CA",earthquake,0.25,0.57,0.26,16,automatic,nc,nc
-2023-09-18T06:20:52.980Z,38.8115005,-122.793663,1.2,3.49,ml,79,32,0.003753,0.08,nc,nc73938186,2023-09-18T11:46:11.809Z,"5 km NW of The Geysers, CA",earthquake,0.1,0.16,0.237,24,automatic,nc,nc
+2023-09-18T06:20:52.980Z,38.8115005,-122.793663,1.2,3.49,ml,79,32,0.003753,0.08,nc,nc73938186,2023-09-18T12:06:16.760Z,"5 km NW of The Geysers, CA",earthquake,0.1,0.16,0.237,24,automatic,nc,nc
 2023-09-18T06:09:43.120Z,60.2568,-152.6606,15.1,3.4,ml,,,,0.46,ak,ak023bzqw7a7,2023-09-18T06:23:21.374Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T06:01:34.761Z,31.60797089,-103.9421687,7.674047852000001,2.2,ml,12,62,0.02291620459,0,tx,tx2023shms,2023-09-18T10:31:02.399Z,"34 km WSW of Mentone, Texas",earthquake,0.788380015,0.6699370546,0.1,22,reviewed,tx,tx
 2023-09-18T05:41:12.930Z,34.1506667,-116.4198333,7.72,1.14,ml,26,54,0.04743,0.15,ci,ci39667794,2023-09-18T05:51:43.100Z,"4 km NNE of Yucca Valley, CA",earthquake,0.23,0.67,0.15,27,automatic,ci,ci
@@ -159,5 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T12:58:45.533Z,-15.6024,168.1502,10,4.6,mb,26,136,6.142,0.74,us,us7000kwb6,2023-09-17T13:18:56.040Z,"Vanuatu",earthquake,9.4,1.84,0.133,18,reviewed,us,us
 2023-09-17T12:26:28.430Z,39.2088,-118.2007,8.6,1.2,ml,8,122.43,0.12,0.1443,nn,nn00865947,2023-09-17T16:43:09.573Z,"44 km NNW of Gabbs, Nevada",earthquake,,2.3,0.55,5,reviewed,nn,nn
 2023-09-17T12:24:43.210Z,46.3025,-122.22783333333334,3.55,0.6,ml,16,125,0.02564,0.09,uw,uw61960446,2023-09-17T18:29:59.400Z,"Washington",earthquake,0.38,0.56,0.1774128540846064,12,reviewed,uw,uw
-2023-09-17T12:12:18.100Z,33.4938333,-116.5005,11.01,0.67,ml,16,92,0.0691,0.16,ci,ci39667442,2023-09-17T13:54:37.399Z,"17 km ESE of Anza, CA",earthquake,0.29,0.92,0.151,15,reviewed,ci,ci
-2023-09-17T12:03:17.690Z,38.8390007,-122.8368301,1.37,0.6,md,8,113,0.001127,0.01,nc,nc73937831,2023-09-17T12:04:50.913Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.65,0.22,8,automatic,nc,nc
