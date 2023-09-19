@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T10:40:21.122Z,61.7704,-150.3807,13.5,1.4,ml,,,,0.82,ak,ak023c1gzvpc,2023-09-19T10:42:38.277Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-19T10:35:59.690Z,46.9528333333333,-114.634333333333,2.45,0.97,ml,8,125,0.1516,0.08,mb,mb90027758,2023-09-19T14:02:31.190Z,"13 km WSW of Alberton, Montana",earthquake,0.37,0.95,0.304748875531743,3,reviewed,mb,mb
 2023-09-19T10:32:43.620Z,54.7355,-164.128,1.83,2.07,ml,7,115,,0.3,av,av92050461,2023-09-19T18:05:06.980Z,"47 km WSW of False Pass, Alaska",earthquake,0.82,1.89,0.235388284518016,7,reviewed,av,av
-2023-09-19T10:21:53.140Z,37.4311676,-121.2991638,0.3,3.11,ml,75,165,0.04748,0.17,nc,nc73938936,2023-09-19T20:19:29.218Z,"16 km WSW of Patterson, CA",earthquake,0.31,1.01,0.324,26,automatic,nc,nc
+2023-09-19T10:21:53.140Z,37.4311676,-121.2991638,0.3,3.11,ml,75,165,0.04748,0.17,nc,nc73938936,2023-09-19T20:47:55.881Z,"16 km WSW of Patterson, CA",earthquake,0.31,1.01,0.324,26,automatic,nc,nc
 2023-09-19T10:19:33.440Z,19.2684993743896,-155.386993408203,30.7299995422363,1.98000002,md,45,128,,0.119999997,hv,hv73580692,2023-09-19T10:22:42.190Z,"Island of Hawaii, Hawaii",earthquake,0.59,0.680000007,0.349999994,17,automatic,hv,hv
 2023-09-19T10:10:15.040Z,38.833168,-122.8176651,1.79,1.32,md,24,57,0.01142,0.01,nc,nc73938931,2023-09-19T10:26:15.605Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.37,0.13,25,automatic,nc,nc
 2023-09-19T10:09:09.550Z,45.9251666666667,-113.079833333333,4.98,0.87,ml,8,190,0.1636,0.1,mb,mb90027773,2023-09-19T15:32:12.840Z,"24 km SSW of Anaconda, Montana",earthquake,0.99,6.9,0.242408923168441,4,reviewed,mb,mb
@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T04:43:19.370Z,37.4640007,-121.2651672,3.81,1.78,md,18,110,0.07985,0.37,nc,nc73938786,2023-09-19T05:20:13.847Z,"11 km SSW of Westley, CA",earthquake,0.83,3.31,0.06,8,automatic,nc,nc
 2023-09-19T04:40:58.620Z,37.4225006,-121.2945023,1.44,3.15,ml,69,162,0.03818,0.23,nc,nc73938781,2023-09-19T08:01:52.612Z,"16 km WSW of Patterson, CA",earthquake,0.45,1.12,0.434,29,automatic,nc,nc
 2023-09-19T04:17:54.640Z,37.4076653,-121.3133316,2.35,1.86,md,5,193,0.03272,0.11,nc,nc73938746,2023-09-19T05:22:34.405Z,"18 km WSW of Patterson, CA",earthquake,1.08,1.47,0.09,5,automatic,nc,nc
-2023-09-19T04:13:10.380Z,37.4381667,-121.2958333,3.51,4.53,mw,174,91,0.05369,0.18,nc,nc73938736,2023-09-19T20:35:35.443Z,"15 km SW of Westley, CA",earthquake,0.17,0.5,,5,reviewed,nc,nc
+2023-09-19T04:13:10.380Z,37.4381667,-121.2958333,3.51,4.53,mw,174,91,0.05369,0.18,nc,nc73938736,2023-09-19T20:45:48.934Z,"15 km SW of Westley, CA",earthquake,0.17,0.5,,5,reviewed,nc,nc
 2023-09-19T04:11:42.037Z,61.3987,-151.5511,72,1.6,ml,,,,0.44,ak,ak023c1d93x7,2023-09-19T04:14:01.883Z,"38 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-19T04:08:52.590Z,38.7928352,-122.8030014,3.11,1.52,md,27,58,0.004503,0.03,nc,nc73938731,2023-09-19T05:09:20.790Z,"4 km WNW of The Geysers, CA",earthquake,0.25,0.43,0.13,27,automatic,nc,nc
 2023-09-19T04:04:20.060Z,37.4221649,-121.3119965,1.49,1.62,md,6,160,0.04331,0.15,nc,nc73938726,2023-09-19T05:16:26.401Z,"17 km WSW of Patterson, CA",earthquake,1.14,2.02,0.16,5,automatic,nc,nc
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T21:02:27.740Z,38.8190002,-122.7906647,1.49,2.07,md,36,40,0.009677,0.04,nc,nc73938546,2023-09-18T22:23:21.563Z,"6 km NNW of The Geysers, CA",earthquake,0.16,0.28,0.15,38,automatic,nc,nc
 2023-09-18T21:00:12.720Z,38.8191681,-122.7893295,1.66,1.4,md,25,40,0.008968,0.02,nc,nc73938541,2023-09-18T22:08:17.475Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.33,0.13,24,automatic,nc,nc
 2023-09-18T20:51:47.731Z,65.8225,-150.9769,17,2.3,ml,,,,0.87,ak,ak023bzzha6t,2023-09-18T20:54:24.455Z,"51 km NW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-18T20:45:08.089Z,34.89933333,-96.1505,2,1.44,ml,26,80,0.3815251318,0.54,ok,ok2023sipw,2023-09-19T17:14:35.980Z,"4 km W of Stuart, Oklahoma",earthquake,,2.5,0.27,4,reviewed,ok,ok
