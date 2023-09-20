@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-20T19:10:38.410Z,34.2051667,-117.0558333,1.67,1.29,ml,28,48,0.06634,0.17,ci,ci39669778,2023-09-20T19:14:14.489Z,"5 km E of Running Springs, CA",earthquake,0.22,0.36,0.153,28,automatic,ci,ci
+2023-09-20T19:10:38.410Z,34.2051667,-117.0558333,1.67,1.29,ml,28,48,0.06634,0.17,ci,ci39669778,2023-09-20T19:21:11.280Z,"5 km E of Running Springs, CA",earthquake,0.22,0.36,0.153,28,automatic,ci,ci
 2023-09-20T18:56:15.780Z,34.9781667,-118.1955,0.15,1.3,ml,10,80,0.1028,0.26,ci,ci39669754,2023-09-20T18:59:58.628Z,"8 km SSW of Mojave, CA",earthquake,0.72,31.61,0.081,20,automatic,ci,ci
 2023-09-20T18:55:47.143Z,59.7367,-153.2684,127.1,1.9,ml,,,,0.35,ak,ak023c39dysa,2023-09-20T18:57:45.162Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-20T18:38:39.710Z,35.6251667,-117.4761667,6.44,1.02,ml,14,84,0.05843,0.19,ci,ci39669746,2023-09-20T18:42:04.293Z,"17 km SSW of Searles Valley, CA",earthquake,0.41,1.07,0.205,5,automatic,ci,ci
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T17:37:21.730Z,33.5008333,-116.7615,10.55,1.52,ml,50,36,0.03444,0.19,ci,ci39669714,2023-09-20T17:54:16.570Z,"10 km SW of Anza, CA",earthquake,0.17,0.33,0.168,27,reviewed,ci,ci
 2023-09-20T17:29:40.966Z,62.684,-152.2801,11.1,1.2,ml,,,,0.27,ak,ak023c38my36,2023-09-20T17:32:00.323Z,"80 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-20T17:09:55.650Z,38.8219986,-122.8048325,2.77,1.29,md,28,35,0.004325,0.01,nc,nc73939461,2023-09-20T17:13:11.438Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,27,automatic,nc,nc
-2023-09-20T17:09:13.640Z,46.40950012207031,-122.52483367919922,0.730000019073486,1.8200081586837769,ml,15,276,0.1638,0.150000006,uw,uw61961041,2023-09-20T19:11:51.350Z,"13 km SSW of Mossyrock, Washington",earthquake,3.91,13.8100004,0.44740167260169983,8,reviewed,uw,uw
+2023-09-20T17:09:15.450Z,46.336,-122.4295,0.32,0.79,ml,17,193,0.06788,0.7,uw,uw61961041,2023-09-20T19:16:02.520Z,"21 km S of Mossyrock, Washington",earthquake,2.48,1.39,0.21824402746746085,7,reviewed,uw,uw
 2023-09-20T17:07:38.560Z,38.7873344,-122.7628326,0.72,1.07,md,16,67,0.01349,0.03,nc,nc73939451,2023-09-20T17:09:14.111Z,"1 km NNW of The Geysers, CA",earthquake,0.24,0.41,0.12,16,automatic,nc,nc
 2023-09-20T17:01:12.440Z,39.3883324,-122.5746689,4.78,2.64,md,6,174,0.4488,0.32,nc,nc73939446,2023-09-20T17:54:44.316Z,"22 km S of Stony Gorge Reservoir, CA",earthquake,5.15,17.49,0.15,5,automatic,nc,nc
 2023-09-20T16:53:29.150Z,38.815834,-122.8171692,2.58,1.34,md,27,50,0.009366,0.02,nc,nc73939441,2023-09-20T16:55:03.691Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.39,0.14,28,automatic,nc,nc
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T13:51:30.120Z,38.845665,-122.8190002,1.42,0.7,md,9,97,0.009602,0.01,nc,nc73939346,2023-09-20T13:53:03.861Z,"9 km WNW of Cobb, CA",earthquake,0.37,1.02,0.27,11,automatic,nc,nc
 2023-09-20T13:50:01.960Z,51.877,178.454,120.551,4.3,mb,116,166,0.107,0.75,us,us7000kwvx,2023-09-20T18:44:34.241Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,10.24,5.684,0.045,141,reviewed,us,us
 2023-09-20T13:49:25.160Z,38.8468323,-122.8195038,1.76,0.94,md,10,102,0.008373,0.01,nc,nc73939341,2023-09-20T13:50:58.879Z,"9 km WNW of Cobb, CA",earthquake,0.83,1.65,0.23,12,automatic,nc,nc
-2023-09-20T13:40:27.149Z,39.332,-117.3494,5,2.4,ml,7,105.82,0.515,0.0548,nn,nn00866125,2023-09-20T16:18:09.211Z,"27 km WNW of Kingston, Nevada",earthquake,,2.1,0.26,4,reviewed,nn,nn
+2023-09-20T13:40:27.149Z,39.332,-117.3494,5,2.4,ml,7,105.82,0.515,0.0548,nn,nn00866125,2023-09-20T16:18:09.211Z,"Nevada",earthquake,,2.1,0.26,4,reviewed,nn,nn
 2023-09-20T13:10:13.292Z,65.0218,-151.5351,9.7,2.6,ml,,,,1.12,ak,ak023c3652xd,2023-09-20T13:12:35.335Z,"30 km ESE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-20T12:58:41.420Z,33.8683333,-116.8228333,16.03,0.68,ml,23,84,0.04062,0.1,ci,ci39669530,2023-09-20T16:38:59.701Z,"6 km SSW of Cabazon, CA",earthquake,0.18,0.39,0.084,10,reviewed,ci,ci
 2023-09-20T12:55:31.450Z,38.8303337,-122.828331,7.76,0.64,md,7,109,0.008906,0.05,nc,nc73939331,2023-09-20T12:57:08.546Z,"9 km NW of The Geysers, CA",earthquake,1.43,7.55,0.42,8,automatic,nc,nc
