@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T17:27:02.120Z,38.7956657,-122.7656631,3.76,1.05,md,19,69,0.006793,0.02,nc,nc73939921,2023-09-21T17:28:33.999Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.68,0.2,19,automatic,nc,nc
 2023-09-21T17:12:43.390Z,33.0335,-116.2336667,6.47,1.4,ml,39,47,0.0981,0.18,ci,ci40569928,2023-09-21T21:18:19.023Z,"16 km SW of Ocotillo Wells, CA",earthquake,0.24,0.86,0.13,27,reviewed,ci,ci
 2023-09-21T16:59:45.490Z,38.8341675,-122.8141632,5.83,0.77,md,10,229,0.01122,0.05,nc,nc73939906,2023-09-21T17:01:20.109Z,"8 km W of Cobb, CA",earthquake,1.24,2.28,0.18,9,automatic,nc,nc
+2023-09-21T16:59:28.200Z,46.82633333333333,-121.8595,2.97,0.17,ml,8,246,0.01402,0.1,uw,uw61961261,2023-09-22T04:30:48.630Z,"Mount Rainier area, Washington",earthquake,0.62,0.55,0.00842877381305912,3,reviewed,uw,uw
 2023-09-21T16:56:22.215Z,61.9424,-149.1308,15.9,1.2,ml,,,,0.9,ak,ak023c4vqlv1,2023-09-21T16:58:10.351Z,"22 km NNE of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T16:53:31.007Z,31.99383102,-103.8400472,7.314135742,2.308931394,ml(texnet),22,71.63894083,0.03291692795,0.2081370017,tx,tx2023snut,2023-09-21T21:02:29.522Z,"33 km SE of Malaga, New Mexico",earthquake,0.9748595995,1.210244711,0.2773984006,26,reviewed,tx,tx
 2023-09-21T16:43:07.424Z,-8.5992,118.3484,133.246,4.5,mb,16,76,0.609,0.88,us,us7000kx5q,2023-09-21T17:17:33.040Z,"14 km WSW of Dompu, Indonesia",earthquake,8.34,7.026,0.172,10,reviewed,us,us
@@ -196,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T06:38:52.157Z,59.8812,-152.6476,83.6,1.4,ml,,,,0.11,ak,ak023c4poh8f,2023-09-21T06:40:00.713Z,"47 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-21T06:34:25.844Z,36.1245,68.438,120.966,4.1,mb,18,122,1.656,0.8,us,us7000kx1q,2023-09-21T07:12:53.040Z,"24 km W of Baghlān, Afghanistan",earthquake,7.53,12.832,0.261,4,reviewed,us,us
 2023-09-21T06:33:31.601Z,63.5404,-147.7029,6,1.7,ml,,,,0.78,ak,ak023c4pncpw,2023-09-21T06:36:02.678Z,"63 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-21T06:30:06.573Z,31.64998859,-104.0230674,5.46315918,1.699543246,ml(texnet),15,52.18957772,0.02955070481,0.1247248588,tx,tx2023snaf,2023-09-21T18:54:39.899Z,"40 km W of Mentone, Texas",earthquake,0.6556867697,0.9240941273,0.1901520773,7,reviewed,tx,tx
+2023-09-21T06:30:06.573Z,31.64998859,-104.0230674,5.46315918,1.699543246,ml(texnet),15,52.18957772,0.02955070481,0.1247248588,tx,tx2023snaf,2023-09-21T18:54:39.899Z,"western Texas",earthquake,0.6556867697,0.9240941273,0.1901520773,7,reviewed,tx,tx
 2023-09-21T06:26:21.610Z,38.8353348,-122.7896652,1.71,1,md,15,64,0.003115,0.02,nc,nc73939696,2023-09-21T06:27:57.179Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.83,0.27,16,automatic,nc,nc
 2023-09-21T06:24:48.686Z,39.7379,-120.5595,7.7,1,ml,8,193.31,0.139,0.1466,nn,nn00866206,2023-09-21T21:20:34.177Z,"0 km E of Valley Ranch, California",earthquake,,2.6,0.2,4,reviewed,nn,nn
 2023-09-21T06:20:56.730Z,33.0595,-116.4078333,13.32,1.34,ml,47,42,0.03107,0.18,ci,ci39670042,2023-09-21T15:54:03.190Z,"18 km E of Julian, CA",earthquake,0.19,0.48,0.182,22,reviewed,ci,ci
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T04:51:00.040Z,46.74016666666667,-121.661,8.59,0.41000000000000003,ml,29,109,0.06242,0.12,uw,uw61961161,2023-09-21T17:47:07.530Z,"14 km N of Packwood, Washington",earthquake,0.32,0.42,0.151968146134577,10,reviewed,uw,uw
 2023-09-21T04:48:54.030Z,36.6858,-115.914,4.6,0,ml,7,249.98,0.046,0.2022,nn,nn00866214,2023-09-21T21:14:20.076Z,"25 km WNW of Indian Springs, Nevada",earthquake,,3.5,0,1,reviewed,nn,nn
 2023-09-21T04:37:15.690Z,17.9505,-66.0163333333333,37.81,2.62,md,8,209,0.08744,0.22,pr,pr71425408,2023-09-21T04:51:05.550Z,"4 km SSE of Palmas, Puerto Rico",earthquake,1.54,1.22,0.295489782084656,6,reviewed,pr,pr
-2023-09-21T04:30:05.890Z,19.5241,-65.5145,90,3.74,md,10,289,1.2945,0.25,pr,pr2023264000,2023-09-21T04:55:34.412Z,"126 km NNE of Vieques, Puerto Rico",earthquake,4.17,7.37,0.16,4,reviewed,pr,pr
-2023-09-21T04:29:01.377Z,39.7366,-120.5572,7.6,1.2,ml,7,191.79,0.139,0.1393,nn,nn00866200,2023-09-21T21:01:49.705Z,"0 km E of Valley Ranch, California",earthquake,,2.8,0.28,5,reviewed,nn,nn
