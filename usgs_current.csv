@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T18:51:55.609Z,35.53883333,-96.75333333,7.91,2.97,ml,100,35,0.1169770451,0.21,ok,ok2023spud,2023-09-22T20:57:15.933Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.21,24,reviewed,ok,ok
 2023-09-22T18:33:45.810Z,32.946,-115.5321667,6.49,1.45,ml,19,99,0.05048,0.22,ci,ci40570472,2023-09-22T18:37:27.793Z,"4 km S of Brawley, CA",earthquake,0.45,1.33,0.279,18,automatic,ci,ci
 2023-09-22T18:31:05.290Z,34.0125,-116.8,17.06,0.83,ml,16,93,0.0235,0.16,ci,ci40570464,2023-09-22T18:34:41.954Z,"11 km N of Cabazon, CA",earthquake,0.37,0.72,0.199,17,automatic,ci,ci
-2023-09-22T18:03:14.430Z,37.3110008,-122.0713348,6.68,2.84,md,70,65,0.02823,0.13,nc,nc73940346,2023-09-22T23:13:04.390Z,"4 km WSW of Cupertino, CA",earthquake,0.17,0.38,0.1,105,automatic,nc,nc
+2023-09-22T18:03:14.430Z,37.3110008,-122.0713348,6.68,2.84,md,70,65,0.02823,0.13,nc,nc73940346,2023-09-22T23:28:34.603Z,"4 km WSW of Cupertino, CA",earthquake,0.17,0.38,0.1,105,automatic,nc,nc
 2023-09-22T18:02:14.650Z,19.2943333333333,-155.458166666667,6.1,2.38,ml,45,48,,0.16,hv,hv73582987,2023-09-22T20:51:56.710Z,"10 km NNE of Pāhala, Hawaii",earthquake,0.27,0.9,0.153179962743099,22,reviewed,hv,hv
 2023-09-22T17:55:34.064Z,61.5292,-146.4616,27.1,1.9,ml,,,,0.6,ak,ak023c6jv72l,2023-09-22T17:56:52.346Z,"44 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T17:27:30.090Z,19.2386665344238,-155.398498535156,29.7199993133545,1.73000002,md,25,155,,0.109999999,hv,hv73582972,2023-09-22T17:30:43.950Z,"Island of Hawaii, Hawaii",earthquake,0.73,1.03999996,0.74000001,3,automatic,hv,hv
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T16:46:20.625Z,62.5001,-151.1563,80.6,1.5,ml,,,,0.45,ak,ak023c6j7t2m,2023-09-22T16:48:19.690Z,"20 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-22T16:33:14.566Z,30.9034,142.0856,10,5,mb,46,136,2.93,0.93,us,us7000kxh4,2023-09-22T16:48:54.040Z,"Izu Islands, Japan region",earthquake,9.41,1.906,0.052,122,reviewed,us,us
 2023-09-22T16:19:32.763Z,-14.9289,166.8404,40.12,5.4,mww,92,31,6.098,0.99,us,us7000kxh2,2023-09-22T18:22:44.352Z,"27 km WNW of Port-Olry, Vanuatu",earthquake,6.89,6.218,0.078,16,reviewed,us,us
-2023-09-22T16:18:13.680Z,58.2345,-155.179,3.1,-0.27,ml,10,69,,0.09,av,av92053991,2023-09-22T23:18:34.690Z,"85 km NNW of Karluk, Alaska",earthquake,0.24,0.67,0.176718564775014,10,reviewed,av,av
+2023-09-22T16:18:13.630Z,58.236,-155.1735,2.96,-0.13,ml,9,72,,0.11,av,av92053991,2023-09-22T23:23:32.730Z,"85 km NNW of Karluk, Alaska",earthquake,0.24,0.87,0.239133753344276,9,reviewed,av,av
 2023-09-22T16:03:51.800Z,19.1903324127197,-155.495834350586,32.2000007629395,1.99000001,md,36,81,,0.100000001,hv,hv73582937,2023-09-22T16:07:06.910Z,"2 km SW of Pāhala, Hawaii",earthquake,0.64,0.879999995,0.949999988,16,automatic,hv,hv
 2023-09-22T15:53:25.467Z,60.8246,-149.1267,20.1,1.5,ml,,,,0.61,ak,ak023c6invuq,2023-09-22T15:56:21.614Z,"13 km S of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T15:41:19.460Z,57.7716666666667,-155.894833333333,2.13,0.73,ml,7,193,,0.2,av,av92053961,2023-09-22T22:55:00.210Z,"88 km WNW of Karluk, Alaska",earthquake,2.25,2.88,0.191388048658846,7,reviewed,av,av
@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T23:42:02.340Z,47.233,-122.882,49.34,2,ml,35,45,0.08314,0.23,uw,uw61961396,2023-09-22T01:01:06.470Z,"9 km WNW of Longbranch, Washington",earthquake,0.38,0.89,0.23743579760917521,24,reviewed,uw,uw
 2023-09-21T23:33:26.570Z,44.7836667,-111.1065,8.09,0.94,ml,11,88,0.0125,0.15,uu,uu60550642,2023-09-22T14:28:38.810Z,"6 km ENE of Hebgen Lake Estates, Montana",earthquake,0.53,0.98,0.295,2,reviewed,uu,uu
 2023-09-21T23:29:38.080Z,54.7733333333333,-163.558833333333,1.8,0.38,ml,4,176,,0.06,av,av91116358,2023-09-22T01:39:26.610Z,"13 km SW of False Pass, Alaska",earthquake,0.42,0.64,0.430751496416294,4,reviewed,av,av
-2023-09-21T23:29:04.600Z,54.7706666666667,-163.554833333333,1.91,1.26,ml,5,179,,0.11,av,av92053161,2023-09-22T00:50:55.720Z,"13 km SW of False Pass, Alaska",earthquake,0.49,1.73,0.402684192875372,5,reviewed,av,av
-2023-09-21T23:24:35.670Z,38.7971649,-122.7493362,1.39,1.06,md,14,95,0.008813,0.02,nc,nc73940081,2023-09-21T23:26:11.388Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.52,0.05,12,automatic,nc,nc
