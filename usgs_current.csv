@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T05:28:34.560Z,38.788166,-122.7621689,1.75,1.14,md,16,65,0.01259,0.02,nc,nc73941636,2023-09-25T05:30:11.140Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.48,0.14,17,automatic,nc,nc
 2023-09-25T05:27:55.860Z,38.8231659,-122.7679977,1.66,0.78,md,9,144,0.007446,0.01,nc,nc73941631,2023-09-25T05:29:31.625Z,"4 km W of Cobb, CA",earthquake,0.54,1.1,0.08,9,automatic,nc,nc
 2023-09-25T05:27:16.500Z,67.4426,-170.2676,21.8,3.9,ml,,,,0.54,ak,ak023cbb5zvi,2023-09-25T09:51:01.999Z,"Near the north coast of Chukotskiy Avtonomnyy Okrug, Russia",earthquake,,3.9,,,reviewed,ak,ak
-2023-09-25T05:27:04.530Z,33.3945,-116.868,5.93,0.55,ml,16,82,0.1194,0.26,ci,ci40572000,2023-09-25T05:30:55.260Z,"4 km N of Palomar Observatory, CA",earthquake,0.51,2.14,0.058,13,automatic,ci,ci
+2023-09-25T05:27:04.320Z,33.3895,-116.8738333,6.89,0.55,ml,22,69,0.037,0.17,ci,ci40572000,2023-09-25T18:31:47.958Z,"4 km NNW of Palomar Observatory, CA",earthquake,0.3,0.44,0.068,12,reviewed,ci,ci
 2023-09-25T05:24:33.059Z,51.9437,-178.5016,148.159,3.7,mb,76,109,0.213,0.4,us,us7000kxxw,2023-09-25T08:16:46.040Z,"128 km W of Adak, Alaska",earthquake,12.26,6.107,0.078,42,reviewed,us,us
 2023-09-25T05:23:49.782Z,-24.0254,-67.1051,229.763,4.1,mb,18,101,1.454,0.68,us,us7000kxxr,2023-09-25T16:29:35.040Z,"Chile-Argentina border region",earthquake,10.5,11.356,0.197,7,reviewed,us,us
 2023-09-25T05:21:56.357Z,-24.4708,-176.9815,99.562,4.7,mb,47,85,3.672,0.46,us,us7000kxxs,2023-09-25T06:26:23.040Z,"south of the Fiji Islands",earthquake,9.04,6.813,0.085,42,reviewed,us,us
@@ -192,6 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T20:50:41.640Z,17.9498333333333,-66.931,18.79,1.62,md,3,218,0.05527,0.01,pr,pr71425718,2023-09-24T21:13:04.140Z,"Puerto Rico region",earthquake,3.24,1.2,0.0235756087536789,3,reviewed,pr,pr
 2023-09-24T20:49:29.220Z,17.9481666666667,-66.93,17.06,2.24,md,4,213,0.05521,0.03,pr,pr71425713,2023-09-24T21:07:42.830Z,"3 km SW of Guánica, Puerto Rico",earthquake,2.39,0.97,0.012901610743195,3,reviewed,pr,pr
 2023-09-24T20:48:02.840Z,17.9581666666667,-66.9296666666667,16.19,2.28,md,7,202,0.05084,0.09,pr,pr71425708,2023-09-24T20:59:37.040Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.67,1.06,0.0219765806885499,4,reviewed,pr,pr
+2023-09-24T20:39:09.309Z,29.05,-97.885,9.3417,2.4,ml(texnet),14,78,0.1,0.2,tx,tx2023stor,2023-09-25T18:31:17.924Z,"14 km ENE of Falls City, Texas",earthquake,1.54650069,3.375713378,0.1,10,reviewed,tx,tx
 2023-09-24T20:35:39.080Z,19.3421669006348,-155.345001220703,27.2600002288818,2.3499999,md,35,108,,0.219999999,hv,hv73584812,2023-09-24T20:38:54.050Z,"16 km SW of Volcano, Hawaii",earthquake,0.82,0.680000007,1.84000003,6,automatic,hv,hv
 2023-09-24T20:34:30.630Z,37.3031667,-122.0795,4.65,1.18,md,28,53,0.005651,0.14,nc,nc73941436,2023-09-25T11:02:59.912Z,"5 km WSW of Cupertino, CA",earthquake,0.26,0.19,0.111,15,reviewed,nc,nc
 2023-09-24T20:33:08.370Z,58.2506666666667,-155.164666666667,1.1,-0.18,ml,7,105,,0.2,av,av92057006,2023-09-25T01:07:52.050Z,"86 km NNW of Karluk, Alaska",earthquake,0.45,2.72,0.211836089724227,7,reviewed,av,av
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T18:50:18.060Z,57.5094,-153.1987,32.4,1.9,ml,,,,0.3,ak,ak023c9vi7xq,2023-09-24T18:52:20.076Z,"34 km N of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T18:47:32.717Z,60.817,-150.7473,14.2,1.4,ml,,,,0.4,ak,ak023c9vhlx3,2023-09-24T18:50:00.268Z,"12 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-24T18:45:38.350Z,38.8263321,-122.8096695,2.25,0.76,md,14,68,0.00295,0.01,nc,nc73941356,2023-09-24T18:47:12.720Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.65,0.46,16,automatic,nc,nc
-2023-09-24T18:32:28.074Z,61.8934,-149.3335,10.4,1.3,ml,,,,0.89,ak,ak023c9vedtj,2023-09-24T18:35:00.029Z,"17 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
