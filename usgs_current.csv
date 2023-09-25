@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T09:20:03.271Z,63.0984,-151.3601,0,1.1,ml,,,,0.75,ak,ak023cbdi7d3,2023-09-25T09:22:10.935Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-25T09:18:51.720Z,19.1438331604004,-155.377670288086,29.2600002288818,1.85000002,md,42,182,,0.100000001,hv,hv73585037,2023-09-25T09:22:05.200Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.59,1.00999999,1.48000002,10,automatic,hv,hv
 2023-09-25T09:17:27.400Z,34.0625,-117.254,13.4,0.87,ml,32,55,0.06032,0.18,ci,ci40572072,2023-09-25T09:21:05.002Z,"2 km NNE of Loma Linda, CA",earthquake,0.24,0.69,0.138,21,automatic,ci,ci
-2023-09-25T09:10:06.640Z,36.6833344,-121.3526688,3.81,2.61,md,47,54,0.02458,0.19,nc,nc73941686,2023-09-25T09:31:12.832Z,"12 km SSW of Tres Pinos, CA",earthquake,0.27,0.97,0.15,55,automatic,nc,nc
+2023-09-25T09:10:06.640Z,36.6833344,-121.3526688,3.81,2.61,md,47,54,0.02458,0.19,nc,nc73941686,2023-09-25T09:38:13.613Z,"12 km SSW of Tres Pinos, CA",earthquake,0.27,0.97,0.15,55,automatic,nc,nc
 2023-09-25T09:02:19.957Z,28.9872,-97.9972,5,3.2,mb_lg,25,66,0.211,0.43,us,us7000kxyg,2023-09-25T09:32:14.462Z,"2 km ENE of Falls City, Texas",earthquake,3.74,2.005,0.055,88,reviewed,us,us
 2023-09-25T08:53:43.090Z,38.7798347,-122.7085037,2.13,1.09,md,9,118,0.01369,0.02,nc,nc73941681,2023-09-25T08:55:16.099Z,"2 km WNW of Anderson Springs, CA",earthquake,0.54,0.9,0.07,8,automatic,nc,nc
 2023-09-25T08:48:32.981Z,68.8932,-147.3165,0.1,1.7,ml,,,,0.79,ak,ak023cbd2u2c,2023-09-25T08:51:07.107Z,"112 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -158,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T16:21:10.660Z,33.468,-116.409,11.68,0.73,ml,25,50,0.05699,0.23,ci,ci40571640,2023-09-24T16:24:38.802Z,"24 km SSW of La Quinta, CA",earthquake,0.39,0.85,0.155,19,automatic,ci,ci
 2023-09-24T16:19:09.180Z,60.4319,-143.2425,13.7,0.6,ml,,,,0.45,ak,ak023c9u4oue,2023-09-24T16:20:18.986Z,"112 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T16:18:54.810Z,34.0526667,-117.2381667,13.99,0.74,ml,17,57,0.09866,0.3,ci,ci40571632,2023-09-24T16:22:34.864Z,"2 km ENE of Loma Linda, CA",earthquake,0.63,1.19,0.191,13,automatic,ci,ci
-2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"108 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-24T16:02:21.570Z,17.98,-66.9376666666667,14.9,2.39,md,5,171,0.05581,0.09,pr,pr71425683,2023-09-24T16:19:33.910Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.74,1.34,0.0156285170132673,3,reviewed,pr,pr
 2023-09-24T16:00:30.200Z,62.3672,-151.3753,79.2,1.4,ml,,,,0.4,ak,ak023c9u0nv0,2023-09-24T16:02:26.744Z,"34 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T15:52:21.960Z,36.1958351,-120.3026657,6.68,1.21,md,5,141,0.07674,0.14,nc,nc73941306,2023-09-24T15:53:58.294Z,"8 km NE of Coalinga, CA",earthquake,0.83,1.47,0.05,4,automatic,nc,nc
@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T10:12:43.660Z,58.2445,-155.155333333333,32,-0.33,ml,12,116,,0.14,av,av92056326,2023-09-24T21:16:01.530Z,"Alaska Peninsula",earthquake,0.61,0.8,0.321361093561452,12,reviewed,av,av
 2023-09-24T10:01:54.353Z,58.2473,-154.8805,89.3,0.4,ml,,,,0.16,ak,ak023c9qgbt7,2023-09-24T10:03:09.172Z,"79 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-24T09:54:17.320Z,19.2761669158936,-155.40966796875,32.0699996948242,1.99000001,md,45,116,,0.119999997,hv,hv73584517,2023-09-24T09:57:31.230Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.709999979,0.50999999,13,automatic,hv,hv
-2023-09-24T09:40:40.368Z,58.2638,-155.0016,0,0.5,ml,,,,0.64,ak,ak023c9q381w,2023-09-24T21:13:14.690Z,"83 km NNW of Karluk, Alaska",earthquake,,23.2,,,automatic,ak,ak
-2023-09-24T09:36:08.061Z,-4.4186,153.4785,114.435,4.7,mb,57,118,12.178,0.45,us,us7000kxt2,2023-09-24T09:52:23.040Z,"New Ireland region, Papua New Guinea",earthquake,10.41,7.006,0.061,80,reviewed,us,us
