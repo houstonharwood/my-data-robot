@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T04:57:00.160Z,35.7706667,-117.5865,7,1.6,ml,19,158,0.1499,0.18,ci,ci40572544,2023-09-26T05:00:56.019Z,"16 km W of Searles Valley, CA",earthquake,0.41,1.08,0.092,17,automatic,ci,ci
 2023-09-26T04:48:55.000Z,38.831665,-122.8156662,1.81,1.13,md,24,51,0.009342,0.02,nc,nc73942011,2023-09-26T04:50:31.873Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.4,0.18,25,automatic,nc,nc
-2023-09-26T04:30:50.300Z,37.6318321,-122.2186661,8.48,2.18,md,53,47,0.09421,0.06,nc,nc73942006,2023-09-26T04:52:13.221Z,"9 km NNE of Foster City, CA",earthquake,0.14,0.45,0.15,47,automatic,nc,nc
+2023-09-26T04:30:50.300Z,37.6318321,-122.2186661,8.48,2.18,md,53,47,0.09421,0.06,nc,nc73942006,2023-09-26T05:02:52.907Z,"9 km NNE of Foster City, CA",earthquake,0.14,0.45,0.15,47,automatic,nc,nc
 2023-09-26T04:28:28.608Z,63.4037,-150.2489,122,1.1,ml,,,,0.18,ak,ak023ccy45ik,2023-09-26T04:30:29.703Z,"64 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-26T04:28:17.660Z,38.8218346,-122.8531647,2.59,0.79,md,12,91,0.006396,0.02,nc,nc73942001,2023-09-26T04:29:50.993Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.66,0.17,12,automatic,nc,nc
 2023-09-26T04:25:13.985Z,62.7695,-148.5679,5.5,1.6,ml,,,,0.64,ak,ak023ccy3h8m,2023-09-26T04:27:07.595Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-26T04:10:20.825Z,61.9371,-144.0925,1.1,1.4,ml,,,,0.24,ak,ak023ccy0a0y,2023-09-26T04:12:16.974Z,"50 km NNE of Chitina, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-26T03:57:49.080Z,38.8428345,-122.8178329,1.28,0.8,md,12,120,0.01257,0.01,nc,nc73941996,2023-09-26T03:59:25.704Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.64,0.2,13,automatic,nc,nc
 2023-09-26T03:56:18.210Z,34.1076667,-116.639,7.32,1.32,ml,39,41,0.06937,0.17,ci,ci40572536,2023-09-26T04:07:16.990Z,"9 km NW of Morongo Valley, CA",earthquake,0.21,0.74,0.197,28,automatic,ci,ci
-2023-09-26T03:50:09.200Z,17.9258,-66.2696,8,3.59,md,18,199,0.1675,0.29,pr,pr2023269001,2023-09-26T04:40:22.777Z,"Puerto Rico region",earthquake,0.8,1.27,0.06,13,reviewed,pr,pr
+2023-09-26T03:50:09.200Z,17.9258,-66.2696,8,3.59,md,18,199,0.1675,0.29,pr,pr2023269001,2023-09-26T05:04:23.373Z,"Puerto Rico region",earthquake,0.8,1.27,0.06,13,reviewed,pr,pr
 2023-09-26T03:43:35.430Z,33.3873333,-116.8213333,11.48,0.59,ml,21,77,0.04823,0.23,ci,ci40572528,2023-09-26T03:47:07.182Z,"5 km NE of Palomar Observatory, CA",earthquake,0.4,0.83,0.213,13,automatic,ci,ci
 2023-09-26T03:43:17.308Z,36.6836,-116.3258,9.4,-0.2,ml,11,106.98,0.03,0.0477,nn,nn00866355,2023-09-26T04:40:28.963Z,"46 km ESE of Beatty, Nevada",earthquake,,1.4,0.59,3,reviewed,nn,nn
 2023-09-26T03:42:16.020Z,38.7885017,-122.6921692,3.82,1.02,md,5,180,0.02104,0.01,nc,nc73941991,2023-09-26T03:43:50.589Z,"2 km N of Anderson Springs, CA",earthquake,3.72,7.06,0.4,7,automatic,nc,nc
@@ -199,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T05:21:56.357Z,-24.4708,-176.9815,99.562,4.7,mb,47,85,3.672,0.46,us,us7000kxxs,2023-09-25T06:26:23.040Z,"south of the Fiji Islands",earthquake,9.04,6.813,0.085,42,reviewed,us,us
 2023-09-25T05:20:56.627Z,31.715,-103.997,6.7486,2.3,ml(texnet),22,33,0,0.1,tx,tx2023sufx,2023-09-25T14:11:27.549Z,"37 km W of Mentone, Texas",earthquake,0.788864408,0.7405772913,0,6,reviewed,tx,tx
 2023-09-25T05:11:20.690Z,-7.1465,129.1081,176.9,4.8,mb,64,83,2.725,0.48,us,us7000kxxn,2023-09-25T05:45:28.040Z,"277 km ENE of Lospalos, Timor Leste",earthquake,11.04,7.194,0.067,68,reviewed,us,us
-2023-09-25T05:04:37.300Z,54.1678333333333,-165.958,3.99,-0.57,ml,6,143,,0.33,av,av92057351,2023-09-26T03:02:08.470Z,"12 km WNW of Akutan, Alaska",earthquake,0.56,0.83,0.204954916741566,6,reviewed,av,av
-2023-09-25T04:57:33.136Z,61.0488,-148.1355,30.7,1,ml,,,,0.2,ak,ak023cbar14x,2023-09-25T04:59:27.890Z,"42 km NE of Whittier, Alaska",earthquake,,0.1,,,automatic,ak,ak
