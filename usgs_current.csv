@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:28:16.180Z,35.6773333,-117.5251667,13.05,2.01,ml,24,73,0.0835,0.19,ci,ci40572736,2023-09-26T13:02:41.080Z,"15 km SW of Searles Valley, CA",earthquake,0.33,0.83,0.095,22,reviewed,ci,ci
 2023-09-26T12:25:41.770Z,34.0531667,-116.9603333,14.48,0.82,ml,14,77,0.04511,0.22,ci,ci40572728,2023-09-26T12:29:10.914Z,"8 km ENE of Yucaipa, CA",earthquake,0.56,0.88,0.095,17,automatic,ci,ci
 2023-09-26T12:20:26.620Z,38.8520012,-122.7768326,1.22,0.39,md,8,162,0.009392,0.03,nc,nc73942096,2023-09-26T12:22:00.673Z,"6 km NW of Cobb, CA",earthquake,0.4,0.52,0.29,8,automatic,nc,nc
-2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-26T11:56:40.230Z,37.8321648,-121.8024979,0.87,2,md,18,77,0.1126,0.22,nc,nc73942086,2023-09-26T11:58:15.880Z,"9 km E of Blackhawk, CA",earthquake,0.49,2.74,0.16,11,automatic,nc,nc
 2023-09-26T11:50:35.160Z,35.7211667,-117.559,2.29,0.86,ml,12,83,0.1235,0.14,ci,ci40572712,2023-09-26T13:02:15.783Z,"15 km WSW of Searles Valley, CA",earthquake,0.37,0.65,0.104,8,reviewed,ci,ci
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T07:02:46.195Z,62.8092,-148.5186,15.9,1.4,ml,,,,0.32,ak,ak023cczqx2j,2023-09-26T07:04:11.192Z,"Central Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-09-26T07:00:16.838Z,62.7389,-148.6271,3.9,1.9,ml,,,,0.62,ak,ak023cczqfbz,2023-09-26T07:01:48.580Z,"74 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-26T06:53:26.306Z,34.9049,73.8899,10,4.5,mb,34,93,1.353,1,us,us7000ky4x,2023-09-26T07:12:13.040Z,"70 km NNE of Muzaffarābād, Pakistan",earthquake,8.01,1.897,0.151,13,reviewed,us,us
-2023-09-26T06:50:36.670Z,34.0616667,-116.7031667,7.87,1.24,ml,43,36,0.05133,0.17,ci,ci40572600,2023-09-26T06:54:09.637Z,"11 km W of Morongo Valley, CA",earthquake,0.21,0.57,0.151,27,automatic,ci,ci
+2023-09-26T06:50:36.610Z,34.0605,-116.7035,7.87,1.24,ml,57,55,0.05107,0.14,ci,ci40572600,2023-09-26T15:45:56.307Z,"11 km W of Morongo Valley, CA",earthquake,0.13,0.34,0.127,28,reviewed,ci,ci
 2023-09-26T06:50:30.291Z,-10.3026,161.4958,80.934,4.7,mb,24,105,1.751,1.18,us,us7000ky4w,2023-09-26T07:07:18.040Z,"49 km WNW of Kirakira, Solomon Islands",earthquake,10.07,8.968,0.127,19,reviewed,us,us
 2023-09-26T06:42:21.759Z,62.1683,-149.4537,34.6,2.6,ml,,,,0.56,ak,ak023ccze06z,2023-09-26T07:14:28.040Z,"20 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T06:38:20.180Z,37.4603333,-113.9676667,-1.6,1.2,md,7,236,0.08815,0.08,uu,uu60550877,2023-09-26T13:14:42.170Z,"Utah",earthquake,0.95,2.18,0.196,6,reviewed,uu,uu
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T16:00:20.410Z,17.9748333333333,-66.8553333333333,10.91,2.22,md,6,195,0.02277,0.12,pr,pr71425858,2023-09-25T16:13:59.010Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,2.5,1.11,0.00626960854118597,3,reviewed,pr,pr
 2023-09-25T16:00:12.820Z,19.3331666666667,-155.1435,1.25,3.02,ml,48,91,,0.17,hv,hv73585172,2023-09-25T22:14:15.892Z,"14 km S of Fern Forest, Hawaii",earthquake,0.26,0.33,0.176328479081617,42,reviewed,hv,hv
 2023-09-25T15:51:04.930Z,59.8971,-153.1359,118.9,1.8,ml,,,,0.12,ak,ak023cbh9gbh,2023-09-25T16:22:20.477Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-25T15:48:49.340Z,-6.95,130.0029,90.621,4.7,mb,51,87,2.414,0.67,us,us7000ky06,2023-09-25T16:28:21.040Z,"Banda Sea",earthquake,9.02,2.358,0.089,38,reviewed,us,us
