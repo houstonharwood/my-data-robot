@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T18:51:57.012Z,39.7377,-120.5521,6.2,1.7,ml,12,152.65,0.094,0.1399,nn,nn00866372,2023-09-26T19:06:03.713Z,"1 km E of Valley Ranch, California",earthquake,,2,0.12,7,reviewed,nn,nn
 2023-09-26T18:40:40.740Z,38.8336678,-122.8154984,1.67,0.72,md,14,75,0.0111,0.01,nc,nc73942211,2023-09-26T18:42:16.654Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.71,0.48,14,automatic,nc,nc
 2023-09-26T18:40:06.980Z,38.8333321,-122.8141632,1.72,1.69,md,29,44,0.01042,0.02,nc,nc73942206,2023-09-26T22:49:40.615Z,"8 km W of Cobb, CA",earthquake,0.18,0.31,0.15,31,automatic,nc,nc
-2023-09-26T18:40:03.220Z,40.6906662,-123.5851669,28.14,3.38,ml,53,38,0.2119,0.15,nc,nc73942216,2023-09-27T00:42:22.901Z,"28 km S of Willow Creek, CA",earthquake,0.3,1.19,0.4,19,automatic,nc,nc
+2023-09-26T18:40:03.220Z,40.6906662,-123.5851669,28.14,3.38,ml,53,38,0.2119,0.15,nc,nc73942216,2023-09-27T09:44:22.572Z,"28 km S of Willow Creek, CA",earthquake,0.3,1.19,0.4,19,automatic,nc,nc
 2023-09-26T18:27:46.430Z,38.8328323,-122.8068314,2.3,0.26,md,8,142,0.009758,0,nc,nc73942196,2023-09-26T18:29:21.882Z,"7 km W of Cobb, CA",earthquake,0.64,0.97,0.1,9,automatic,nc,nc
 2023-09-26T18:27:15.810Z,36.1838333,-117.608,1.7,1.27,ml,13,230,0.2105,0.21,ci,ci40573056,2023-09-26T18:53:35.079Z,"34 km ENE of Coso Junction, CA",earthquake,1.23,2.19,0.133,5,reviewed,ci,ci
 2023-09-26T18:15:27.770Z,33.8556667,-117.484,-0.5,1.36,ml,29,48,0.05008,0.28,ci,ci40573048,2023-09-26T19:04:15.661Z,"4 km SE of Home Gardens, CA",quarry blast,0.41,31.61,0.133,19,reviewed,ci,ci
@@ -174,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:21:45.970Z,43.6046666666667,-110.499833333333,1.78,0.57,ml,7,272,0.07591,0.06,mb,mb90028258,2023-09-26T16:59:28.760Z,"10 km ESE of Kelly, Wyoming",earthquake,0.78,0.67,0.137472831418359,5,reviewed,mb,mb
 2023-09-26T12:20:26.620Z,38.8520012,-122.7768326,1.22,0.39,md,8,162,0.009392,0.03,nc,nc73942096,2023-09-26T12:22:00.673Z,"6 km NW of Cobb, CA",earthquake,0.4,0.52,0.29,8,automatic,nc,nc
 2023-09-26T12:15:28.568Z,36.7283,-116.1501,2.4,0,ml,6,138.37,0.018,0.0813,nn,nn00866370,2023-09-26T17:11:40.269Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.8,0.02,3,reviewed,nn,nn
-2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"16 km ESE of Lincoln, Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
+2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"Western Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
 2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-26T11:57:29.570Z,58.1746666666667,-155.333333333333,2.18,-0.19,ml,9,78,,0.07,av,av92059471,2023-09-27T01:56:04.680Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.4,0.222069324021699,9,reviewed,av,av
@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T10:09:57.060Z,63.469,-151.1533,0,1.2,ml,,,,0.8,ak,ak023cd1kqqi,2023-09-26T10:11:45.788Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T09:59:56.480Z,36.6583328,-121.3180008,2.01,1.94,md,25,83,0.04745,0.16,nc,nc73942071,2023-09-26T10:01:31.657Z,"15 km S of Tres Pinos, CA",earthquake,0.37,1.03,0.13,24,automatic,nc,nc
 2023-09-26T09:47:56.210Z,38.8191681,-122.7743301,0.19,0.71,md,7,205,0.007711,0.22,nc,nc73942066,2023-09-26T09:49:31.467Z,"4 km W of Cobb, CA",earthquake,1.09,2.71,0.22,9,automatic,nc,nc
-2023-09-26T09:45:28.390Z,34.0525,-116.963,15.48,1.34,ml,56,32,0.04673,0.16,ci,ci40572640,2023-09-26T16:19:08.330Z,"8 km ENE of Yucaipa, CA",earthquake,0.14,0.36,0.121,23,reviewed,ci,ci
