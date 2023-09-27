@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-27T05:05:25.040Z,35.7495003,-118.0011673,2.34,1.73,ml,29,41,0.1205,0.15,ci,ci40573272,2023-09-27T05:07:30.847Z,"20 km NW of Inyokern, CA",earthquake,0.22,0.93,0.267,11,automatic,ci,ci
+2023-09-27T05:05:24.990Z,35.7483333,-117.998,1.83,1.5,ml,23,42,0.1198,0.13,ci,ci40573272,2023-09-27T05:16:07.150Z,"20 km NW of Inyokern, CA",earthquake,0.16,0.49,0.222,14,automatic,ci,ci
 2023-09-27T04:56:51.960Z,36.1173325,-120.2118301,9.33,1.5,md,7,195,0.03614,0.06,nc,nc73942446,2023-09-27T04:58:29.156Z,"13 km E of Coalinga, CA",earthquake,1.06,0.58,0.13,5,automatic,nc,nc
 2023-09-27T04:21:41.727Z,62.8856,-150.9079,92,1.4,ml,,,,0.57,ak,ak023celm10c,2023-09-27T04:23:47.218Z,"43 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-27T03:57:44.620Z,33.2215,-116.3833333,2.29,0.94,ml,22,84,0.05452,0.18,ci,ci40573256,2023-09-27T04:01:33.227Z,"4 km SSW of Borrego Springs, CA",earthquake,0.28,0.46,0.128,25,automatic,ci,ci
@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T22:26:09.190Z,19.2593326568604,-155.375671386719,30.0599994659424,1.80999994,md,35,156,,0.129999995,hv,hv73586067,2023-09-26T22:29:20.310Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.67,1,0.75999999,20,automatic,hv,hv
 2023-09-26T22:23:26.980Z,58.1705,-155.38,2.12,0.48,ml,9,134,,0.08,av,av92060536,2023-09-26T22:56:18.970Z,"Alaska Peninsula",earthquake,0.21,0.41,0.182153208041194,11,reviewed,av,av
 2023-09-26T22:22:56.549Z,58.1654,-156.3723,250,1.7,ml,,,,1.01,ak,ak023cd8sq9i,2023-09-26T22:25:22.793Z,"59 km E of Egegik, Alaska",earthquake,,9.2,,,automatic,ak,ak
-2023-09-26T22:21:41.292Z,37.5438,141.5057,64.645,4.5,mwr,166,115,2.821,0.63,us,us6000lazm,2023-09-27T04:34:43.040Z,"45 km E of Namie, Japan",earthquake,6.88,5.446,0.075,17,reviewed,us,us
+2023-09-26T22:21:41.292Z,37.5438,141.5057,64.645,4.5,mwr,166,115,2.821,0.63,us,us6000lazm,2023-09-27T05:18:38.148Z,"45 km E of Namie, Japan",earthquake,6.88,5.446,0.075,17,reviewed,us,us
 2023-09-26T22:20:04.300Z,37.2478333,-118.2078323,10.83,1.92,md,13,215,0.06239,0.02,nc,nc73942306,2023-09-26T23:41:52.928Z,"12 km NE of Big Pine, CA",earthquake,1.46,0.48,0.22,7,automatic,nc,nc
 2023-09-26T22:08:00.050Z,17.851,-66.8693333333333,7.3,2.9,md,12,253,0.1237,0.05,pr,pr71426023,2023-09-26T22:19:09.000Z,"13 km SSE of Guánica, Puerto Rico",earthquake,0.54,0.24,0.0800995447272599,5,reviewed,pr,pr
 2023-09-26T21:52:32.530Z,37.479332,-121.8304977,7.27,1.86,md,25,97,0.03036,0.03,nc,nc73942296,2023-09-26T21:54:07.134Z,"9 km NE of Milpitas, CA",earthquake,0.22,0.42,0.21,12,automatic,nc,nc
@@ -215,7 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T05:35:14.570Z,35.4471667,-118.3196667,10.38,0.94,ml,20,70,0.1714,0.1,ci,ci40572568,2023-09-26T15:17:35.326Z,"22 km SE of Bodfish, CA",earthquake,0.15,0.44,0.109,7,reviewed,ci,ci
 2023-09-26T05:29:54.096Z,68.5335,-147.1061,0,1.9,ml,,,,1.14,ak,ak023ccypusm,2023-09-26T05:33:03.831Z,"78 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T05:27:06.360Z,32.8043333,-115.4523333,9.54,0.84,ml,14,152,0.004771,0.22,ci,ci40572560,2023-09-26T15:04:42.676Z,"7 km W of Holtville, CA",earthquake,0.65,0.71,0.095,4,reviewed,ci,ci
-2023-09-26T05:19:29.140Z,33.718,-116.8298333,15.46,0.71,ml,20,71,0.0842,0.2,ci,ci40572552,2023-09-26T13:04:18.198Z,"7 km ESE of Valle Vista, CA",earthquake,0.48,0.61,0.146,16,reviewed,ci,ci
-2023-09-26T05:16:19.120Z,40.0696,-119.6207,11.5,0.5,ml,3,193.48,0.132,0.0643,nn,nn00866389,2023-09-26T22:27:08.786Z,"Nevada",earthquake,,7.5,0.1,2,reviewed,nn,nn
-2023-09-26T05:12:36.100Z,17.951,-66.2883333333333,12.08,2.64,md,19,187,0.1131,0.3,pr,pr71425983,2023-09-26T05:26:02.400Z,"3 km SSE of Salinas, Puerto Rico",earthquake,0.64,0.57,0.0797689227335963,11,reviewed,pr,pr
-2023-09-26T05:08:15.301Z,60.5571,-151.065,67,1.4,ml,,,,0.38,ak,ak023ccyl9ru,2023-09-26T05:10:12.133Z,"3 km NNE of Ridgeway, Alaska",earthquake,,1.1,,,automatic,ak,ak
