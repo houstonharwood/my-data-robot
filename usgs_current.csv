@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-28T19:25:22.520Z,35.5836678,-117.4621658,2.59,1.33,ml,17,62,0.0871,0.14,ci,ci40574032,2023-09-28T19:27:33.825Z,"20 km ESE of Ridgecrest, CA",earthquake,0.37,0.64,0.253,5,automatic,ci,ci
+2023-09-28T19:29:53.640Z,59.9606,-152.4085,77,1.7,ml,,,,0.26,ak,ak023cgi4m84,2023-09-28T19:31:41.480Z,"37 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-28T19:29:27.880Z,32.7048333,-115.5576667,15.47,1.53,ml,13,69,0.08045,0.31,ci,ci40574040,2023-09-28T19:33:04.855Z,"4 km SW of Heber, CA",earthquake,0.74,1.07,0.384,18,automatic,ci,ci
+2023-09-28T19:25:22.530Z,35.5901667,-117.4646667,2.82,1.31,ml,15,64,0.1044,0.16,ci,ci40574032,2023-09-28T19:28:48.832Z,"19 km E of Ridgecrest, CA",earthquake,0.33,0.71,0.213,11,automatic,ci,ci
 2023-09-28T19:23:17.570Z,32.7226667,-115.5538333,8.04,1.68,ml,17,96,0.0707,0.21,ci,ci40574024,2023-09-28T19:26:59.865Z,"2 km WSW of Heber, CA",earthquake,0.52,2.29,0.244,24,automatic,ci,ci
 2023-09-28T18:45:37.140Z,19.3276672363281,-155.242004394531,7.05000019073486,2.14,ml,26,177,,0.200000003,hv,hv73587482,2023-09-28T18:51:09.700Z,"12 km S of Volcano, Hawaii",earthquake,1.06,0.860000014,0.33,8,automatic,hv,hv
 2023-09-28T18:45:31.120Z,19.3444995880127,-155.254501342773,30.3600006103516,2.21,ml,52,111,,0.140000001,hv,hv73587487,2023-09-28T18:51:15.710Z,"11 km S of Volcano, Hawaii",earthquake,0.4,0.469999999,1.87,20,automatic,hv,hv
@@ -121,6 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T05:33:16.113Z,60.2041,-141.251,0,2.1,ml,,,,1.01,ak,ak023cg9tbq3,2023-09-28T05:35:40.014Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-28T05:27:34.678Z,58.1096,-155.5477,90.5,1.1,ml,,,,0.89,ak,ak023cg9s2uz,2023-09-28T05:29:27.621Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
 2023-09-28T05:14:02.190Z,17.9511666666667,-66.2863333333333,12.84,2.5,md,12,187,0.1479,0.29,pr,pr71426243,2023-09-28T05:25:45.410Z,"Puerto Rico",earthquake,1.01,0.76,0.153584328481483,6,reviewed,pr,pr
+2023-09-28T05:13:58.510Z,60.0268333333333,-153.0865,-2.35,-0.01,ml,5,108,,0.1,av,av92064651,2023-09-28T19:28:30.070Z,"Southern Alaska",earthquake,0.26,2.54,0.243083223661063,5,reviewed,av,av
 2023-09-28T05:09:27.600Z,38.8223343,-122.8535004,2.47,0.77,md,11,112,0.005832,0.02,nc,nc73942901,2023-09-28T05:11:04.996Z,"10 km WNW of The Geysers, CA",earthquake,0.5,0.81,0.16,14,automatic,nc,nc
 2023-09-28T05:01:10.130Z,37.8945007,-122.0526657,6.15,1.33,md,9,84,0.05936,0.06,nc,nc73942896,2023-09-28T05:02:44.796Z,"2 km SE of Walnut Creek, CA",earthquake,0.31,0.89,0.24,8,automatic,nc,nc
 2023-09-28T04:57:33.740Z,18.165,-66.1636666666667,74.83,2.8,md,7,158,0.2434,0.16,pr,pr71426238,2023-09-28T07:49:26.938Z,"Puerto Rico",earthquake,2.12,1.13,0.134860692555964,7,reviewed,pr,pr
@@ -223,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T20:00:21.390Z,38.558,-119.5118333,4.58,3.6,ml,25,112,0.02859,0.07,nc,nc73942611,2023-09-28T16:50:25.875Z,"6 km NNW of Walker, CA",earthquake,0.2,0.34,0.182,161,reviewed,nc,nc
 2023-09-27T19:56:53.767Z,57.5072,-156.2358,87.9,2.2,ml,,,,0.22,ak,ak023ceur22o,2023-09-27T19:59:40.321Z,"69 km E of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-27T19:39:34.492Z,31.601,-104.55,5.5403,2.5,ml(texnet),27,75,0.1,0.2,tx,tx2023syzg,2023-09-28T11:16:53.529Z,"65 km SSW of Whites City, New Mexico",earthquake,1.715207165,1.405031439,0.1,19,reviewed,tx,tx
-2023-09-27T19:34:27.271Z,31.641,-104.515,6.3886,2.3,ml(texnet),14,77,0,0.1,tx,tx2023syzc,2023-09-28T13:32:36.294Z,"western Texas",earthquake,0.9153169496,0.4359606895,0.1,22,reviewed,tx,tx
