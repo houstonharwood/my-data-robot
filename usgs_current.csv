@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T06:39:59.480Z,32.6103333,-116.9128333,29.12,0.99,ml,5,258,0.1166,0.14,ci,ci40574272,2023-09-29T06:44:43.356Z,"12 km ESE of Bonita, CA",earthquake,2.55,2.2,0.177,6,automatic,ci,ci
 2023-09-29T06:02:45.020Z,38.8161659,-122.8184967,2.45,1.25,md,26,49,0.009767,0.03,nc,nc73943206,2023-09-29T06:04:19.827Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.41,0.2,28,automatic,nc,nc
 2023-09-29T05:56:58.700Z,33.3358333,-116.3626667,11.21,1.21,ml,40,33,0.08144,0.19,ci,ci40574264,2023-09-29T06:00:37.228Z,"9 km N of Borrego Springs, CA",earthquake,0.28,0.52,0.168,27,automatic,ci,ci
 2023-09-29T05:51:46.157Z,58.922,-154.4249,120.1,1.7,ml,,,,0.4,ak,ak023chxglfb,2023-09-29T05:55:30.913Z,"61 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -134,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T13:17:01.740Z,38.8250008,-122.803833,2.65,0.76,md,12,73,0.005132,0.01,nc,nc73943016,2023-09-28T13:18:36.788Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.77,0.15,13,automatic,nc,nc
 2023-09-28T13:09:58.659Z,64.6034,-149.8437,18.7,1.1,ml,,,,0.68,ak,ak023cgefqnt,2023-09-28T13:12:44.863Z,"34 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-28T13:06:43.490Z,33.1223333,-116.1951667,10.72,1.4,ml,55,43,0.04037,0.2,ci,ci40573800,2023-09-28T18:26:45.099Z,"6 km WSW of Ocotillo Wells, CA",earthquake,0.18,0.35,0.134,23,reviewed,ci,ci
-2023-09-28T12:55:23.461Z,38.2636,-118.7948,6.4,1.1,ml,7,115.29,0.228,0.1359,nn,nn00866530,2023-09-29T00:11:06.654Z,"Nevada",earthquake,,5.1,0.35,4,reviewed,nn,nn
+2023-09-28T12:55:23.461Z,38.2636,-118.7948,6.4,1.1,ml,7,115.29,0.228,0.1359,nn,nn00866530,2023-09-29T00:11:06.654Z,"32 km SSW of Hawthorne, Nevada",earthquake,,5.1,0.35,4,reviewed,nn,nn
 2023-09-28T12:51:20.696Z,57.6579,-155.0606,77.6,1.5,ml,,,,0.49,ak,ak023cge3879,2023-09-28T12:53:42.141Z,"37 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T12:48:35.440Z,51.9545,-176.783833333333,-1.78,0.91,ml,6,183,,0.1,av,av91116933,2023-09-29T00:10:21.500Z,"13 km NW of Adak, Alaska",earthquake,1.31,0.61,0.228085856016235,6,reviewed,av,av
 2023-09-28T12:36:18.340Z,33.2668333,-116.427,5,0.98,ml,34,41,0.008356,0.17,ci,ci40573792,2023-09-28T18:28:47.332Z,"5 km WNW of Borrego Springs, CA",earthquake,0.19,0.47,0.12,23,reviewed,ci,ci
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T07:04:51.254Z,38.1665,-117.8231,10.8,2.2,ml,13,64.02,0.127,0.1266,nn,nn00866454,2023-09-28T16:01:26.899Z,"35 km SE of Mina, Nevada",earthquake,,1.2,0.32,8,reviewed,nn,nn
 2023-09-28T07:01:45.041Z,61.3107,-147.5629,22.4,1.3,ml,,,,0.44,ak,ak023cgatear,2023-09-28T07:04:04.342Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-28T06:57:12.377Z,-23.7829,-70.2462,67.08,4.2,mb,18,165,0.852,0.47,us,us6000lbbg,2023-09-28T08:59:51.040Z,"20 km SE of Antofagasta, Chile",earthquake,5.03,9.266,0.2,7,reviewed,us,us
-2023-09-28T06:47:11.791Z,31.596,-104.546,6.0544,2,ml(texnet),21,75,0.1,0.2,tx,tx2023szvf,2023-09-28T19:11:01.417Z,"66 km SSW of Whites City, New Mexico",earthquake,1.443798047,1.929831844,0,6,reviewed,tx,tx
-2023-09-28T06:44:19.848Z,59.8657,-151.8365,71.9,1.2,ml,,,,0.16,ak,ak023cgah4hs,2023-09-28T06:46:06.094Z,"9 km N of Anchor Point, Alaska",earthquake,,1.9,,,automatic,ak,ak
