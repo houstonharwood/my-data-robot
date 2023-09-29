@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T12:19:59.940Z,38.8341675,-122.8113327,1.9,1.68,md,32,40,0.0108,0.03,nc,nc73943271,2023-09-29T12:23:03.002Z,"8 km W of Cobb, CA",earthquake,0.18,0.3,0.18,34,automatic,nc,nc
 2023-09-29T12:08:49.450Z,61.6702,-150.7771,67.8,1.2,ml,,,,0.54,ak,ak023ci1df4h,2023-09-29T12:10:36.230Z,"19 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T11:55:38.621Z,-27.7378,-71.4878,15.439,4.1,mwr,27,146,0.592,0.7,us,us6000lbng,2023-09-29T12:14:29.040Z,"117 km NW of Vallenar, Chile",earthquake,3.91,4.638,0.038,68,reviewed,us,us
-2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"147 km NNE of Agats, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
+2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"Papua, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
 2023-09-29T11:40:52.846Z,62.1967,-150.1117,24.3,0.9,ml,,,,0.63,ak,ak023ci0yup0,2023-09-29T11:42:54.354Z,"14 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T11:27:34.464Z,62.0619,-148.3258,36.5,1.6,ml,,,,0.29,ak,ak023ci0w0yu,2023-09-29T11:28:49.713Z,"30 km NNE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-29T11:25:48.400Z,33.334,-116.1921667,10.49,0.82,ml,30,47,0.1501,0.22,ci,ci40574352,2023-09-29T11:29:21.003Z,"17 km SSW of Oasis, CA",earthquake,0.31,1.06,0.126,17,automatic,ci,ci
@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T01:42:43.663Z,64.4721,-146.9036,0.2,1.2,ml,,,,0.83,ak,ak023chv0xda,2023-09-29T01:44:50.241Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-29T01:39:44.087Z,-17.9494,-178.0632,461.429,4.3,mb,46,38,3.705,0.68,us,us6000lbkk,2023-09-29T02:23:16.040Z,"277 km E of Levuka, Fiji",earthquake,11.4,6.394,0.073,56,reviewed,us,us
 2023-09-29T01:37:23.545Z,61.6251,-147.3569,33.2,1.6,ml,,,,0.56,ak,ak023chuzt8i,2023-09-29T01:38:54.360Z,"25 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-29T01:28:09.560Z,47.7981666666667,-113.699666666667,4.8,0.39,ml,3,288,0.22,0.05,mb,mb90028868,2023-09-29T14:37:16.530Z,"18 km SE of Swan Lake, Montana",earthquake,1.41,6.83,0.307249495379521,3,reviewed,mb,mb
 2023-09-29T01:19:37.008Z,-4.5674,153.2187,57.201,5.5,mww,103,53,1.116,0.87,us,us6000lbk5,2023-09-29T03:22:58.203Z,"108 km ESE of Kokopo, Papua New Guinea",earthquake,7.89,4.578,0.071,19,reviewed,us,us
 2023-09-29T00:43:31.480Z,19.146333694458,-155.483840942383,30.9500007629395,1.82000005,md,26,209,,0.180000007,hv,hv73587737,2023-09-29T00:46:46.920Z,"6 km S of Pāhala, Hawaii",earthquake,1.56,1.11000001,1.72000003,6,automatic,hv,hv
 2023-09-29T00:14:36.018Z,-5.2716,152.739,35,4.7,mb,46,114,19.842,0.61,us,us6000lbk0,2023-09-29T01:24:10.040Z,"115 km SSE of Kokopo, Papua New Guinea",earthquake,13.11,1.928,0.078,50,reviewed,us,us
@@ -190,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T15:25:10.830Z,34.2361667,-117.4566667,10.48,1.06,ml,30,59,0.04393,0.23,ci,ci40573856,2023-09-28T18:01:13.620Z,"5 km ESE of Lytle Creek, CA",earthquake,0.29,0.4,0.203,11,reviewed,ci,ci
 2023-09-28T15:21:28.528Z,31.644,-104.471,6.9028,2.2,ml(texnet),20,73,0,0.1,tx,tx2023tamf,2023-09-29T13:12:53.828Z,"59 km S of Whites City, New Mexico",earthquake,1.523635288,0.7160584166,0,6,reviewed,tx,tx
 2023-09-28T14:59:42.130Z,51.8708333333333,-177.996666666667,6.65,-0.01,ml,4,158,,0.14,av,av91116958,2023-09-29T01:52:21.480Z,"93 km W of Adak, Alaska",earthquake,0.56,1.07,0.181490711528744,4,reviewed,av,av
-2023-09-28T14:40:26.208Z,-15.5835,167.7222,127.473,6.1,mww,114,23,5.923,0.73,us,us6000lbdi,2023-09-28T21:50:08.170Z,"60 km E of Luganville, Vanuatu",earthquake,8.99,3.354,0.038,67,reviewed,us,us
-2023-09-28T14:37:37.304Z,62.7758,-150.8886,87.4,1.1,ml,,,,0.52,ak,ak023cgf74lz,2023-09-28T14:40:08.463Z,"31 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-28T14:37:24.880Z,38.8328323,-122.7795029,-0.85,1.61,md,20,72,0.007852,0.2,nc,nc73943041,2023-09-28T14:39:01.850Z,"5 km WNW of Cobb, CA",earthquake,0.34,1.01,0.2,23,automatic,nc,nc
