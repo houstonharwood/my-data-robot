@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T08:05:50.078Z,61.437,-149.9849,164.6,2,ml,,,,1,ak,ak023chyz1lr,2023-09-29T08:09:03.725Z,"8 km N of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-09-29T08:00:12.449Z,37.528,-117.9654,1.4,1.5,ml,11,208.71,0.839,0.406,nn,nn00866534,2023-09-29T08:02:50.968Z,"17 km SSE of Dyer, Nevada",earthquake,,2.8,0.73,8,automatic,nn,nn
+2023-09-29T07:57:04.081Z,58.2522,-155.1338,0,1,ml,,,,0.59,ak,ak023chyonoo,2023-09-29T07:58:25.883Z,"Alaska Peninsula",earthquake,,7,,,automatic,ak,ak
 2023-09-29T07:43:15.720Z,19.2938327789307,-155.407333374023,29.6900005340576,1.76999998,md,33,113,,0.109999999,hv,hv73587917,2023-09-29T07:46:20.660Z,"12 km NE of Pāhala, Hawaii",earthquake,0.61,0.730000019,1.15999997,8,automatic,hv,hv
 2023-09-29T07:42:24.717Z,61.6887,-151.8128,103,1.4,ml,,,,0.42,ak,ak023chylhjb,2023-09-29T07:45:09.232Z,"40 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-29T07:36:55.720Z,33.9673333,-117.5328333,3.13,0.81,ml,17,79,0.0442,0.08,ci,ci40574280,2023-09-29T07:40:24.505Z,"3 km SSW of Mira Loma, CA",earthquake,0.15,0.25,0.201,13,automatic,ci,ci
@@ -15,7 +18,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T05:50:26.640Z,35.5188333,-118.3905,4.89,2.25,ml,37,28,0.159,0.2,ci,ci40574256,2023-09-29T06:01:22.600Z,"12 km SE of Bodfish, CA",earthquake,0.22,1.93,0.229,26,automatic,ci,ci
 2023-09-29T05:45:50.230Z,35.8848333,-117.6798333,2.74,1.5,ml,16,163,0.1028,0.18,ci,ci40574248,2023-09-29T05:49:23.934Z,"21 km ESE of Little Lake, CA",earthquake,0.47,1.5,0.161,10,automatic,ci,ci
 2023-09-29T05:35:25.893Z,62.2128,-150.1019,13.9,1.3,ml,,,,0.34,ak,ak023chxd4el,2023-09-29T05:37:27.585Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-29T04:01:30.576Z,58.2473,-154.9215,0,0.5,ml,,,,0.42,ak,ak023chwketd,2023-09-29T04:02:57.070Z,"80 km NNW of Karluk, Alaska",earthquake,,13.7,,,automatic,ak,ak
 2023-09-29T03:57:48.434Z,36.54308701,-98.95100403,5.964486599,1.74,ml,12,94.59037781,0.04908613116,0.1881306691,ok,ok2023tble,2023-09-29T04:00:53.301Z,"7 km SW of Waynoka, Oklahoma",earthquake,3.595761062,4.479650137,0.21,9,automatic,ok,ok
 2023-09-29T03:52:50.310Z,33.4018333,-117.0306667,12.48,0.58,ml,6,188,0.1652,0.14,ci,ci40574240,2023-09-29T03:56:24.045Z,"6 km NE of Pala, CA",earthquake,1.12,2.11,0.1,9,automatic,ci,ci
 2023-09-29T03:47:01.440Z,38.831665,-122.8098297,1.39,1.08,md,13,60,0.00826,0.02,nc,nc73943186,2023-09-29T03:48:34.015Z,"8 km W of Cobb, CA",earthquake,0.26,0.96,0.31,14,automatic,nc,nc
@@ -215,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T08:24:18.550Z,37.4013,-114.3176,14.8,0.8,ml,6,106.98,0.371,0.1859,nn,nn00866506,2023-09-28T21:57:49.706Z,"Nevada",earthquake,,2,0.28,4,reviewed,nn,nn
 2023-09-28T08:16:31.650Z,38.8326683,-122.8079987,2.22,1.06,md,17,47,0.009401,0.01,nc,nc73942951,2023-09-28T08:18:06.368Z,"7 km W of Cobb, CA",earthquake,0.24,0.49,0.18,17,automatic,nc,nc
 2023-09-28T08:13:15.360Z,60.0558333333333,-153.074,3.14,-0.54,ml,5,157,,0.14,av,av92064866,2023-09-28T20:16:59.880Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.55,1.34,0.326317934724442,5,reviewed,av,av
-2023-09-28T08:12:50.000Z,38.8219986,-122.786499,1.3,0.72,md,10,78,0.009838,0.01,nc,nc73942946,2023-09-28T08:14:26.560Z,"6 km W of Cobb, CA",earthquake,0.36,0.71,0.19,10,automatic,nc,nc
-2023-09-28T07:58:21.700Z,47.832,-119.337,12.52,0.75,ml,5,199,0.1373,0.29,uw,uw61953872,2023-09-28T16:08:38.030Z,"22 km E of Mansfield, Washington",earthquake,1.34,1.61,0.20090420989088587,4,reviewed,uw,uw
