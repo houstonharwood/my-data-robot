@@ -1,15 +1,19 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T19:52:35.720Z,44.4513333333333,-115.1995,5.58,1.74,ml,10,73,0.6961,0.09,mb,mb90028898,2023-09-29T20:04:07.270Z,"southern Idaho",earthquake,0.3,1.08,0.16899582169377,11,reviewed,mb,mb
+2023-09-29T19:52:33.982Z,56.7744,-157.4372,124.2,1.9,ml,,,,0.92,ak,ak023ci5suo6,2023-09-29T19:54:37.904Z,"79 km NE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-09-29T19:46:16.637Z,61.4646,-148.8703,10.2,1.1,ml,,,,1.16,ak,ak023ci5rj1b,2023-09-29T19:55:28.948Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-29T19:38:55.850Z,18.782,-67.3928333333333,11.13,3,md,14,279,0.3715,0.15,pr,pr71426533,2023-09-29T19:50:31.070Z,"44 km NW of San Antonio, Puerto Rico",earthquake,0.88,0.89,0.103471068083093,9,reviewed,pr,pr
 2023-09-29T19:24:06.389Z,60.3629,-147.6893,18.7,1.1,ml,,,,0.19,ak,ak023ci5msir,2023-09-29T19:26:25.625Z,"37 km NNE of Chenega, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-29T19:15:44.010Z,44.4543333333333,-115.208833333333,6.1,2.39,ml,14,62,0.6957,0.19,mb,mb90028888,2023-09-29T19:49:26.300Z,"southern Idaho",earthquake,0.44,1.21,0.184776848391814,24,reviewed,mb,mb
 2023-09-29T19:13:26.140Z,32.7386665,-115.5534973,13.05,3.09,ml,53,41,0.03745,0.29,ci,ci40574560,2023-09-29T19:44:10.383Z,"2 km WNW of Heber, CA",earthquake,0.34,0.63,0.385,20,automatic,ci,ci
 2023-09-29T19:05:46.374Z,38.4201,-30.2832,17.664,5,mb,76,84,3.811,0.77,us,us6000lbs5,2023-09-29T19:25:41.040Z,"131 km SE of Lajes das Flores, Portugal",earthquake,10.47,4.303,0.039,214,reviewed,us,us
 2023-09-29T19:03:59.680Z,32.7268333,-115.5534973,11.37,2.09,ml,29,100,0.043,0.22,ci,ci40574552,2023-09-29T19:17:04.531Z,"2 km WSW of Heber, CA",earthquake,0.41,0.57,0.233,30,automatic,ci,ci
+2023-09-29T19:02:53.780Z,46.0066666666667,-112.461666666667,-2,1.67,ml,16,81,0.06479,0.12,mb,mb90028893,2023-09-29T19:57:43.600Z,"5 km E of Butte, Montana",quarry blast,0.45,31.61,0.253261233304445,16,reviewed,mb,mb
 2023-09-29T18:58:12.510Z,17.9433333333333,-67.0196666666667,10.28,2.41,md,14,231,0.03493,0.09,pr,pr71426523,2023-09-29T19:34:18.000Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.45,0.3,0.0229679418967026,4,reviewed,pr,pr
 2023-09-29T18:43:12.370Z,36.7461662,-121.6053314,-0.23,1.96,md,21,86,0.0371,0.24,nc,nc73943461,2023-09-29T18:44:47.801Z,"7 km ESE of Prunedale, CA",earthquake,0.53,2.27,0.13,12,automatic,nc,nc
 2023-09-29T18:21:01.877Z,23.0866,143.1469,59.67,4.8,mb,80,112,9.587,0.74,us,us6000lbrs,2023-09-29T18:56:17.040Z,"Volcano Islands, Japan region",earthquake,10.99,7.328,0.068,72,reviewed,us,us
 2023-09-29T18:18:07.138Z,63.3118,-145.3537,5.8,1.3,ml,,,,0.52,ak,ak023ci502nd,2023-09-29T18:20:04.073Z,"27 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-29T18:05:09.959Z,36.873,-117.7333,2.9,1.3,ml,14,241.05,0.318,0.2821,nn,nn00866547,2023-09-29T18:07:45.254Z,"Central California",earthquake,,9.6,1,10,automatic,nn,nn
+2023-09-29T18:05:10.505Z,36.871,-117.7151,8.8,1.3,ml,10,152.78,0.306,0.1199,nn,nn00866547,2023-09-29T19:56:00.688Z,"42 km NE of Lone Pine, California",earthquake,,3,0.06,4,reviewed,nn,nn
 2023-09-29T18:03:08.972Z,62.5843,-147.8466,49.2,1.6,ml,,,,0.66,ak,ak023ci4wv1u,2023-09-29T18:06:08.357Z,"74 km WNW of Lake Louise, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-29T17:58:39.321Z,59.9744,-154.194,0,1.6,ml,,,,0.83,ak,ak023ci4na64,2023-09-29T18:00:41.998Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T17:54:02.010Z,38.8193321,-122.8000031,2.16,1.39,md,25,32,0.008851,0.04,nc,nc73943451,2023-09-29T17:55:35.620Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.4,0.18,26,automatic,nc,nc
@@ -158,6 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T02:01:21.640Z,33.716,-116.8368333,15.49,0.76,ml,26,57,0.07804,0.15,ci,ci40574192,2023-09-29T13:26:26.012Z,"6 km SE of Valle Vista, CA",earthquake,0.25,0.44,0.171,15,reviewed,ci,ci
 2023-09-29T01:54:18.358Z,-21.0437,-68.841,108.152,4.2,mwr,40,58,0.604,1.02,us,us6000lbkm,2023-09-29T02:42:17.772Z,"64 km WNW of Ollagüe, Chile",earthquake,6.61,6.45,,,reviewed,us,guc
 2023-09-29T01:53:17.797Z,-5.2209,152.8158,39.063,5,mb,50,132,1.212,0.68,us,us6000lbkp,2023-09-29T02:13:28.040Z,"New Britain region, Papua New Guinea",earthquake,11.62,7.427,0.051,125,reviewed,us,us
+2023-09-29T01:45:05.930Z,58.1613333333333,-155.381166666667,2.44,0.23,ml,11,78,,0.09,av,av92066246,2023-09-29T19:56:01.150Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.48,0.245489952354563,12,reviewed,av,av
 2023-09-29T01:42:43.663Z,64.4721,-146.9036,0.2,1.2,ml,,,,0.83,ak,ak023chv0xda,2023-09-29T01:44:50.241Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-29T01:39:44.087Z,-17.9494,-178.0632,461.429,4.3,mb,46,38,3.705,0.68,us,us6000lbkk,2023-09-29T02:23:16.040Z,"277 km E of Levuka, Fiji",earthquake,11.4,6.394,0.073,56,reviewed,us,us
 2023-09-29T01:37:23.545Z,61.6251,-147.3569,33.2,1.6,ml,,,,0.56,ak,ak023chuzt8i,2023-09-29T01:38:54.360Z,"25 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -204,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T20:33:26.750Z,44.443333333333335,-122.723,-0.77,2.0300000000000002,ml,9,75,0.08076,0.17,uw,uw61962791,2023-09-29T00:03:03.970Z,"5 km NNE of Sweet Home, Oregon",explosion,0.45,31.61,0.35557552801807235,5,reviewed,uw,uw
 2023-09-28T20:26:14.200Z,60.0568333333333,-153.088333333333,1.59,-0.01,ml,5,171,,0.14,av,av92065791,2023-09-29T03:21:43.110Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.4,0.72,0.282377454141511,5,reviewed,av,av
 2023-09-28T20:06:19.940Z,33.3105,-116.2363333,7.14,1.38,ml,46,29,0.1107,0.17,ci,ci40574080,2023-09-28T21:03:22.440Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.65,0.201,24,reviewed,ci,ci
-2023-09-28T20:00:04.070Z,47.263666666666666,-123.6905,10.73,1.29,ml,15,116,0.0442,0.32,uw,uw61962786,2023-09-29T02:19:14.060Z,"Olympic Peninsula, Washington",earthquake,0.67,1.64,0.15387065659754917,11,reviewed,uw,uw
