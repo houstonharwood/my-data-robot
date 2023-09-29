@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T05:35:26.460Z,36.217,-89.44,8.1,1.8,md,23,53,0.02061,0.06,nm,nm60553481,2023-09-29T12:46:18.370Z,"Tennessee",earthquake,0.15,0.33,0.159522246340359,23,reviewed,nm,nm
 2023-09-29T05:35:25.893Z,62.2128,-150.1019,13.9,1.3,ml,,,,0.34,ak,ak023chxd4el,2023-09-29T05:37:27.585Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T05:06:29.000Z,46.096833333333336,-122.86983333333333,2.15,0.63,md,5,187,0.09911,0.01,uw,uw61962901,2023-09-29T17:23:25.820Z,"5 km E of Rainier, Oregon",earthquake,0.78,5.03,0.09200173379656773,4,reviewed,uw,uw
-2023-09-29T04:58:32.720Z,46.0665,-122.865,5.07,0.46,md,4,210,0.1028,0.16,uw,uw61962896,2023-09-29T17:12:02.840Z,"2 km NE of Prescott, Oregon",earthquake,1.14,4.76,0.23570020159936034,4,reviewed,uw,uw
+2023-09-29T04:58:33.000Z,46.093,-122.87066666666666,1.45,0.54,md,5,191,0.09807,0.03,uw,uw61962896,2023-09-29T17:25:01.360Z,"5 km NNE of Prescott, Oregon",earthquake,0.9,6.83,0.2631251265677601,5,reviewed,uw,uw
 2023-09-29T04:56:21.653Z,31.659,-104.445,6.6971,2,ml(texnet),23,65,0,0.2,tx,tx2023tbnc,2023-09-29T15:12:04.114Z,"western Texas",earthquake,0.8367379712,0.5352454885,0.1,6,reviewed,tx,tx
 2023-09-29T03:57:48.659Z,36.544,-98.9535,6.54,1.64,ml,82,48,0.05039011174,0.24,ok,ok2023tble,2023-09-29T11:55:17.249Z,"7 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.21,26,reviewed,ok,ok
 2023-09-29T03:52:50.200Z,33.274,-116.7796667,13.15,0.6,ml,28,50,0.04177,0.18,ci,ci40574240,2023-09-29T14:29:11.342Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.28,0.82,0.117,14,reviewed,ci,ci
@@ -149,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T00:10:02.550Z,38.8233337,-122.8525009,2.24,1.14,md,22,90,0.005417,0.02,nc,nc73943151,2023-09-29T00:11:40.342Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.43,0.16,24,automatic,nc,nc
 2023-09-29T00:09:52.101Z,31.653,-104.45,6.6971,2.8,ml(texnet),21,72,0,0.2,tx,tx2023tbdq,2023-09-29T15:52:17.734Z,"58 km S of Whites City, New Mexico",earthquake,1.306123671,0.6950173415,0,6,reviewed,tx,tx
 2023-09-28T23:56:54.781Z,61.4794,-146.9809,17.8,3.1,ml,,,,0.57,ak,ak023cgko530,2023-09-29T00:54:26.040Z,"51 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-28T23:49:27.160Z,60.0246666666667,-153.064833333333,6.65,-0.78,ml,5,108,,0.25,av,av92066136,2023-09-29T17:29:52.200Z,"63 km ENE of Pedro Bay, Alaska",earthquake,1.3,1.7,0.346201272001442,5,reviewed,av,av
 2023-09-28T23:48:41.393Z,63.2382,-150.703,125.5,1.4,ml,,,,0.23,ak,ak023cgkmeaz,2023-09-28T23:58:41.364Z,"61 km SE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-09-28T23:41:04.960Z,60.0228333333333,-153.075666666667,5.46,-0.51,ml,5,98,,0.16,av,av92066121,2023-09-29T17:13:41.750Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.72,1.23,0.22270658773676,5,reviewed,av,av
 2023-09-28T23:34:06.653Z,60.4545,-152.0082,72,1.4,ml,,,,0.39,ak,ak023cgkjbll,2023-09-28T23:36:40.142Z,"39 km W of Kalifornsky, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T17:41:48.140Z,38.7921677,-122.8051682,3.3,1.97,md,36,77,0.004172,0.05,nc,nc73943076,2023-09-28T17:45:04.920Z,"4 km WNW of The Geysers, CA",earthquake,0.19,0.36,0.21,35,automatic,nc,nc
 2023-09-28T17:40:40.194Z,62.7826,-149.0214,61.3,1.3,ml,,,,0.54,ak,ak023cgh02ur,2023-09-28T17:42:38.049Z,"66 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-28T17:40:04.490Z,44.2539,148.635,15.126,5.8,mww,186,50,4.348,0.72,us,us6000lbgs,2023-09-28T19:44:56.792Z,"123 km SSE of Kuril’sk, Russia",earthquake,7.54,4.146,0.062,25,reviewed,us,us
-2023-09-28T17:26:43.902Z,12.5407,125.9979,10,4.7,mb,64,118,11.242,0.8,us,us6000lbgp,2023-09-28T17:59:19.040Z,"66 km ENE of Alugan, Philippines",earthquake,10.76,1.884,0.055,101,reviewed,us,us
