@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T12:19:59.940Z,38.8341675,-122.8113327,1.9,1.68,md,32,40,0.0108,0.03,nc,nc73943271,2023-09-29T12:23:03.002Z,"8 km W of Cobb, CA",earthquake,0.18,0.3,0.18,34,automatic,nc,nc
 2023-09-29T12:08:49.450Z,61.6702,-150.7771,67.8,1.2,ml,,,,0.54,ak,ak023ci1df4h,2023-09-29T12:10:36.230Z,"19 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T11:55:38.621Z,-27.7378,-71.4878,15.439,4.1,mwr,27,146,0.592,0.7,us,us6000lbng,2023-09-29T12:14:29.040Z,"117 km NW of Vallenar, Chile",earthquake,3.91,4.638,0.038,68,reviewed,us,us
-2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"Papua, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
+2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"147 km NNE of Agats, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
 2023-09-29T11:40:52.846Z,62.1967,-150.1117,24.3,0.9,ml,,,,0.63,ak,ak023ci0yup0,2023-09-29T11:42:54.354Z,"14 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T11:27:34.464Z,62.0619,-148.3258,36.5,1.6,ml,,,,0.29,ak,ak023ci0w0yu,2023-09-29T11:28:49.713Z,"30 km NNE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-29T11:25:48.400Z,33.334,-116.1921667,10.49,0.82,ml,30,47,0.1501,0.22,ci,ci40574352,2023-09-29T11:29:21.003Z,"17 km SSW of Oasis, CA",earthquake,0.31,1.06,0.126,17,automatic,ci,ci
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T02:05:55.310Z,19.1438331604004,-155.373504638672,29.8500003814697,2.1099999,md,45,194,,0.100000001,hv,hv73587802,2023-09-29T02:37:57.620Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.64,0.959999979,1.15999997,22,automatic,hv,hv
 2023-09-29T02:03:37.850Z,33.7185,-116.8391667,15.13,0.85,ml,32,62,0.07722,0.15,ci,ci40574208,2023-09-29T12:52:28.039Z,"6 km ESE of Valle Vista, CA",earthquake,0.26,0.46,0.106,25,reviewed,ci,ci
 2023-09-29T02:01:56.110Z,33.7161667,-116.8426667,15.76,1.69,ml,67,20,0.07361,0.23,ci,ci40574200,2023-09-29T02:13:10.440Z,"6 km SE of Valle Vista, CA",earthquake,0.22,0.48,0.233,26,automatic,ci,ci
-2023-09-29T02:01:21.660Z,33.72,-116.8371667,15.09,0.77,ml,23,84,0.07935,0.15,ci,ci40574192,2023-09-29T02:05:12.022Z,"6 km ESE of Valle Vista, CA",earthquake,0.39,0.53,0.164,19,automatic,ci,ci
+2023-09-29T02:01:21.640Z,33.716,-116.8368333,15.49,0.76,ml,26,57,0.07804,0.15,ci,ci40574192,2023-09-29T13:26:26.012Z,"6 km SE of Valle Vista, CA",earthquake,0.25,0.44,0.171,15,reviewed,ci,ci
 2023-09-29T01:54:18.358Z,-21.0437,-68.841,108.152,4.2,mwr,40,58,0.604,1.02,us,us6000lbkm,2023-09-29T02:42:17.772Z,"64 km WNW of Ollagüe, Chile",earthquake,6.61,6.45,,,reviewed,us,guc
 2023-09-29T01:53:17.797Z,-5.2209,152.8158,39.063,5,mb,50,132,1.212,0.68,us,us6000lbkp,2023-09-29T02:13:28.040Z,"New Britain region, Papua New Guinea",earthquake,11.62,7.427,0.051,125,reviewed,us,us
 2023-09-29T01:42:43.663Z,64.4721,-146.9036,0.2,1.2,ml,,,,0.83,ak,ak023chv0xda,2023-09-29T01:44:50.241Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T13:45:08.414Z,63.2401,-150.3968,112.2,1.4,ml,,,,0.29,ak,ak023cgenck9,2023-09-28T13:47:01.877Z,"74 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-28T13:36:22.590Z,38.793335,-122.8238297,2.1,0.77,md,15,100,0.008753,0.03,nc,nc73943026,2023-09-28T13:37:57.918Z,"6 km WNW of The Geysers, CA",earthquake,0.29,0.62,0.17,16,automatic,nc,nc
 2023-09-28T13:35:02.220Z,19.1456661224365,-155.477661132812,33.6500015258789,2.25999999,md,43,165,,0.100000001,hv,hv73587292,2023-09-28T13:38:19.330Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,0.910000026,0.230000004,21,automatic,hv,hv
-2023-09-28T13:28:33.220Z,57.0446666666667,-135.738,6.64,-0.33,ml,4,146,,0.06,av,av91116953,2023-09-29T00:37:53.420Z,"Southeastern Alaska",earthquake,0.79,0.63,0.341885310190438,4,reviewed,av,av
-2023-09-28T13:26:25.740Z,36.8861656,-121.3960037,10.87,0.96,md,5,205,0.1095,0.04,nc,nc73943021,2023-09-28T13:28:02.373Z,"4 km N of Hollister, CA",earthquake,2.01,2.9,0.02,4,automatic,nc,nc
