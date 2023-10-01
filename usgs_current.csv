@@ -1,9 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-01T01:59:17.010Z,37.5774994,-118.4491653,5.77,2.19,md,15,196,0.02976,0.07,nc,nc73943986,2023-10-01T02:05:14.418Z,"20 km E of Toms Place, CA",earthquake,5.02,6.22,0.12,17,automatic,nc,nc
+2023-10-01T02:17:09.335Z,61.2827,-146.8229,29.1,1.6,ml,,,,0.24,ak,ak023cl6jmet,2023-10-01T02:18:21.678Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-01T02:10:10.440Z,33.2773333,-116.7845,11.53,0.55,ml,18,67,0.04654,0.28,ci,ci40575000,2023-10-01T02:13:48.349Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.58,1.05,0.135,10,automatic,ci,ci
+2023-10-01T01:59:17.010Z,37.5774994,-118.4491653,5.77,2.19,md,15,196,0.02976,0.07,nc,nc73943986,2023-10-01T02:20:13.495Z,"20 km E of Toms Place, CA",earthquake,5.02,6.22,0.12,17,automatic,nc,nc
+2023-10-01T01:51:24.400Z,17.9136666666667,-66.8593333333333,12.42,2.3,md,9,227,0.06393,0.19,pr,pr71426723,2023-10-01T02:09:35.120Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.94,0.82,0.116153298391993,4,reviewed,pr,pr
+2023-10-01T01:48:46.870Z,17.912,-66.8538333333333,11.93,2.25,md,7,227,0.06722,0.09,pr,pr71426733,2023-10-01T02:20:32.290Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.6,0.68,0.114274861950484,6,reviewed,pr,pr
 2023-10-01T01:48:16.200Z,17.9135,-66.8495,12.07,2.15,md,16,202,0.06746,0.11,pr,pr71426718,2023-10-01T02:03:13.770Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.62,0.38,0.0786362936942355,5,reviewed,pr,pr
 2023-10-01T01:47:04.205Z,36.3832,-115.7548,4.2,0.9,ml,9,236.36,0.325,0.2658,nn,nn00866593,2023-10-01T01:49:09.759Z,"Nevada",earthquake,,2.8,0.14,8,automatic,nn,nn
 2023-10-01T01:32:51.120Z,17.9176666666667,-66.8476666666667,12.27,2.39,md,11,225,0.06451,0.16,pr,pr71426693,2023-10-01T01:57:22.560Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.76,0.71,0.0471535465022246,4,reviewed,pr,pr
 2023-10-01T01:29:23.214Z,64.4848,-147.3766,2.1,1.2,ml,,,,0.8,ak,ak023cl60n9i,2023-10-01T01:32:24.677Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-10-01T01:20:56.620Z,17.9385,-66.8541666666667,13.38,1.8,md,5,218,0.0435,0.06,pr,pr71426738,2023-10-01T02:28:54.350Z,"Puerto Rico region",earthquake,0.99,0.33,0.111397784007427,3,reviewed,pr,pr
 2023-10-01T01:19:28.650Z,17.8888333333333,-66.8528333333333,11.21,2.83,md,20,223,0.08936,0.19,pr,pr71426683,2023-10-01T01:33:03.090Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.61,0.52,0.120884242263559,8,reviewed,pr,pr
 2023-10-01T00:42:04.800Z,38.3079987,-119.3724976,7.35,2.61,md,21,94,0.0671,0.27,nc,nc73943981,2023-10-01T01:03:19.018Z,"14 km WNW of Bridgeport, CA",earthquake,0.55,1.23,0.31,12,automatic,nc,nc
 2023-10-01T00:40:44.960Z,38.8461685,-122.8184967,1.14,1.36,md,23,66,0.009287,0.02,nc,nc73943976,2023-10-01T00:42:20.019Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.35,0.15,24,automatic,nc,nc
@@ -53,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T16:03:42.030Z,38.6846657,-122.4971695,8.19,1.7,md,19,113,0.09286,0.06,nc,nc73943831,2023-09-30T16:05:20.150Z,"13 km SE of Middletown, CA",earthquake,0.35,1.25,0.13,19,automatic,nc,nc
 2023-09-30T15:57:35.420Z,32.7375,-115.5621667,12.95,1.82,ml,19,96,0.05671,0.24,ci,ci40574880,2023-09-30T16:28:34.262Z,"3 km WNW of Heber, CA",earthquake,0.59,0.93,0.235,27,reviewed,ci,ci
 2023-09-30T15:57:26.445Z,63.401,-151.5521,3.5,1.5,ml,,,,0.89,ak,ak023cjqzilg,2023-09-30T15:59:50.225Z,"17 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-30T15:26:26.760Z,40.5588333,-124.2886667,17.88,4.65,mw,45,166,0.02573,0.2,nc,nc73943821,2023-10-01T01:52:38.703Z,"3 km SW of Ferndale, CA",earthquake,0.44,0.29,,5,reviewed,nc,nc
+2023-09-30T15:26:26.760Z,40.5588333,-124.2886667,17.88,4.65,mw,45,166,0.02573,0.2,nc,nc73943821,2023-10-01T02:26:35.970Z,"3 km SW of Ferndale, CA",earthquake,0.44,0.29,,5,reviewed,nc,nc
 2023-09-30T15:17:47.960Z,19.2019996643066,-155.369171142578,30.1599998474121,1.95000005,md,40,176,,0.100000001,hv,hv73588652,2023-09-30T15:21:08.260Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.819999993,0.449999988,21,automatic,hv,hv
 2023-09-30T15:03:28.030Z,19.2611675262451,-155.391830444336,31.5799999237061,1.88,md,38,147,,0.119999997,hv,hv73588647,2023-09-30T15:06:39.720Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.790000021,0.129999995,9,automatic,hv,hv
 2023-09-30T14:45:11.850Z,38.3046684,-119.3779984,7.45,2.72,md,24,94,0.06592,0.25,nc,nc73943811,2023-09-30T15:07:14.525Z,"14 km WNW of Bridgeport, CA",earthquake,0.5,1.36,0.14,16,automatic,nc,nc
@@ -160,7 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T02:32:55.030Z,32.7131667,-115.5683333,15.8,1.65,ml,16,61,0.06828,0.27,ci,ci40574688,2023-09-30T16:36:44.541Z,"4 km WSW of Heber, CA",earthquake,0.65,0.93,0.298,24,reviewed,ci,ci
 2023-09-30T02:31:24.810Z,38.8183327,-122.8178329,2.61,0.71,md,9,80,0.007892,0.01,nc,nc73943591,2023-09-30T02:32:57.771Z,"7 km NW of The Geysers, CA",earthquake,0.42,1.02,0.1,11,automatic,nc,nc
 2023-09-30T02:31:05.150Z,38.8178329,-122.8176651,2.58,1.07,md,17,52,0.008125,0.03,nc,nc73943586,2023-09-30T02:32:43.469Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.61,0.15,18,automatic,nc,nc
-2023-09-30T02:18:41.440Z,33.3101667,-117.577,20,1.6,ml,16,183,0.2005,0.3,ci,ci40574680,2023-09-30T16:38:33.144Z,"13 km SSE of San Clemente, CA",earthquake,1.53,2.49,0.116,27,reviewed,ci,ci
-2023-09-30T02:16:27.040Z,38.8378334,-122.8085022,1.62,0.7,md,10,61,0.01419,0.04,nc,nc73943581,2023-09-30T02:18:03.299Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.42,0.41,10,automatic,nc,nc
-2023-09-30T02:07:43.682Z,0.5359,126.2962,42.746,4.4,mb,34,60,1.096,1.13,us,us6000lbuc,2023-09-30T03:42:21.040Z,"124 km WSW of Ternate, Indonesia",earthquake,7.86,7.556,0.123,23,reviewed,us,us
-2023-09-30T02:06:55.967Z,62.1864,-150.1239,15.7,1.4,ml,,,,0.49,ak,ak023cjiy0n0,2023-09-30T02:08:28.965Z,"14 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
