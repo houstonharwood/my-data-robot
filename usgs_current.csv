@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-01T15:41:29.610Z,40.2996674,-124.2866669,9.14,4.21,ml,25,120,0.04422,0.14,nc,nc73944166,2023-10-01T15:44:39.077Z,"3 km S of Petrolia, CA",earthquake,0.56,0.46,0.334,34,automatic,nc,nc
+2023-10-01T15:43:56.930Z,36.6298332,-121.286499,8.18,1.8,md,26,88,0.02953,0.22,nc,nc73944171,2023-10-01T15:45:47.693Z,"17 km NW of Pinnacles, CA",earthquake,0.43,1.01,0.22,23,automatic,nc,nc
+2023-10-01T15:41:29.610Z,40.2996674,-124.2866669,9.14,3.93,mw,25,120,0.04422,0.14,nc,nc73944166,2023-10-01T15:50:44.840Z,"3 km S of Petrolia, CA",earthquake,0.56,0.46,,4,reviewed,nc,nc
 2023-10-01T15:26:39.670Z,38.8153343,-122.8251648,2.19,1.26,md,25,52,0.007178,0.03,nc,nc73944161,2023-10-01T15:28:13.202Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.33,0.21,28,automatic,nc,nc
 2023-10-01T15:26:06.305Z,60.9439,-147.4168,26.1,1.6,ml,,,,0.37,ak,ak023clec6hi,2023-10-01T15:28:06.221Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-01T15:20:01.380Z,38.8343315,-122.7858353,1.82,1.04,md,19,64,0.005383,0.02,nc,nc73944156,2023-10-01T15:21:38.323Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.38,0.09,20,automatic,nc,nc
@@ -31,8 +32,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T12:30:32.140Z,33.2783333,-116.7811667,9.96,0.62,ml,16,57,0.04622,0.1,ci,ci40575096,2023-10-01T12:34:05.124Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.28,0.82,0.117,12,automatic,ci,ci
 2023-10-01T12:12:12.310Z,65.5879,-165.0822,12.384,3.4,ml,25,108,0.216,0.5,us,us6000lc39,2023-10-01T12:19:34.040Z,"69 km ENE of Teller, Alaska",earthquake,3.62,6.065,0.069,28,reviewed,us,us
 2023-10-01T12:08:21.332Z,56.7216,-148.6365,10,3.3,ml,45,243,2.394,0.44,us,us6000lc38,2023-10-01T12:15:55.040Z,"241 km ESE of Chiniak, Alaska",earthquake,2.93,2.018,0.045,66,reviewed,us,us
-2023-10-01T12:07:42.002Z,36.6503,-116.3521,16,0.3,ml,13,238.05,0.012,0.2848,nn,nn00866613,2023-10-01T12:09:26.346Z,"California-Nevada border region",earthquake,,1.2,0.26,8,automatic,nn,nn
-2023-10-01T12:06:25.410Z,17.9608333333333,-66.163,15.8,1.99,md,10,187,0.05364,0.23,pr,pr71427093,2023-10-01T12:19:52.110Z,"Puerto Rico region",earthquake,0.91,0.7,0.262284275768887,5,reviewed,pr,pr
+2023-10-01T12:07:42.002Z,36.6503,-116.3521,16,0.3,ml,13,238.05,0.012,0.2848,nn,nn00866613,2023-10-01T12:09:26.346Z,"46 km SE of Beatty, Nevada",earthquake,,1.2,0.26,8,automatic,nn,nn
+2023-10-01T12:06:25.410Z,17.9608333333333,-66.163,15.8,1.99,md,10,187,0.05364,0.23,pr,pr71427093,2023-10-01T12:19:52.110Z,"0 km NNE of Jobos, Puerto Rico",earthquake,0.91,0.7,0.262284275768887,5,reviewed,pr,pr
 2023-10-01T11:47:03.720Z,33.5818,97.3781,10,4.4,mb,36,69,5.713,0.49,us,us6000lc36,2023-10-01T12:01:16.040Z,"272 km N of Qamdo, China",earthquake,8.91,1.805,0.105,26,reviewed,us,us
 2023-10-01T11:47:00.573Z,60.7963,-151.2495,46,1.7,ml,,,,0.39,ak,ak023clc2xnt,2023-10-01T11:48:11.242Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-01T11:35:56.360Z,34.2795,-117.0545,23.18,1.07,ml,10,191,0.2863,0.17,ci,ci40575088,2023-10-01T11:39:27.853Z,"9 km NNE of Running Springs, CA",earthquake,1.45,4.58,0.218,16,automatic,ci,ci
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T08:04:50.520Z,33.6736667,-116.7436667,14.44,0.84,ml,24,92,0.04825,0.18,ci,ci40575040,2023-10-01T08:08:26.533Z,"8 km SSW of Idyllwild, CA",earthquake,0.27,0.47,0.112,25,automatic,ci,ci
 2023-10-01T07:34:16.140Z,17.9206666666667,-66.2893333333333,9.63,2.68,md,11,217,0.1793,0.1,pr,pr71426998,2023-10-01T07:42:53.980Z,"Puerto Rico region",earthquake,0.4,0.67,0.118880278319263,9,reviewed,pr,pr
 2023-10-01T07:32:14.070Z,32.921,-116.234,11.86,1.27,ml,28,73,0.06728,0.2,ci,ci40575032,2023-10-01T07:35:44.408Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.29,1.06,0.199,24,automatic,ci,ci
-2023-10-01T07:22:35.648Z,59.1883,-136.8971,7,3.6,ml,,,,0.62,ak,ak023cl9jwzj,2023-10-01T08:34:36.228Z,"Southeastern Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-10-01T07:22:35.648Z,59.1883,-136.8971,7,3.6,ml,,,,0.62,ak,ak023cl9jwzj,2023-10-01T15:49:19.749Z,"Southeastern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-10-01T07:09:15.840Z,18.154,-66.4103333333333,10.02,2.1,md,11,88,0.08598,0.24,pr,pr71426993,2023-10-01T07:28:16.290Z,"Puerto Rico region",earthquake,0.49,0.84,0.132811056829321,3,reviewed,pr,pr
 2023-10-01T07:05:51.020Z,17.9111666666667,-66.8531666666667,13.01,2.41,md,11,228,0.06822,0.07,pr,pr71426983,2023-10-01T07:19:33.610Z,"Puerto Rico region",earthquake,0.58,0.35,0.126319651842052,5,reviewed,pr,pr
 2023-10-01T06:59:47.999Z,37.1957,-115.1855,5.5,1.1,ml,12,202.7,0.236,0.3497,nn,nn00866605,2023-10-01T07:02:02.756Z,"18 km S of Alamo, Nevada",earthquake,,69.6,0.23,8,automatic,nn,nn
