@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-03T07:25:26.345Z,36.37829971,-97.64054871,3.396983147,1.61,ml,26,55.21824646,0.1422544718,0.3313650655,ok,ok2023tjaa,2023-10-03T07:27:55.494Z,"Oklahoma",earthquake,2.512250825,2.083023819,0.25,10,automatic,ok,ok
+2023-10-03T07:25:26.385Z,36.38016129,-97.64076996,3.105782747,1.56,ml,29,55.43966675,0.1407250315,0.3466389343,ok,ok2023tjaa,2023-10-03T07:30:59.809Z,"Oklahoma",earthquake,2.396675167,1.949506471,0.23,11,automatic,ok,ok
 2023-10-03T06:46:48.611Z,38.534,-119.3867,3.5,1.5,ml,12,103.81,0.116,0.0879,nn,nn00866664,2023-10-03T07:16:37.734Z,"Central California",earthquake,,1.1,0.23,8,automatic,nn,nn
 2023-10-03T06:45:44.090Z,60.6538,-148.7076,5.9,1.8,ml,,,,0.77,ak,ak023cok64jt,2023-10-03T06:47:43.927Z,"13 km S of Whittier, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-03T06:33:17.541Z,60.42,-143.3269,29.6,0.9,ml,,,,1.23,ak,ak023cok3hwq,2023-10-03T06:35:10.019Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T15:37:59.194Z,59.6643,-153.0802,103.2,2,ml,,,,0.25,ak,ak023cn1xzui,2023-10-02T16:31:46.040Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-02T15:10:43.403Z,63.9134,-149.4672,106.2,1.6,ml,,,,0.37,ak,ak023cn1s6dw,2023-10-02T15:12:46.572Z,"20 km SW of Ferry, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-02T15:07:04.220Z,17.9316666666667,-66.9446666666667,8.44,2.46,md,5,225,0.07575,0.09,pr,pr71427283,2023-10-02T15:21:48.040Z,"Puerto Rico region",earthquake,1.07,1.61,0.0379700160802658,2,reviewed,pr,pr
-2023-10-02T15:06:38.310Z,48.18516666666667,-121.538,12.8,0.71,md,5,120,0.0731,0.06,uw,uw61963531,2023-10-02T16:13:18.420Z,"Washington",earthquake,0.77,0.57,0.167407221959067,4,reviewed,uw,uw
+2023-10-02T15:06:38.310Z,48.18516666666667,-121.538,12.8,0.71,md,5,120,0.0731,0.06,uw,uw61963531,2023-10-02T16:13:18.420Z,"9 km SSE of Darrington, Washington",earthquake,0.77,0.57,0.167407221959067,4,reviewed,uw,uw
 2023-10-02T14:38:08.870Z,38.8081665,-122.8276672,1.73,0.74,md,9,98,0.001373,0.01,nc,nc73944606,2023-10-02T14:39:45.081Z,"7 km WNW of The Geysers, CA",earthquake,0.35,0.7,0.42,9,automatic,nc,nc
 2023-10-02T14:35:52.767Z,60.8033,-151.0336,57.4,1.7,ml,,,,0.45,ak,ak023cn1c4ek,2023-10-02T14:38:00.035Z,"18 km NE of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-02T14:29:33.603Z,26.0678,97.012,37.039,4.3,mb,25,93,5.207,0.7,us,us6000lc9d,2023-10-02T16:24:37.040Z,"25 km SE of Sarupathar, India",earthquake,7.59,9.908,0.154,14,reviewed,us,us
@@ -187,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T08:14:22.300Z,46.47716666666667,-122.27816666666666,14.93,1.17,ml,43,77,0.09304,0.16,uw,uw61963476,2023-10-02T17:15:30.810Z,"9 km S of Morton, Washington",earthquake,0.31,0.66,0.10920735177643981,22,reviewed,uw,uw
 2023-10-02T08:05:08.939Z,61.5355,-146.4982,30.1,1.6,ml,,,,0.51,ak,ak023cmxkzwt,2023-10-02T08:07:02.630Z,"45 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-02T07:39:57.830Z,38.8269997,-122.8538361,2.38,0.63,md,10,89,0.002434,0.01,nc,nc73944451,2023-10-02T07:41:33.178Z,"10 km WNW of The Geysers, CA",earthquake,0.37,0.94,0.21,9,automatic,nc,nc
-2023-10-02T07:37:16.980Z,32.7011667,-115.7228333,10.96,1.9,ml,44,45,0.05178,0.25,ci,ci40575392,2023-10-03T00:42:40.143Z,"18 km WSW of El Centro, CA",earthquake,0.29,0.52,0.202,25,reviewed,ci,ci
-2023-10-02T07:32:56.030Z,46.18483333333333,-122.19583333333334,6.38,0.43,ml,16,89,0.01503,0.21,uw,uw61963471,2023-10-02T17:34:11.630Z,"36 km NNE of Amboy, Washington",earthquake,0.6,0.74,0.13547050339232436,10,reviewed,uw,uw
