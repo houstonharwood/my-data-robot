@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-03T08:25:43.940Z,33.2200012,-116.034668,9.8,2.36,ml,94,38,0.06656,0.23,ci,ci40575848,2023-10-03T08:27:50.593Z,"11 km SW of Salton City, CA",earthquake,0.18,0.53,0.243,26,automatic,ci,ci
+2023-10-03T08:25:43.910Z,33.2221667,-116.0335,9.86,2.34,ml,57,54,0.0674,0.21,ci,ci40575848,2023-10-03T08:29:29.670Z,"11 km SW of Salton City, CA",earthquake,0.24,0.67,0.169,26,automatic,ci,ci
 2023-10-03T07:55:43.300Z,39.7358,-120.6629,2.4,1.5,ml,9,276.4,0.267,0.1306,nn,nn00866666,2023-10-03T07:57:53.995Z,"3 km SE of Johnsville, California",earthquake,,12.4,0.3,6,automatic,nn,nn
 2023-10-03T07:51:24.697Z,60.7243,-147.0561,25.6,1.4,ml,,,,0.81,ak,ak023cokssyd,2023-10-03T07:59:43.772Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-03T07:25:26.385Z,36.38016129,-97.64076996,3.105782747,1.56,ml,29,55.43966675,0.1407250315,0.3466389343,ok,ok2023tjaa,2023-10-03T07:30:59.809Z,"Oklahoma",earthquake,2.396675167,1.949506471,0.23,11,automatic,ok,ok
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
 2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
 2023-10-02T16:24:50.378Z,-21.8767,-68.5751,130.933,4.5,mwr,42,48,1.107,1.11,us,us6000lc9w,2023-10-02T17:22:34.040Z,"Chile-Bolivia border region",earthquake,5.48,6.444,,,reviewed,us,guc
-2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"49 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-02T16:14:25.170Z,47.0375,-123.96866666666666,36.59,2.58,ml,44,53,0.04405,0.31,uw,uw61963546,2023-10-03T07:07:28.192Z,"8 km NW of Hoquiam, Washington",earthquake,0.58,0.84,0.22352185883621134,29,reviewed,uw,uw
 2023-10-02T16:06:46.780Z,38.689167,-122.4964981,11.13,0.99,md,7,138,0.09516,0.06,nc,nc73944621,2023-10-02T16:08:21.146Z,"12 km SE of Middletown, CA",earthquake,0.64,1.13,0.02,5,automatic,nc,nc
 2023-10-02T16:06:32.070Z,19.5288333892822,-155.92366027832,10.9099998474121,1.86000001,md,25,217,,0.180000007,hv,hv73589992,2023-10-02T16:09:43.400Z,"0 km N of Kealakekua, Hawaii",earthquake,0.85,0.419999987,1.73000002,6,automatic,hv,hv
@@ -184,7 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T08:46:22.830Z,17.9986666666667,-67.0535,13.97,2.31,md,5,117,0.03039,0.07,pr,pr71427258,2023-10-02T08:56:33.710Z,"2 km NNW of La Parguera, Puerto Rico",earthquake,0.8,0.59,0.0906739266218803,4,reviewed,pr,pr
 2023-10-02T08:44:35.200Z,17.8965,-66.8575,10.63,2.48,md,6,235,0.08083,0.09,pr,pr71427238,2023-10-02T08:55:38.710Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,1.02,1.09,0.131179303439935,3,reviewed,pr,pr
 2023-10-02T08:42:24.140Z,38.7928352,-122.7576675,1.06,0.77,md,8,127,0.007941,0.03,nc,nc73944461,2023-10-02T08:43:58.705Z,"2 km N of The Geysers, CA",earthquake,0.37,0.68,0.26,9,automatic,nc,nc
-2023-10-02T08:34:32.860Z,38.8351669,-122.8063354,2.01,0.27,md,7,111,0.01211,0.02,nc,nc73944456,2023-10-02T08:36:08.916Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.56,0.17,7,automatic,nc,nc
-2023-10-02T08:30:45.480Z,60.0755,-151.9218,52.6,1.4,ml,,,,0.64,ak,ak023cmxqfms,2023-10-02T08:32:09.136Z,"14 km W of Ninilchik, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-10-02T08:30:13.546Z,30.3649,140.0024,105.451,4.4,mb,77,248,2.747,0.44,us,us6000lc7w,2023-10-02T13:14:18.040Z,"Izu Islands, Japan region",earthquake,13.92,9.791,0.069,61,reviewed,us,us
-2023-10-02T08:29:45.005Z,43.3474,17.388,10,4.5,mb,70,25,1.409,0.52,us,us6000lc7v,2023-10-02T16:30:05.464Z,"3 km SW of Grude, Bosnia and Herzegovina",earthquake,4.23,1.809,0.089,37,reviewed,us,us
