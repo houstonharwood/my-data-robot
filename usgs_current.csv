@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-03T08:55:52.451Z,29.5526,81.2337,19.109,4.9,mb,53,97,3.96,0.73,us,us6000lcfg,2023-10-03T09:25:53.362Z,"Nepal",earthquake,9.33,4.447,0.064,78,reviewed,us,us
+2023-10-03T08:55:52.451Z,29.5526,81.2337,19.109,4.9,mb,53,97,3.96,0.73,us,us6000lcfg,2023-10-03T09:31:02.954Z,"Nepal",earthquake,9.33,4.447,0.064,78,reviewed,us,us
 2023-10-03T08:42:21.070Z,33.4236667,-116.3606667,12.79,0.73,ml,20,128,0.1621,0.19,ci,ci40575856,2023-10-03T08:45:47.706Z,"19 km N of Borrego Springs, CA",earthquake,0.41,1.18,0.104,15,automatic,ci,ci
 2023-10-03T08:29:28.385Z,29.9142,139.8787,78.237,4.9,mb,42,132,3.192,0.64,us,us6000lcfe,2023-10-03T08:47:47.040Z,"Izu Islands, Japan region",earthquake,12.2,7.531,0.052,117,reviewed,us,us
 2023-10-03T08:25:43.910Z,33.2221667,-116.0335,9.86,2.34,ml,57,54,0.0674,0.21,ci,ci40575848,2023-10-03T08:36:32.740Z,"11 km SW of Salton City, CA",earthquake,0.24,0.67,0.169,26,automatic,ci,ci
@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
 2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
 2023-10-02T16:24:50.378Z,-21.8767,-68.5751,130.933,4.5,mwr,42,48,1.107,1.11,us,us6000lc9w,2023-10-02T17:22:34.040Z,"Chile-Bolivia border region",earthquake,5.48,6.444,,,reviewed,us,guc
-2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"49 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-02T16:14:25.170Z,47.0375,-123.96866666666666,36.59,2.58,ml,44,53,0.04405,0.31,uw,uw61963546,2023-10-03T07:07:28.192Z,"8 km NW of Hoquiam, Washington",earthquake,0.58,0.84,0.22352185883621134,29,reviewed,uw,uw
 2023-10-02T16:06:46.780Z,38.689167,-122.4964981,11.13,0.99,md,7,138,0.09516,0.06,nc,nc73944621,2023-10-02T16:08:21.146Z,"12 km SE of Middletown, CA",earthquake,0.64,1.13,0.02,5,automatic,nc,nc
 2023-10-02T16:06:32.070Z,19.5288333892822,-155.92366027832,10.9099998474121,1.86000001,md,25,217,,0.180000007,hv,hv73589992,2023-10-02T16:09:43.400Z,"0 km N of Kealakekua, Hawaii",earthquake,0.85,0.419999987,1.73000002,6,automatic,hv,hv
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T09:38:09.380Z,54.7365,-164.129,1.83,1.38,ml,5,195,,0.13,av,av92070211,2023-10-02T17:05:01.780Z,"47 km WSW of False Pass, Alaska",earthquake,0.55,1.06,0.261879148009069,5,reviewed,av,av
 2023-10-02T09:37:55.380Z,19.1823329925537,-155.502166748047,32.2000007629395,1.88,md,43,93,,0.100000001,hv,hv73589832,2023-10-02T09:41:10.420Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.920000017,1.50999999,10,automatic,hv,hv
 2023-10-02T09:34:42.720Z,34.1158333,-116.7096667,2.28,1.39,ml,47,47,0.09258,0.19,ci,ci40575400,2023-10-03T00:48:34.350Z,"14 km WNW of Morongo Valley, CA",earthquake,0.21,0.52,0.164,27,reviewed,ci,ci
-2023-10-02T09:29:09.568Z,59.189,-153.3628,82.6,2.1,ml,,,,0.41,ak,ak023cmybkr0,2023-10-02T09:31:00.675Z,"76 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-02T09:26:47.250Z,18.1206666666667,-66.9273333333333,18.05,2.41,md,14,113,0.08205,0.15,pr,pr71427263,2023-10-02T10:16:09.070Z,"Puerto Rico region",earthquake,0.43,0.6,0.116682417349449,8,reviewed,pr,pr
