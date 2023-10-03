@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
 2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
 2023-10-02T16:24:50.378Z,-21.8767,-68.5751,130.933,4.5,mwr,42,48,1.107,1.11,us,us6000lc9w,2023-10-02T17:22:34.040Z,"Chile-Bolivia border region",earthquake,5.48,6.444,,,reviewed,us,guc
-2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"49 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-02T16:14:25.170Z,47.0375,-123.96866666666666,36.59,2.58,ml,44,53,0.04405,0.31,uw,uw61963546,2023-10-02T20:29:23.840Z,"8 km NW of Hoquiam, Washington",earthquake,0.58,0.84,0.22352185883621134,29,reviewed,uw,uw
 2023-10-02T16:06:46.780Z,38.689167,-122.4964981,11.13,0.99,md,7,138,0.09516,0.06,nc,nc73944621,2023-10-02T16:08:21.146Z,"12 km SE of Middletown, CA",earthquake,0.64,1.13,0.02,5,automatic,nc,nc
 2023-10-02T16:06:32.070Z,19.5288333892822,-155.92366027832,10.9099998474121,1.86000001,md,25,217,,0.180000007,hv,hv73589992,2023-10-02T16:09:43.400Z,"0 km N of Kealakekua, Hawaii",earthquake,0.85,0.419999987,1.73000002,6,automatic,hv,hv
@@ -105,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T13:26:24.560Z,36.7554,139.7939,125.458,4.4,mb,64,126,1.292,0.8,us,us6000lc8v,2023-10-02T15:54:06.040Z,"eastern Honshu, Japan",earthquake,7.94,7.539,0.082,43,reviewed,us,us
 2023-10-02T13:15:21.426Z,29.888,139.842,120.161,4.4,mb,45,135,3.218,0.69,us,us6000lc8y,2023-10-02T16:05:39.040Z,"Izu Islands, Japan region",earthquake,12.37,8.118,0.092,34,reviewed,us,us
 2023-10-02T12:52:48.030Z,33.3215,-116.3525,12.31,1.35,ml,50,33,0.01332,0.18,ci,ci40575464,2023-10-02T23:41:03.000Z,"8 km NNE of Borrego Springs, CA",earthquake,0.18,0.45,0.177,26,reviewed,ci,ci
-2023-10-02T12:45:16.096Z,25.9591,90.6152,10,5.4,mb,105,36,5.106,0.65,us,us6000lc8t,2023-10-03T01:10:37.478Z,"24 km S of Goālpāra, India",earthquake,4.45,1.812,0.035,270,reviewed,us,us
+2023-10-02T12:45:16.096Z,25.9591,90.6152,10,5.4,mb,105,36,5.106,0.65,us,us6000lc8t,2023-10-03T04:32:38.838Z,"24 km S of Goālpāra, India",earthquake,4.45,1.812,0.035,270,reviewed,us,us
 2023-10-02T12:36:37.040Z,38.8336678,-122.8073349,2.57,0.26,md,8,89,0.01048,0.01,nc,nc73944586,2023-10-02T12:38:08.939Z,"7 km W of Cobb, CA",earthquake,0.58,1.94,0.17,8,automatic,nc,nc
 2023-10-02T12:29:19.630Z,38.8431664,-122.7716675,0.75,1.27,md,16,153,0.01275,0.02,nc,nc73944581,2023-10-02T12:30:54.138Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.44,0.27,17,automatic,nc,nc
 2023-10-02T12:26:10.746Z,-4.0495,134.0686,10,4.5,mb,25,61,2.135,0.64,us,us6000lc8q,2023-10-02T12:44:39.040Z,"176 km WSW of Nabire, Indonesia",earthquake,6.89,1.908,0.145,14,reviewed,us,us
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T04:54:32.030Z,34.8451667,-118.9705,13.78,1.23,ml,20,75,0.06983,0.14,ci,ci40575344,2023-10-02T12:58:48.432Z,"3 km NW of Frazier Park, CA",earthquake,0.32,0.48,0.202,14,reviewed,ci,ci
 2023-10-02T04:45:23.796Z,61.3798,-150.1042,36.2,1.7,ml,,,,0.27,ak,ak023cmvfva3,2023-10-02T04:46:55.899Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-02T04:41:25.767Z,27.1139,103.9152,10,4.3,mb,22,82,5.826,0.89,us,us6000lc71,2023-10-03T00:34:46.040Z,"29 km SE of Zhaotong, China",earthquake,4.9,1.955,0.16,11,reviewed,us,us
-2023-10-02T04:36:09.645Z,61.1285,-150.6352,44.8,1.7,ml,,,,0.32,ak,ak023cmvdws4,2023-10-02T04:38:37.708Z,"23 km N of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-10-02T04:35:01.932Z,63.2587,-166.6029,8.831,2.8,mb_lg,26,140,1.419,0.54,us,us6000lc6z,2023-10-03T00:27:01.040Z,"Bering Strait",earthquake,3.51,6.416,0.154,11,reviewed,us,us
