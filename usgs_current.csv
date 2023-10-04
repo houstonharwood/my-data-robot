@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-04T21:40:24.204Z,60.0821,-153.1696,121.6,1.9,ml,,,,0.64,ak,ak023cqgluyo,2023-10-04T21:42:45.861Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-04T21:39:27.270Z,33.2706667,-116.786,9.18,1.87,ml,53,29,0.04145,0.24,ci,ci40577232,2023-10-04T21:42:56.984Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.25,0.78,0.153,26,automatic,ci,ci
 2023-10-04T21:24:27.300Z,33.7003333,-117.2076667,1.58,1.14,ml,15,146,0.1592,0.28,ci,ci40577208,2023-10-04T21:28:02.286Z,"6 km WSW of Menifee, CA",earthquake,1.08,1.11,0.191,18,automatic,ci,ci
 2023-10-04T21:11:12.352Z,61.1106,-150.8493,22.3,1.5,ml,,,,0.19,ak,ak023cqgfmbn,2023-10-04T21:13:18.677Z,"13 km ESE of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-04T21:09:07.040Z,33.1045,-115.5985,6.26,1.42,ml,11,103,0.02262,0.1,ci,ci40577184,2023-10-04T21:12:33.151Z,"8 km NNE of Westmorland, CA",earthquake,0.35,0.53,0.279,25,automatic,ci,ci
@@ -134,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T04:48:49.630Z,44.74,-110.7933333,2.52,-0.08,md,6,146,0.0632,0.16,uu,uu60033799,2023-10-04T18:43:13.730Z,"26 km ENE of West Yellowstone, Montana",earthquake,0.52,8.52,0.436,6,reviewed,uu,uu
 2023-10-04T04:48:23.960Z,44.7435,-110.7896667,5.44,0.6,ml,7,152,0.06235,0.16,uu,uu60551587,2023-10-04T18:39:02.150Z,"26 km ENE of West Yellowstone, Montana",earthquake,0.71,2.13,0.505,2,reviewed,uu,uu
 2023-10-04T04:47:56.800Z,44.7428333,-110.7965,2.4,-0.55,md,5,148,0.05958,0.09,uu,uu60033794,2023-10-04T18:40:37.250Z,"25 km ENE of West Yellowstone, Montana",earthquake,0.48,7.56,0.513,4,reviewed,uu,uu
+2023-10-04T04:43:59.660Z,60.0536666666667,-153.0465,1.91,-1.02,ml,4,226,,0.2,av,av92072596,2023-10-04T21:39:30.630Z,"Southern Alaska",earthquake,1.73,1.12,0.367491450467559,4,reviewed,av,av
 2023-10-04T04:42:27.400Z,44.75,-110.7886667,7.95,0.87,ml,9,161,0.05839,0.14,uu,uu60551582,2023-10-04T14:15:13.930Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.54,0.97,0.313,3,reviewed,uu,uu
 2023-10-04T04:36:23.270Z,44.7525,-110.7893333,7.71,0.91,ml,8,165,0.05641,0.12,uu,uu60551567,2023-10-04T14:27:12.690Z,"Yellowstone National Park, Wyoming",earthquake,0.63,0.83,0.403,3,reviewed,uu,uu
 2023-10-04T04:35:35.930Z,44.7478333,-110.7925,6.04,0.32,md,7,156,0.05785,0.06,uu,uu60551562,2023-10-04T14:29:18.670Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.63,1.88,0.223,6,reviewed,uu,uu
@@ -233,6 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T21:56:14.410Z,33.9698333,-117.1905,15.1,1.39,ml,48,25,0.02681,0.15,ci,ci40576472,2023-10-03T23:58:27.740Z,"6 km NE of Moreno Valley, CA",earthquake,0.18,0.3,0.16,18,reviewed,ci,ci
 2023-10-03T21:52:22.960Z,38.8359985,-122.7948303,2.09,1.07,md,18,62,0.004251,0.02,nc,nc73945111,2023-10-04T00:52:12.440Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.45,0.13,21,automatic,nc,nc
 2023-10-03T21:51:17.706Z,-4.5059,153.4818,115.577,4.5,mb,56,99,1.351,0.57,us,us6000lcmc,2023-10-03T22:44:14.040Z,"135 km E of Kokopo, Papua New Guinea",earthquake,11.41,7.046,0.08,46,reviewed,us,us
-2023-10-03T21:42:19.400Z,33.1641667,-115.6416667,2.54,1.57,ml,16,66,0.02478,0.22,ci,ci40576456,2023-10-03T23:28:55.736Z,"13 km WNW of Calipatria, CA",earthquake,0.48,0.55,0.357,12,reviewed,ci,ci
-2023-10-03T21:41:05.380Z,45.0818333333333,-111.7115,-2,1.39,ml,13,109,0.2777,0.22,mb,mb90029068,2023-10-03T22:13:13.720Z,"29 km S of Ennis, Montana",quarry blast,0.71,31.61,0.189840955570893,10,reviewed,mb,mb
-2023-10-03T21:39:36.410Z,33.1715,-115.6441667,2.74,2.09,ml,29,56,0.02151,0.2,ci,ci40576448,2023-10-03T23:51:22.867Z,"13 km WNW of Calipatria, CA",earthquake,0.37,0.47,0.179,26,reviewed,ci,ci
