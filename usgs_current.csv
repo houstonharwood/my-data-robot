@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-04T07:13:31.300Z,37.8568344,-122.2366638,10.32,2.6,md,73,31,0.01937,0.07,nc,nc73945226,2023-10-04T07:18:15.510Z,"4 km N of Piedmont, CA",earthquake,0.13,0.27,0.15,77,automatic,nc,nc
+2023-10-04T07:13:31.300Z,37.8568344,-122.2366638,10.32,2.6,md,73,31,0.01937,0.07,nc,nc73945226,2023-10-04T07:23:26.681Z,"4 km N of Piedmont, CA",earthquake,0.13,0.27,0.15,77,automatic,nc,nc
 2023-10-04T07:01:04.170Z,38.6865005,-122.4948349,3.84,1.12,md,5,126,0.09249,0.05,nc,nc73945216,2023-10-04T07:18:14.509Z,"13 km SE of Middletown, CA",earthquake,0.47,4.16,0.14,4,automatic,nc,nc
 2023-10-04T06:59:29.980Z,33.2706667,-116.7813333,9.84,1.79,ml,54,34,0.03943,0.21,ci,ci40576624,2023-10-04T07:10:18.840Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.63,0.197,26,automatic,ci,ci
 2023-10-04T06:39:39.680Z,32.8396667,-116.0483333,1.48,0.73,ml,11,79,0.08154,0.27,ci,ci40576616,2023-10-04T06:43:11.271Z,"13 km NNW of Ocotillo, CA",earthquake,0.56,1.03,0.102,4,automatic,ci,ci
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T04:05:46.139Z,60.9371,-146.8899,22.3,1.6,ml,,,,0.45,ak,ak023cq6a1cl,2023-10-04T04:07:44.206Z,"14 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-04T03:55:53.816Z,60.0006,-148.106,31.7,2.1,ml,,,,1.33,ak,ak023cq5zc51,2023-10-04T03:59:10.413Z,"8 km SW of Chenega, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2023-10-04T03:53:05.547Z,61.4527,-147.2816,17.2,2,ml,,,,0.69,ak,ak023cq5ysze,2023-10-04T03:55:06.925Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-04T03:46:55.290Z,41.0068321,-124.1033325,26.34,2.91,ml,20,179,0.1259,0.08,nc,nc73945196,2023-10-04T07:18:45.846Z,"4 km S of Westhaven-Moonstone, CA",earthquake,0.51,0.66,0.306,8,automatic,nc,nc
+2023-10-04T03:46:55.290Z,41.0068321,-124.1033325,26.34,2.91,ml,20,179,0.1259,0.08,nc,nc73945196,2023-10-04T07:24:20.595Z,"4 km S of Westhaven-Moonstone, CA",earthquake,0.51,0.66,0.306,8,automatic,nc,nc
 2023-10-04T03:35:54.318Z,61.1375,-149.7364,39.1,1.4,ml,,,,0.42,ak,ak023cq5v1uv,2023-10-04T03:37:41.471Z,"12 km SE of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-04T03:35:12.821Z,19.2283,121.2765,39.206,5.7,mww,107,46,3.576,0.89,us,us6000lcpc,2023-10-04T05:47:04.111Z,"69 km N of Namuac, Philippines",earthquake,8.15,4.875,0.046,45,reviewed,us,us
 2023-10-04T03:33:15.222Z,60.8061,-151.16,76.8,1.2,ml,,,,0.18,ak,ak023cq5ujeq,2023-10-04T03:35:18.171Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T07:55:44.961Z,39.7408,-120.571,10.2,1.5,ml,15,156.47,0.107,0.1428,nn,nn00866666,2023-10-03T16:29:54.708Z,"0 km NW of Valley Ranch, California",earthquake,,1.7,0.14,8,reviewed,nn,nn
 2023-10-03T07:51:24.697Z,60.7243,-147.0561,25.6,1.4,ml,,,,0.81,ak,ak023cokssyd,2023-10-03T07:59:43.772Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-03T07:49:18.910Z,46.204,-122.1935,7.64,0.25,ml,13,83,0.006732,0.1,uw,uw61963721,2023-10-03T17:11:37.630Z,"38 km NNE of Amboy, Washington",earthquake,0.45,0.67,0.1196846092069594,9,reviewed,uw,uw
-2023-10-03T07:25:26.129Z,36.38433333,-97.64716667,6.03,1.46,ml,88,35,0.1835639785,0.24,ok,ok2023tjaa,2023-10-03T11:59:09.585Z,"Oklahoma",earthquake,,0.5,0.25,40,reviewed,ok,ok
