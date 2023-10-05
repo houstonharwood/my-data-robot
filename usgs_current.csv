@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T10:20:13.988Z,38.4585,-119.3968,1.3,1.4,ml,8,125.71,0.115,0.2241,nn,nn00866804,2023-10-05T10:24:36.892Z,"9 km SE of Walker, California",earthquake,,6.6,0.15,5,automatic,nn,nn
 2023-10-05T10:01:42.282Z,61.3963,-147.889,22,2.7,ml,,,,0.58,ak,ak023crxd4am,2023-10-05T10:02:56.062Z,"47 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T09:59:34.660Z,19.3735008239746,-155.280502319336,1.79999995231628,1.91,ml,22,102,,0.239999995,hv,hv73592852,2023-10-05T10:05:06.210Z,"9 km SSW of Volcano, Hawaii",earthquake,0.32,0.400000006,0.17,5,automatic,hv,hv
 2023-10-05T09:59:29.080Z,19.3815002441406,-155.274505615234,1.30999994277954,1.7,ml,5,154,,0.0799999982,hv,hv73592847,2023-10-05T10:05:00.220Z,"8 km SSW of Volcano, Hawaii",earthquake,0.97,0.689999998,0.32,5,automatic,hv,hv
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T08:50:55.135Z,30.0102,139.9444,10,4.8,mb,64,96,5.864,0.59,us,us6000ld1m,2023-10-05T10:03:49.040Z,"Izu Islands, Japan region",earthquake,9.69,1.861,0.043,169,reviewed,us,us
 2023-10-05T08:44:41.140Z,38.6843338,-122.495163,8.42,1.17,md,8,112,0.09139,0.06,nc,nc73945696,2023-10-05T09:05:15.396Z,"13 km NNW of Angwin, CA",earthquake,0.48,2.34,0.2,8,automatic,nc,nc
 2023-10-05T08:42:01.417Z,37.1559,-115.7093,6.3,1.1,ml,12,283.82,0.226,0.1914,nn,nn00866801,2023-10-05T08:44:07.322Z,"53 km WSW of Alamo, Nevada",earthquake,,1.6,1.02,6,automatic,nn,nn
-2023-10-05T08:36:43.480Z,38.8364983,-122.8065033,1.83,1.07,md,14,60,0.01276,0.01,nc,nc73945691,2023-10-05T08:53:14.456Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.78,0.29,18,automatic,nc,nc
+2023-10-05T08:36:43.480Z,38.8364983,-122.8065033,1.83,1.07,md,14,60,0.01276,0.01,nc,nc73945691,2023-10-05T10:20:12.842Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.78,0.29,18,automatic,nc,nc
 2023-10-05T08:33:32.910Z,33.6475,-116.7841667,14.51,0.65,ml,18,101,0.05588,0.15,ci,ci40577464,2023-10-05T08:37:13.412Z,"12 km SSW of Idyllwild, CA",earthquake,0.37,0.53,0.254,14,automatic,ci,ci
 2023-10-05T08:17:14.945Z,64.8785,-150.8184,16,1.2,ml,,,,0.71,ak,ak023crw9mg6,2023-10-05T08:19:15.643Z,"16 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T08:09:18.460Z,19.3381666666667,-155.3065,3.26,1.8,ml,27,66,,0.1,hv,hv73592662,2023-10-05T09:37:22.410Z,"13 km SSW of Volcano, Hawaii",earthquake,0.27,0.62,0.215984326483506,14,reviewed,hv,hv
@@ -229,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T10:35:56.897Z,36.6587,-116.29,6,-0.2,ml,10,176.04,0.042,0.0532,nn,nn00866740,2023-10-05T02:03:57.820Z,"California-Nevada border region",earthquake,,1.6,0.46,4,reviewed,nn,nn
 2023-10-04T10:30:55.640Z,35.7711667,-117.5661667,6.1,0.97,ml,18,96,0.157,0.2,ci,ci40576640,2023-10-04T16:34:13.902Z,"15 km W of Searles Valley, CA",earthquake,0.45,1.41,0.199,6,reviewed,ci,ci
 2023-10-04T10:28:10.417Z,64.1145,-149.7528,0,1.5,ml,,,,1.16,ak,ak023cq9zhox,2023-10-04T10:36:35.496Z,"31 km WSW of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-04T10:19:59.862Z,63.5321,-147.7353,15.7,1.9,ml,,,,0.17,ak,ak023cq9xo2a,2023-10-04T10:21:39.860Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-04T10:17:31.910Z,40.5569992,-124.0113297,20.68,2.06,md,14,163,0.1214,0.12,nc,nc73945271,2023-10-04T10:24:14.624Z,"7 km E of Hydesville, CA",earthquake,1.05,0.79,0.24,8,automatic,nc,nc
-2023-10-04T10:11:29.710Z,19.1923333333333,-155.493833333333,32.69,3.32,ml,61,68,,0.11,hv,hv73591397,2023-10-04T20:38:21.905Z,"1 km SW of Pāhala, Hawaii",earthquake,0.36,0.45,0.201259605479638,44,reviewed,hv,hv
