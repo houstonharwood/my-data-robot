@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-05T06:45:21.530Z,40.2290001,-121.1461639,-0.57,2.58,md,26,55,0.2325,0.26,nc,nc73945666,2023-10-05T06:46:56.408Z,"2 km NNE of Prattville, CA",earthquake,0.54,7.1,0.1,20,automatic,nc,nc
+2023-10-05T06:52:10.140Z,19.4566669464111,-155.441497802734,0.529999971389771,2.1099999,md,48,69,,0.189999998,hv,hv73592567,2023-10-05T06:55:25.540Z,"21 km W of Volcano, Hawaii",earthquake,0.33,0.560000002,0.850000024,33,automatic,hv,hv
+2023-10-05T06:45:21.530Z,40.2290001,-121.1461639,-0.57,2.58,md,26,55,0.2325,0.26,nc,nc73945666,2023-10-05T06:52:27.588Z,"2 km NNE of Prattville, CA",earthquake,0.54,7.1,0.1,20,automatic,nc,nc
 2023-10-05T06:22:12.859Z,30.0809,139.9795,10,5.6,mww,107,55,3.028,1.19,us,us6000ld0f,2023-10-05T06:43:50.317Z,"Izu Islands, Japan region",earthquake,6.59,1.844,0.062,25,reviewed,us,us
 2023-10-05T06:12:12.638Z,61.5633,-147.8018,22,1.3,ml,,,,0.39,ak,ak023crv1ohb,2023-10-05T06:13:18.825Z,"28 km SSW of Glacier View, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-05T06:05:46.260Z,19.371166229248,-155.284164428711,1.63999998569489,2.02,ml,26,108,,0.270000011,hv,hv73592527,2023-10-05T06:11:17.900Z,"9 km SSW of Volcano, Hawaii",earthquake,0.33,0.430000007,0.29,5,automatic,hv,hv
@@ -8,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T05:57:05.450Z,38.6826668,-122.4948349,8.97,1.11,md,8,130,0.09021,0.06,nc,nc73945651,2023-10-05T06:18:12.455Z,"12 km NNW of Angwin, CA",earthquake,0.56,2.44,0.14,10,automatic,nc,nc
 2023-10-05T05:48:24.030Z,19.1163330078125,-155.492004394531,31.9300003051758,1.91999996,md,33,176,,0.170000002,hv,hv73592502,2023-10-05T05:51:29.550Z,"9 km S of Pāhala, Hawaii",earthquake,0.59,1.05999994,0.629999995,3,automatic,hv,hv
 2023-10-05T05:47:50.140Z,38.6836662,-122.4986649,7.92,2.05,md,22,74,0.09323,0.08,nc,nc73945646,2023-10-05T05:54:14.322Z,"13 km SE of Middletown, CA",earthquake,0.29,1.07,0.12,21,automatic,nc,nc
+2023-10-05T05:45:11.797Z,30.0922,139.9543,10,4.8,mb,31,199,3.016,0.87,us,us6000ld0b,2023-10-05T06:49:58.040Z,"Izu Islands, Japan region",earthquake,11.84,1.977,0.102,31,reviewed,us,us
 2023-10-05T05:41:15.544Z,29.968,140.1741,10,5,mb,66,96,5.986,0.82,us,us6000ld09,2023-10-05T06:05:54.040Z,"Izu Islands, Japan region",earthquake,7.87,1.737,0.033,287,reviewed,us,us
 2023-10-05T05:32:10.709Z,64.6481,-149.1188,10.6,1.3,ml,,,,0.69,ak,ak023crukj0u,2023-10-05T05:34:34.664Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T05:22:39.339Z,62.1981,-148.5906,37,1.6,ml,,,,0.5,ak,ak023cruig3h,2023-10-05T05:24:16.953Z,"45 km N of Chickaloon, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -230,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T07:13:31.300Z,37.8568344,-122.2366638,10.32,2.6,md,73,31,0.01937,0.07,nc,nc73945226,2023-10-05T06:15:29.730Z,"4 km N of Piedmont, CA",earthquake,0.13,0.27,0.15,77,automatic,nc,nc
 2023-10-04T07:01:04.170Z,38.6865005,-122.4948349,3.84,1.12,md,5,126,0.09249,0.05,nc,nc73945216,2023-10-04T07:18:14.509Z,"13 km SE of Middletown, CA",earthquake,0.47,4.16,0.14,4,automatic,nc,nc
 2023-10-04T06:59:29.980Z,33.2706667,-116.7813333,9.84,1.79,ml,54,34,0.03943,0.21,ci,ci40576624,2023-10-04T13:17:58.100Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.63,0.197,26,reviewed,ci,ci
-2023-10-04T06:55:03.117Z,31.615,-103.977,5.5146,2.1,ml(texnet),14,54,0,0.1,tx,tx2023tkun,2023-10-04T12:41:56.705Z,"37 km WSW of Mentone, Texas",earthquake,0.5080405585,0.9039526874,0.1,6,reviewed,tx,tx
