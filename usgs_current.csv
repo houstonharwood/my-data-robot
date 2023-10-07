@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-07T14:27:48.430Z,61.4056,-147.8371,21.2,1.4,ml,,,,0.57,ak,ak023cvaz4t7,2023-10-07T14:29:49.744Z,"45 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-07T14:19:31.724Z,-5.7093,146.1538,75.345,5.2,mb,129,37,6.175,0.64,us,us6000ldut,2023-10-07T14:39:28.040Z,"67 km SE of Madang, Papua New Guinea",earthquake,7.54,5.182,0.044,179,reviewed,us,us
 2023-10-07T14:15:56.393Z,58.167,-155.4046,1.5,0.6,ml,,,,0.84,ak,ak023cvawktz,2023-10-07T14:17:22.487Z,"87 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-07T14:15:11.370Z,38.8358345,-122.807663,2.29,0.72,md,14,51,0.01256,0.01,nc,nc73946711,2023-10-07T14:36:14.752Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.71,0.14,14,automatic,nc,nc
 2023-10-07T14:14:06.363Z,63.2668,-150.4755,120.5,1.6,ml,,,,0.22,ak,ak023cvaw998,2023-10-07T14:16:00.848Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T12:02:23.920Z,19.1983337402344,-155.32600402832,30.2800006866455,2.02999997,md,30,173,,0.159999996,hv,hv73598677,2023-10-07T12:05:40.030Z,"Island of Hawaii, Hawaii",earthquake,0.68,0.949999988,2.02999997,4,automatic,hv,hv
 2023-10-07T11:58:20.335Z,59.9692,-143.0262,22.8,1.6,ml,,,,0.83,ak,ak023cv9df0x,2023-10-07T12:00:16.269Z,"Gulf of Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T11:57:23.380Z,17.9786666666667,-66.8245,16.31,1.88,md,8,200,0.05224,0.23,pr,pr71427758,2023-10-07T12:14:45.330Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.82,2,0.106553212104764,5,reviewed,pr,pr
-2023-10-07T11:51:00.001Z,64.4616,-152.2305,0,2.2,ml,,,,1.33,ak,ak023cv9bvg0,2023-10-07T11:53:55.961Z,"64 km N of Lake Minchumina, Alaska",earthquake,,5.1,,,automatic,ak,ak
+2023-10-07T11:51:16.665Z,63.2174,-150.5651,117.7,1.3,ml,,,,0.34,ak,ak023cv9bvg0,2023-10-07T14:42:55.349Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-10-07T11:48:00.200Z,44.4123333333333,-115.201166666667,8.38,1.91,ml,10,103,0.3982,0.09,mb,mb90029293,2023-10-07T13:29:23.500Z,"30 km NW of Stanley, Idaho",earthquake,0.3,0.54,0.194209222875811,10,reviewed,mb,mb
 2023-10-07T11:35:51.133Z,62.7416,-151.1122,0,1,ml,,,,0.95,ak,ak023cv98jxk,2023-10-07T11:37:52.920Z,"32 km NNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T11:34:20.220Z,38.7806664,-122.7566681,1.05,1.08,md,9,80,0.0158,0.02,nc,nc73946671,2023-10-07T12:21:15.109Z,"0 km N of The Geysers, CA",earthquake,0.3,0.71,0.28,12,automatic,nc,nc
@@ -236,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T14:49:04.720Z,19.3881666666667,-155.277166666667,1.55,0.82,md,29,57,,0.09,hv,hv73596582,2023-10-06T15:10:50.050Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.14,0.0606905319784381,4,reviewed,hv,hv
 2023-10-06T14:49:02.640Z,38.7913322,-122.7631683,2.51,0.76,md,14,66,0.009664,0.02,nc,nc73946286,2023-10-06T17:13:15.119Z,"2 km NNW of The Geysers, CA",earthquake,0.31,0.67,0.05,14,automatic,nc,nc
 2023-10-06T14:47:58.350Z,55.0725,-162.047666666667,3.01,0.56,ml,5,185,,0.18,av,av92075671,2023-10-06T20:50:54.200Z,"Alaska Peninsula",earthquake,0.65,1.23,0.331074453237847,5,reviewed,av,av
-2023-10-06T14:44:58.740Z,19.3826666666667,-155.281,1.47,2.66,ml,21,74,,0.1,hv,hv73596577,2023-10-07T04:42:31.040Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205603790475179,20,reviewed,hv,hv
-2023-10-06T14:44:26.200Z,19.3835,-155.2805,1.39,1.83,ml,17,71,,0.08,hv,hv73596572,2023-10-06T16:53:07.870Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.15,0.16208877133558,7,reviewed,hv,hv
-2023-10-06T14:38:08.280Z,19.3313331604004,-155.320495605469,1.67999994754791,1.78,ml,5,112,,0.0900000036,hv,hv73596557,2023-10-06T14:43:39.010Z,"15 km SW of Volcano, Hawaii",earthquake,0.66,0.980000019,0.09,3,automatic,hv,hv
