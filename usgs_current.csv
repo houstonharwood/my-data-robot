@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-10T22:08:04.790Z,17.8901666666667,-66.8726666666667,12.95,2.29,md,8,237,0.08466,0.06,pr,pr71428148,2023-10-10T22:18:19.970Z,"Puerto Rico region",earthquake,0.81,0.36,0.0366257011071571,5,reviewed,pr,pr
 2023-10-10T21:54:42.790Z,37.2163315,-118.3918304,9.74,1.65,md,6,144,0.08804,0.02,nc,nc73948681,2023-10-10T21:57:14.914Z,"6 km S of Wilkerson, CA",earthquake,1.07,2.02,0.47,4,automatic,nc,nc
 2023-10-10T21:41:34.920Z,38.8258324,-122.8065033,2.17,1.32,md,23,36,0.003702,0.02,nc,nc73948676,2023-10-10T22:11:19.558Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.1,25,automatic,nc,nc
 2023-10-10T21:32:14.240Z,38.8250008,-122.8093338,2.72,1.42,md,28,38,0.001705,0.02,nc,nc73948671,2023-10-10T21:49:15.429Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.39,0.13,28,automatic,nc,nc
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T13:03:29.339Z,36.312,-116.8573,8.7,1.5,ml,43,104.72,0.155,0.1761,nn,nn00867072,2023-10-10T16:41:51.128Z,"California-Nevada border region",earthquake,,1.1,0.22,21,reviewed,nn,nn
 2023-10-10T12:53:20.170Z,38.6814995,-122.4941635,9.64,1.24,md,8,131,0.0891,0.06,nc,nc73948546,2023-10-10T17:15:12.821Z,"12 km NNW of Angwin, CA",earthquake,0.63,2.26,0.23,9,automatic,nc,nc
 2023-10-10T12:50:58.656Z,62.6378,-151.2817,85.1,2.1,ml,,,,0.54,ak,ak023d08j9c9,2023-10-10T12:52:59.999Z,"30 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-10T12:29:04.610Z,37.7633324,-122.5674973,11.34,1.6,md,29,97,0.07996,0.05,nc,nc73948536,2023-10-10T16:46:11.671Z,"7 km WNW of San Francisco Zoo, CA",earthquake,0.23,0.65,0.17,18,automatic,nc,nc
+2023-10-10T12:29:04.610Z,37.7633324,-122.5674973,11.34,1.6,md,29,97,0.07996,0.05,nc,nc73948536,2023-10-10T22:20:41.161Z,"7 km WNW of San Francisco Zoo, CA",earthquake,0.23,0.65,0.17,18,automatic,nc,nc
 2023-10-10T12:28:14.337Z,38.1527,-117.8802,10.8,1.1,ml,8,107.41,0.095,0.1217,nn,nn00867090,2023-10-10T17:53:15.825Z,"Nevada",earthquake,,2,0.36,5,reviewed,nn,nn
 2023-10-10T12:27:41.581Z,15.9832,146.9409,36.505,4.9,mb,70,76,1.333,0.89,us,us6000leh9,2023-10-10T12:54:47.040Z,"153 km ENE of Saipan, Northern Mariana Islands",earthquake,9.76,4.03,0.066,73,reviewed,us,us
 2023-10-10T12:19:13.470Z,46.1631666666667,-111.771166666667,5.02,0.55,ml,5,174,0.3337,0.1,mb,mb90029393,2023-10-10T15:47:47.410Z,"11 km WSW of Radersburg, Montana",earthquake,0.61,8.51,0.0370408317773613,3,reviewed,mb,mb
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T22:32:01.895Z,63.1662,-149.3575,81.1,1.1,ml,,,,0.54,ak,ak023cyqu9l5,2023-10-09T22:34:56.226Z,"32 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-09T22:30:05.691Z,28.798,-98.467,5.16,2.2,ml(texnet),17,73,0,0.3,tx,tx2023tvcw,2023-10-10T14:38:49.552Z,"3 km ENE of Christine, Texas",earthquake,1.701098399,2.524008247,0,7,reviewed,tx,tx
 2023-10-09T22:26:55.140Z,61.1802,-146.8613,10.4,1.4,ml,,,,0.2,ak,ak023cyqt3fu,2023-10-09T22:28:14.410Z,"28 km W of Valdez, Alaska",earthquake,,3.9,,,automatic,ak,ak
-2023-10-09T22:25:20.740Z,12.6316,-88.2309,62.107,4.4,mb,41,146,0.837,0.98,us,us6000lee1,2023-10-09T22:44:48.040Z,"65 km SSW of Intipucá, El Salvador",earthquake,4.74,8.298,0.053,104,reviewed,us,us
