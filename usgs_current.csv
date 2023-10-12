@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-12T17:42:38.005Z,61.4975,-151.9024,20.5,0.7,ml,,,,0.56,ak,ak023d3mjd0j,2023-10-12T17:44:51.565Z,"59 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-12T17:13:06.330Z,18.6443333333333,-65.939,49.62,3.02,md,7,213,0.3606,0.2,pr,pr71428323,2023-10-12T17:33:03.700Z,"24 km NNW of Loíza, Puerto Rico",earthquake,1.4,2.53,0.0976637780454195,4,reviewed,pr,pr
 2023-10-12T16:45:52.950Z,60.6428,-151.8208,79.7,1.3,ml,,,,0.13,ak,ak023d3lylel,2023-10-12T16:49:59.011Z,"27 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-12T16:35:36.320Z,38.8260002,-122.8063354,2.37,0.53,md,7,105,0.003911,0.01,nc,nc73946455,2023-10-12T17:24:09.739Z,"7 km NW of The Geysers, CA",earthquake,0.63,1.4,0.28,7,automatic,nc,nc
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T09:31:53.882Z,61.1649,-147.558,28.8,1.5,ml,,,,0.44,ak,ak023d3hpkjg,2023-10-12T09:33:17.546Z,"58 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-12T09:30:03.000Z,38.7938347,-122.7796631,3.56,0.8,md,12,77,0.006484,0.02,nc,nc73946385,2023-10-12T11:00:15.487Z,"3 km NW of The Geysers, CA",earthquake,0.5,0.85,0.31,13,automatic,nc,nc
 2023-10-12T09:30:00.747Z,-10.24,119.915,27.646,4.9,mb,35,100,2.534,0.91,us,us6000lf1n,2023-10-12T09:46:31.040Z,"Sumba region, Indonesia",earthquake,5.67,5.989,0.128,19,reviewed,us,us
-2023-10-12T09:29:56.880Z,33.3668327,-116.2994995,14.13,1.22,ml,23,178,0.2168,0.18,ci,ci40581536,2023-10-12T09:32:04.366Z,"14 km NNE of Borrego Springs, CA",earthquake,0.54,1.07,0.096,3,automatic,ci,ci
+2023-10-12T09:29:57.060Z,33.3645,-116.3085,12.03,0.8,ml,37,80,0.06188,0.21,ci,ci40581536,2023-10-12T17:42:15.075Z,"14 km NNE of Borrego Springs, CA",earthquake,0.31,0.8,0.143,10,reviewed,ci,ci
 2023-10-12T09:28:47.731Z,28.922,-98.174,2.959,2.3,ml(texnet),20,81,0.2,0.2,tx,tx2023tzpq,2023-10-12T13:20:09.638Z,"16 km WSW of Falls City, Texas",earthquake,1.060773902,2.50082187,0.1,6,reviewed,tx,tx
 2023-10-12T09:28:05.660Z,44.2291666666667,-115.110333333333,9.15,2.46,ml,17,71,0.2261,0.19,mb,mb90029593,2023-10-12T14:02:03.570Z,"13 km W of Stanley, Idaho",earthquake,0.38,0.73,0.287729059991541,25,reviewed,mb,mb
 2023-10-12T09:17:11.490Z,19.3264999389648,-155.289337158203,2.94000005722046,2.06,ml,19,154,,0.209999993,hv,hv73606437,2023-10-12T09:22:43.270Z,"14 km SSW of Volcano, Hawaii",earthquake,0.52,0.810000002,0.29,3,automatic,hv,hv
@@ -78,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T06:39:51.720Z,33.913,-116.791,18.01,1.86,ml,77,23,0.005795,0.19,ci,ci40581512,2023-10-12T16:19:56.040Z,"1 km SW of Cabazon, CA",earthquake,0.14,0.31,0.145,25,reviewed,ci,ci
 2023-10-12T06:18:41.103Z,-4.5769,133.9424,7.334,5.2,mww,62,62,2.36,0.85,us,us6000lf0q,2023-10-12T06:42:51.040Z,"175 km NE of Tual, Indonesia",earthquake,7.52,3.908,0.093,11,reviewed,us,us
 2023-10-12T06:15:43.040Z,19.3636665344238,-155.282501220703,1.6599999666214,1.96,ml,22,120,,0.189999998,hv,hv73606302,2023-10-12T06:21:13.830Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.400000006,0.31,3,automatic,hv,hv
+2023-10-12T06:15:20.842Z,39.484,-116.4588,15.2,1.6,ml,5,167.04,1.114,0.2097,nn,nn00867178,2023-10-12T17:42:33.481Z,"42 km W of Eureka, Nevada",earthquake,,16.6,0,1,reviewed,nn,nn
 2023-10-12T06:08:29.360Z,19.3094997406006,-155.225830078125,0.100000001490116,1.7,ml,38,132,,0.209999993,hv,hv73606287,2023-10-12T06:14:00.560Z,"14 km S of Volcano, Hawaii",earthquake,0.31,0.330000013,0.1,8,automatic,hv,hv
 2023-10-12T06:04:51.576Z,-39.4968,-72.1358,81.908,4.7,mb,69,66,0.211,0.67,us,us6000lf0i,2023-10-12T12:42:17.862Z,"Araucania-Los Lagos border region, Chile",earthquake,8.73,6.024,0.079,49,reviewed,us,us
 2023-10-12T06:04:41.454Z,64.8518,-150.676,10.2,1.9,ml,,,,0.26,ak,ak023d3frgfl,2023-10-12T06:06:27.910Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -186,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T18:10:54.280Z,33.0271667,-116.3521667,4.92,1.42,ml,47,50,0.07391,0.18,ci,ci40581256,2023-10-11T20:10:12.010Z,"24 km ESE of Julian, CA",earthquake,0.18,0.45,0.048,15,reviewed,ci,ci
 2023-10-11T18:03:38.880Z,33.0283333,-116.357,4.58,1,ml,29,77,0.07217,0.17,ci,ci40581248,2023-10-11T19:40:24.616Z,"24 km ESE of Julian, CA",earthquake,0.26,0.57,0.109,8,reviewed,ci,ci
 2023-10-11T17:57:01.683Z,62.0271,-150.9278,69.4,1.5,ml,,,,0.28,ak,ak023d1z35h4,2023-10-11T17:59:10.104Z,"24 km E of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-11T17:41:07.570Z,65.4655,-149.9943,8.9,1.4,ml,,,,0.67,ak,ak023d1yzqh1,2023-10-11T17:42:49.201Z,"9 km ESE of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
