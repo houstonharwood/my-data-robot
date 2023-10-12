@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-12T03:22:47.430Z,38.8328323,-122.8088303,2.17,0.78,md,16,47,0.009473,0.01,nc,nc73946315,2023-10-12T03:24:26.475Z,"8 km W of Cobb, CA",earthquake,0.26,0.78,0.15,15,automatic,nc,nc
+2023-10-12T03:22:47.430Z,38.8328323,-122.8088303,2.17,0.78,md,16,47,0.009473,0.01,nc,nc73946315,2023-10-12T03:33:10.949Z,"8 km W of Cobb, CA",earthquake,0.26,0.78,0.15,15,automatic,nc,nc
 2023-10-12T03:17:37.235Z,60.5626,-143.023,1.8,1.4,ml,,,,0.75,ak,ak023d3e1xln,2023-10-12T03:18:54.336Z,"97 km S of McCarthy, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-12T03:02:54.599Z,60.7204,-149.3731,0,3,ml,,,,0.97,ak,ak023d3dyut1,2023-10-12T03:06:13.762Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T03:02:50.209Z,60.3497,-150.7148,63.4,3.3,ml,,,,0.26,ak,ak023d3dyqv0,2023-10-12T03:16:48.638Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T00:44:34.840Z,38.8306656,-122.7971649,1.01,1.64,md,21,100,0.00939,0.03,nc,nc73946235,2023-10-12T01:50:12.099Z,"6 km W of Cobb, CA",earthquake,0.2,0.28,0.14,24,automatic,nc,nc
 2023-10-12T00:28:18.370Z,19.1474990844727,-155.476501464844,30.9099998474121,2.25999999,md,40,170,,0.129999995,hv,hv73605932,2023-10-12T00:35:23.440Z,"6 km S of Pāhala, Hawaii",earthquake,0.65,0.769999981,0.959999979,19,automatic,hv,hv
 2023-10-12T00:26:31.450Z,19.1318340301514,-155.471664428711,30.8500003814697,1.91999996,md,36,175,,0.119999997,hv,hv73605927,2023-10-12T00:29:49.630Z,"Island of Hawaii, Hawaii",earthquake,0.68,0.850000024,0.970000029,7,automatic,hv,hv
-2023-10-12T00:23:21.610Z,38.8001671,-122.8003311,2.49,1.75,md,31,71,0.008724,0.05,nc,nc73946220,2023-10-12T03:18:10.732Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.37,0.14,33,automatic,nc,nc
+2023-10-12T00:23:21.610Z,38.8001671,-122.8003311,2.49,1.75,md,31,71,0.008724,0.05,nc,nc73946220,2023-10-12T03:32:14.817Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.37,0.14,33,automatic,nc,nc
 2023-10-12T00:21:47.930Z,19.3613333333333,-155.287333333333,1.72,1.91,ml,24,117,,0.1,hv,hv73605917,2023-10-12T01:40:33.230Z,"Hawaii region, Hawaii",earthquake,0.2,0.26,0.117938775406767,9,reviewed,hv,hv
 2023-10-12T00:17:31.600Z,38.7895012,-122.7261658,1.7,0.95,md,8,92,0.01036,0.02,nc,nc73946215,2023-10-12T02:33:16.330Z,"3 km ENE of The Geysers, CA",earthquake,0.33,1.52,0.22,8,automatic,nc,nc
 2023-10-12T00:16:49.590Z,38.7888336,-122.7258301,2.17,1.12,md,9,92,0.01018,0.01,nc,nc73946210,2023-10-12T02:06:12.183Z,"3 km ENE of The Geysers, CA",earthquake,0.36,1.67,0.19,11,automatic,nc,nc
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T03:42:13.290Z,73.6146,7.7797,10,4.4,mb,20,128,5.421,0.58,us,us6000lepf,2023-10-11T04:00:14.040Z,"Greenland Sea",earthquake,6.77,1.945,0.106,26,reviewed,us,us
 2023-10-11T03:35:14.750Z,53.3833333333333,-168.246666666667,2.8,-0.08,ml,5,287,,0.16,av,av92079706,2023-10-12T03:06:40.810Z,"64 km NE of Nikolski, Alaska",earthquake,1.11,1.54,0.497930882155602,5,reviewed,av,av
 2023-10-11T03:34:22.571Z,-25.322,179.5904,507.816,4.4,mb,21,79,4.506,0.5,us,us6000lepe,2023-10-11T03:53:15.040Z,"south of the Fiji Islands",earthquake,14.51,9.614,0.117,21,reviewed,us,us
-2023-10-11T03:31:52.480Z,32.6998333,-115.7276667,9.2,1.38,ml,20,67,0.05037,0.19,ci,ci40580968,2023-10-11T15:05:53.128Z,"19 km WSW of El Centro, CA",earthquake,0.3,0.64,0.191,5,reviewed,ci,ci
-2023-10-11T03:29:14.600Z,38.8351669,-122.7906647,1.73,1,md,14,54,0.003247,0.01,nc,nc73948751,2023-10-11T03:53:20.414Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.78,0.31,15,automatic,nc,nc
