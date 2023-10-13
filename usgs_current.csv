@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-13T18:28:27.670Z,62.8873,-151.2437,25.7,2,ml,,,,1.03,ak,ak023d5al4b3,2023-10-13T18:30:40.383Z,"49 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-13T18:02:33.720Z,19.3619995117188,-155.122833251953,40.0800018310547,1.76,ml,48,105,,0.129999995,hv,hv73607632,2023-10-13T18:08:05.520Z,"11 km S of Fern Forest, Hawaii",earthquake,0.66,0.460000008,3.05,15,automatic,hv,hv
 2023-10-13T17:53:34.053Z,61.2784,-150.5223,34.2,2.6,ml,,,,0.23,ak,ak023d5a523h,2023-10-13T17:54:55.955Z,"29 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T17:13:53.670Z,19.220832824707,-155.455337524414,33.4799995422363,1.86000001,md,40,108,,0.159999996,hv,hv73607617,2023-10-13T17:17:05.440Z,"3 km NE of Pāhala, Hawaii",earthquake,0.59,0.839999974,0.569999993,5,automatic,hv,hv
 2023-10-13T16:56:35.830Z,46.9863333333333,-114.326166666667,13.29,1,ml,12,57,0.09159,0.08,mb,mb90030053,2023-10-13T17:25:03.310Z,"western Montana",earthquake,0.38,0.99,0.320659025927119,6,reviewed,mb,mb
 2023-10-13T16:54:22.790Z,46.9866666666667,-114.324,12.99,1.26,ml,16,57,0.09274,0.12,mb,mb90030048,2023-10-13T17:18:40.790Z,"4 km S of Huson, Montana",earthquake,0.34,1.13,0.27873577314186,7,reviewed,mb,mb
-2023-10-13T16:45:50.610Z,35.8349991,-117.663002,7.92,1.13,ml,16,175,0.0869,0.14,ci,ci40582152,2023-10-13T16:47:55.938Z,"24 km N of Ridgecrest, CA",earthquake,0.61,1.47,0.106,3,automatic,ci,ci
+2023-10-13T16:45:50.690Z,35.8331667,-117.668,7.65,1.31,ml,24,59,0.08248,0.19,ci,ci40582152,2023-10-13T18:37:26.172Z,"24 km N of Ridgecrest, CA",earthquake,0.27,0.76,0.096,8,reviewed,ci,ci
 2023-10-13T16:42:47.400Z,43.276,-110.774,7.93,1.35,ml,11,99,0.1844,0.15,mb,mb90030028,2023-10-13T17:31:41.090Z,"Wyoming",earthquake,0.62,3.46,0.315405477800897,9,reviewed,mb,mb
 2023-10-13T16:21:51.488Z,31.673,-104.192,5.0261,2,ml(texnet),21,61,0.1,0.2,tx,tx2023ubyt,2023-10-13T18:23:33.889Z,"western Texas",earthquake,0.6215388249,1.305128864,0.1,7,reviewed,tx,tx
 2023-10-13T16:18:52.360Z,32.963,-115.5256667,6.45,1.18,ml,12,82,0.06807,0.18,ci,ci40582136,2023-10-13T18:30:15.247Z,"2 km SSE of Brawley, CA",earthquake,0.32,1.16,0.523,6,reviewed,ci,ci
@@ -128,6 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T00:31:14.840Z,38.8180008,-122.7611694,1.85,0.77,md,9,118,0.0142,0.01,nc,nc73946575,2023-10-13T01:27:14.373Z,"3 km W of Cobb, CA",earthquake,0.35,0.86,0.21,12,automatic,nc,nc
 2023-10-13T00:27:46.480Z,19.1798324584961,-155.496826171875,34.689998626709,1.86000001,md,30,159,,0.109999999,hv,hv73607177,2023-10-13T00:30:54.600Z,"3 km SW of Pāhala, Hawaii",earthquake,0.81,1.14999998,0.930000007,8,automatic,hv,hv
 2023-10-13T00:25:26.607Z,38.5142,-119.536,5.9,1.6,ml,15,79.1,0.073,0.1624,nn,nn00867227,2023-10-13T15:50:01.414Z,"5 km W of Walker, California",earthquake,,1.1,0.34,4,reviewed,nn,nn
+2023-10-13T00:24:57.550Z,58.1455,-155.3855,2.51,-0.04,ml,12,85,,0.08,av,av92082151,2023-10-13T18:40:26.700Z,"Alaska Peninsula",earthquake,0.18,0.36,0.338588812989801,12,reviewed,av,av
 2023-10-13T00:24:16.603Z,13.7842,120.9418,10,5.2,mb,88,84,8.081,0.91,us,us6000lf92,2023-10-13T13:41:55.883Z,"3 km N of Mabini, Philippines",earthquake,8.77,1.867,0.047,150,reviewed,us,us
 2023-10-13T00:15:22.677Z,59.6296,-152.0921,54.8,2.2,ml,,,,0.49,ak,ak023d4zsiq3,2023-10-13T00:17:12.220Z,"21 km SW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-13T00:07:16.220Z,38.7919998,-122.7803345,3.24,1.08,md,27,79,0.006042,0.02,nc,nc73946565,2023-10-13T00:56:12.167Z,"3 km NW of The Geysers, CA",earthquake,0.25,0.48,0.19,25,automatic,nc,nc
@@ -182,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T19:02:56.919Z,60.7343,-152.0678,82.2,2,ml,,,,0.35,ak,ak023d3nhp0m,2023-10-13T12:45:55.040Z,"42 km W of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-12T18:59:03.890Z,19.203332901001,-155.507171630859,35.7400016784668,2.03999996,md,41,74,,0.0900000036,hv,hv73606762,2023-10-12T19:02:20.120Z,"3 km W of Pāhala, Hawaii",earthquake,0.58,0.790000021,0.959999979,19,automatic,hv,hv
 2023-10-12T18:51:09.040Z,36.0003319,-120.5618362,1.46,1.51,md,10,88,0.02237,0.07,nc,nc73946465,2023-10-12T19:25:10.372Z,"16 km NW of Parkfield, CA",earthquake,0.31,0.67,0.13,5,automatic,nc,nc
-2023-10-12T18:40:07.800Z,35.0515,-118.3515,-0.93,1.7,mh,15,60,0.0613,0.12,ci,ci40581752,2023-10-12T22:18:31.557Z,"13 km SE of Tehachapi, CA",quarry blast,0.29,31.61,,0,reviewed,ci,ci
