@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-13T21:33:10.180Z,34.3334999,-116.8096695,5.86,1.06,ml,16,71,0.02065,0.13,ci,ci40582312,2023-10-13T21:35:22.921Z,"9 km NNE of Big Bear City, CA",earthquake,0.35,1.21,0.22,4,automatic,ci,ci
+2023-10-13T21:35:13.219Z,61.671,-149.8508,35.2,1.9,ml,,,,0.32,ak,ak023d5cew0p,2023-10-13T21:36:51.629Z,"4 km NNW of Houston, Alaska",earthquake,,7.5,,,automatic,ak,ak
+2023-10-13T21:33:10.180Z,34.3334999,-116.8096695,5.86,1.06,ml,16,71,0.02065,0.13,ci,ci40582312,2023-10-13T21:37:50.342Z,"9 km NNE of Big Bear City, CA",earthquake,0.35,1.21,0.22,4,automatic,ci,ci
 2023-10-13T21:29:47.940Z,19.1620006561279,-155.710830688477,7.48999977111816,2.18,ml,35,108,,0.310000002,hv,hv73607797,2023-10-13T21:35:19.930Z,"11 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.72,0.74000001,3.57,6,automatic,hv,hv
 2023-10-13T20:58:25.220Z,36.4893333333333,-89.5673333333333,9.03,2.31,md,30,57,0.05361,0.1,nm,nm60555331,2023-10-13T21:18:56.510Z,"southeastern Missouri",earthquake,0.19,0.48,0.114469850825343,22,reviewed,nm,nm
 2023-10-13T20:57:53.740Z,38.7828331,-122.7238312,1.78,1.07,md,12,82,0.01009,0.02,nc,nc73946900,2023-10-13T20:59:30.828Z,"3 km ENE of The Geysers, CA",earthquake,0.25,0.72,0.08,13,automatic,nc,nc
@@ -93,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T10:07:44.520Z,38.6871681,-122.5013351,5.73,2.18,md,35,57,0.09366,0.13,nc,nc73946675,2023-10-13T13:26:12.504Z,"12 km SE of Middletown, CA",earthquake,0.22,0.86,0.14,38,automatic,nc,nc
 2023-10-13T09:59:51.988Z,41.0801,140.1595,172.478,5,mww,90,28,0.745,0.97,us,us6000lfbl,2023-10-13T10:32:53.136Z,"29 km WSW of Imabetsu, Japan",earthquake,4.74,5.79,0.093,11,reviewed,us,us
 2023-10-13T09:52:33.497Z,60.2807,-151.3493,50.4,1.5,ml,,,,0.58,ak,ak023d55ddhx,2023-10-13T09:54:10.716Z,"6 km NNE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-10-13T09:51:25.524Z,37.014,-116.3859,8.6,0.1,ml,7,101.29,0.022,0.0873,nn,nn00867264,2023-10-13T21:37:50.963Z,"35 km ENE of Beatty, Nevada",earthquake,,1.6,0.78,2,reviewed,nn,nn
 2023-10-13T09:47:32.360Z,60.0326666666667,-153.037833333333,3.2,-0.12,ml,5,176,,0.07,av,av92082561,2023-10-13T21:13:15.000Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.52,0.78,0.169349652281223,5,reviewed,av,av
 2023-10-13T09:27:05.451Z,31.722,-104.348,6.0287,1.8,ml(texnet),17,72,0.1,0.2,tx,tx2023ublc,2023-10-13T13:14:34.854Z,"50 km S of Whites City, New Mexico",earthquake,0.8159001266,1.306918921,0.1,7,reviewed,tx,tx
 2023-10-13T09:26:33.020Z,19.1941661834717,-155.368499755859,30.9500007629395,1.98000002,md,42,177,,0.109999999,hv,hv73607382,2023-10-13T09:29:56.770Z,"11 km E of Pāhala, Hawaii",earthquake,0.54,0.75,0.959999979,16,automatic,hv,hv
@@ -149,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T03:46:31.280Z,51.9185,-176.542333333333,2.04,1.98,ml,6,127,,0.25,av,av91118213,2023-10-13T19:28:40.160Z,"8 km NE of Adak, Alaska",earthquake,0.73,1.03,0.12782394929214,5,reviewed,av,av
 2023-10-13T03:44:32.333Z,-51.8028,139.4955,4.864,6,mww,44,94,10.353,0.8,us,us6000lf9x,2023-10-13T05:48:26.317Z,"western Indian-Antarctic Ridge",earthquake,11.1,3.368,0.08,15,reviewed,us,us
 2023-10-13T03:33:14.607Z,37.8749,24.1204,10,4.4,mb,32,73,1.878,0.9,us,us6000lf9u,2023-10-13T19:08:29.333Z,"10 km E of Limín Mesoyaías, Greece",earthquake,5.66,1.906,0.162,11,reviewed,us,us
-2023-10-13T03:28:30.920Z,20.13450050354,-156.09700012207,15.7700004577637,2.86,ml,46,307,,0.310000002,hv,hv73607242,2023-10-13T06:07:00.004Z,"29 km WSW of Hāwī, Hawaii",earthquake,1.8,28.2399998,3.74,16,automatic,hv,hv
+2023-10-13T03:28:30.720Z,20.1023333333333,-156.1185,39.91,3.2,ml,52,261,,0.14,hv,hv73607242,2023-10-13T21:42:24.310Z,"32 km WNW of Puako, Hawaii",earthquake,0.6,0.8,0.221707244650715,30,reviewed,hv,hv
 2023-10-13T03:28:13.914Z,62.1223,-147.2819,18.3,2.4,ml,,,,0.9,ak,ak023d51nl64,2023-10-13T05:10:51.040Z,"21 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T03:27:50.614Z,32.325,-101.088,11.9584,2.8,ml(texnet),43,44,0.2,0.2,tx,tx2023uazh,2023-10-13T10:51:07.183Z,"western Texas",earthquake,0.6841538728,0.9063488563,0.2,32,reviewed,tx,tx
 2023-10-13T03:24:23.700Z,18.9655,-66.2648333333333,26.4,3.18,md,19,262,0.5467,0.18,pr,pr71428373,2023-10-13T03:47:48.170Z,"55 km N of Brenas, Puerto Rico",earthquake,0.69,5.48,0.0868388005012415,7,reviewed,pr,pr
@@ -197,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T22:02:59.310Z,61.298,-152.334166666667,-3.09,0.09,ml,8,137,,0.17,av,av92082036,2023-10-13T03:27:20.250Z,"Southern Alaska",earthquake,0.42,1.73,0.150759323494833,8,reviewed,av,av
 2023-10-12T21:46:39.844Z,-6.6348,128.9516,219.181,4.4,mb,58,52,2.303,0.57,us,us6000lf83,2023-10-12T22:40:20.040Z,"Banda Sea",earthquake,3.32,7.979,0.085,40,reviewed,us,us
 2023-10-12T21:46:36.210Z,36.4674988,-120.8840027,15.45,2.53,md,46,134,0.1079,0.19,nc,nc73946525,2023-10-13T02:33:11.031Z,"20 km WNW of New Idria, CA",earthquake,0.52,0.75,0.16,44,automatic,nc,nc
-2023-10-12T21:41:21.480Z,36.4661674,-120.8755035,15.85,3.15,ml,60,135,0.1035,0.2,nc,nc73946520,2023-10-13T19:19:02.194Z,"19 km WNW of New Idria, CA",earthquake,0.4,0.61,0.175,21,automatic,nc,nc
