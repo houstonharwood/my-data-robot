@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T23:09:38.817Z,58.1791,-155.3614,1.1,0.4,ml,,,,0.2,ak,ak023d8oixkp,2023-10-15T23:10:33.186Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-10-15T22:50:24.550Z,38.267,-118.7111,5.4,2,ml,17,64.3,0.163,0.3124,nn,nn00867366,2023-10-15T22:52:59.095Z,"29 km SSW of Hawthorne, Nevada",earthquake,,1,0.16,13,automatic,nn,nn
+2023-10-15T22:44:40.716Z,12.3015,-88.5108,46.097,4.9,mb,55,151,1.175,0.85,us,us6000lfsv,2023-10-15T23:02:48.040Z,"108 km S of Puerto El Triunfo, El Salvador",earthquake,2.36,8.945,0.038,217,reviewed,us,us
+2023-10-15T22:39:51.060Z,17.9823333333333,-66.845,11.93,2.2,md,8,183,0.0334,0.13,pr,pr71428743,2023-10-15T23:04:10.850Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.77,0.48,0.135129251886073,5,reviewed,pr,pr
 2023-10-15T22:23:20.510Z,17.9013333333333,-66.8501666666667,11.09,2.44,md,7,233,0.07838,0.09,pr,pr71428733,2023-10-15T22:33:50.010Z,"Puerto Rico region",earthquake,0.87,0.58,0.0341071015878263,5,reviewed,pr,pr
 2023-10-15T22:16:32.010Z,19.0581,-66.7596,45,3.72,md,16,238,0.6249,0.45,pr,pr2023288000,2023-10-15T22:44:42.040Z,"63 km N of Hatillo, Puerto Rico",earthquake,2.24,7.04,0.07,12,reviewed,pr,pr
 2023-10-15T22:10:58.248Z,61.9681,-149.4353,38.7,1.5,ml,,,,0.93,ak,ak023d8nxr6o,2023-10-15T22:12:46.619Z,"27 km NNW of Fishhook, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -7,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T22:01:28.027Z,60.7234,-152.8467,126.8,2.1,ml,,,,0.47,ak,ak023d8nvrdw,2023-10-15T22:08:45.040Z,"84 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-15T21:57:41.273Z,62.1746,-147.3971,32.3,1.5,ml,,,,0.73,ak,ak023d8nmcxb,2023-10-15T21:59:43.771Z,"28 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-15T21:54:38.820Z,18.5906666666667,-66.4938333333333,13.06,2.98,md,19,216,0.1179,0.15,pr,pr71428708,2023-10-15T22:36:41.162Z,"Puerto Rico region",earthquake,0.43,0.46,0.0555248252868956,8,reviewed,pr,pr
-2023-10-15T21:29:42.874Z,63.5269,-160.2788,74.2,2.9,ml,,,,0.73,ak,ak023d8ngczz,2023-10-15T21:33:30.141Z,"46 km SSE of Unalakleet, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2023-10-15T21:29:42.874Z,63.5269,-160.2788,74.2,2.9,ml,,,,0.73,ak,ak023d8ngczz,2023-10-15T23:13:00.040Z,"46 km SSE of Unalakleet, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-15T21:09:31.610Z,34.5635,-119.1386667,6.19,2.67,ml,67,28,0.1235,0.29,ci,ci40582864,2023-10-15T21:25:53.040Z,"16 km NE of Ojai, CA",earthquake,0.28,1.35,0.188,25,automatic,ci,ci
 2023-10-15T21:08:18.470Z,34.556,-119.139,1.53,1.98,ml,39,34,0.1188,0.23,ci,ci40582856,2023-10-15T21:19:07.650Z,"15 km NE of Ojai, CA",earthquake,0.24,0.66,0.139,27,automatic,ci,ci
 2023-10-15T21:05:23.452Z,55.8102,-149.2195,12.509,3.4,ml,42,223,2.708,0.45,us,us6000lfsd,2023-10-15T21:11:54.040Z,"274 km SE of Chiniak, Alaska",earthquake,10.75,9.019,0.06,36,reviewed,us,us
@@ -154,4 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T23:25:36.819Z,62.4523,-152.36,8.2,1.4,ml,,,,0.74,ak,ak023d7130dt,2023-10-14T23:27:58.526Z,"71 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-14T23:16:04.680Z,38.8443336,-122.879837,2.33,0.79,md,9,102,0.006723,0.02,nc,nc73947310,2023-10-15T00:11:15.832Z,"13 km ENE of Cloverdale, CA",earthquake,0.36,0.58,0.21,10,automatic,nc,nc
 2023-10-14T23:15:52.920Z,58.8695,-136.5227,6.3,3.5,ml,,,,0.89,ak,ak023d710wha,2023-10-15T18:52:09.563Z,"Southeastern Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-10-14T23:02:18.174Z,66.9012,-154.329,2.1,1.6,ml,,,,0.75,ak,ak023d70y1na,2023-10-14T23:05:14.195Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
