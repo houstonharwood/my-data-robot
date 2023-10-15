@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T05:21:31.088Z,63.5033,-148.8345,2.8,0.8,ml,,,,0.84,ak,ak023d8dvook,2023-10-15T05:23:36.213Z,"13 km NNE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-15T05:10:34.840Z,17.9413333333333,-66.958,5.93,2.48,md,17,216,0.05612,0.23,pr,pr71428638,2023-10-15T05:20:02.360Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.65,0.4,0.0376081199923826,4,reviewed,pr,pr
 2023-10-15T05:05:01.865Z,61.1806,-154.1361,0.7,1.8,ml,,,,0.62,ak,ak023d8ds6yy,2023-10-15T05:07:47.983Z,"72 km ESE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T04:39:57.610Z,38.8380013,-122.7708359,0.87,1.1,md,12,146,0.006322,0.02,nc,nc73947375,2023-10-15T04:56:14.518Z,"4 km WNW of Cobb, CA",earthquake,0.28,0.45,0.14,13,automatic,nc,nc
@@ -9,8 +10,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-15T05:17:38.191Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
 2023-10-15T03:46:53.680Z,17.964,-66.9538333333333,13.21,2.72,md,4,193,0.07183,0.1,pr,pr71428613,2023-10-15T04:27:47.380Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.66,1.01,0.0201491434223553,4,reviewed,pr,pr
 2023-10-15T03:45:47.839Z,62.9316,-149.9091,70.7,1.9,ml,,,,0.34,ak,ak023d8ctzy7,2023-10-15T03:47:33.252Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-15T03:36:00.037Z,34.6094,62.1115,6.323,6.3,mww,126,21,5.719,1.2,us,us6000lfn5,2023-10-15T04:59:46.676Z,"30 km NNW of Herāt, Afghanistan",earthquake,7.19,3.138,0.063,24,reviewed,us,us
-2023-10-15T03:31:22.570Z,38.8243332,-122.8040009,2.32,1.11,md,27,33,0.004835,0.02,nc,nc73947355,2023-10-15T03:48:13.982Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,27,automatic,nc,nc
+2023-10-15T03:36:00.037Z,34.6094,62.1115,6.323,6.3,mww,126,21,5.719,1.2,us,us6000lfn5,2023-10-15T05:28:31.548Z,"30 km NNW of Herāt, Afghanistan",earthquake,7.19,3.138,0.063,24,reviewed,us,us
+2023-10-15T03:31:22.570Z,38.8243332,-122.8040009,2.32,1.11,md,27,33,0.004835,0.02,nc,nc73947355,2023-10-15T05:28:13.566Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,27,automatic,nc,nc
 2023-10-15T03:20:01.461Z,-58.4778,-23.1457,10,4.9,mb,33,70,8.509,1.17,us,us6000lfn8,2023-10-15T04:22:29.040Z,"South Sandwich Islands region",earthquake,10.47,1.879,0.104,30,reviewed,us,us
 2023-10-15T03:17:22.390Z,35.9871667,-117.9096667,-0.04,0.99,ml,15,98,0.08359,0.16,ci,ci40582664,2023-10-15T03:20:55.544Z,"6 km N of Little Lake, CA",earthquake,0.26,0.53,0.054,9,automatic,ci,ci
 2023-10-15T03:15:18.219Z,-38.9711,174.9113,219.865,4.3,mb,26,67,0.46,0.71,us,us6000lfn2,2023-10-15T05:00:04.465Z,"58 km E of Waitara, New Zealand",earthquake,6.65,3.975,0.169,10,reviewed,us,us
@@ -164,5 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T05:56:30.819Z,42.9594,-111.4905,6.272,2.8,ml,40,67,0.055,0.53,us,us6000lfhi,2023-10-14T06:06:44.040Z,"35 km NNE of Soda Springs, Idaho",earthquake,2.3,0.815,0.037,96,reviewed,us,us
 2023-10-14T05:56:09.439Z,-5.659,145.9583,67.53,4.9,mb,83,63,6.102,0.67,us,us6000lfhj,2023-10-15T05:02:34.902Z,"51 km SSE of Madang, Papua New Guinea",earthquake,10.08,6.653,0.052,115,reviewed,us,us
 2023-10-14T05:55:30.358Z,34.49075317,-97.75846863,5.971240044,1.73,ml,13,68.96090698,0.1258587837,0.7845151145,ok,ok2023uczp,2023-10-14T05:59:45.269Z,"8 km WNW of Velma, Oklahoma",earthquake,3.532529749,3.168562208,0.26,7,automatic,ok,ok
-2023-10-14T05:25:03.079Z,-60.4998,-25.6471,10,4.8,mb,38,95,17.705,0.63,us,us6000lfhc,2023-10-14T05:38:59.040Z,"South Sandwich Islands region",earthquake,5.17,1.911,0.09,38,reviewed,us,us
-2023-10-14T05:24:13.693Z,37.0657,-117.0149,5.8,1.1,ml,12,167.31,0.087,0.1534,nn,nn00867286,2023-10-14T15:49:41.508Z,"28 km NW of Beatty, Nevada",earthquake,,2.2,0.91,7,reviewed,nn,nn
