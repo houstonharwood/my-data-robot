@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-16T21:21:57.711Z,57.1373,-153.12,0,2.5,ml,,,,1.16,ak,ak023daay0wr,2023-10-16T21:24:37.471Z,"13 km ESE of Old Harbor, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-10-16T21:21:10.580Z,63.2333,-151.3243,0,1.9,ml,,,,0.73,ak,ak023daaxx9u,2023-10-16T21:23:25.091Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-16T21:10:28.779Z,56.5776,-152.1359,15,2.5,ml,,,,1.54,ak,ak023daavntz,2023-10-16T21:46:27.600Z,"99 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
+2023-10-16T21:10:28.779Z,56.5776,-152.1359,15,2.5,ml,,,,1.54,ak,ak023daavntz,2023-10-16T21:55:47.040Z,"99 km SE of Old Harbor, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-10-16T20:56:33.307Z,36.6835,-115.963,6.5,0.1,ml,8,179.82,0.022,0.2712,nn,nn00867442,2023-10-16T20:59:34.104Z,"29 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.14,6,automatic,nn,nn
 2023-10-16T20:43:56.580Z,19.344165802002,-155.304168701172,2.89000010490417,1.88,ml,28,86,,0.209999993,hv,hv73610677,2023-10-16T20:49:28.960Z,"13 km SW of Volcano, Hawaii",earthquake,0.46,0.800000012,0.2,10,automatic,hv,hv
 2023-10-16T20:35:42.090Z,19.257833480835,-155.389999389648,31.8199996948242,1.82,ml,48,131,,0.140000001,hv,hv73610657,2023-10-16T20:41:13.450Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.51,0.699999988,3.42,9,automatic,hv,hv
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T19:42:31.781Z,37.9666,-117.9123,3.1,1.4,ml,6,117.04,0.195,0.0978,nn,nn00867436,2023-10-16T19:55:51.905Z,"33 km NW of Silver Peak, Nevada",earthquake,,18.1,0.14,3,reviewed,nn,nn
 2023-10-16T19:42:24.700Z,35.1648333,-118.6281667,8,1.28,ml,25,66,0.08265,0.15,ci,ci40583168,2023-10-16T20:22:08.569Z,"17 km WNW of Tehachapi, CA",earthquake,0.19,0.87,0.164,12,reviewed,ci,ci
 2023-10-16T19:32:52.120Z,19.343334197998,-155.298004150391,2.79999995231628,1.86000001,md,21,118,,0.140000001,hv,hv73610602,2023-10-16T19:36:00.740Z,"12 km SSW of Volcano, Hawaii",earthquake,0.32,0.560000002,0.939999998,16,automatic,hv,hv
-2023-10-16T19:30:40.770Z,38.6878319,-122.4986649,7.41,1.56,md,13,110,0.09568,0.07,nc,nc73948035,2023-10-16T20:06:36.833Z,"12 km SE of Middletown, CA",earthquake,0.4,1.5,0.15,14,automatic,nc,nc
+2023-10-16T19:30:40.780Z,38.6868333,-122.501,6.47,1.42,md,49,51,0.0938,0.09,nc,nc73948035,2023-10-16T21:58:17.755Z,"12 km SE of Middletown, CA",earthquake,0.13,0.52,0.18,41,reviewed,nc,nc
 2023-10-16T19:30:39.040Z,37.6413333,-119.0308333,-2.05,0.34,md,8,81,0.002086,0.05,nc,nc73948040,2023-10-16T21:27:12.263Z,"5 km W of Mammoth Lakes, CA",earthquake,0.41,0.73,0.151,6,reviewed,nc,nc
 2023-10-16T19:30:22.540Z,32.6098333,-116.9741667,4.13,1.34,ml,22,108,0.03718,0.19,ci,ci40583144,2023-10-16T20:49:28.917Z,"7 km ESE of Chula Vista, CA",quarry blast,0.57,0.69,0.127,12,reviewed,ci,ci
 2023-10-16T19:28:43.080Z,35.907,-117.752,8.59,0.84,ml,10,113,0.06806,0.12,ci,ci40583136,2023-10-16T19:59:51.943Z,"14 km ESE of Little Lake, CA",earthquake,0.32,0.63,0.075,7,reviewed,ci,ci
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T10:46:59.140Z,19.3514995574951,-155.297332763672,0.980000019073486,1.80999994,md,13,135,,0.119999997,hv,hv73610282,2023-10-16T10:50:11.910Z,"12 km SSW of Volcano, Hawaii",earthquake,0.27,0.5,0.300000012,9,automatic,hv,hv
 2023-10-16T10:44:00.373Z,51.7033,176.6438,36.4,3.6,ml,,,,0.78,ak,ak023da4j2g0,2023-10-16T13:46:01.602Z,"268 km ESE of Attu Station, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-10-16T10:42:12.858Z,25.1583,125.5423,27.852,5.7,mww,99,32,1.419,1.09,us,us6000lfvj,2023-10-16T12:20:44.040Z,"46 km NNE of Hirara, Japan",earthquake,6.65,4.686,0.047,44,reviewed,us,us
-2023-10-16T10:31:25.060Z,40.756,-124.5208333,23.63,4.02,mw,75,204,0.2389,0.17,nc,nc73947835,2023-10-16T21:42:55.122Z,"28 km W of Humboldt Hill, CA",earthquake,0.44,0.74,,3,reviewed,nc,nc
+2023-10-16T10:31:25.060Z,40.756,-124.5208333,23.63,4.02,mw,75,204,0.2389,0.17,nc,nc73947835,2023-10-16T21:53:00.037Z,"28 km W of Humboldt Hill, CA",earthquake,0.44,0.74,,3,reviewed,nc,nc
 2023-10-16T10:23:41.360Z,40.3414993,-124.0439987,28.56,2.4,md,7,216,0.1222,0.04,nc,nc73947820,2023-10-16T13:02:11.451Z,"18 km SSE of Rio Dell, CA",earthquake,1.15,3.15,0.16,3,automatic,nc,nc
 2023-10-16T10:20:54.380Z,63.2918,-151.0674,3.9,2.1,ml,,,,0.87,ak,ak023da4e1a6,2023-10-16T10:23:18.414Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-16T21:47:42.076Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T22:10:58.248Z,61.9681,-149.4353,38.7,1.5,ml,,,,0.93,ak,ak023d8nxr6o,2023-10-15T22:12:46.619Z,"27 km NNW of Fishhook, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-15T22:07:48.083Z,-6.1592,130.3721,158.06,4.4,mb,32,96,1.691,0.56,us,us6000lfsm,2023-10-15T22:23:48.040Z,"270 km WSW of Tual, Indonesia",earthquake,9.78,7.748,0.112,23,reviewed,us,us
 2023-10-15T22:01:28.027Z,60.7234,-152.8467,126.8,2.1,ml,,,,0.47,ak,ak023d8nvrdw,2023-10-15T22:08:45.040Z,"84 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-15T21:57:41.273Z,62.1746,-147.3971,32.3,1.5,ml,,,,0.73,ak,ak023d8nmcxb,2023-10-15T21:59:43.771Z,"28 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-15T21:54:38.820Z,18.5906666666667,-66.4938333333333,13.06,2.98,md,19,216,0.1179,0.15,pr,pr71428708,2023-10-15T22:36:41.162Z,"Puerto Rico region",earthquake,0.43,0.46,0.0555248252868956,8,reviewed,pr,pr
