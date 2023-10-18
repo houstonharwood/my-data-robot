@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T07:22:00.922Z,59.8403,-152.8845,102.2,2.4,ml,,,,0.47,ak,ak023dddoqrg,2023-10-18T07:24:32.873Z,"59 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-18T07:19:53.181Z,38.1329,-118.0261,0.8,1.2,ml,15,110.81,0.074,0.2254,nn,nn00867555,2023-10-18T07:22:21.896Z,"29 km SSE of Mina, Nevada",earthquake,,2.1,0.86,8,automatic,nn,nn
 2023-10-18T07:08:32.480Z,38.8366661,-122.7923355,2.3,1.34,md,15,52,0.002334,0.01,nc,nc73948535,2023-10-18T07:19:11.339Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.65,0.16,15,automatic,nc,nc
 2023-10-18T06:57:16.300Z,36.4901666666667,-89.5536666666667,9.12,2.56,md,49,25,0.04964,0.12,nm,nm60555826,2023-10-18T07:17:24.830Z,"6 km ESE of Marston, Missouri",earthquake,0.19,0.41,0.147003116050442,43,reviewed,nm,nm
 2023-10-18T06:54:54.170Z,38.7941666,-122.8040009,3.32,0.67,md,14,102,0.01261,0.02,nc,nc73948520,2023-10-18T07:17:15.211Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.96,0.37,15,automatic,nc,nc
@@ -192,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T08:57:28.560Z,18.366,-66.8331666666667,18.83,2.39,md,11,156,0.1531,0.1,pr,pr71428953,2023-10-17T09:35:33.800Z,"1 km N of Quebrada, Puerto Rico",earthquake,0.49,0.41,0.0681376913646363,9,reviewed,pr,pr
 2023-10-17T08:56:15.720Z,37.5643333,-118.8383333,7.97,0.59,md,16,272,0.02668,0.02,nc,nc73948175,2023-10-17T19:06:11.053Z,"14 km W of Toms Place, CA",earthquake,1.61,1.97,0.167,16,reviewed,nc,nc
 2023-10-17T08:37:43.890Z,18.5731666666667,-66.735,23.1,2.74,md,9,255,0.2171,0.2,pr,pr71428948,2023-10-17T08:55:46.380Z,"11 km N of Arecibo, Puerto Rico",earthquake,1.06,2.38,0.110146256125702,8,reviewed,pr,pr
-2023-10-17T08:29:48.590Z,33.0058333,-117.9086667,0.75,2.98,ml,47,132,0.4699,0.29,ci,ci40583304,2023-10-18T02:50:45.049Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.1,0.141,101,reviewed,ci,ci
+2023-10-17T08:29:48.590Z,33.0058333,-117.9086667,0.75,2.98,ml,47,132,0.4699,0.29,ci,ci40583304,2023-10-18T07:26:36.040Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.1,0.141,101,reviewed,ci,ci
 2023-10-17T08:22:11.744Z,27.6888,56.0903,10,5.3,mb,96,45,2.734,0.87,us,us6000lg3n,2023-10-17T12:04:36.656Z,"58 km NNW of Bandar Abbas, Iran",earthquake,7.75,1.846,0.047,152,reviewed,us,us
 2023-10-17T08:15:49.360Z,17.9105,-66.8406666666667,12.5,2.27,md,11,228,0.07397,0.17,pr,pr71428943,2023-10-17T08:28:10.390Z,"9 km SE of Maria Antonia, Puerto Rico",earthquake,0.93,0.61,0.064872921941201,7,reviewed,pr,pr
 2023-10-17T08:14:40.370Z,17.9323333333333,-66.8358333333333,11.24,2.47,md,9,218,0.05928,0.08,pr,pr71428933,2023-10-17T08:22:59.210Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.58,0.47,0.0487741867652258,7,reviewed,pr,pr
@@ -203,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T07:41:56.100Z,34.1428333,-117.4216667,6.62,1.3,ml,64,35,0.04543,0.2,ci,ci40583296,2023-10-17T15:28:28.950Z,"6 km NE of Fontana, CA",earthquake,0.16,0.45,0.269,22,reviewed,ci,ci
 2023-10-17T07:40:36.920Z,34.1295,-118.504,6.84,1.97,ml,65,49,0.03891,0.2,ci,ci40583288,2023-10-17T15:51:31.745Z,"3 km S of Encino, CA",earthquake,0.2,0.45,0.164,21,reviewed,ci,ci
 2023-10-17T07:27:51.210Z,38.7958336,-122.7656631,3.73,0.79,md,11,85,0.006672,0.02,nc,nc73948170,2023-10-17T08:06:13.913Z,"2 km NNW of The Geysers, CA",earthquake,0.45,0.93,0.15,14,automatic,nc,nc
-2023-10-17T07:25:07.710Z,35.621,-117.4673333,9.39,2.01,ml,35,54,0.05657,0.17,ci,ci40583280,2023-10-17T14:42:20.960Z,"17 km SSW of Searles Valley, CA",earthquake,0.19,0.43,0.134,22,reviewed,ci,ci
