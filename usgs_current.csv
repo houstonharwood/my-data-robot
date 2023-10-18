@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-18T13:44:32.330Z,33.4700012,-116.4585037,14.58,1.26,ml,27,114,0.1226,0.19,ci,ci40583768,2023-10-18T13:46:37.499Z,"22 km ESE of Anza, CA",earthquake,0.49,0.79,0.081,4,automatic,ci,ci
+2023-10-18T13:44:32.440Z,33.4698333,-116.4598333,13.1,1,ml,25,75,0.06056,0.2,ci,ci40583768,2023-10-18T13:48:06.211Z,"22 km ESE of Anza, CA",earthquake,0.31,0.74,0.144,22,automatic,ci,ci
 2023-10-18T13:16:35.980Z,46.5465,-122.394,18.54,1.1400000000000001,ml,38,63,0.12,0.14,uw,uw61957822,2023-10-18T13:45:27.610Z,"Washington",earthquake,0.28,0.77,0.07245303688817772,16,reviewed,uw,uw
 2023-10-18T13:08:07.910Z,40.3218346,-124.1159973,35.95,1.83,md,11,87,0.0133,0.06,nc,nc73948630,2023-10-18T13:28:13.397Z,"14 km E of Petrolia, CA",earthquake,1.22,3.45,0.16,5,automatic,nc,nc
-2023-10-18T12:57:12.993Z,61.4311,-150.6382,59.4,3,ml,,,,0.48,ak,ak023ddgvfs3,2023-10-18T13:02:41.254Z,"14 km SSW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-10-18T12:57:12.993Z,61.4311,-150.6382,59.4,3,ml,,,,0.48,ak,ak023ddgvfs3,2023-10-18T13:52:29.486Z,"14 km SSW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-18T12:55:25.181Z,38.2073,27.6588,9.688,4.2,mwr,25,48,0.573,0.7,us,us6000lgcm,2023-10-18T13:07:54.040Z,"1 km SE of Bayındır, Turkey",earthquake,4.82,6.615,0.071,19,reviewed,us,us
 2023-10-18T12:51:50.210Z,19.367000579834,-155.289169311523,1.30999994277954,1.77999997,md,19,110,,0.209999993,hv,hv73613307,2023-10-18T12:55:02.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.340000004,0.75,12,automatic,hv,hv
 2023-10-18T12:44:05.530Z,19.363166809082,-155.276672363281,2.45000004768372,1.73,ml,22,123,,0.180000007,hv,hv73613292,2023-10-18T12:49:37.860Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.349999994,2.15,9,automatic,hv,hv
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T10:29:29.719Z,-55.3107,-128.4661,10,5.5,mww,54,103,30.304,0.48,us,us6000lgca,2023-10-18T12:33:40.681Z,"Pacific-Antarctic Ridge",earthquake,14.25,1.902,0.086,13,reviewed,us,us
 2023-10-18T10:19:00.270Z,40.5031662,-124.4680023,23.53,2.38,md,22,261,0.1033,0.1,nc,nc73948600,2023-10-18T11:07:16.571Z,"19 km WSW of Ferndale, CA",earthquake,2.09,0.69,0.14,11,automatic,nc,nc
 2023-10-18T10:17:10.316Z,61.8133,-150.7389,52.3,1.5,ml,,,,0.52,ak,ak023ddffzpz,2023-10-18T10:19:00.739Z,"32 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-10-18T10:16:23.140Z,37.4853325,-118.8368301,5.12,1.26,md,17,230,0.1047,0.03,nc,nc73948595,2023-10-18T13:40:11.458Z,"16 km WSW of Toms Place, CA",earthquake,0.81,2.05,0.15,16,automatic,nc,nc
+2023-10-18T10:16:23.140Z,37.4853325,-118.8368301,5.12,1.26,md,17,230,0.1047,0.03,nc,nc73948595,2023-10-18T13:48:13.489Z,"16 km WSW of Toms Place, CA",earthquake,0.81,2.05,0.15,16,automatic,nc,nc
 2023-10-18T10:12:19.601Z,39.6329,-119.649,10.4,2,ml,15,75.7,0.19,0.205,nn,nn00867558,2023-10-18T10:14:53.728Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,0.8,0.41,10,automatic,nn,nn
 2023-10-18T10:09:16.540Z,38.7876663,-122.7365036,1.59,2.12,md,35,54,0.02228,0.07,nc,nc73948585,2023-10-18T13:04:13.279Z,"2 km NE of The Geysers, CA",earthquake,0.23,0.37,0.15,34,automatic,nc,nc
 2023-10-18T10:05:23.140Z,31.675,-104.371,5.3603,3.1,ml(texnet),19,72,0,0.2,tx,tx2023ukqa,2023-10-18T10:15:24.940Z,"western Texas",earthquake,0.8769904306,1.157664523,0.1,11,reviewed,tx,tx
@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T08:37:44.574Z,57.939,-154.7972,59.4,1.6,ml,,,,0.18,ak,ak023ddedhh5,2023-10-18T08:39:49.200Z,"Kodiak Island region, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-18T08:30:52.447Z,62.9243,-151.0584,1.1,2,ml,,,,0.79,ak,ak023ddebzdg,2023-10-18T08:39:43.475Z,"49 km NNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-18T08:21:07.320Z,38.8221664,-122.7639999,2.01,0.29,md,8,121,0.009492,0.01,nc,nc73948550,2023-10-18T10:43:15.562Z,"4 km W of Cobb, CA",earthquake,0.51,1.11,0.09,8,automatic,nc,nc
+2023-10-18T08:20:06.320Z,44.6808333333333,-111.904,11.35,1.16,ml,12,89,0.1769,0.16,mb,mb90030298,2023-10-18T13:52:15.670Z,"42 km NNE of Spencer, Idaho",earthquake,0.54,1.13,0.0801253890894128,12,reviewed,mb,mb
 2023-10-18T08:11:28.828Z,13.3849,146.2326,10,5.2,mb,70,61,1.343,0.9,us,us6000lgbq,2023-10-18T12:21:41.557Z,"146 km E of Yigo Village, Guam",earthquake,7.23,1.768,0.065,78,reviewed,us,us
 2023-10-18T08:06:18.298Z,31.67,-104.326,7.0571,2.1,ml(texnet),31,67,0.1,0.2,tx,tx2023ukly,2023-10-18T10:42:13.370Z,"56 km S of Whites City, New Mexico",earthquake,0.643630003,0.7673728787,0.2,24,reviewed,tx,tx
 2023-10-18T08:00:30.408Z,62.2706,-152.0597,249.9,2.5,ml,,,,0.78,ak,ak023dde5l0z,2023-10-18T08:20:41.609Z,"46 km NW of Skwentna, Alaska",earthquake,,9.5,,,automatic,ak,ak
