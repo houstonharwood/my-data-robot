@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-19T11:29:02.694Z,62.4697,-151.2201,80.5,1.9,ml,,,,0.81,ak,ak023df3nbtp,2023-10-19T11:30:48.947Z,"23 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-19T10:56:41.285Z,39.624,-119.6308,6.7,1.8,ml,14,73.36,0.196,0.1908,nn,nn00867603,2023-10-19T10:59:22.050Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.31,9,automatic,nn,nn
 2023-10-19T10:29:51.906Z,58.1817,-155.2833,0,2.4,ml,,,,0.62,ak,ak023df31zwe,2023-10-19T10:33:15.063Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-19T10:25:12.900Z,33.3626667,-117.5443333,16.75,0.74,ml,15,172,0.1521,0.25,ci,ci40584152,2023-10-19T10:28:45.953Z,"10 km SE of San Clemente, CA",earthquake,0.78,1.55,0.084,6,automatic,ci,ci
@@ -29,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T07:30:10.056Z,39.6322,-119.6435,8,1.9,ml,14,75.55,0.193,0.2415,nn,nn00867594,2023-10-19T07:56:54.192Z,"Nevada",earthquake,,1.4,0.27,7,automatic,nn,nn
 2023-10-19T07:12:13.988Z,42.4638,49.3405,10,4.5,mb,58,74,2.731,0.73,us,us6000lgix,2023-10-19T07:49:06.040Z,"97 km ENE of Derbent, Russia",earthquake,8.1,1.926,0.076,68,reviewed,us,us
 2023-10-19T07:09:56.430Z,38.8079987,-122.7926636,2.13,0.99,md,12,69,0.002062,0.01,nc,nc73948865,2023-10-19T07:24:14.670Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.64,0.24,15,automatic,nc,nc
+2023-10-19T07:03:50.813Z,31.616,-104.504,8.4967,2.4,ml(texnet),45,72,0.1,0.2,tx,tx2023umfj,2023-10-19T11:29:03.489Z,"western Texas",earthquake,1.1820539,0.7110473316,0.1,33,reviewed,tx,tx
 2023-10-19T06:58:56.500Z,35.6693333,-117.5148333,2.57,0.97,ml,12,130,0.07432,0.19,ci,ci40584128,2023-10-19T07:02:30.169Z,"15 km SW of Searles Valley, CA",earthquake,0.44,0.83,0.136,7,automatic,ci,ci
 2023-10-19T06:49:00.985Z,65.183,-147.7538,0.1,1.3,ml,,,,1.09,ak,ak023df0sgg1,2023-10-19T07:01:38.849Z,"25 km NNW of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-19T06:43:31.720Z,19.2320003509521,-155.380004882812,32.5499992370605,1.93,ml,46,149,,0.119999997,hv,hv73614062,2023-10-19T06:49:01.680Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.52,0.600000024,3.88,3,automatic,hv,hv
@@ -118,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T17:13:46.070Z,19.286,-155.3795,2.91,1.09,md,40,119,,0.1,hv,hv73613512,2023-10-18T19:50:33.710Z,"13 km NE of Pāhala, Hawaii",earthquake,0.26,0.68,0.11455868784886,5,reviewed,hv,hv
 2023-10-18T16:50:40.270Z,19.3903333333333,-155.244333333333,1.55,2.55,ml,32,101,,0.1,hv,hv73613497,2023-10-19T00:09:32.394Z,"5 km S of Volcano, Hawaii",earthquake,0.2,0.13,0.179730332850677,11,reviewed,hv,hv
 2023-10-18T16:49:31.657Z,-11.7451,166.4688,161.606,4.9,mb,62,74,6.808,0.6,us,us6000lgel,2023-10-18T17:05:57.040Z,"134 km SSE of Lata, Solomon Islands",earthquake,10.73,7.449,0.071,62,reviewed,us,us
-2023-10-18T16:29:14.990Z,38.127,-121.6428333,8.46,4.24,mw,157,20,0.04364,0.41,nc,nc73948665,2023-10-19T10:57:08.257Z,"5 km SW of Isleton, CA",earthquake,0.26,1.05,,4,reviewed,nc,nc
+2023-10-18T16:29:14.990Z,38.127,-121.6428333,8.46,4.24,mw,157,20,0.04364,0.41,nc,nc73948665,2023-10-19T11:27:11.123Z,"5 km SW of Isleton, CA",earthquake,0.26,1.05,,4,reviewed,nc,nc
 2023-10-18T16:27:36.202Z,42.8638,144.9372,70.986,4.4,mb,30,148,1.567,0.8,us,us6000lgej,2023-10-18T21:39:13.040Z,"20 km SSE of Akkeshi, Japan",earthquake,8.3,6.158,0.13,17,reviewed,us,us
 2023-10-18T16:19:13.100Z,44.7403333,-111.1811667,14.14,0.29,md,13,117,0.01498,0.17,uu,uu60552497,2023-10-18T16:50:40.280Z,"3 km SSE of Hebgen Lake Estates, Montana",earthquake,0.7,1.41,0.277,9,reviewed,uu,uu
 2023-10-18T16:18:49.364Z,29.6752,81.256,10,4.4,mb,22,116,7.876,0.78,us,us6000lgeh,2023-10-18T22:12:57.040Z,"55 km NE of Dipayal, Nepal",earthquake,7.86,1.937,0.204,7,reviewed,us,us
