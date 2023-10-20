@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T17:33:45.520Z,33.4993333,-116.581,10.33,1.68,ml,47,60,0.01831,0.2,ci,ci40584632,2023-10-20T17:37:29.066Z,"11 km SE of Anza, CA",earthquake,0.23,0.38,0.149,27,automatic,ci,ci
 2023-10-20T17:31:24.928Z,37.8817,-115.9779,8.5,0.6,ml,9,263.76,0.687,0.4097,nn,nn00867671,2023-10-20T17:33:48.590Z,"33 km NW of Rachel, Nevada",earthquake,,2.3,0.93,3,automatic,nn,nn
 2023-10-20T17:30:22.174Z,61.8438,-149.6906,43.3,1.3,ml,,,,0.52,ak,ak023dgurj61,2023-10-20T17:32:02.952Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-10-20T17:20:04.450Z,36.0323334,-120.609169,-0.75,1.4,md,9,122,0.03789,0.08,nc,nc73949410,2023-10-20T17:21:41.649Z,"22 km NW of Parkfield, CA",earthquake,1.13,5.62,0.12,3,automatic,nc,nc
+2023-10-20T17:20:04.450Z,36.0323334,-120.609169,-0.75,1.4,md,9,122,0.03789,0.08,nc,nc73949410,2023-10-20T17:40:10.573Z,"22 km NW of Parkfield, CA",earthquake,1.13,5.62,0.12,3,automatic,nc,nc
 2023-10-20T17:19:35.830Z,38.8326683,-122.8136673,1.87,0.71,md,11,77,0.009676,0.01,nc,nc73949405,2023-10-20T17:30:11.520Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.84,0.1,11,automatic,nc,nc
 2023-10-20T17:12:08.568Z,58.2666,-154.9868,4.4,0.1,ml,,,,0.56,ak,ak023dgunn91,2023-10-20T17:14:46.754Z,"83 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-20T16:56:52.068Z,-22.1277,-67.3442,175.293,4.6,mb,40,34,1.126,1.12,us,us6000lgz3,2023-10-20T17:15:48.040Z,"123 km NE of San Pedro de Atacama, Chile",earthquake,7.05,6.733,0.071,59,reviewed,us,us
@@ -27,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T14:01:50.570Z,38.7808342,-122.7563324,1.03,1.13,md,8,116,0.01551,0.01,nc,nc73949320,2023-10-20T15:12:13.716Z,"0 km N of The Geysers, CA",earthquake,0.32,0.7,0.18,9,automatic,nc,nc
 2023-10-20T14:01:09.718Z,63.1185,-150.9026,103.3,1.9,ml,,,,0.72,ak,ak023dgsszmj,2023-10-20T14:03:24.811Z,"62 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-20T13:47:54.920Z,47.61233333333333,-121.73066666666666,14.39,2.66,ml,66,57,0.08549,0.17,uw,uw61958152,2023-10-20T17:05:09.442Z,"Washington",earthquake,0.22,0.41,0.2049804805807074,114,reviewed,uw,uw
+2023-10-20T13:18:56.960Z,46.196333333333335,-122.1905,7.41,0.9400000000000001,ml,27,56,0.003456,0.17,uw,uw61958107,2023-10-20T17:36:34.470Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.43,0.16352159358493834,17,reviewed,uw,uw
 2023-10-20T13:07:02.209Z,2.1069,127.8122,228.264,4.6,mb,40,81,1.399,0.98,us,us6000lgw8,2023-10-20T13:57:35.040Z,"47 km NNW of Tobelo, Indonesia",earthquake,10.71,6.879,0.068,64,reviewed,us,us
 2023-10-20T13:06:35.200Z,38.8051682,-122.8051682,1.64,0.75,md,7,108,0.008199,0.01,nc,nc73949315,2023-10-20T13:39:12.160Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.93,0.26,9,automatic,nc,nc
 2023-10-20T12:54:40.680Z,38.7758331,-122.7174988,0.83,0.97,md,7,97,0.01534,0.02,nc,nc73949305,2023-10-20T14:42:12.535Z,"2 km W of Anderson Springs, CA",earthquake,0.84,1.53,0.22,7,automatic,nc,nc
@@ -198,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T17:56:29.140Z,38.8305016,-122.817337,1.85,0.95,md,7,80,0.009085,0.01,nc,nc73949045,2023-10-19T18:11:14.526Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.21,0.78,8,automatic,nc,nc
 2023-10-19T17:53:10.285Z,54.0283,-163.5293,35,3.6,ml,17,206,0.63,0.8,us,us6000lgp8,2023-10-19T18:49:43.040Z,"92 km S of False Pass, Alaska",earthquake,2.1,2.012,0.081,20,reviewed,us,us
 2023-10-19T17:51:03.849Z,62.5657,-150.7814,70.8,1.4,ml,,,,0.73,ak,ak023df7cnao,2023-10-19T17:52:49.243Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-19T17:37:20.675Z,68.2271,-136.691,27.4,3.3,ml,,,,1.31,ak,ak023df79okp,2023-10-19T18:34:52.203Z,"123 km W of Inuvik, Canada",earthquake,,1,,,reviewed,ak,ak
