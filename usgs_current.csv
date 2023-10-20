@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-20T18:17:12.000Z,34.0201667,-117.199,13.94,1.11,ml,23,44,0.12,0.18,ci,ci40584656,2023-10-20T18:20:57.268Z,"4 km SSW of Redlands, CA",earthquake,0.32,1.05,0.197,20,automatic,ci,ci
+2023-10-20T18:06:41.439Z,35.32483333,-97.94916667,6.5,1.45,ml,45,66,0.07108605049,0.3,ok,ok2023uowt,2023-10-20T18:28:25.900Z,"1 km NNW of Minco, Oklahoma",earthquake,,0.6,0.2,18,reviewed,ok,ok
 2023-10-20T18:05:30.379Z,35.3275,-97.94733333,6.09,1.43,ml,57,57,0.0674867568,0.4,ok,ok2023uows,2023-10-20T18:18:47.345Z,"1 km N of Minco, Oklahoma",earthquake,,1,0.25,29,reviewed,ok,ok
+2023-10-20T18:01:37.899Z,-0.6397,98.517,22.226,4.9,mb,61,147,2.148,0.74,us,us6000lgzn,2023-10-20T18:25:53.040Z,"Kepulauan Batu, Indonesia",earthquake,6.02,3.759,0.079,50,reviewed,us,us
 2023-10-20T17:57:02.240Z,17.9231666666667,-66.9448333333333,10.09,2.03,md,5,228,0.08099,0.05,pr,pr71429328,2023-10-20T18:22:36.580Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.95,0.79,0.107185029675998,4,reviewed,pr,pr
 2023-10-20T17:45:10.110Z,33.5168333,-116.5756667,9.14,0.97,ml,22,97,0.03129,0.23,ci,ci40584640,2023-10-20T17:48:50.523Z,"10 km ESE of Anza, CA",earthquake,0.44,0.7,0.181,20,automatic,ci,ci
 2023-10-20T17:41:51.756Z,64.7809,-148.9991,13.5,1.5,ml,,,,0.46,ak,ak023dgutybr,2023-10-20T17:43:22.813Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -14,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T16:56:15.560Z,17.9285,-66.9458333333333,10.29,2.21,md,6,224,0.07849,0.08,pr,pr71429323,2023-10-20T17:30:29.820Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.68,0.63,0.0698669855390894,4,reviewed,pr,pr
 2023-10-20T16:55:29.969Z,32.5497,137.8991,348.92,4.4,mb,69,89,1.708,0.73,us,us6000lgz4,2023-10-20T17:08:55.040Z,"221 km SSE of Shima, Japan",earthquake,3.26,7.393,0.067,63,reviewed,us,us
 2023-10-20T16:52:02.161Z,57.9358,-155.231,88.6,2,ml,,,,0.25,ak,ak023dguarrs,2023-10-20T16:53:43.571Z,"61 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-20T16:48:47.500Z,38.8353348,-122.8085022,2.21,1.17,md,23,51,0.01199,0.01,nc,nc73949400,2023-10-20T18:19:10.780Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.45,0.22,23,automatic,nc,nc
+2023-10-20T16:48:47.500Z,38.8353348,-122.8085022,2.21,1.17,md,23,51,0.01199,0.01,nc,nc73949400,2023-10-20T18:28:13.832Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.45,0.22,23,automatic,nc,nc
 2023-10-20T16:43:17.850Z,38.8214989,-122.7845001,1.93,0.9,md,9,100,0.008751,0.02,nc,nc73949390,2023-10-20T17:01:13.352Z,"5 km W of Cobb, CA",earthquake,0.39,0.62,0.23,12,automatic,nc,nc
 2023-10-20T16:16:59.960Z,38.8323326,-122.80867,2.56,0.96,md,10,94,0.008992,0.01,nc,nc73949385,2023-10-20T17:45:14.722Z,"8 km W of Cobb, CA",earthquake,0.4,1.15,0.26,11,automatic,nc,nc
 2023-10-20T16:14:31.160Z,35.7976667,-118.3018333,3.3,1.09,ml,25,59,0.1098,0.14,ci,ci40584608,2023-10-20T16:45:13.777Z,"12 km ENE of Kernville, CA",earthquake,0.16,0.58,0.129,12,reviewed,ci,ci
@@ -200,7 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T18:45:22.440Z,18.1533333333333,-66.406,8.45,1.49,md,9,84,0.08355,0.13,pr,pr71429263,2023-10-19T19:01:06.780Z,"8 km S of Orocovis, Puerto Rico",earthquake,0.33,1.19,0.128864521329826,3,reviewed,pr,pr
 2023-10-19T18:40:28.770Z,57.0928333333333,-135.688666666667,6.63,0.51,ml,5,219,,0.14,av,av91118713,2023-10-19T23:36:19.550Z,"22 km WNW of Sitka, Alaska",earthquake,1.17,0.75,0.26362413310454,5,reviewed,av,av
 2023-10-19T18:33:19.660Z,58.1603333333333,-155.321166666667,2.56,0.5,ml,11,68,,0.09,av,av92088286,2023-10-19T23:15:45.736Z,"Alaska Peninsula",earthquake,0.21,0.43,0.340222329663273,11,reviewed,av,av
-2023-10-19T18:29:59.149Z,61.4002,-151.5969,77.8,1.4,ml,,,,0.18,ak,ak023df7tft2,2023-10-19T18:32:43.637Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-19T18:26:45.359Z,34.34783333,-96.785,0,1.27,ml,26,136,0.2195569154,0.47,ok,ok2023unbx,2023-10-20T16:15:45.424Z,"7 km SSE of Mill Creek, Oklahoma",quarry blast,,0.9,0.17,11,reviewed,ok,ok
-2023-10-19T18:26:06.840Z,53.907,-166.870666666667,3.87,0.49,ml,6,140,,0.09,av,av91118708,2023-10-19T23:26:30.610Z,"21 km W of Dutch Harbor, Alaska",earthquake,0.33,1.03,0.35103871892657,6,reviewed,av,av
-2023-10-19T18:25:51.090Z,53.9098333333333,-166.878833333333,6.62,0.58,ml,6,148,,0.17,av,av92088271,2023-10-19T23:24:25.000Z,"22 km W of Dutch Harbor, Alaska",earthquake,0.49,1.13,0.215823961455461,6,reviewed,av,av
