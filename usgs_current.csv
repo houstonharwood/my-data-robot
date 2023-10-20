@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T19:40:06.940Z,38.8378334,-122.8356705,1.78,0.74,md,6,106,0.000768,0.01,nc,nc73949440,2023-10-20T19:41:40.574Z,"10 km NW of The Geysers, CA",earthquake,0.42,1.02,0.47,8,automatic,nc,nc
 2023-10-20T19:37:44.930Z,38.8283348,-122.8554993,2.33,0.77,md,18,61,0.001332,0.02,nc,nc73949435,2023-10-20T19:39:20.799Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.17,18,automatic,nc,nc
 2023-10-20T19:36:47.290Z,38.796833,-122.7496643,1.3,1.35,md,19,95,0.008717,0.03,nc,nc73949430,2023-10-20T19:38:25.878Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.42,0.14,20,automatic,nc,nc
+2023-10-20T19:34:02.111Z,-5.4912,150.2567,124.504,4.9,mb,42,82,2.298,0.76,us,us6000lh06,2023-10-20T19:48:04.040Z,"14 km ENE of Kimbe, Papua New Guinea",earthquake,10.89,7.699,0.102,30,reviewed,us,us
 2023-10-20T19:31:18.873Z,39.6205,-119.6508,4.2,1.3,ml,8,94.79,0.223,0.1031,nn,nn00867680,2023-10-20T19:33:19.855Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,4.2,0.37,5,automatic,nn,nn
 2023-10-20T19:29:01.373Z,62.3003,-148.6938,36.2,1.9,ml,,,,0.36,ak,ak023dgvy521,2023-10-20T19:30:31.632Z,"57 km NNW of Chickaloon, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-10-20T19:20:49.915Z,60.8525,-151.8729,80.8,1.2,ml,,,,0.29,ak,ak023dgvwbcv,2023-10-20T19:23:03.804Z,"Kenai Peninsula, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -111,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T05:46:51.650Z,36.519001,-120.5678329,5.84,2.07,md,32,169,0.2445,0.14,nc,nc73949230,2023-10-20T07:59:19.132Z,"15 km NE of New Idria, CA",earthquake,0.38,0.96,0.1,18,automatic,nc,nc
 2023-10-20T05:35:27.200Z,44.2063333333333,-115.111333333333,5.99,1.99,ml,11,73,0.2152,0.2,mb,mb90030508,2023-10-20T14:49:14.930Z,"13 km W of Stanley, Idaho",earthquake,0.41,2.89,0.263809365105919,13,reviewed,mb,mb
 2023-10-20T05:34:08.200Z,44.2216666666667,-115.111333333333,7.65,2.43,ml,17,71,0.2227,0.14,mb,mb90030488,2023-10-20T14:12:01.490Z,"13 km W of Stanley, Idaho",earthquake,0.36,0.67,0.271270842209018,26,reviewed,mb,mb
-2023-10-20T05:34:01.780Z,39.4878333,-123.3031667,8.65,1.68,md,20,57,0.03252,0.08,nc,nc73949220,2023-10-20T19:11:12.113Z,"9 km NE of Brooktrails, CA",earthquake,0.24,0.42,0.238,19,reviewed,nc,nc
+2023-10-20T05:34:01.780Z,39.4878333,-123.3031667,8.65,1.68,md,20,57,0.03252,0.08,nc,nc73949220,2023-10-20T19:44:13.318Z,"9 km NE of Brooktrails, CA",earthquake,0.24,0.42,0.238,19,reviewed,nc,nc
 2023-10-20T05:30:19.730Z,38.6930008,-122.5111694,0.92,1.96,md,29,52,,0.18,nc,nc73949215,2023-10-20T17:17:07.252Z,"11 km SE of Middletown, CA",earthquake,0.38,3.75,0.13,29,automatic,nc,nc
 2023-10-20T05:23:36.560Z,17.9295,-66.945,9.63,2.26,md,7,223,0.07726,0.08,pr,pr71429303,2023-10-20T05:34:41.170Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.94,0.64,0.0888383968048219,3,reviewed,pr,pr
 2023-10-20T05:15:22.040Z,19.0270004272461,-155.40983581543,33.6699981689453,1.82000005,md,30,215,,0.140000001,hv,hv73614662,2023-10-20T05:18:42.190Z,"Island of Hawaii, Hawaii",earthquake,0.69,1.10000002,1.91999996,4,automatic,hv,hv
@@ -213,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T20:00:24.890Z,61.0377,-148.4177,0.9,1.8,ml,,,,0.58,ak,ak023df8u27t,2023-10-19T20:02:03.587Z,"32 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-19T19:54:43.645Z,39.6212,-119.6384,7.8,1.5,ml,14,95.86,0.133,0.1047,nn,nn00867641,2023-10-20T17:54:41.232Z,"Nevada",earthquake,,1.8,0.22,9,reviewed,nn,nn
 2023-10-19T19:51:35.380Z,34.1623333,-117.9488333,-0.62,1.04,ml,12,88,0.04364,0.32,ci,ci40584384,2023-10-20T18:06:23.365Z,"3 km NE of Bradbury, CA",quarry blast,0.77,31.61,0.126,5,reviewed,ci,ci
-2023-10-19T19:48:08.820Z,19.4723333333333,-155.693166666667,7.63,2.08,ml,32,155,,0.17,hv,hv73614452,2023-10-19T21:34:37.800Z,"Hawaii region, Hawaii",earthquake,0.32,0.48,0.183930343576206,10,reviewed,hv,hv
-2023-10-19T19:47:34.740Z,58.1901666666667,-155.318833333333,1.56,0.39,ml,6,100,,0.03,av,av92088356,2023-10-20T00:30:27.770Z,"86 km NW of Karluk, Alaska",earthquake,0.18,0.54,0.397937156380242,6,reviewed,av,av
-2023-10-19T19:43:10.433Z,65.7735,-150.5187,0.1,1.8,ml,,,,1.84,ak,ak023df8htab,2023-10-19T19:45:36.120Z,"33 km NNW of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
