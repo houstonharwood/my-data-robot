@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-20T13:06:35.200Z,38.8051682,-122.8051682,1.64,0.75,md,7,108,0.008199,0.01,nc,nc73949315,2023-10-20T13:17:12.016Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.93,0.26,9,automatic,nc,nc
+2023-10-20T13:06:35.200Z,38.8051682,-122.8051682,1.64,0.75,md,7,108,0.008199,0.01,nc,nc73949315,2023-10-20T13:39:12.160Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.93,0.26,9,automatic,nc,nc
 2023-10-20T12:54:40.680Z,38.7758331,-122.7174988,0.83,0.97,md,7,97,0.01534,0.02,nc,nc73949305,2023-10-20T13:18:13.022Z,"2 km W of Anderson Springs, CA",earthquake,0.84,1.53,0.22,7,automatic,nc,nc
 2023-10-20T12:54:25.039Z,35.265,-98.026,11.91,1.92,ml,87,39,0.1538698055,0.37,ok,ok2023uomk,2023-10-20T13:13:18.419Z,"Oklahoma",earthquake,,1.4,0.24,40,reviewed,ok,ok
 2023-10-20T12:49:03.611Z,39.2731,-119.6653,0,1.1,ml,9,60.44,0.191,0.3093,nn,nn00867654,2023-10-20T12:51:37.880Z,"4 km SSW of Virginia City, Nevada",earthquake,,10.8,0.44,6,automatic,nn,nn
@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T02:21:57.400Z,36.0491667,-117.8621667,0.83,1.64,ml,17,92,0.06853,0.21,ci,ci40584488,2023-10-20T13:13:23.440Z,"8 km E of Coso Junction, CA",earthquake,0.35,0.6,0.128,14,reviewed,ci,ci
 2023-10-20T02:18:52.420Z,47.672,-120.16083333333333,4.12,2.1,ml,15,72,0.04521,0.08,uw,uw61958082,2023-10-20T13:06:10.797Z,"3 km E of Entiat, Washington",earthquake,0.18,0.54,0.13023487855698546,16,reviewed,uw,uw
 2023-10-20T02:18:16.550Z,35.9038333,-117.7115,5.79,0.78,ml,12,160,0.09744,0.13,ci,ci40584480,2023-10-20T13:13:20.303Z,"18 km ESE of Little Lake, CA",earthquake,0.45,0.97,0.159,6,reviewed,ci,ci
+2023-10-20T02:05:12.339Z,35.503,-98.06016667,7.12,0.92,ml,31,70,0.082783755,0.53,ok,ok2023unra,2023-10-20T13:43:24.527Z,"10 km WSW of El Reno, Oklahoma",earthquake,,1.4,0.28,17,reviewed,ok,ok
 2023-10-20T02:03:19.915Z,-20.4037,-68.9309,114.213,4.5,mb,30,60,0.772,0.71,us,us6000lgse,2023-10-20T04:58:07.306Z,"76 km E of La Tirana, Chile",earthquake,5.91,6.807,0.113,23,reviewed,us,us
 2023-10-20T01:56:34.052Z,61.8351,-154.1733,0,2.4,ml,,,,0.97,ak,ak023dgle70t,2023-10-20T02:33:52.040Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-20T01:23:11.928Z,61.6898,-146.436,32.3,1.3,ml,,,,1.34,ak,ak023dgl72oo,2023-10-20T01:25:27.875Z,"37 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T14:11:22.570Z,45.1376666666667,-111.931166666667,0.29,1.27,ml,11,94,0.123,0.09,mb,mb90030458,2023-10-19T15:22:36.880Z,"17 km S of Virginia City, Montana",earthquake,0.28,1.22,0.207508401693229,10,reviewed,mb,mb
 2023-10-19T14:09:06.860Z,19.1690006256104,-155.495666503906,31.1299991607666,2.04999995,md,39,100,,0.109999999,hv,hv73614272,2023-10-19T14:12:26.210Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.56,0.75999999,1.07000005,11,automatic,hv,hv
 2023-10-19T14:08:24.767Z,-7.8699,107.2083,59.726,5.2,mww,45,89,0.596,1.11,us,us6000lglx,2023-10-20T09:02:22.937Z,"78 km SSW of Banjar, Indonesia",earthquake,6.83,6.007,0.093,11,reviewed,us,us
-2023-10-19T13:43:53.660Z,19.1996669769287,-155.482833862305,35.9000015258789,2.66,ml,52,81,,0.129999995,hv,hv73614262,2023-10-20T01:11:01.049Z,"0 km SW of Pāhala, Hawaii",earthquake,0.47,0.660000026,3.32,31,automatic,hv,hv
