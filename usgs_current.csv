@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-21T02:59:33.530Z,36.187,-89.4506666666667,11.33,3.27,md,50,34,0.04449,0.19,nm,nm60556241,2023-10-21T03:25:11.492Z,"9 km SSE of Ridgely, Tennessee",earthquake,0.26,0.38,0.156149153634409,45,reviewed,nm,nm
+2023-10-21T03:30:11.320Z,38.8391685,-122.8251648,1.59,0.72,md,11,93,0.008082,0.02,nc,nc73949580,2023-10-21T03:31:47.633Z,"9 km WNW of Cobb, CA",earthquake,0.28,0.67,0.17,11,automatic,nc,nc
+2023-10-21T02:59:33.530Z,36.187,-89.4506666666667,11.33,3.27,md,50,34,0.04449,0.19,nm,nm60556241,2023-10-21T03:30:11.823Z,"9 km SSE of Ridgely, Tennessee",earthquake,0.26,0.38,0.156149153634409,45,reviewed,nm,nm
 2023-10-21T02:29:10.467Z,61.7158,-150.7746,64.8,1.3,ml,,,,0.52,ak,ak023di9d4yu,2023-10-21T02:31:36.811Z,"23 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-21T02:23:16.536Z,-22.4935,-68.5291,131.94,4.5,mb,31,50,0.559,0.63,us,us6000lh2f,2023-10-21T02:41:18.040Z,"40 km E of Calama, Chile",earthquake,6.89,6.774,0.135,17,reviewed,us,us
 2023-10-21T02:22:38.140Z,40.2531662,-124.617836,10.3,2.44,md,20,281,0.2135,0.2,nc,nc73949570,2023-10-21T02:44:12.032Z,"29 km WSW of Petrolia, CA",earthquake,3.87,2.23,0.2,7,automatic,nc,nc
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T01:07:05.300Z,38.8359985,-122.7898331,1.71,0.69,md,9,114,0.00244,0.01,nc,nc73949545,2023-10-21T01:43:12.499Z,"6 km WNW of Cobb, CA",earthquake,0.4,0.51,0.35,10,automatic,nc,nc
 2023-10-21T01:02:15.797Z,-4.1557,-104.0109,10,4.7,mb,39,160,23.216,1.05,us,us6000lh28,2023-10-21T01:29:26.040Z,"central East Pacific Rise",earthquake,15.82,1.938,0.088,40,reviewed,us,us
 2023-10-21T00:55:06.730Z,19.2818336486816,-155.383499145508,1.45000004768372,1.84000003,md,10,183,,0.100000001,hv,hv73615332,2023-10-21T00:58:03.240Z,"13 km NE of Pāhala, Hawaii",earthquake,0.5,0.800000012,0.920000017,3,automatic,hv,hv
-2023-10-21T00:48:01.120Z,38.7794991,-122.7149963,2.11,1.27,md,12,97,0.0167,0.02,nc,nc73949535,2023-10-21T03:07:10.942Z,"2 km WNW of Anderson Springs, CA",earthquake,0.34,0.69,0.12,13,automatic,nc,nc
+2023-10-21T00:48:01.120Z,38.7794991,-122.7149963,2.11,1.27,md,12,97,0.0167,0.02,nc,nc73949535,2023-10-21T03:27:13.054Z,"2 km WNW of Anderson Springs, CA",earthquake,0.34,0.69,0.12,13,automatic,nc,nc
 2023-10-21T00:40:50.920Z,38.8235016,-122.8485031,2.28,0.45,md,9,233,0.007684,0.01,nc,nc73949525,2023-10-21T00:57:15.253Z,"10 km WNW of The Geysers, CA",earthquake,1.02,0.84,0.33,10,automatic,nc,nc
 2023-10-21T00:30:59.650Z,33.6843333,-116.7993333,14.7,2.02,ml,55,26,0.06761,0.21,ci,ci40584704,2023-10-21T00:41:44.810Z,"10 km SW of Idyllwild, CA",earthquake,0.21,0.42,0.243,25,automatic,ci,ci
 2023-10-21T00:26:04.951Z,38.174,-117.8531,5.7,2.1,ml,20,107.28,0.107,0.2992,nn,nn00867682,2023-10-21T00:29:58.878Z,"32 km SE of Mina, Nevada",earthquake,,0.5,0.57,10,automatic,nn,nn
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T03:48:39.470Z,38.7973328,-122.7866669,3.88,0.73,md,8,141,0.004261,0.01,nc,nc73949185,2023-10-20T04:07:14.944Z,"3 km NW of The Geysers, CA",earthquake,0.77,1.39,0.25,7,automatic,nc,nc
 2023-10-20T03:42:53.485Z,67.5392,-156.3418,-3.1,2.9,ml,,,,0.59,ak,ak023dgmi3rp,2023-10-20T06:31:11.008Z,"74 km NNE of Kobuk, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-10-20T03:38:45.410Z,33.5978333,-117.2381667,10.69,1.58,ml,57,47,0.03573,0.17,ci,ci40584504,2023-10-20T14:36:26.590Z,"4 km E of Wildomar, CA",earthquake,0.17,0.3,0.104,21,reviewed,ci,ci
-2023-10-20T03:25:36.149Z,31.673,-104.38,6.4658,2.1,ml(texnet),31,57,0,0.2,tx,tx2023unts,2023-10-20T09:48:08.393Z,"55 km S of Whites City, New Mexico",earthquake,0.6727828196,0.6342132086,0.2,21,reviewed,tx,tx
