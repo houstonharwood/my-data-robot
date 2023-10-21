@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-21T04:46:29.420Z,32.9405,-116.2513333,12.13,1.74,ml,43,57,0.04597,0.2,ci,ci40584720,2023-10-21T04:50:20.265Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.27,0.67,0.099,26,automatic,ci,ci
 2023-10-21T04:31:25.563Z,60.1425,-139.8605,2.7,1.5,ml,,,,1.25,ak,ak023diakgrw,2023-10-21T04:33:01.774Z,"66 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-21T04:27:08.376Z,14.849,-87.4989,10,4.4,mb,28,65,0.817,1.08,us,us6000lh2y,2023-10-21T04:48:46.040Z,"14 km NW of San Luis, Honduras",earthquake,5.41,1.931,0.098,31,reviewed,us,us
 2023-10-21T04:19:37.251Z,58.3224,-133.3033,0,2.5,ml,,,,0.79,ak,ak023diahx31,2023-10-21T04:21:48.674Z,"65 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-21T04:18:35.020Z,39.631,-119.6497,9.7,1.6,ml,12,75.21,0.189,0.2114,nn,nn00867699,2023-10-21T04:21:00.139Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.1,0.32,7,automatic,nn,nn
 2023-10-21T03:47:53.719Z,34.8387,26.3955,10,4.3,mb,39,120,1.314,0.85,us,us6000lh2v,2023-10-21T04:16:17.040Z,"41 km SSE of Palekastro, Greece",earthquake,7.04,1.928,0.134,16,reviewed,us,us
@@ -189,8 +191,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T09:06:45.590Z,38.814167,-122.817337,0.96,1.51,md,25,51,0.01066,0.02,nc,nc73949260,2023-10-20T10:25:12.982Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.3,0.13,27,automatic,nc,nc
 2023-10-20T09:04:25.660Z,35.26766667,-98.02583333,9.87,1.99,ml,87,56,0.1520701586,0.27,ok,ok2023uoew,2023-10-20T12:34:06.024Z,"Oklahoma",earthquake,,1.2,0.22,46,reviewed,ok,ok
 2023-10-20T08:59:37.130Z,38.7741661,-122.7360001,3.05,1.09,md,12,79,0.01528,0.02,nc,nc73949255,2023-10-20T09:54:12.810Z,"2 km E of The Geysers, CA",earthquake,0.32,0.77,0.16,12,automatic,nc,nc
+2023-10-20T08:45:42.593Z,1.0831,96.8178,10,4.5,mb,24,254,0.789,0.45,us,us6000lgvc,2023-10-21T04:50:32.040Z,"91 km WSW of Gunungsitoli, Indonesia",earthquake,8.82,1.997,0.144,14,reviewed,us,us
 2023-10-20T08:38:38.920Z,35.29016667,-97.97283333,5.93,1.34,ml,55,77,0.1097784577,0.46,ok,ok2023uoea,2023-10-20T14:00:00.061Z,"3 km SW of Minco, Oklahoma",earthquake,,1,0.24,25,reviewed,ok,ok
 2023-10-20T08:35:14.500Z,51.864,-177.926333333333,7.43,0.2,ml,4,171,,0.04,av,av91118798,2023-10-20T22:06:31.050Z,"89 km W of Adak, Alaska",earthquake,0.45,0.84,0.432160636918379,4,reviewed,av,av
+2023-10-20T08:22:23.625Z,-2.8867,130.0501,15.174,4.6,mb,27,61,1.631,0.93,us,us6000lgwd,2023-10-21T04:46:11.040Z,"128 km ENE of Masohi, Indonesia",earthquake,7.18,4.26,0.141,15,reviewed,us,us
 2023-10-20T08:19:52.110Z,58.238,-155.182,3.47,-0.1,ml,8,133,,0.08,av,av92088901,2023-10-20T22:01:50.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.24,0.61,0.212269861416275,9,reviewed,av,av
 2023-10-20T08:11:09.470Z,52.0691666666667,-176.107666666667,-1.8,0.12,ml,5,112,,0.3,av,av92088891,2023-10-20T21:51:36.710Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.75,1.26,0.313075655697139,5,reviewed,av,av
 2023-10-20T07:57:29.125Z,-2.9427,129.7818,10,4.9,mb,47,58,1.574,0.65,us,us6000lgu3,2023-10-20T08:31:22.040Z,"Seram, Indonesia",earthquake,8.07,1.873,0.086,46,reviewed,us,us
@@ -222,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T05:13:24.490Z,33.5165,-116.9216667,11.32,0.76,ml,23,63,0.09556,0.22,ci,ci40584528,2023-10-20T13:11:52.430Z,"10 km NNW of Aguanga, CA",earthquake,0.39,0.97,0.13,16,reviewed,ci,ci
 2023-10-20T05:09:14.140Z,47.5751666666667,-113.976833333333,17.78,1.46,ml,22,81,0.06754,0.17,mb,mb90030483,2023-10-20T14:00:22.060Z,"10 km ENE of Ronan, Montana",earthquake,0.39,0.88,0.151323683976349,6,reviewed,mb,mb
 2023-10-20T04:56:16.710Z,18.0326,-68.679,134,3.93,md,14,298,0.5659,0.36,pr,pr2023293001,2023-10-20T20:50:30.040Z,"38 km S of Boca de Yuma, Dominican Republic",earthquake,4.6,2.04,0.02,5,reviewed,pr,pr
-2023-10-20T04:47:00.816Z,62.3755,-149.1621,7.7,1.4,ml,,,,0.16,ak,ak023dgn4htt,2023-10-20T04:48:50.295Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
