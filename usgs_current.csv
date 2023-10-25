@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T18:24:20.070Z,35.7101667,-117.5606667,2.12,1.72,ml,28,60,0.1202,0.16,ci,ci40587384,2023-10-25T18:38:32.106Z,"14 km NE of Ridgecrest, CA",earthquake,0.24,0.42,0.106,18,reviewed,ci,ci
 2023-10-25T18:17:17.989Z,64.2042,-150.4403,6,1.4,ml,,,,0.36,ak,ak023dp4ywly,2023-10-25T18:19:12.789Z,"61 km W of Clear, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-25T18:14:28.200Z,33.2545,-116.3271667,9.16,1.14,ml,27,61,0.07944,0.16,ci,ci40587368,2023-10-25T18:26:06.253Z,"4 km E of Borrego Springs, CA",earthquake,0.24,0.8,0.112,22,reviewed,ci,ci
-2023-10-25T18:06:27.680Z,19.3379993438721,-155.322326660156,2.88000011444092,2.28,ml,38,65,,0.230000004,hv,hv73623937,2023-10-25T18:11:57.590Z,"14 km SW of Volcano, Hawaii",earthquake,0.34,0.879999995,2.89,17,automatic,hv,hv
+2023-10-25T18:06:27.640Z,19.3395,-155.325166666667,2.5,2.09,ml,18,96,,0.09,hv,hv73623937,2023-10-25T19:37:20.130Z,"14 km SW of Volcano, Hawaii",earthquake,0.29,0.51,0.221538591823566,28,reviewed,hv,hv
 2023-10-25T17:57:09.130Z,38.1161667,-122.1761667,-0.03,1.61,md,14,102,0.02227,0.15,nc,nc73951285,2023-10-25T18:54:39.629Z,"5 km E of Vallejo, CA",quarry blast,0.33,31.61,0.355,13,reviewed,nc,nc
 2023-10-25T17:43:39.240Z,38.8301659,-122.8153305,1.75,0.26,md,9,100,0.00791,0.02,nc,nc73951275,2023-10-25T17:54:10.984Z,"8 km NW of The Geysers, CA",earthquake,0.43,0.67,0.13,8,automatic,nc,nc
 2023-10-25T17:36:17.810Z,17.8605,-66.9245,12.75,2.34,md,9,254,0.1121,0.13,pr,pr71429838,2023-10-25T17:56:28.910Z,"12 km S of Guánica, Puerto Rico",earthquake,0.85,0.42,0.035240214032316,4,reviewed,pr,pr
@@ -34,8 +34,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T15:25:06.159Z,-56.2318,-26.9185,62.546,5.2,mb,52,131,5.81,0.63,us,us7000l6ay,2023-10-25T15:42:45.040Z,"South Sandwich Islands region",earthquake,12.71,7.902,0.077,56,reviewed,us,us
 2023-10-25T15:23:43.330Z,36.7511667,-121.3536667,6.97,1.14,md,19,69,0.04031,0.09,nc,nc73951235,2023-10-25T19:09:11.387Z,"5 km SW of Tres Pinos, CA",earthquake,0.21,0.46,0.233,16,reviewed,nc,nc
 2023-10-25T15:23:13.610Z,39.4965,-123.3698333,5.94,1.38,md,15,65,0.0372,0.07,nc,nc73951240,2023-10-25T18:58:11.324Z,"6 km NNE of Brooktrails, CA",earthquake,0.23,0.47,0.158,15,reviewed,nc,nc
+2023-10-25T15:20:31.510Z,38.7805,-122.7633333,0.8,0.57,md,17,74,0.009945,0.03,nc,nc73951230,2023-10-25T19:38:42.391Z,"1 km WNW of The Geysers, CA",earthquake,0.17,0.32,0.287,14,reviewed,nc,nc
 2023-10-25T15:20:24.260Z,38.8289986,-122.8518295,1.53,0.96,md,17,64,0.004198,0.02,nc,nc73951225,2023-10-25T16:34:10.517Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.5,0.23,17,automatic,nc,nc
-2023-10-25T15:09:51.840Z,19.3406658172607,-155.302001953125,2.63000011444092,2.32,ml,43,106,,0.209999993,hv,hv73623717,2023-10-25T15:15:21.100Z,"13 km SSW of Volcano, Hawaii",earthquake,0.27,0.860000014,0.27,15,automatic,hv,hv
+2023-10-25T15:09:51.860Z,19.3388333333333,-155.301166666667,2.99,2.03,ml,21,107,,0.09,hv,hv73623717,2023-10-25T19:35:03.570Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.39,0.187932306909433,26,reviewed,hv,hv
 2023-10-25T15:00:26.824Z,61.4238,-146.7432,31.4,1.3,ml,,,,0.49,ak,ak023dp32zay,2023-10-25T15:01:59.579Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-25T14:50:28.580Z,18.0035,-66.813,15.93,2.39,md,8,168,0.06912,0.19,pr,pr71429823,2023-10-25T15:15:10.080Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.75,1.26,0.0786214411444313,5,reviewed,pr,pr
 2023-10-25T14:37:17.118Z,-9.2455,159.213,5.323,5.1,mww,98,59,12.26,0.69,us,us7000l6a0,2023-10-25T15:39:38.249Z,"74 km NW of Malango, Solomon Islands",earthquake,9.62,4.457,0.098,10,reviewed,us,us
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T19:53:02.278Z,37.2972,-117.5965,6.5,2.2,ml,19,65.65,0.076,0.1646,nn,nn00867834,2023-10-24T20:40:12.994Z,"50 km S of Silver Peak, Nevada",earthquake,,1.6,0.53,7,reviewed,nn,nn
 2023-10-24T19:51:04.640Z,32.7491667,-115.4133333,15.26,2.67,ml,37,69,0.06269,0.27,ci,ci40586488,2023-10-24T20:16:14.320Z,"8 km SSW of Holtville, CA",earthquake,0.32,0.52,0.121,25,reviewed,ci,ci
 2023-10-24T19:42:57.900Z,33.466,-117.0901667,13.7,0.97,ml,31,58,0.03374,0.16,ci,ci40586472,2023-10-24T20:19:57.911Z,"6 km ESE of Temecula, CA",earthquake,0.19,0.53,0.134,11,reviewed,ci,ci
-2023-10-24T19:39:02.300Z,32.7515,-115.4253333,13.38,1.42,ml,16,68,0.05663,0.17,ci,ci40586464,2023-10-24T20:17:23.944Z,"8 km SSW of Holtville, CA",earthquake,0.48,0.64,0.304,11,reviewed,ci,ci
