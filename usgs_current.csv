@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-26T22:00:16.598Z,65.0208,-147.0323,5,1.4,ml,,,,0.97,ak,ak023dqusc8r,2023-10-26T22:02:39.641Z,"16 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-26T21:58:01.430Z,19.3369998931885,-155.284164428711,3.09999990463257,2.25,ml,36,135,,0.25999999,hv,hv73626082,2023-10-26T22:03:32.020Z,"12 km SSW of Volcano, Hawaii",earthquake,0.45,0.829999983,0.29,17,automatic,hv,hv
 2023-10-26T21:52:31.270Z,38.8373337,-122.7986679,2.29,1.1,md,14,70,0.006589,0.02,nc,nc73951795,2023-10-26T21:54:07.592Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.81,0.15,17,automatic,nc,nc
+2023-10-26T21:49:34.585Z,-28.6909,-70.3075,99.306,5.4,mww,86,71,0.47,1.27,us,us7000l6nl,2023-10-26T22:06:32.040Z,"45 km ESE of Vallenar, Chile",earthquake,5,4.665,0.047,44,reviewed,us,us
 2023-10-26T21:42:09.650Z,35.1153333,-118.5203333,0.16,1.2,ml,14,74,0.1799,0.21,ci,ci40588728,2023-10-26T21:45:45.562Z,"7 km WSW of Tehachapi, CA",earthquake,0.39,31.61,0.135,15,automatic,ci,ci
 2023-10-26T21:38:09.450Z,19.3725,-155.281,1.87,2.12,ml,25,106,,0.09,hv,hv73626037,2023-10-26T21:51:24.230Z,"9 km SSW of Volcano, Hawaii",earthquake,0.18,0.22,0.16858497209283,12,reviewed,hv,hv
 2023-10-26T21:38:05.175Z,62.0086,-149.2931,32.3,2.2,ml,,,,0.58,ak,ak023dquf0yt,2023-10-26T21:40:01.605Z,"29 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -150,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T07:19:19.010Z,43.1526666666667,-110.870166666667,5.1,1.67,ml,15,182,0.3186,0.28,mb,mb90030873,2023-10-26T14:17:18.290Z,"Wyoming",earthquake,1.1,2.86,0.2628559042162,17,reviewed,mb,mb
 2023-10-26T07:18:43.782Z,35.0906,26.6996,10,4.3,mb,30,161,1.495,0.92,us,us7000l6gt,2023-10-26T07:59:07.040Z,"41 km SSW of Fry, Greece",earthquake,5.65,1.933,0.111,23,reviewed,us,us
 2023-10-26T07:17:47.150Z,38.6616667,-119.5618333,4.63,2.45,md,18,104,0.08246,0.09,nc,nc73951495,2023-10-26T20:47:11.114Z,"18 km NNW of Walker, CA",earthquake,0.25,0.77,0.144,27,reviewed,nc,nc
+2023-10-26T07:16:43.620Z,44.779,-114.398833333333,4.38,1.51,ml,14,85,0.4558,0.35,mb,mb90030938,2023-10-26T21:59:05.790Z,"southern Idaho",earthquake,0.74,1.89,0.233070942884758,14,reviewed,mb,mb
 2023-10-26T07:05:04.170Z,19.4513339996338,-155.614334106445,36.3400001525879,1.91999996,md,23,96,,0.180000007,hv,hv73624752,2023-10-26T07:08:15.380Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.81,1.41999996,0.949999988,3,automatic,hv,hv
 2023-10-26T07:01:54.470Z,44.6301666666667,-112.607,9.39,2.37,ml,15,62,0.02941,0.14,mb,mb90030863,2023-10-26T14:07:22.130Z,"1 km WSW of Lima, Montana",earthquake,0.33,0.55,0.190246078096289,41,reviewed,mb,mb
 2023-10-26T06:53:13.320Z,17.889,-66.1265,14.38,2.83,md,8,228,0.07834,0.17,pr,pr71429888,2023-10-26T07:04:05.230Z,"8 km SSE of Jobos, Puerto Rico",earthquake,0.98,0.61,0.214992081415305,5,reviewed,pr,pr
@@ -226,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T22:31:33.806Z,60.0645,-149.6046,0,2.2,ml,,,,0.69,ak,ak023dp7fo9w,2023-10-25T22:33:45.141Z,"9 km W of Lowell Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-25T22:15:40.190Z,35.6161667,-117.4845,7.61,2.37,ml,33,50,0.06955,0.1,ci,ci40587688,2023-10-25T23:16:17.170Z,"17 km E of Ridgecrest, CA",earthquake,0.16,0.56,0.179,25,reviewed,ci,ci
 2023-10-25T22:12:38.670Z,38.829834,-122.8151703,2.15,0.27,md,10,89,0.007562,0.02,nc,nc73951390,2023-10-25T22:23:12.602Z,"8 km NW of The Geysers, CA",earthquake,0.4,0.93,0.16,11,automatic,nc,nc
-2023-10-25T22:04:56.830Z,17.9875,-68.5301,44,3.57,md,12,245,1.1234,0.54,pr,pr2023298002,2023-10-25T22:41:34.796Z,"44 km S of Boca de Yuma, Dominican Republic",earthquake,4.16,13.97,0.12,10,reviewed,pr,pr
-2023-10-25T21:56:33.270Z,36.37533333,-97.65533333,7.83,1.12,ml,20,63,0.1511703352,0.16,ok,ok2023uyhv,2023-10-26T13:38:07.497Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,0.7,0.27,11,reviewed,ok,ok
-2023-10-25T21:55:10.550Z,62.1569,-151.2681,5.4,1.6,ml,,,,0.53,ak,ak023dp6zc27,2023-10-25T21:57:04.601Z,"19 km NNE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
