@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-27T03:18:35.298Z,61.7663,-151.1356,7.9,1.9,ml,,,,1.25,ak,ak023ds74cmd,2023-10-27T03:21:35.776Z,"28 km SSE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-27T03:17:55.020Z,36.0175,-117.7706667,1.19,0.95,ml,13,112,0.07794,0.18,ci,ci40588976,2023-10-27T03:21:36.492Z,"15 km NE of Little Lake, CA",earthquake,0.34,0.48,0.139,8,automatic,ci,ci
-2023-10-27T03:15:32.340Z,38.7988319,-122.8003311,8.58,0.63,md,7,111,0.009933,0.12,nc,nc73951930,2023-10-27T03:17:08.415Z,"4 km WNW of The Geysers, CA",earthquake,2.56,1.43,0.31,6,automatic,nc,nc
-2023-10-27T03:15:11.140Z,37.4679985,-118.6835022,10.91,2.33,md,25,98,0.1494,0.05,nc,nc73951935,2023-10-27T03:18:26.410Z,"10 km NW of Round Valley, CA",earthquake,0.37,1.18,0.14,32,automatic,nc,nc
+2023-10-27T03:15:32.340Z,38.7988319,-122.8003311,8.58,0.63,md,7,111,0.009933,0.12,nc,nc73951930,2023-10-27T03:26:11.438Z,"4 km WNW of The Geysers, CA",earthquake,2.56,1.43,0.31,6,automatic,nc,nc
+2023-10-27T03:15:11.140Z,37.4679985,-118.6835022,10.91,2.33,md,25,98,0.1494,0.05,nc,nc73951935,2023-10-27T03:26:11.311Z,"10 km NW of Round Valley, CA",earthquake,0.37,1.18,0.14,32,automatic,nc,nc
 2023-10-27T02:55:22.670Z,35.333,-118.6648333,3.89,1.01,ml,16,110,0.1036,0.19,ci,ci40588944,2023-10-27T02:58:52.786Z,"20 km NE of Arvin, CA",earthquake,0.38,1.35,0.121,9,automatic,ci,ci
 2023-10-27T02:50:32.830Z,34.0343333,-117.1556667,14.47,1.49,ml,52,69,0.08632,0.19,ci,ci40588936,2023-10-27T03:01:46.950Z,"3 km SE of Redlands, CA",earthquake,0.22,0.52,0.222,27,automatic,ci,ci
 2023-10-27T02:48:30.579Z,63.1044,-150.3293,87.3,1.6,ml,,,,0.76,ak,ak023ds6pc35,2023-10-27T02:50:56.139Z,"71 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T20:31:16.060Z,38.8181648,-122.8181686,2.51,0.77,md,12,90,0.008201,0.01,nc,nc73951755,2023-10-26T20:41:12.081Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.99,0.24,13,automatic,nc,nc
 2023-10-26T20:24:09.880Z,19.1813335418701,-155.436340332031,30.8999996185303,2.23000002,md,23,166,,0.300000012,hv,hv73625907,2023-10-26T20:27:11.090Z,"5 km ESE of Pāhala, Hawaii",earthquake,1.6,3.55999994,1.26999998,3,automatic,hv,hv
 2023-10-26T20:22:18.510Z,19.1095,-155.427166666667,35.27,1.92,ml,25,195,,0.14,hv,hv73625902,2023-10-26T20:58:10.760Z,"11 km SSE of Pāhala, Hawaii",earthquake,1.13,0.69,0.0580264807875968,3,reviewed,hv,hv
-2023-10-26T20:21:57.269Z,64.6653,-150.9739,13.4,1.4,ml,,,,0.62,ak,ak023dqtq27i,2023-10-26T20:23:29.629Z,"40 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-10-26T20:21:57.269Z,64.6653,-150.9739,13.4,1.4,ml,,,,0.62,ak,ak023dqtq27i,2023-10-26T20:23:29.629Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-26T20:14:28.790Z,19.3611666666667,-155.293166666667,1.47,0.98,md,21,111,,0.11,hv,hv73625887,2023-10-26T20:41:35.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.19,0.28,0.15983738423896,3,reviewed,hv,hv
 2023-10-26T20:10:59.410Z,35.7975,-118.3031667,3.34,1.56,ml,34,43,0.1087,0.15,ci,ci40588624,2023-10-26T20:33:35.464Z,"12 km ENE of Kernville, CA",earthquake,0.16,0.55,0.096,13,reviewed,ci,ci
 2023-10-26T19:51:17.145Z,10.6177,126.8705,10,5.1,mww,127,78,3.749,0.87,us,us7000l6m3,2023-10-26T20:27:59.040Z,"112 km NE of Santa Monica, Philippines",earthquake,8.67,1.806,0.098,10,reviewed,us,us
@@ -255,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T03:36:17.100Z,39.1623333333333,-88.9675,17.47,2.58,md,19,74,0.2615,0.2,nm,nm60501233,2023-10-27T02:30:50.697Z,"6 km SSE of Herrick, Illinois",earthquake,0.31,0.44,0.0895141231171284,9,reviewed,nm,nm
 2023-10-26T03:30:26.801Z,61.8418,-149.0581,4.4,1.4,ml,,,,0.48,ak,ak023dqjnk0o,2023-10-26T03:32:08.353Z,"14 km N of Buffalo Soapstone, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-26T03:29:39.110Z,33.9716667,-116.5571667,9.26,0.69,ml,25,72,0.03957,0.1,ci,ci40587816,2023-10-26T15:57:08.438Z,"5 km WNW of Desert Hot Springs, CA",earthquake,0.15,0.42,0.07,9,reviewed,ci,ci
-2023-10-26T03:27:01.050Z,34.3111667,-118.4953333,9.22,1.19,ml,26,148,0.008409,0.16,ci,ci40587800,2023-10-26T15:51:17.444Z,"4 km W of Sylmar, CA",earthquake,0.31,0.48,0.111,10,reviewed,ci,ci
