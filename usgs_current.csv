@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-29T03:14:46.730Z,18.0093333333333,-66.7935,17.33,2.3,md,8,176,0.01077,0.08,pr,pr71430193,2023-10-29T03:22:37.280Z,"Puerto Rico",earthquake,0.42,0.55,0.0991012654250754,4,reviewed,pr,pr
 2023-10-29T03:09:12.474Z,60.1777,-152.4349,96.1,1.7,ml,,,,0.72,ak,ak023dvi52cv,2023-10-29T03:12:05.938Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-29T03:03:59.950Z,34.153,-117.5138333,10.31,2.74,ml,100,31,0.07029,0.24,ci,ci40590512,2023-10-29T03:19:05.367Z,"7 km ENE of Rancho Cucamonga, CA",earthquake,0.19,0.46,0.142,25,automatic,ci,ci
+2023-10-29T03:03:59.950Z,34.153,-117.5138333,10.31,2.74,ml,100,31,0.07029,0.24,ci,ci40590512,2023-10-29T03:24:08.630Z,"7 km ENE of Rancho Cucamonga, CA",earthquake,0.19,0.46,0.142,25,automatic,ci,ci
 2023-10-29T03:02:33.770Z,19.3581657409668,-155.284332275391,3.13000011444092,2.32,ml,33,121,,0.170000002,hv,hv73630387,2023-10-29T03:08:04.690Z,"10 km SSW of Volcano, Hawaii",earthquake,0.4,0.620000005,0.35,18,automatic,hv,hv
 2023-10-29T02:54:38.550Z,34.6221667,-116.5656667,6.84,1.7,ml,22,53,0.05302,0.18,ci,ci40590504,2023-10-29T03:05:46.760Z,"39 km WSW of Ludlow, CA",earthquake,0.32,0.73,0.109,27,automatic,ci,ci
 2023-10-29T02:46:20.770Z,17.9231666666667,-66.8505,12.08,2.54,md,7,226,0.05842,0.17,pr,pr71430183,2023-10-29T02:55:56.820Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.99,0.77,0.0931937811153793,7,reviewed,pr,pr
@@ -254,7 +255,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T04:03:38.931Z,63.5285,-147.5758,3.6,1.6,ml,,,,0.31,ak,ak023dtv5x7p,2023-10-28T04:57:38.172Z,"70 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T04:02:28.940Z,59.0021,-136.5817,0,1.9,ml,,,,0.71,ak,ak023dtv5oqo,2023-10-28T04:04:50.485Z,"56 km SW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-28T04:01:36.500Z,38.7976685,-122.7529984,2,0.91,md,17,94,0.00602,0.02,nc,nc73952570,2023-10-28T04:12:10.973Z,"2 km N of The Geysers, CA",earthquake,0.26,0.5,0.19,16,automatic,nc,nc
-2023-10-28T03:44:10.817Z,59.0118,-136.4871,5.1,5.3,mww,,,,0.49,ak,ak023dtut7mp,2023-10-29T02:23:16.967Z,"52 km SSW of Covenant Life, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-10-28T03:44:10.817Z,59.0118,-136.4871,5.1,5.3,mww,,,,0.49,ak,ak023dtut7mp,2023-10-29T03:25:13.399Z,"52 km SSW of Covenant Life, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-10-28T03:41:02.790Z,38.8359985,-122.8013306,2.1,0.93,md,18,63,0.008912,0.01,nc,nc73952560,2023-10-28T04:00:09.916Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.51,0.22,19,automatic,nc,nc
 2023-10-28T03:39:36.060Z,33.9421667,-117.014,16.56,1.47,ml,48,38,0.03466,0.19,ci,ci40589976,2023-10-28T03:50:06.390Z,"4 km WNW of Beaumont, CA",earthquake,0.22,0.58,0.164,27,automatic,ci,ci
 2023-10-28T03:38:50.172Z,61.4285,-146.4622,30,1.2,ml,,,,0.72,ak,ak023dtus0jd,2023-10-28T04:57:23.801Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -265,7 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T03:32:07.390Z,33.9746667,-116.4153333,2.1,1.28,ml,36,59,0.03434,0.18,ci,ci40589968,2023-10-28T03:43:01.000Z,"8 km E of Desert Hot Springs, CA",earthquake,0.23,0.38,0.175,25,automatic,ci,ci
 2023-10-28T03:32:03.960Z,37.3404999,-121.6975021,7.82,1.1,md,10,103,0.0438,0.04,nc,nc73952545,2023-10-28T03:55:09.896Z,"12 km ESE of Alum Rock, CA",earthquake,0.36,0.71,0.22,5,automatic,nc,nc
 2023-10-28T03:26:47.960Z,37.6141667,-122.3741667,12.16,1.81,md,72,26,0.04789,0.07,nc,nc73952530,2023-10-28T12:30:34.886Z,"2 km NNE of Millbrae, CA",earthquake,0.13,0.27,0.153,52,reviewed,nc,nc
-2023-10-28T03:24:11.780Z,37.6181667,-122.3773333,11.92,2.18,md,92,29,,0.07,nc,nc73952525,2023-10-28T20:45:01.626Z,"2 km NNE of Millbrae, CA",earthquake,0.11,0.21,0.151,73,reviewed,nc,nc
-2023-10-28T03:24:02.260Z,36.0943336,-120.1920013,9.12,1.19,md,8,180,0.06131,0.07,nc,nc73952520,2023-10-28T07:05:11.296Z,"12 km NNW of Avenal, CA",earthquake,1.3,0.52,0.22,4,automatic,nc,nc
-2023-10-28T03:22:48.203Z,58.977,-136.5676,0,2,ml,,,,0.74,ak,ak023dtuokxg,2023-10-28T04:58:32.877Z,"58 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-28T03:21:13.400Z,37.3436667,-121.701,8.2,2.82,md,117,54,,0.08,nc,nc73952515,2023-10-28T22:47:03.949Z,"11 km ESE of Alum Rock, CA",earthquake,0.09,0.24,0.134,177,reviewed,nc,nc
