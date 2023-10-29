@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T14:36:10.940Z,53.8795,-166.946333333333,11.73,-0.1,ml,5,206,,0.1,av,av92100151,2023-10-29T18:48:37.520Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.72,1.5,0.147701443385011,4,reviewed,av,av
 2023-10-29T14:32:28.340Z,33.4556667,-116.8835,13.25,0.71,ml,20,67,0.07871,0.19,ci,ci40590768,2023-10-29T19:12:37.402Z,"2 km NW of Aguanga, CA",earthquake,0.31,0.79,0.09,15,reviewed,ci,ci
 2023-10-29T14:30:13.010Z,19.2686672210693,-155.401840209961,33.4300003051758,2.07,ml,53,121,,0.140000001,hv,hv73631052,2023-10-29T14:35:43.990Z,"10 km NE of Pāhala, Hawaii",earthquake,0.53,0.629999995,0.23,8,automatic,hv,hv
-2023-10-29T14:21:30.340Z,37.6216667,-122.3715,11.21,1.24,md,30,90,0.05075,0.1,nc,nc73953290,2023-10-29T19:40:11.486Z,"3 km NNE of Millbrae, CA",earthquake,0.25,0.32,0.342,18,reviewed,nc,nc
+2023-10-29T14:21:30.340Z,37.6216667,-122.3715,11.21,1.24,md,30,90,0.05075,0.1,nc,nc73953290,2023-10-29T20:56:10.965Z,"3 km NNE of Millbrae, CA",earthquake,0.25,0.32,0.342,18,reviewed,nc,nc
 2023-10-29T14:14:10.550Z,36.9173317,-121.3820038,7.96,1.09,md,8,139,0.06802,0.03,nc,nc73953285,2023-10-29T14:50:09.542Z,"8 km N of Hollister, CA",earthquake,0.51,2.23,0.1,8,automatic,nc,nc
 2023-10-29T13:57:41.061Z,43.9406,-28.3835,10,5.1,mb,39,70,19.767,0.88,us,us7000l7ds,2023-10-29T14:11:37.040Z,"northern Mid-Atlantic Ridge",earthquake,12.64,1.921,0.036,251,reviewed,us,us
 2023-10-29T13:52:15.770Z,37.795166,-122.2196655,8.02,1.19,md,14,71,,0.16,nc,nc73953280,2023-10-29T14:25:10.609Z,"1 km E of Oakland, CA",earthquake,0.49,1.38,0.14,7,automatic,nc,nc
@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T06:19:07.890Z,19.1215000152588,-155.448837280273,27.5300006866455,1.79999995,md,35,176,,0.129999995,hv,hv73630627,2023-10-29T06:22:13.260Z,"Island of Hawaii, Hawaii",earthquake,0.81,1.04999995,0.970000029,7,automatic,hv,hv
 2023-10-29T06:04:23.640Z,38.7566681,-122.6956635,8.28,1.12,md,5,185,0.09321,0.06,nc,nc73953180,2023-10-29T07:22:11.859Z,"2 km S of Anderson Springs, CA",earthquake,1.95,7.41,0.23,4,automatic,nc,nc
 2023-10-29T06:02:15.970Z,53.8998333333333,-167.9115,3.29,1.77,ml,7,166,,0.13,av,av92099846,2023-10-29T13:17:21.490Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.95,1.71,0.330429025533198,7,reviewed,av,av
-2023-10-29T05:59:31.200Z,33.9316667,-116.8166667,6.66,0.87,ml,45,48,0.03245,0.13,ci,ci40590576,2023-10-29T20:51:02.082Z,"3 km WNW of Cabazon, CA",earthquake,0.13,0.33,0.082,18,reviewed,ci,ci
+2023-10-29T05:59:31.200Z,33.9316667,-116.8166667,6.66,0.87,ml,45,48,0.03245,0.13,ci,ci40590576,2023-10-29T20:52:13.610Z,"3 km WNW of Cabazon, CA",earthquake,0.13,0.33,0.082,18,reviewed,ci,ci
 2023-10-29T05:52:07.700Z,53.8808333333333,-167.898166666667,3.14,0.83,ml,12,141,,0.12,av,av92099841,2023-10-29T13:14:16.650Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.69,1.3,0.192103215515559,13,reviewed,av,av
 2023-10-29T05:51:53.380Z,31.663,-104.374,6.2858,3.2,ml(texnet),31,51,0,0.2,tx,tx2023veka,2023-10-29T13:15:31.087Z,"56 km S of Whites City, New Mexico",earthquake,1.340800839,1.035184389,0.1,30,reviewed,tx,tx
 2023-10-29T05:47:42.650Z,53.8976666666667,-167.906,2.49,1.39,ml,8,165,,0.09,av,av92099836,2023-10-29T13:12:19.190Z,"89 km W of Dutch Harbor, Alaska",earthquake,0.89,2.11,0.277138240117541,8,reviewed,av,av
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T21:18:56.624Z,61.1091,-148.2834,6.3,2.2,ml,,,,0.26,ak,ak023du5dhlf,2023-10-28T21:21:15.183Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-10-28T21:05:07.900Z,38.8375015,-122.8126678,1.85,1,md,12,81,0.01423,0.01,nc,nc73952920,2023-10-28T21:18:11.320Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.83,0.3,12,automatic,nc,nc
 2023-10-28T21:03:32.990Z,38.7835007,-122.7383347,0.83,0.78,md,8,85,0.001285,0.02,nc,nc73952915,2023-10-28T21:14:10.294Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.47,0.08,8,automatic,nc,nc
-2023-10-28T20:56:51.960Z,38.8413315,-122.8761673,2.51,0.74,md,15,87,0.006041,0.02,nc,nc73952905,2023-10-28T21:07:11.295Z,"13 km NW of The Geysers, CA",earthquake,0.32,0.55,0.26,15,automatic,nc,nc
