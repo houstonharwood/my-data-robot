@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-30T03:43:55.530Z,38.7508316,-122.6996689,2.22,0.84,md,7,218,0.01732,0.02,nc,nc73953545,2023-10-30T03:45:31.039Z,"3 km SSW of Anderson Springs, CA",earthquake,0.8,1.58,0.19,7,automatic,nc,nc
+2023-10-30T03:43:55.530Z,38.7508316,-122.6996689,2.22,0.84,md,7,218,0.01732,0.02,nc,nc73953545,2023-10-30T03:54:10.293Z,"3 km SSW of Anderson Springs, CA",earthquake,0.8,1.58,0.19,7,automatic,nc,nc
 2023-10-30T03:18:37.090Z,33.5295,-116.4365,10.73,1.04,ml,31,73,0.08352,0.2,ci,ci40591136,2023-10-30T03:22:18.722Z,"19 km SW of La Quinta, CA",earthquake,0.29,0.42,0.199,29,automatic,ci,ci
 2023-10-30T03:14:20.271Z,61.5378,-149.8888,33.1,2.5,ml,,,,0.58,ak,ak023dx5pi17,2023-10-30T03:15:41.864Z,"3 km ENE of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T03:04:09.020Z,38.8468323,-122.8183365,1.96,0.25,md,8,95,0.008742,0.01,nc,nc73953535,2023-10-30T03:35:12.187Z,"9 km WNW of Cobb, CA",earthquake,0.46,0.91,0.12,10,automatic,nc,nc
@@ -114,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T15:21:08.166Z,64.4207,-146.7771,6.2,1.3,ml,,,,0.31,ak,ak023dvpctvk,2023-10-29T15:22:47.398Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-29T15:20:31.180Z,52.3346666666667,-174.186333333333,4.22,0.29,ml,4,194,,0.06,av,av92100171,2023-10-29T18:57:24.920Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.89,0.74,0.463836646271325,4,reviewed,av,av
 2023-10-29T15:20:09.980Z,38.8043327,-122.8450012,9.17,0.75,md,9,228,0.01317,0.06,nc,nc73953310,2023-10-29T16:14:10.051Z,"8 km WNW of The Geysers, CA",earthquake,3.02,7.18,0.05,11,automatic,nc,nc
+2023-10-29T15:13:57.570Z,46.1865,-122.19233333333334,4.43,0.17,ml,12,105,0.01332,0.12,uw,uw61960252,2023-10-30T03:49:47.880Z,"36 km NNE of Amboy, Washington",earthquake,0.48,0.39,0.10605935138696779,9,reviewed,uw,uw
 2023-10-29T15:11:57.270Z,58.271,-155.144833333333,4.28,0.44,ml,6,126,,0.25,av,av92100161,2023-10-29T19:38:01.380Z,"88 km NNW of Karluk, Alaska",earthquake,0.86,1.45,0.418646852504896,6,reviewed,av,av
 2023-10-29T15:06:26.589Z,29.2466,140.6588,129.7,4.6,mb,55,120,6.817,0.83,us,us7000l7dx,2023-10-29T17:37:29.040Z,"Izu Islands, Japan region",earthquake,11.74,7.19,0.042,173,reviewed,us,us
 2023-10-29T14:58:03.978Z,38.1957,-117.7408,10.8,1.3,ml,8,124.49,0.122,0.138,nn,nn00868120,2023-10-29T15:00:43.975Z,"Nevada",earthquake,,0.8,0.3,6,automatic,nn,nn
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T04:07:56.110Z,33.3556667,-116.3545,12.06,1.2,ml,37,68,0.1776,0.2,ci,ci40590528,2023-10-29T13:31:38.950Z,"11 km N of Borrego Springs, CA",earthquake,0.3,1.35,0.205,26,reviewed,ci,ci
 2023-10-29T04:05:49.610Z,57.0825,-136.165,19.94,1.56,ml,4,348,,0.1,av,av92099766,2023-10-29T13:03:57.350Z,"Southeastern Alaska",earthquake,4.54,2.09,0.145116805573312,4,reviewed,av,av
 2023-10-29T03:58:42.940Z,54.1526666666667,-165.9825,3.08,-0.47,ml,6,175,,0.23,av,av92099761,2023-10-29T13:01:09.720Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.78,0.62,0.339268541280837,6,reviewed,av,av
-2023-10-29T03:53:54.160Z,57.005,-135.629833333333,0.02,-0.18,ml,4,214,,0.13,av,av92099756,2023-10-29T12:55:28.350Z,"18 km WSW of Sitka, Alaska",earthquake,0.81,31.61,0.261038656227812,4,reviewed,av,av
-2023-10-29T03:51:14.889Z,61.9692,-149.7908,33.6,2.1,ml,,,,0.45,ak,ak023dvie2m8,2023-10-29T03:52:48.485Z,"21 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
