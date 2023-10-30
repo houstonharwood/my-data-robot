@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T04:48:26.279Z,43.7744,147.8506,35,4.3,mb,29,189,3.813,0.94,us,us7000l7h5,2023-10-30T05:12:53.040Z,"Kuril Islands",earthquake,10.7,1.986,0.137,15,reviewed,us,us
 2023-10-30T04:39:01.932Z,63.2537,-148.3879,89.4,1.8,ml,,,,0.26,ak,ak023dx6g91b,2023-10-30T04:40:26.976Z,"32 km ESE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T04:22:28.767Z,23.9177,142.0327,122,4.9,mb,58,134,9.995,1.21,us,us7000l7h1,2023-10-30T04:42:00.040Z,"Volcano Islands, Japan region",earthquake,11.58,8.129,0.031,315,reviewed,us,us
-2023-10-30T04:20:22.447Z,31.0437,-8.4488,10,4.3,mb,13,185,1.04,0.88,us,us7000l7h7,2023-10-30T07:19:08.140Z,"58 km WSW of Oukaïmedene, Morocco",earthquake,6.23,1.988,0.238,5,reviewed,us,us
+2023-10-30T04:20:22.447Z,31.0437,-8.4488,10,4.3,mb,13,185,1.04,0.88,us,us7000l7h7,2023-10-30T07:49:04.805Z,"58 km WSW of Oukaïmedene, Morocco",earthquake,6.23,1.988,0.238,5,reviewed,us,us
 2023-10-30T04:06:40.320Z,34.1191667,-116.9233333,16.19,1,ml,23,96,0.02759,0.33,ci,ci40591168,2023-10-30T04:10:15.106Z,"14 km S of Big Bear Lake, CA",earthquake,0.66,1.56,0.12,18,automatic,ci,ci
 2023-10-30T03:53:17.640Z,19.3916664123535,-155.276504516602,0.25,1.82,ml,16,62,,0.189999998,hv,hv73632002,2023-10-30T03:58:47.750Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.209999993,0.15,6,automatic,hv,hv
 2023-10-30T03:52:40.500Z,19.4198341369629,-155.623336791992,40.1100006103516,2.73,ml,17,108,,0.349999994,hv,hv73631997,2023-10-30T04:28:02.926Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.56,2.08999991,0.21,6,automatic,hv,hv
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T22:21:24.280Z,47.849833333333336,-123.98366666666666,28.73,2.17,ml,28,35,0.03598,0.36,uw,uw61960312,2023-10-30T02:46:40.320Z,"32 km ESE of Forks, Washington",earthquake,0.66,1.17,0.15508278462836378,14,reviewed,uw,uw
 2023-10-29T22:16:42.827Z,63.8978,-148.3281,7.5,1.6,ml,,,,0.63,ak,ak023dvthv7e,2023-10-29T22:18:35.255Z,"31 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-29T22:04:56.900Z,38.8310013,-122.8184967,1.64,0.72,md,14,60,0.01513,0.02,nc,nc73953450,2023-10-29T22:16:10.403Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.54,0.11,14,automatic,nc,nc
-2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
+2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"Alaska Peninsula",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
 2023-10-29T21:53:39.092Z,66.4034,-153.0299,0,1.8,ml,,,,0.68,ak,ak023dvt4ct1,2023-10-29T21:56:13.944Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T21:44:01.310Z,33.6893333,-117.634,0.85,1.47,ml,9,129,0.2248,0.23,ci,ci40590928,2023-10-29T21:47:45.436Z,"2 km E of Foothill Ranch, CA",earthquake,0.85,31.61,0.324,10,automatic,ci,ci
 2023-10-29T21:39:43.120Z,38.7916679,-122.7263336,-0.4,1.04,md,8,127,0.0117,0.02,nc,nc73953440,2023-10-29T21:51:10.279Z,"3 km ENE of The Geysers, CA",earthquake,0.24,1.74,0.58,9,automatic,nc,nc
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T08:05:08.590Z,19.3518333435059,-155.292999267578,3.3199999332428,1.78999996,md,27,118,,0.25999999,hv,hv73630712,2023-10-29T08:08:08.220Z,"11 km SSW of Volcano, Hawaii",earthquake,0.55,0.970000029,0.649999976,9,automatic,hv,hv
 2023-10-29T08:03:02.780Z,17.9735,-67.0716666666667,6.99,2.34,md,14,203,0.02643,0.14,pr,pr71430288,2023-10-29T08:26:27.350Z,"2 km W of La Parguera, Puerto Rico",earthquake,0.41,0.16,0.138513936533354,5,reviewed,pr,pr
 2023-10-29T07:57:01.550Z,33.7018333,-117.0303333,12.43,0.66,ml,31,146,0.02482,0.11,ci,ci40590624,2023-10-29T15:50:45.011Z,"5 km E of Winchester, CA",earthquake,0.23,0.31,0.07,8,reviewed,ci,ci
-2023-10-29T07:52:19.720Z,18.8475,-64.7903,9,3.86,md,18,214,0.5222,0.28,pr,pr2023302001,2023-10-29T08:31:45.040Z,"57 km N of Cruz Bay, U.S. Virgin Islands",earthquake,0.92,1.02,0.1,12,reviewed,pr,pr
