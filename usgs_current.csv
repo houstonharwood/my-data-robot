@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T22:21:24.280Z,47.849833333333336,-123.98366666666666,28.73,2.17,ml,28,35,0.03598,0.36,uw,uw61960312,2023-10-30T02:46:40.320Z,"32 km ESE of Forks, Washington",earthquake,0.66,1.17,0.15508278462836378,14,reviewed,uw,uw
 2023-10-29T22:16:42.827Z,63.8978,-148.3281,7.5,1.6,ml,,,,0.63,ak,ak023dvthv7e,2023-10-29T22:18:35.255Z,"31 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-29T22:04:56.900Z,38.8310013,-122.8184967,1.64,0.72,md,14,60,0.01513,0.02,nc,nc73953450,2023-10-29T22:16:10.403Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.54,0.11,14,automatic,nc,nc
-2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
+2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"Alaska Peninsula",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
 2023-10-29T21:53:39.092Z,66.4034,-153.0299,0,1.8,ml,,,,0.68,ak,ak023dvt4ct1,2023-10-29T21:56:13.944Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T21:44:01.310Z,33.6893333,-117.634,0.85,1.47,ml,9,129,0.2248,0.23,ci,ci40590928,2023-10-29T21:47:45.436Z,"2 km E of Foothill Ranch, CA",earthquake,0.85,31.61,0.324,10,automatic,ci,ci
 2023-10-29T21:39:43.120Z,38.7916679,-122.7263336,-0.4,1.04,md,8,127,0.0117,0.02,nc,nc73953440,2023-10-29T21:51:10.279Z,"3 km ENE of The Geysers, CA",earthquake,0.24,1.74,0.58,9,automatic,nc,nc
@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T18:16:32.760Z,58.2353333333333,-155.176166666667,3.96,1,ml,8,87,,0.08,av,av92100286,2023-10-29T22:08:44.931Z,"85 km NNW of Karluk, Alaska",earthquake,0.3,0.56,0.333967971378959,8,reviewed,av,av
 2023-10-29T18:14:44.240Z,38.8341675,-122.8170013,1.23,0.72,md,13,59,0.0151,0.05,nc,nc73953345,2023-10-29T18:28:11.072Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.7,0.11,14,automatic,nc,nc
 2023-10-29T18:11:55.970Z,18.1015,-67.2326666666667,99.6,3.05,md,8,194,0.1505,0.15,pr,pr71430333,2023-10-29T18:19:50.150Z,"Mona Passage",earthquake,1.87,0.92,0.0911423801713729,6,reviewed,pr,pr
+2023-10-29T17:58:25.932Z,32.348,-102.117,8.8282,1.9,ml(texnet),26,78,0.1,0.1,tx,tx2023vfhz,2023-10-30T11:00:03.279Z,"39 km N of Midland, Texas",earthquake,0.719290239,1.678571972,0.2,20,reviewed,tx,tx
 2023-10-29T17:55:20.600Z,33.2338333,-116.7963333,3.31,0.86,ml,21,46,0.03156,0.21,ci,ci40590824,2023-10-29T17:58:57.953Z,"3 km WSW of Lake Henshaw, CA",earthquake,0.31,0.92,0.139,15,automatic,ci,ci
 2023-10-29T17:42:22.440Z,60.4804,-152.0258,80.8,1.6,ml,,,,0.6,ak,ak023dvqo8ki,2023-10-29T17:44:42.483Z,"41 km W of Kalifornsky, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-29T17:38:42.760Z,49.12133333333333,-118.61233333333334,-0.68,1.68,ml,6,230,0.4538,0.38,uw,uw61960267,2023-10-30T03:38:53.590Z,"16 km NW of Grand Forks, Canada",explosion,1.71,31.61,0.15614367843754184,3,reviewed,uw,uw
@@ -192,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T11:33:28.790Z,37.6668333,-118.9238333,4.18,0.27,md,13,206,0.01267,0.06,nc,nc73953245,2023-10-29T18:58:11.240Z,"6 km NE of Mammoth Lakes, CA",earthquake,0.79,0.47,0.125,13,reviewed,nc,nc
 2023-10-29T11:20:18.880Z,38.8341675,-122.7809982,0.91,0.7,md,9,89,0.008439,0.02,nc,nc73953240,2023-10-29T11:53:11.478Z,"5 km WNW of Cobb, CA",earthquake,0.67,1.04,0.09,9,automatic,nc,nc
 2023-10-29T11:20:15.360Z,46.19266666666667,-122.18933333333334,1.03,0.28,ml,10,140,0.007193,0.06,uw,uw61960222,2023-10-29T16:39:17.400Z,"37 km NNE of Amboy, Washington",earthquake,0.47,0.83,0.0839548211606731,3,reviewed,uw,uw
-2023-10-29T11:02:20.549Z,20.1214,94.494,85.074,4.2,mb,42,138,1.149,0.64,us,us7000l7da,2023-10-29T11:25:36.040Z,"Myanmar",earthquake,8.48,7.214,0.104,26,reviewed,us,us
-2023-10-29T10:59:30.475Z,38.1128,22.7039,10,4.3,mb,58,66,1.119,0.45,us,us7000l7d9,2023-10-29T11:18:41.040Z,"7 km ENE of Xylókastro, Greece",earthquake,2.63,1.885,0.096,31,reviewed,us,us
