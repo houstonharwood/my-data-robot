@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T22:49:01.630Z,19.3584995269775,-155.289337158203,2.09999990463257,1.78,ml,17,115,,0.0900000036,hv,hv73633527,2023-10-30T22:54:32.970Z,"10 km SSW of Volcano, Hawaii",earthquake,0.27,0.449999988,0.45,8,automatic,hv,hv
+2023-10-30T22:48:42.970Z,19.2103328704834,-155.392333984375,29.5699996948242,2.43,ml,22,165,,0.109999999,hv,hv73633522,2023-10-30T22:54:14.280Z,"9 km E of Pāhala, Hawaii",earthquake,0.84,1.16999996,0.35,6,automatic,hv,hv
 2023-10-30T22:24:51.240Z,38.8446655,-122.8171692,0.77,0.73,md,11,87,0.01109,0.02,nc,nc73953895,2023-10-30T22:43:10.810Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.83,0.12,11,automatic,nc,nc
 2023-10-30T22:24:09.291Z,36.5901,83.7411,10,4.2,mb,30,95,7.2,1,us,us7000l7mi,2023-10-30T22:39:03.040Z,"159 km E of Aqqan, China",earthquake,5.09,1.944,0.128,17,reviewed,us,us
 2023-10-30T22:10:24.310Z,33.9378333,-115.8166667,5.01,1.21,ml,11,179,0.264,0.08,ci,ci40592160,2023-10-30T22:14:22.987Z,"32 km SE of Twentynine Palms, CA",earthquake,0.44,3.28,0.12,16,automatic,ci,ci
@@ -175,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T02:22:42.230Z,34.6851667,-116.2853333,1.89,2.56,ml,25,46,0.1104,0.17,ci,ci40591080,2023-10-30T14:18:12.718Z,"12 km WSW of Ludlow, CA",earthquake,0.18,0.39,0.157,24,reviewed,ci,ci
 2023-10-30T02:20:01.030Z,38.8491669,-122.8123322,1.67,0.33,md,9,63,0.0102,0.02,nc,nc73953520,2023-10-30T02:30:10.853Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.93,0.27,9,automatic,nc,nc
 2023-10-30T02:18:59.153Z,31.647,-104.333,6.8,2,ml(texnet),36,63,0.1,0.2,tx,tx2023vfyn,2023-10-30T10:23:04.267Z,"58 km S of Whites City, New Mexico",earthquake,0.7558124291,0.8064438058,0.2,25,reviewed,tx,tx
-2023-10-30T02:15:40.350Z,38.6895,-122.5046667,6.06,2.55,md,84,27,0.06523,0.17,nc,nc73953515,2023-10-30T19:58:09.809Z,"12 km SE of Middletown, CA",earthquake,0.15,0.49,0.156,134,reviewed,nc,nc
+2023-10-30T02:15:40.350Z,38.6895,-122.5046667,6.06,2.55,md,84,27,0.06523,0.17,nc,nc73953515,2023-10-30T22:54:10.868Z,"12 km SE of Middletown, CA",earthquake,0.15,0.49,0.156,134,reviewed,nc,nc
 2023-10-30T02:04:53.770Z,38.831501,-122.8153305,1.93,0.72,md,9,76,0.01726,0.01,nc,nc73953510,2023-10-30T02:35:11.880Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.25,0.16,10,automatic,nc,nc
 2023-10-30T02:03:39.350Z,34.6803333,-116.2966667,1.11,1.65,ml,12,75,0.1198,0.18,ci,ci40591072,2023-10-30T13:11:21.897Z,"13 km WSW of Ludlow, CA",earthquake,0.45,0.88,0.169,22,reviewed,ci,ci
 2023-10-30T01:52:17.810Z,37.5275,-118.8205,1.2,0.67,md,14,169,0.06279,0.04,nc,nc73953505,2023-10-30T18:50:11.433Z,"13 km WSW of Toms Place, CA",earthquake,0.95,1.63,0.144,12,reviewed,nc,nc
@@ -215,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T23:04:17.985Z,36.9333,-116.1572,8.3,0,ml,13,64.9,0.06,0.1006,nn,nn00868133,2023-10-30T03:06:12.815Z,"53 km E of Beatty, Nevada",earthquake,,1.5,0.4,4,reviewed,nn,nn
 2023-10-29T22:57:40.461Z,61.7474,-149.4734,31.4,1.6,ml,,,,0.69,ak,ak023dvtqndq,2023-10-29T22:59:46.758Z,"12 km W of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-29T22:55:10.954Z,29.2175,130.3161,45.394,4.5,mb,41,122,2.287,0.78,us,us7000l7fl,2023-10-29T23:14:45.040Z,"110 km NE of Tatsugō, Japan",earthquake,2.84,8.13,0.105,27,reviewed,us,us
-2023-10-29T22:51:54.250Z,36.537,-98.95766667,6.78,1.15,ml,15,104,0.0449911712,0.07,ok,ok2023vfrr,2023-10-30T14:23:15.168Z,"8 km SW of Waynoka, Oklahoma",earthquake,,0.4,0.28,4,reviewed,ok,ok
-2023-10-29T22:50:08.529Z,36.5365,-98.95816667,6.69,1.13,ml,18,105,0.04409134777,0.06,ok,ok2023vfrq,2023-10-30T13:45:22.523Z,"8 km SW of Waynoka, Oklahoma",earthquake,,0.2,0.29,4,reviewed,ok,ok
