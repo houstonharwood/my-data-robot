@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-31T15:23:35.360Z,38.6881676,-122.4964981,7.87,1.56,md,13,110,0.09454,0.06,nc,nc73954160,2023-10-31T15:25:13.141Z,"12 km SE of Middletown, CA",earthquake,0.37,1.36,0.17,15,automatic,nc,nc
+2023-10-31T15:28:37.830Z,38.7955017,-122.7580032,3.76,1.01,md,20,85,0.005287,0.02,nc,nc73954165,2023-10-31T15:30:13.546Z,"2 km N of The Geysers, CA",earthquake,0.28,0.68,0.23,19,automatic,nc,nc
+2023-10-31T15:23:35.360Z,38.6881676,-122.4964981,7.87,1.56,md,13,110,0.09454,0.06,nc,nc73954160,2023-10-31T15:34:10.760Z,"12 km SE of Middletown, CA",earthquake,0.37,1.36,0.17,15,automatic,nc,nc
 2023-10-31T15:15:11.508Z,60.1485,-150.9334,58.6,1.8,ml,,,,0.21,ak,ak023dz0e8tq,2023-10-31T15:16:50.642Z,"27 km ESE of Clam Gulch, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-31T15:13:59.079Z,61.0912,-151.0195,54.1,1.4,ml,,,,0.32,ak,ak023dz0dx2b,2023-10-31T15:15:41.905Z,"6 km SSE of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-31T14:56:20.940Z,19.1663341522217,-155.483993530273,30.5100002288818,1.80999994,md,40,165,,0.119999997,hv,hv73634342,2023-10-31T14:59:40.430Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,0.829999983,0.0199999996,5,automatic,hv,hv
@@ -21,6 +22,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T11:49:47.690Z,33.8726667,-117.048,13.28,1.18,ml,38,27,0.07421,0.23,ci,ci40592448,2023-10-31T11:53:25.327Z,"9 km SW of Beaumont, CA",earthquake,0.26,0.98,0.185,29,automatic,ci,ci
 2023-10-31T11:35:11.980Z,37.4536667,-118.7843323,2.75,1.84,md,21,157,0.1407,0.04,nc,nc73954110,2023-10-31T13:39:11.156Z,"15 km SW of Toms Place, CA",earthquake,0.46,1.65,0.14,20,automatic,nc,nc
 2023-10-31T11:34:36.790Z,36.8358345,-121.3061676,7.93,1.61,md,13,136,0.0618,0.06,nc,nc73954105,2023-10-31T13:11:12.975Z,"5 km NNE of Tres Pinos, CA",earthquake,0.45,1.08,0.25,9,automatic,nc,nc
+2023-10-31T11:22:00.540Z,45.427833557128906,-122.89016723632812,3.91000008583069,2.32999992,md,19,131,0.4498,0.479999989,uw,uw61960592,2023-10-31T15:32:26.570Z,"7 km WNW of King City, Oregon",earthquake,2.44,40.5200005,2.31999993,2,reviewed,uw,uw
+2023-10-31T11:21:59.590Z,43.352333068847656,-122.10966491699219,5.78999996185303,2.0155640840530396,ml,11,159,0.3763,0.449999988,uw,uw61960587,2023-10-31T15:34:17.260Z,"52 km SSE of Oakridge, Oregon",earthquake,2.4,38.5,0.27442121505737305,17,reviewed,uw,uw
 2023-10-31T11:12:57.892Z,32.008,-103.836,6.9028,2.5,ml(texnet),17,69,0,0.1,tx,tx2023vilr,2023-10-31T13:50:23.693Z,"32 km SE of Malaga, New Mexico",earthquake,1.145341606,0.9170335199,0.1,7,reviewed,tx,tx
 2023-10-31T11:10:56.143Z,-17.5191,-179.0072,549.788,6.5,mww,110,27,2.813,0.71,us,us7000l7qy,2023-10-31T12:08:59.952Z,"187 km ENE of Levuka, Fiji",earthquake,9.79,4.474,0.052,36,reviewed,us,us
 2023-10-31T10:57:34.730Z,19.1544990539551,-155.374160766602,30.8700008392334,1.80999994,md,39,189,,0.100000001,hv,hv73634077,2023-10-31T11:00:47.860Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.61,0.860000014,1.80999994,4,automatic,hv,hv
@@ -85,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T02:49:24.240Z,38.7816658,-122.7568359,1.17,1.3,md,14,66,0.01296,0.04,nc,nc73953995,2023-10-31T07:25:11.830Z,"0 km N of The Geysers, CA",earthquake,0.3,0.51,0.29,14,automatic,nc,nc
 2023-10-31T02:47:54.504Z,61.7726,-150.5827,13.7,1.4,ml,,,,0.33,ak,ak023dysuk6y,2023-10-31T02:50:03.348Z,"25 km N of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-31T02:38:38.314Z,62.9718,-151.0902,23,1.7,ml,,,,1.17,ak,ak023dysslhz,2023-10-31T02:41:05.990Z,"Central Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-10-31T02:31:46.520Z,33.3581667,-116.3536667,9.66,1.02,ml,29,116,0.2414,0.19,ci,ci40592288,2023-10-31T02:35:21.385Z,"12 km N of Borrego Springs, CA",earthquake,0.34,1.19,0.116,26,automatic,ci,ci
+2023-10-31T02:31:46.510Z,33.3561667,-116.356,10.65,1.02,ml,41,80,0.0308,0.17,ci,ci40592288,2023-10-31T15:32:39.716Z,"11 km N of Borrego Springs, CA",earthquake,0.22,0.44,0.097,19,reviewed,ci,ci
 2023-10-31T02:29:25.493Z,-2.918,141.8944,29.272,4.9,mb,46,132,1.256,0.78,us,us7000l7pc,2023-10-31T03:21:14.040Z,"56 km WNW of Aitape, Papua New Guinea",earthquake,11.73,6.087,0.083,46,reviewed,us,us
 2023-10-31T02:21:00.511Z,38.337,-118.9047,10.9,2.5,ml,9,59.38,0.163,0.1578,nn,nn00868176,2023-10-31T11:52:34.597Z,"29 km ENE of Bridgeport, California",earthquake,,3.1,0.26,5,reviewed,nn,nn
 2023-10-31T02:20:03.781Z,61.5486,-147.2789,26.1,1.3,ml,,,,0.65,ak,ak023dysony2,2023-10-31T02:21:37.898Z,"35 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
