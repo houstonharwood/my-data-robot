@@ -114,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T20:22:40.431Z,63.5775,-148.9073,3.7,1.5,ml,,,,0.68,ak,ak023dxfvmln,2023-10-30T20:24:16.218Z,"17 km S of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-30T20:20:04.320Z,33.6968333,-116.7428333,16.36,0.48,ml,16,142,0.02785,0.08,ci,ci40591928,2023-10-30T22:40:21.010Z,"5 km SSW of Idyllwild, CA",earthquake,0.33,0.36,0.072,7,reviewed,ci,ci
 2023-10-30T20:09:30.123Z,62.1139,-150.9173,58.8,1.8,ml,,,,0.34,ak,ak023dxfsthw,2023-10-30T20:11:49.277Z,"28 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-30T20:03:39.750Z,17.9675,-66.818,10.22,2.56,md,25,181,0.05797,0.27,pr,pr71430438,2023-10-30T20:21:41.330Z,"2 km S of Indios, Puerto Rico",earthquake,0.5,0.41,0.136809206730517,10,reviewed,pr,pr
+2023-10-30T20:03:39.750Z,17.9675,-66.818,10.22,2.56,md,25,181,0.05797,0.27,pr,pr71430438,2023-10-30T20:21:41.330Z,"Puerto Rico",earthquake,0.5,0.41,0.136809206730517,10,reviewed,pr,pr
 2023-10-30T20:03:14.720Z,33.2675,-116.069,12.11,0.71,ml,8,148,0.121,0.25,ci,ci40591904,2023-10-30T22:36:03.228Z,"11 km WSW of Salton City, CA",earthquake,1.63,2.66,0.056,3,reviewed,ci,ci
 2023-10-30T19:56:07.990Z,19.1774997711182,-155.491165161133,35.439998626709,1.73000002,md,37,206,,0.109999999,hv,hv73633327,2023-10-30T19:59:38.330Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.76,1.01999998,0.579999983,3,automatic,hv,hv
 2023-10-30T19:19:30.290Z,35.2465,-118.5156667,8,1.19,ml,18,51,0.08958,0.15,ci,ci40591848,2023-10-30T20:38:29.105Z,"14 km NNW of Tehachapi, CA",earthquake,0.3,0.63,0.238,12,reviewed,ci,ci
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T16:36:34.950Z,17.8753333333333,-66.4801666666667,29.8,3.18,md,21,205,0.2053,0.19,pr,pr71430428,2023-10-30T17:17:17.040Z,"12 km SW of Santa Isabel, Puerto Rico",earthquake,0.6,0.98,0.0964156934558069,14,reviewed,pr,pr
 2023-10-30T16:28:38.462Z,68.5348,-147.101,0,2,ml,,,,0.68,ak,ak023dxdj6bq,2023-10-30T16:39:30.135Z,"78 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T16:06:33.820Z,38.7355003,-122.883667,10.51,0.82,md,7,212,0.06668,0.2,nc,nc73953760,2023-10-30T16:18:11.558Z,"12 km WSW of The Geysers, CA",earthquake,6.4,5.69,0.07,5,automatic,nc,nc
-2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-31T05:37:59.572Z,"4 km WNW of Hope Bay, Jamaica",earthquake,4.39,1.844,0.048,41,reviewed,us,us
+2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-31T05:37:59.572Z,"Jamaica region",earthquake,4.39,1.844,0.048,41,reviewed,us,us
 2023-10-30T15:51:31.231Z,60.9673,-152.2735,114.1,1.4,ml,,,,0.54,ak,ak023dxd2nmj,2023-10-30T15:56:44.466Z,"61 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-30T15:45:35.660Z,19.1574993133545,-155.418502807617,32.4500007629395,2.17000008,md,29,212,,0.0700000003,hv,hv73632957,2023-10-30T15:48:34.640Z,"8 km SE of Pāhala, Hawaii",earthquake,0.75,0.800000012,1.24000001,3,automatic,hv,hv
 2023-10-30T15:45:20.570Z,38.8154984,-122.8263321,2.27,0.8,md,17,56,0.006984,0.02,nc,nc73953750,2023-10-30T15:56:10.423Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.57,0.18,18,automatic,nc,nc
@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T09:49:57.730Z,37.4686667,-118.7878333,3.65,0.61,md,19,153,0.1255,0.04,nc,nc73953630,2023-10-30T19:11:26.998Z,"14 km SW of Toms Place, CA",earthquake,1.29,1.74,0.204,17,reviewed,nc,nc
 2023-10-30T09:42:25.300Z,44.2225,-115.1015,5.64,1.99,ml,14,72,0.2172,0.12,mb,mb90031238,2023-10-30T14:58:27.160Z,"13 km W of Stanley, Idaho",earthquake,0.29,0.9,0.348419164212916,12,reviewed,mb,mb
 2023-10-30T09:32:17.690Z,38.8286667,-122.7919998,1.1,0.7,md,11,54,0.009814,0.02,nc,nc73953620,2023-10-30T10:04:10.430Z,"6 km W of Cobb, CA",earthquake,0.26,0.92,0.07,14,automatic,nc,nc
-2023-10-30T09:29:24.740Z,61.775,-150.7443,41,1.8,ml,,,,0.61,ak,ak023dx9dbqy,2023-10-30T09:31:26.661Z,"28 km NNW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-10-30T09:28:16.040Z,46.9213333333333,-112.526166666667,10.73,2.22,ml,18,136,0.07819,0.12,mb,mb90031228,2023-10-30T14:45:22.820Z,"12 km ESE of Lincoln, Montana",earthquake,0.42,0.59,0.268855889620108,16,reviewed,mb,mb
