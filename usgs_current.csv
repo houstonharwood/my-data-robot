@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T14:41:22.730Z,46.17966842651367,-122.14533233642578,10.460000038147,1.08000004,md,10,196,0.01798,0.0599999987,uw,uw61960877,2023-11-01T14:48:31.360Z,"37 km NE of Amboy, Washington",earthquake,1.47,2.51999998,,1,reviewed,uw,uw
 2023-11-01T14:30:21.650Z,19.4021663665771,-155.26432800293,4.23000001907349,1.78,ml,28,54,,0.189999998,hv,hv73635657,2023-11-01T14:35:52.250Z,"5 km SW of Volcano, Hawaii",earthquake,0.3,0.389999986,0.34,9,automatic,hv,hv
 2023-11-01T14:13:10.140Z,33.4886667,-116.4805,13.89,1.07,ml,37,75,0.05742,0.21,ci,ci40593720,2023-11-01T14:16:43.492Z,"19 km ESE of Anza, CA",earthquake,0.3,0.5,0.119,25,automatic,ci,ci
 2023-11-01T14:10:58.560Z,19.4825000762939,-155.489334106445,-0.409999996423721,2.45,ml,48,35,,0.219999999,hv,hv73635632,2023-11-01T14:16:29.180Z,"27 km W of Volcano, Hawaii",earthquake,0.37,0.620000005,3.25,27,automatic,hv,hv
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T08:56:55.240Z,33.7665,-116.9375,14.53,1.51,ml,53,39,0.04853,0.2,ci,ci40593504,2023-11-01T09:00:50.928Z,"3 km SE of San Jacinto, CA",earthquake,0.2,0.41,0.199,26,automatic,ci,ci
 2023-11-01T08:53:11.130Z,38.8068333,-112.0603333,7.58,1.73,ml,30,59,0.1594,0.17,uu,uu60553342,2023-11-01T13:57:44.570Z,"4 km NNE of Richfield, Utah",earthquake,0.35,0.85,0.105,8,reviewed,uu,uu
 2023-11-01T08:16:57.770Z,19.2415008544922,-155.398162841797,31.1700000762939,2.14,ml,50,136,,0.119999997,hv,hv73635372,2023-11-01T08:22:28.590Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.46,0.600000024,3.85,17,automatic,hv,hv
-2023-11-01T08:08:49.166Z,44.3577,149.0038,56.441,4.9,mb,54,170,4.613,1.12,us,us7000l80y,2023-11-01T08:26:17.040Z,"Kuril Islands",earthquake,8.44,8.938,0.043,169,reviewed,us,us
+2023-11-01T08:08:49.166Z,44.3577,149.0038,56.441,4.9,mb,54,170,4.613,1.12,us,us7000l80y,2023-11-01T08:26:17.040Z,"131 km SE of Kuril’sk, Russia",earthquake,8.44,8.938,0.043,169,reviewed,us,us
 2023-11-01T08:03:28.610Z,35.2095,-118.6681667,5.8,1.1,ml,22,80,0.02735,0.24,ci,ci40593496,2023-11-01T08:06:58.622Z,"15 km E of Arvin, CA",earthquake,0.49,0.95,0.131,10,automatic,ci,ci
 2023-11-01T08:02:58.800Z,33.4601667,-116.8961667,2.96,0.33,ml,12,93,0.08503,0.22,ci,ci40593488,2023-11-01T08:06:52.484Z,"4 km WNW of Aguanga, CA",earthquake,0.43,0.79,0.103,9,automatic,ci,ci
 2023-11-01T07:49:15.250Z,38.8346672,-122.815834,1.61,0.7,md,8,91,0.01212,0.01,nc,nc73954510,2023-11-01T09:28:12.421Z,"8 km W of Cobb, CA",earthquake,0.38,1.7,0.31,9,automatic,nc,nc
@@ -164,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T19:35:51.889Z,39.5389,-119.456,14.9,1.3,ml,5,213.13,0.18,0.0306,nn,nn00868252,2023-11-01T04:32:30.749Z,"18 km SW of Wadsworth, Nevada",earthquake,,3.3,0.24,4,reviewed,nn,nn
 2023-10-31T19:32:42.940Z,45.30716666666667,-121.65783333333333,6.68,0.3,ml,6,236,0.01586,0.11,uw,uw61960707,2023-10-31T23:44:14.920Z,"7 km NE of Wapanitia, Oregon",earthquake,1.14,0.7,0.027517786396566102,3,reviewed,uw,uw
 2023-10-31T19:31:53.340Z,35.91466667,-95.15983333,0,1.58,ml,48,106,0.5128993517,0.5,ok,ok2023vjcc,2023-11-01T13:31:57.562Z,"2 km SW of Hulbert, Oklahoma",quarry blast,,0.6,0.16,10,reviewed,ok,ok
+2023-10-31T19:29:08.387Z,31.402,-103.517,4.5377,1.5,ml(texnet),20,60,0,0.3,tx,tx2023vjcb,2023-11-01T14:44:27.127Z,"3 km SW of Pecos, Texas",earthquake,1.345631454,0.6856875963,0,6,reviewed,tx,tx
 2023-10-31T19:27:54.122Z,31.654,-104.375,3.7015,1.6,mlv,19,71,0,0.5,tx,tx2023vjbz,2023-10-31T20:24:50.929Z,"57 km S of Whites City, New Mexico",earthquake,0,1.264552851,0.2,15,automatic,tx,tx
 2023-10-31T19:16:55.112Z,39.3593,-119.7272,0.5,1.4,ml,15,61.79,0.042,0.1316,nn,nn00868217,2023-10-31T23:07:30.286Z,"8 km NW of Virginia City, Nevada",earthquake,,2.4,0.13,7,reviewed,nn,nn
 2023-10-31T19:14:29.505Z,61.9626,-149.228,14.8,1.2,ml,,,,0.33,ak,ak023dz2rsx2,2023-10-31T19:16:05.337Z,"24 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
