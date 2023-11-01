@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T12:13:19.131Z,36.6355,-116.2549,9,0.1,ml,10,194.83,0.068,0.0719,nn,nn00868263,2023-11-01T12:14:57.537Z,"52 km W of Indian Springs, Nevada",earthquake,,1.1,0.33,5,automatic,nn,nn
 2023-11-01T12:00:31.486Z,51.0133,179.7144,4.9,2.1,ml,,,,0.62,ak,ak023e0m24vu,2023-11-01T13:21:51.167Z,"271 km WSW of Adak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2023-11-01T11:38:04.290Z,33.757,-116.9348333,15.63,0.42,ml,12,104,0.07034,0.11,ci,ci37586204,2023-11-01T18:16:00.112Z,"4 km ENE of Hemet, CA",earthquake,0.32,0.56,0.131,7,reviewed,ci,ci
-2023-11-01T11:38:01.403Z,36.6861,-116.2733,2,0.3,ml,14,136.79,0.064,0.2436,nn,nn00868260,2023-11-01T11:39:48.008Z,"49 km ESE of Beatty, Nevada",earthquake,,0.8,0.33,10,automatic,nn,nn
+2023-11-01T11:38:01.720Z,36.6579,-116.2716,6.5,0.3,ml,27,93.28,0.056,0.1185,nn,nn00868260,2023-11-01T20:39:51.352Z,"California-Nevada border region",earthquake,,0.8,0.46,12,reviewed,nn,nn
 2023-11-01T11:37:58.210Z,33.7705,-116.9346667,14.79,0.92,ml,36,66,0.08352,0.13,ci,ci40593600,2023-11-01T18:15:40.505Z,"3 km SE of San Jacinto, CA",earthquake,0.21,0.35,0.104,24,reviewed,ci,ci
 2023-11-01T11:37:38.880Z,38.8016667,-112.0588333,5.24,1.35,ml,18,61,0.1647,0.12,uu,uu60553362,2023-11-01T13:16:05.390Z,"3 km NE of Richfield, Utah",earthquake,0.28,1.74,0.093,4,reviewed,uu,uu
 2023-11-01T11:35:36.712Z,61.3249,-146.9273,16.1,2.5,ml,,,,0.92,ak,ak023e0lo75q,2023-11-01T11:55:20.040Z,"37 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -156,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T01:32:02.007Z,60.9119,-150.305,45.7,1.6,ml,,,,0.49,ak,ak023e0fp5ag,2023-11-01T01:34:06.463Z,"20 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-01T01:24:39.490Z,37.9716682,-122.0455017,16.55,2.67,md,72,49,,0.17,nc,nc73954420,2023-11-01T18:56:48.487Z,"3 km W of Concord, CA",earthquake,0.26,0.38,0.12,72,automatic,nc,nc
 2023-11-01T01:12:42.160Z,33.7043333,-116.8271667,17.26,0.74,ml,24,93,0.07611,0.14,ci,ci40593336,2023-11-01T16:26:15.043Z,"8 km SE of Valle Vista, CA",earthquake,0.33,0.46,0.13,12,reviewed,ci,ci
-2023-11-01T01:11:01.905Z,38.3492,-118.903,9.4,2.2,ml,15,47.83,0.174,0.1975,nn,nn00868237,2023-11-01T16:56:36.085Z,"California-Nevada border region",earthquake,,1.9,0.25,8,reviewed,nn,nn
+2023-11-01T01:11:01.905Z,38.3492,-118.903,9.4,2.2,ml,15,47.83,0.174,0.1975,nn,nn00868237,2023-11-01T16:56:36.085Z,"30 km ENE of Bridgeport, California",earthquake,,1.9,0.25,8,reviewed,nn,nn
 2023-11-01T01:09:44.415Z,62.8689,-151.0007,102.2,1.4,ml,,,,0.28,ak,ak023e0fkb3d,2023-11-01T01:11:54.411Z,"43 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-01T01:03:34.708Z,63.5832,-150.6909,2.8,1.4,ml,,,,0.95,ak,ak023e0fj02d,2023-11-01T01:06:38.430Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T00:51:02.940Z,46.19583333333333,-122.18216666666666,3.66,0.07,ml,14,97,0.004943,0.17,uw,uw61960797,2023-11-01T04:23:09.710Z,"Mount St. Helens area, Washington",earthquake,0.35,1.23,0.15855956499325027,11,reviewed,uw,uw
@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T21:07:58.410Z,38.6843338,-122.4944992,8.22,1.33,md,9,128,0.09098,0.07,nc,nc73954300,2023-11-01T00:48:11.499Z,"13 km NNW of Angwin, CA",earthquake,0.73,2.88,0.29,9,automatic,nc,nc
 2023-10-31T21:03:15.320Z,45.7165,-112.333,9.55,1.8,ml,16,89,0.1345,0.06,mb,mb90031528,2023-10-31T22:59:41.890Z,"19 km N of Twin Bridges, Montana",earthquake,0.32,0.93,0.203080311519167,18,reviewed,mb,mb
 2023-10-31T20:41:32.070Z,46.934,-120.54333333333334,-0.87,1.55,ml,16,92,0.02958,0.8,uw,uw61960737,2023-10-31T22:07:20.760Z,"6 km S of Ellensburg, Washington",earthquake,1.49,3.85,0.11241854453083922,14,reviewed,uw,uw
-2023-10-31T20:40:56.250Z,38.8338318,-122.8128357,2.8,0.22,md,8,93,0.01815,0.02,nc,nc73954295,2023-10-31T21:05:12.116Z,"8 km W of Cobb, CA",earthquake,0.55,2,0.1,9,automatic,nc,nc
