@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-01T05:30:52.357Z,61.4521,-151.7469,71.2,0.9,ml,,,,0.3,ak,ak023e0i2k5v,2023-11-01T05:32:55.667Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-11-01T05:14:29.410Z,38.8260002,-122.7979965,2.85,0.98,md,13,62,0.009786,0.01,nc,nc73954485,2023-11-01T05:25:10.092Z,"6 km W of Cobb, CA",earthquake,0.34,0.74,0.26,14,automatic,nc,nc
+2023-11-01T05:14:29.410Z,38.8260002,-122.7979965,2.85,0.98,md,13,62,0.009786,0.01,nc,nc73954485,2023-11-01T05:51:14.228Z,"6 km W of Cobb, CA",earthquake,0.34,0.74,0.26,14,automatic,nc,nc
 2023-11-01T05:06:07.220Z,33.2665,-116.4341667,4.86,1.18,ml,40,73,0.1908,0.19,ci,ci40593448,2023-11-01T05:17:05.500Z,"6 km WNW of Borrego Springs, CA",earthquake,0.3,1.74,0.149,26,automatic,ci,ci
 2023-11-01T05:04:15.840Z,38.8261681,-122.7949982,1.23,1.08,md,12,66,0.0121,0.02,nc,nc73954480,2023-11-01T05:42:13.181Z,"6 km W of Cobb, CA",earthquake,0.3,0.68,0.26,12,automatic,nc,nc
 2023-11-01T04:54:12.510Z,38.8378334,-122.8069992,2.2,0.78,md,16,59,0.01302,0.02,nc,nc73954470,2023-11-01T05:20:15.066Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.67,0.16,17,automatic,nc,nc
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T11:35:11.980Z,37.4536667,-118.7843323,2.75,1.84,md,21,157,0.1407,0.04,nc,nc73954110,2023-10-31T13:39:11.156Z,"15 km SW of Toms Place, CA",earthquake,0.46,1.65,0.14,20,automatic,nc,nc
 2023-10-31T11:34:36.790Z,36.8358345,-121.3061676,7.93,1.61,md,13,136,0.0618,0.06,nc,nc73954105,2023-10-31T13:11:12.975Z,"5 km NNE of Tres Pinos, CA",earthquake,0.45,1.08,0.25,9,automatic,nc,nc
 2023-10-31T11:23:34.030Z,35.6671667,-117.4711667,10.22,0.68,ml,4,279,0.0387,0.08,ci,ci40592440,2023-10-31T19:58:02.898Z,"13 km SSW of Searles Valley, CA",earthquake,0.73,0.7,0.076,1,reviewed,ci,ci
-2023-10-31T11:12:57.892Z,32.008,-103.836,6.9028,2.5,ml(texnet),17,69,0,0.1,tx,tx2023vilr,2023-10-31T13:50:23.693Z,"32 km SE of Malaga, New Mexico",earthquake,1.145341606,0.9170335199,0.1,7,reviewed,tx,tx
+2023-10-31T11:12:57.892Z,32.008,-103.836,6.9028,2.5,ml(texnet),17,69,0,0.1,tx,tx2023vilr,2023-11-01T05:51:46.040Z,"32 km SE of Malaga, New Mexico",earthquake,1.145341606,0.9170335199,0.1,7,reviewed,tx,tx
 2023-10-31T11:10:56.143Z,-17.5191,-179.0072,549.788,6.5,mww,110,27,2.813,0.71,us,us7000l7qy,2023-10-31T20:12:28.937Z,"187 km ENE of Levuka, Fiji",earthquake,9.79,4.474,0.052,36,reviewed,us,us
 2023-10-31T11:09:03.388Z,51.8962,176.8999,89,3.1,ml,,,,0.59,ak,ak023dyxz8ce,2023-10-31T16:52:54.477Z,"274 km ESE of Attu Station, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-10-31T10:57:34.730Z,19.1544990539551,-155.374160766602,30.8700008392334,1.80999994,md,39,189,,0.100000001,hv,hv73634077,2023-10-31T11:00:47.860Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.61,0.860000014,1.80999994,4,automatic,hv,hv
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T05:57:54.930Z,46.901833333333336,-120.5885,-0.84,0.62,md,7,119,0.01631,1.2,uw,uw61502848,2023-10-31T18:23:45.680Z,"10 km SSW of Ellensburg, Washington",earthquake,2.61,4.88,0.339112845564181,4,reviewed,uw,uw
 2023-10-31T05:57:13.880Z,46.91983333333334,-120.5615,-0.88,1.46,ml,13,107,0.01112,0.78,uw,uw61960562,2023-10-31T18:10:56.720Z,"8 km S of Ellensburg, Washington",earthquake,1.37,2.79,0.11653182558907327,11,reviewed,uw,uw
 2023-10-31T05:56:11.443Z,62.1035,-147.7676,39.4,1.2,ml,,,,0.2,ak,ak023dyuop4o,2023-10-31T05:57:38.432Z,"33 km N of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-31T05:49:52.940Z,38.8195,-122.7610016,1.78,1.32,md,22,121,0.01298,0.02,nc,nc73954015,2023-10-31T08:34:11.238Z,"3 km W of Cobb, CA",earthquake,0.24,0.36,0.1,23,automatic,nc,nc
