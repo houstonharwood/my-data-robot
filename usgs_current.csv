@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-01T18:38:20.718Z,61.6326,-149.9986,45.1,1.4,ml,,,,0.18,ak,ak023e0puubb,2023-11-01T18:39:58.134Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-11-01T18:33:34.469Z,58.1612,-155.4604,34.9,0.8,ml,,,,0.92,ak,ak023e0ptt3q,2023-11-01T18:36:29.228Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-01T18:23:43.230Z,38.824501,-122.7675018,0.51,0.96,md,9,181,0.006252,0.03,nc,nc73954675,2023-11-01T18:39:10.537Z,"4 km W of Cobb, CA",earthquake,0.38,0.71,0.26,13,automatic,nc,nc
+2023-11-01T18:23:43.230Z,38.824501,-122.7675018,0.51,0.96,md,9,181,0.006252,0.03,nc,nc73954675,2023-11-01T19:12:11.737Z,"4 km W of Cobb, CA",earthquake,0.38,0.71,0.26,13,automatic,nc,nc
 2023-11-01T18:10:23.920Z,35.6776667,-117.4961667,2,1.23,ml,15,62,0.06031,0.26,ci,ci40594080,2023-11-01T18:13:55.406Z,"13 km SW of Searles Valley, CA",earthquake,0.45,0.9,0.194,10,automatic,ci,ci
 2023-11-01T18:09:14.569Z,61.8863,-151.0785,67.8,1.4,ml,,,,0.51,ak,ak023e0pom2o,2023-11-01T18:11:56.252Z,"20 km SE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T18:05:27.647Z,62.6593,-150.2519,66.8,1.5,ml,,,,0.81,ak,ak023e0pns7w,2023-11-01T18:07:41.087Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T17:43:09.320Z,34.4343333,-116.889,2.73,1.16,ml,12,260,0.1736,0.38,ci,ci40594000,2023-11-01T17:47:01.107Z,"7 km E of Lucerne Valley, CA",earthquake,3.28,4.77,0.124,17,automatic,ci,ci
 2023-11-01T17:33:10.495Z,60.1807,-151.9625,57.9,0.7,ml,,,,0.48,ak,ak023e0p8bo8,2023-11-01T17:35:30.961Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-01T17:27:54.700Z,38.8313332,-122.8191681,1.49,0.72,md,16,59,0.01064,0.02,nc,nc73954655,2023-11-01T18:07:12.365Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.56,0.08,15,automatic,nc,nc
-2023-11-01T17:09:46.360Z,38.8326683,-122.8191681,1.39,0.83,md,19,51,0.01167,0.02,nc,nc73954650,2023-11-01T17:35:14.206Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.46,0.22,19,automatic,nc,nc
+2023-11-01T17:09:46.360Z,38.8326683,-122.8191681,1.39,0.83,md,19,51,0.01167,0.02,nc,nc73954650,2023-11-01T19:13:09.741Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.46,0.22,19,automatic,nc,nc
 2023-11-01T17:05:15.880Z,37.4980011,-118.8131638,4.96,1.95,md,21,111,0.09274,0.02,nc,nc73954645,2023-11-01T18:47:12.581Z,"14 km WSW of Toms Place, CA",earthquake,0.54,1.11,0.2,23,automatic,nc,nc
 2023-11-01T17:04:33.040Z,19.4440002441406,-155.596496582031,37.3499984741211,1.92,ml,41,65,,0.189999998,hv,hv73635757,2023-11-01T17:10:03.990Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.57,0.930000007,3.19,6,automatic,hv,hv
 2023-11-01T17:01:48.240Z,33.204,-116.7266667,10.92,0.6,ml,15,75,0.04172,0.23,ci,ci40593904,2023-11-01T17:05:12.939Z,"5 km SE of Lake Henshaw, CA",earthquake,0.56,0.81,0.079,6,automatic,ci,ci
@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T19:29:08.387Z,31.402,-103.517,4.5377,1.5,ml(texnet),20,60,0,0.3,tx,tx2023vjcb,2023-11-01T14:44:27.127Z,"western Texas",earthquake,1.345631454,0.6856875963,0,6,reviewed,tx,tx
 2023-10-31T19:27:54.122Z,31.654,-104.375,3.7015,1.6,mlv,19,71,0,0.5,tx,tx2023vjbz,2023-10-31T20:24:50.929Z,"57 km S of Whites City, New Mexico",earthquake,0,1.264552851,0.2,15,automatic,tx,tx
 2023-10-31T19:16:55.112Z,39.3593,-119.7272,0.5,1.4,ml,15,61.79,0.042,0.1316,nn,nn00868217,2023-10-31T23:07:30.286Z,"8 km NW of Virginia City, Nevada",earthquake,,2.4,0.13,7,reviewed,nn,nn
-2023-10-31T19:14:29.505Z,61.9626,-149.228,14.8,1.2,ml,,,,0.33,ak,ak023dz2rsx2,2023-10-31T19:16:05.337Z,"24 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-31T19:05:54.160Z,46.24833297729492,-123.03600311279297,1.75999999046326,1.08000004,md,19,161,0.1041,0.150000006,uw,uw61960697,2023-10-31T20:52:05.660Z,"9 km NNW of West Longview, Washington",earthquake,0.9,1.38,,1,reviewed,uw,uw
