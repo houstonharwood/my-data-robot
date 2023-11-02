@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-02T03:43:18.633Z,36.39217377,-98.44091797,3.814562798,1.97,ml,21,114.500885,0.1301051378,0.270848071,ok,ok2023vlnu,2023-11-02T03:46:21.553Z,"1 km S of Cleo Springs, Oklahoma",earthquake,4.080038089,2.523045294,0.19,12,automatic,ok,ok
+2023-11-02T03:53:41.090Z,35.3918343,-118.2259979,4.22,2.09,ml,53,33,0.1605,0.19,ci,ci40594736,2023-11-02T03:55:46.958Z,"32 km SE of Bodfish, CA",earthquake,0.23,0.92,0.233,26,automatic,ci,ci
+2023-11-02T03:46:21.619Z,38.1361,-118.0011,0,1.4,ml,12,92.9,0.064,0.3957,nn,nn00868316,2023-11-02T03:49:19.242Z,"California-Nevada border region",earthquake,,0.5,0.28,7,automatic,nn,nn
+2023-11-02T03:43:18.633Z,36.39217377,-98.44091797,3.814562798,1.97,ml,21,114.500885,0.1301051378,0.270848071,ok,ok2023vlnu,2023-11-02T03:48:38.663Z,"1 km S of Cleo Springs, Oklahoma",earthquake,4.080038089,2.523045294,0.19,12,automatic,ok,ok
 2023-11-02T03:30:34.364Z,61.5316,-146.5916,32.1,1.4,ml,,,,0.26,ak,ak023e24f024,2023-11-02T03:32:07.422Z,"46 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-02T03:29:45.770Z,35.6708333,-117.4848333,4.82,0.94,ml,11,140,0.0501,0.12,ci,ci40594728,2023-11-02T03:33:29.887Z,"13 km SW of Searles Valley, CA",earthquake,0.39,0.55,0.207,5,automatic,ci,ci
 2023-11-02T03:22:34.600Z,33.6778333,-116.7076667,14.99,0.93,ml,28,62,0.03369,0.16,ci,ci40594720,2023-11-02T03:26:08.942Z,"7 km S of Idyllwild, CA",earthquake,0.27,0.42,0.204,26,automatic,ci,ci
@@ -19,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T01:49:40.910Z,33.8578333,-116.986,12.8,0.62,ml,10,118,0.06355,0.24,ci,ci40594680,2023-11-02T01:53:12.688Z,"8 km S of Beaumont, CA",earthquake,1.05,1.81,0.14,8,automatic,ci,ci
 2023-11-02T01:49:11.025Z,61.3946,-148.528,38.1,1,ml,,,,0.67,ak,ak023e23c5ni,2023-11-02T01:50:56.404Z,"21 km ESE of Knik River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-02T01:31:32.800Z,35.657,-117.4508333,3.72,0.82,ml,12,114,0.02352,0.15,ci,ci40594672,2023-11-02T01:35:17.960Z,"13 km SSW of Searles Valley, CA",earthquake,0.46,0.7,0.151,4,automatic,ci,ci
+2023-11-02T01:23:59.566Z,54.271,-159.8209,25.7,2.4,ml,,,,0.96,ak,ak023e236os4,2023-11-02T03:54:35.688Z,"south of Alaska",earthquake,,2.8,,,reviewed,ak,ak
 2023-11-02T01:15:11.767Z,61.0645,-151.9193,85,1,ml,,,,0.19,ak,ak023e234vd4,2023-11-02T01:16:28.893Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-02T01:08:50.830Z,35.978,-117.4556667,-0.05,0.8,ml,9,180,0.2951,0.19,ci,ci40594656,2023-11-02T01:12:27.328Z,"24 km N of Searles Valley, CA",earthquake,0.89,31.61,0.191,3,automatic,ci,ci
 2023-11-02T01:06:06.700Z,38.7755013,-122.7160034,1.98,1.14,md,7,126,0.01498,0.01,nc,nc73954860,2023-11-02T03:32:10.601Z,"2 km W of Anderson Springs, CA",earthquake,0.67,0.83,0.23,9,automatic,nc,nc
@@ -32,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T00:15:30.860Z,19.6996666666667,-156.067833333333,29.73,2.95,ml,55,195,,0.17,hv,hv73636232,2023-11-02T01:22:46.909Z,"9 km WSW of Kalaoa, Hawaii",earthquake,0.53,0.86,0.136992788495856,23,reviewed,hv,hv
 2023-11-02T00:02:14.840Z,37.1069984,-121.8274994,-0.39,1.86,md,18,57,0.04019,0.13,nc,nc73954835,2023-11-02T03:42:14.661Z,"8 km NNE of Day Valley, CA",earthquake,0.43,1.23,0.14,15,automatic,nc,nc
 2023-11-02T00:02:00.897Z,60.4688,-149.7328,42.9,1.9,ml,,,,0.5,ak,ak023e22gmm1,2023-11-02T00:03:51.773Z,"5 km ESE of Cooper Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-01T23:55:51.730Z,18.0265,-66.7713333333333,12.67,2.18,md,12,160,0.02028,0.23,pr,pr71430578,2023-11-02T00:16:04.990Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.72,0.65,0.104200947102403,5,reviewed,pr,pr
+2023-11-01T23:55:51.730Z,18.0265,-66.7713333333333,12.67,2.18,md,12,160,0.02028,0.23,pr,pr71430578,2023-11-02T00:16:04.990Z,"Puerto Rico",earthquake,0.72,0.65,0.104200947102403,5,reviewed,pr,pr
 2023-11-01T23:52:58.360Z,33.6755,-116.7275,14.13,0.22,ml,19,102,0.03727,0.11,ci,ci40594584,2023-11-02T01:06:26.436Z,"7 km S of Idyllwild, CA",earthquake,0.29,0.46,0.092,9,reviewed,ci,ci
 2023-11-01T23:50:32.060Z,33.6726667,-116.73,14.47,0.58,ml,22,74,0.04061,0.1,ci,ci40594576,2023-11-02T01:03:24.266Z,"8 km S of Idyllwild, CA",earthquake,0.25,0.39,0.138,13,reviewed,ci,ci
 2023-11-01T23:48:48.750Z,33.4191667,-116.3746667,12.42,1.61,ml,51,62,0.1124,0.21,ci,ci40594568,2023-11-02T00:54:35.850Z,"18 km N of Borrego Springs, CA",earthquake,0.26,0.77,0.15,26,reviewed,ci,ci
@@ -206,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T04:30:50.560Z,36.0208321,-120.5803299,4.25,2.45,md,42,43,,0.06,nc,nc73954455,2023-11-01T17:59:52.165Z,"19 km NW of Parkfield, CA",earthquake,0.18,0.28,0.13,47,automatic,nc,nc
 2023-11-01T04:26:27.260Z,33.7713333,-116.9311667,14.97,0.55,ml,16,106,0.08426,0.1,ci,ci40593432,2023-11-01T17:09:18.180Z,"3 km ESE of San Jacinto, CA",earthquake,0.33,0.45,0.114,10,reviewed,ci,ci
 2023-11-01T04:03:22.758Z,31.382,-103.772,2.4553,2.1,ml(texnet),13,52,0.1,0.2,tx,tx2023vjsz,2023-11-01T13:16:28.805Z,"7 km NNE of Toyah, Texas",earthquake,1.140797206,2.013891017,0.1,14,reviewed,tx,tx
-2023-11-01T03:55:23.570Z,33.7676667,-116.9376667,15.27,1.13,ml,45,41,0.04746,0.18,ci,ci40593424,2023-11-01T16:49:33.166Z,"3 km SE of San Jacinto, CA",earthquake,0.23,0.41,0.145,29,reviewed,ci,ci
-2023-11-01T03:53:15.315Z,38.1675,-116.4944,12.2,1.9,ml,12,177.72,0.46,0.1259,nn,nn00868244,2023-11-01T18:45:05.968Z,"65 km E of Tonopah, Nevada",earthquake,,1.7,0.47,5,reviewed,nn,nn
-2023-11-01T03:52:15.100Z,33.0365,-116.4461667,7.55,0.64,ml,18,139,0.07108,0.19,ci,ci40593416,2023-11-01T16:08:16.404Z,"15 km ESE of Julian, CA",earthquake,0.39,1.07,0.149,6,reviewed,ci,ci
