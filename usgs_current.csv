@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-03T11:47:33.700Z,38.8121681,-122.8116684,2.6,1.08,md,26,49,0.01128,0.06,nc,nc73955470,2023-11-03T11:49:11.125Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.48,0.15,26,automatic,nc,nc
+2023-11-03T11:47:33.700Z,38.8121681,-122.8116684,2.6,1.08,md,26,49,0.01128,0.06,nc,nc73955470,2023-11-03T11:56:10.387Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.48,0.15,26,automatic,nc,nc
 2023-11-03T11:25:30.270Z,34.3175,-116.4595,8.27,0.74,ml,15,126,0.06878,0.17,ci,ci39706226,2023-11-03T11:29:01.682Z,"23 km N of Yucca Valley, CA",earthquake,0.52,1,0.173,9,automatic,ci,ci
 2023-11-03T11:24:51.705Z,59.4037,-153.2444,74.4,1.4,ml,,,,0.69,ak,ak023e3wokfm,2023-11-03T11:27:24.350Z,"64 km SE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-03T11:08:27.774Z,60.6606,-152.4061,90.4,1.4,ml,,,,0.71,ak,ak023e3wl34p,2023-11-03T11:10:21.043Z,"59 km W of Salamatof, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T07:38:49.150Z,19.4875,-155.594333333333,9.35,0.72,md,15,60,,0.16,hv,hv73637787,2023-11-03T07:59:54.550Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.71,0.041594258403457,9,reviewed,hv,hv
 2023-11-03T07:37:40.613Z,-30.0087,-72.056,29.297,4.6,mwr,50,138,0.715,0.81,us,us7000l8iw,2023-11-03T08:00:02.320Z,"69 km W of Coquimbo, Chile",earthquake,4.63,4.95,0.039,63,reviewed,us,us
 2023-11-03T07:29:33.196Z,36.7646,68.5624,49.817,4.4,mb,25,113,2.253,0.84,us,us7000l8iv,2023-11-03T08:21:24.040Z,"26 km W of Kunduz, Afghanistan",earthquake,8.65,9.682,0.13,17,reviewed,us,us
-2023-11-03T07:25:56.600Z,19.2935,-155.379833333333,3.24,0.98,md,12,110,,0.1,hv,hv73637777,2023-11-03T08:13:26.160Z,"Hawaii region, Hawaii",earthquake,0.35,0.82,0.00155739027341162,2,reviewed,hv,hv
+2023-11-03T07:25:56.600Z,19.2935,-155.379833333333,3.24,0.98,md,12,110,,0.1,hv,hv73637777,2023-11-03T08:13:26.160Z,"14 km NE of Pāhala, Hawaii",earthquake,0.35,0.82,0.00155739027341162,2,reviewed,hv,hv
 2023-11-03T07:22:36.050Z,19.4671666666667,-155.589833333333,6.58,0.61,md,13,71,,0.16,hv,hv73637772,2023-11-03T07:51:21.710Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.79,0.0363463621562466,7,reviewed,hv,hv
 2023-11-03T07:12:55.938Z,62.362,-148.8535,34.4,1.4,ml,,,,0.76,ak,ak023e3u89qx,2023-11-03T07:14:51.209Z,"56 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-03T07:09:07.430Z,19.459,-155.592833333333,5.1,0.85,md,13,74,,0.14,hv,hv73637752,2023-11-03T07:40:33.680Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.62,0.0508190579869138,5,reviewed,hv,hv
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T12:11:48.480Z,38.8075,-112.0585,6.12,1.47,ml,19,59,0.1589,0.2,uu,uu60553457,2023-11-02T16:03:58.110Z,"4 km NNE of Richfield, Utah",earthquake,0.5,1.1,0.095,4,reviewed,uu,uu
 2023-11-02T12:05:34.610Z,31.678,-104.398,6.4915,1.6,ml(texnet),14,69,0,0.2,tx,tx2023vmel,2023-11-03T02:32:25.839Z,"55 km S of Whites City, New Mexico",earthquake,0.8226802454,0.8930798741,0.1,11,reviewed,tx,tx
 2023-11-02T12:04:07.621Z,31.673,-104.389,6.0802,2,ml(texnet),11,57,0,0.2,tx,tx2023vmej,2023-11-02T20:31:06.102Z,"55 km S of Whites City, New Mexico",earthquake,1.056725395,1.27719362,0.1,16,reviewed,tx,tx
-2023-11-02T11:51:08.287Z,60.3649,-143.4005,4,1.5,ml,,,,0.42,ak,ak023e29awx8,2023-11-02T11:53:09.411Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
