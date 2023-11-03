@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-03T21:16:24.350Z,38.7804985,-122.7566681,1.08,0.95,md,11,80,0.01583,0.02,nc,nc73955675,2023-11-03T21:27:10.893Z,"0 km N of The Geysers, CA",earthquake,0.28,0.57,0.18,11,automatic,nc,nc
+2023-11-03T21:16:24.350Z,38.7804985,-122.7566681,1.08,0.95,md,11,80,0.01583,0.02,nc,nc73955675,2023-11-03T21:36:11.944Z,"0 km N of The Geysers, CA",earthquake,0.28,0.57,0.18,11,automatic,nc,nc
 2023-11-03T21:05:19.510Z,19.5041666666667,-155.590166666667,1.94,0.49,md,11,132,,0.09,hv,hv73638527,2023-11-03T21:30:56.100Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.7,0.0689465867728434,6,reviewed,hv,hv
 2023-11-03T21:04:16.127Z,58.7132,-153.6833,0,0.9,ml,,,,0.66,ak,ak023e42ijt7,2023-11-03T21:16:29.620Z,"85 km NNW of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-03T20:46:12.415Z,57.8997,-156.2533,132.4,1.6,ml,,,,0.23,ak,ak023e4263ll,2023-11-03T20:48:23.569Z,"75 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-03T20:26:52.850Z,34.0218333,-116.7445,15.67,1.3,ml,40,79,0.05421,0.2,ci,ci39706690,2023-11-03T20:30:31.573Z,"12 km NNE of Cabazon, CA",earthquake,0.26,0.62,0.115,28,automatic,ci,ci
-2023-11-03T20:25:46.010Z,19.2980003356934,-155.384170532227,3.99000000953674,1.74000001,md,27,155,,0.129999995,hv,hv73638477,2023-11-03T20:29:04.370Z,"14 km NE of Pāhala, Hawaii",earthquake,0.45,1.03999996,0.829999983,10,automatic,hv,hv
+2023-11-03T20:25:46.010Z,19.2980003356934,-155.384170532227,3.99000000953674,1.74000001,md,27,155,,0.129999995,hv,hv73638477,2023-11-03T20:29:04.370Z,"Island of Hawaii, Hawaii",earthquake,0.45,1.03999996,0.829999983,10,automatic,hv,hv
 2023-11-03T20:24:52.942Z,62.9038,-150.229,77.8,1.8,ml,,,,0.48,ak,ak023e421gz2,2023-11-03T20:27:03.996Z,"51 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-03T20:20:38.650Z,34.4081667,-119.1698333,4.71,1.88,ml,26,53,0.03921,0.21,ci,ci39706682,2023-11-03T21:32:19.058Z,"8 km ESE of Ojai, CA",earthquake,0.29,0.52,0.206,35,reviewed,ci,ci
-2023-11-03T20:12:18.460Z,34.4215,-119.1696667,6.91,3.85,ml,105,25,0.03072,0.29,ci,ci39706674,2023-11-03T21:31:43.851Z,"7 km ESE of Ojai, CA",earthquake,0.19,0.51,0.197,225,reviewed,ci,ci
+2023-11-03T20:12:18.460Z,34.4215,-119.1696667,6.91,3.85,ml,105,25,0.03072,0.29,ci,ci39706674,2023-11-03T21:41:37.060Z,"7 km ESE of Ojai, CA",earthquake,0.19,0.51,0.197,225,reviewed,ci,ci
 2023-11-03T20:07:06.020Z,19.4751666666667,-155.603666666667,5.04,0.56,md,14,82,,0.14,hv,hv73638437,2023-11-03T20:54:02.100Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.67,0.0522015286732119,6,reviewed,hv,hv
 2023-11-03T20:06:38.033Z,31.592,-104.551,3.3824,2.3,ml(texnet),18,164,0.1,0.3,tx,tx2023vopt,2023-11-03T20:24:12.603Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.056514493,0.1,14,automatic,tx,tx
 2023-11-03T19:58:07.182Z,60.8197,-147.6885,25.5,1.4,ml,,,,0.56,ak,ak023e41n86m,2023-11-03T19:59:39.616Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -31,7 +31,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T18:42:43.387Z,61.4448,-150.9843,62.7,1.4,ml,,,,0.49,ak,ak023e40yfwy,2023-11-03T18:44:26.147Z,"27 km WSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-03T18:32:14.930Z,50.0163,156.4146,64.996,5.1,mb,45,137,3.199,0.8,us,us7000l8pk,2023-11-03T18:52:25.040Z,"76 km SSE of Severo-Kuril’sk, Russia",earthquake,10.16,7.08,0.054,112,reviewed,us,us
 2023-11-03T18:16:19.100Z,46.199333333333335,-122.18033333333334,1.28,0.34,ml,8,139,0.003692,0.09,uw,uw61961287,2023-11-03T21:00:40.360Z,"38 km NNE of Amboy, Washington",earthquake,0.51,0.36,0.10350634969111627,4,reviewed,uw,uw
-2023-11-03T18:02:54.426Z,28.8879,82.195,17.875,5.6,mww,193,27,2.926,0.91,us,us7000l8p5,2023-11-03T21:34:54.870Z,"42 km S of Jumla, Nepal",earthquake,7.53,3.948,0.098,10,reviewed,us,us
+2023-11-03T18:02:54.426Z,28.8879,82.195,17.875,5.6,mww,193,27,2.926,0.91,us,us7000l8p5,2023-11-03T21:39:59.487Z,"42 km S of Jumla, Nepal",earthquake,7.53,3.948,0.098,10,reviewed,us,us
+2023-11-03T17:54:10.310Z,46.1995,-122.19166666666666,5.7,0.1,ml,11,100,0.00434,0.19,uw,uw61961277,2023-11-03T21:37:38.110Z,"Mount St. Helens area, Washington",earthquake,0.53,0.91,0.05697566880571489,7,reviewed,uw,uw
 2023-11-03T17:32:44.090Z,19.3840007781982,-155.248168945312,1.25999999046326,2.08,ml,22,73,,0.200000003,hv,hv73638307,2023-11-03T17:38:14.510Z,"6 km SSW of Volcano, Hawaii",earthquake,0.26,0.150000006,0.24,9,automatic,hv,hv
 2023-11-03T17:32:10.559Z,63.202,-150.3989,114.1,2.3,ml,,,,0.56,ak,ak023e40asm7,2023-11-03T17:34:19.063Z,"75 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-03T17:26:44.190Z,46.212833333333336,-122.17733333333334,7.4,0.31,ml,13,95,0.01385,0.18,uw,uw61961262,2023-11-03T21:06:42.310Z,"39 km S of Morton, Washington",earthquake,0.49,0.7,0.17452640017847026,10,reviewed,uw,uw
@@ -131,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T08:44:13.550Z,33.131,-116.6411667,2.25,0.65,ml,12,120,0.06188,0.18,ci,ci39706170,2023-11-03T13:02:52.959Z,"7 km NNW of Julian, CA",earthquake,0.56,0.7,0.218,5,reviewed,ci,ci
 2023-11-03T08:43:30.130Z,33.1273333,-116.6515,1.42,0.73,ml,18,114,0.06471,0.21,ci,ci39706162,2023-11-03T13:02:19.480Z,"7 km NW of Julian, CA",earthquake,0.47,0.85,0.188,9,reviewed,ci,ci
 2023-11-03T08:39:21.910Z,19.4293333333333,-155.623166666667,21.96,1.14,md,17,107,,0.16,hv,hv73637847,2023-11-03T21:30:51.110Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.79,0.0641713644532884,10,reviewed,hv,hv
-2023-11-03T08:37:50.710Z,19.4868333333333,-155.575,1.9,0.53,md,12,58,,0.1,hv,hv73637837,2023-11-03T09:13:04.900Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.62,0.181584394227703,6,reviewed,hv,hv
+2023-11-03T08:37:43.270Z,19.4255,-155.5735,38.77,1.64,md,22,56,,0.2,hv,hv73637837,2023-11-03T21:38:10.890Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.84,0.169277577381888,15,reviewed,hv,hv
 2023-11-03T08:35:03.799Z,34.53833333,-97.4825,4.06,1.05,ml,26,84,0.09718092979,0.38,ok,ok2023vnsx,2023-11-03T12:36:56.817Z,"Oklahoma",earthquake,,1.3,0.26,11,reviewed,ok,ok
 2023-11-03T08:33:26.899Z,34.53366667,-97.485,5.63,1.5,ml,70,58,0.09898057663,0.42,ok,ok2023vnsw,2023-11-03T12:01:56.333Z,"Oklahoma",earthquake,,0.9,0.23,23,reviewed,ok,ok
 2023-11-03T08:32:53.280Z,38.8088341,-122.7701645,1.21,0.75,md,8,134,0.009332,0.01,nc,nc73955425,2023-11-03T11:10:15.102Z,"4 km NNW of The Geysers, CA",earthquake,0.38,1.1,0.04,10,automatic,nc,nc
@@ -243,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T22:04:13.256Z,31.664,-104.297,7.3656,2,ml(texnet),31,58,0,0.2,tx,tx2023vmyc,2023-11-03T19:25:17.245Z,"57 km S of Whites City, New Mexico",earthquake,0.6321027459,0.6413817668,0.1,19,reviewed,tx,tx
 2023-11-02T21:53:11.529Z,35.79766667,-96.65416667,7.21,1.16,ml,33,105,0.1799646848,0.21,ok,ok2023vmxt,2023-11-03T15:18:31.960Z,"5 km N of Stroud, Oklahoma",earthquake,,0.6,0.14,16,reviewed,ok,ok
 2023-11-02T21:45:20.921Z,38.1437,-118.2483,12.5,1.2,ml,8,133.97,0.215,0.1849,nn,nn00868346,2023-11-03T16:53:09.068Z,"29 km SSW of Mina, Nevada",earthquake,,2,0.17,4,reviewed,nn,nn
-2023-11-02T21:36:59.530Z,46.8545,-121.7615,1.47,0.65,ml,17,82,0.02585,0.08,uw,uw61961132,2023-11-03T04:24:37.900Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.88,0.03819228527920926,6,reviewed,uw,uw
