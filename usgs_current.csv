@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-03T03:00:52.350Z,38.8168335,-122.7726669,2.42,0.32,md,5,232,0.007209,0.01,nc,nc73955360,2023-11-03T03:02:30.543Z,"4 km W of Cobb, CA",earthquake,3.17,7.11,0.2,8,automatic,nc,nc
 2023-11-03T02:49:35.880Z,35.3301667,-118.0855,11.84,1.5,ml,10,202,0.3617,0.25,ci,ci39705826,2023-11-03T02:53:24.747Z,"24 km NNW of California City, CA",earthquake,1.67,31.61,0.16,9,automatic,ci,ci
 2023-11-03T02:44:02.250Z,35.7533333,-117.5908333,5.04,0.46,ml,9,122,0.1519,0.1,ci,ci39705802,2023-11-03T02:47:41.842Z,"17 km NNE of Ridgecrest, CA",earthquake,0.68,31.61,0.107,5,automatic,ci,ci
 2023-11-03T02:40:37.230Z,32.3811667,-115.2465,5.62,2.39,ml,20,47,0.06253,0.28,ci,ci39705794,2023-11-03T02:51:10.250Z,"6 km WNW of Delta, B.C., MX",earthquake,0.51,1.22,0.183,26,automatic,ci,ci
@@ -48,7 +49,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T19:52:05.191Z,31.66,-104.293,6.9028,1.5,ml(texnet),19,86,0,0.2,tx,tx2023vmtu,2023-11-02T21:03:06.920Z,"western Texas",earthquake,0.8838109136,0.9051377261,0.1,7,reviewed,tx,tx
 2023-11-02T19:51:09.965Z,62.7253,-152.4524,0,1.7,ml,,,,0.45,ak,ak023e2e2dw4,2023-11-02T19:53:07.864Z,"90 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-02T19:45:59.070Z,38.689167,-122.496666,6.59,1.55,md,13,109,0.09526,0.06,nc,nc73955195,2023-11-02T22:55:11.622Z,"12 km SE of Middletown, CA",earthquake,0.3,1.26,0.14,13,automatic,nc,nc
-2023-11-02T19:39:13.620Z,46.8971666666667,-112.647833333333,11.56,0.78,ml,6,110,0.01699,0.08,mb,mb90031698,2023-11-02T20:06:26.200Z,"6 km SSE of Lincoln, Montana",earthquake,0.4,0.7,0.132465620380685,5,reviewed,mb,mb
+2023-11-02T19:39:45.098Z,36.6574,-116.2709,6.7,-0.3,ml,11,185.35,0.056,0.0588,nn,nn00868370,2023-11-03T03:07:15.715Z,"California-Nevada border region",earthquake,,1.3,0.43,5,reviewed,nn,nn
+2023-11-02T19:39:13.620Z,46.8971666666667,-112.647833333333,11.56,0.78,ml,6,110,0.01699,0.08,mb,mb90031698,2023-11-02T20:06:26.200Z,"western Montana",earthquake,0.4,0.7,0.132465620380685,5,reviewed,mb,mb
 2023-11-02T19:39:10.865Z,32.403,-101.588,4.4752,3.3,ml(texnet),25,51,0,0.2,tx,tx2023vmtn,2023-11-02T20:54:58.273Z,"18 km SE of Ackerly, Texas",earthquake,0.8019438666,0.8150121589,0.3,19,reviewed,tx,tx
 2023-11-02T19:23:49.860Z,33.7226667,-116.7641667,16.59,0.6,ml,13,82,0.04322,0.15,ci,ci39705058,2023-11-02T19:27:29.140Z,"5 km WSW of Idyllwild, CA",earthquake,0.43,0.63,0.099,9,automatic,ci,ci
 2023-11-02T18:58:29.174Z,62.1573,-145.6483,3.9,1.5,ml,,,,1.33,ak,ak023e2dihsn,2023-11-02T19:01:06.438Z,"7 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -102,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T13:13:03.870Z,37.652,-118.8218333,4.53,0.54,md,17,175,0.01791,0.02,nc,nc73955055,2023-11-02T21:16:10.006Z,"14 km E of Mammoth Lakes, CA",earthquake,0.59,0.7,0.141,17,reviewed,nc,nc
 2023-11-02T13:06:03.921Z,32.069,-103.718,5.2318,1.7,ml(texnet),19,85,0.1,0.2,tx,tx2023vmgi,2023-11-02T15:16:29.812Z,"New Mexico",earthquake,1.34929942,1.905588755,0.1,7,reviewed,tx,tx
 2023-11-02T13:03:22.003Z,53.4574,-163.311,27.5,2.3,ml,,,,0.52,ak,ak023e2a7iy4,2023-11-02T16:22:34.059Z,"155 km S of False Pass, Alaska",earthquake,,1.8,,,reviewed,ak,ak
-2023-11-02T13:00:13.096Z,36.69,-116.3278,9.8,0.8,ml,33,90.42,0.03,0.1074,nn,nn00868322,2023-11-02T17:13:41.661Z,"45 km ESE of Beatty, Nevada",earthquake,,0.5,0.17,14,reviewed,nn,nn
+2023-11-02T13:00:13.094Z,36.6908,-116.3276,9.8,0.8,ml,33,90.38,0.031,0.1047,nn,nn00868322,2023-11-03T03:01:04.309Z,"45 km ESE of Beatty, Nevada",earthquake,,0.5,0.18,20,reviewed,nn,nn
 2023-11-02T12:59:51.750Z,38.8433342,-122.8714981,2.6,2.08,md,49,73,0.004019,0.05,nc,nc73955050,2023-11-02T15:31:09.851Z,"12 km NW of The Geysers, CA",earthquake,0.17,0.27,0.12,43,automatic,nc,nc
 2023-11-02T12:58:21.179Z,34.5305,-97.47616667,7.6,1.7,ml,62,47,0.09268181267,0.43,ok,ok2023vmgc,2023-11-02T13:10:41.352Z,"5 km NNW of Tatums, Oklahoma",earthquake,,1,0.2,21,reviewed,ok,ok
 2023-11-02T12:51:52.390Z,33.9336667,-116.724,14.69,0.63,ml,24,65,0.1222,0.19,ci,ci40594992,2023-11-02T13:40:59.514Z,"6 km ENE of Cabazon, CA",earthquake,0.29,0.73,0.193,6,reviewed,ci,ci
@@ -217,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T03:22:34.590Z,33.68,-116.7066667,14.8,0.82,ml,32,102,0.02956,0.12,ci,ci40594720,2023-11-02T19:07:41.680Z,"7 km S of Idyllwild, CA",earthquake,0.18,0.28,0.125,16,reviewed,ci,ci
 2023-11-02T03:19:09.750Z,38.8364983,-122.7911682,2.16,1.03,md,18,51,0.002014,0.03,nc,nc73954900,2023-11-02T05:50:13.593Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.5,0.08,19,automatic,nc,nc
 2023-11-02T03:08:02.175Z,61.4944,-149.9781,24.9,2.6,ml,,,,0.68,ak,ak023e24a7uy,2023-11-02T05:43:52.279Z,"3 km SSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-02T03:01:26.852Z,60.037,-149.181,7.7,2,ml,,,,0.8,ak,ak023e248rpp,2023-11-02T03:04:04.809Z,"15 km ESE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-02T02:56:32.950Z,45.30166666666667,-121.65116666666667,6.58,0.29,ml,5,182,0.0206,0.03,uw,uw61960997,2023-11-02T23:03:30.300Z,"7 km NE of Wapanitia, Oregon",earthquake,0.68,0.45,0.05195459119843568,3,reviewed,uw,uw
