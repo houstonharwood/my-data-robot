@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-04T21:36:05.530Z,38.8294983,-122.8215027,3.13,0.58,md,8,87,0.01081,0.01,nc,nc73956120,2023-11-04T21:37:41.736Z,"8 km NW of The Geysers, CA",earthquake,1.08,2.6,0.35,9,automatic,nc,nc
+2023-11-04T21:36:05.530Z,38.8294983,-122.8215027,3.13,0.58,md,8,87,0.01081,0.01,nc,nc73956120,2023-11-04T21:46:10.325Z,"8 km NW of The Geysers, CA",earthquake,1.08,2.6,0.35,9,automatic,nc,nc
 2023-11-04T21:15:44.660Z,32.7493333,-115.4173333,9.03,1.49,ml,16,159,0.0611,0.3,ci,ci39707930,2023-11-04T21:19:21.645Z,"8 km SSW of Holtville, CA",earthquake,1.16,1.88,0.178,15,automatic,ci,ci
 2023-11-04T21:13:06.082Z,61.8121,-150.7436,52,1.1,ml,,,,0.53,ak,ak023e5q3s6d,2023-11-04T21:16:04.752Z,"32 km NNW of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-11-04T21:12:41.170Z,33.4908333,-116.4185,6.75,1.11,ml,41,63,0.03303,0.18,ci,ci39707914,2023-11-04T21:16:14.628Z,"22 km SSW of La Quinta, CA",earthquake,0.22,0.56,0.204,27,automatic,ci,ci
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T09:43:38.320Z,35.5113335,-120.8126678,5.27,1.74,md,17,66,,0.08,nc,nc73955915,2023-11-04T12:40:10.131Z,"10 km NE of Cayucos, CA",earthquake,0.29,1.12,0.14,9,automatic,nc,nc
 2023-11-04T09:40:02.380Z,38.802166,-122.8111649,2.42,0.41,md,6,141,0.01368,0,nc,nc73955910,2023-11-04T12:13:09.980Z,"6 km WNW of The Geysers, CA",earthquake,0.67,1.8,0.16,8,automatic,nc,nc
 2023-11-04T09:39:52.150Z,38.8163338,-122.7953339,2.67,0.77,md,11,64,0.008354,0.01,nc,nc73955905,2023-11-04T12:02:11.925Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.06,0.46,14,automatic,nc,nc
-2023-11-04T09:38:38.192Z,20.1401,147.7574,10,5,mb,64,83,7.077,0.78,us,us7000l8um,2023-11-04T15:48:50.171Z,"Mariana Islands region",earthquake,10.92,1.864,0.033,287,reviewed,us,us
+2023-11-04T09:38:38.192Z,20.1401,147.7574,10,5,mb,64,83,7.077,0.78,us,us7000l8um,2023-11-04T21:48:40.629Z,"Mariana Islands region",earthquake,10.92,1.864,0.033,287,reviewed,us,us
 2023-11-04T09:37:09.000Z,33.6655,-116.7408333,16.18,0.56,ml,16,78,0.05069,0.16,ci,ci39707282,2023-11-04T16:33:17.894Z,"8 km SSW of Idyllwild, CA",earthquake,0.44,0.65,0.117,9,reviewed,ci,ci
 2023-11-04T09:31:36.930Z,46.8876666666667,-112.521166666667,12.06,1.2,ml,13,115,0.05243,0.08,mb,mb90031933,2023-11-04T13:56:44.020Z,"Western Montana",earthquake,0.37,0.51,0.205568466932461,8,reviewed,mb,mb
 2023-11-04T09:16:19.890Z,19.2948341369629,-155.389663696289,1.12000000476837,2.05999994,md,18,158,,0.230000004,hv,hv73638847,2023-11-04T09:19:31.880Z,"13 km NE of Pāhala, Hawaii",earthquake,0.56,0.689999998,2.20000005,4,automatic,hv,hv
@@ -190,6 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T22:00:17.100Z,56.9671666666667,-136.114666666667,21.3,0.76,ml,4,347,,0.13,av,av91120673,2023-11-04T04:19:53.820Z,"48 km WSW of Sitka, Alaska",earthquake,4.97,1.91,0.348684266816097,4,reviewed,av,av
 2023-11-03T21:54:31.411Z,60.9532,-150.7064,34.4,1.9,ml,,,,0.21,ak,ak023e42taed,2023-11-03T21:55:59.825Z,"3 km NNW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-03T21:51:45.500Z,47.5775,-114.002,18.45,0.63,ml,8,135,0.06824,0.05,mb,mb90031953,2023-11-04T14:55:24.520Z,"9 km ESE of Pablo, Montana",earthquake,0.43,0.75,0.176572373234478,2,reviewed,mb,mb
-2023-11-03T21:48:22.910Z,47.7649,153.5117,10,4.8,mb,48,137,5.98,0.61,us,us7000l8rm,2023-11-03T23:35:50.040Z,"Kuril Islands",earthquake,7.16,1.791,0.068,67,reviewed,us,us
-2023-11-03T21:44:51.840Z,58.5976666666667,-153.635666666667,-3.19,1.32,ml,9,177,,0.32,av,av91120668,2023-11-04T04:07:15.120Z,"Kodiak Island region, Alaska",earthquake,4.33,1.84,0.359067520931581,9,reviewed,av,av
-2023-11-03T21:44:37.202Z,58.7149,-153.6963,12.8,1.6,ml,,,,0.38,ak,ak023e42r5oo,2023-11-04T04:05:23.970Z,"86 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
