@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T08:27:26.630Z,38.8083344,-122.7639999,7.79,0.78,md,10,150,0.02258,0.07,nc,nc73955875,2023-11-04T08:29:01.547Z,"4 km N of The Geysers, CA",earthquake,1.66,3.81,0.14,10,automatic,nc,nc
 2023-11-04T08:11:30.430Z,35.694,-117.5226667,7.92,2.25,ml,31,75,0.08557,0.15,ci,ci39707258,2023-11-04T08:22:33.290Z,"14 km SW of Searles Valley, CA",earthquake,0.26,0.91,0.157,24,automatic,ci,ci
 2023-11-04T08:03:22.650Z,33.4965,-116.4203333,7.7,0.37,ml,14,93,0.1107,0.25,ci,ci39707250,2023-11-04T08:07:02.678Z,"21 km SSW of La Quinta, CA",earthquake,0.68,2.3,0.211,7,automatic,ci,ci
 2023-11-04T07:44:59.800Z,38.8204994,-122.7624969,1.86,2.11,md,47,56,0.01152,0.05,nc,nc73955855,2023-11-04T07:51:14.669Z,"3 km W of Cobb, CA",earthquake,0.16,0.25,0.12,42,automatic,nc,nc
@@ -120,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T18:32:14.930Z,50.0163,156.4146,64.996,5.1,mb,45,137,3.199,0.8,us,us7000l8pk,2023-11-03T18:52:25.040Z,"76 km SSE of Severo-Kuril’sk, Russia",earthquake,10.16,7.08,0.054,112,reviewed,us,us
 2023-11-03T18:16:19.100Z,46.199333333333335,-122.18033333333334,1.28,0.34,ml,8,139,0.003692,0.09,uw,uw61961287,2023-11-03T21:00:40.360Z,"38 km NNE of Amboy, Washington",earthquake,0.51,0.36,0.10350634969111627,4,reviewed,uw,uw
 2023-11-03T18:11:32.640Z,60.0313333333333,-153.061,0.89,-0.32,ml,5,127,,0.27,av,av92105836,2023-11-04T03:12:43.480Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.59,2.05,0.269096575834784,5,reviewed,av,av
-2023-11-03T18:02:54.426Z,28.8879,82.195,17.875,5.6,mww,193,27,2.926,0.91,us,us7000l8p5,2023-11-04T07:12:12.895Z,"42 km S of Jumla, Nepal",earthquake,7.53,3.948,0.098,10,reviewed,us,us
+2023-11-03T18:02:54.426Z,28.8879,82.195,17.875,5.6,mww,193,27,2.926,0.91,us,us7000l8p5,2023-11-04T08:28:22.728Z,"42 km S of Jumla, Nepal",earthquake,7.53,3.948,0.098,10,reviewed,us,us
 2023-11-03T17:54:10.310Z,46.1995,-122.19166666666666,5.7,0.1,ml,11,100,0.00434,0.19,uw,uw61961277,2023-11-03T21:37:38.110Z,"Mount St. Helens area, Washington",earthquake,0.53,0.91,0.05697566880571489,7,reviewed,uw,uw
 2023-11-03T17:32:44.120Z,19.3843333333333,-155.245833333333,1.77,2.07,ml,32,65,,0.11,hv,hv73638307,2023-11-03T21:54:12.340Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.15,0.191359381907419,12,reviewed,hv,hv
 2023-11-03T17:32:10.559Z,63.202,-150.3989,114.1,2.3,ml,,,,0.56,ak,ak023e40asm7,2023-11-03T17:34:19.063Z,"75 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -244,7 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T08:37:43.270Z,19.4255,-155.5735,38.77,1.64,md,22,56,,0.2,hv,hv73637837,2023-11-03T21:38:10.890Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.84,0.169277577381888,15,reviewed,hv,hv
 2023-11-03T08:35:03.799Z,34.53833333,-97.4825,4.06,1.05,ml,26,84,0.09718092979,0.38,ok,ok2023vnsx,2023-11-03T12:36:56.817Z,"Oklahoma",earthquake,,1.3,0.26,11,reviewed,ok,ok
 2023-11-03T08:33:26.899Z,34.53366667,-97.485,5.63,1.5,ml,70,58,0.09898057663,0.42,ok,ok2023vnsw,2023-11-03T12:01:56.333Z,"Oklahoma",earthquake,,0.9,0.23,23,reviewed,ok,ok
-2023-11-03T08:32:53.280Z,38.8088341,-122.7701645,1.21,0.75,md,8,134,0.009332,0.01,nc,nc73955425,2023-11-03T11:10:15.102Z,"4 km NNW of The Geysers, CA",earthquake,0.38,1.1,0.04,10,automatic,nc,nc
-2023-11-03T08:32:27.028Z,31.657,-104.416,4.0749,1.5,ml(texnet),19,71,0,0.2,tx,tx2023vnsw,2023-11-03T20:05:42.679Z,"57 km S of Whites City, New Mexico",earthquake,0.8187155079,0.6499607575,0.1,14,reviewed,tx,tx
-2023-11-03T08:32:13.960Z,19.4678333333333,-155.603666666667,4.93,0.58,md,15,85,,0.12,hv,hv73637827,2023-11-03T08:59:58.380Z,"Island of Hawaii, Hawaii",earthquake,0.35,0.54,0.126767897559944,7,reviewed,hv,hv
-2023-11-03T08:30:06.887Z,63.421,-151.3326,1.2,1.3,ml,,,,0.75,ak,ak023e3uxggc,2023-11-03T08:55:34.334Z,"23 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
