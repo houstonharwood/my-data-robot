@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T13:44:10.770Z,36.8045006,-121.3246689,8.04,1.16,md,8,140,0.03189,0.04,nc,nc73956415,2023-11-05T15:45:11.656Z,"2 km NNW of Tres Pinos, CA",earthquake,0.41,1.06,0.16,7,automatic,nc,nc
 2023-11-05T13:32:25.178Z,31.673,-104.401,7.1598,2,ml(texnet),16,69,0,0.3,tx,tx2023vrtt,2023-11-05T14:04:54.918Z,"55 km S of Whites City, New Mexico",earthquake,0,2.54621139,0.1,12,automatic,tx,tx
 2023-11-05T13:30:53.064Z,31.674,-104.405,4.4532,1.6,ml(texnet),18,69,0,0.4,tx,tx2023vrtr,2023-11-05T14:04:48.368Z,"55 km S of Whites City, New Mexico",earthquake,0,1.16814531,0.2,14,automatic,tx,tx
-2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T17:37:40.529Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
+2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T19:37:31.915Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
 2023-11-05T13:18:15.569Z,37.3952,-117.1018,1.9,1.7,ml,28,111.43,0.158,0.2758,nn,nn00868477,2023-11-05T13:20:18.828Z,"36 km SSE of Goldfield, Nevada",earthquake,,5.5,0.39,20,automatic,nn,nn
 2023-11-05T13:00:07.570Z,38.8318329,-122.815834,1.47,1.05,md,21,52,0.009552,0.01,nc,nc73956400,2023-11-05T15:19:12.515Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.46,0.11,22,automatic,nc,nc
 2023-11-05T12:50:58.948Z,60.3635,-152.0449,84.2,1.4,ml,,,,0.3,ak,ak023e78ia7a,2023-11-05T12:52:49.564Z,"38 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -176,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T00:41:05.043Z,31.063,-103.253,5.9315,1.8,ml(texnet),15,85,0.1,1,tx,tx2023vquh,2023-11-05T01:07:55.653Z,"26 km SW of Coyanosa, Texas",earthquake,0,2.160473874,0.2,12,automatic,tx,tx
 2023-11-05T00:39:09.844Z,61.0168,-141.2222,7.9,2.6,ml,,,,0.44,ak,ak023e71ama0,2023-11-05T00:55:09.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T00:26:11.930Z,19.429500579834,-155.403335571289,5.07999992370605,2.52,ml,46,34,,0.219999999,hv,hv73639282,2023-11-05T00:35:57.040Z,"17 km W of Volcano, Hawaii",earthquake,0.33,1.12,2.73,21,automatic,hv,hv
+2023-11-05T00:14:10.410Z,37.482,-121.7296667,6.91,0.86,md,14,149,0.06117,0.04,nc,nc73956155,2023-11-05T19:37:44.045Z,"16 km NNE of Alum Rock, CA",earthquake,0.38,0.44,0.168,14,reviewed,nc,nc
 2023-11-05T00:11:12.260Z,38.7804985,-122.7578354,1.01,0.98,md,13,63,0.01156,0.03,nc,nc73956150,2023-11-05T01:09:16.530Z,"0 km NNW of The Geysers, CA",earthquake,0.27,0.46,0.22,14,automatic,nc,nc
 2023-11-05T00:06:45.433Z,60.5902,-150.9991,60.6,1.4,ml,,,,0.3,ak,ak023e713me7,2023-11-05T00:09:15.545Z,"8 km NE of Ridgeway, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T00:01:27.629Z,36.42199707,-96.8969574,3.782865524,1.52,ml,17,68.17879105,0.03291608766,0.2108973759,ok,ok2023vqsz,2023-11-05T00:06:08.671Z,"Oklahoma",earthquake,3.081511961,2.256529744,0.38,10,automatic,ok,ok
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T19:56:34.281Z,38.8958,-118.8326,1.1,2.3,ml,16,59.9,0.545,0.2101,nn,nn00868445,2023-11-04T19:58:55.123Z,"6 km SSW of Schurz, Nevada",earthquake,,7,0.27,10,automatic,nn,nn
 2023-11-04T19:55:33.875Z,37.5842,73.9941,10,4.5,mwr,49,105,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36,reviewed,us,us
 2023-11-04T19:41:59.863Z,31.572,-104.016,4.8992,1.7,ml(texnet),13,62,0,0.3,tx,tx2023vqkl,2023-11-04T19:51:53.056Z,"35 km NW of Toyah, Texas",earthquake,0,1.434398456,0.2,10,automatic,tx,tx
-2023-11-04T19:38:55.177Z,36.8534,-115.9319,7.4,0.4,ml,31,193.6,0.034,0.1365,nn,nn00868444,2023-11-04T22:10:10.955Z,"39 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,18,reviewed,nn,nn
-2023-11-04T19:36:00.730Z,38.8218346,-122.8255005,0.61,1.08,md,14,85,0.01215,0.03,nc,nc73956080,2023-11-04T20:11:17.765Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.54,0.12,16,automatic,nc,nc
