@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-06T11:33:56.760Z,19.2218341827393,-155.372161865234,30.7299995422363,2.24000001,md,32,203,,0.100000001,hv,hv73640137,2023-11-06T11:37:14.190Z,"11 km E of Pāhala, Hawaii",earthquake,0.89,0.709999979,1.27999997,14,automatic,hv,hv
+2023-11-06T11:32:25.750Z,34.178,-117.4616667,24.93,1.29,ml,8,113,0.2788,0.19,ci,ci39709138,2023-11-06T11:36:16.883Z,"7 km SW of Devore, CA",earthquake,0.9,4.01,0.226,29,automatic,ci,ci
+2023-11-06T11:32:24.960Z,33.9365005,-117.6353302,3.66,1.72,ml,18,151,0.2106,0.34,ci,ci39709130,2023-11-06T11:34:40.319Z,"8 km W of Norco, CA",earthquake,1.23,2.86,0.532,3,automatic,ci,ci
 2023-11-06T11:27:57.586Z,58.6802,-153.8479,1.6,1.7,ml,,,,0.31,ak,ak023e8vbcwz,2023-11-06T11:30:31.376Z,"Kodiak Island region, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-06T11:06:46.220Z,38.828167,-122.8001633,1.89,0.71,md,10,61,0.00909,0.01,nc,nc73956800,2023-11-06T11:26:11.678Z,"7 km W of Cobb, CA",earthquake,0.3,1.24,0.23,12,automatic,nc,nc
 2023-11-06T10:50:21.333Z,58.8609,-153.8763,14.4,1.7,ml,,,,0.54,ak,ak023e8uuol1,2023-11-06T10:52:23.401Z,"82 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-06T10:46:40.426Z,28.9234,82.0858,10,5.3,mb,86,46,3.028,1.01,us,us7000l94m,2023-11-06T11:26:55.887Z,"37 km ENE of Dailekh, Nepal",earthquake,6.28,1.856,0.041,203,reviewed,us,us
+2023-11-06T10:46:40.426Z,28.9234,82.0858,10,5.3,mb,86,46,3.028,1.01,us,us7000l94m,2023-11-06T11:37:02.616Z,"37 km ENE of Dailekh, Nepal",earthquake,6.28,1.856,0.041,203,reviewed,us,us
 2023-11-06T10:46:29.120Z,19.0738334655762,-155.346664428711,33.2400016784668,2.01999998,md,36,235,,0.140000001,hv,hv73640122,2023-11-06T10:49:52.880Z,"Island of Hawaii, Hawaii",earthquake,0.61,1.05999994,0.769999981,7,automatic,hv,hv
 2023-11-06T10:45:51.970Z,58.7257,-153.7423,14.2,2,ml,,,,0.48,ak,ak023e8utod9,2023-11-06T10:47:34.294Z,"88 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-06T10:37:01.560Z,38.8303337,-122.815834,1.64,1.07,md,19,48,0.008261,0.02,nc,nc73956780,2023-11-06T10:54:11.477Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.46,0.14,20,automatic,nc,nc
@@ -81,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T00:19:50.880Z,38.8371658,-122.8258362,1.84,1.7,md,33,67,0.00767,0.04,nc,nc73956590,2023-11-06T00:50:10.132Z,"9 km NW of The Geysers, CA",earthquake,0.18,0.27,0.14,31,automatic,nc,nc
 2023-11-05T23:51:17.287Z,54.414,-161.7034,14,1.8,ml,,,,0.34,ak,ak023e7f26tb,2023-11-06T02:26:48.010Z,"82 km SSE of King Cove, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2023-11-05T23:51:00.318Z,38.5513,-119.4972,2.6,1.4,ml,8,89.75,0.039,0.1462,nn,nn00868491,2023-11-05T23:54:17.562Z,"1 km SSE of Coleville, California",earthquake,,5.2,0.11,5,automatic,nn,nn
-2023-11-05T23:40:58.190Z,17.8718,-65.5571,22,3.7,md,17,177,0.5576,0.96,pr,pr2023309000,2023-11-06T00:48:41.002Z,"26 km SSW of Esperanza, Puerto Rico",earthquake,3.12,31.61,0.15,14,reviewed,pr,pr
+2023-11-05T23:40:58.190Z,17.8718,-65.5571,22,3.7,md,17,177,0.5576,0.96,pr,pr2023309000,2023-11-06T00:48:41.002Z,"Puerto Rico region",earthquake,3.12,31.61,0.15,14,reviewed,pr,pr
 2023-11-05T23:37:50.042Z,60.0136,-152.9914,103.2,1.8,ml,,,,0.74,ak,ak023e7ez8v0,2023-11-06T00:11:45.494Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-05T23:36:41.819Z,31.698,-104.174,4.4104,1.6,ml(texnet),18,92,0.1,0.5,tx,tx2023vsnr,2023-11-05T23:58:21.957Z,"54 km W of Mentone, Texas",earthquake,0,1.36258437,0.2,13,automatic,tx,tx
 2023-11-05T23:34:37.540Z,33.519001,-116.7594986,8.74,1.3,ml,13,172,0.04376,0.14,ci,ci39708946,2023-11-05T23:38:11.356Z,"9 km WSW of Anza, CA",earthquake,0.6,1.02,0.314,6,automatic,ci,ci
@@ -192,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T11:53:06.220Z,34.0214996,-117.1281662,14.46,0.97,ml,13,152,0.1751,0.14,ci,ci39708482,2023-11-05T11:56:36.635Z,"5 km S of Mentone, CA",earthquake,0.67,2.81,0.275,8,automatic,ci,ci
 2023-11-05T11:46:11.230Z,36.1081667,-117.5883333,-0.06,1.17,ml,12,155,0.163,0.18,ci,ci39708474,2023-11-05T11:49:42.052Z,"33 km ENE of Coso Junction, CA",earthquake,0.56,1.02,0.122,10,automatic,ci,ci
 2023-11-05T11:43:07.120Z,51.4292,-176.1603,38.67,4.1,mb,36,197,0.558,0.65,us,us7000l8zy,2023-11-05T14:22:13.832Z,"59 km SSE of Adak, Alaska",earthquake,6.4,9.309,0.072,53,reviewed,us,us
-2023-11-05T11:34:31.617Z,57.6686,-156.1831,2.3,2.4,ml,,,,0.4,ak,ak023e77td15,2023-11-05T11:41:40.040Z,"74 km ENE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
