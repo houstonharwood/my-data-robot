@@ -7,8 +7,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T18:15:34.330Z,18.7821,145.2967,623.202,5.6,mww,111,42,5.18,0.55,us,us7000l9eg,2023-11-07T19:15:47.209Z,"Pagan region, Northern Mariana Islands",earthquake,10.4,6.48,0.08,15,reviewed,us,us
 2023-11-07T18:15:07.818Z,40.5368,77.8274,25.525,4.8,mb,74,75,1.659,0.83,us,us7000l9ej,2023-11-07T18:47:44.040Z,"128 km NW of Tumxuk, China",earthquake,5.91,4.174,0.075,59,reviewed,us,us
 2023-11-07T18:09:48.983Z,40.5164,77.7055,8.555,5.4,mww,168,23,1.214,0.7,us,us7000l9ef,2023-11-07T18:40:32.361Z,"southern Xinjiang, China",earthquake,4.53,3.895,0.073,18,reviewed,us,us
-2023-11-07T18:00:12.290Z,32.9041672,-116.939003,5.11,1.77,ml,22,62,0.07965,0.23,ci,ci39709954,2023-11-07T18:02:37.957Z,"5 km NNW of Lakeside, CA",earthquake,0.53,1.1,0.213,18,automatic,ci,ci
-2023-11-07T17:57:19.906Z,38.8848,-118.586,11,3,ml,17,65.21,0.411,0.0964,nn,nn00868546,2023-11-07T19:17:29.361Z,"California-Nevada border region",earthquake,,1.4,0.13,7,reviewed,nn,nn
+2023-11-07T18:00:12.290Z,32.9041672,-116.939003,5.11,1.77,ml,22,62,0.07965,0.23,ci,ci39709954,2023-11-07T19:25:13.421Z,"5 km NNW of Lakeside, CA",earthquake,0.53,1.1,0.213,18,automatic,ci,ci
+2023-11-07T17:57:19.906Z,38.8848,-118.586,11,3,ml,17,65.21,0.411,0.0964,nn,nn00868546,2023-11-07T19:25:23.996Z,"California-Nevada border region",earthquake,,1.4,0.13,7,reviewed,nn,nn
 2023-11-07T17:48:18.856Z,63.1542,-144.3656,0,1.7,ml,,,,0.78,ak,ak023eamjmok,2023-11-07T18:50:44.414Z,"39 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-07T17:21:39.210Z,19.1979999542236,-155.485168457031,31.7299995422363,2.01999998,md,37,90,,0.119999997,hv,hv73641017,2023-11-07T17:24:43.050Z,"0 km SW of Pāhala, Hawaii",earthquake,0.75,0.899999976,1.90999997,10,automatic,hv,hv
 2023-11-07T17:09:03.943Z,63.177,-150.499,115.5,1.9,ml,,,,0.24,ak,ak023eamb8m2,2023-11-07T17:11:13.048Z,"73 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T09:26:26.906Z,31.719,-104.292,6.5686,2.3,ml(texnet),21,62,0,0.2,tx,tx2023vvcq,2023-11-07T12:16:44.837Z,"51 km S of Whites City, New Mexico",earthquake,0.8091717659,0.9153359827,0.1,31,reviewed,tx,tx
 2023-11-07T09:25:25.070Z,19.2290000915527,-155.401840209961,31.9099998474121,1.79999995,md,29,157,,0.119999997,hv,hv73640782,2023-11-07T09:28:34.770Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.75,1.17999995,1.16999996,7,automatic,hv,hv
 2023-11-07T09:25:17.112Z,57.4681,-155.5761,84.5,1.6,ml,,,,0.24,ak,ak023eahn88v,2023-11-07T09:28:15.115Z,"68 km W of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-11-07T09:24:49.625Z,39.6072,-119.9651,6.7,1.7,ml,12,77.99,0.003,0.1901,nn,nn00868541,2023-11-07T09:26:42.793Z,"8 km S of Cold Springs, Nevada",earthquake,,0.4,0.3,6,automatic,nn,nn
+2023-11-07T09:24:50.183Z,39.6114,-119.9688,7.5,1.7,ml,23,67.47,0.007,0.1389,nn,nn00868541,2023-11-07T19:29:00.384Z,"7 km S of Cold Springs, Nevada",earthquake,,1.2,0.09,9,reviewed,nn,nn
 2023-11-07T09:24:46.760Z,38.7873344,-122.7346649,1.73,0.85,md,9,137,0.02365,0.02,nc,nc73957210,2023-11-07T12:06:10.415Z,"2 km ENE of The Geysers, CA",earthquake,0.32,0.79,0.15,8,automatic,nc,nc
 2023-11-07T09:23:34.300Z,19.261999130249,-155.415161132812,29.9300003051758,1.91999996,md,35,180,,0.119999997,hv,hv73640777,2023-11-07T09:26:46.890Z,"9 km NE of Pāhala, Hawaii",earthquake,0.6,0.680000007,0.569999993,15,automatic,hv,hv
 2023-11-07T09:21:06.850Z,17.934,-66.868,10.04,2.46,md,17,216,0.04221,0.13,pr,pr71431003,2023-11-07T09:31:52.400Z,"Puerto Rico region",earthquake,0.5,0.42,0.181977155176196,5,reviewed,pr,pr
@@ -183,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T21:30:59.991Z,-7.4825,156.1122,26.361,5.3,mww,72,61,5.111,0.6,us,us7000l98e,2023-11-06T21:49:11.040Z,"105 km NW of Gizo, Solomon Islands",earthquake,9.22,5.02,0.083,14,reviewed,us,us
 2023-11-06T21:22:54.660Z,38.8343315,-122.8170013,1.29,0.77,md,13,69,0.01219,0.03,nc,nc73957005,2023-11-06T21:48:13.532Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.74,0.12,15,automatic,nc,nc
 2023-11-06T21:21:28.110Z,38.8378334,-122.8255005,1.16,0.63,md,8,88,0.007836,0.02,nc,nc73957000,2023-11-06T21:38:13.472Z,"9 km NW of The Geysers, CA",earthquake,0.36,1,0.05,8,automatic,nc,nc
-2023-11-06T21:18:42.140Z,35.5065002,-118.3844986,8.28,1.69,ml,27,65,0.1722,0.14,ci,ci39709522,2023-11-06T21:20:48.324Z,"13 km SE of Bodfish, CA",earthquake,0.24,1.16,0.142,17,automatic,ci,ci
+2023-11-06T21:18:42.100Z,35.5093333,-118.3838333,4.41,1.62,ml,31,40,0.1698,0.16,ci,ci39709522,2023-11-07T19:23:48.413Z,"13 km SE of Bodfish, CA",earthquake,0.18,0.8,0.184,17,reviewed,ci,ci
 2023-11-06T21:12:52.689Z,5.2796,94.2452,30.255,4.7,mb,67,67,2.691,1.06,us,us7000l986,2023-11-07T00:08:46.685Z,"124 km WSW of Banda Aceh, Indonesia",earthquake,9.33,5.429,0.069,65,reviewed,us,us
 2023-11-06T21:11:18.250Z,38.8361664,-122.8119965,2.2,1.02,md,12,57,0.01284,0.01,nc,nc73956995,2023-11-06T21:27:15.409Z,"8 km WNW of Cobb, CA",earthquake,0.31,1.03,0.29,13,automatic,nc,nc
 2023-11-06T21:01:44.902Z,31.659,-104.309,5.0004,2.8,ml(texnet),25,58,0,0.2,tx,tx2023vueb,2023-11-07T10:20:01.537Z,"57 km S of Whites City, New Mexico",earthquake,0.9150066941,1.173240003,0.1,33,reviewed,tx,tx
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T19:31:59.010Z,38.8231659,-122.8078308,0.79,2.14,md,42,37,0.001767,0.05,nc,nc73956945,2023-11-06T23:39:13.210Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.21,0.14,44,automatic,nc,nc
 2023-11-06T19:30:29.705Z,57.7489,-155.9518,11.2,1.4,ml,,,,0.58,ak,ak023e903bcq,2023-11-06T19:31:53.079Z,"90 km ENE of Ugashik, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-06T19:30:05.410Z,38.8321648,-122.8148346,1.27,1.94,md,31,44,0.009514,0.04,nc,nc73956940,2023-11-06T23:24:10.109Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.25,0.14,35,automatic,nc,nc
-2023-11-06T19:23:56.870Z,38.8354988,-122.7916641,1.61,0.8,md,12,73,0.003083,0.04,nc,nc73956935,2023-11-06T19:41:18.766Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.94,0.2,12,automatic,nc,nc
