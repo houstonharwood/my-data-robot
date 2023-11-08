@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T08:11:57.736Z,61.1429,-147.0297,35.3,1.5,ml,,,,0.49,ak,ak023ec4i88w,2023-11-08T08:23:31.925Z,"36 km NNW of Tatitlek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-08T08:02:54.280Z,36.1064987,-117.8560028,3.3,2.52,ml,40,53,0.0111,0.16,ci,ci39710266,2023-11-08T08:13:49.430Z,"11 km NE of Coso Junction, CA",earthquake,0.25,0.55,0.307,26,automatic,ci,ci
 2023-11-08T07:59:28.980Z,19.1908340454102,-155.479827880859,28.6399993896484,2.23000002,md,40,111,,0.100000001,hv,hv73641412,2023-11-08T08:02:47.940Z,"1 km S of Pāhala, Hawaii",earthquake,0.47,0.670000017,1.34000003,14,automatic,hv,hv
-2023-11-08T07:57:15.841Z,31.605,-104.079,7.8763,2,ml(texnet),14,141,0,0.3,tx,tx2023vwvf,2023-11-08T08:14:54.140Z,"42 km NW of Toyah, Texas",earthquake,0,3.04842177,0.3,12,automatic,tx,tx
+2023-11-08T07:57:15.841Z,31.605,-104.079,7.8763,2,ml(texnet),14,141,0,0.3,tx,tx2023vwvf,2023-11-08T08:14:54.140Z,"western Texas",earthquake,0,3.04842177,0.3,12,automatic,tx,tx
 2023-11-08T07:43:56.107Z,38.179,-117.7648,0.2,1.8,ml,19,112.11,0.111,0.2447,nn,nn00868585,2023-11-08T07:46:46.397Z,"38 km SE of Mina, Nevada",earthquake,,3.3,0.25,13,automatic,nn,nn
 2023-11-08T07:39:48.231Z,36.8944,-104.8241,5,2,ml,12,145,0.097,0.33,us,us7000l9ie,2023-11-08T08:47:04.040Z,"26 km SSW of Segundo, Colorado",earthquake,1.31,1.866,0.105,12,reviewed,us,us
 2023-11-08T07:39:23.440Z,33.8033333,-116.9266663,12.71,1.01,ml,27,136,0.1118,0.14,ci,ci39710258,2023-11-08T07:45:40.678Z,"4 km NE of San Jacinto, CA",earthquake,0.4,0.67,0.241,10,automatic,ci,ci
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T00:07:17.520Z,38.8311653,-122.8138351,1.75,1.3,md,25,49,0.008297,0.02,nc,nc73957510,2023-11-08T02:49:14.380Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.12,26,automatic,nc,nc
 2023-11-07T23:39:16.760Z,37.6548347,-118.8871689,2.81,1.19,md,10,142,0.01294,0.03,nc,nc73957495,2023-11-08T02:22:14.237Z,"8 km ENE of Mammoth Lakes, CA",earthquake,0.61,0.9,0.17,10,automatic,nc,nc
 2023-11-07T23:24:05.730Z,19.1616668701172,-155.494659423828,33.9199981689453,2.0999999,md,29,212,,0.119999997,hv,hv73641207,2023-11-07T23:27:42.750Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.84,1.00999999,1.03999996,8,automatic,hv,hv
-2023-11-07T23:23:08.530Z,37.5573333,-118.831,1.49,0.52,md,8,284,0.03267,0.01,nc,nc73957485,2023-11-08T09:39:10.498Z,"13 km W of Toms Place, CA",earthquake,1.31,1.2,0.103,9,reviewed,nc,nc
+2023-11-07T23:23:08.530Z,37.5573333,-118.831,1.49,0.52,md,8,284,0.03267,0.01,nc,nc73957485,2023-11-08T09:46:14.533Z,"13 km W of Toms Place, CA",earthquake,1.31,1.2,0.103,9,reviewed,nc,nc
 2023-11-07T22:48:24.170Z,37.162,-117.8003333,1.71,2.46,ml,23,93,0.1422,0.2,ci,ci39710146,2023-11-08T02:05:03.992Z,"43 km E of Big Pine, CA",earthquake,0.22,0.52,0.201,11,reviewed,ci,ci
 2023-11-07T22:46:53.862Z,59.2344,-151.9219,53.9,2.3,ml,,,,0.51,ak,ak023eapifze,2023-11-07T22:49:10.690Z,"13 km S of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-07T22:36:42.420Z,38.7953339,-122.8066635,3.33,0.26,md,9,108,0.00754,0.02,nc,nc73957470,2023-11-07T23:36:11.328Z,"5 km WNW of The Geysers, CA",earthquake,0.61,1.31,0.02,9,automatic,nc,nc
@@ -187,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T09:55:11.240Z,19.168,-155.493333333333,35.3,1.75,md,30,157,,0.1,hv,hv73640812,2023-11-07T22:25:49.020Z,"Island of Hawaii, Hawaii",earthquake,0.48,0.7,0.161054021948082,16,reviewed,hv,hv
 2023-11-07T09:51:12.570Z,19.185,-155.507166666667,35.58,2.75,ml,56,79,,0.12,hv,hv73640807,2023-11-07T21:11:37.581Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.47,0.141574203642216,27,reviewed,hv,hv
 2023-11-07T09:50:07.240Z,40.5033333,-112.1675,0.29,1.26,md,12,144,0.06792,0.19,uu,uu60553787,2023-11-07T14:15:20.700Z,"6 km SSW of Bingham Canyon, Utah",earthquake,0.58,11.7,0.513,6,reviewed,uu,uu
-2023-11-07T09:44:54.048Z,63.62,-149.6048,113.9,1.3,ml,,,,0.43,ak,ak023eahrdl8,2023-11-07T13:32:34.386Z,"36 km WSW of Denali Park, Alaska",earthquake,,2.6,,,reviewed,ak,ak
-2023-11-07T09:42:59.030Z,34.0278333,-116.615,11.55,1.05,ml,52,50,0.02937,0.15,ci,ci39709730,2023-11-07T22:25:44.034Z,"4 km SW of Morongo Valley, CA",earthquake,0.14,0.42,0.107,24,reviewed,ci,ci
