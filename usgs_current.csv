@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-09T20:01:44.230Z,34.9141655,-118.2393341,16.71,1.36,ml,19,109,0.03633,0.43,ci,ci39710882,2023-11-09T20:08:22.985Z,"9 km NW of Rosamond, CA",earthquake,1.16,1.52,0.273,4,automatic,ci,ci
+2023-11-09T20:16:39.700Z,19.2430000305176,-155.393661499023,31.2099990844727,2.36,ml,43,137,,0.140000001,hv,hv73642432,2023-11-09T20:22:09.470Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.23,4,automatic,hv,hv
+2023-11-09T20:01:44.880Z,34.993,-118.1856667,-0.93,1.2,ml,14,63,0.1193,0.26,ci,ci39710882,2023-11-09T20:25:48.496Z,"7 km S of Mojave, CA",quarry blast,0.49,31.61,0.079,9,reviewed,ci,ci
 2023-11-09T19:59:26.550Z,38.8356667,-122.8085022,2.06,1.3,md,25,76,0.01232,0.02,nc,nc73960586,2023-11-09T20:18:11.313Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.41,0.18,26,automatic,nc,nc
 2023-11-09T19:57:00.680Z,63.2683,-149.7913,96,3.6,ml,,,,0.61,ak,ak023edyv2w6,2023-11-09T20:20:15.175Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-11-09T19:51:15.690Z,35.0569992,-118.3381653,-0.15,1.28,ml,11,83,0.0663,0.15,ci,ci39710874,2023-11-09T19:57:40.930Z,"13 km SE of Tehachapi, CA",earthquake,0.52,1.01,0.354,5,automatic,ci,ci
+2023-11-09T19:51:15.640Z,35.0605,-118.342,-0.93,1.17,ml,11,68,0.06974,0.17,ci,ci39710874,2023-11-09T20:21:14.391Z,"13 km SE of Tehachapi, CA",quarry blast,0.41,31.61,0.106,7,reviewed,ci,ci
 2023-11-09T19:35:48.940Z,33.4845,-116.476,10.82,0.81,ml,23,98,0.0572,0.15,ci,ci39710866,2023-11-09T20:17:10.054Z,"20 km ESE of Anza, CA",earthquake,0.34,0.51,0.138,15,reviewed,ci,ci
 2023-11-09T19:30:18.350Z,38.8238335,-122.7679977,2.4,0.78,md,7,117,0.006795,0,nc,nc73960576,2023-11-09T19:56:12.178Z,"4 km W of Cobb, CA",earthquake,0.55,1.38,0.07,8,automatic,nc,nc
 2023-11-09T19:23:51.380Z,19.2880001068115,-155.396331787109,28.8400001525879,1.76999998,md,32,179,,0.119999997,hv,hv73642407,2023-11-09T19:27:08.810Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.920000017,0.469999999,7,automatic,hv,hv
@@ -75,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T10:52:11.000Z,38.8203316,-122.7988358,0.59,1.32,md,22,31,0.01265,0.02,nc,nc73960406,2023-11-09T13:20:10.795Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.38,0.1,23,automatic,nc,nc
 2023-11-09T10:39:22.419Z,-11.2877,162.2896,10,4.7,mb,30,138,2.947,0.82,us,us7000l9tf,2023-11-09T11:29:51.040Z,"Solomon Islands",earthquake,7.76,1.914,0.12,21,reviewed,us,us
 2023-11-09T10:25:21.181Z,38.2996,-119.3044,8.5,2.8,ml,7,145.66,0.23,0.1722,nn,nn00868657,2023-11-09T17:36:24.417Z,"8 km NW of Bridgeport, California",earthquake,,10.1,0.25,2,reviewed,nn,nn
-2023-11-09T10:25:02.270Z,38.2996667,-119.31,5.57,2.59,ml,47,115,0.2278,0.15,nc,nc73960401,2023-11-09T20:18:10.313Z,"8 km NW of Bridgeport, CA",earthquake,0.25,3.44,0.237,19,reviewed,nc,nc
+2023-11-09T10:25:02.270Z,38.2996667,-119.31,5.57,2.59,ml,47,115,0.2278,0.15,nc,nc73960401,2023-11-09T20:22:12.332Z,"8 km NW of Bridgeport, CA",earthquake,0.25,3.44,0.237,19,reviewed,nc,nc
 2023-11-09T10:20:33.123Z,31.649,-104.023,4.8543,2,ml(texnet),20,51,0,0.2,tx,tx2023vyvl,2023-11-09T10:48:49.944Z,"40 km W of Mentone, Texas",earthquake,0,1.16684171,0.2,15,automatic,tx,tx
 2023-11-09T10:12:56.695Z,-6.3633,129.501,10,4.6,mb,37,92,4.382,0.91,us,us7000l9tb,2023-11-09T11:39:36.040Z,"Banda Sea",earthquake,5.5,1.766,0.111,24,reviewed,us,us
 2023-11-09T10:04:43.310Z,33.2733333,-116.7848333,10.84,0.85,ml,43,65,0.04319,0.15,ci,ci39710706,2023-11-09T15:21:03.496Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.36,0.122,17,reviewed,ci,ci
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T20:45:26.541Z,57.6656,-152.9199,14.9,2.1,ml,,,,0.4,ak,ak023ecbunfy,2023-11-08T20:47:43.940Z,"15 km W of Womens Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-11-08T20:42:50.823Z,57.2798,-155.2603,35.8,2.2,ml,,,,0.72,ak,ak023ecbu262,2023-11-08T20:45:17.467Z,"58 km SW of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-11-08T20:32:19.704Z,62.7946,-150.9323,95,2.4,ml,,,,0.58,ak,ak023ecbrulu,2023-11-08T20:34:40.842Z,"34 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-08T20:24:03.290Z,46.2,-122.18766666666667,8.08,0.09,ml,13,55,0.001518,0.22,uw,uw61971341,2023-11-08T23:46:07.480Z,"37 km NNE of Amboy, Washington",earthquake,0.64,0.88,0.0607699606767394,10,reviewed,uw,uw
