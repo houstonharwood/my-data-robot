@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T18:15:40.698Z,61.7475,-149.6122,38.4,2.1,ml,,,,0.39,ak,ak023edy0qc5,2023-11-09T18:17:07.943Z,"13 km N of Meadow Lakes, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-11-09T18:11:52.950Z,19.2345008850098,-155.390167236328,30.0499992370605,1.98000002,md,39,160,,0.109999999,hv,hv73642387,2023-11-09T18:15:08.530Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.649999976,1.04999995,19,automatic,hv,hv
 2023-11-09T18:08:57.394Z,62.4802,-152.204,0,1.8,ml,,,,1.04,ak,ak023edxz9m3,2023-11-09T18:10:52.710Z,"68 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-09T18:02:09.640Z,38.8248329,-122.7985001,2.96,0.77,md,10,75,0.009154,0.01,nc,nc73960551,2023-11-09T18:03:45.478Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.71,0.32,10,automatic,nc,nc
+2023-11-09T18:02:09.640Z,38.8248329,-122.7985001,2.96,0.77,md,10,75,0.009154,0.01,nc,nc73960551,2023-11-09T18:20:11.569Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.71,0.32,10,automatic,nc,nc
 2023-11-09T18:01:39.163Z,65.9075,-150.3474,12.7,1.7,ml,,,,0.83,ak,ak023edxxppi,2023-11-09T18:04:34.047Z,"45 km N of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-09T17:50:26.121Z,-6.7548,-76.6789,114.187,5.1,mb,48,133,4.64,0.58,us,us7000l9x5,2023-11-09T18:04:27.040Z,"13 km WNW of San Pablo, Peru",earthquake,8.36,6.692,0.032,313,reviewed,us,us
 2023-11-09T17:49:42.144Z,31.612,-104.078,6.7165,1.6,ml(texnet),10,141,0,0.3,tx,tx2023vzkg,2023-11-09T18:03:52.899Z,"western Texas",earthquake,0,3.447675591,0.3,7,automatic,tx,tx
@@ -135,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T04:12:30.555Z,31.636,-104.01,6.0159,2.1,ml(texnet),20,58,0,0.2,tx,tx2023vyji,2023-11-09T12:23:30.825Z,"39 km W of Mentone, Texas",earthquake,0.5539182356,0.4543536886,0.2,7,reviewed,tx,tx
 2023-11-09T03:41:33.390Z,31.629,-103.996,5.9821,1.7,ml(texnet),15,82,0,0.2,tx,tx2023vyil,2023-11-09T04:33:24.061Z,"38 km WSW of Mentone, Texas",earthquake,0,2.100478109,0.2,12,automatic,tx,tx
 2023-11-09T03:34:10.632Z,61.2871,-151.7181,74.4,1.4,ml,,,,0.66,ak,ak023edp78jr,2023-11-09T03:36:28.356Z,"37 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-09T03:30:56.950Z,37.0475,-121.1673333,4.65,1.19,md,34,75,0.05094,0.13,nc,nc73960281,2023-11-09T15:41:17.609Z,"28 km SSW of Gustine, CA",earthquake,0.18,0.97,0.182,23,reviewed,nc,nc
+2023-11-09T03:30:56.950Z,37.0475,-121.1673333,4.65,1.19,md,34,75,0.05094,0.13,nc,nc73960281,2023-11-09T18:16:12.550Z,"28 km SSW of Gustine, CA",earthquake,0.18,0.97,0.182,23,reviewed,nc,nc
 2023-11-09T03:30:49.254Z,31.638,-103.999,4.9107,1.8,ml(texnet),20,47,0,0.2,tx,tx2023vyib,2023-11-09T03:59:30.637Z,"western Texas",earthquake,0,1.131048263,0.2,16,automatic,tx,tx
 2023-11-09T03:25:11.429Z,31.619,-103.975,5.3082,1.6,ml(texnet),15,79,0,0.4,tx,tx2023vyhw,2023-11-09T03:52:55.529Z,"western Texas",earthquake,0,2.092918914,0.2,13,automatic,tx,tx
 2023-11-09T03:20:55.395Z,31.642,-104,4.9693,1.7,ml(texnet),16,45,0,0.4,tx,tx2023vyhs,2023-11-09T17:12:25.404Z,"western Texas",earthquake,0,1.184711294,0.2,12,automatic,tx,tx
@@ -231,9 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T18:33:59.000Z,46.517,-122.349,19.54,0.84,ml,11,256,0.1898,0.14,uw,uw61971266,2023-11-08T22:59:17.280Z,"7 km SW of Morton, Washington",earthquake,1.24,1.2,0.16370910948582457,9,reviewed,uw,uw
 2023-11-08T18:29:25.641Z,31.651,-104.018,5.6817,2.4,ml(texnet),19,47,0,0.2,tx,tx2023vxqa,2023-11-09T05:11:55.268Z,"40 km W of Mentone, Texas",earthquake,0.5282338157,0.4925860124,0.3,14,reviewed,tx,tx
 2023-11-08T18:29:12.567Z,60.9274,-150.7113,34.6,2.1,ml,,,,0.77,ak,ak023ecakbp4,2023-11-08T18:31:18.477Z,"1 km WNW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-08T18:26:21.946Z,-6.2563,130.133,10,4.6,mb,44,56,1.737,0.93,us,us7000l9p4,2023-11-08T19:18:59.040Z,"298 km WSW of Tual, Indonesia",earthquake,7.14,1.722,0.092,37,reviewed,us,us
-2023-11-08T18:21:11.508Z,31.654,-104.02,6.3758,2,ml(texnet),33,37,0,0.2,tx,tx2023vxpu,2023-11-08T19:04:24.466Z,"40 km W of Mentone, Texas",earthquake,0.311199128,0.3503020257,0.2,19,reviewed,tx,tx
-2023-11-08T18:20:20.970Z,37.1905,-112.8923333,19.91,0.86,md,6,167,0.1825,0.11,uu,uu60553857,2023-11-08T18:43:49.090Z,"9 km E of Springdale, Utah",earthquake,0.57,1.6,0.338,3,reviewed,uu,uu
-2023-11-08T18:20:00.466Z,31.633,-103.988,5.8616,1.9,ml(texnet),22,47,0,0.1,tx,tx2023vxpt,2023-11-09T13:02:36.449Z,"37 km WSW of Mentone, Texas",earthquake,0.2729992107,0.3853631926,0.2,14,reviewed,tx,tx
-2023-11-08T18:15:25.410Z,46.701166666666666,-121.90316666666666,7.25,1.61,ml,50,69,0.04012,0.14,uw,uw61971251,2023-11-08T23:27:16.250Z,"11 km ESE of Ashford, Washington",earthquake,0.2,0.34,0.10749287228363102,32,reviewed,uw,uw
-2023-11-08T18:13:12.620Z,38.4850006,-122.9683304,24.01,1.64,md,7,215,0.249,0.14,nc,nc73957865,2023-11-08T21:10:13.346Z,"3 km SE of Guerneville, CA",earthquake,6.23,12.75,,1,automatic,nc,nc
