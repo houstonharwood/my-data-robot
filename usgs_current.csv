@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T16:55:27.170Z,38.1996,-117.8666,10.9,1.2,ml,8,218.53,0.093,0.2769,nn,nn00868749,2023-11-10T16:58:18.496Z,"29 km SE of Mina, Nevada",earthquake,,0.6,0.35,5,automatic,nn,nn
+2023-11-10T16:54:35.310Z,19.3910007476807,-155.278671264648,1.24000000953674,2.16000009,md,19,54,,0.189999998,hv,hv73643057,2023-11-10T16:57:41.590Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.25,0.99000001,16,automatic,hv,hv
+2023-11-10T16:53:20.718Z,38.1812,-117.8545,3.2,1.4,ml,12,114.31,0.104,0.3245,nn,nn00868748,2023-11-10T16:56:09.686Z,"Nevada",earthquake,,1.1,0.21,8,automatic,nn,nn
 2023-11-10T16:41:59.730Z,38.8458328,-122.81633,1.3,0.81,md,17,67,0.01038,0.04,nc,nc73960991,2023-11-10T16:51:10.445Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.45,0.22,17,automatic,nc,nc
 2023-11-10T16:24:16.834Z,61.2437,-149.9873,45,1.7,ml,,,,0.51,ak,ak023efkf383,2023-11-10T16:26:28.555Z,"5 km WNW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-10T16:23:38.271Z,31.64,-104.015,4.3656,1.7,ml(texnet),18,43,0,0.3,tx,tx2023wbcz,2023-11-10T16:43:25.784Z,"40 km W of Mentone, Texas",earthquake,0,1.156541736,0.2,14,automatic,tx,tx
@@ -61,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T08:16:39.070Z,19.3950004577637,-155.27783203125,1.0900000333786,1.83000004,md,14,51,,0.219999999,hv,hv73642697,2023-11-10T08:19:36.960Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.330000013,1.14999998,11,automatic,hv,hv
 2023-11-10T08:14:15.268Z,31.587,-104.425,2.6731,1.6,ml(texnet),13,111,0.1,0.6,tx,tx2023wamv,2023-11-10T09:02:20.529Z,"65 km S of Whites City, New Mexico",earthquake,0,2.194156546,0.2,11,automatic,tx,tx
 2023-11-10T08:10:44.530Z,38.7874985,-122.7334976,1.77,0.77,md,9,87,0.004947,0.02,nc,nc73960806,2023-11-10T08:20:10.250Z,"2 km ENE of The Geysers, CA",earthquake,0.36,0.74,0.12,9,automatic,nc,nc
+2023-11-10T08:07:14.790Z,35.5058333,-118.3825,8.31,0.83,ml,21,65,0.1735,0.12,ci,ci39711130,2023-11-10T16:53:47.165Z,"14 km SE of Bodfish, CA",earthquake,0.17,1.12,0.125,5,reviewed,ci,ci
 2023-11-10T07:48:04.627Z,4.3549,-73.4965,10,4.5,mb,43,82,1.582,0.54,us,us7000la0s,2023-11-10T16:01:10.347Z,"Colombia",earthquake,7.45,1.922,0.088,38,reviewed,us,us
 2023-11-10T07:29:47.730Z,33.9413333,-116.6313333,12.72,0.83,ml,37,44,0.09792,0.15,ci,ci39711122,2023-11-10T16:17:08.367Z,"9 km WNW of Garnet, CA",earthquake,0.18,0.58,0.082,18,reviewed,ci,ci
 2023-11-10T07:26:02.559Z,60.9981,-148.0978,10.6,1.7,ml,,,,0.92,ak,ak023eff2l7u,2023-11-10T07:28:08.057Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -165,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T20:11:32.802Z,31.638,-104.007,4.956,1.5,ml(texnet),15,83,0,0.2,tx,tx2023vzox,2023-11-09T20:51:52.666Z,"39 km W of Mentone, Texas",earthquake,0,1.198227911,0.2,13,automatic,tx,tx
 2023-11-09T20:01:44.880Z,34.993,-118.1856667,-0.93,1.2,ml,14,63,0.1193,0.26,ci,ci39710882,2023-11-09T20:25:48.496Z,"7 km S of Mojave, CA",quarry blast,0.49,31.61,0.079,9,reviewed,ci,ci
 2023-11-09T19:59:26.550Z,38.8356667,-122.8085022,2.06,1.3,md,25,76,0.01232,0.02,nc,nc73960586,2023-11-09T22:55:13.113Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.41,0.18,26,automatic,nc,nc
-2023-11-09T19:57:00.680Z,63.2683,-149.7913,96,3.6,ml,,,,0.61,ak,ak023edyv2w6,2023-11-10T08:33:52.044Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-11-09T19:57:00.680Z,63.2683,-149.7913,96,3.6,ml,,,,0.61,ak,ak023edyv2w6,2023-11-10T08:33:52.044Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-11-09T19:52:57.923Z,40.2506,-119.8287,0,0.9,ml,3,270.7,0.109,0.1499,nn,nn00868712,2023-11-10T01:03:09.654Z,"28 km ENE of Herlong, California",earthquake,,0,0.11,2,reviewed,nn,nn
 2023-11-09T19:51:15.640Z,35.0605,-118.342,-0.93,1.17,ml,11,68,0.06974,0.17,ci,ci39710874,2023-11-09T20:21:14.391Z,"13 km SE of Tehachapi, CA",quarry blast,0.41,31.61,0.106,7,reviewed,ci,ci
 2023-11-09T19:35:48.940Z,33.4845,-116.476,10.82,0.81,ml,23,98,0.0572,0.15,ci,ci39710866,2023-11-09T20:17:10.054Z,"20 km ESE of Anza, CA",earthquake,0.34,0.51,0.138,15,reviewed,ci,ci
