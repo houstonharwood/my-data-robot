@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T12:53:46.130Z,33.9895,-116.4638333,8.3,1.83,ml,74,36,0.06683,0.13,ci,ci39711610,2023-11-11T13:04:42.520Z,"5 km NE of Desert Hot Springs, CA",earthquake,0.09,0.31,0.142,26,automatic,ci,ci
 2023-11-11T12:46:47.244Z,32.308,-101.83,5.649,2.7,ml(texnet),22,43,0,0.1,tx,tx2023wcrj,2023-11-11T13:10:30.509Z,"western Texas",earthquake,0.3984335469,0.5929752836,0.1,12,reviewed,tx,tx
 2023-11-11T12:45:26.550Z,38.8325005,-122.8150024,1.89,1.27,md,24,52,0.009874,0.02,nc,nc73961556,2023-11-11T14:43:10.898Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.19,24,automatic,nc,nc
-2023-11-11T12:35:30.216Z,-17.8935,168.1051,23.903,5.5,mww,78,100,4.473,0.5,us,us7000lac6,2023-11-11T20:40:19.268Z,"28 km SW of Port-Vila, Vanuatu",earthquake,10.71,4.353,0.048,41,reviewed,us,us
+2023-11-11T12:35:30.216Z,-17.8935,168.1051,23.903,5.5,mww,78,100,4.473,0.5,us,us7000lac6,2023-11-11T20:50:24.550Z,"28 km SW of Port-Vila, Vanuatu",earthquake,10.71,4.353,0.048,41,reviewed,us,us
 2023-11-11T12:28:58.760Z,40.6221657,-124.367836,20.38,1.8,md,7,320,0.1483,0.01,nc,nc73961561,2023-11-11T15:09:11.053Z,"10 km WNW of Ferndale, CA",earthquake,3.91,1.27,,1,automatic,nc,nc
 2023-11-11T12:27:27.024Z,31.639,-104.015,5.3378,1.6,ml(texnet),18,42,0,0.3,tx,tx2023wcqq,2023-11-11T13:02:25.508Z,"western Texas",earthquake,0,2.089106863,0.1,14,automatic,tx,tx
 2023-11-11T12:25:12.540Z,35.9686667,-117.683,2.44,1.51,ml,31,56,0.103,0.14,ci,ci39711602,2023-11-11T12:35:32.240Z,"20 km E of Little Lake, CA",earthquake,0.19,0.31,0.175,16,automatic,ci,ci
@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T03:01:07.421Z,57.5287,-154.9948,54.5,2.2,ml,,,,0.23,ak,ak023eh02qws,2023-11-11T03:03:05.784Z,"Kodiak Island region, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-11-11T02:58:32.680Z,38.8181648,-122.8241653,2.23,0.27,md,10,122,0.009822,0.02,nc,nc73961241,2023-11-11T03:09:11.140Z,"7 km NW of The Geysers, CA",earthquake,0.46,0.73,0.09,11,automatic,nc,nc
 2023-11-11T02:54:07.890Z,39.5410004,-123.3653336,7.51,1.42,md,8,105,0.07509,0.03,nc,nc73961231,2023-11-11T05:24:10.596Z,"11 km N of Brooktrails, CA",earthquake,0.37,0.96,0.14,3,automatic,nc,nc
-2023-11-11T02:52:13.378Z,38.6441,-117.9271,6.4,1.5,ml,7,89.45,0.283,0.1067,nn,nn00868767,2023-11-11T20:24:12.001Z,"Nevada",earthquake,,6.2,0.16,5,reviewed,nn,nn
+2023-11-11T02:52:13.378Z,38.6441,-117.9271,6.4,1.5,ml,7,89.45,0.283,0.1067,nn,nn00868767,2023-11-11T20:24:12.001Z,"24 km S of Gabbs, Nevada",earthquake,,6.2,0.16,5,reviewed,nn,nn
 2023-11-11T02:50:38.690Z,19.2383327484131,-155.393997192383,30.3400001525879,2.08999991,md,25,211,,0.0900000036,hv,hv73643647,2023-11-11T02:53:49.220Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.18,0.709999979,2.08999991,4,automatic,hv,hv
 2023-11-11T02:49:26.310Z,33.0026667,-117.7538333,2.72,1.58,ml,26,163,0.4655,0.13,ci,ci39711474,2023-11-11T02:56:19.845Z,"41 km WSW of Carlsbad, CA",earthquake,0.48,1.2,0.131,14,automatic,ci,ci
 2023-11-11T02:41:17.866Z,-24.1692,-67.0906,197.215,4.2,mb,26,77,1.57,0.65,us,us7000laa6,2023-11-11T05:37:16.040Z,"78 km W of San Antonio de los Cobres, Argentina",earthquake,7.91,7.002,0.176,9,reviewed,us,us
@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T21:03:54.870Z,33.3345,-116.401,11.13,1.63,ml,76,22,0.02939,0.16,ci,ci39711330,2023-11-10T22:27:18.010Z,"9 km NNW of Borrego Springs, CA",earthquake,0.13,0.55,0.158,24,reviewed,ci,ci
 2023-11-10T21:00:34.030Z,32.8281667,-117.0651667,-0.17,0.86,ml,16,104,0.07555,0.25,ci,ci39711314,2023-11-10T21:57:27.207Z,"8 km NNW of La Mesa, CA",quarry blast,0.77,31.61,0.087,5,reviewed,ci,ci
 2023-11-10T20:55:43.692Z,61.2484,-146.8116,26.5,1.6,ml,,,,0.23,ak,ak023efmziw8,2023-11-10T20:58:01.882Z,"28 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-10T20:50:30.023Z,31.263,130.8105,108.775,5.3,mww,92,71,0.392,0.9,us,us7000la7u,2023-11-11T05:53:39.809Z,"13 km SSW of Kanoya, Japan",earthquake,6.04,4.077,0.069,20,reviewed,us,us
-2023-11-10T20:47:52.360Z,58.2936666666667,-154.983333333333,3.06,-0.4,ml,8,147,,0.08,av,av91121308,2023-11-11T01:43:21.400Z,"86 km NNW of Karluk, Alaska",earthquake,0.29,0.63,0.329618955412157,8,reviewed,av,av
