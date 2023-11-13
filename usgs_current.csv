@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T17:11:39.400Z,38.8019981,-122.7724991,1.04,0.9,md,14,76,0.01009,0.02,nc,nc73962466,2023-11-13T17:13:16.371Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.47,0.19,15,automatic,nc,nc
 2023-11-13T16:56:28.623Z,61.6063,-141.539,0,1.2,ml,,,,0.62,ak,ak023ekj80j2,2023-11-13T16:57:57.477Z,"76 km ENE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-13T16:44:02.872Z,67.374,-167.9731,33,3.8,ml,,,,0.9,ak,ak023ekj5dy7,2023-11-13T16:52:36.508Z,"120 km SSW of Point Hope, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2023-11-13T16:43:56.903Z,67.3262,-168.1569,13.8,3.5,ml,,,,0.95,ak,ak023ekj5dy7,2023-11-13T17:09:13.702Z,"128 km SSW of Point Hope, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-11-13T16:12:54.160Z,38.8266678,-122.8518295,1.64,1,md,14,87,0.004036,0.02,nc,nc73962461,2023-11-13T16:58:10.123Z,"10 km WNW of The Geysers, CA",earthquake,0.26,0.51,0.23,14,automatic,nc,nc
 2023-11-13T16:01:37.829Z,61.6056,-147.762,29.7,1.6,ml,,,,0.61,ak,ak023ekiw8uu,2023-11-13T16:02:59.805Z,"23 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-13T15:59:27.174Z,60.1068,-140.5072,24.9,1.6,ml,,,,1.01,ak,ak023ekin7yl,2023-11-13T16:01:06.025Z,"76 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -169,14 +170,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T20:58:57.990Z,19.3903331756592,-155.276672363281,1.79999995231628,2.03,ml,16,52,,0.140000001,hv,hv73645487,2023-11-12T21:04:28.180Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.289999992,0.24,8,automatic,hv,hv
 2023-11-12T20:56:49.773Z,64.0211,-152.7579,8.3,1.6,ml,,,,0.5,ak,ak023eiy2g3l,2023-11-12T21:05:56.549Z,"26 km NW of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-12T20:54:14.640Z,19.3320007324219,-155.299499511719,0.689999997615814,2.23,ml,29,121,,0.219999999,hv,hv73645477,2023-11-12T20:59:54.370Z,"Hawaii region, Hawaii",earthquake,0.49,0.469999999,0.25,7,automatic,hv,hv
-2023-11-12T20:47:40.150Z,35.7021667,-117.5671667,2.54,1.43,ml,30,60,0.09356,0.14,ci,ci39712266,2023-11-12T20:53:54.576Z,"13 km NE of Ridgecrest, CA",earthquake,0.18,0.31,0.132,17,automatic,ci,ci
+2023-11-12T20:47:40.150Z,35.7038333,-117.565,2.37,1.43,ml,26,60,0.09596,0.15,ci,ci39712266,2023-11-13T17:05:55.827Z,"14 km NE of Ridgecrest, CA",earthquake,0.23,0.37,0.158,11,reviewed,ci,ci
 2023-11-12T20:38:14.896Z,-3.6433,140.1736,24.608,5.3,mww,82,47,1.239,0.66,us,us7000laid,2023-11-12T20:57:37.040Z,"Papua, Indonesia",earthquake,7.76,4.85,0.083,14,reviewed,us,us
 2023-11-12T20:29:23.420Z,18.0235,-66.8076666666667,15.16,2.21,md,7,151,0.08345,0.15,pr,pr71431288,2023-11-12T21:13:34.420Z,"Puerto Rico",earthquake,0.56,1.31,0.067473660245593,5,reviewed,pr,pr
 2023-11-12T20:03:27.058Z,65.0369,-148.8589,16.1,1.3,ml,,,,1.06,ak,ak023eixr1dt,2023-11-12T20:05:36.336Z,"26 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-12T20:01:37.836Z,65.0176,-148.8284,13.6,1.5,ml,,,,0.6,ak,ak023eixqms7,2023-11-12T20:03:26.854Z,"28 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T19:57:33.570Z,38.8460007,-122.7693329,1.13,0.67,md,7,182,0.006477,0.03,nc,nc73962166,2023-11-12T20:30:11.176Z,"5 km WNW of Cobb, CA",earthquake,0.62,0.63,0.43,9,automatic,nc,nc
 2023-11-12T19:56:08.342Z,60.2559,-141.1028,15.9,1.5,ml,,,,0.39,ak,ak023eixgx9h,2023-11-12T20:03:20.032Z,"110 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-12T19:54:28.449Z,39.1884,71.1104,12.485,4.5,mb,36,82,0.607,0.68,us,us7000lai9,2023-11-12T20:23:14.040Z,"Kyrgyzstan-Tajikistan border region",earthquake,4.05,5.136,0.104,27,reviewed,us,us
+2023-11-12T19:54:28.449Z,39.1884,71.1104,12.485,4.5,mb,36,82,0.607,0.68,us,us7000lai9,2023-11-12T20:23:14.040Z,"36 km W of Karakenja, Tajikistan",earthquake,4.05,5.136,0.104,27,reviewed,us,us
 2023-11-12T19:52:31.630Z,33.7633333,-116.932,14.02,0.82,ml,27,82,0.07636,0.11,ci,ci39712250,2023-11-13T16:57:11.242Z,"3 km SE of San Jacinto, CA",earthquake,0.18,0.42,0.121,14,reviewed,ci,ci
 2023-11-12T19:50:33.500Z,33.6315,-116.7685,14.55,0.72,ml,26,95,0.03789,0.1,ci,ci39712242,2023-11-13T16:33:01.595Z,"12 km NW of Anza, CA",earthquake,0.21,0.29,0.236,14,reviewed,ci,ci
 2023-11-12T19:39:57.180Z,33.7641667,-116.9391667,15.29,1.36,ml,53,30,0.04985,0.17,ci,ci39712234,2023-11-13T16:13:38.690Z,"3 km SE of San Jacinto, CA",earthquake,0.17,0.33,0.168,22,reviewed,ci,ci
