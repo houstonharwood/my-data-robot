@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-13T17:20:06.740Z,35.6495018,-117.5561676,8,1.44,ml,28,77,0.09906,0.14,ci,ci39712578,2023-11-13T17:22:32.976Z,"11 km ENE of Ridgecrest, CA",earthquake,0.31,1.44,0.268,7,automatic,ci,ci
+2023-11-13T17:28:44.890Z,40.2218323,-121.1558304,0.96,2.22,md,9,141,0.2401,0.18,nc,nc73962501,2023-11-13T17:30:21.861Z,"2 km N of Prattville, CA",earthquake,0.85,12.27,0.12,8,automatic,nc,nc
+2023-11-13T17:20:06.710Z,35.6503333,-117.5578333,6.71,1.47,ml,31,84,0.08474,0.14,ci,ci39712578,2023-11-13T17:30:57.990Z,"11 km ENE of Ridgecrest, CA",earthquake,0.16,0.49,0.192,16,automatic,ci,ci
 2023-11-13T17:19:31.150Z,36.0313339,-120.5948334,1.75,1.35,md,10,115,0.03741,0.06,nc,nc73962486,2023-11-13T17:21:06.504Z,"21 km NW of Parkfield, CA",earthquake,0.45,2.75,0.03,3,automatic,nc,nc
 2023-11-13T17:18:10.350Z,35.895668,-121.4871674,0.62,2.73,md,52,189,0.2078,0.25,nc,nc73962476,2023-11-13T17:22:11.259Z,"16 km SSE of Lopez Point, CA",earthquake,0.82,3.74,0.1,45,automatic,nc,nc
 2023-11-13T17:13:50.090Z,33.6046667,-118.023,12.06,1.98,ml,46,116,0.1038,0.27,ci,ci39712570,2023-11-13T17:20:42.894Z,"9 km W of Newport Beach, CA",earthquake,0.4,0.72,0.206,30,automatic,ci,ci
@@ -95,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T05:25:10.920Z,59.3726,-144.1719,62.7,1.9,ml,,,,0.24,ak,ak023ekchkb8,2023-11-13T05:26:56.156Z,"Gulf of Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-11-13T05:24:21.670Z,38.7751656,-122.7440033,2.27,0.81,md,9,126,0.009865,0.02,nc,nc73962321,2023-11-13T07:07:10.864Z,"1 km ESE of The Geysers, CA",earthquake,0.43,1.01,0.2,8,automatic,nc,nc
 2023-11-13T05:17:05.749Z,31.632,-103.989,6.2087,1.9,ml(texnet),19,47,0,0.1,tx,tx2023wftl,2023-11-13T14:49:32.472Z,"37 km WSW of Mentone, Texas",earthquake,0.48555555,0.5841576754,0,7,reviewed,tx,tx
+2023-11-13T05:05:20.320Z,38.8238333,-122.7673333,2.32,0.45,md,23,75,0.006928,0.02,nc,nc73962316,2023-11-13T17:30:04.385Z,"4 km W of Cobb, CA",earthquake,0.25,0.41,0.147,18,reviewed,nc,nc
 2023-11-13T04:56:18.320Z,19.2329998016357,-155.38883972168,30.9200000762939,1.99000001,md,26,161,,0.119999997,hv,hv73646157,2023-11-13T04:59:34.890Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,1.04999995,0.99000001,3,automatic,hv,hv
 2023-11-13T04:56:17.360Z,17.9348333333333,-66.2825,7.7,2.86,md,30,194,0.1041,0.27,pr,pr71431308,2023-11-13T05:14:54.310Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.49,0.72,0.268190608135825,12,reviewed,pr,pr
 2023-11-13T04:55:07.880Z,38.8294983,-122.8168335,2.33,0.76,md,14,56,0.008063,0.01,nc,nc73962311,2023-11-13T06:12:11.537Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.83,0.13,15,automatic,nc,nc
@@ -158,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T22:46:10.393Z,31.627,-103.975,4.7904,1.9,ml(texnet),14,85,0,0.2,tx,tx2023wfgn,2023-11-12T23:08:40.404Z,"36 km WSW of Mentone, Texas",earthquake,0,1.223342264,0.2,12,automatic,tx,tx
 2023-11-12T22:43:22.460Z,38.8201675,-122.793663,2.55,0.78,md,11,84,0.01225,0.01,nc,nc73962211,2023-11-12T23:37:11.222Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.16,0.23,12,automatic,nc,nc
 2023-11-12T22:40:14.690Z,19.3349990844727,-155.299499511719,2.46000003814697,1.96000004,md,14,128,,0.170000002,hv,hv73645642,2023-11-12T22:43:27.110Z,"13 km SSW of Volcano, Hawaii",earthquake,0.39,0.589999974,1.08000004,12,automatic,hv,hv
-2023-11-12T22:29:22.640Z,33.8538333,-117.8298333,9.18,1.23,ml,40,97,0.04216,0.2,ci,ci39712282,2023-11-12T22:35:48.054Z,"4 km SSW of Yorba Linda, CA",earthquake,0.32,0.39,0.249,29,automatic,ci,ci
+2023-11-12T22:29:22.650Z,33.8555,-117.8215,11.18,1.12,ml,30,117,0.03803,0.19,ci,ci39712282,2023-11-13T17:30:23.040Z,"4 km SSW of Yorba Linda, CA",earthquake,0.36,0.41,0.173,15,reviewed,ci,ci
 2023-11-12T22:28:18.527Z,31.726,-104.591,2.724,1.6,ml(texnet),9,214,0.1,0.3,tx,tx2023wffy,2023-11-12T23:01:05.076Z,"53 km SSW of Whites City, New Mexico",earthquake,0,2.598919508,0.3,7,automatic,tx,tx
 2023-11-12T22:27:37.796Z,62.7014,-149.6629,71.1,1.4,ml,,,,0.77,ak,ak023eiz32lv,2023-11-12T22:29:49.895Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-12T22:25:15.640Z,18.513,-68.7368,122,4.13,md,17,160,0.3554,0.39,pr,pr2023316000,2023-11-12T23:12:20.369Z,"Mona Passage",earthquake,1.57,1.19,0.04,9,reviewed,pr,pr
