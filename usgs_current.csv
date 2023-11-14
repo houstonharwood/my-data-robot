@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-14T21:25:15.900Z,36.61847687,-97.192276,3.071482658,2.64,ml,37,118.8477173,0.1356543899,0.3845247125,ok,ok2023wiuw,2023-11-14T21:28:18.393Z,"7 km NNW of Marland, Oklahoma",earthquake,2.300509031,1.483543353,0.2,24,automatic,ok,ok
+2023-11-14T21:24:21.610Z,38.8561668,-122.8206635,4.18,0.77,md,6,160,0.002581,0.02,nc,nc73962936,2023-11-14T21:25:58.443Z,"9 km WNW of Cobb, CA",earthquake,1.35,1.69,0.26,8,automatic,nc,nc
 2023-11-14T20:55:10.283Z,61.7206,-149.898,35.7,1.4,ml,,,,0.75,ak,ak023em94ub8,2023-11-14T20:57:20.040Z,"Southern Alaska",earthquake,,6.8,,,automatic,ak,ak
 2023-11-14T20:40:54.720Z,38.786499,-122.7505035,0.56,1.12,md,14,88,0.01125,0.03,nc,nc73962931,2023-11-14T20:59:11.697Z,"1 km NNE of The Geysers, CA",earthquake,0.27,0.48,0.15,16,automatic,nc,nc
 2023-11-14T20:30:39.190Z,32.7623333,-116.906,4.51,1.45,ml,25,78,0.04064,0.24,ci,ci39713162,2023-11-14T20:37:08.404Z,"3 km ENE of Rancho San Diego, CA",earthquake,0.31,0.76,0.246,13,automatic,ci,ci
@@ -76,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T12:33:28.350Z,38.8306656,-122.8040009,1.07,0.34,md,11,50,0.008672,0.01,nc,nc73962811,2023-11-14T12:45:10.719Z,"7 km W of Cobb, CA",earthquake,0.29,0.86,0.2,11,automatic,nc,nc
 2023-11-14T12:30:22.450Z,38.8371658,-122.8024979,1.85,0.69,md,13,65,0.009573,0.01,nc,nc73962806,2023-11-14T12:41:11.697Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.82,0.32,14,automatic,nc,nc
 2023-11-14T12:27:23.550Z,44.5568333,-110.759,12.03,0.61,ml,10,100,0.09593,0.13,uu,uu60554202,2023-11-14T14:32:26.010Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.63,1.78,0.451,3,reviewed,uu,uu
-2023-11-14T12:24:44.574Z,31.556,-104.098,4.495,1.6,ml(texnet),19,78,0,0.3,tx,tx2023widd,2023-11-14T13:08:04.003Z,"39 km NW of Toyah, Texas",earthquake,0,1.325654368,0.1,15,automatic,tx,tx
+2023-11-14T12:24:44.338Z,31.555,-104.102,6.4401,1.6,ml(texnet),18,129,0,0.3,tx,tx2023widd,2023-11-14T21:26:13.152Z,"39 km NW of Toyah, Texas",earthquake,1.10404978,0.6981023485,0.2,13,reviewed,tx,tx
 2023-11-14T12:19:11.116Z,32.22,-102.012,6.774,1.6,ml(texnet),21,58,0.1,0.1,tx,tx2023wicx,2023-11-14T19:53:39.906Z,"23 km WNW of Stanton, Texas",earthquake,0.5540192288,1.199365084,0.1,6,reviewed,tx,tx
 2023-11-14T12:11:01.120Z,34.0775,-117.2953333,14.78,1.31,ml,74,33,0.02968,0.19,ci,ci39712946,2023-11-14T16:26:24.420Z,"2 km ENE of Colton, CA",earthquake,0.16,0.31,0.207,21,reviewed,ci,ci
 2023-11-14T11:59:38.010Z,38.8221664,-122.8085022,2.46,1.29,md,23,38,0.001736,0.02,nc,nc73962796,2023-11-14T14:47:11.465Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.44,0.15,26,automatic,nc,nc
@@ -150,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T04:37:32.263Z,31.658,-104.374,8.388,1.6,ml(texnet),15,70,0,0.1,tx,tx2023whnq,2023-11-14T16:18:23.622Z,"57 km S of Whites City, New Mexico",earthquake,0.8467341698,0.8926235542,0.2,13,reviewed,tx,tx
 2023-11-14T04:37:31.575Z,31.657,-104.373,5.8058,1.5,ml(texnet),18,70,0.1,0.4,tx,tx2023whnp,2023-11-14T04:59:29.337Z,"57 km S of Whites City, New Mexico",earthquake,0,2.671545711,0.2,13,automatic,tx,tx
 2023-11-14T04:34:21.906Z,31.595,-104.215,4.0577,1.6,ml(texnet),15,70,0.1,0.3,tx,tx2023whno,2023-11-14T04:59:21.455Z,"50 km NW of Toyah, Texas",earthquake,0,1.792954854,0.2,13,automatic,tx,tx
+2023-11-14T04:33:25.346Z,32.082,-101.608,13.4501,1.6,ml(texnet),17,110,0.2,0.2,tx,tx2023whnn,2023-11-14T21:21:25.152Z,"17 km ESE of Stanton, Texas",earthquake,1.274902565,1.589998079,0.1,12,reviewed,tx,tx
 2023-11-14T04:25:33.502Z,38.3161,-115.9344,0,1.7,ml,8,236.8,0.688,0.2145,nn,nn00868874,2023-11-14T15:48:09.419Z,"76 km NNW of Rachel, Nevada",earthquake,,0,0.34,6,reviewed,nn,nn
 2023-11-14T04:23:03.440Z,59.361,-153.433,-0.16,0.67,ml,7,90,,0.1,av,av92118106,2023-11-14T19:13:54.430Z,"Southern Alaska",earthquake,0.18,0.12,0.226089122491995,7,reviewed,av,av
 2023-11-14T04:00:21.150Z,38.8146667,-122.8190002,2.55,0.76,md,18,66,0.009836,0.02,nc,nc73962701,2023-11-14T04:11:10.794Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.59,0.14,18,automatic,nc,nc
@@ -178,9 +181,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T01:26:08.220Z,17.955,-66.8258333333333,14.38,2.48,md,9,207,0.05462,0.08,pr,pr71431353,2023-11-14T01:50:59.230Z,"4 km S of Indios, Puerto Rico",earthquake,0.67,0.44,0.0576831543390595,4,reviewed,pr,pr
 2023-11-14T01:12:39.570Z,34.375,-117.6371667,9.14,1,ml,20,114,0.03467,0.12,ci,ci39712826,2023-11-14T17:48:54.503Z,"2 km NNW of Wrightwood, CA",earthquake,0.24,0.54,0.092,12,reviewed,ci,ci
 2023-11-14T01:02:26.010Z,38.8233337,-122.7998352,2.61,1.08,md,22,52,0.007998,0.02,nc,nc73962651,2023-11-14T01:19:10.944Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.45,0.17,22,automatic,nc,nc
+2023-11-14T00:57:16.230Z,37.5358333,-118.8695,5.12,0.47,md,16,197,0.0629,0.06,nc,nc73962646,2023-11-14T21:26:53.069Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.94,1.22,0.21,12,reviewed,nc,nc
 2023-11-14T00:56:58.440Z,19.3605003356934,-155.305160522461,1.79999995231628,1.85000002,md,14,93,,0.0900000036,hv,hv73647202,2023-11-14T00:59:52.790Z,"Hawaii region, Hawaii",earthquake,0.29,0.479999989,0.930000007,14,automatic,hv,hv
+2023-11-14T00:55:44.010Z,37.5458333,-118.8633333,6.09,0.78,md,15,265,0.05183,0.02,nc,nc73962636,2023-11-14T21:24:52.696Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.96,0.96,0.115,14,reviewed,nc,nc
 2023-11-14T00:51:22.730Z,38.831665,-122.8180008,1.71,0.75,md,11,98,0.01032,0,nc,nc73962631,2023-11-14T01:01:10.708Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.59,0.25,11,automatic,nc,nc
-2023-11-14T00:47:06.759Z,31.612,-104.118,6.1316,1.9,mlv,17,118,0.1,0.2,tx,tx2023whgb,2023-11-14T21:18:37.282Z,"45 km NW of Toyah, Texas",earthquake,0.9892095373,0.8926199942,0.3,12,reviewed,tx,tx
+2023-11-14T00:47:06.759Z,31.612,-104.118,6.1316,1.8,ml(texnet),17,118,0.1,0.2,tx,tx2023whgb,2023-11-14T21:21:10.689Z,"45 km NW of Toyah, Texas",earthquake,0.9892095373,0.8926199942,0.2,11,reviewed,tx,tx
 2023-11-14T00:38:49.590Z,38.8235016,-122.7638321,1.94,0.77,md,10,124,0.008426,0.03,nc,nc73962626,2023-11-14T00:52:09.657Z,"4 km W of Cobb, CA",earthquake,0.54,1.02,0.17,10,automatic,nc,nc
 2023-11-14T00:26:45.920Z,47.3985,-120.7085,7.83,1.43,ml,16,102,0.2377,0.23,uw,uw61972156,2023-11-14T02:24:30.250Z,"22 km S of Leavenworth, Washington",earthquake,0.54,0.92,0.09032094615950925,15,reviewed,uw,uw
 2023-11-14T00:21:27.212Z,31.677,-104.448,7.7421,1.5,ml(texnet),16,61,0,0.5,tx,tx2023whff,2023-11-14T01:09:06.625Z,"55 km S of Whites City, New Mexico",earthquake,0,2.55303491,0.3,13,automatic,tx,tx
