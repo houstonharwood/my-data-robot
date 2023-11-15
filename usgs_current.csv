@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-15T20:21:44.100Z,35.6655,-117.5706667,2.53,0.84,ml,20,117,0.1184,0.11,ci,ci39713530,2023-11-15T20:27:31.467Z,"11 km ENE of Ridgecrest, CA",earthquake,0.18,0.35,0.101,8,automatic,ci,ci
 2023-11-15T20:07:27.970Z,64.4708,-146.9382,3.3,1.5,ml,,,,0.5,ak,ak023enwdxst,2023-11-15T20:16:15.071Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-15T20:04:33.892Z,61.6836,-149.8404,54.2,1.6,ml,,,,0.27,ak,ak023enwdb3x,2023-11-15T20:06:27.137Z,"6 km NNW of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-15T19:47:57.486Z,31.579,-104.537,3.6746,1.7,ml(texnet),8,157,0.1,0.1,tx,tx2023wkng,2023-11-15T20:14:23.845Z,"western Texas",earthquake,0,2.194150678,0.1,6,automatic,tx,tx
@@ -77,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T11:16:30.896Z,37.012,-97.8428,5,2.7,ml,36,69,0.156,0.32,us,us6000lni4,2023-11-15T11:24:03.040Z,"7 km SSE of Bluff City, Kansas",earthquake,1.66,1.928,0.063,33,reviewed,us,us
 2023-11-15T11:12:57.600Z,46.11516666666667,-122.68466666666667,12.64,1.08,ml,22,55,0.05441,0.15,uw,uw61972276,2023-11-15T19:49:01.060Z,"17 km NE of Kalama, Washington",earthquake,0.34,0.73,0.06329830142859305,13,reviewed,uw,uw
 2023-11-15T10:58:32.905Z,31.1,-103.265,0.0902,3.5,ml(texnet),18,70,0,0.2,tx,tx2023wjvs,2023-11-15T18:45:05.190Z,"24 km SW of Coyanosa, Texas",earthquake,0.8790168247,0.9820288713,0.4,13,reviewed,tx,tx
-2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-15T20:18:25.865Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
+2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-15T20:23:39.885Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
 2023-11-15T10:39:31.180Z,33.014,-116.4295,6.27,1.04,ml,54,52,0.04496,0.19,ci,ci39713386,2023-11-15T16:36:01.937Z,"18 km ESE of Julian, CA",earthquake,0.19,0.41,0.139,17,reviewed,ci,ci
 2023-11-15T10:35:34.980Z,38.8256683,-122.8058319,1.32,0.28,md,11,73,0.004017,0.02,nc,nc73963121,2023-11-15T10:45:11.069Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.8,0.11,11,automatic,nc,nc
 2023-11-15T10:25:34.520Z,19.4009990692139,-155.276840209961,1.22000002861023,1.71000004,md,8,89,,0.100000001,hv,hv73648687,2023-11-15T10:28:38.080Z,"6 km SW of Volcano, Hawaii",earthquake,0.3,0.310000002,0.850000024,3,automatic,hv,hv
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T20:40:09.800Z,45.309666666666665,-121.65266666666666,7,0.55,ml,11,154,0.01266,0.11,uw,uw61972196,2023-11-15T19:52:42.450Z,"7 km NE of Wapanitia, Oregon",earthquake,0.35,0.42,0.05869912500867347,3,reviewed,uw,uw
 2023-11-14T20:33:33.340Z,60.018,-153.074333333333,4.67,-0.59,ml,4,142,,0.11,av,av92118791,2023-11-14T22:46:39.730Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.77,1.16,0.119549319425993,4,reviewed,av,av
 2023-11-14T20:30:38.820Z,32.7796667,-116.8921667,-0.35,1.38,ml,19,92,0.06101,0.27,ci,ci39713162,2023-11-14T23:08:43.256Z,"5 km SE of Bostonia, CA",quarry blast,0.41,31.61,0.196,13,reviewed,ci,ci
-2023-11-14T20:25:13.940Z,46.193,-122.18816666666666,4.98,0.7000000000000001,ml,22,63,0.007035,0.17,uw,uw61972191,2023-11-15T19:09:57.450Z,"37 km NNE of Amboy, Washington",earthquake,0.33,0.52,0.10888937476481964,15,reviewed,uw,uw
-2023-11-14T20:24:52.850Z,38.8388329,-122.8355026,1.23,0.57,md,6,155,0.0002438,0.01,nc,nc73962926,2023-11-14T20:45:11.623Z,"10 km NW of The Geysers, CA",earthquake,0.53,0.99,0.44,7,automatic,nc,nc
