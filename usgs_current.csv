@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-16T17:32:57.824Z,36.6157,-116.2667,3.7,0.3,ml,15,112.93,0.065,0.215,nn,nn00868958,2023-11-16T17:34:50.139Z,"51 km NNW of Pahrump, Nevada",earthquake,,0.6,0.24,10,automatic,nn,nn
+2023-11-16T17:28:33.082Z,31.532,-104.167,4.0683,1.7,ml(texnet),17,73,0.1,0.4,tx,tx2023wmec,2023-11-16T17:41:30.415Z,"42 km NW of Toyah, Texas",earthquake,0,1.458410352,0.2,13,automatic,tx,tx
 2023-11-16T17:15:12.952Z,61.2377,-150.0312,39.3,1.8,ml,,,,0.49,ak,ak023epi6o1r,2023-11-16T17:17:00.936Z,"7 km WNW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-16T16:38:52.375Z,62.9688,-150.2861,71.8,1.7,ml,,,,1.02,ak,ak023ephq8yd,2023-11-16T16:41:23.361Z,"58 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-11-16T16:35:41.480Z,44.7301667,-110.1058333,11.92,0.98,md,7,88,0.03713,0.11,uu,uu60554312,2023-11-16T16:49:28.300Z,"32 km SSW of Silver Gate, Montana",earthquake,0.57,0.76,0.151,4,reviewed,uu,uu
@@ -160,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T19:03:59.271Z,31.647,-104.016,5.9694,1.7,ml(texnet),15,45,0,0.1,tx,tx2023wklt,2023-11-15T19:49:31.662Z,"40 km W of Mentone, Texas",earthquake,0,3.494681404,0.2,12,automatic,tx,tx
 2023-11-15T19:01:31.255Z,31.646,-104.01,3.9094,1.5,ml(texnet),13,87,0,0.4,tx,tx2023wklq,2023-11-15T19:49:24.635Z,"39 km W of Mentone, Texas",earthquake,0,1.343616568,0.1,10,automatic,tx,tx
 2023-11-15T18:58:48.610Z,38.8100014,-122.7770004,1.29,0.36,md,7,109,0.004344,0.02,nc,nc73963266,2023-11-15T19:08:10.871Z,"4 km NNW of The Geysers, CA",earthquake,0.57,1.1,0.15,8,automatic,nc,nc
-2023-11-15T18:58:38.627Z,31.662,-104.38,6.6039,1.7,ml(texnet),15,70,0,0.5,tx,tx2023wklo,2023-11-15T19:23:05.686Z,"56 km S of Whites City, New Mexico",earthquake,0,2.862543071,0.2,13,automatic,tx,tx
+2023-11-15T18:58:39.515Z,31.667,-104.392,8.388,1.8,ml(texnet),15,69,0,0.1,tx,tx2023wklo,2023-11-16T17:43:08.552Z,"56 km S of Whites City, New Mexico",earthquake,0.7560445885,0.8526304537,0.1,11,reviewed,tx,tx
 2023-11-15T18:56:36.017Z,61.0922,-147.8836,6.2,1.7,ml,,,,0.85,ak,ak023envhlap,2023-11-15T18:59:03.252Z,"56 km NE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-15T18:53:34.460Z,31.65,-104.025,7.2113,2.6,ml(texnet),31,36,0,0.2,tx,tx2023wklk,2023-11-15T19:42:07.949Z,"40 km W of Mentone, Texas",earthquake,0.8094657744,0.7207682369,0.2,10,reviewed,tx,tx
 2023-11-15T18:50:52.700Z,34.0296667,-116.3215,8.08,1.71,ml,55,47,0.06922,0.14,ci,ci39713498,2023-11-15T21:14:56.020Z,"12 km S of Joshua Tree, CA",earthquake,0.13,0.45,0.157,47,reviewed,ci,ci
@@ -174,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T18:12:19.110Z,38.7874985,-122.748497,0.26,1.98,md,26,83,0.01014,0.04,nc,nc73963251,2023-11-15T20:12:10.219Z,"1 km NNE of The Geysers, CA",earthquake,0.2,0.38,0.18,28,automatic,nc,nc
 2023-11-15T18:10:51.265Z,40.0482,-119.9754,12.7,0.5,ml,5,178.24,0.155,0.1314,nn,nn00868944,2023-11-15T23:55:24.956Z,"11 km ENE of Doyle, California",earthquake,,4.3,0.21,2,reviewed,nn,nn
 2023-11-15T18:10:38.680Z,31.999,-103.841,8.0725,1.5,ml(texnet),30,72,0,0.1,tx,tx2023wkjy,2023-11-16T14:06:12.074Z,"33 km SE of Malaga, New Mexico",earthquake,0.4459223724,0.5867206793,0.2,18,reviewed,tx,tx
-2023-11-15T17:47:07.070Z,35.861,-98.06083333,6.26,1.54,ml,88,29,0.1097784577,0.19,ok,ok2023wkje,2023-11-15T18:00:35.118Z,"11 km W of Kingfisher, Oklahoma",earthquake,,0.5,0.25,40,reviewed,ok,ok
