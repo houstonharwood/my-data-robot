@@ -5,11 +5,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T17:16:47.890Z,38.7900009,-122.7366638,1.68,0.73,md,6,118,0.006754,0.01,nc,nc73963891,2023-11-17T17:25:10.251Z,"2 km NE of The Geysers, CA",earthquake,0.39,1.76,0.09,8,automatic,nc,nc
 2023-11-17T16:55:40.234Z,61.115,-150.2493,39.5,1.6,ml,,,,0.33,ak,ak023er5d7on,2023-11-17T16:58:10.503Z,"22 km WSW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-17T16:51:30.220Z,39.5611649,-123.3771667,5.47,1.53,md,7,178,0.08602,0.05,nc,nc73963886,2023-11-17T17:02:11.091Z,"13 km N of Brooktrails, CA",earthquake,1.46,1.09,0.34,4,automatic,nc,nc
-2023-11-17T16:49:15.040Z,33.1578333,-115.9616667,7.54,0.88,ml,39,40,0.02063,0.2,ci,ci39714298,2023-11-17T16:55:34.959Z,"16 km S of Salton City, CA",earthquake,0.19,0.31,0.126,7,automatic,ci,ci
+2023-11-17T16:49:15.090Z,33.1611667,-115.964,7.26,0.8,ml,30,41,0.01685,0.22,ci,ci39714298,2023-11-17T17:52:13.590Z,"15 km S of Salton City, CA",earthquake,0.3,0.52,0.075,8,reviewed,ci,ci
 2023-11-17T16:48:33.966Z,61.4015,-150.1173,36,1.6,ml,,,,0.45,ak,ak023er5bp6s,2023-11-17T16:50:23.200Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-11-17T16:47:45.530Z,38.8313332,-122.8195038,1.82,1.07,md,18,59,0.01082,0.01,nc,nc73963881,2023-11-17T16:59:12.070Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.46,0.16,20,automatic,nc,nc
 2023-11-17T16:35:31.297Z,62.1784,-150.1069,15.7,1.3,ml,,,,0.33,ak,ak023er58wo9,2023-11-17T16:37:30.396Z,"13 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-17T16:07:25.340Z,33.9928333,-116.9653333,20.05,2.74,ml,8,200,0.1034,0.09,ci,ci37591164,2023-11-17T17:42:55.037Z,"7 km N of Beaumont, CA",earthquake,0.64,0.89,0.307,30,reviewed,ci,ci
+2023-11-17T16:07:25.350Z,33.9911667,-116.9691667,20.04,0.85,ml,12,189,0.1058,0.09,ci,ci37591164,2023-11-17T17:56:07.420Z,"7 km N of Beaumont, CA",earthquake,0.36,0.68,0.205,7,reviewed,ci,ci
 2023-11-17T16:07:08.010Z,33.6056667,-116.6283333,13.61,0.63,ml,25,109,0.028,0.12,ci,ci39714274,2023-11-17T17:39:56.938Z,"7 km NE of Anza, CA",earthquake,0.22,0.39,0.102,12,reviewed,ci,ci
 2023-11-17T16:05:34.290Z,33.6015,-116.6358333,13.29,1.07,ml,39,42,0.03341,0.11,ci,ci39714258,2023-11-17T16:11:59.886Z,"6 km NE of Anza, CA",earthquake,0.14,0.23,0.156,26,automatic,ci,ci
 2023-11-17T15:55:14.510Z,38.8325005,-122.8148346,1.34,1.07,md,19,53,0.009823,0.02,nc,nc73963866,2023-11-17T16:04:10.710Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.36,0.29,21,automatic,nc,nc
@@ -173,6 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T21:49:06.690Z,52.087,-176.131333333333,-1.77,0.63,ml,4,213,,0.28,av,av91121848,2023-11-17T01:20:08.540Z,"41 km NE of Adak, Alaska",earthquake,1.69,2.1,0.205633775786204,4,reviewed,av,av
 2023-11-16T21:48:07.180Z,38.8344994,-122.7993317,2.24,1.13,md,24,57,0.008032,0.02,nc,nc73963571,2023-11-17T00:07:10.575Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.43,0.17,25,automatic,nc,nc
 2023-11-16T21:46:07.098Z,31.605,-104.188,6.0802,1.5,ml(texnet),22,67,0.1,0.2,tx,tx2023wmmo,2023-11-17T15:24:25.099Z,"49 km NW of Toyah, Texas",earthquake,0.7773694167,1.428581658,0,6,reviewed,tx,tx
+2023-11-16T21:44:08.520Z,43.8753333333333,-114.508333333333,6.32,1.72,ml,11,88,0.3202,0.09,mb,mb90033163,2023-11-17T17:55:08.290Z,"23 km NNW of Sun Valley, Idaho",earthquake,0.34,1,0.28184124172447,14,reviewed,mb,mb
 2023-11-16T21:39:45.056Z,31.634,-104.032,7.4812,2,ml(texnet),21,44,0,0.1,tx,tx2023wmmj,2023-11-17T11:38:46.602Z,"41 km W of Mentone, Texas",earthquake,0.5641843388,0.4129394561,0.1,10,reviewed,tx,tx
 2023-11-16T21:34:37.780Z,58.2421666666667,-155.089666666667,3.06,-0.18,ml,7,127,,0.15,av,av91121823,2023-11-16T23:05:55.640Z,"83 km NNW of Karluk, Alaska",earthquake,0.39,1.53,0.250661513746562,7,reviewed,av,av
 2023-11-16T21:33:18.145Z,36.2671,-115.3004,4.8,1.6,ml,11,185.56,0.264,0.3121,nn,nn00868975,2023-11-16T21:37:08.519Z,"16 km N of Summerlin South, Nevada",earthquake,,8.2,0.29,8,automatic,nn,nn
