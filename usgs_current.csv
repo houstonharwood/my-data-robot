@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T08:32:30.030Z,38.847168,-122.8161697,1.44,0.7,md,12,63,0.009348,0.01,nc,nc73963761,2023-11-17T08:42:10.893Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.68,0.14,13,automatic,nc,nc
 2023-11-17T08:31:16.400Z,38.7960014,-122.7443314,0.84,0.55,md,7,99,0.01287,0.04,nc,nc73963756,2023-11-17T08:39:10.876Z,"2 km NNE of The Geysers, CA",earthquake,0.37,0.72,0.25,8,automatic,nc,nc
 2023-11-17T08:24:10.310Z,36.4589996,-121.0378342,7.36,1.75,md,23,115,0.01666,0.12,nc,nc73963751,2023-11-17T08:35:12.030Z,"12 km SE of Pinnacles, CA",earthquake,0.35,0.73,0.15,17,automatic,nc,nc
-2023-11-17T08:14:13.236Z,5.5872,125.051,77.985,6.7,mww,117,21,1.564,1.15,us,us6000lp12,2023-11-17T09:52:53.903Z,"26 km WSW of Burias, Philippines",earthquake,6.88,5.597,0.048,41,reviewed,us,us
+2023-11-17T08:14:13.236Z,5.5872,125.051,77.985,6.7,mww,117,21,1.564,1.15,us,us6000lp12,2023-11-17T10:06:00.388Z,"26 km WSW of Burias, Philippines",earthquake,6.88,5.597,0.048,41,reviewed,us,us
 2023-11-17T08:04:03.350Z,36.5786667,-121.0013333,4.12,1.03,md,23,153,0.03078,0.24,nc,nc73963746,2023-11-17T09:33:11.256Z,"14 km ENE of Pinnacles, CA",earthquake,0.62,0.89,0.136,15,reviewed,nc,nc
 2023-11-17T08:02:00.610Z,38.8433342,-122.8371658,1.69,0.77,md,19,93,0.004916,0.03,nc,nc73963736,2023-11-17T08:10:09.691Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.41,0.16,20,automatic,nc,nc
 2023-11-17T07:53:54.860Z,34.41,-118.4026667,9.33,1.38,ml,35,44,0.04529,0.14,ci,ci39714130,2023-11-17T08:00:40.814Z,"10 km E of Santa Clarita, CA",earthquake,0.18,0.31,0.471,25,automatic,ci,ci
@@ -57,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T01:48:28.440Z,37.1155014,-121.8339996,0.52,1.5,md,9,68,0.03735,0.05,nc,nc73963641,2023-11-17T05:14:10.610Z,"9 km NNE of Day Valley, CA",earthquake,0.52,1.79,0.24,7,automatic,nc,nc
 2023-11-17T01:45:25.340Z,19.2376670837402,-155.409332275391,32.3600006103516,1.83000004,md,27,150,,0.100000001,hv,hv73650237,2023-11-17T01:48:26.730Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.77,0.920000017,1.74000001,6,automatic,hv,hv
 2023-11-17T01:38:54.236Z,31.649,-104.018,3.9953,1.7,ml(texnet),19,47,0,0.5,tx,tx2023wmug,2023-11-17T01:53:19.149Z,"40 km W of Mentone, Texas",earthquake,0,1.195492301,0.2,13,automatic,tx,tx
-2023-11-17T01:37:10.738Z,21.226,99.333,10.398,5.7,mww,92,46,0.247,0.85,us,us6000lp06,2023-11-17T09:39:54.044Z,"76 km SW of Kēng Tung, Myanmar",earthquake,7.37,4.112,0.062,25,reviewed,us,us
+2023-11-17T01:37:10.738Z,21.226,99.333,10.398,5.7,mww,92,46,0.247,0.85,us,us6000lp06,2023-11-17T10:07:53.421Z,"76 km SW of Kēng Tung, Myanmar",earthquake,7.37,4.112,0.062,25,reviewed,us,us
 2023-11-17T01:36:48.858Z,59.8802,-148.8905,18.6,2.5,ml,,,,0.66,ak,ak023eqwbno5,2023-11-17T02:35:55.040Z,"37 km SE of Lowell Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-17T01:23:12.210Z,31.661,-104.02,5.3816,2.6,ml(texnet),22,46,0,0.5,tx,tx2023wmts,2023-11-17T01:53:13.354Z,"40 km W of Mentone, Texas",earthquake,0,2.076700052,0.2,17,automatic,tx,tx
 2023-11-17T01:21:36.008Z,37.0265,-116.3767,10.2,-0.1,ml,11,72.99,0.036,0.112,nn,nn00868997,2023-11-17T03:43:21.006Z,"36 km ENE of Beatty, Nevada",earthquake,,1.2,0.67,7,reviewed,nn,nn
@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T10:16:49.894Z,60.2692,-152.2202,104.5,1.8,ml,,,,0.08,ak,ak023epe0xdp,2023-11-17T09:33:49.040Z,"Southern Alaska",earthquake,,3,,,automatic,ak,ak
 2023-11-16T10:14:01.420Z,46.182833333333335,-122.23833333333333,5.35,0.1,ml,10,204,0.01107,0.21,uw,uw61972451,2023-11-16T20:28:10.250Z,"34 km NNE of Amboy, Washington",earthquake,1.2,0.73,0.12944132832321437,5,reviewed,uw,uw
 2023-11-16T10:09:37.690Z,44.6108333333333,-112.573833333333,6.19,0.79,ml,9,139,0.05051,0.04,mb,mb90033068,2023-11-16T22:29:29.070Z,"3 km SSE of Lima, Montana",earthquake,0.25,0.52,0.105083087663379,6,reviewed,mb,mb
-2023-11-16T10:05:05.326Z,36.6495,-116.2834,6.6,-0.1,ml,12,192.11,0.045,0.1079,nn,nn00868956,2023-11-16T15:10:58.648Z,"51 km SE of Beatty, Nevada",earthquake,,1.7,0.23,5,reviewed,nn,nn
-2023-11-16T09:57:12.870Z,19.1081657409668,-155.395660400391,32.0200004577637,2.17000008,md,49,189,,0.109999999,hv,hv73649642,2023-11-16T10:00:25.290Z,"13 km SE of Pāhala, Hawaii",earthquake,0.51,0.870000005,1.78999996,20,automatic,hv,hv
