@@ -1,12 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-17T20:54:53.800Z,19.1806659698486,-155.475173950195,33.3899993896484,2.1400001,md,22,87,,0.100000001,hv,hv73650992,2023-11-17T20:58:08.270Z,"2 km S of Pāhala, Hawaii",earthquake,0.68,1.05999994,0.419999987,5,automatic,hv,hv
+2023-11-17T20:22:13.304Z,31.675,-104.409,8.0161,2,ml(texnet),15,69,0,0.4,tx,tx2023wofh,2023-11-17T20:56:54.978Z,"55 km S of Whites City, New Mexico",earthquake,0,2.697382036,0.2,13,automatic,tx,tx
 2023-11-17T20:21:49.110Z,19.1881675720215,-155.461837768555,31.3999996185303,2.1400001,md,38,109,,0.140000001,hv,hv73650917,2023-11-17T20:24:51.960Z,"2 km SE of Pāhala, Hawaii",earthquake,0.68,0.800000012,0.519999981,15,automatic,hv,hv
 2023-11-17T20:11:19.854Z,60.2545,-152.5644,103.2,1.9,ml,,,,0.61,ak,ak023er7hh0x,2023-11-17T20:14:05.850Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-17T20:06:25.028Z,31.737,-104.121,4.7182,1.8,ml(texnet),19,64,0,0.4,tx,tx2023woev,2023-11-17T20:38:48.798Z,"49 km W of Mentone, Texas",earthquake,0,1.135252699,0.3,15,automatic,tx,tx
+2023-11-17T20:03:08.820Z,45.9985,-112.471166666667,-2,1.7,ml,10,166,0.05964,0.06,mb,mb90033173,2023-11-17T20:57:27.760Z,"4 km E of Butte, Montana",quarry blast,0.49,31.61,0.199954761867114,15,reviewed,mb,mb
 2023-11-17T19:55:46.380Z,38.8256683,-122.8300018,2.09,1.48,md,27,29,0.004682,0.03,nc,nc73963951,2023-11-17T20:33:16.420Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.34,0.13,29,automatic,nc,nc
 2023-11-17T19:50:23.402Z,37.3192,-117.9006,1.8,1.1,ml,14,182.96,0.075,0.2495,nn,nn00869029,2023-11-17T19:53:13.848Z,"38 km ENE of Big Pine, California",earthquake,,8,0.21,8,automatic,nn,nn
 2023-11-17T19:38:51.420Z,38.7868347,-122.7563324,2.01,1.11,md,16,75,0.01402,0.02,nc,nc73963946,2023-11-17T19:47:11.656Z,"1 km N of The Geysers, CA",earthquake,0.26,0.59,0.21,16,automatic,nc,nc
 2023-11-17T19:31:12.310Z,38.7815018,-122.7563324,1.3,0.51,md,9,90,0.01304,0.02,nc,nc73963941,2023-11-17T19:42:10.143Z,"0 km N of The Geysers, CA",earthquake,0.4,0.75,0.26,8,automatic,nc,nc
 2023-11-17T19:30:44.980Z,38.8180008,-122.8216629,2.97,0.75,md,10,82,0.01053,0.02,nc,nc73963936,2023-11-17T19:39:10.126Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.12,0.06,11,automatic,nc,nc
+2023-11-17T19:27:38.170Z,47.735,-113.797833333333,4.5,0.55,ml,8,134,0.193,0.05,mb,mb90033183,2023-11-17T21:03:24.040Z,"19 km E of Finley Point, Montana",earthquake,0.43,6.22,0.137815563265836,2,reviewed,mb,mb
 2023-11-17T19:21:34.200Z,35.0501667,-118.3493333,-0.95,1.84,ml,26,32,0.05977,0.19,ci,ci39714330,2023-11-17T19:28:24.410Z,"13 km SE of Tehachapi, CA",earthquake,0.29,0.7,0.608,31,automatic,ci,ci
 2023-11-17T19:13:52.923Z,56.8744,-149.3136,4.5,4.2,ml,,,,0.69,ak,ak023er6wj5u,2023-11-17T19:44:16.040Z,"197 km ESE of Chiniak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-11-17T19:13:17.090Z,44.7401667,-111.2101667,12.3,0.34,md,12,192,0.01456,0.17,uu,uu60554397,2023-11-17T19:30:57.870Z,"3 km SSW of Hebgen Lake Estates, Montana",earthquake,1.04,1.37,0.12,6,reviewed,uu,uu
@@ -106,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T08:30:58.010Z,39.1171667,-110.8383333,14.08,1.4,md,8,142,0.2448,0.13,uu,uu60554347,2023-11-17T15:42:25.570Z,"18 km SE of Castle Dale, Utah",earthquake,0.65,3.43,0.302,5,reviewed,uu,uu
 2023-11-17T08:24:10.310Z,36.4589996,-121.0378342,7.36,1.75,md,23,115,0.01666,0.12,nc,nc73963751,2023-11-17T11:07:10.769Z,"12 km SE of Pinnacles, CA",earthquake,0.35,0.73,0.15,17,automatic,nc,nc
 2023-11-17T08:21:29.640Z,58.3365,-155.119666666667,16.59,0.1,ml,6,138,,0.29,av,av91121888,2023-11-17T20:35:58.160Z,"94 km NNW of Karluk, Alaska",earthquake,1.1,1.89,0.237570142526945,5,reviewed,av,av
-2023-11-17T08:14:13.236Z,5.5872,125.051,77.985,6.7,mww,117,21,1.564,1.15,us,us6000lp12,2023-11-17T20:07:44.405Z,"26 km WSW of Burias, Philippines",earthquake,6.88,5.597,0.048,41,reviewed,us,us
+2023-11-17T08:14:13.236Z,5.5872,125.051,77.985,6.7,mww,117,21,1.564,1.15,us,us6000lp12,2023-11-17T21:02:46.070Z,"26 km WSW of Burias, Philippines",earthquake,6.88,5.597,0.048,41,reviewed,us,us
 2023-11-17T08:04:03.350Z,36.5786667,-121.0013333,4.12,1.03,md,23,153,0.03078,0.24,nc,nc73963746,2023-11-17T12:01:12.096Z,"14 km ENE of Pinnacles, CA",earthquake,0.62,0.89,0.136,15,reviewed,nc,nc
 2023-11-17T08:02:00.610Z,38.8433342,-122.8371658,1.69,0.77,md,19,93,0.004916,0.03,nc,nc73963736,2023-11-17T10:40:11.757Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.41,0.16,20,automatic,nc,nc
 2023-11-17T07:53:54.860Z,34.41,-118.4026667,9.33,1.38,ml,35,44,0.04529,0.14,ci,ci39714130,2023-11-17T15:27:30.543Z,"10 km E of Santa Clarita, CA",earthquake,0.18,0.31,0.471,25,reviewed,ci,ci
