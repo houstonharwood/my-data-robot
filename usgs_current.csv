@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-17T19:13:51.000Z,56.961,-149.522,20,4.6,Ml,63,143.99998848000092,1.849631,0.77,at,at00s4a833,2023-11-17T19:21:02.258Z,"181 km ESE of Chiniak, Alaska",earthquake,0,0,,55,reviewed,at,at
+2023-11-17T19:21:34.200Z,35.0501667,-118.3493333,-0.95,1.84,ml,26,32,0.05977,0.19,ci,ci39714330,2023-11-17T19:28:24.410Z,"13 km SE of Tehachapi, CA",earthquake,0.29,0.7,0.608,31,automatic,ci,ci
+2023-11-17T19:13:52.923Z,56.8744,-149.3136,4.5,4.2,ml,,,,0.69,ak,ak023er6wj5u,2023-11-17T19:28:23.462Z,"197 km ESE of Chiniak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-11-17T19:07:07.510Z,37.5383339,-122.4185028,11.49,1.66,md,14,119,0.03905,0.08,nc,nc73963926,2023-11-17T19:17:47.619Z,"5 km SW of Hillsborough, CA",earthquake,0.54,0.69,0.17,7,automatic,nc,nc
 2023-11-17T19:00:37.340Z,39.5071678,-123.0058365,1.74,2.49,md,22,49,0.1485,0.09,nc,nc73963921,2023-11-17T19:07:11.103Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.28,2.41,0.16,24,automatic,nc,nc
 2023-11-17T18:26:16.720Z,19.1761665344238,-155.489334106445,30.1499996185303,1.86000001,md,30,93,,0.109999999,hv,hv73650812,2023-11-17T18:29:17.970Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.71,0.970000029,1.62,10,automatic,hv,hv
@@ -67,14 +68,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T11:21:57.490Z,40.4545,-111.9298333,7.14,0.64,md,9,153,0.01806,0.09,uu,uu60554372,2023-11-17T16:15:23.540Z,"3 km S of Bluffdale, Utah",earthquake,0.81,1.24,0.412,7,reviewed,uu,uu
 2023-11-17T11:16:49.812Z,63.0562,-149.7621,95,1.6,ml,,,,0.35,ak,ak023er25ph1,2023-11-17T11:18:24.909Z,"55 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-17T11:11:46.300Z,37.3363342,-121.7011642,7.34,1.17,md,9,85,0.047,0.06,nc,nc73963786,2023-11-17T14:13:10.989Z,"12 km ESE of Alum Rock, CA",earthquake,0.49,1.14,0.26,6,automatic,nc,nc
-2023-11-17T11:10:14.850Z,32.417,-115.2215,7.37,2.13,ml,26,47,0.07067,0.25,ci,ci39714162,2023-11-17T11:16:50.290Z,"7 km NNW of Delta, B.C., MX",earthquake,0.29,0.81,0.252,22,automatic,ci,ci
+2023-11-17T11:10:14.820Z,32.4116667,-115.2231667,7.31,2.17,ml,24,47,0.06965,0.3,ci,ci39714162,2023-11-17T19:23:12.897Z,"7 km NNW of Delta, B.C., MX",earthquake,0.39,1.38,0.247,16,reviewed,ci,ci
 2023-11-17T11:06:17.060Z,36.8955,-112.3965,17.42,2.15,ml,12,140,0.1746,0.16,uu,uu60554367,2023-11-17T15:36:44.340Z,"12 km ESE of Fredonia, Arizona",earthquake,0.78,0.72,0.192,6,reviewed,uu,uu
 2023-11-17T11:00:50.230Z,63.8746,-148.506,6.9,1.4,ml,,,,0.76,ak,ak023er22a1r,2023-11-17T11:02:51.916Z,"22 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-17T10:58:46.830Z,19.1438331604004,-155.369338989258,29.6499996185303,2.54,ml,55,182,,0.119999997,hv,hv73650492,2023-11-17T11:09:35.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.5,0.720000029,3.72,22,automatic,hv,hv
+2023-11-17T10:58:22.990Z,47.8015,-122.8635,22.05,1.16,ml,14,80,0.0339,0.21,uw,uw61972616,2023-11-17T19:25:09.270Z,"2 km SSE of Quilcene, Washington",earthquake,0.58,0.7,0.11505294838678926,6,reviewed,uw,uw
 2023-11-17T10:36:03.270Z,32.4041667,-115.2171667,9.19,1.98,ml,24,48,0.07585,0.29,ci,ci39714154,2023-11-17T19:15:48.862Z,"6 km NNW of Delta, B.C., MX",earthquake,0.36,1.06,0.277,14,reviewed,ci,ci
 2023-11-17T10:31:35.910Z,38.821167,-122.8463364,1.87,1.3,md,27,78,0.009044,0.02,nc,nc73963776,2023-11-17T12:56:11.546Z,"9 km WNW of The Geysers, CA",earthquake,0.18,0.3,0.19,27,automatic,nc,nc
 2023-11-17T10:19:29.658Z,31.642,-104.315,1.9026,1.7,ml(texnet),16,69,0.1,0.2,tx,tx2023wnlk,2023-11-17T13:03:17.324Z,"59 km S of Whites City, New Mexico",earthquake,0.6501957409,0.7991343424,0.1,14,reviewed,tx,tx
 2023-11-17T10:17:59.211Z,59.5605,-153.082,101.5,1.9,ml,,,,0.17,ak,ak023er1kib5,2023-11-17T10:20:27.752Z,"62 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-17T10:01:19.220Z,37.3781667,-118.4446667,10.99,1.41,md,25,114,0.09413,0.06,nc,nc73963771,2023-11-17T19:28:05.781Z,"2 km NNE of West Bishop, CA",earthquake,0.4,0.89,0.263,22,reviewed,nc,nc
 2023-11-17T10:00:16.004Z,36.8041,-115.9104,7,-0.1,ml,13,212.8,0.027,0.1759,nn,nn00869022,2023-11-17T15:24:52.646Z,"33 km NW of Indian Springs, Nevada",earthquake,,1.5,0.22,8,reviewed,nn,nn
 2023-11-17T09:51:46.100Z,19.291166305542,-155.385498046875,4.11999988555908,1.80999994,md,22,156,,0.150000006,hv,hv73650432,2023-11-17T09:55:01.660Z,"13 km NE of Pāhala, Hawaii",earthquake,0.51,1.61000001,0.180000007,6,automatic,hv,hv
 2023-11-17T09:40:28.200Z,32.415,-115.1981667,11.43,3.3,ml,32,53,0.08231,0.31,ci,ci39714146,2023-11-17T18:55:01.380Z,"7 km N of Delta, B.C., MX",earthquake,0.34,0.81,0.166,16,reviewed,ci,ci
