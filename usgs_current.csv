@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-20T17:18:50.370Z,37.2808342,-122.0051651,2.97,1.77,md,13,93,0.03603,0.1,nc,nc73964991,2023-11-20T17:29:12.043Z,"2 km NE of Saratoga, CA",earthquake,0.29,0.99,0.18,13,automatic,nc,nc
+2023-11-20T17:18:50.370Z,37.2808342,-122.0051651,2.97,1.77,md,13,93,0.03603,0.1,nc,nc73964991,2023-11-20T17:35:16.078Z,"2 km NE of Saratoga, CA",earthquake,0.29,0.99,0.18,13,automatic,nc,nc
 2023-11-20T17:09:45.210Z,34.9711685,-119.132164,8.29,1.96,ml,15,92,0.09584,0.3,ci,ci39715722,2023-11-20T17:11:58.755Z,"14 km N of Pine Mountain Club, CA",earthquake,0.88,1.96,0.476,22,automatic,ci,ci
 2023-11-20T16:41:49.950Z,38.8284988,-122.8141632,2.2,1.04,md,19,58,0.006015,0.02,nc,nc73964986,2023-11-20T16:58:11.825Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.59,0.13,19,automatic,nc,nc
 2023-11-20T16:29:31.250Z,33.3026667,-116.7141667,14.7,0.84,ml,25,58,0.07628,0.12,ci,ci39715706,2023-11-20T16:35:44.804Z,"8 km WNW of Warner Springs, CA",earthquake,0.25,0.41,0.134,13,automatic,ci,ci
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T03:20:32.100Z,19.3611660003662,-155.304672241211,0.430000007152557,1.85,ml,15,100,,0.209999993,hv,hv73653212,2023-11-20T03:26:04.120Z,"11 km SW of Volcano, Hawaii",earthquake,0.34,0.569999993,0.23,5,automatic,hv,hv
 2023-11-20T03:09:36.092Z,61.7388,-146.494,20.1,1.8,ml,,,,0.78,ak,ak023evvyr1l,2023-11-20T03:11:47.549Z,"31 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-20T02:59:35.720Z,38.7981682,-122.8013306,19.11,1.36,md,7,211,0.01086,0.05,nc,nc73964816,2023-11-20T06:21:14.025Z,"4 km WNW of The Geysers, CA",earthquake,2.73,6.55,0.41,2,automatic,nc,nc
-2023-11-20T02:57:01.385Z,40.9015,-127.1133,10,4.4,mb,38,209,2.23,0.43,us,us6000lpjc,2023-11-20T17:32:35.424Z,"243 km W of Ferndale, California",earthquake,7.29,1.966,0.062,76,reviewed,us,us
+2023-11-20T02:57:01.385Z,40.9015,-127.1133,10,4.4,mb,38,209,2.23,0.43,us,us6000lpjc,2023-11-20T17:36:10.083Z,"243 km W of Ferndale, California",earthquake,7.29,1.966,0.062,76,reviewed,us,us
 2023-11-20T02:38:43.260Z,38.7799988,-122.7576675,1.19,1.08,md,13,82,0.01121,0.03,nc,nc73964806,2023-11-20T03:05:19.816Z,"0 km NNW of The Geysers, CA",earthquake,0.25,0.61,0.23,15,automatic,nc,nc
 2023-11-20T02:34:41.280Z,38.8271675,-122.8531647,2.29,0.74,md,8,102,0.01473,0.01,nc,nc73964801,2023-11-20T02:55:15.759Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.32,0.3,10,automatic,nc,nc
 2023-11-20T02:27:22.020Z,36.6495018,-121.3026657,2.87,1.59,md,15,97,0.03975,0.17,nc,nc73964796,2023-11-20T05:39:13.815Z,"16 km S of Tres Pinos, CA",earthquake,0.53,1.29,0.24,11,automatic,nc,nc
@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T00:51:38.740Z,38.8146667,-122.8136673,2.71,1.53,md,31,48,0.009156,0.02,nc,nc73964766,2023-11-20T04:43:13.465Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.33,0.14,32,automatic,nc,nc
 2023-11-20T00:42:58.340Z,38.7856674,-122.7233353,1.41,0.84,md,8,85,0.01074,0.01,nc,nc73964761,2023-11-20T01:05:19.099Z,"3 km WNW of Anderson Springs, CA",earthquake,0.48,0.88,0.28,7,automatic,nc,nc
 2023-11-20T00:41:41.498Z,64.8401,-149.0054,19.4,1.1,ml,,,,0.25,ak,ak023evudbk5,2023-11-20T00:43:17.710Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-20T00:40:59.853Z,-20.0527,-69.2785,121.565,4.6,mb,27,74,0.147,0.76,us,us6000lpiv,2023-11-20T02:52:37.610Z,"50 km NE of La Tirana, Chile",earthquake,5.4,2.964,0.132,17,reviewed,us,us
+2023-11-20T00:40:59.853Z,-20.0527,-69.2785,121.565,4.6,mb,27,74,0.147,0.76,us,us6000lpiv,2023-11-20T17:35:34.325Z,"50 km NE of La Tirana, Chile",earthquake,5.4,2.964,0.132,17,reviewed,us,us
 2023-11-20T00:39:46.442Z,61.454,-146.615,28.3,1.7,ml,,,,0.3,ak,ak023evucwic,2023-11-20T00:41:12.066Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-20T00:39:11.420Z,19.3806667327881,-155.282333374023,0.740000009536743,1.77999997,md,12,85,,0.119999997,hv,hv73653067,2023-11-20T00:42:01.240Z,"8 km SW of Volcano, Hawaii",earthquake,0.26,0.349999994,0.870000005,11,automatic,hv,hv
 2023-11-20T00:36:21.393Z,-48.1065,165.3479,10,4.9,mb,30,107,2.144,0.33,us,us6000lpit,2023-11-20T00:50:34.040Z,"280 km SW of Bluff, New Zealand",earthquake,8.74,1.889,0.119,22,reviewed,us,us
