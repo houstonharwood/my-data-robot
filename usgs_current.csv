@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-21T19:42:29.870Z,37.9860001,-122.453331,1.53,1.76,md,11,110,0.02321,0.06,nc,nc73965426,2023-11-21T19:44:03.371Z,"6 km ESE of Santa Venetia, CA",earthquake,0.5,0.54,0.16,7,automatic,nc,nc
-2023-11-21T19:41:11.300Z,33.0353317,-115.6074982,5.59,1.38,ml,20,39,0.02169,0.22,ci,ci39716266,2023-11-21T19:43:25.692Z,"1 km E of Westmorland, CA",earthquake,0.42,0.64,0.152,5,automatic,ci,ci
-2023-11-21T19:35:58.200Z,38.7926674,-122.7488327,2.25,1.11,md,20,90,0.01164,0.02,nc,nc73965421,2023-11-21T19:37:33.846Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.59,0.14,21,automatic,nc,nc
+2023-11-21T19:41:11.210Z,33.0351667,-115.6075,6.15,1.43,ml,31,36,0.02172,0.22,ci,ci39716266,2023-11-21T19:47:22.179Z,"1 km E of Westmorland, CA",earthquake,0.27,0.58,0.208,19,automatic,ci,ci
+2023-11-21T19:35:58.200Z,38.7926674,-122.7488327,2.25,1.11,md,20,90,0.01164,0.02,nc,nc73965421,2023-11-21T19:47:11.679Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.59,0.14,21,automatic,nc,nc
+2023-11-21T19:29:50.130Z,19.3883333333333,-155.277666666667,1.22,0.59,md,19,57,,0.08,hv,hv73656087,2023-11-21T19:46:36.690Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.100789079659552,3,reviewed,hv,hv
 2023-11-21T19:29:44.920Z,44.464,-111.0541667,14.48,0.37,md,8,148,0.1457,0.19,uu,uu60554802,2023-11-21T19:42:48.840Z,"22 km S of West Yellowstone, Montana",earthquake,1.39,2.71,0.478,5,reviewed,uu,uu
 2023-11-21T19:25:33.630Z,33.036,-115.6095,9.66,1.5,ml,25,50,0.02328,0.25,ci,ci39716250,2023-11-21T19:40:40.109Z,"1 km E of Westmorland, CA",earthquake,0.36,0.76,0.127,17,reviewed,ci,ci
 2023-11-21T19:20:56.440Z,19.3828333333333,-155.242,1.28,0.43,md,15,110,,0.13,hv,hv73656057,2023-11-21T19:34:40.450Z,"6 km S of Volcano, Hawaii",earthquake,0.32,0.24,0.0473758594537327,2,reviewed,hv,hv
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T18:57:35.350Z,19.3376666666667,-155.31,3.3,1.94,md,21,52,,0.11,hv,hv73656012,2023-11-21T19:20:21.040Z,"14 km SW of Volcano, Hawaii",earthquake,0.29,0.68,0.0654400144042961,5,reviewed,hv,hv
 2023-11-21T18:42:20.280Z,19.156665802002,-155.369171142578,27.4200000762939,1.95000005,md,42,211,,0.109999999,hv,hv73655972,2023-11-21T18:45:38.630Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.7,0.99000001,0.129999995,13,automatic,hv,hv
 2023-11-21T18:40:27.812Z,31.645,-104.03,9.1866,1.6,ml(texnet),13,76,0,0.9,tx,tx2023wvka,2023-11-21T18:52:39.011Z,"41 km W of Mentone, Texas",earthquake,0,3.103609193,0.2,11,automatic,tx,tx
+2023-11-21T18:40:00.240Z,32.5328333,-117.9701667,5.86,1.99,ml,13,213,0.6214,0.37,ci,ci39716202,2023-11-21T19:47:46.709Z,"47 km SE of San Clemente Is. (SE tip), CA",earthquake,1.36,31.61,0.141,14,reviewed,ci,ci
 2023-11-21T18:35:39.450Z,19.3606666666667,-155.299,2.05,2.18,ml,20,64,,0.11,hv,hv73655952,2023-11-21T19:28:24.870Z,"11 km SW of Volcano, Hawaii",earthquake,0.24,0.35,0.151337632359534,4,reviewed,hv,hv
 2023-11-21T18:35:25.760Z,36.6351662,-121.2816696,5.01,1.82,md,21,92,0.03596,0.21,nc,nc73965381,2023-11-21T19:41:17.649Z,"17 km NW of Pinnacles, CA",earthquake,0.5,1.44,0.22,20,automatic,nc,nc
 2023-11-21T18:34:40.241Z,31.613,-104.525,6.1573,3.2,ml(texnet),16,82,0.1,0.2,tx,tx2023wvjv,2023-11-21T19:07:40.428Z,"63 km SSW of Whites City, New Mexico",earthquake,1.882567448,1.37195578,0.2,10,reviewed,tx,tx
@@ -120,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T08:56:29.255Z,-44.9266,167.5016,117.249,4.4,mb,18,115,0.592,0.57,us,us6000lpsg,2023-11-21T09:55:05.604Z,"57 km NNW of Te Anau, New Zealand",earthquake,7.58,5.891,0.269,4,reviewed,us,us
 2023-11-21T08:54:54.390Z,19.199499130249,-155.490661621094,30.2099990844727,2.56,ml,51,73,,0.119999997,hv,hv73655247,2023-11-21T09:28:48.040Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.49,0.629999995,3.12,16,automatic,hv,hv
 2023-11-21T08:43:12.769Z,59.6429,-150.4955,46.6,1.9,ml,,,,0.68,ak,ak023exmoi33,2023-11-21T08:45:29.602Z,"35 km SE of Fox River, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-21T08:41:37.630Z,37.6966667,-122.5516667,10.04,1.16,md,19,191,0.05639,0.02,nc,nc73965236,2023-11-21T17:50:13.018Z,"6 km SW of San Francisco Zoo, CA",earthquake,0.35,0.4,0.281,12,reviewed,nc,nc
+2023-11-21T08:41:37.630Z,37.6966667,-122.5516667,10.04,1.16,md,19,191,0.05639,0.02,nc,nc73965236,2023-11-21T19:50:10.806Z,"6 km SW of San Francisco Zoo, CA",earthquake,0.35,0.4,0.281,12,reviewed,nc,nc
 2023-11-21T08:39:02.787Z,64.4202,-146.7686,1.1,1.5,ml,,,,0.4,ak,ak023exmnmh2,2023-11-21T08:40:48.549Z,"9 km WNW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-21T08:20:44.320Z,36.0035,-117.6005,1.2,1.07,ml,17,75,0.1843,0.17,ci,ci39715978,2023-11-21T16:00:30.709Z,"28 km ENE of Little Lake, CA",earthquake,0.29,1.16,0.049,5,reviewed,ci,ci
 2023-11-21T08:02:33.570Z,38.8236656,-122.7945023,2.51,1.08,md,16,60,0.01217,0.02,nc,nc73965231,2023-11-21T08:55:13.886Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.6,0.14,17,automatic,nc,nc
@@ -223,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T20:00:51.640Z,38.8321648,-122.802002,2.08,1.03,md,14,62,0.01079,0.01,nc,nc73965051,2023-11-20T20:10:10.957Z,"7 km W of Cobb, CA",earthquake,0.31,0.6,0.2,16,automatic,nc,nc
 2023-11-20T19:53:26.660Z,38.831665,-122.8089981,1.55,1.02,md,13,63,0.008301,0.01,nc,nc73965046,2023-11-20T20:03:10.905Z,"8 km W of Cobb, CA",earthquake,0.27,0.67,0.2,13,automatic,nc,nc
 2023-11-20T19:51:55.530Z,52.4018,-174.7168,162.3,2.7,ml,,,,0.41,ak,ak023ew5qq9m,2023-11-20T22:02:16.996Z,"42 km WNW of Atka, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-11-20T19:50:58.480Z,19.3476657867432,-155.126998901367,0.639999985694885,1.76999998,md,37,121,,0.200000003,hv,hv73654537,2023-11-20T20:00:04.951Z,"13 km S of Fern Forest, Hawaii",earthquake,0.29,0.379999995,0.660000026,19,automatic,hv,hv
-2023-11-20T19:45:12.790Z,19.3415,-155.111833333333,7.34,3.27,ml,29,125,,0.07,hv,hv73654532,2023-11-20T23:33:39.432Z,"13 km S of Fern Forest, Hawaii",earthquake,0.36,0.53,0.179825530331449,44,reviewed,hv,hv
