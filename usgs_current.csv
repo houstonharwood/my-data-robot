@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-21T04:17:54.290Z,33.477,-116.6136667,4.34,0.52,ml,24,92,0.02009,0.09,ci,ci39715938,2023-11-21T04:23:58.738Z,"10 km SSE of Anza, CA",earthquake,0.13,0.15,0.131,10,automatic,ci,ci
 2023-11-21T04:08:47.100Z,19.1848335266113,-155.490173339844,34.6500015258789,1.96000004,md,38,151,,0.129999995,hv,hv73655042,2023-11-21T04:12:04.680Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.7,0.829999983,1.55999994,10,automatic,hv,hv
-2023-11-21T04:07:21.190Z,40.5626678,-124.4339981,16.36,1.95,md,8,305,0.2662,0.05,nc,nc73965186,2023-11-21T04:14:09.843Z,"14 km W of Ferndale, CA",earthquake,4.54,0.79,0.06,5,automatic,nc,nc
+2023-11-21T04:07:21.190Z,40.5626678,-124.4339981,16.36,1.95,md,8,305,0.2662,0.05,nc,nc73965186,2023-11-21T04:36:15.025Z,"14 km W of Ferndale, CA",earthquake,4.54,0.79,0.06,5,automatic,nc,nc
 2023-11-21T03:57:22.490Z,37.4483337,-118.8434982,5.57,1.32,md,14,220,0.1419,0.03,nc,nc73965176,2023-11-21T04:12:14.828Z,"19 km SW of Toms Place, CA",earthquake,0.85,3.5,0.05,14,automatic,nc,nc
 2023-11-21T03:51:04.975Z,60.7735,-151.9267,20.4,1.6,ml,,,,0.32,ak,ak023exjr17l,2023-11-21T03:52:55.067Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-21T03:49:49.440Z,33.3381667,-116.8138333,7.08,0.86,ml,37,52,0.04367,0.17,ci,ci39715930,2023-11-21T03:56:13.424Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.2,0.49,0.148,19,automatic,ci,ci
@@ -46,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T21:06:30.760Z,19.3343333333333,-155.108166666667,3.62,2.48,ml,51,134,,0.14,hv,hv73654622,2023-11-20T22:16:03.040Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.95,0.171795568213919,36,reviewed,hv,hv
 2023-11-20T21:03:09.339Z,-30.7817,-71.4101,47.804,4.9,mwr,78,100,0.548,1.1,us,us6000lpnu,2023-11-20T22:10:39.040Z,"28 km SW of Ovalle, Chile",earthquake,5.42,4.463,0.039,64,reviewed,us,us
 2023-11-20T20:59:56.470Z,33.7363333,-116.8651667,13.05,1.12,ml,32,61,0.06931,0.15,ci,ci39715818,2023-11-20T22:41:42.898Z,"3 km ESE of Valle Vista, CA",earthquake,0.24,0.46,0.25,15,reviewed,ci,ci
+2023-11-20T20:42:44.310Z,46.8515,-121.99266666666666,7.54,1.1400000000000001,ml,20,73,0.03114,0.12,uw,uw61973271,2023-11-21T04:34:30.130Z,"10 km NNE of Ashford, Washington",earthquake,0.28,0.53,0.15572694245075902,14,reviewed,uw,uw
 2023-11-20T20:42:29.280Z,19.3666666666667,-155.2905,1.86,1.63,ml,20,59,,0.08,hv,hv73654592,2023-11-21T01:11:15.230Z,"10 km SW of Volcano, Hawaii",earthquake,0.18,0.28,0.14363435306917,11,reviewed,hv,hv
 2023-11-20T20:38:57.050Z,38.8258324,-122.7669983,2.18,0.71,md,9,122,0.005161,0.01,nc,nc73965066,2023-11-20T20:52:10.203Z,"4 km W of Cobb, CA",earthquake,0.39,0.98,0.08,9,automatic,nc,nc
 2023-11-20T20:30:07.600Z,38.8083344,-122.7708359,1.15,1.1,md,18,82,0.009132,0.03,nc,nc73965061,2023-11-21T00:44:10.726Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.19,18,automatic,nc,nc
@@ -207,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T04:38:51.450Z,62.9615,-149.778,91.2,1.7,ml,,,,0.24,ak,ak023evwqfll,2023-11-20T04:40:37.301Z,"59 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-20T04:38:16.451Z,5.7274,-82.5103,10,4.3,mb,20,166,3.052,0.67,us,us6000lpjk,2023-11-21T00:09:11.040Z,"255 km SSW of Río Grande, Panama",earthquake,4.79,1.976,0.266,4,reviewed,us,us
 2023-11-20T04:38:03.410Z,19.353666305542,-155.022994995117,5.05999994277954,1.73,ml,39,176,,0.280000001,hv,hv73653317,2023-11-20T04:43:34.260Z,"16 km SW of Leilani Estates, Hawaii",earthquake,0.73,0.910000026,0.35,5,automatic,hv,hv
-2023-11-20T04:35:29.217Z,36.6324,-115.9479,8.3,0.3,ml,11,304.24,0.032,0.0808,nn,nn00869087,2023-11-21T02:04:08.452Z,"25 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.43,5,reviewed,nn,nn
-2023-11-20T04:32:07.789Z,36.63,-115.9525,7.9,0.2,ml,12,285.36,0.033,0.0909,nn,nn00869086,2023-11-21T02:04:06.944Z,"26 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.46,4,reviewed,nn,nn
