@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-21T13:11:49.210Z,38.8366661,-122.802002,1.61,0.7,md,8,82,0.00927,0.01,nc,nc73965291,2023-11-21T13:21:11.593Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.13,0.43,8,automatic,nc,nc
+2023-11-21T13:11:49.210Z,38.8366661,-122.802002,1.61,0.7,md,8,82,0.00927,0.01,nc,nc73965291,2023-11-21T13:30:13.413Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.13,0.43,8,automatic,nc,nc
 2023-11-21T13:07:51.900Z,19.1253337860107,-155.406326293945,32.3499984741211,2.20000005,md,16,280,,0.150000006,hv,hv73655487,2023-11-21T13:10:49.080Z,"11 km SE of Pāhala, Hawaii",earthquake,1.16,2.33999991,2.20000005,4,automatic,hv,hv
 2023-11-21T12:58:20.700Z,38.8305016,-122.815834,1.74,0.76,md,9,81,0.008402,0.01,nc,nc73965281,2023-11-21T13:15:14.557Z,"8 km NW of The Geysers, CA",earthquake,0.49,1.28,0.55,9,automatic,nc,nc
 2023-11-21T12:53:34.602Z,56.8507,-155.2874,0,2.4,ml,,,,0.99,ak,ak023exp48e6,2023-11-21T12:59:03.008Z,"68 km W of Akhiok, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -74,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T01:50:53.520Z,38.7985001,-122.8079987,3.62,1.23,md,28,68,0.01086,0.03,nc,nc73965141,2023-11-21T05:41:17.433Z,"5 km WNW of The Geysers, CA",earthquake,0.26,0.46,0.26,28,automatic,nc,nc
 2023-11-21T01:47:50.115Z,32.801,-100.662,7.5076,2.2,ml(texnet),13,89,0.1,0.1,tx,tx2023wuco,2023-11-21T10:37:31.347Z,"19 km WSW of Rotan, Texas",earthquake,0.9846439554,2.109499317,0.1,19,reviewed,tx,tx
 2023-11-21T01:34:26.184Z,31.677,-104.399,5.9773,2.1,ml(texnet),18,56,0,0.2,tx,tx2023wucd,2023-11-21T11:54:58.014Z,"55 km S of Whites City, New Mexico",earthquake,0.868300791,0.7696905807,0.1,25,reviewed,tx,tx
+2023-11-21T01:30:30.156Z,36.5888,-116.2617,6.1,-0.2,ml,6,169.9,0.12,0.056,nn,nn00869130,2023-11-21T13:30:31.372Z,"49 km NNW of Pahrump, Nevada",earthquake,,4.3,0.52,3,reviewed,nn,nn
 2023-11-21T01:29:59.611Z,32.801,-100.662,5.8447,2,ml(texnet),8,71,0.1,0.1,tx,tx2023wubz,2023-11-21T12:58:11.247Z,"19 km WSW of Rotan, Texas",earthquake,0.8607769027,2.241341628,0.1,11,reviewed,tx,tx
 2023-11-21T01:12:48.392Z,31.675,-104.395,4.296,1.8,mlv,17,69,0,0.3,tx,tx2023wubk,2023-11-21T01:54:39.617Z,"55 km S of Whites City, New Mexico",earthquake,0,1.324249672,0.2,13,automatic,tx,tx
 2023-11-21T01:08:58.170Z,19.3638333333333,-155.297333333333,2.29,1.95,ml,19,67,,0.12,hv,hv73654922,2023-11-21T04:24:32.290Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.37,0.249113476258673,13,reviewed,hv,hv
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T13:48:42.380Z,19.3715000152588,-155.296829223633,2.14000010490417,1.73,ml,23,58,,0.230000004,hv,hv73654047,2023-11-20T13:54:14.470Z,"10 km SW of Volcano, Hawaii",earthquake,0.37,0.469999999,1.11,3,automatic,hv,hv
 2023-11-20T13:40:57.697Z,59.08,-153.8173,97.8,2.1,ml,,,,0.28,ak,ak023ew23ryh,2023-11-20T13:42:36.085Z,"65 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-20T13:32:30.410Z,19.361,-155.298166666667,2.24,1.06,md,12,110,,0.08,hv,hv73654007,2023-11-20T14:15:55.610Z,"11 km SW of Volcano, Hawaii",earthquake,0.31,0.5,0.105168112627478,3,reviewed,hv,hv
-2023-11-20T13:30:39.854Z,31.756,-103.836,6.0802,1.9,ml(texnet),18,58,0,0.2,tx,tx2023wteg,2023-11-20T15:34:37.364Z,"23 km WNW of Mentone, Texas",earthquake,0.7251809546,0.7855184024,0.1,7,reviewed,tx,tx
