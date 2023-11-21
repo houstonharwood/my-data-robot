@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-21T20:26:19.065Z,61.7432,-149.7035,35.1,2,ml,,,,0.54,ak,ak023extq2oi,2023-11-21T20:27:58.083Z,"13 km NNE of Houston, Alaska",earthquake,,6.4,,,automatic,ak,ak
 2023-11-21T20:21:32.244Z,60.0844,-147.0801,16.7,3.3,ml,,,,0.7,ak,ak023extp14m,2023-11-21T20:23:11.473Z,"51 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-21T20:18:55.630Z,19.3903331756592,-155.251663208008,0.949999988079071,2.56,ml,25,58,,0.230000004,hv,hv73656162,2023-11-21T20:25:55.767Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.189999998,1.97,13,automatic,hv,hv
+2023-11-21T20:18:55.520Z,19.3881666666667,-155.246666666667,1.87,2.65,ml,25,68,,0.09,hv,hv73656162,2023-11-21T20:34:53.161Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.19,0.207670164171588,11,reviewed,hv,hv
 2023-11-21T20:18:07.410Z,19.3903331756592,-155.23616027832,2.94000005722046,1.85,ml,20,52,,0.189999998,hv,hv73656157,2023-11-21T20:25:10.840Z,"5 km S of Volcano, Hawaii",earthquake,0.41,0.330000013,2.6,6,automatic,hv,hv
 2023-11-21T20:12:55.071Z,61.0422,-151.9347,93.8,2.1,ml,,,,0.44,ak,ak023extn5fn,2023-11-21T20:14:45.574Z,"43 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-21T20:05:53.990Z,19.3805,-155.24,2.25,0.42,md,15,85,,0.09,hv,hv73656137,2023-11-21T20:27:50.900Z,"6 km S of Volcano, Hawaii",earthquake,0.31,0.31,0.0223777171784232,2,reviewed,hv,hv
@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T19:52:35.600Z,38.8079987,-122.7969971,3.3,1.48,md,32,32,0.001324,0.02,nc,nc73965431,2023-11-21T20:04:09.783Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.41,0.17,31,automatic,nc,nc
 2023-11-21T19:51:21.280Z,19.3776666666667,-155.237666666667,2.43,0.44,md,17,86,,0.12,hv,hv73656117,2023-11-21T20:16:30.070Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.21,0.0659635070228393,4,reviewed,hv,hv
 2023-11-21T19:46:06.110Z,19.3678333333333,-155.298833333333,2.59,0.69,md,13,131,,0.09,hv,hv73656107,2023-11-21T19:57:15.380Z,"10 km SW of Volcano, Hawaii",earthquake,0.37,0.55,0.0127061599438658,2,reviewed,hv,hv
+2023-11-21T19:44:16.516Z,-5.5004,145.8776,69.038,4.9,mb,97,35,5.953,0.65,us,us6000lpwb,2023-11-21T20:30:01.040Z,"32 km SSE of Madang, Papua New Guinea",earthquake,9.92,6.989,0.062,86,reviewed,us,us
 2023-11-21T19:42:29.870Z,37.9860001,-122.453331,1.53,1.76,md,11,110,0.02321,0.06,nc,nc73965426,2023-11-21T19:57:10.738Z,"6 km ESE of Santa Venetia, CA",earthquake,0.5,0.54,0.16,7,automatic,nc,nc
 2023-11-21T19:41:11.100Z,33.0341667,-115.6106667,8.09,1.44,ml,26,50,0.0245,0.22,ci,ci39716266,2023-11-21T20:09:28.802Z,"1 km ESE of Westmorland, CA",earthquake,0.34,0.77,0.208,13,reviewed,ci,ci
 2023-11-21T19:40:24.910Z,19.3798333333333,-155.241,1.29,0.44,md,20,79,,0.1,hv,hv73656102,2023-11-21T20:03:35.630Z,"7 km S of Volcano, Hawaii",earthquake,0.18,0.13,0.00550070664804897,3,reviewed,hv,hv
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T20:42:44.310Z,46.8515,-121.99266666666666,7.54,1.1400000000000001,ml,20,73,0.03114,0.12,uw,uw61973271,2023-11-21T04:34:30.130Z,"10 km NNE of Ashford, Washington",earthquake,0.28,0.53,0.15572694245075902,14,reviewed,uw,uw
 2023-11-20T20:42:29.280Z,19.3666666666667,-155.2905,1.86,1.63,ml,20,59,,0.08,hv,hv73654592,2023-11-21T01:11:15.230Z,"10 km SW of Volcano, Hawaii",earthquake,0.18,0.28,0.14363435306917,11,reviewed,hv,hv
 2023-11-20T20:38:57.050Z,38.8258324,-122.7669983,2.18,0.71,md,9,122,0.005161,0.01,nc,nc73965066,2023-11-20T20:52:10.203Z,"4 km W of Cobb, CA",earthquake,0.39,0.98,0.08,9,automatic,nc,nc
-2023-11-20T20:30:07.600Z,38.8083344,-122.7708359,1.15,1.1,md,18,82,0.009132,0.03,nc,nc73965061,2023-11-21T00:44:10.726Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.19,18,automatic,nc,nc
