@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T14:53:08.823Z,61.2448,-150.479,43.4,1.8,ml,,,,0.56,ak,ak023ezdul36,2023-11-22T14:55:26.809Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-22T14:39:22.403Z,63.1103,-151.5264,0,1.9,ml,,,,0.64,ak,ak023ezdrm40,2023-11-22T14:42:06.837Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-22T14:34:25.170Z,34.042,-117.2568333,16.51,0.97,ml,40,52,0.09022,0.19,ci,ci39716570,2023-11-22T14:40:42.814Z,"1 km SSE of Loma Linda, CA",earthquake,0.23,0.53,0.251,23,automatic,ci,ci
 2023-11-22T14:23:46.970Z,36.7633324,-121.283165,8.23,1.44,md,7,162,0.0258,0.04,nc,nc73965941,2023-11-22T14:40:13.188Z,"4 km SE of Tres Pinos, CA",earthquake,0.54,0.86,0.15,6,automatic,nc,nc
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T04:18:52.836Z,61.7387,-150.4044,65.3,1.7,ml,,,,0.11,ak,ak023ez7oudf,2023-11-22T04:20:16.163Z,"19 km W of Willow, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-11-22T04:14:25.108Z,31.612,-104.098,5.7202,1.7,ml(texnet),22,64,0,0.1,tx,tx2023wwcx,2023-11-22T13:41:31.233Z,"western Texas",earthquake,0.6367862399,0.6453818272,0,6,reviewed,tx,tx
 2023-11-22T04:10:03.307Z,60.3565,-152.6315,94.4,1.6,ml,,,,0.44,ak,ak023ez7n0tm,2023-11-22T04:12:03.002Z,"63 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-22T04:04:50.000Z,34.0886667,-117.2903333,11.2,1.05,ml,50,59,0.06756,0.16,ci,ci39716474,2023-11-22T14:52:46.888Z,"3 km NE of Colton, CA",earthquake,0.16,0.34,0.15,22,automatic,ci,ci
+2023-11-22T04:04:49.950Z,34.0903333,-117.2878333,12.3,1.07,ml,53,64,0.1209,0.18,ci,ci39716474,2023-11-22T14:52:54.649Z,"3 km NE of Colton, CA",earthquake,0.18,0.59,0.114,21,reviewed,ci,ci
 2023-11-22T03:53:03.270Z,19.2938333333333,-155.386166666667,3.81,1.33,md,12,97,,0.1,hv,hv73656862,2023-11-22T05:14:36.590Z,"13 km NE of Pāhala, Hawaii",earthquake,0.39,1.24,0.150866376442824,4,reviewed,hv,hv
 2023-11-22T03:48:50.720Z,19.3498333333333,-155.298666666667,1.58,1.94,md,18,58,,0.08,hv,hv73656857,2023-11-22T05:05:32.060Z,"12 km SSW of Volcano, Hawaii",earthquake,0.22,0.44,0.0424208608998257,4,reviewed,hv,hv
 2023-11-22T03:45:51.830Z,35.5931667,-117.607,4.27,0.91,ml,20,86,0.1182,0.13,ci,ci39716466,2023-11-22T14:41:15.949Z,"7 km ESE of Ridgecrest, CA",earthquake,0.17,0.53,0.146,8,reviewed,ci,ci
@@ -174,6 +175,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T23:45:00.628Z,31.638,-104.512,6.2344,1.6,ml(texnet),18,75,0,0.1,tx,tx2023wvtz,2023-11-22T13:57:23.410Z,"60 km SSW of Whites City, New Mexico",earthquake,1.216244169,0.6832637982,0.1,6,reviewed,tx,tx
 2023-11-21T23:40:53.540Z,19.3675003051758,-155.290832519531,1.33000004291534,1.88,md,20,61,,0.109999999,hv,hv73656457,2023-11-21T23:43:52.950Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.370000005,0.730000019,14,automatic,hv,hv
 2023-11-21T23:39:16.380Z,33.7341667,-116.1063333,4.98,1.41,ml,43,59,0.1145,0.11,ci,ci39716402,2023-11-22T00:49:24.318Z,"9 km NE of Coachella, CA",earthquake,0.12,0.43,0.135,27,reviewed,ci,ci
+2023-11-21T23:38:52.830Z,38.4923333,-112.8391667,2.51,0.11,md,8,101,0.01263,0.08,uu,uu60034004,2023-11-22T14:56:30.770Z,"18 km NE of Milford, Utah",earthquake,0.48,0.52,0.352,3,reviewed,uu,uu
+2023-11-21T23:38:39.580Z,38.494,-112.8361667,-0.15,0.08,md,10,106,0.01529,0.07,uu,uu60554822,2023-11-22T14:53:54.200Z,"Utah",earthquake,0.23,0.12,0.287,3,reviewed,uu,uu
 2023-11-21T23:34:05.355Z,31.599,-104.559,2.9309,1.7,ml(texnet),17,168,0.1,0.2,tx,tx2023wvtq,2023-11-22T00:04:12.354Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.855501709,0.1,12,automatic,tx,tx
 2023-11-21T23:32:54.156Z,39.4961,-119.4536,12.6,1.4,ml,13,59.64,0.221,0.1599,nn,nn00869156,2023-11-22T00:24:23.399Z,"15 km NNW of Stagecoach, Nevada",earthquake,,2.6,0.14,9,reviewed,nn,nn
 2023-11-21T23:29:27.300Z,58.185,-155.3005,0.86,0,ml,6,153,,0.03,av,av91122368,2023-11-22T01:59:38.510Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.76,0.326936533161581,6,reviewed,av,av
