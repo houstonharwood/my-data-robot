@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T13:49:17.984Z,63.365,-150.3442,111.6,1.8,ml,,,,0.28,ak,ak023ezd8bbq,2023-11-22T13:51:33.389Z,"69 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-11-22T13:47:57.120Z,19.3050003051758,-155.379333496094,2.94000005722046,2.25,ml,42,109,,0.180000007,hv,hv73657772,2023-11-22T13:53:27.410Z,"15 km NE of Pāhala, Hawaii",earthquake,0.34,0.889999986,3.02,6,automatic,hv,hv
 2023-11-22T13:42:45.260Z,39.911335,-122.6851654,10.16,2.11,md,8,93,0.01232,0.36,nc,nc73965921,2023-11-22T15:42:10.523Z,"27 km WSW of Rancho Tehama Reserve, CA",earthquake,1.62,1.28,0.19,6,automatic,nc,nc
-2023-11-22T13:39:29.940Z,19.3606662750244,-155.289169311523,0.670000016689301,2.25,ml,36,114,,0.25,hv,hv73657762,2023-11-22T13:45:01.730Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.389999986,1.98,14,automatic,hv,hv
+2023-11-22T13:39:29.960Z,19.3595,-155.292666666667,2.26,2.35,ml,19,63,,0.08,hv,hv73657762,2023-11-22T17:39:13.430Z,"Hawaii region, Hawaii",earthquake,0.24,0.32,0.204634255110154,16,reviewed,hv,hv
 2023-11-22T13:38:36.330Z,19.3616666666667,-155.290333333333,1.77,2.33,ml,21,61,,0.09,hv,hv73657757,2023-11-22T17:33:55.000Z,"10 km SSW of Volcano, Hawaii",earthquake,0.22,0.3,0.0837773220113205,2,reviewed,hv,hv
 2023-11-22T13:33:38.797Z,60.8948,-147.6212,20,1.7,ml,,,,0.71,ak,ak023ezd4xh3,2023-11-22T13:35:35.203Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-22T13:31:05.870Z,46.515166666666666,-122.70866666666667,26.7,1.74,ml,68,31,0.04499,0.22,uw,uw61973386,2023-11-22T17:06:20.950Z,"6 km S of Onalaska, Washington",earthquake,0.24,0.45,0.17424355480088805,43,reviewed,uw,uw
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T01:35:59.960Z,37.6286659,-118.8888321,6.07,1.95,md,21,104,0.01694,0.03,nc,nc73965606,2023-11-22T02:24:11.963Z,"8 km E of Mammoth Lakes, CA",earthquake,0.39,0.6,0.12,22,automatic,nc,nc
 2023-11-22T01:30:14.730Z,37.6285019,-118.8878326,5.91,1.65,md,21,105,0.0174,0.03,nc,nc73965591,2023-11-22T05:46:10.132Z,"8 km E of Mammoth Lakes, CA",earthquake,0.44,0.48,0.13,22,automatic,nc,nc
 2023-11-22T01:29:08.420Z,18.0335,-66.7973333333333,15.51,2.62,md,17,77,0.01452,0.14,pr,pr71431753,2023-11-22T02:12:16.340Z,"Puerto Rico region",earthquake,0.36,0.84,0.0909263606154918,9,reviewed,pr,pr
-2023-11-22T01:28:44.086Z,37.3426,-117.9108,5.2,1.7,ml,19,169.88,0.055,0.1639,nn,nn00869165,2023-11-22T01:31:09.962Z,"38 km SSE of Dyer, Nevada",earthquake,,0.4,0.33,12,automatic,nn,nn
+2023-11-22T01:28:44.623Z,37.3452,-117.8989,6.5,1.8,ml,13,93.01,0.063,0.1509,nn,nn00869165,2023-11-22T17:40:40.550Z,"Central California",earthquake,,1.4,0.32,5,reviewed,nn,nn
 2023-11-22T01:26:29.990Z,37.6274986,-118.8893356,6.14,2.53,md,25,98,0.01789,0.03,nc,nc73965586,2023-11-22T05:49:12.149Z,"8 km E of Mammoth Lakes, CA",earthquake,0.33,0.37,0.13,29,automatic,nc,nc
 2023-11-22T01:26:11.030Z,37.6293335,-118.8901672,6.18,1.44,md,15,102,0.01594,0.02,nc,nc73965576,2023-11-22T05:19:12.097Z,"8 km E of Mammoth Lakes, CA",earthquake,0.53,0.68,0.29,15,automatic,nc,nc
 2023-11-22T01:25:56.550Z,37.6285019,-118.8866653,6.25,2.25,md,20,105,0.0178,0.03,nc,nc73965581,2023-11-22T05:32:12.044Z,"8 km E of Mammoth Lakes, CA",earthquake,0.49,0.89,0.83,20,automatic,nc,nc
@@ -295,4 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T17:47:04.254Z,63.0485,-150.6526,128.7,2.4,ml,,,,0.46,ak,ak023exs28s3,2023-11-21T17:50:24.621Z,"61 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-21T17:46:03.005Z,31.627,-104.517,6.7743,1.5,ml(texnet),13,78,0,0.2,tx,tx2023wvie,2023-11-21T18:45:41.881Z,"62 km SSW of Whites City, New Mexico",earthquake,1.647508653,1.049704918,0.1,7,reviewed,tx,tx
 2023-11-21T17:43:13.524Z,31.592,-104.549,3.3192,2.7,ml(texnet),9,163,0.1,0.2,tx,tx2023wvic,2023-11-21T18:02:59.040Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.221586858,0.2,7,automatic,tx,tx
-2023-11-21T17:40:42.940Z,41.8235,-112.6156667,1.36,1.36,md,12,122,0.1269,0.23,uu,uu60554787,2023-11-21T18:19:37.120Z,"14 km WNW of Howell, Utah",earthquake,0.59,11.3,0.143,8,reviewed,uu,uu
