@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T07:35:27.160Z,19.3478336334229,-155.295333862305,3.01999998092651,1.73,ml,18,63,,0.230000004,hv,hv73657232,2023-11-22T07:40:59.100Z,"12 km SSW of Volcano, Hawaii",earthquake,0.5,0.829999983,3.35,4,automatic,hv,hv
 2023-11-22T07:33:52.030Z,59.2366,-153.8086,122.6,2.4,ml,,,,0.61,ak,ak023ez9kcos,2023-11-22T07:36:39.996Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-22T07:27:46.012Z,60.4612,-151.7469,67.3,1.7,ml,,,,0.55,ak,ak023ez9j23t,2023-11-22T07:28:59.984Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-22T07:25:21.530Z,37.9551659,-122.0981674,8.07,1.33,md,11,99,0.05603,0.05,nc,nc73965831,2023-11-22T07:34:09.736Z,"3 km WNW of Pleasant Hill, CA",earthquake,0.29,0.79,0.2,9,automatic,nc,nc
+2023-11-22T07:25:21.530Z,37.9551659,-122.0981674,8.07,1.33,md,11,99,0.05603,0.05,nc,nc73965831,2023-11-22T07:44:12.795Z,"3 km WNW of Pleasant Hill, CA",earthquake,0.29,0.79,0.2,9,automatic,nc,nc
 2023-11-22T07:21:03.199Z,-22.9125,-69.0802,107.766,4.8,mb,40,91,0.498,0.93,us,us6000lq0y,2023-11-22T07:33:08.040Z,"52 km SSW of Calama, Chile",earthquake,5.34,6.708,0.109,26,reviewed,us,us
 2023-11-22T07:20:46.030Z,19.2748336791992,-155.43049621582,28.7800006866455,1.76999998,md,26,124,,0.159999996,hv,hv73657207,2023-11-22T07:23:45.540Z,"9 km NNE of Pāhala, Hawaii",earthquake,0.65,1.05999994,0.879999995,3,automatic,hv,hv
 2023-11-22T07:15:58.580Z,19.1846675872803,-155.496505737305,32.5800018310547,1.92999995,md,37,150,,0.140000001,hv,hv73657202,2023-11-22T07:19:15.540Z,"Island of Hawaii, Hawaii",earthquake,0.71,0.980000019,0.99000001,7,automatic,hv,hv
@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T04:43:20.290Z,19.2604999542236,-155.399169921875,31.8299999237061,1.74000001,md,34,128,,0.109999999,hv,hv73656957,2023-11-22T04:46:36.520Z,"10 km NE of Pāhala, Hawaii",earthquake,0.62,0.670000017,1.74000001,4,automatic,hv,hv
 2023-11-22T04:38:35.926Z,-24.1639,-67.2196,201.677,4.5,mb,19,130,1.493,0.63,us,us6000lpzx,2023-11-22T04:53:28.040Z,"Salta, Argentina",earthquake,7.05,12.528,0.22,6,reviewed,us,us
 2023-11-22T04:32:59.840Z,19.3595,-155.301666666667,2.45,2.09,ml,23,55,,0.11,hv,hv73656947,2023-11-22T05:00:04.460Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.37,0.162507921424802,13,reviewed,hv,hv
-2023-11-22T04:31:08.370Z,35.7561684,-121.2473297,5.26,2.02,md,31,177,0.106,0.1,nc,nc73965781,2023-11-22T05:11:13.921Z,"14 km NNW of San Simeon, CA",earthquake,0.4,1.08,0.14,24,automatic,nc,nc
+2023-11-22T04:31:08.370Z,35.7561684,-121.2473297,5.26,2.02,md,31,177,0.106,0.1,nc,nc73965781,2023-11-22T07:47:14.811Z,"14 km NNW of San Simeon, CA",earthquake,0.4,1.08,0.14,24,automatic,nc,nc
 2023-11-22T04:20:27.530Z,33.7253333,-116.7028333,2.11,0.45,ml,22,57,0.01351,0.26,ci,ci39716482,2023-11-22T04:27:01.484Z,"2 km SE of Idyllwild, CA",earthquake,0.38,1.77,0.151,6,automatic,ci,ci
 2023-11-22T04:18:52.836Z,61.7387,-150.4044,65.3,1.7,ml,,,,0.11,ak,ak023ez7oudf,2023-11-22T04:20:16.163Z,"Southern Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-11-22T04:10:03.307Z,60.3565,-152.6315,94.4,1.6,ml,,,,0.44,ak,ak023ez7n0tm,2023-11-22T04:12:03.002Z,"63 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -294,4 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T08:02:33.570Z,38.8236656,-122.7945023,2.51,1.08,md,16,60,0.01217,0.02,nc,nc73965231,2023-11-21T08:55:13.886Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.6,0.14,17,automatic,nc,nc
 2023-11-21T08:01:57.770Z,38.8288345,-122.8150024,2.01,0.77,md,13,65,0.006657,0.02,nc,nc73965226,2023-11-21T08:47:13.706Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.66,0.15,14,automatic,nc,nc
 2023-11-21T07:52:20.370Z,33.6983333,-116.7223333,17.75,0.7,ml,26,59,0.0145,0.12,ci,ci39715970,2023-11-21T18:14:07.115Z,"5 km S of Idyllwild, CA",earthquake,0.23,0.37,0.121,8,reviewed,ci,ci
-2023-11-21T07:46:07.730Z,33.1496667,-119.0488333,5.78,2.6,ml,11,262,0.4542,0.25,ci,ci39715962,2023-11-21T17:57:26.131Z,"36 km S of Santa Barbara Is., CA",earthquake,1.1,31.61,0.136,119,reviewed,ci,ci
