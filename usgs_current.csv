@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-23T03:36:29.660Z,40.3101654,-123.7543335,23.32,1.71,md,7,145,0.1701,0.09,nc,nc73966196,2023-11-23T03:38:04.650Z,"22 km NNE of Redway, CA",earthquake,1.2,1.35,0.24,3,automatic,nc,nc
 2023-11-23T03:25:48.644Z,61.8455,-149.6063,34.3,1.7,ml,,,,0.58,ak,ak023f0uo8y8,2023-11-23T03:28:54.739Z,"22 km WNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-23T03:13:37.394Z,61.9984,-151.5733,15,1.7,ml,,,,0.94,ak,ak023f0ulnhn,2023-11-23T03:15:05.390Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-23T03:08:17.550Z,19.2963333129883,-155.382339477539,2.5,1.79999995,md,23,152,,0.109999999,hv,hv73658477,2023-11-23T03:11:26.040Z,"Hawaii region, Hawaii",earthquake,0.43,0.829999983,1.28999996,8,automatic,hv,hv
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T23:33:16.380Z,35.5066667,-118.3826667,5.43,1.1,ml,26,39,0.1727,0.15,ci,ci39716866,2023-11-22T23:39:20.392Z,"13 km SE of Bodfish, CA",earthquake,0.19,1.03,0.133,13,automatic,ci,ci
 2023-11-22T23:25:40.130Z,40.3696671,-124.1911697,24.11,1.66,md,11,171,0.0703,0.08,nc,nc73966136,2023-11-23T00:57:18.834Z,"9 km ENE of Petrolia, CA",earthquake,1.03,1.72,0.07,7,automatic,nc,nc
 2023-11-22T23:22:18.000Z,35.773,-117.6035,10.98,0.89,ml,22,64,0.1325,0.14,ci,ci39716842,2023-11-22T23:28:12.712Z,"18 km W of Searles Valley, CA",earthquake,0.23,0.4,0.115,7,automatic,ci,ci
-2023-11-22T23:12:45.360Z,38.7468338,-122.769165,-0.85,1.21,md,8,125,0.03765,0.27,nc,nc73966126,2023-11-23T03:26:10.739Z,"4 km SSW of The Geysers, CA",earthquake,2.15,3.05,0.39,7,automatic,nc,nc
+2023-11-22T23:12:45.360Z,38.7468338,-122.769165,-0.85,1.21,md,8,125,0.03765,0.27,nc,nc73966126,2023-11-23T03:41:16.829Z,"4 km SSW of The Geysers, CA",earthquake,2.15,3.05,0.39,7,automatic,nc,nc
 2023-11-22T23:08:00.926Z,31.579,-104.535,3.3594,1.7,ml(texnet),15,156,0.1,0.2,tx,tx2023wxoh,2023-11-22T23:45:13.703Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.725956254,0.1,13,automatic,tx,tx
 2023-11-22T23:07:25.230Z,38.7763329,-122.7408371,0.7,1.45,md,22,62,0.007606,0.04,nc,nc73966116,2023-11-23T02:59:18.567Z,"1 km E of The Geysers, CA",earthquake,0.23,0.39,0.12,22,automatic,nc,nc
 2023-11-22T22:47:58.270Z,46.0455,-122.16383333333333,-1.17,0.67,ml,15,190,0.03967,0.22,uw,uw61973426,2023-11-22T23:09:20.310Z,"26 km NE of Amboy, Washington",explosion,0.55,31.61,0.11464219385996416,10,reviewed,uw,uw
@@ -228,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T03:48:50.720Z,19.3498333333333,-155.298666666667,1.58,1.94,md,18,58,,0.08,hv,hv73656857,2023-11-22T05:05:32.060Z,"12 km SSW of Volcano, Hawaii",earthquake,0.22,0.44,0.0424208608998257,4,reviewed,hv,hv
 2023-11-22T03:45:51.830Z,35.5931667,-117.607,4.27,0.91,ml,20,86,0.1182,0.13,ci,ci39716466,2023-11-22T14:41:15.949Z,"7 km ESE of Ridgecrest, CA",earthquake,0.17,0.53,0.146,8,reviewed,ci,ci
 2023-11-22T03:42:15.300Z,31.61,-104.102,3.7686,1.5,mlv,17,72,0,0.5,tx,tx2023wwbw,2023-11-22T04:28:35.833Z,"43 km NW of Toyah, Texas",earthquake,0,1.233120679,0.2,13,automatic,tx,tx
-2023-11-22T03:40:34.678Z,61.3133,-151.4564,71.8,1.8,ml,,,,0.46,ak,ak023ez7834b,2023-11-22T03:42:56.701Z,"27 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-22T03:37:26.030Z,37.6339989,-118.8916702,5.95,0.93,md,8,98,0.01116,0.03,nc,nc73965751,2023-11-22T04:39:12.743Z,"8 km E of Mammoth Lakes, CA",earthquake,0.7,1.26,0.12,8,automatic,nc,nc
