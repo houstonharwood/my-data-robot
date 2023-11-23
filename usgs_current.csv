@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-23T09:12:47.660Z,38.7599983,-122.708168,1.33,1.29,md,8,179,0.01072,0.03,nc,nc73966311,2023-11-23T09:14:25.274Z,"2 km SW of Anderson Springs, CA",earthquake,0.49,0.6,0.22,11,automatic,nc,nc
+2023-11-23T09:08:45.400Z,33.4873333,-116.4518333,14.05,1.7,ml,92,30,0.04208,0.17,ci,ci39717002,2023-11-23T09:20:03.150Z,"22 km ESE of Anza, CA",earthquake,0.12,0.21,0.152,27,automatic,ci,ci
 2023-11-23T08:24:11.440Z,37.8901672,-122.6746674,9.53,1.3,md,8,126,0.0464,0.03,nc,nc73966301,2023-11-23T08:56:13.571Z,"2 km SSE of Bolinas, CA",earthquake,0.57,0.56,0.25,6,automatic,nc,nc
 2023-11-23T08:18:36.041Z,62.204,-150.2128,14.6,1.7,ml,,,,0.55,ak,ak023f0xlvzo,2023-11-23T08:20:26.331Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-23T08:15:35.950Z,33.6571667,-116.6803333,15.93,0.71,ml,48,50,0.01291,0.16,ci,ci39716994,2023-11-23T08:21:41.446Z,"10 km SSE of Idyllwild, CA",earthquake,0.17,0.31,0.141,21,automatic,ci,ci
@@ -84,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T21:33:54.635Z,-24.3437,-67.0687,172.734,4.4,mb,27,76,1.719,0.74,us,us6000lq5y,2023-11-22T22:09:58.040Z,"77 km W of San Antonio de los Cobres, Argentina",earthquake,3.79,10.693,0.143,14,reviewed,us,us
 2023-11-22T21:30:43.359Z,61.3161,-146.8122,20.2,1.9,ml,,,,0.78,ak,ak023ezhvrin,2023-11-22T21:32:38.452Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-22T21:29:48.450Z,38.8431664,-122.8726654,1.94,0.59,md,8,112,0.004471,0.02,nc,nc73966086,2023-11-22T21:59:14.751Z,"12 km NW of The Geysers, CA",earthquake,0.86,0.97,0.31,9,automatic,nc,nc
-2023-11-22T21:25:03.100Z,37.1448333,-121.5276667,8.83,0.57,md,17,55,0.06941,0.11,nc,nc73966081,2023-11-23T07:13:13.986Z,"10 km NE of San Martin, CA",earthquake,0.34,0.84,0.198,14,reviewed,nc,nc
+2023-11-22T21:25:03.100Z,37.1448333,-121.5276667,8.83,0.57,md,17,55,0.06941,0.11,nc,nc73966081,2023-11-23T09:10:10.636Z,"10 km NE of San Martin, CA",earthquake,0.34,0.84,0.198,14,reviewed,nc,nc
 2023-11-22T21:13:51.243Z,61.6164,-151.0918,63.3,1.8,ml,,,,0.62,ak,ak023ezhs4yc,2023-11-22T21:16:25.614Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-22T21:07:30.845Z,59.4084,-152.928,86.9,2.9,ml,,,,0.36,ak,ak023ezhqt3i,2023-11-22T21:56:56.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-22T21:02:53.840Z,37.9516667,-122.5203333,5.74,0.27,md,5,211,0.06185,0.06,nc,nc73966066,2023-11-23T06:39:15.810Z,"2 km NE of Larkspur, CA",earthquake,0.49,1.18,0.022,3,reviewed,nc,nc
@@ -195,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T09:31:04.150Z,37.6308333,-118.8948333,5.26,-0.01,md,12,108,0.02476,0.04,nc,nc73965861,2023-11-22T22:36:28.034Z,"7 km E of Mammoth Lakes, CA",earthquake,0.43,1.04,0.249,11,reviewed,nc,nc
 2023-11-22T09:28:39.090Z,47.9308333333333,-114.024,7.85,0.62,ml,6,270,0.06807,0.03,mb,mb90033793,2023-11-22T16:40:15.170Z,"1 km NNE of Bear Dance, Montana",earthquake,0.94,0.58,0.298889749112837,2,reviewed,mb,mb
 2023-11-22T09:26:16.356Z,61.1516,-146.8472,6.7,1.8,ml,,,,0.51,ak,ak023ezapnb7,2023-11-22T09:28:36.174Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
-2023-11-22T09:20:23.054Z,61.7213,-148.4215,29,1.4,ml,,,,0.64,ak,ak023ezaodj5,2023-11-22T09:21:47.412Z,"8 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-22T09:20:14.820Z,37.6305008,-118.8891678,5.73,0.79,md,7,143,0.01515,0.03,nc,nc73965856,2023-11-22T11:34:15.076Z,"8 km E of Mammoth Lakes, CA",earthquake,0.8,1.47,0.18,7,automatic,nc,nc
-2023-11-22T09:17:30.198Z,40.041,-119.6021,12.2,1.1,ml,7,190.79,0.163,0.1875,nn,nn00869204,2023-11-22T23:45:57.849Z,"Nevada",earthquake,,3.8,0.67,5,reviewed,nn,nn
-2023-11-22T09:11:00.730Z,58.1891666666667,-155.304666666667,0.92,-0.32,ml,5,150,,0.02,av,av92127241,2023-11-22T21:32:44.190Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.6,0.225648738229817,5,reviewed,av,av
