@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-25T13:15:18.070Z,38.7426682,-122.8391647,4.19,1.36,md,17,139,0.02668,0.05,nc,nc73967221,2023-11-25T13:16:52.726Z,"8 km WSW of The Geysers, CA",earthquake,0.34,0.8,0.12,18,automatic,nc,nc
+2023-11-25T13:15:18.070Z,38.7426682,-122.8391647,4.19,1.36,md,17,139,0.02668,0.05,nc,nc73967221,2023-11-25T13:24:10.046Z,"8 km WSW of The Geysers, CA",earthquake,0.34,0.8,0.12,18,automatic,nc,nc
 2023-11-25T13:14:35.250Z,19.3549995422363,-155.292831420898,2.26999998092651,2.05,ml,40,65,,0.25,hv,hv73662092,2023-11-25T13:21:31.300Z,"11 km SSW of Volcano, Hawaii",earthquake,0.37,0.529999971,2.14,15,automatic,hv,hv
 2023-11-25T13:05:12.500Z,33.1503333,-116.5235,6.84,0.77,ml,48,82,0.09298,0.22,ci,ci39717778,2023-11-25T13:11:35.418Z,"11 km NE of Julian, CA",earthquake,0.22,0.57,0.196,12,automatic,ci,ci
 2023-11-25T12:59:53.052Z,-2.12,-77.311,151.378,5.1,mww,97,65,0.947,1.12,us,us6000lqpg,2023-11-25T13:17:26.040Z,"Peru-Ecuador border region",earthquake,8.02,6.022,0.075,17,reviewed,us,us
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T11:25:54.791Z,31.671,-104.193,4.4242,1.7,ml(texnet),17,71,0.1,0.4,tx,tx2023xcdq,2023-11-25T11:57:56.806Z,"western Texas",earthquake,0,1.228272528,0.2,13,automatic,tx,tx
 2023-11-25T11:23:34.560Z,19.3936672210693,-155.272994995117,1.73000001907349,1.99,ml,24,42,,0.180000007,hv,hv73661882,2023-11-25T11:29:05.110Z,"6 km SW of Volcano, Hawaii",earthquake,0.24,0.200000003,0.19,9,automatic,hv,hv
 2023-11-25T11:01:07.435Z,23.8071,123.4307,15.476,4.2,mb,31,110,0.761,0.62,us,us6000lqnz,2023-11-25T11:35:17.040Z,"85 km SSE of Yonakuni, Japan",earthquake,3.78,5.026,0.147,14,reviewed,us,us
-2023-11-25T10:47:22.660Z,36.4785004,-121.0579987,8.87,2.19,md,34,69,0.02317,0.09,nc,nc73967191,2023-11-25T12:54:09.866Z,"10 km SE of Pinnacles, CA",earthquake,0.25,0.6,0.19,42,automatic,nc,nc
+2023-11-25T10:47:22.660Z,36.4785004,-121.0579987,8.87,2.19,md,34,69,0.02317,0.09,nc,nc73967191,2023-11-25T13:24:13.046Z,"10 km SE of Pinnacles, CA",earthquake,0.25,0.6,0.19,42,automatic,nc,nc
 2023-11-25T10:45:03.125Z,60.3493,-152.7793,125.8,2.5,ml,,,,0.6,ak,ak023f4a15x3,2023-11-25T11:24:07.040Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-25T10:39:03.199Z,31.673,-104.181,5.0035,1.8,ml(texnet),19,103,0.1,0.5,tx,tx2023xccc,2023-11-25T11:08:24.533Z,"54 km NW of Toyah, Texas",earthquake,0,3.211314827,0.2,15,automatic,tx,tx
 2023-11-25T10:25:23.490Z,38.7916679,-122.8066635,3.37,1.01,md,13,95,0.004361,0.02,nc,nc73967181,2023-11-25T12:37:13.743Z,"5 km WNW of The Geysers, CA",earthquake,0.42,1.04,0.25,16,automatic,nc,nc
@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T13:54:55.160Z,33.8801667,-117.8131667,9.78,1.15,ml,29,87,0.05533,0.2,ci,ci39717386,2023-11-24T14:01:11.292Z,"1 km S of Yorba Linda, CA",earthquake,0.33,0.57,0.238,20,automatic,ci,ci
 2023-11-24T13:40:39.310Z,19.2198333740234,-155.406326293945,35.3899993896484,2.01999998,md,46,145,,0.109999999,hv,hv73659937,2023-11-24T13:43:52.400Z,"Hawaii region, Hawaii",earthquake,0.56,0.639999986,0.49000001,19,automatic,hv,hv
 2023-11-24T13:30:16.480Z,34.4153333,-119.1718333,2.55,2.17,ml,74,26,0.03563,0.32,ci,ci39717378,2023-11-24T13:41:38.570Z,"8 km ESE of Ojai, CA",earthquake,0.22,0.37,0.152,27,automatic,ci,ci
-2023-11-24T13:25:34.500Z,19.3866672515869,-155.277496337891,0.769999980926514,1.72,ml,14,73,,0.109999999,hv,hv73659922,2023-11-24T13:31:05.630Z,"Hawaii region, Hawaii",earthquake,0.23,0.280000001,2.32,8,automatic,hv,hv
-2023-11-24T13:22:43.810Z,56.3997,-149.2715,10,3.3,ml,52,219,2.278,0.51,us,us6000lqgx,2023-11-25T08:05:54.040Z,"227 km SE of Chiniak, Alaska",earthquake,8.33,2.015,0.057,40,reviewed,us,us
