@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T13:51:10.860Z,19.3651676177979,-155.299835205078,1.12000000476837,1.72000003,md,17,66,,0.109999999,hv,hv73662157,2023-11-25T13:56:42.400Z,"11 km SW of Volcano, Hawaii",earthquake,0.22,0.300000012,0.409999996,13,automatic,hv,hv
 2023-11-25T13:48:26.855Z,61.2028,-151.6371,67.1,1.6,ml,,,,1.16,ak,ak023f4bu5o3,2023-11-25T13:51:33.388Z,"30 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-25T13:46:31.007Z,31.681,-104.483,8.5329,1.9,ml(texnet),8,84,0,0.5,tx,tx2023xcih,2023-11-25T14:07:21.127Z,"55 km S of Whites City, New Mexico",earthquake,0,3.784663528,0.2,6,automatic,tx,tx
-2023-11-25T13:35:40.180Z,38.7838326,-122.7235031,1.47,1.42,md,18,83,0.01035,0.04,nc,nc73967236,2023-11-25T15:10:10.658Z,"3 km WNW of Anderson Springs, CA",earthquake,0.28,0.45,0.2,18,automatic,nc,nc
+2023-11-25T13:35:40.180Z,38.7838326,-122.7235031,1.47,1.42,md,18,83,0.01035,0.04,nc,nc73967236,2023-11-25T15:44:12.858Z,"3 km WNW of Anderson Springs, CA",earthquake,0.28,0.45,0.2,18,automatic,nc,nc
 2023-11-25T13:29:57.580Z,38.8110008,-122.8215027,3.01,0.99,md,9,81,0.006364,0.01,nc,nc73967231,2023-11-25T15:17:14.696Z,"7 km WNW of The Geysers, CA",earthquake,0.56,1.68,0.08,9,automatic,nc,nc
 2023-11-25T13:29:06.777Z,60.3503,-152.313,82,2.1,ml,,,,0.39,ak,ak023f4bq1md,2023-11-25T13:31:04.836Z,"48 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-25T13:15:18.070Z,38.7426682,-122.8391647,4.19,1.36,md,17,139,0.02668,0.05,nc,nc73967221,2023-11-25T14:22:12.405Z,"8 km WSW of The Geysers, CA",earthquake,0.34,0.8,0.12,18,automatic,nc,nc
@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T07:16:23.940Z,19.3918333333333,-155.28,1.03,0.58,md,16,44,,0.09,hv,hv73661472,2023-11-25T07:28:37.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.18,0.0383565562036211,3,reviewed,hv,hv
 2023-11-25T07:15:27.370Z,35.6191667,-117.4201667,7.57,0.93,ml,22,59,0.04593,0.14,ci,ci39717754,2023-11-25T07:21:27.824Z,"16 km SSW of Trona, CA",earthquake,0.25,0.39,0.092,4,automatic,ci,ci
 2023-11-25T07:09:42.440Z,19.3775,-155.281833333333,1.26,0.52,md,15,93,,0.07,hv,hv73661442,2023-11-25T07:23:36.370Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.18,0.00731680823757574,3,reviewed,hv,hv
-2023-11-25T07:05:50.372Z,39.0615,-97.6111,8.518,3.4,mb_lg,46,37,0.781,0.32,us,us6000lqn6,2023-11-25T15:03:06.612Z,"3 km NNW of Bennington, Kansas",earthquake,4.43,7.302,0.043,144,reviewed,us,us
+2023-11-25T07:05:50.372Z,39.0615,-97.6111,8.518,3.4,mb_lg,46,37,0.781,0.32,us,us6000lqn6,2023-11-25T15:41:20.651Z,"3 km NNW of Bennington, Kansas",earthquake,4.43,7.302,0.043,144,reviewed,us,us
 2023-11-25T07:01:34.360Z,19.3813323974609,-155.270004272461,2.29999995231628,2.1,ml,28,56,,0.319999993,hv,hv73661432,2023-11-25T07:07:05.920Z,"7 km SSW of Volcano, Hawaii",earthquake,0.35,0.330000013,0.37,11,automatic,hv,hv
 2023-11-25T07:01:21.440Z,19.38450050354,-155.270660400391,0.610000014305115,2.1,ml,8,157,,0.0900000036,hv,hv73661427,2023-11-25T07:06:51.090Z,"Hawaii region, Hawaii",earthquake,0.28,0.209999993,0.37,11,automatic,hv,hv
 2023-11-25T06:57:19.560Z,19.3821659088135,-155.279830932617,1.38999998569489,1.73,ml,17,74,,0.119999997,hv,hv73661417,2023-11-25T07:02:49.410Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.209999993,2.29,8,automatic,hv,hv
@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T15:53:05.830Z,38.8366661,-122.810997,1.92,1.11,md,22,56,0.01327,0.02,nc,nc73966836,2023-11-24T18:46:11.654Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.5,0.16,23,automatic,nc,nc
 2023-11-24T15:52:57.210Z,38.8370018,-122.8111649,1.98,1.05,md,22,56,0.01361,0.01,nc,nc73966831,2023-11-24T16:17:20.706Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.47,0.14,15,automatic,nc,nc
 2023-11-24T15:50:09.147Z,61.9677,-149.5108,46.1,1.6,ml,,,,0.42,ak,ak023f2pi2k2,2023-11-24T15:51:35.776Z,"27 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-11-24T15:44:15.500Z,33.3265,-116.3806667,9.13,1.25,ml,65,19,0.01133,0.17,ci,ci39717442,2023-11-24T15:55:19.650Z,"8 km N of Borrego Springs, CA",earthquake,0.15,0.27,0.196,26,automatic,ci,ci
