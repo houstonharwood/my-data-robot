@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-25T08:21:54.020Z,19.3013324737549,-155.249496459961,5.82000017166138,2.02,ml,42,105,,0.150000006,hv,hv73661607,2023-11-25T08:27:25.090Z,"15 km S of Volcano, Hawaii",earthquake,0.33,0.610000014,2,11,automatic,hv,hv
 2023-11-25T08:20:50.980Z,19.3059997558594,-155.255172729492,2.76999998092651,1.84000003,md,43,103,,0.150000006,hv,hv73661602,2023-11-25T08:23:58.920Z,"Island of Hawaii, Hawaii",earthquake,0.33,1.00999999,0.680000007,24,automatic,hv,hv
 2023-11-25T07:54:09.470Z,19.377,-155.280666666667,0.97,0.27,md,18,90,,0.08,hv,hv73661562,2023-11-25T08:10:04.020Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.17,0.0266969494885335,2,reviewed,hv,hv
 2023-11-25T07:51:08.680Z,19.3883333333333,-155.247666666667,1.26,0.44,md,17,69,,0.1,hv,hv73661552,2023-11-25T08:02:36.180Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.27,0.0113024942071574,2,reviewed,hv,hv
@@ -191,7 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T14:48:51.663Z,36.5897,-116.2739,8.4,0.1,ml,16,134.27,0.076,0.0884,nn,nn00869249,2023-11-24T16:35:24.181Z,"California-Nevada border region",earthquake,,1.9,0.07,8,reviewed,nn,nn
 2023-11-24T14:43:53.085Z,36.614,-115.9526,12.8,0,ml,9,301.64,0.049,0.0625,nn,nn00869258,2023-11-24T16:29:00.404Z,"25 km W of Indian Springs, Nevada",earthquake,,1.6,0.05,3,reviewed,nn,nn
 2023-11-24T14:38:15.020Z,35.2526667,-118.6106667,5.67,1.08,ml,27,74,0.06747,0.16,ci,ci39717402,2023-11-24T16:48:52.254Z,"20 km NW of Tehachapi, CA",earthquake,0.21,0.91,0.214,11,reviewed,ci,ci
-2023-11-24T14:34:00.118Z,56.3374,-149.2039,4.1,3.1,ml,,,,0.39,ak,ak023f2ot3at,2023-11-25T04:00:57.942Z,"Gulf of Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2023-11-24T14:33:57.182Z,56.4584,-149.248,10,3.4,ml,47,245,2.252,0.48,us,us6000lqm5,2023-11-25T08:28:39.040Z,"Gulf of Alaska",earthquake,3.85,2.016,0.059,38,reviewed,us,us
 2023-11-24T14:23:16.943Z,6.1843,-82.4716,10,4.5,mb,21,172,2.602,1.05,us,us6000lqi1,2023-11-24T14:38:13.040Z,"209 km SSE of Burica, Panama",earthquake,3.28,1.95,0.135,16,reviewed,us,us
 2023-11-24T14:11:26.508Z,20.1501,145.2685,10,4.8,mb,19,143,4.908,1.1,us,us6000lqhz,2023-11-24T14:30:31.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,14.78,1.938,0.092,37,reviewed,us,us
 2023-11-24T14:08:15.257Z,56.3276,-149.2259,10,3.6,ml,43,217,2.344,0.41,us,us6000lqhv,2023-11-25T08:23:47.040Z,"234 km SE of Chiniak, Alaska",earthquake,2.75,2.014,0.055,44,reviewed,us,us
@@ -249,7 +250,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T10:11:22.950Z,38.8348351,-122.8181686,1.7,0.47,md,10,102,0.01306,0.01,nc,nc73966726,2023-11-24T12:55:10.595Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.03,0.33,11,automatic,nc,nc
 2023-11-24T09:53:08.970Z,38.8354988,-122.8016663,1.67,1.11,md,22,60,0.009308,0.03,nc,nc73966721,2023-11-24T12:26:10.439Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.4,0.17,23,automatic,nc,nc
 2023-11-24T09:51:32.385Z,61.4715,-146.5162,26.2,2.1,ml,,,,0.75,ak,ak023f2lxqfq,2023-11-24T09:53:26.029Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-24T09:46:52.020Z,37.3627,-116.0458,8,1.3,ml,9,312.72,0.17,0.168,nn,nn00869256,2023-11-24T16:09:49.530Z,"Nevada",earthquake,,4.3,0.2,6,reviewed,nn,nn
+2023-11-24T09:46:52.020Z,37.3627,-116.0458,8,1.3,ml,9,312.72,0.17,0.168,nn,nn00869256,2023-11-24T16:09:49.530Z,"41 km SW of Rachel, Nevada",earthquake,,4.3,0.2,6,reviewed,nn,nn
 2023-11-24T09:36:37.130Z,34.8841666666667,-85.221,5.33,1.86,md,10,76,0.2975,0.14,se,se60501333,2023-11-24T14:26:17.040Z,"6 km ENE of Chickamauga, Georgia",earthquake,0.31,1.52,0.106156963645945,9,reviewed,se,se
 2023-11-24T09:30:13.814Z,63.024,-152.2409,1,2.2,ml,,,,0.84,ak,ak023f2lt6w2,2023-11-24T09:32:22.396Z,"63 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-24T09:30:10.687Z,20.0694,145.2783,10,5.2,mb,52,118,4.827,1.16,us,us6000lqfm,2023-11-24T09:47:51.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,13.98,1.89,0.048,141,reviewed,us,us
