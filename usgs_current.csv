@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T06:35:13.511Z,64.9468,-150.3593,0,1.6,ml,,,,0.76,ak,ak023f5v4npq,2023-11-26T06:37:37.559Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-26T06:22:11.335Z,64.9813,-149.1059,21.7,0.6,ml,,,,0.8,ak,ak023f5v1v97,2023-11-26T06:34:19.006Z,"22 km SSE of Minto, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-11-26T06:18:53.610Z,36.1605,-118.0653333,1.83,1.52,ml,27,75,0.1757,0.19,ci,ci39718034,2023-11-26T06:25:19.909Z,"14 km SSW of Olancha, CA",earthquake,0.22,0.93,0.181,16,automatic,ci,ci
 2023-11-26T05:59:33.977Z,37.1516,-115.2943,6.6,1.3,ml,11,133.18,0.32,0.2723,nn,nn00869310,2023-11-26T06:01:51.498Z,"Nevada",earthquake,,10.1,0.26,8,automatic,nn,nn
 2023-11-26T05:45:45.820Z,47.095,-122.07166666666667,11.1,1.5,ml,43,99,0.109,0.17,uw,uw61973836,2023-11-26T06:10:45.070Z,"2 km NW of Carbonado, Washington",earthquake,0.26,0.61,0.1257763190132184,26,reviewed,uw,uw
@@ -118,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T16:10:29.264Z,62.9887,-151.7538,20.4,1.6,ml,,,,0.94,ak,ak023f4debke,2023-11-25T16:12:42.469Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-25T16:08:21.434Z,65.147,-146.037,8.6,1.8,ml,,,,0.54,ak,ak023f4ddvj3,2023-11-25T16:10:15.521Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-25T16:07:58.760Z,19.3578338623047,-155.285507202148,2.29999995231628,1.75999999,md,16,123,,0.170000002,hv,hv73662392,2023-11-25T16:13:29.910Z,"10 km SSW of Volcano, Hawaii",earthquake,0.41,0.550000012,0.409999996,13,automatic,hv,hv
-2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
+2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"Puerto Rico region",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
 2023-11-25T15:28:14.750Z,36.662,-121.2911667,3.14,1.08,md,18,180,0.05027,0.08,nc,nc73967266,2023-11-25T22:33:15.311Z,"14 km S of Tres Pinos, CA",earthquake,0.38,0.77,0.313,19,reviewed,nc,nc
 2023-11-25T15:28:04.900Z,19.367166519165,-155.283493041992,2.28999996185303,1.78,ml,20,62,,0.100000001,hv,hv73662297,2023-11-25T15:33:36.040Z,"9 km SSW of Volcano, Hawaii",earthquake,0.26,0.360000014,2.55,6,automatic,hv,hv
 2023-11-25T15:20:27.599Z,20.0901,145.4134,10,4.8,mb,26,130,4.836,0.66,us,us6000lqpy,2023-11-25T15:57:29.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,5.1,1.887,0.098,32,reviewed,us,us
@@ -220,6 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T06:46:41.910Z,19.3421669006348,-155.313827514648,-0.779999971389771,1.9,ml,16,82,,0.230000004,hv,hv73661397,2023-11-25T06:52:19.850Z,"13 km SW of Volcano, Hawaii",earthquake,0.53,0.330000013,2.14,9,automatic,hv,hv
 2023-11-25T06:46:01.430Z,19.382999420166,-155.275665283203,0.970000028610229,1.72,ml,16,66,,0.189999998,hv,hv73661392,2023-11-25T06:51:31.420Z,"7 km SSW of Volcano, Hawaii",earthquake,0.2,0.25999999,2.09,10,automatic,hv,hv
 2023-11-25T06:44:31.180Z,46.19733333333333,-122.18783333333333,1.34,0.27,ml,8,77,0.02371,0.06,uw,uw61973736,2023-11-25T22:53:36.540Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.68,0.16407968725219607,6,reviewed,uw,uw
-2023-11-25T06:37:25.450Z,32.9103333,-115.5158333,8.08,1.28,ml,18,98,0.03877,0.26,ci,ci39717746,2023-11-25T06:43:30.328Z,"8 km S of Brawley, CA",earthquake,0.52,0.89,0.161,10,automatic,ci,ci
-2023-11-25T06:35:56.390Z,34.4378333,-119.2928333,8.41,1.47,ml,38,57,0.04105,0.23,ci,ci39717738,2023-11-25T06:42:33.327Z,"5 km WSW of Ojai, CA",earthquake,0.25,0.57,0.215,17,automatic,ci,ci
-2023-11-25T06:34:09.320Z,19.3384990692139,-155.305328369141,2.98000001907349,1.83,ml,28,61,,0.189999998,hv,hv73661377,2023-11-25T06:39:43.520Z,"13 km SSW of Volcano, Hawaii",earthquake,0.36,0.829999983,0.2,6,automatic,hv,hv
