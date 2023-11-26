@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T15:19:41.340Z,38.7955017,-122.7486649,2.38,1.03,md,15,93,0.01003,0.02,nc,nc73967711,2023-11-26T15:21:15.575Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.6,0.22,14,automatic,nc,nc
+2023-11-26T15:13:40.140Z,38.2838326,-119.3516693,0.56,2.72,md,19,154,0.3293,0.11,nc,nc73967706,2023-11-26T15:20:13.308Z,"11 km WNW of Bridgeport, CA",earthquake,0.42,8.3,0.21,19,automatic,nc,nc
+2023-11-26T15:13:10.319Z,59.4146,-152.478,54.8,1.8,ml,,,,0.56,ak,ak023f60cu53,2023-11-26T15:15:52.135Z,"32 km WNW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-26T14:43:16.690Z,38.8434982,-122.8428345,1.7,1,md,18,123,0.007547,0.02,nc,nc73967701,2023-11-26T15:01:13.201Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.42,0.26,18,automatic,nc,nc
 2023-11-26T14:38:47.479Z,58.3492,-154.9025,110.9,1.4,ml,,,,0.3,ak,ak023f5zwuaz,2023-11-26T14:41:17.726Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T14:27:13.600Z,37.5071678,-121.8253326,4.1,2.06,md,35,39,0.03836,0.07,nc,nc73967691,2023-11-26T14:34:11.023Z,"11 km NE of Milpitas, CA",earthquake,0.17,0.41,0.18,30,automatic,nc,nc
@@ -96,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T04:30:20.928Z,60.3449,-150.4446,32.2,1.8,ml,,,,0.41,ak,ak023f5twqh8,2023-11-26T04:32:17.156Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T04:29:26.010Z,38.8398323,-122.8106689,1.98,1.27,md,21,54,0.01642,0.02,nc,nc73967496,2023-11-26T05:03:13.772Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.47,0.15,21,automatic,nc,nc
 2023-11-26T04:23:25.660Z,36.7658333,-121.303,4.15,0.84,md,11,183,0.01118,0.07,nc,nc73967491,2023-11-26T08:04:11.802Z,"3 km SSE of Tres Pinos, CA",earthquake,0.31,0.54,0.23,9,reviewed,nc,nc
-2023-11-26T04:14:36.484Z,35.12439728,-97.5524826,1.797857285,2.12,ml,24,49.39074707,0.05706388503,0.9853829473,ok,ok2023xdkx,2023-11-26T14:27:19.156Z,"Oklahoma",earthquake,2.125446293,1.898291231,0.27,19,automatic,ok,ok
+2023-11-26T04:14:35.770Z,35.12766667,-97.56766667,5.92,1.77,ml,88,40,0.06658693337,0.31,ok,ok2023xdkx,2023-11-26T15:17:49.509Z,"2 km N of Cole, Oklahoma",earthquake,,0.5,0.22,34,reviewed,ok,ok
 2023-11-26T04:13:57.315Z,60.9429,-151.1023,10,2,ml,,,,0.77,ak,ak023f5tt643,2023-11-26T04:16:48.879Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-26T04:11:44.023Z,24.0219,122.4369,26.918,5,mb,70,71,0.687,0.92,us,us6000lqt5,2023-11-26T11:58:28.792Z,"Taiwan region",earthquake,3.84,4.503,0.07,66,reviewed,us,us
 2023-11-26T04:08:30.166Z,60.9593,-151.3503,9.9,3,ml,,,,0.94,ak,ak023f5ts1cv,2023-11-26T05:47:25.281Z,"16 km SW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -204,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"Puerto Rico region",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
 2023-11-25T15:28:14.750Z,36.662,-121.2911667,3.14,1.08,md,18,180,0.05027,0.08,nc,nc73967266,2023-11-25T22:33:15.311Z,"14 km S of Tres Pinos, CA",earthquake,0.38,0.77,0.313,19,reviewed,nc,nc
 2023-11-25T15:28:04.900Z,19.367166519165,-155.283493041992,2.28999996185303,1.78,ml,20,62,,0.100000001,hv,hv73662297,2023-11-25T15:33:36.040Z,"9 km SSW of Volcano, Hawaii",earthquake,0.26,0.360000014,2.55,6,automatic,hv,hv
-2023-11-25T15:20:27.599Z,20.0901,145.4134,10,4.8,mb,26,130,4.836,0.66,us,us6000lqpy,2023-11-25T15:57:29.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,5.1,1.887,0.098,32,reviewed,us,us
