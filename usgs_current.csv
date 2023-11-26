@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T07:17:06.390Z,38.8241653,-122.8518295,2.34,0.43,md,9,112,0.005187,0.01,nc,nc73967541,2023-11-26T07:18:43.649Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.12,0.29,8,automatic,nc,nc
 2023-11-26T06:56:12.712Z,62.4808,-151.001,78.1,1.4,ml,,,,0.72,ak,ak023f5v95o7,2023-11-26T06:58:06.906Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-26T06:45:55.080Z,58.0404,-154.9238,79,1.7,ml,,,,0.21,ak,ak023f5v6w2c,2023-11-26T06:47:35.215Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-11-26T06:42:23.240Z,40.9961662,-121.3366699,12.35,2.19,md,11,104,0.1282,0.04,nc,nc73967536,2023-11-26T06:49:11.364Z,"8 km SE of McArthur, CA",earthquake,0.4,0.9,0.04,5,automatic,nc,nc
@@ -102,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T18:27:32.721Z,31.669,-104.399,4.6075,1.6,ml(texnet),16,70,0,0.3,tx,tx2023xcro,2023-11-25T19:09:14.627Z,"western Texas",earthquake,0,1.37049357,0.2,11,automatic,tx,tx
 2023-11-25T18:27:17.791Z,31.668,-104.373,4.4294,1.5,ml(texnet),6,169,0.1,0.1,tx,tx2023xcrn,2023-11-25T19:09:06.621Z,"western Texas",earthquake,0,2.205683744,0.3,6,automatic,tx,tx
 2023-11-25T18:26:32.460Z,38.8125,-122.8193359,2.21,0.75,md,12,72,0.008502,0.03,nc,nc73967306,2023-11-25T19:11:17.050Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.77,0.26,15,automatic,nc,nc
-2023-11-25T18:18:54.510Z,40.4630013,-124.3248367,21.04,3.11,ml,20,138,0.01583,0.1,nc,nc73967296,2023-11-26T06:30:22.347Z,"14 km SSW of Ferndale, CA",earthquake,0.74,0.38,0.313,10,automatic,nc,nc
+2023-11-25T18:18:54.510Z,40.4630013,-124.3248367,21.04,3.11,ml,20,138,0.01583,0.1,nc,nc73967296,2023-11-26T07:19:29.191Z,"14 km SSW of Ferndale, CA",earthquake,0.74,0.38,0.313,10,automatic,nc,nc
 2023-11-25T18:08:26.560Z,17.9383333333333,-66.9313333333333,17.01,2.44,md,7,216,0.06157,0.08,pr,pr71432173,2023-11-25T18:23:53.960Z,"Puerto Rico region",earthquake,0.66,0.64,0.0546356670955701,4,reviewed,pr,pr
 2023-11-25T17:43:39.870Z,61.6913,-149.8539,33.3,2,ml,,,,0.37,ak,ak023f4e6umb,2023-11-25T17:45:25.347Z,"7 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-25T17:35:00.060Z,19.3448333333333,-155.306166666667,2.78,1.54,md,23,53,,0.1,hv,hv73662522,2023-11-25T17:49:26.890Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.53,0.0645766860131672,4,reviewed,hv,hv
@@ -214,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T07:26:51.412Z,31.756,-103.928,13.0035,1.5,ml(texnet),4,171,0.1,1.4,tx,tx2023xbvt,2023-11-25T07:55:44.091Z,"western Texas",earthquake,0,7.418330517,2,4,automatic,tx,tx
 2023-11-25T07:20:43.460Z,19.3316666666667,-155.317333333333,2.89,1.15,md,19,107,,0.09,hv,hv73661492,2023-11-25T07:35:02.650Z,"Hawaii region, Hawaii",earthquake,0.26,0.42,0.136533118842755,4,reviewed,hv,hv
 2023-11-25T07:20:09.480Z,19.3808333333333,-155.282666666667,0.78,0.6,md,17,84,,0.06,hv,hv73661487,2023-11-25T07:39:13.270Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.16,0.0826010634280409,3,reviewed,hv,hv
-2023-11-25T07:19:09.960Z,19.381,-155.282833333333,0.78,0.59,md,19,45,,0.07,hv,hv73661477,2023-11-25T07:53:53.130Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.15,0.083245462199911,3,reviewed,hv,hv
-2023-11-25T07:16:23.940Z,19.3918333333333,-155.28,1.03,0.58,md,16,44,,0.09,hv,hv73661472,2023-11-25T07:28:37.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.18,0.0383565562036211,3,reviewed,hv,hv
-2023-11-25T07:15:27.370Z,35.6191667,-117.4201667,7.57,0.93,ml,22,59,0.04593,0.14,ci,ci39717754,2023-11-25T16:36:51.556Z,"16 km SSW of Trona, CA",earthquake,0.25,0.39,0.092,4,reviewed,ci,ci
