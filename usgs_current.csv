@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T19:27:33.301Z,63.0568,-150.2917,86.8,1.9,ml,,,,0.34,ak,ak023f7qcyuq,2023-11-27T19:29:42.856Z,"66 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-27T19:18:34.210Z,17.99,-66.5236666666667,15.68,2.54,md,17,175,0.0945,0.1,pr,pr71432428,2023-11-27T19:29:34.320Z,"Puerto Rico",earthquake,0.35,0.3,0.0729778538750945,9,reviewed,pr,pr
 2023-11-27T19:13:01.060Z,38.7818336,-122.7163315,1.3,0.87,md,7,99,0.016,0.01,nc,nc73968616,2023-11-27T19:24:10.745Z,"2 km WNW of Anderson Springs, CA",earthquake,0.84,2,0.29,7,automatic,nc,nc
-2023-11-27T19:12:37.120Z,37.517334,-118.7821655,4.66,1.78,md,22,163,0.0816,0.03,nc,nc73968611,2023-11-27T19:21:10.726Z,"10 km WSW of Toms Place, CA",earthquake,0.44,0.99,0.14,22,automatic,nc,nc
+2023-11-27T19:12:37.120Z,37.517334,-118.7821655,4.66,1.78,md,22,163,0.0816,0.03,nc,nc73968611,2023-11-27T19:29:19.798Z,"10 km WSW of Toms Place, CA",earthquake,0.44,0.99,0.14,22,automatic,nc,nc
+2023-11-27T19:07:05.917Z,31.668,-104.433,3.6776,2.4,ml(texnet),16,65,0,0.7,tx,tx2023xgjw,2023-11-27T19:32:38.558Z,"western Texas",earthquake,0,1.297400449,0.2,12,automatic,tx,tx
 2023-11-27T19:05:53.712Z,31.6563,-104.3973,5,2.8,ml,39,62,0.089,0.67,us,us6000lr3n,2023-11-27T19:20:54.040Z,"western Texas",earthquake,3.34,1.979,0.091,64,reviewed,us,us
 2023-11-27T19:00:01.690Z,19.1426658630371,-155.510498046875,31.7700004577637,1.92999995,md,37,149,,0.140000001,hv,hv73664907,2023-11-27T19:03:08.440Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.62,1.08000004,1.09000003,15,automatic,hv,hv
 2023-11-27T18:41:51.270Z,33.8221667,-117.4855,2.23,1.31,ml,42,49,0.03404,0.17,ci,ci39718530,2023-11-27T18:49:03.336Z,"7 km SSE of Home Gardens, CA",earthquake,0.19,0.24,0.184,30,automatic,ci,ci
@@ -70,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T11:50:18.731Z,31.608,-104.021,4.4759,1.9,ml(texnet),16,61,0,0.5,tx,tx2023xfvl,2023-11-27T12:23:24.922Z,"39 km NNW of Toyah, Texas",earthquake,0,1.248743904,0.2,12,automatic,tx,tx
 2023-11-27T11:48:01.631Z,59.7277,-152.726,81.6,1.9,ml,,,,0.34,ak,ak023f7lpxlv,2023-11-27T11:50:29.393Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-27T11:47:34.330Z,-14.9549,168.0937,10,4.8,mb,40,136,6.643,0.55,us,us6000lr19,2023-11-27T12:17:06.040Z,"110 km E of Port-Olry, Vanuatu",earthquake,5.94,1.897,0.103,29,reviewed,us,us
-2023-11-27T11:46:56.723Z,39.5534,-119.7995,4.5,-0.5,ml,11,80.73,0.029,0.1262,nn,nn00869356,2023-11-27T16:19:05.893Z,"2 km NNE of Reno, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
+2023-11-27T11:46:56.723Z,39.5534,-119.7995,4.5,-0.5,ml,11,80.73,0.029,0.1262,nn,nn00869356,2023-11-27T16:19:05.893Z,"Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2023-11-27T11:34:45.360Z,35.9864998,-120.5479965,2.75,1.2,md,15,99,0.01239,0.05,nc,nc73968371,2023-11-27T13:54:13.399Z,"14 km NW of Parkfield, CA",earthquake,0.35,0.41,0.2,6,automatic,nc,nc
 2023-11-27T11:33:46.071Z,20.0351,145.4696,10,4.7,mb,51,100,4.778,0.68,us,us6000lr18,2023-11-27T11:51:50.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,4.42,1.882,0.072,59,reviewed,us,us
 2023-11-27T11:30:04.454Z,31.676,-104.419,6.6335,1.9,ml(texnet),17,70,0,0.3,tx,tx2023xfuu,2023-11-27T12:13:04.327Z,"55 km S of Whites City, New Mexico",earthquake,0,2.589434239,0.2,12,automatic,tx,tx
@@ -218,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T20:07:37.490Z,38.8465004,-122.8151703,1.41,1.05,md,17,54,0.01035,0.02,nc,nc73967886,2023-11-26T22:54:14.964Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.56,0.37,17,automatic,nc,nc
 2023-11-26T20:06:28.605Z,-1.7573,139.0702,23.208,4.5,mb,16,145,1.797,0.96,us,us6000lqwz,2023-11-26T20:24:56.040Z,"near the north coast of Papua, Indonesia",earthquake,8.11,8.378,0.139,15,reviewed,us,us
 2023-11-26T19:52:29.650Z,38.8376656,-122.8083344,1.97,0.86,md,13,84,0.01407,0.01,nc,nc73967876,2023-11-26T20:21:14.080Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.71,0.22,13,automatic,nc,nc
-2023-11-26T19:34:28.544Z,58.2192,-156.0272,156.1,1.8,ml,,,,0.4,ak,ak023f62v410,2023-11-27T18:49:16.040Z,"Alaska Peninsula",earthquake,,0.8,,,automatic,ak,ak
-2023-11-26T19:34:18.721Z,20.1015,145.4571,10,4.8,mb,50,74,4.844,0.82,us,us6000lqxi,2023-11-27T18:55:13.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,11.87,1.847,0.078,51,reviewed,us,us
