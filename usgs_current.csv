@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-26T23:30:57.940Z,33.2638333,-116.4396667,3.86,1.99,ml,91,17,0.01935,0.18,ci,ci39718210,2023-11-26T23:41:50.810Z,"6 km W of Borrego Springs, CA",earthquake,0.11,0.31,0.205,26,automatic,ci,ci
-2023-11-26T23:21:46.240Z,38.7923317,-122.8061676,3.28,0.75,md,13,87,0.004675,0.02,nc,nc73968031,2023-11-26T23:31:10.174Z,"5 km WNW of The Geysers, CA",earthquake,0.37,1.29,0.23,14,automatic,nc,nc
+2023-11-27T00:13:07.010Z,38.8240013,-122.8563309,1.7,0.28,md,8,147,0.01666,0.03,nc,nc73968071,2023-11-27T00:22:11.460Z,"10 km WNW of The Geysers, CA",earthquake,0.43,1.41,0.15,8,automatic,nc,nc
+2023-11-27T00:11:31.129Z,59.0826,-152.872,78.6,3.6,ml,,,,0.27,ak,ak023f7eyaqg,2023-11-27T00:22:31.687Z,"62 km WSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-27T00:09:20.533Z,63.5565,-147.5552,0,1.5,ml,,,,1.09,ak,ak023f7exuhh,2023-11-27T00:11:04.280Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-27T00:07:42.410Z,38.8120003,-122.8218307,2.68,0.79,md,18,57,0.006537,0.03,nc,nc73968056,2023-11-27T00:29:18.501Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.6,0.17,20,automatic,nc,nc
+2023-11-26T23:47:13.190Z,17.9838333333333,-66.8306666666667,14.99,2.46,md,8,186,0.04707,0.12,pr,pr71432313,2023-11-27T00:19:42.430Z,"Puerto Rico",earthquake,0.7,0.86,0.0412035994720803,4,reviewed,pr,pr
+2023-11-26T23:30:57.940Z,33.2638333,-116.4396667,3.86,1.99,ml,91,17,0.01935,0.18,ci,ci39718210,2023-11-27T00:19:22.760Z,"6 km W of Borrego Springs, CA",earthquake,0.11,0.31,0.205,26,automatic,ci,ci
+2023-11-26T23:21:46.240Z,38.7923317,-122.8061676,3.28,0.75,md,13,87,0.004675,0.02,nc,nc73968031,2023-11-27T00:19:13.446Z,"5 km WNW of The Geysers, CA",earthquake,0.37,1.29,0.23,14,automatic,nc,nc
 2023-11-26T23:16:33.420Z,34.001,-116.6341667,5.72,0.77,ml,22,88,0.03914,0.18,ci,ci39718202,2023-11-26T23:23:06.373Z,"7 km SW of Morongo Valley, CA",earthquake,0.55,1.13,0.142,15,automatic,ci,ci
 2023-11-26T23:06:13.745Z,-28.4195,-71.4028,25.637,4.5,mwr,24,179,0.36,0.79,us,us6000lqxj,2023-11-26T23:35:24.105Z,"65 km WNW of Vallenar, Chile",earthquake,4.26,5.453,0.036,73,reviewed,us,us
 2023-11-26T23:00:12.115Z,31.638,-104.007,4.7887,1.6,ml(texnet),16,42,0,0.1,tx,tx2023xewb,2023-11-26T23:44:06.648Z,"39 km W of Mentone, Texas",earthquake,0,1.252636228,0.2,13,automatic,tx,tx
@@ -28,12 +33,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T21:29:41.740Z,33.4816667,-116.4396667,13.77,1.27,ml,65,30,0.04323,0.18,ci,ci39718170,2023-11-26T21:36:12.803Z,"23 km ESE of Anza, CA",earthquake,0.16,0.27,0.152,27,automatic,ci,ci
 2023-11-26T21:02:38.980Z,38.8318329,-122.8141632,1.55,0.72,md,15,50,0.009011,0.01,nc,nc73967921,2023-11-26T21:49:11.577Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.68,0.07,16,automatic,nc,nc
 2023-11-26T20:58:34.110Z,38.7911682,-122.8066635,3.16,0.99,md,27,81,0.01479,0.02,nc,nc73967916,2023-11-26T21:39:12.523Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.53,0.22,28,automatic,nc,nc
-2023-11-26T20:58:19.590Z,38.791832,-122.8061676,3.09,1.44,md,29,81,0.004256,0.02,nc,nc73967911,2023-11-26T21:29:13.468Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.44,0.23,28,automatic,nc,nc
+2023-11-26T20:58:19.590Z,38.791832,-122.8061676,3.09,1.44,md,29,81,0.004256,0.02,nc,nc73967911,2023-11-27T00:29:19.501Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.44,0.23,28,automatic,nc,nc
 2023-11-26T20:49:16.990Z,18.5318,-68.7406,113,3.97,md,15,159,0.3596,0.25,pr,pr2023330004,2023-11-26T21:50:46.243Z,"9 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,3.27,0.96,0.06,7,reviewed,pr,pr
 2023-11-26T20:44:32.311Z,-24.0211,-67.0562,172.918,5,mb,48,55,1.482,1,us,us6000lqx4,2023-11-26T20:58:41.040Z,"78 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.72,6.606,0.04,194,reviewed,us,us
 2023-11-26T20:42:42.790Z,33.8985,-117.0411667,14.85,1.09,ml,44,36,0.1414,0.16,ci,ci39718162,2023-11-26T20:49:18.545Z,"7 km WSW of Beaumont, CA",earthquake,0.16,0.37,0.193,28,automatic,ci,ci
 2023-11-26T20:19:39.490Z,38.7911682,-122.8063354,2.89,1.33,md,29,81,0.003817,0.05,nc,nc73967901,2023-11-26T23:46:14.368Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.45,0.16,27,automatic,nc,nc
-2023-11-26T20:16:21.527Z,59.8489,-152.3857,96.2,2,ml,,,,0.52,ak,ak023f63co6g,2023-11-26T20:18:32.734Z,"32 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-26T20:16:21.527Z,59.8489,-152.3857,96.2,2,ml,,,,0.52,ak,ak023f63co6g,2023-11-26T20:18:32.734Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T20:14:05.640Z,38.8358345,-122.8541641,-0.38,0.37,md,7,155,0.01484,0.04,nc,nc73967891,2023-11-26T20:54:14.272Z,"11 km NW of The Geysers, CA",earthquake,0.47,1.86,0.22,8,automatic,nc,nc
 2023-11-26T20:07:37.490Z,38.8465004,-122.8151703,1.41,1.05,md,17,54,0.01035,0.02,nc,nc73967886,2023-11-26T22:54:14.964Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.56,0.37,17,automatic,nc,nc
 2023-11-26T20:06:28.605Z,-1.7573,139.0702,23.208,4.5,mb,16,145,1.797,0.96,us,us6000lqwz,2023-11-26T20:24:56.040Z,"near the north coast of Papua, Indonesia",earthquake,8.11,8.378,0.139,15,reviewed,us,us
@@ -224,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T00:39:41.120Z,46.823,-121.9085,9.24,0.38,ml,19,116,0.02915,0.1,uw,uw61973811,2023-11-26T05:29:31.240Z,"11 km NE of Ashford, Washington",earthquake,0.42,0.44,0.12860275019201106,6,reviewed,uw,uw
 2023-11-26T00:32:40.010Z,19.3841667175293,-155.252334594727,0.990000009536743,2.06,ml,27,49,,0.280000001,hv,hv73663162,2023-11-26T00:38:11.240Z,"6 km SSW of Volcano, Hawaii",earthquake,0.3,0.230000004,2.06,12,automatic,hv,hv
 2023-11-26T00:32:39.620Z,33.0358333,-116.0106667,2.79,1.32,ml,40,33,0.14,0.21,ci,ci39717978,2023-11-26T00:38:46.106Z,"16 km SE of Ocotillo Wells, CA",earthquake,0.21,0.55,0.139,23,automatic,ci,ci
-2023-11-26T00:21:26.300Z,35.12933333,-97.56283333,5.34,1.68,ml,88,41,0.06568710995,0.39,ok,ok2023xddf,2023-11-26T03:36:25.724Z,"Oklahoma",earthquake,,0.7,0.22,36,reviewed,ok,ok
