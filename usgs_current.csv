@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-27T20:27:35.690Z,35.9243317,-119.9141693,-0.33,1.64,md,6,194,0.3214,0.12,nc,nc73968681,2023-11-27T20:29:16.532Z,"10 km SSE of Kettleman City, CA",earthquake,2.72,8.92,,1,automatic,nc,nc
+2023-11-27T20:27:35.690Z,35.9243317,-119.9141693,-0.33,1.64,md,6,194,0.3214,0.12,nc,nc73968681,2023-11-27T20:35:11.175Z,"10 km SSE of Kettleman City, CA",earthquake,2.72,8.92,,1,automatic,nc,nc
 2023-11-27T20:02:38.076Z,36.7388,-116.1598,4.5,0.5,ml,12,44.11,0.03,0.075,nn,nn00869360,2023-11-27T20:04:25.725Z,"Nevada",earthquake,,0.7,0.33,5,automatic,nn,nn
 2023-11-27T19:55:04.730Z,38.8349991,-122.8355026,1.69,0.74,md,16,68,0.003585,0.05,nc,nc73968661,2023-11-27T20:04:10.979Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.47,0.14,17,automatic,nc,nc
 2023-11-27T19:27:33.301Z,63.0568,-150.2917,86.8,1.9,ml,,,,0.34,ak,ak023f7qcyuq,2023-11-27T19:29:42.856Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -64,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T13:20:41.750Z,47.9181666666667,-113.936833333333,6.43,0.16,ml,4,312,0.07441,0.01,mb,mb90033963,2023-11-27T15:33:37.630Z,"6 km E of Bear Dance, Montana",earthquake,1.42,0.94,0.237383586128554,2,reviewed,mb,mb
 2023-11-27T13:15:30.404Z,39.6103,-119.9698,5.1,1.3,ml,11,109.28,0.007,0.1099,nn,nn00869357,2023-11-27T19:00:53.573Z,"Nevada",earthquake,,1.1,0.25,6,reviewed,nn,nn
 2023-11-27T13:04:04.030Z,38.7936668,-122.8001633,3.53,0.6,md,8,98,0.005797,0.01,nc,nc73968411,2023-11-27T13:20:12.172Z,"4 km WNW of The Geysers, CA",earthquake,0.5,1.31,0.37,9,automatic,nc,nc
+2023-11-27T12:58:30.153Z,32.073,-101.127,16.0806,1.8,ml(texnet),4,228,0.2,0.1,tx,tx2023xfxs,2023-11-27T20:40:03.630Z,"22 km E of Forsan, Texas",earthquake,25.83738622,11.92631657,0,1,reviewed,tx,tx
 2023-11-27T12:58:22.670Z,32.9623333,-115.527,7.03,1.43,ml,11,82,0.06699,0.1,ci,ci39718346,2023-11-27T13:04:41.891Z,"2 km S of Brawley, CA",earthquake,0.23,0.66,0.263,15,automatic,ci,ci
 2023-11-27T12:34:21.700Z,19.3388333333333,-155.122666666667,6.83,2.84,ml,47,115,,0.1,hv,hv73664697,2023-11-27T20:20:36.700Z,"14 km S of Fern Forest, Hawaii",earthquake,0.31,0.46,0.150936715172315,37,reviewed,hv,hv
 2023-11-27T12:33:09.101Z,31.692,-104.479,7.7132,1.5,ml(texnet),9,83,0,0.4,tx,tx2023xfww,2023-11-27T12:46:24.329Z,"western Texas",earthquake,0,2.658577202,0.1,7,automatic,tx,tx
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T20:49:16.990Z,18.5318,-68.7406,113,3.97,md,15,159,0.3596,0.25,pr,pr2023330004,2023-11-27T18:57:45.040Z,"9 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,3.27,0.96,0.06,7,reviewed,pr,pr
 2023-11-26T20:44:32.311Z,-24.0211,-67.0562,172.918,5,mb,48,55,1.482,1,us,us6000lqx4,2023-11-26T20:58:41.040Z,"78 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.72,6.606,0.04,194,reviewed,us,us
 2023-11-26T20:42:42.740Z,33.8996667,-117.0423333,15.95,0.96,ml,43,36,0.1408,0.16,ci,ci39718162,2023-11-27T19:03:07.437Z,"7 km WSW of Beaumont, CA",earthquake,0.17,0.55,0.115,15,reviewed,ci,ci
-2023-11-26T20:39:27.510Z,35.1245,-97.563,7.88,1.15,ml,37,57,0.06118799283,0.44,ok,ok2023xerk,2023-11-27T20:07:56.967Z,"2 km NNE of Cole, Oklahoma",earthquake,,0.9,0.23,16,reviewed,ok,ok
