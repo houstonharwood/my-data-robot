@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-27T18:13:30.740Z,38.8260002,-122.854332,2.14,1.25,md,25,62,0.002514,0.02,nc,nc73968581,2023-11-27T18:23:11.389Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.35,0.16,25,automatic,nc,nc
+2023-11-27T18:13:30.740Z,38.8260002,-122.854332,2.14,1.25,md,25,62,0.002514,0.02,nc,nc73968581,2023-11-27T18:30:13.420Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.35,0.16,25,automatic,nc,nc
+2023-11-27T17:52:48.120Z,19.3616,-68.6773,7,4.05,md,17,232,0.8979,0.37,pr,pr2023331002,2023-11-27T18:29:33.926Z,"57 km NE of Miches, Dominican Republic",earthquake,3.66,2.26,0.06,12,reviewed,pr,pr
 2023-11-27T17:49:31.770Z,38.8263321,-122.8164978,1.07,0.93,md,7,121,0.005812,0.06,nc,nc73968556,2023-11-27T18:04:14.261Z,"8 km NW of The Geysers, CA",earthquake,0.96,1.5,0.25,8,automatic,nc,nc
 2023-11-27T17:47:40.731Z,31.955,-103.392,8.091,1.8,ml(texnet),7,121,0,0.2,tx,tx2023xghg,2023-11-27T18:12:56.695Z,"western Texas",earthquake,0,4.434024578,0.5,6,automatic,tx,tx
 2023-11-27T17:37:45.770Z,33.2716667,-116.7828333,12.24,1.01,ml,38,49,0.04091,0.13,ci,ci39718490,2023-11-27T17:43:44.363Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.16,0.41,0.134,22,automatic,ci,ci
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T11:50:18.731Z,31.608,-104.021,4.4759,1.9,ml(texnet),16,61,0,0.5,tx,tx2023xfvl,2023-11-27T12:23:24.922Z,"western Texas",earthquake,0,1.248743904,0.2,12,automatic,tx,tx
 2023-11-27T11:48:01.631Z,59.7277,-152.726,81.6,1.9,ml,,,,0.34,ak,ak023f7lpxlv,2023-11-27T11:50:29.393Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-27T11:47:34.330Z,-14.9549,168.0937,10,4.8,mb,40,136,6.643,0.55,us,us6000lr19,2023-11-27T12:17:06.040Z,"Vanuatu",earthquake,5.94,1.897,0.103,29,reviewed,us,us
-2023-11-27T11:46:56.723Z,39.5534,-119.7995,4.5,-0.5,ml,11,80.73,0.029,0.1262,nn,nn00869356,2023-11-27T16:19:05.893Z,"2 km NNE of Reno, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
+2023-11-27T11:46:56.723Z,39.5534,-119.7995,4.5,-0.5,ml,11,80.73,0.029,0.1262,nn,nn00869356,2023-11-27T16:19:05.893Z,"Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2023-11-27T11:34:45.360Z,35.9864998,-120.5479965,2.75,1.2,md,15,99,0.01239,0.05,nc,nc73968371,2023-11-27T13:54:13.399Z,"14 km NW of Parkfield, CA",earthquake,0.35,0.41,0.2,6,automatic,nc,nc
 2023-11-27T11:33:46.071Z,20.0351,145.4696,10,4.7,mb,51,100,4.778,0.68,us,us6000lr18,2023-11-27T11:51:50.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,4.42,1.882,0.072,59,reviewed,us,us
 2023-11-27T11:30:04.454Z,31.676,-104.419,6.6335,1.9,ml(texnet),17,70,0,0.3,tx,tx2023xfuu,2023-11-27T12:13:04.327Z,"55 km S of Whites City, New Mexico",earthquake,0,2.589434239,0.2,12,automatic,tx,tx
@@ -187,6 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T21:35:46.230Z,38.7924995,-122.8063354,3.35,0.56,md,13,87,0.004887,0.02,nc,nc73967936,2023-11-26T22:12:17.719Z,"5 km WNW of The Geysers, CA",earthquake,0.38,1.28,0.27,13,automatic,nc,nc
 2023-11-26T21:35:13.439Z,31.698,-104.177,8.0456,2,ml(texnet),8,94,0.1,0.1,tx,tx2023xetg,2023-11-27T16:33:44.842Z,"54 km W of Mentone, Texas",earthquake,1.884412622,1.867955899,0.3,10,reviewed,tx,tx
 2023-11-26T21:35:04.070Z,38.7898331,-122.8028336,4.63,0.29,md,6,148,0.001516,0.01,nc,nc73967931,2023-11-26T22:00:11.643Z,"4 km WNW of The Geysers, CA",earthquake,1.33,3.44,0.06,8,automatic,nc,nc
+2023-11-26T21:32:54.620Z,38.4886667,-112.84,0.38,0.3,md,9,101,0.01188,0.07,uu,uu60555142,2023-11-27T18:30:39.800Z,"Utah",earthquake,0.31,0.89,0.221,4,reviewed,uu,uu
 2023-11-26T21:32:46.896Z,-22.6809,-66.3285,251.186,4.1,mb,18,66,1.728,0.37,us,us6000lqxa,2023-11-26T22:40:01.040Z,"Jujuy, Argentina",earthquake,10.3,11.462,0.213,6,reviewed,us,us
 2023-11-26T21:31:54.570Z,38.4898333,-112.8418333,0.19,1.42,ml,20,58,0.01035,0.1,uu,uu60555137,2023-11-27T18:27:29.530Z,"17 km NE of Milford, Utah",earthquake,0.23,0.67,0.244,2,reviewed,uu,uu
 2023-11-26T21:29:41.740Z,33.4816667,-116.4396667,13.77,1.27,ml,65,30,0.04323,0.18,ci,ci39718170,2023-11-27T15:59:00.260Z,"23 km ESE of Anza, CA",earthquake,0.16,0.27,0.152,27,reviewed,ci,ci
