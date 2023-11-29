@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T11:26:11.760Z,38.8240013,-122.8523331,2.18,0.82,md,9,172,0.01354,0.01,nc,nc73969496,2023-11-29T11:27:44.849Z,"10 km WNW of The Geysers, CA",earthquake,0.66,1.01,0.34,8,automatic,nc,nc
+2023-11-29T11:26:11.760Z,38.8240013,-122.8523331,2.18,0.82,md,9,172,0.01354,0.01,nc,nc73969496,2023-11-29T11:35:11.555Z,"10 km WNW of The Geysers, CA",earthquake,0.66,1.01,0.34,8,automatic,nc,nc
 2023-11-29T11:08:50.280Z,38.8328323,-122.8146667,1.72,0.4,md,8,141,0.01008,0.01,nc,nc73969491,2023-11-29T11:17:11.452Z,"8 km NW of The Geysers, CA",earthquake,0.52,1.15,0.29,8,automatic,nc,nc
 2023-11-29T10:59:37.618Z,38.4396,73.8646,127.978,4.5,mb,32,128,1.915,0.46,us,us7000leig,2023-11-29T11:26:24.040Z,"Tajikistan",earthquake,3.22,9.902,0.135,16,reviewed,us,us
 2023-11-29T10:51:35.350Z,18.0535,-67.4095,29.19,2.94,md,11,248,0.331,0.22,pr,pr71432533,2023-11-29T11:12:29.410Z,"Mona Passage, Puerto Rico",earthquake,1.11,1.75,0.0760057988547853,7,reviewed,pr,pr
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T19:24:00.390Z,38.8213348,-122.80233,1.31,0.64,md,7,114,0.006389,0.01,nc,nc73969161,2023-11-28T19:34:10.550Z,"6 km NW of The Geysers, CA",earthquake,0.92,2.39,0.37,10,automatic,nc,nc
 2023-11-28T19:22:04.400Z,38.8113327,-122.8018341,-0.04,1.11,md,10,68,0.006109,0.02,nc,nc73969151,2023-11-28T20:39:12.940Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.74,0.16,11,automatic,nc,nc
 2023-11-28T19:21:45.760Z,39.1983337,-123.6275024,3.01,2.1,md,17,86,0.006403,0.08,nc,nc73969156,2023-11-29T00:20:12.360Z,"12 km E of Navarro Head, CA",earthquake,0.28,0.59,0.14,13,automatic,nc,nc
-2023-11-28T19:21:14.384Z,-5.3268,142.9212,68.689,4.6,mb,93,46,3.564,0.74,us,us7000lecv,2023-11-28T20:21:27.040Z,"New Guinea, Papua New Guinea",earthquake,8.58,6.343,0.065,80,reviewed,us,us
+2023-11-28T19:21:14.384Z,-5.3268,142.9212,68.689,4.6,mb,93,46,3.564,0.74,us,us7000lecv,2023-11-28T20:21:27.040Z,"29 km WNW of Porgera, Papua New Guinea",earthquake,8.58,6.343,0.065,80,reviewed,us,us
 2023-11-28T19:08:40.870Z,37.303,-122.0903333,3.77,0.88,md,13,108,0.005566,0.06,nc,nc73969141,2023-11-28T21:18:10.214Z,"5 km S of Loyola, CA",earthquake,0.28,0.37,0.208,10,reviewed,nc,nc
 2023-11-28T19:06:03.650Z,38.8181648,-122.8171692,2.89,0.75,md,7,116,0.007615,0.01,nc,nc73969136,2023-11-28T19:16:10.453Z,"7 km NW of The Geysers, CA",earthquake,0.99,1.57,0.18,9,automatic,nc,nc
 2023-11-28T19:04:34.031Z,-17.9125,-178.4763,591.335,4.2,mb,98,72,4.316,0.85,us,us7000lecr,2023-11-28T19:59:01.040Z,"234 km E of Levuka, Fiji",earthquake,13.04,7.84,0.053,110,reviewed,us,us
@@ -181,7 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T11:41:23.970Z,47.6996666666667,-114.195166666667,9.95,0.98,ml,15,81,0.07543,0.09,mb,mb90034108,2023-11-28T15:04:14.610Z,"western Montana",earthquake,0.31,0.75,0.0879805105480919,4,reviewed,mb,mb
 2023-11-28T11:38:49.759Z,64.855,-148.9635,1.8,0.9,ml,,,,0.5,ak,ak023f9978ni,2023-11-28T11:41:31.253Z,"29 km NNE of Four Mile Road, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-11-28T11:38:45.693Z,62.8093,-148.6827,59.8,1.7,ml,,,,0.33,ak,ak023f9978c9,2023-11-28T11:40:36.361Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-28T11:38:11.260Z,33.5893333,-116.8118333,8.31,0.9,ml,57,23,0.04008,0.16,ci,ci39718818,2023-11-28T11:44:41.787Z,"13 km WNW of Anza, CA",earthquake,0.13,0.33,0.156,25,automatic,ci,ci
-2023-11-28T11:37:24.420Z,33.2823333,-116.2196667,10.87,1.22,ml,69,26,0.1312,0.19,ci,ci39718810,2023-11-28T14:24:41.180Z,"15 km ENE of Borrego Springs, CA",earthquake,0.14,0.42,0.112,28,reviewed,ci,ci
-2023-11-28T11:33:48.890Z,60.5016,-144.2745,1.3,1.3,ml,,,,0.46,ak,ak023f99663o,2023-11-28T11:35:42.459Z,"81 km E of Cordova, Alaska",earthquake,,6.1,,,automatic,ak,ak
-2023-11-28T11:32:58.080Z,38.8313333,-122.8158333,1.45,0.35,md,20,50,0.009114,0.03,nc,nc73968986,2023-11-28T21:50:10.446Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.24,0.172,19,reviewed,nc,nc
