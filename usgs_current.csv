@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-29T17:34:01.449Z,63.5703,-150.8127,2.1,2.4,ml,,,,0.56,ak,ak023fb0a86o,2023-11-29T17:36:03.098Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-29T17:29:36.500Z,62.3145,-148.2827,45.6,1.6,ml,,,,0.68,ak,ak023fb098b6,2023-11-29T17:37:45.053Z,"58 km N of Chickaloon, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-11-29T17:22:35.843Z,60.9058,-150.8698,25.9,1.8,ml,,,,0.39,ak,ak023fb07q8w,2023-11-29T17:24:38.806Z,"10 km W of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-29T17:19:39.430Z,38.8328323,-122.809166,2.25,0.23,md,9,71,0.00945,0.02,nc,nc73969571,2023-11-29T17:36:11.582Z,"8 km W of Cobb, CA",earthquake,0.4,1.25,0.11,10,automatic,nc,nc
 2023-11-29T17:10:10.560Z,33.1905,-116.2823333,11.04,2.08,ml,83,23,0.1021,0.17,ci,ci39719634,2023-11-29T17:20:59.780Z,"11 km SE of Borrego Springs, CA",earthquake,0.11,0.29,0.186,26,automatic,ci,ci
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T09:01:44.150Z,35.6656667,-117.4891667,5.99,0.55,ml,21,84,0.0533,0.14,ci,ci39719474,2023-11-29T14:45:54.153Z,"14 km SW of Searles Valley, CA",earthquake,0.23,0.54,0.097,4,reviewed,ci,ci
 2023-11-29T08:46:18.120Z,33.0131667,-116.4303333,5.5,1.08,ml,62,30,0.04444,0.21,ci,ci39719466,2023-11-29T08:56:59.130Z,"18 km ESE of Julian, CA",earthquake,0.18,0.54,0.149,23,automatic,ci,ci
 2023-11-29T08:36:05.620Z,38.7616653,-122.723999,1.7,0.72,md,6,170,0.0006778,0.01,nc,nc73969421,2023-11-29T10:27:16.144Z,"3 km WSW of Anderson Springs, CA",earthquake,1.07,1.12,0.19,6,automatic,nc,nc
-2023-11-29T08:19:26.436Z,31.626,-104.36,5.7717,1.5,ml(texnet),19,73,0.1,0.2,tx,tx2023xjfm,2023-11-29T16:37:53.901Z,"60 km S of Whites City, New Mexico",earthquake,1.012298622,1.234325227,0.1,7,reviewed,tx,tx
+2023-11-29T08:19:26.436Z,31.626,-104.36,5.7717,1.5,ml(texnet),19,73,0.1,0.2,tx,tx2023xjfm,2023-11-29T16:37:53.901Z,"western Texas",earthquake,1.012298622,1.234325227,0.1,7,reviewed,tx,tx
 2023-11-29T08:17:39.386Z,59.9539,-140.1721,12.9,1.8,ml,,,,0.95,ak,ak023fautrhu,2023-11-29T08:19:26.156Z,"Southeastern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-29T08:12:24.703Z,12.166,95.2197,10,4.8,mb,53,89,4.397,0.5,us,us7000lei7,2023-11-29T10:52:04.491Z,"275 km ENE of Port Blair, India",earthquake,5.76,1.829,0.089,42,reviewed,us,us
 2023-11-29T07:55:34.551Z,2.2752,96.1699,24.199,4.5,mb,43,186,2.783,0.38,us,us7000lei4,2023-11-29T11:41:15.040Z,"32 km SW of Sinabang, Indonesia",earthquake,10.69,6.699,0.099,30,reviewed,us,us
@@ -175,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T17:57:52.460Z,38.8199997,-122.7645035,2.31,1.04,md,14,115,0.01128,0.02,nc,nc73969086,2023-11-28T20:14:13.790Z,"4 km W of Cobb, CA",earthquake,0.3,0.77,0.24,14,automatic,nc,nc
 2023-11-28T17:55:36.062Z,-5.3904,154.3637,191.018,4.6,mb,41,64,2.495,0.83,us,us7000lecg,2023-11-28T19:24:29.040Z,"Bougainville region, Papua New Guinea",earthquake,9.49,8.046,0.104,35,reviewed,us,us
 2023-11-28T17:45:08.098Z,62.3639,-147.6902,47.6,1.6,ml,,,,0.64,ak,ak023f9ct92x,2023-11-28T17:48:51.015Z,"54 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-28T17:39:06.165Z,31.635,-104.374,6.0802,1.7,ml(texnet),26,90,0.1,0.1,tx,tx2023xicl,2023-11-28T20:07:35.027Z,"western Texas",earthquake,0.6767544837,0.5997767754,0.2,25,reviewed,tx,tx
-2023-11-28T17:38:27.430Z,34.0261667,-116.89,1.44,0.89,ml,19,88,0.06887,0.22,ci,ci39718962,2023-11-28T18:41:30.368Z,"11 km N of Banning, CA",earthquake,0.27,0.47,0.117,14,reviewed,ci,ci
