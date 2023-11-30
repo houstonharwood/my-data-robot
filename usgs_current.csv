@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-30T23:25:03.210Z,38.8383331,-122.8365021,1.29,0.23,md,11,118,0.0008329,0.02,nc,nc73970151,2023-11-30T23:35:11.883Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.65,0.1,11,automatic,nc,nc
 2023-11-30T23:20:32.530Z,-17.9774,-178.0193,564.799,5,mb,93,33,3.748,0.92,us,us7000leyn,2023-11-30T23:44:10.040Z,"282 km E of Levuka, Fiji",earthquake,11.37,6.107,0.027,435,reviewed,us,us
+2023-11-30T23:12:39.459Z,-20.0137,-177.4803,509.763,4.4,mb,28,56,2.423,0.4,us,us7000leyk,2023-11-30T23:48:52.040Z,"260 km WNW of Houma, Tonga",earthquake,15.35,10.981,0.104,27,reviewed,us,us
 2023-11-30T23:12:37.708Z,35.39670563,-95.75032806,7.356873512,2.11,ml,21,121.1471558,0.3009653986,0.3319364346,ok,ok2023xmel,2023-11-30T23:17:41.655Z,"Oklahoma",earthquake,3.378387513,3.2325044,0.18,7,automatic,ok,ok
 2023-11-30T23:00:21.380Z,17.8313333333333,-65.653,5.5,2.4,md,8,235,0.3609,0.06,pr,pr71432628,2023-11-30T23:24:40.500Z,"Puerto Rico region",earthquake,0.56,0.77,0.186310376108158,6,reviewed,pr,pr
 2023-11-30T22:58:14.140Z,38.4831667,-112.852,3.69,0.85,md,12,99,0.007341,0.06,uu,uu60555557,2023-11-30T23:14:02.900Z,"Utah",earthquake,0.29,0.4,0.35,6,reviewed,uu,uu
@@ -31,7 +32,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T20:06:50.970Z,33.8673333,-117.5055,1.54,0.97,ml,20,56,0.0708,0.21,ci,ci39720378,2023-11-30T20:13:27.256Z,"2 km SE of Home Gardens, CA",earthquake,0.32,0.49,0.381,13,automatic,ci,ci
 2023-11-30T19:56:32.289Z,31.476,-103.983,4.4618,2.3,ml,14,83,0.1,0.6,tx,tx2023xlxz,2023-11-30T20:31:56.348Z,"western Texas",earthquake,0,1.452454689,0.1,11,automatic,tx,tx
 2023-11-30T19:47:16.100Z,46.194,-122.19116666666666,7.23,0.67,ml,25,61,0.007345,0.17,uw,uw61965622,2023-11-30T20:21:19.430Z,"Mount St. Helens area, Washington",earthquake,0.33,0.45,0.14282540777601316,15,reviewed,uw,uw
-2023-11-30T19:46:30.620Z,36.8600006,-121.5991669,5.12,2.53,md,51,44,0.02508,0.16,nc,nc73970086,2023-11-30T22:30:18.480Z,"5 km SE of Aromas, CA",earthquake,0.29,0.48,0.12,52,automatic,nc,nc
+2023-11-30T19:46:30.620Z,36.8600006,-121.5991669,5.12,2.53,md,51,44,0.02508,0.16,nc,nc73970086,2023-11-30T23:48:08.415Z,"5 km SE of Aromas, CA",earthquake,0.29,0.48,0.12,52,automatic,nc,nc
+2023-11-30T19:35:08.400Z,52.2341666666667,-174.517166666667,5.01,0.68,ml,6,310,,0.08,av,av92139456,2023-11-30T23:49:00.470Z,"22 km W of Atka, Alaska",earthquake,0.58,31.61,0.258972580060435,5,reviewed,av,av
 2023-11-30T19:31:21.160Z,38.8103333,-122.8228302,2.1,1.38,md,23,61,0.005171,0.04,nc,nc73970071,2023-11-30T22:15:16.402Z,"7 km WNW of The Geysers, CA",earthquake,0.21,0.4,0.23,23,automatic,nc,nc
 2023-11-30T19:31:11.890Z,38.810833,-122.8218307,2.07,2,md,32,52,0.006066,0.04,nc,nc73970066,2023-11-30T21:44:15.207Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.3,0.21,27,automatic,nc,nc
 2023-11-30T19:23:46.259Z,-19.6347,-178.1152,606.338,4.7,mb,76,52,3.129,1,us,us7000lex8,2023-11-30T19:57:01.040Z,"Fiji region",earthquake,13.39,8.16,0.067,68,reviewed,us,us
@@ -42,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T18:06:44.335Z,63.1762,-151.1183,0,1.9,ml,,,,0.72,ak,ak023fco93jl,2023-11-30T18:08:56.530Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-30T18:06:16.883Z,31.611,-104.376,4.2915,2.6,ml,18,86,0.1,0.2,tx,tx2023xluj,2023-11-30T20:26:29.040Z,"62 km S of Whites City, New Mexico",earthquake,0,1.366771613,0.2,14,automatic,tx,tx
 2023-11-30T18:02:04.980Z,46.193,-122.193,2.36,0.46,ml,9,120,0.006943,0.07,uw,uw61965602,2023-11-30T22:16:19.220Z,"Mount St. Helens area, Washington",earthquake,0.46,0.42,0.17764887287474218,7,reviewed,uw,uw
-2023-11-30T17:48:54.580Z,33.661,-116.7601667,13.43,0.81,ml,39,58,0.06305,0.14,ci,ci39720330,2023-11-30T17:55:07.508Z,"10 km SSW of Idyllwild, CA",earthquake,0.16,0.29,0.101,21,automatic,ci,ci
+2023-11-30T17:48:54.550Z,33.6638333,-116.763,13.85,0.82,ml,37,68,0.06234,0.15,ci,ci39720330,2023-11-30T23:46:17.552Z,"9 km SSW of Idyllwild, CA",earthquake,0.2,0.35,0.092,17,reviewed,ci,ci
 2023-11-30T17:39:36.560Z,36.477,-98.74516667,8.34,0.96,ml,21,131,0.03599293696,0.14,ok,ok2023xltl,2023-11-30T17:50:39.328Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.5,0.24,8,reviewed,ok,ok
 2023-11-30T17:39:06.413Z,-3.4357,145.8812,10,4.6,mb,32,73,5.252,1.19,us,us7000leuv,2023-11-30T20:08:36.040Z,"197 km N of Madang, Papua New Guinea",earthquake,11.24,1.929,0.109,25,reviewed,us,us
 2023-11-30T17:28:53.680Z,44.615,-112.569,7.06,1.16,ml,7,142,0.0536,0.09,mb,mb90034393,2023-11-30T17:45:31.340Z,"western Montana",earthquake,0.43,0.79,0.0953057778508482,6,reviewed,mb,mb
@@ -77,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T14:57:37.340Z,45.781,-111.678,4.75,0.27,ml,5,128,0.1511,0.09,mb,mb90034388,2023-11-30T17:40:48.010Z,"western Montana",earthquake,0.5,5.22,0.129514647905781,2,reviewed,mb,mb
 2023-11-30T14:51:27.780Z,46.827,-112.892333333333,4.97,1.06,ml,9,134,0.2068,0.19,mb,mb90034383,2023-11-30T17:37:21.980Z,"western Montana",earthquake,0.81,10.46,0.221227748645189,4,reviewed,mb,mb
 2023-11-30T14:51:24.226Z,61.9667,-149.5334,44.9,1.9,ml,,,,0.4,ak,ak023fcm4ysm,2023-11-30T14:52:57.419Z,"27 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-30T14:46:44.662Z,39.5373,-120.3646,7.7,0.8,ml,6,200.85,0.118,0.0979,nn,nn00869496,2023-11-30T16:09:55.446Z,"5 km S of Sierraville, California",earthquake,,4.7,0.5,3,reviewed,nn,nn
+2023-11-30T14:46:44.662Z,39.5373,-120.3646,7.7,0.8,ml,6,200.85,0.118,0.0979,nn,nn00869496,2023-11-30T16:09:55.446Z,"Northern California",earthquake,,4.7,0.5,3,reviewed,nn,nn
 2023-11-30T14:40:05.336Z,64.0892,-149.4839,0,1.7,ml,,,,0.94,ak,ak023fcm2kgl,2023-11-30T14:42:17.051Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-30T14:39:51.930Z,33.6578333,-116.708,15.42,0.56,ml,28,56,0.03059,0.11,ci,ci39720226,2023-11-30T14:50:32.120Z,"9 km S of Idyllwild, CA",earthquake,0.19,0.32,0.114,9,reviewed,ci,ci
 2023-11-30T14:32:21.770Z,57.0295,-135.695333333333,7.57,0.97,ml,5,187,,0.14,av,av91122933,2023-11-30T23:18:00.720Z,"Southeastern Alaska",earthquake,1.16,0.8,0.305009494108056,4,reviewed,av,av
@@ -137,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T10:04:29.800Z,44.9888333333333,-111.932166666667,5.92,1.5,ml,26,85,0.2563,0.18,mb,mb90034303,2023-11-30T14:51:43.510Z,"Idaho-Montana border region",earthquake,0.29,3.56,0.186038246271628,13,reviewed,mb,mb
 2023-11-30T09:59:23.200Z,58.2445,-155.152333333333,35.39,0.4,ml,12,198,,0.12,av,av92138906,2023-11-30T23:01:29.430Z,"85 km NNW of Karluk, Alaska",earthquake,0.67,0.67,0.391024590070171,12,reviewed,av,av
 2023-11-30T09:57:48.170Z,38.8330002,-122.8176651,1.66,1.12,md,22,56,0.01128,0.01,nc,nc73969881,2023-11-30T13:08:11.182Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.35,0.1,23,automatic,nc,nc
-2023-11-30T09:40:02.277Z,31.671,-104.19,6.0287,2.1,ml(texnet),21,68,0.1,0.1,tx,tx2023xldq,2023-11-30T16:16:33.686Z,"54 km NW of Toyah, Texas",earthquake,0.8019029797,1.53052117,0.1,7,reviewed,tx,tx
+2023-11-30T09:40:02.277Z,31.671,-104.19,6.0287,2.1,ml(texnet),21,68,0.1,0.1,tx,tx2023xldq,2023-11-30T16:16:33.686Z,"western Texas",earthquake,0.8019029797,1.53052117,0.1,7,reviewed,tx,tx
 2023-11-30T09:32:31.260Z,47.722833333333334,-120.04633333333334,4.97,0.9,ml,16,56,0.07972,0.07,uw,uw61965572,2023-11-30T20:09:50.430Z,"8 km NNE of Waterville, Washington",earthquake,0.21,0.56,0.2550654628598824,14,reviewed,uw,uw
 2023-11-30T09:31:33.780Z,35.122,-97.558,6.49,1.31,ml,70,41,0.05758869913,0.34,ok,ok2023xldj,2023-11-30T14:15:04.726Z,"2 km NNE of Cole, Oklahoma",earthquake,,0.6,0.19,25,reviewed,ok,ok
 2023-11-30T09:20:34.800Z,47.9223333333333,-115.0155,-1.21,1.16,ml,6,118,0.1694,0.03,mb,mb90034333,2023-11-30T16:25:37.280Z,"20 km SSE of Happys Inn, Montana",earthquake,0.79,2.42,0.179965146312504,3,reviewed,mb,mb
@@ -198,6 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T04:18:05.160Z,44.651,-111.0691667,10.98,0.63,md,8,175,0.05051,0.14,uu,uu60555507,2023-11-30T14:39:41.450Z,"Idaho-Montana border region",earthquake,1.06,0.8,0.308,6,reviewed,uu,uu
 2023-11-30T04:15:23.900Z,19.3801670074463,-154.923492431641,6.53000020980835,1.77999997,md,32,252,,0.230000004,hv,hv73667362,2023-11-30T04:18:36.940Z,"Hawaii region, Hawaii",earthquake,0.91,0.540000021,0.660000026,12,automatic,hv,hv
 2023-11-30T03:53:56.560Z,38.7888336,-122.7621689,1.82,1.46,md,24,77,0.01193,0.03,nc,nc73969781,2023-11-30T06:55:15.723Z,"1 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.15,22,automatic,nc,nc
+2023-11-30T03:47:04.383Z,40.2283,-119.6882,11.1,0.6,ml,3,305.83,0.067,0.0267,nn,nn00869522,2023-11-30T23:51:13.913Z,"Nevada",earthquake,,3.3,0.35,3,reviewed,nn,nn
 2023-11-30T03:36:47.360Z,46.848,-121.76566666666666,-2.12,0.17,ml,21,67,0.02562,0.08,uw,uw61965527,2023-11-30T18:39:11.840Z,"22 km ENE of Ashford, Washington",earthquake,0.17,0.45,0.190440964833958,7,reviewed,uw,uw
 2023-11-30T03:20:40.950Z,44.6375,-111.0546667,10.62,0.41,md,9,148,0.04571,0.18,uu,uu60555502,2023-11-30T16:34:35.340Z,"4 km SE of West Yellowstone, Montana",earthquake,0.67,1.03,0.294,6,reviewed,uu,uu
 2023-11-30T03:18:09.868Z,-5.8345,145.9209,59.4,4.9,mb,46,93,3.754,0.8,us,us7000lepp,2023-11-30T04:39:00.040Z,"50 km N of Kainantu, Papua New Guinea",earthquake,10.24,7.185,0.084,45,reviewed,us,us
@@ -232,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T23:55:15.650Z,19.2758331298828,-155.383666992188,27.6399993896484,1.84000003,md,26,138,,0.129999995,hv,hv73667242,2023-11-29T23:58:29.120Z,"Hawaii region, Hawaii",earthquake,0.71,1.14999998,0.529999971,12,automatic,hv,hv
 2023-11-29T23:54:17.490Z,35.4758333,-118.4346667,5.17,1.2,ml,22,72,0.1845,0.14,ci,ci39719906,2023-11-30T00:34:45.028Z,"14 km SSE of Bodfish, CA",earthquake,0.2,1.4,0.2,12,reviewed,ci,ci
 2023-11-29T23:52:32.660Z,38.958,-119.0596,0.1,1.5,ml,7,113.34,0.433,0.1376,nn,nn00869486,2023-11-30T00:36:06.521Z,"Nevada",earthquake,,5.5,0.08,5,reviewed,nn,nn
-2023-11-29T23:51:02.400Z,58.499,-154.408166666667,3.89,0.57,ml,8,223,,0.09,av,av92138176,2023-11-30T21:05:24.300Z,"100 km WNW of Aleneva, Alaska",earthquake,0.95,0.71,0.205343408706085,8,reviewed,av,av
