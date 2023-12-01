@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-01T21:37:10.901Z,31.602,-104.111,6.1019,2.1,ml,16,60,0,0.4,tx,tx2023xnwv,2023-12-01T21:47:11.709Z,"western Texas",earthquake,0,2.654517113,0.3,13,automatic,tx,tx
+2023-12-01T21:25:22.600Z,37.4291667,-113.1195,10.7,1.81,ml,17,95,0.07309,0.14,uu,uu60555642,2023-12-01T21:47:48.930Z,"Utah",earthquake,0.32,0.62,0.308,8,reviewed,uu,uu
 2023-12-01T21:16:08.990Z,19.3906669616699,-155.246002197266,1.70000004768372,1.96,ml,18,76,,0.200000003,hv,hv73668657,2023-12-01T21:21:40.910Z,"5 km SSW of Volcano, Hawaii",earthquake,0.33,0.230000004,0.22,7,automatic,hv,hv
 2023-12-01T21:04:25.730Z,38.8261681,-122.8551636,2.58,1.23,md,22,63,0.001917,0.02,nc,nc73970521,2023-12-01T21:35:19.821Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.45,0.14,22,automatic,nc,nc
 2023-12-01T21:04:14.600Z,38.8264999,-122.8529968,2.56,0.63,md,6,131,0.003202,0.01,nc,nc73970516,2023-12-01T21:27:13.774Z,"10 km WNW of The Geysers, CA",earthquake,0.8,1.38,0.36,8,automatic,nc,nc
@@ -44,8 +46,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T17:21:23.304Z,61.517,-146.446,53.8,1.6,ml,,,,1.05,ak,ak023feba6ju,2023-12-01T17:23:52.230Z,"43 km N of Valdez, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-01T17:18:40.759Z,35.1205,-97.54933333,5.55,1.65,ml,80,42,0.05218975859,0.35,ok,ok2023xnoh,2023-12-01T17:31:01.370Z,"2 km NE of Cole, Oklahoma",earthquake,,0.6,0.19,28,reviewed,ok,ok
 2023-12-01T16:29:33.660Z,32.7366667,-115.8705,4.03,1.61,ml,34,44,0.09904,0.21,ci,ci39720946,2023-12-01T16:40:13.280Z,"12 km E of Ocotillo, CA",earthquake,0.21,0.73,0.186,24,automatic,ci,ci
-2023-12-01T16:09:18.964Z,60.8384,-149.8868,32.7,1.5,ml,,,,0.78,ak,ak023feam5r2,2023-12-01T16:11:27.713Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-01T16:07:02.459Z,35.1225,-97.56516667,5.81,1.31,ml,68,40,0.06118799283,0.33,ok,ok2023xnly,2023-12-01T17:31:18.286Z,"Oklahoma",earthquake,,0.6,0.18,27,reviewed,ok,ok
+2023-12-01T16:09:18.964Z,60.8384,-149.8868,32.7,1.5,ml,,,,0.78,ak,ak023feam5r2,2023-12-01T16:11:27.713Z,"16 km WSW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-12-01T16:07:02.459Z,35.1225,-97.56516667,5.81,1.31,ml,68,40,0.06118799283,0.33,ok,ok2023xnly,2023-12-01T17:31:18.286Z,"2 km NNE of Cole, Oklahoma",earthquake,,0.6,0.18,27,reviewed,ok,ok
 2023-12-01T16:05:15.110Z,17.8898333333333,-66.8793333333333,13.71,2.96,md,25,213,0.08476,0.16,pr,pr71432773,2023-12-01T17:32:47.040Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.28,0.221117413558585,8,reviewed,pr,pr
 2023-12-01T15:57:12.400Z,32.7461667,-115.87,2.23,1.36,ml,13,80,0.1078,0.18,ci,ci39720914,2023-12-01T16:03:35.528Z,"12 km E of Ocotillo, CA",earthquake,0.27,0.47,0.445,11,automatic,ci,ci
 2023-12-01T15:56:52.550Z,33.533,-116.5568333,15.33,0.68,ml,26,67,0.0326,0.15,ci,ci39720906,2023-12-01T18:22:40.286Z,"11 km ESE of Anza, CA",earthquake,0.27,0.44,0.131,10,reviewed,ci,ci
@@ -60,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T15:36:34.953Z,31.634,-104.377,6.1316,1.9,ml,18,77,0.1,0.2,tx,tx2023xnkx,2023-12-01T18:42:18.334Z,"60 km S of Whites City, New Mexico",earthquake,0.6517742411,0.6319574131,0.1,14,reviewed,tx,tx
 2023-12-01T15:35:47.870Z,47.8025,-114.189666666667,2.49,1.08,ml,6,93,0.08392,0.08,mb,mb90034498,2023-12-01T16:10:06.890Z,"2 km ESE of Lindisfarne, Montana",earthquake,0.41,0.74,0.183749035835108,2,reviewed,mb,mb
 2023-12-01T15:19:07.030Z,46.1965,-122.1975,7.95,0.18,ml,14,48,0.00912,0.1,uw,uw61965687,2023-12-01T18:05:23.230Z,"37 km NNE of Amboy, Washington",earthquake,0.61,0.5,0.04221312360918403,4,reviewed,uw,uw
-2023-12-01T15:13:57.170Z,44.6165,-112.5725,7.88,0.78,ml,7,142,0.05106,0.06,mb,mb90034503,2023-12-01T16:20:09.500Z,"western Montana",earthquake,0.42,0.72,0.118662222462663,5,reviewed,mb,mb
+2023-12-01T15:13:57.170Z,44.6165,-112.5725,7.88,0.78,ml,7,142,0.05106,0.06,mb,mb90034503,2023-12-01T16:20:09.500Z,"2 km SE of Lima, Montana",earthquake,0.42,0.72,0.118662222462663,5,reviewed,mb,mb
 2023-12-01T15:04:50.380Z,35.7633333,-117.5896667,7.72,0.8,ml,15,93,0.1488,0.15,ci,ci39720866,2023-12-01T15:10:45.598Z,"17 km W of Searles Valley, CA",earthquake,0.43,1.43,0.072,5,automatic,ci,ci
 2023-12-01T15:03:41.300Z,32.7351667,-115.873,4.21,1.41,ml,25,46,0.09677,0.21,ci,ci39720858,2023-12-01T15:09:54.896Z,"11 km E of Ocotillo, CA",earthquake,0.25,0.85,0.169,14,automatic,ci,ci
 2023-12-01T14:55:56.816Z,39.2438,97.2769,10,5.4,mb,64,37,6.061,0.69,us,us7000lf3c,2023-12-01T17:05:55.068Z,"76 km SSW of Laojunmiao, China",earthquake,9.88,1.874,0.049,141,reviewed,us,us
@@ -119,11 +121,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T08:44:49.373Z,62.9386,-150.4156,98.8,1.6,ml,,,,0.18,ak,ak023fe629l5,2023-12-01T08:46:18.867Z,"52 km NNE of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-12-01T08:34:45.400Z,33.9356667,-117.8368333,14.37,1.86,ml,107,24,0.06857,0.21,ci,ci39720746,2023-12-01T08:45:44.990Z,"6 km NNW of Yorba Linda, CA",earthquake,0.14,0.27,0.086,27,automatic,ci,ci
 2023-12-01T08:34:27.420Z,33.9345,-117.8371667,14.42,1,ml,19,138,0.06977,0.17,ci,ci39720738,2023-12-01T08:40:45.638Z,"6 km NNW of Yorba Linda, CA",earthquake,0.43,0.59,0.166,16,automatic,ci,ci
-2023-12-01T08:27:19.660Z,37.4363333,-113.12,12.41,2.58,ml,21,77,0.08021,0.16,uu,uu60555602,2023-12-01T20:01:51.758Z,"12 km SSE of Kanarraville, Utah",earthquake,0.33,0.56,0.175,10,reviewed,uu,uu
+2023-12-01T08:27:19.660Z,37.4363333,-113.12,12.41,2.58,ml,21,77,0.08021,0.16,uu,uu60555602,2023-12-01T21:48:48.082Z,"12 km SSE of Kanarraville, Utah",earthquake,0.33,0.56,0.175,10,reviewed,uu,uu
 2023-12-01T08:16:01.153Z,65.4194,-148.028,12.8,1.6,ml,,,,0.28,ak,ak023fe5w5tf,2023-12-01T08:17:54.528Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-01T08:10:10.440Z,33.9316667,-117.8091667,11.75,0.55,ml,16,109,0.07009,0.17,ci,ci39720730,2023-12-01T18:07:23.715Z,"5 km N of Yorba Linda, CA",earthquake,0.39,0.63,0.017,6,reviewed,ci,ci
 2023-12-01T08:10:00.050Z,54.7491666666667,-163.986666666667,0.4,0.97,ml,4,104,,0.25,av,av91123013,2023-12-01T21:39:08.390Z,"38 km WSW of False Pass, Alaska",earthquake,0.87,0.51,0.207732067287773,4,reviewed,av,av
-2023-12-01T08:09:17.640Z,38.4896667,-112.845,0.67,-0.68,md,10,97,0.02207,0.05,uu,uu60555597,2023-12-01T16:46:05.170Z,"Utah",earthquake,0.23,1.25,0.33,3,reviewed,uu,uu
+2023-12-01T08:09:17.640Z,38.4896667,-112.845,0.67,-0.68,md,10,97,0.02207,0.05,uu,uu60555597,2023-12-01T16:46:05.170Z,"17 km NE of Milford, Utah",earthquake,0.23,1.25,0.33,3,reviewed,uu,uu
 2023-12-01T08:06:18.494Z,31.626,-104.506,8.0854,2,ml,16,75,0,0.1,tx,tx2023xmwb,2023-12-01T15:33:33.084Z,"western Texas",earthquake,0.8913037385,0.5225275828,0.2,16,reviewed,tx,tx
 2023-12-01T08:05:40.960Z,33.0343333,-116.4183333,8.97,1.14,ml,30,103,0.04598,0.16,ci,ci39720722,2023-12-01T14:23:59.618Z,"18 km ESE of Julian, CA",earthquake,0.25,0.56,0.25,11,reviewed,ci,ci
 2023-12-01T08:02:47.940Z,32.7686667,-115.8598333,2.48,2.64,ml,60,28,0.1318,0.24,ci,ci39720714,2023-12-01T16:02:06.549Z,"13 km ENE of Ocotillo, CA",earthquake,0.18,0.37,0.199,27,automatic,ci,ci
@@ -168,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T05:50:26.290Z,62.955,-150.4446,100.1,5,mww,,,,0.68,ak,ak023fe4b796,2023-12-01T21:42:47.950Z,"53 km NNE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-12-01T05:42:00.260Z,17.9883333333333,-66.8078333333333,15.86,1.95,md,7,186,0.06925,0.11,pr,pr71432693,2023-12-01T05:52:05.650Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.93,0.87,0.186907559979073,5,reviewed,pr,pr
 2023-12-01T05:41:14.280Z,36.3069992,-119.7645035,19.73,2.53,md,12,90,0.2863,0.19,nc,nc73970266,2023-12-01T09:22:14.360Z,"2 km ENE of Lemoore, CA",earthquake,1.95,1.74,0.19,5,automatic,nc,nc
-2023-12-01T05:37:39.620Z,19.2193336486816,-155.434494018555,-0.219999998807907,2.3,ml,35,141,,0.209999993,hv,hv73668007,2023-12-01T05:43:10.250Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.45,0.230000004,2.72,11,automatic,hv,hv
+2023-12-01T05:37:39.830Z,19.2186666666667,-155.435,0.47,2.39,ml,38,141,,0.19,hv,hv73668007,2023-12-01T21:50:45.700Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.25,0.17,0.15614651028915,24,reviewed,hv,hv
 2023-12-01T05:37:17.232Z,61.5291,-147.3877,20,1.8,ml,,,,0.73,ak,ak023fe48ea3,2023-12-01T05:39:07.620Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-01T05:31:37.650Z,38.8226662,-122.807663,2.61,1.06,md,21,38,0.002019,0.03,nc,nc73970261,2023-12-01T05:48:13.052Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.62,0.16,22,automatic,nc,nc
 2023-12-01T05:11:41.550Z,34.0513333,-116.7906667,13.9,1.07,ml,43,81,0.02151,0.19,ci,ci39720626,2023-12-01T21:18:29.837Z,"15 km N of Cabazon, CA",earthquake,0.21,0.36,0.104,20,reviewed,ci,ci
@@ -201,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T02:19:40.912Z,31.577,-104.552,2.9629,1.5,ml,8,163,0.1,0.2,tx,tx2023xmkq,2023-12-01T02:52:16.331Z,"western Texas",earthquake,0,2.19852709,0.2,6,automatic,tx,tx
 2023-12-01T02:14:42.370Z,38.8308334,-122.8178329,1.79,0.36,md,10,79,0.009586,0.02,nc,nc73970201,2023-12-01T02:31:12.932Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.7,0.26,10,automatic,nc,nc
 2023-12-01T02:14:40.656Z,36.0705,139.8259,63.328,4.5,mb,26,143,1.388,0.38,us,us7000lezm,2023-12-01T03:40:46.040Z,"eastern Honshu, Japan",earthquake,6.44,7.451,0.156,13,reviewed,us,us
-2023-12-01T01:59:44.410Z,44.7703333,-110.6893333,2.69,0.78,md,7,174,0.1162,0.08,uu,uu60555572,2023-12-01T17:05:11.890Z,"Wyoming",earthquake,0.62,31.61,0.492,6,reviewed,uu,uu
+2023-12-01T01:59:44.410Z,44.7703333,-110.6893333,2.69,0.78,md,7,174,0.1162,0.08,uu,uu60555572,2023-12-01T17:05:11.890Z,"22 km S of Mammoth, Wyoming",earthquake,0.62,31.61,0.492,6,reviewed,uu,uu
 2023-12-01T01:54:18.697Z,32.3001,-101.7657,5,2.6,mb_lg,39,35,0.322,0.82,us,us7000lezj,2023-12-01T03:31:58.040Z,"19 km N of Stanton, Texas",earthquake,3.41,2.003,0.1,27,reviewed,us,us
 2023-12-01T01:53:01.900Z,38.7726669,-122.7238312,2.1,1.27,md,9,133,0.01109,0.01,nc,nc73970196,2023-12-01T06:37:13.449Z,"3 km W of Anderson Springs, CA",earthquake,0.41,0.71,0.19,11,automatic,nc,nc
 2023-12-01T01:51:29.680Z,46.196666666666665,-122.20466666666667,8.45,0.15,ml,15,57,0.01008,0.16,uw,uw61965657,2023-12-01T18:14:21.350Z,"Mount St. Helens area, Washington",earthquake,1.06,0.79,0.10844592817426041,8,reviewed,uw,uw
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T22:13:39.740Z,45.0808333333333,-111.735333333333,-2,1.2,ml,8,135,0.2643,0.19,mb,mb90034478,2023-12-01T15:32:06.950Z,"western Montana",quarry blast,1.06,31.61,0.148559411485154,3,reviewed,mb,mb
 2023-11-30T22:12:46.302Z,64.7691,-148.9542,18.1,1.3,ml,,,,0.6,ak,ak023fcqo4ez,2023-11-30T22:16:22.830Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-30T21:53:47.644Z,31.803,-104.288,6.3501,2,ml,14,62,0.1,0.3,tx,tx2023xmbw,2023-12-01T15:55:25.144Z,"42 km SSE of Whites City, New Mexico",earthquake,2.421158463,0.9242839782,0.2,7,reviewed,tx,tx
-2023-11-30T21:46:02.930Z,32.8696667,-116.2503333,13.79,1.07,ml,28,54,0.09573,0.16,ci,ci39720466,2023-11-30T23:03:53.961Z,"27 km ENE of Pine Valley, CA",earthquake,0.24,0.47,0.124,15,reviewed,ci,ci
-2023-11-30T21:45:35.329Z,35.12666667,-97.55716667,5.61,1.69,ml,92,41,0.06118799283,0.36,ok,ok2023xmbp,2023-12-01T13:05:44.180Z,"Oklahoma",earthquake,,0.7,0.24,41,reviewed,ok,ok
