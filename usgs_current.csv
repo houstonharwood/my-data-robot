@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T17:21:23.304Z,61.517,-146.446,53.8,1.6,ml,,,,1.05,ak,ak023feba6ju,2023-12-01T17:23:52.230Z,"43 km N of Valdez, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-01T17:18:40.759Z,35.1205,-97.54933333,5.55,1.65,ml,80,42,0.05218975859,0.35,ok,ok2023xnoh,2023-12-01T17:31:01.370Z,"2 km NE of Cole, Oklahoma",earthquake,,0.6,0.19,28,reviewed,ok,ok
 2023-12-01T16:29:33.660Z,32.7366667,-115.8705,4.03,1.61,ml,34,44,0.09904,0.21,ci,ci39720946,2023-12-01T16:40:13.280Z,"12 km E of Ocotillo, CA",earthquake,0.21,0.73,0.186,24,automatic,ci,ci
-2023-12-01T16:09:18.964Z,60.8384,-149.8868,32.7,1.5,ml,,,,0.78,ak,ak023feam5r2,2023-12-01T16:11:27.713Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-12-01T16:09:18.964Z,60.8384,-149.8868,32.7,1.5,ml,,,,0.78,ak,ak023feam5r2,2023-12-01T16:11:27.713Z,"16 km WSW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-01T16:07:02.459Z,35.1225,-97.56516667,5.81,1.31,ml,68,40,0.06118799283,0.33,ok,ok2023xnly,2023-12-01T17:31:18.286Z,"2 km NNE of Cole, Oklahoma",earthquake,,0.6,0.18,27,reviewed,ok,ok
 2023-12-01T16:05:15.110Z,17.8898333333333,-66.8793333333333,13.71,2.96,md,25,213,0.08476,0.16,pr,pr71432773,2023-12-01T17:32:47.040Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.28,0.221117413558585,8,reviewed,pr,pr
 2023-12-01T15:57:12.400Z,32.7461667,-115.87,2.23,1.36,ml,13,80,0.1078,0.18,ci,ci39720914,2023-12-01T16:03:35.528Z,"12 km E of Ocotillo, CA",earthquake,0.27,0.47,0.445,11,automatic,ci,ci
@@ -66,8 +66,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T15:36:34.953Z,31.634,-104.377,6.1316,1.9,ml,18,77,0.1,0.2,tx,tx2023xnkx,2023-12-01T18:42:18.334Z,"60 km S of Whites City, New Mexico",earthquake,0.6517742411,0.6319574131,0.1,14,reviewed,tx,tx
 2023-12-01T15:35:47.870Z,47.8025,-114.189666666667,2.49,1.08,ml,6,93,0.08392,0.08,mb,mb90034498,2023-12-01T16:10:06.890Z,"2 km ESE of Lindisfarne, Montana",earthquake,0.41,0.74,0.183749035835108,2,reviewed,mb,mb
 2023-12-01T15:19:07.030Z,46.1965,-122.1975,7.95,0.18,ml,14,48,0.00912,0.1,uw,uw61965687,2023-12-01T18:05:23.230Z,"37 km NNE of Amboy, Washington",earthquake,0.61,0.5,0.04221312360918403,4,reviewed,uw,uw
-2023-12-01T15:13:57.170Z,44.6165,-112.5725,7.88,0.78,ml,7,142,0.05106,0.06,mb,mb90034503,2023-12-01T16:20:09.500Z,"Idaho-Montana border region",earthquake,0.42,0.72,0.118662222462663,5,reviewed,mb,mb
-2023-12-01T15:04:50.380Z,35.7633333,-117.5896667,7.72,0.8,ml,15,93,0.1488,0.15,ci,ci39720866,2023-12-01T15:10:45.598Z,"17 km W of Searles Valley, CA",earthquake,0.43,1.43,0.072,5,automatic,ci,ci
+2023-12-01T15:13:57.170Z,44.6165,-112.5725,7.88,0.78,ml,7,142,0.05106,0.06,mb,mb90034503,2023-12-01T16:20:09.500Z,"2 km SE of Lima, Montana",earthquake,0.42,0.72,0.118662222462663,5,reviewed,mb,mb
+2023-12-01T15:04:50.360Z,35.7661667,-117.5883333,8.06,0.62,ml,14,164,0.1496,0.13,ci,ci39720866,2023-12-01T22:29:49.446Z,"17 km W of Searles Valley, CA",earthquake,0.43,1.28,0.123,6,reviewed,ci,ci
 2023-12-01T15:03:41.280Z,32.7363333,-115.8733333,3.85,1.41,ml,18,45,0.09771,0.18,ci,ci39720858,2023-12-01T22:11:34.503Z,"11 km E of Ocotillo, CA",earthquake,0.25,1.41,0.151,11,reviewed,ci,ci
 2023-12-01T14:55:56.816Z,39.2438,97.2769,10,5.4,mb,64,37,6.061,0.69,us,us7000lf3c,2023-12-01T17:05:55.068Z,"Gansu, China",earthquake,9.88,1.874,0.049,141,reviewed,us,us
 2023-12-01T14:55:23.040Z,19.3901672363281,-155.278335571289,1.3400000333786,1.79,ml,18,54,,0.119999997,hv,hv73668387,2023-12-01T15:00:54.410Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.239999995,0.12,5,automatic,hv,hv
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T07:44:12.130Z,17.9513333333333,-66.8503333333333,12.62,2.23,md,3,225,0.03626,0.16,pr,pr71432748,2023-12-01T08:28:04.150Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,3.55,0.79,0.0592714420314446,3,reviewed,pr,pr
 2023-12-01T07:43:27.480Z,32.7518333,-115.8728333,8.69,4.77,mw,95,29,0.1121,0.26,ci,ci39720706,2023-12-01T22:14:29.391Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2023-12-01T07:40:36.642Z,31.609,-104.395,5.7717,1.7,ml,20,70,0.1,0.2,tx,tx2023xmvf,2023-12-01T14:54:49.836Z,"62 km S of Whites City, New Mexico",earthquake,1.250855302,1.420005858,0.1,6,reviewed,tx,tx
-2023-12-01T07:35:43.430Z,32.7515,-115.869,8.62,3.18,ml,91,28,0.113,0.24,ci,ci39720698,2023-12-01T20:54:55.405Z,"12 km E of Ocotillo, CA",earthquake,0.16,0.56,0.159,176,reviewed,ci,ci
+2023-12-01T07:35:43.430Z,32.7515,-115.869,8.62,3.18,ml,91,28,0.113,0.24,ci,ci39720698,2023-12-01T22:29:42.114Z,"12 km E of Ocotillo, CA",earthquake,0.16,0.56,0.159,176,reviewed,ci,ci
 2023-12-01T07:33:53.100Z,35.8288345,-119.9564972,9.47,2.44,md,33,82,0.1463,0.2,nc,nc73970291,2023-12-01T10:04:14.586Z,"20 km S of Kettleman City, CA",earthquake,0.37,1.12,0.15,30,automatic,nc,nc
 2023-12-01T07:33:38.250Z,59.7795,-153.3033,93,2.4,ml,,,,0.96,ak,ak023fe5eg8x,2023-12-01T07:35:58.196Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-01T07:29:12.190Z,37.4346667,-113.1176667,10.6,1.68,ml,13,95,0.07867,0.09,uu,uu60555587,2023-12-01T17:02:56.124Z,"Utah",earthquake,0.28,0.75,0.298,3,reviewed,uu,uu
