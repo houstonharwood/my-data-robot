@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-02T02:48:27.850Z,35.6436653,-117.5618362,4.57,1.01,ml,15,81,0.09922,0.15,ci,ci39721306,2023-12-02T02:50:33.080Z,"11 km ENE of Ridgecrest, CA",earthquake,0.54,1.04,0.079,3,automatic,ci,ci
+2023-12-02T02:44:55.450Z,38.8463326,-122.8195038,1.4,0.71,md,14,79,0.008841,0.01,nc,nc73970621,2023-12-02T02:46:33.417Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.54,0.1,13,automatic,nc,nc
+2023-12-02T02:44:54.780Z,38.1824989,-122.5493317,4.52,1.18,md,8,165,0.335,0.22,nc,nc73970626,2023-12-02T02:46:32.674Z,"8 km NNW of Black Point-Green Point, CA",earthquake,2.93,19.7,,1,automatic,nc,nc
+2023-12-02T02:43:48.070Z,38.8153343,-122.7826691,3.61,0.87,md,5,148,0.002588,0.02,nc,nc73970616,2023-12-02T02:45:22.372Z,"5 km NNW of The Geysers, CA",earthquake,3.19,6.71,0.37,9,automatic,nc,nc
 2023-12-02T02:27:30.390Z,32.7683333,-115.8576667,2.35,2.39,ml,55,34,0.1322,0.24,ci,ci39721298,2023-12-02T02:38:18.570Z,"13 km ENE of Ocotillo, CA",earthquake,0.19,0.39,0.216,26,automatic,ci,ci
+2023-12-02T02:23:18.239Z,-10.7092,-70.7442,10,4.9,mb,41,72,6.1,0.89,us,us7000lf9t,2023-12-02T02:49:13.040Z,"Peru-Brazil border region",earthquake,9.95,1.889,0.062,81,reviewed,us,us
 2023-12-02T02:01:46.970Z,34.1425,-118.3521667,10.61,1.87,ml,25,90,0.03441,0.17,ci,ci39721290,2023-12-02T02:36:04.160Z,"0 km NNE of Universal City, CA",earthquake,0.35,0.59,0.308,6,automatic,ci,ci
 2023-12-02T01:57:51.637Z,59.5455,-152.3615,72.8,2.2,ml,,,,0.39,ak,ak023ffpidbv,2023-12-02T02:01:00.549Z,"32 km NW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-02T01:49:31.850Z,18.8995,-67.3438333333333,30.74,3.15,md,12,228,0.5281,0.12,pr,pr71432838,2023-12-02T02:40:48.850Z,"Puerto Rico region",earthquake,1.05,6.75,0.182767831301316,7,reviewed,pr,pr
@@ -21,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T23:58:02.903Z,39.5362,-119.721,7.3,0.9,ml,10,167.88,0.03,0.1457,nn,nn00869545,2023-12-02T01:42:34.403Z,"Nevada",earthquake,,1.2,0.25,4,reviewed,nn,nn
 2023-12-01T23:54:56.470Z,33.0208333,-116.3455,2.57,1.03,ml,44,59,0.07339,0.28,ci,ci39721266,2023-12-02T00:00:55.008Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.26,0.62,0.12,16,automatic,ci,ci
 2023-12-01T23:51:53.770Z,38.7916679,-122.7573318,-0.88,1.11,md,11,128,0.009135,0.08,nc,nc73970576,2023-12-02T00:16:10.748Z,"2 km N of The Geysers, CA",earthquake,0.33,1.36,0.15,13,automatic,nc,nc
-2023-12-01T23:49:57.750Z,40.2355003,-124.1798325,11.59,1.6,md,8,153,0.01632,0.07,nc,nc73970571,2023-12-02T02:34:10.497Z,"13 km SE of Petrolia, CA",earthquake,0.66,1.18,0.02,4,automatic,nc,nc
+2023-12-01T23:49:57.750Z,40.2355003,-124.1798325,11.59,1.6,md,8,153,0.01632,0.07,nc,nc73970571,2023-12-02T02:44:12.542Z,"13 km SE of Petrolia, CA",earthquake,0.66,1.18,0.02,4,automatic,nc,nc
 2023-12-01T23:31:42.300Z,32.747,-115.8668333,2.45,1.85,ml,28,81,0.1097,0.21,ci,ci39721234,2023-12-02T01:36:58.590Z,"12 km E of Ocotillo, CA",earthquake,0.23,0.36,0.158,22,reviewed,ci,ci
 2023-12-01T23:21:36.140Z,61.2683333333333,-152.254333333333,6.24,0.42,ml,6,106,,0.12,av,av91123078,2023-12-02T01:17:28.660Z,"Southern Alaska",earthquake,0.72,1.74,0.3502265374215,6,reviewed,av,av
 2023-12-01T23:12:42.608Z,31.624,-104.399,8.2657,3.4,ml,26,74,0,0.1,tx,tx2023xnzz,2023-12-01T23:30:50.146Z,"61 km S of Whites City, New Mexico",earthquake,0.5690648448,0.7992385607,0.1,16,reviewed,tx,tx
@@ -232,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T03:11:45.133Z,63.2619,-150.3621,65.8,1.9,ml,,,,1.14,ak,ak023fe2w0lt,2023-12-01T06:12:18.985Z,"72 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-01T02:58:22.990Z,33.0058333,-116.335,10.13,0.45,ml,24,92,0.07206,0.16,ci,ci39720578,2023-12-01T17:06:10.540Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.27,0.52,0.032,5,reviewed,ci,ci
 2023-12-01T02:57:34.311Z,39.3741,-119.9851,6.3,0.8,ml,12,123.73,0.091,0.1772,nn,nn00869542,2023-12-01T19:19:28.355Z,"Nevada",earthquake,,1.6,0.27,3,reviewed,nn,nn
-2023-12-01T02:47:22.970Z,38.7513351,-122.7003326,1.41,1.85,md,20,90,0.01684,0.08,nc,nc73970216,2023-12-01T07:19:12.813Z,"3 km SSW of Anderson Springs, CA",earthquake,0.31,0.48,0.13,22,automatic,nc,nc
