@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T02:32:02.730Z,38.791832,-122.7600021,2.08,1.38,md,28,68,0.008783,0.04,nc,nc73971496,2023-12-04T02:49:15.628Z,"2 km N of The Geysers, CA",earthquake,0.24,0.4,0.19,27,automatic,nc,nc
 2023-12-04T02:25:40.884Z,63.2702,-151.1032,0,1.6,ml,,,,0.81,ak,ak023fj0zm6g,2023-12-04T02:27:53.666Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-04T02:21:30.700Z,19.3921661376953,-155.253662109375,0.639999985694885,2.0999999,md,13,61,,0.129999995,hv,hv73672437,2023-12-04T02:24:22.140Z,"5 km SSW of Volcano, Hawaii",earthquake,0.2,0.219999999,1.27999997,14,automatic,hv,hv
-2023-12-04T02:11:21.880Z,37.4136658,-118.706337,6.7,1.38,md,13,214,0.2013,0.05,nc,nc73971491,2023-12-04T02:28:12.507Z,"10 km W of Round Valley, CA",earthquake,1.35,6.78,0.2,12,automatic,nc,nc
+2023-12-04T02:11:21.880Z,37.4136658,-118.706337,6.7,1.38,md,13,214,0.2013,0.05,nc,nc73971491,2023-12-04T03:38:10.920Z,"10 km W of Round Valley, CA",earthquake,1.35,6.78,0.2,12,automatic,nc,nc
 2023-12-04T02:11:03.480Z,8.5156,126.7497,49.545,5.1,mb,59,90,1.846,0.99,us,us7000lg13,2023-12-04T02:28:57.040Z,"48 km ENE of Hinatuan, Philippines",earthquake,9.62,6.162,0.057,101,reviewed,us,us
 2023-12-04T02:01:57.920Z,33.5545006,-118.0329971,11.93,1.28,ml,8,241,0.1682,0.17,ci,ci39722354,2023-12-04T02:08:29.188Z,"12 km SW of Newport Beach, CA",earthquake,4.2,17.66,0.235,8,automatic,ci,ci
 2023-12-04T01:59:41.920Z,36.1741667,-117.8596667,2.15,1.24,ml,24,98,0.0566,0.19,ci,ci39722346,2023-12-04T02:06:34.173Z,"16 km NNE of Coso Junction, CA",earthquake,0.37,0.72,0.335,11,automatic,ci,ci
@@ -85,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T20:01:22.340Z,19.3606662750244,-155.613830566406,49.3199996948242,2.9000001,md,33,81,,0.349999994,hv,hv73672202,2023-12-03T20:04:34.920Z,"Island of Hawaii, Hawaii",earthquake,4.02,3.0999999,0.74000001,5,automatic,hv,hv
 2023-12-03T19:59:50.062Z,31.635,-104.278,5.0674,1.6,ml,16,69,0,0.4,tx,tx2023xrkq,2023-12-03T20:16:42.272Z,"58 km NW of Toyah, Texas",earthquake,0,2.845373173,0.2,13,automatic,tx,tx
 2023-12-03T19:53:34.650Z,32.7873333,-115.824,5.26,0.7,ml,13,98,0.1022,0.2,ci,ci39722194,2023-12-03T19:59:19.208Z,"17 km ENE of Ocotillo, CA",earthquake,0.41,1.03,0.371,5,automatic,ci,ci
+2023-12-03T19:50:43.000Z,8.9,127.1,10,7,Mb,41,61.199995104000394,2.062532,1.46,at,at00s53wgj,2023-12-03T20:21:37.550Z,"86 km E of Aras-asan, Philippines",earthquake,0,0,,26,reviewed,at,at
 2023-12-03T19:50:12.910Z,32.7398333,-115.8723333,4.59,1.38,ml,20,54,0.1012,0.17,ci,ci39722186,2023-12-03T19:56:29.376Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.76,0.336,13,automatic,ci,ci
 2023-12-03T19:49:37.281Z,8.9571,126.6277,30.512,6.9,mww,119,43,2.144,1.12,us,us7000lfxx,2023-12-04T03:33:55.914Z,"35 km ENE of Aras-asan, Philippines",earthquake,8.03,4.383,0.05,39,reviewed,us,us
 2023-12-03T19:43:03.550Z,38.8413315,-122.7756653,3.23,0.39,md,7,155,0.001392,0.02,nc,nc73971296,2023-12-03T20:09:19.073Z,"5 km WNW of Cobb, CA",earthquake,0.99,0.72,0.26,7,automatic,nc,nc
@@ -260,5 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T03:47:50.243Z,17.134,-94.5714,132.63,4.3,mb,54,136,2.482,0.95,us,us7000lfr5,2023-12-03T04:33:12.040Z,"13 km SSE of Hermanos Cedillo, Mexico",earthquake,9.86,4.561,0.057,87,reviewed,us,us
 2023-12-03T03:47:03.280Z,37.2951,-117.602,5.7,1,ml,8,164.78,0.071,0.1633,nn,nn00869613,2023-12-03T03:49:44.141Z,"51 km S of Silver Peak, Nevada",earthquake,,1.3,0.42,4,automatic,nn,nn
 2023-12-03T03:45:47.450Z,38.8233337,-122.7641678,1.78,1.09,md,15,124,0.008422,0.02,nc,nc73971016,2023-12-03T05:53:11.184Z,"4 km W of Cobb, CA",earthquake,0.27,0.45,0.16,15,automatic,nc,nc
-2023-12-03T03:42:44.592Z,61.0493,-148.3661,0.4,1.3,ml,,,,0.71,ak,ak023fhe5cqz,2023-12-03T03:44:32.291Z,"35 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-03T03:41:07.900Z,33.0621667,-116.1908333,5.09,0.69,ml,53,51,0.09523,0.19,ci,ci39721930,2023-12-03T03:47:47.482Z,"11 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.62,0.038,5,automatic,ci,ci
