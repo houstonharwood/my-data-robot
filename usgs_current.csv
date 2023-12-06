@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T04:13:25.415Z,31.672,-104.195,4.6285,2,ml,6,123,0.1,0.1,tx,tx2023xvrx,2023-12-06T04:59:17.063Z,"western Texas",earthquake,0,2.066487706,0.2,6,automatic,tx,tx
 2023-12-06T04:11:51.420Z,32.7378349,-115.8769989,6.93,3.48,ml,98,28,0.09782,0.27,ci,ci40616744,2023-12-06T06:14:09.554Z,"11 km E of Ocotillo, CA",earthquake,0.19,0.74,0.311,17,reviewed,ci,ci
 2023-12-06T04:07:22.686Z,21.5106,123.1931,20.402,4.6,mb,19,117,2.351,0.98,us,us7000lgl9,2023-12-06T04:24:39.040Z,"173 km NE of Basco, Philippines",earthquake,3.94,6.665,0.243,5,reviewed,us,us
-2023-12-06T04:06:35.130Z,38.8365,-122.808,2.5,0.3,md,15,58,0.01319,0.02,nc,nc73972401,2023-12-06T07:10:49.458Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.43,0.297,16,reviewed,nc,nc
+2023-12-06T04:06:35.130Z,38.8365,-122.808,2.5,0.3,md,15,58,0.01319,0.02,nc,nc73972401,2023-12-06T07:17:11.393Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.43,0.297,16,reviewed,nc,nc
 2023-12-06T04:00:19.918Z,9.2241,126.5931,64.919,4.6,mb,31,132,2.364,0.67,us,us7000lgld,2023-12-06T04:43:12.040Z,"44 km E of Cortes, Philippines",earthquake,11.33,7.598,0.097,32,reviewed,us,us
 2023-12-06T03:51:46.110Z,38.8181648,-122.817337,2.43,0.71,md,14,49,0.007711,0.01,nc,nc73972396,2023-12-06T06:01:10.924Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.66,0.34,15,automatic,nc,nc
 2023-12-06T03:33:04.590Z,38.786499,-122.7661667,2.18,0.71,md,10,114,0.01498,0.02,nc,nc73972391,2023-12-06T03:50:14.170Z,"1 km NW of The Geysers, CA",earthquake,0.39,0.75,0.31,10,automatic,nc,nc
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T03:01:16.773Z,31.666,-104.206,4.6768,1.5,ml,19,63,0.1,0.3,tx,tx2023xvpn,2023-12-06T03:45:47.650Z,"western Texas",earthquake,0,1.173683551,0.1,15,automatic,tx,tx
 2023-12-06T02:53:19.132Z,31.673,-104.204,4.9104,1.7,ml,19,66,0.1,0.4,tx,tx2023xvpi,2023-12-06T03:08:52.511Z,"western Texas",earthquake,0,1.177574134,0.1,15,automatic,tx,tx
 2023-12-06T02:48:01.270Z,35.9598333,-117.9208333,8.13,2.25,ml,34,43,0.0538,0.12,ci,ci40616728,2023-12-06T02:58:44.300Z,"3 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.211,25,automatic,ci,ci
-2023-12-06T02:32:58.460Z,37.4406667,-118.993,18.77,1.73,md,26,141,0.1711,0.05,nc,nc73972376,2023-12-06T07:05:18.314Z,"22 km S of Mammoth Lakes, CA",earthquake,0.43,1.32,0.221,23,reviewed,nc,nc
+2023-12-06T02:32:58.460Z,37.4406667,-118.993,18.77,1.73,md,26,141,0.1711,0.05,nc,nc73972376,2023-12-06T07:16:13.388Z,"22 km S of Mammoth Lakes, CA",earthquake,0.43,1.32,0.221,23,reviewed,nc,nc
 2023-12-06T02:22:01.960Z,33.394,-116.446,12.16,1.08,ml,56,30,0.09411,0.18,ci,ci40616720,2023-12-06T02:28:17.478Z,"17 km NNW of Borrego Springs, CA",earthquake,0.18,0.44,0.153,28,automatic,ci,ci
 2023-12-06T02:16:41.570Z,38.8255005,-122.8054962,2.52,0.78,md,18,53,0.004148,0.01,nc,nc73972366,2023-12-06T02:44:12.801Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.53,0.16,17,automatic,nc,nc
 2023-12-06T02:15:33.780Z,38.8083344,-122.8191681,2.61,0.8,md,18,62,0.007839,0.02,nc,nc73972361,2023-12-06T02:32:12.739Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.65,0.25,19,automatic,nc,nc
@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T07:27:28.524Z,8.7196,127.3038,43.928,4.6,mb,40,117,2.368,0.59,us,us7000lgcg,2023-12-05T08:42:07.045Z,"110 km E of Aras-asan, Philippines",earthquake,7.52,7.48,0.107,26,reviewed,us,us
 2023-12-05T07:25:51.816Z,60.1081,-152.9154,109.2,2.3,ml,,,,0.18,ak,ak023fkri5jh,2023-12-05T07:30:47.040Z,"68 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-05T07:23:17.362Z,63.6943,-148.9094,95.8,1.7,ml,,,,0.51,ak,ak023fkrhng8,2023-12-05T07:25:34.302Z,"4 km S of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-12-05T07:13:40.540Z,44.8226667,-110.8158333,4.92,0.02,md,5,252,0.04228,0.12,uu,uu60555817,2023-12-05T14:20:32.360Z,"19 km SSW of Mammoth, Wyoming",earthquake,2.2,0.48,0.196,5,reviewed,uu,uu
