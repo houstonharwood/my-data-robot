@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T10:43:31.220Z,19.2526664733887,-155.393997192383,31.3400001525879,2.13000011,md,42,132,,0.109999999,hv,hv73674522,2023-12-06T10:46:54.680Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.540000021,0.419999987,17,automatic,hv,hv
 2023-12-06T10:41:23.640Z,8.5625,126.5944,66.563,5.2,mb,83,81,1.792,0.93,us,us7000lgme,2023-12-06T11:14:21.319Z,"35 km NE of Hinatuan, Philippines",earthquake,8.95,6.312,0.057,103,reviewed,us,us
 2023-12-06T10:27:49.437Z,63.1703,-150.0826,85.6,1.6,ml,,,,0.52,ak,ak023fmgu83j,2023-12-06T10:29:40.240Z,"61 km WSW of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-12-06T10:17:00.274Z,35.8808,-116.2288,12.8,1.1,ml,4,281.19,0.042,0.2128,nn,nn00869746,2023-12-06T19:39:12.413Z,"3 km N of Tecopa, California",earthquake,,3.2,0,1,reviewed,nn,nn
+2023-12-06T10:17:00.312Z,35.8798,-116.2171,11.8,1.1,ml,4,278.08,0.051,0.2044,nn,nn00869746,2023-12-06T19:45:25.034Z,"Central California",earthquake,,3,0,1,reviewed,nn,nn
 2023-12-06T10:10:10.427Z,61.1624,-152.1015,103.8,2.6,ml,,,,0.68,ak,ak023fmgqhwk,2023-12-06T10:13:59.349Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-06T09:28:04.833Z,12.4981,47.3467,10,4.5,mb,38,104,4.506,0.67,us,us7000lgma,2023-12-06T11:17:01.040Z,"Gulf of Aden",earthquake,9.46,1.894,0.101,29,reviewed,us,us
 2023-12-06T09:26:14.320Z,35.6473333,-121.0663333,6.3,1.47,md,31,120,0.07921,0.06,nc,nc73972446,2023-12-06T14:06:12.829Z,"9 km N of Cambria, CA",earthquake,0.29,0.77,0.22,24,reviewed,nc,nc
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T07:05:15.684Z,31.652,-104.317,8.7024,2.7,ml,50,69,0,0.2,tx,tx2023xvxo,2023-12-06T16:09:02.262Z,"western Texas",earthquake,0.8336048653,0.8260265501,0.1,28,reviewed,tx,tx
 2023-12-06T07:05:02.470Z,46.8903333333333,-112.518666666667,9.27,1.13,ml,8,118,0.05253,0.11,mb,mb90035243,2023-12-06T15:22:22.790Z,"Western Montana",earthquake,0.56,0.67,0.124164544279645,6,reviewed,mb,mb
 2023-12-06T07:00:31.944Z,37.4142,-115.543,12.5,1.1,ml,9,134.6,0.282,0.1872,nn,nn00869744,2023-12-06T19:17:24.001Z,"31 km SE of Rachel, Nevada",earthquake,,8.9,0.05,2,reviewed,nn,nn
-2023-12-06T06:58:25.169Z,39.4354,-119.8139,4.4,0.8,ml,10,85.5,0.03,0.1108,nn,nn00869724,2023-12-06T16:14:30.462Z,"Nevada",earthquake,,1.5,0.58,4,reviewed,nn,nn
+2023-12-06T06:58:25.169Z,39.4354,-119.8139,4.4,0.8,ml,10,85.5,0.03,0.1108,nn,nn00869724,2023-12-06T16:14:30.462Z,"10 km S of Reno, Nevada",earthquake,,1.5,0.58,4,reviewed,nn,nn
 2023-12-06T06:52:56.350Z,37.4758333,-118.839,2.41,0.5,md,13,257,0.1143,0.04,nc,nc73972426,2023-12-06T10:33:11.460Z,"17 km SW of Toms Place, CA",earthquake,1.6,2.29,0.198,10,reviewed,nc,nc
 2023-12-06T06:37:17.780Z,35.08133333,-97.49016667,8.06,0.57,ml,6,261,0.02699470272,0.07,ok,ok2023xvwq,2023-12-06T16:21:02.779Z,"2 km NNW of Washington, Oklahoma",earthquake,,0.6,0.17,5,reviewed,ok,ok
 2023-12-06T06:19:13.103Z,19.1605,121.0334,34.923,5,mb,65,99,3.639,1.33,us,us7000lglr,2023-12-06T09:57:10.419Z,"Babuyan Islands region, Philippines",earthquake,8.91,5.309,0.065,75,reviewed,us,us
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T20:01:02.820Z,35.7118333,-117.5596667,2.06,1.04,ml,19,86,0.1201,0.12,ci,ci40616456,2023-12-05T21:24:19.210Z,"15 km NE of Ridgecrest, CA",earthquake,0.26,0.32,0.072,10,reviewed,ci,ci
 2023-12-05T19:58:23.934Z,31.596,-103.937,5.4894,1.5,ml,15,82,0,0.3,tx,tx2023xvbo,2023-12-05T21:38:04.365Z,"34 km NNW of Toyah, Texas",earthquake,0,2.123583378,0.2,13,automatic,tx,tx
 2023-12-05T19:56:12.610Z,38.8223343,-122.8523331,2.4,0.64,md,10,127,0.006297,0.01,nc,nc73972236,2023-12-05T20:12:12.536Z,"10 km WNW of The Geysers, CA",earthquake,0.38,0.84,0.25,13,automatic,nc,nc
-2023-12-05T19:43:37.440Z,34.3726667,-116.3951667,7.62,1.81,ml,44,59,0.08166,0.12,ci,ci40616432,2023-12-05T19:54:38.330Z,"28 km NNW of Joshua Tree, CA",earthquake,0.13,0.4,0.183,27,automatic,ci,ci
