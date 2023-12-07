@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T20:12:44.390Z,33.9211667,-116.8778333,9.5,1.29,ml,46,33,0.1101,0.13,ci,ci40617360,2023-12-07T20:23:08.496Z,"0 km SSW of Banning, CA",earthquake,0.14,0.4,0.103,15,automatic,ci,ci
 2023-12-07T20:11:53.050Z,33.9186667,-116.878,9.97,2.56,ml,100,22,0.07825,0.16,ci,ci40617352,2023-12-07T22:43:13.408Z,"1 km S of Banning, CA",earthquake,0.1,0.26,0.15,131,reviewed,ci,ci
 2023-12-07T20:05:06.320Z,19.25,-155.399002075195,31.6800003051758,2.05999994,md,36,149,,0.129999995,hv,hv73676372,2023-12-07T20:35:26.703Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,0.589999974,1.67999995,10,automatic,hv,hv
-2023-12-07T20:03:38.206Z,18.3866,-98.5503,44.388,5.8,mww,175,99,0.82,0.64,us,us7000lh50,2023-12-07T23:00:49.895Z,"10 km NNE of Chiautla de Tapia, Mexico",earthquake,6.88,4.683,0.036,75,reviewed,us,us
+2023-12-07T20:03:38.206Z,18.3866,-98.5503,44.388,5.8,mww,175,99,0.82,0.64,us,us7000lh50,2023-12-07T23:33:00.650Z,"10 km NNE of Chiautla de Tapia, Mexico",earthquake,6.88,4.683,0.036,75,reviewed,us,us
 2023-12-07T20:02:21.270Z,62.3354,-148.6725,30.3,1.6,ml,,,,0.69,ak,ak023foa6hkf,2023-12-07T20:04:35.518Z,"61 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T20:01:58.130Z,19.1555004119873,-155.46516418457,32.5499992370605,2.23000002,md,40,136,,0.100000001,hv,hv73676367,2023-12-07T20:05:16.050Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.59,0.689999998,1.91999996,22,automatic,hv,hv
 2023-12-07T20:01:32.703Z,36.7419,-116.2921,8.9,0,ml,11,119.01,0.016,0.0798,nn,nn00869832,2023-12-07T22:17:25.721Z,"45 km ESE of Beatty, Nevada",earthquake,,1.3,0.03,2,reviewed,nn,nn
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T17:19:29.820Z,19.2525005340576,-155.39599609375,30.9899997711182,2.0999999,md,31,131,,0.159999996,hv,hv73676017,2023-12-07T17:29:41.104Z,"Hawaii region, Hawaii",earthquake,0.63,0.910000026,0.0399999991,5,automatic,hv,hv
 2023-12-07T17:18:57.330Z,19.382833480835,-155.280166625977,1.19000005722046,1.82000005,md,10,157,,0.150000006,hv,hv73676007,2023-12-07T17:27:47.480Z,"8 km SW of Volcano, Hawaii",earthquake,0.38,0.389999986,1.16999996,10,automatic,hv,hv
 2023-12-07T17:16:51.090Z,38.8353348,-122.8150024,1.51,0.79,md,8,79,0.01253,0.01,nc,nc73972861,2023-12-07T19:44:13.647Z,"8 km W of Cobb, CA",earthquake,0.36,0.97,0.31,8,automatic,nc,nc
-2023-12-07T17:13:36.550Z,19.2466666666667,-155.3855,32.85,3.63,ml,24,163,,0.11,hv,hv73675997,2023-12-07T23:26:49.897Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.91,0.7,0.187498684983872,40,reviewed,hv,hv
+2023-12-07T17:13:36.550Z,19.2466666666667,-155.3855,32.85,3.63,ml,24,163,,0.11,hv,hv73675997,2023-12-07T23:32:00.416Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.91,0.7,0.187498684983872,40,reviewed,hv,hv
 2023-12-07T17:09:13.348Z,63.2748,-151.0783,7,1.4,ml,,,,0.17,ak,ak023fo8fo5i,2023-12-07T17:10:37.263Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-07T17:05:45.200Z,19.2838333333333,-155.387166666667,1.58,2.03,md,10,112,,0.1,hv,hv73675982,2023-12-07T17:36:04.150Z,"Hawaii region, Hawaii",earthquake,0.35,0.62,0.178016987951826,3,reviewed,hv,hv
 2023-12-07T17:05:03.491Z,62.8685,-148.9288,0,1.7,ml,,,,1.35,ak,ak023fo8esj1,2023-12-07T17:07:02.177Z,"58 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -259,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T23:50:46.730Z,58.225,-155.173833333333,3.05,-0.26,ml,5,221,,0.08,av,av91123623,2023-12-07T21:10:09.420Z,"84 km NNW of Karluk, Alaska",earthquake,0.43,1.04,0.217561307965819,5,reviewed,av,av
 2023-12-06T23:41:33.088Z,8.654,127.1454,10,4.6,mb,52,129,2.21,0.44,us,us7000lgsb,2023-12-07T00:28:54.040Z,"94 km ENE of Hinatuan, Philippines",earthquake,10.06,1.897,0.071,59,reviewed,us,us
 2023-12-06T23:36:32.410Z,38.828167,-122.8533325,1.63,0.64,md,7,159,0.0168,0.01,nc,nc73972591,2023-12-07T01:12:10.532Z,"10 km NW of The Geysers, CA",earthquake,0.42,1.3,0.35,9,automatic,nc,nc
-2023-12-06T23:33:42.551Z,8.4281,126.6556,10,4.9,mb,72,81,1.72,0.75,us,us7000lgs8,2023-12-06T23:55:04.040Z,"Mindanao, Philippines",earthquake,9.61,1.861,0.063,79,reviewed,us,us
-2023-12-06T23:32:24.585Z,39.4037,-119.791,7.8,1.3,ml,13,78.51,0.025,0.1604,nn,nn00869777,2023-12-07T01:02:27.541Z,"14 km S of Reno, Nevada",earthquake,,1.1,0.22,7,reviewed,nn,nn
