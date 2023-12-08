@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-08T19:26:27.120Z,33.8366667,-117.4968333,2.4,1.68,ml,59,45,0.04722,0.18,ci,ci40617672,2023-12-08T19:33:45.174Z,"5 km SSE of Home Gardens, CA",earthquake,0.17,0.26,0.186,31,automatic,ci,ci
+2023-12-08T19:26:27.120Z,33.8366667,-117.4968333,2.4,1.68,ml,59,45,0.04722,0.18,ci,ci40617672,2023-12-08T19:37:28.980Z,"5 km SSE of Home Gardens, CA",earthquake,0.17,0.26,0.186,31,automatic,ci,ci
 2023-12-08T19:21:34.538Z,62.259,-150.4403,18.7,1.6,ml,,,,0.45,ak,ak023fpx8i31,2023-12-08T19:23:15.891Z,"12 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-08T19:03:36.542Z,-20.8034,168.3656,10,5.3,mww,85,83,1.993,1.36,us,us7000lhkc,2023-12-08T19:23:09.040Z,"96 km NNE of Tadine, New Caledonia",earthquake,9.63,1.871,0.078,16,reviewed,us,us
 2023-12-08T18:52:01.177Z,62.1178,-147.4872,20,2.1,ml,,,,0.78,ak,ak023fpwtn3p,2023-12-08T18:54:01.873Z,"26 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T18:35:16.920Z,37.4331667,-113.1221667,10.19,1.79,ml,17,94,0.07697,0.12,uu,uu60556027,2023-12-08T19:13:11.810Z,"12 km SSE of Kanarraville, Utah",earthquake,0.28,0.6,0.298,3,reviewed,uu,uu
 2023-12-08T18:28:57.999Z,31.736,-104.121,4.007,1.6,ml,14,199,0,0.3,tx,tx2023yald,2023-12-08T18:51:51.022Z,"49 km W of Mentone, Texas",earthquake,0,1.428563912,0.2,11,automatic,tx,tx
 2023-12-08T18:26:56.020Z,37.4321667,-113.122,10.1,1.56,ml,12,95,0.07598,0.1,uu,uu60556017,2023-12-08T19:06:29.240Z,"13 km SSE of Kanarraville, Utah",earthquake,0.31,0.64,0.308,3,reviewed,uu,uu
-2023-12-08T18:24:22.480Z,37.6026649,-118.8548355,6.1,1.04,md,7,154,0.01753,0.04,nc,nc73973301,2023-12-08T18:42:13.522Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.9,1.73,0.19,8,automatic,nc,nc
+2023-12-08T18:24:22.480Z,37.6026649,-118.8548355,6.1,1.04,md,7,154,0.01753,0.04,nc,nc73973301,2023-12-08T19:42:14.045Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.9,1.73,0.19,8,automatic,nc,nc
 2023-12-08T18:07:49.757Z,61.8665,-149.2251,18.6,2.1,ml,,,,0.79,ak,ak023fpwk3mn,2023-12-08T18:09:50.992Z,"13 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-08T18:05:51.520Z,32.835,-100.985,8.6325,2.8,ml,18,65,0.1,0.3,tx,tx2023yakj,2023-12-08T18:34:44.715Z,"14 km NNW of Snyder, Texas",earthquake,1.556217659,1.510411596,0.1,6,reviewed,tx,tx
 2023-12-08T17:54:12.060Z,37.6030006,-118.8553314,5.39,2.82,md,26,137,0.01707,0.03,nc,nc73973296,2023-12-08T18:54:10.612Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.27,0.36,0.16,35,automatic,nc,nc
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T13:56:22.681Z,64.9141,-150.8384,9.8,1.3,ml,,,,0.41,ak,ak023fptvdks,2023-12-08T13:58:36.927Z,"13 km SW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-08T13:53:30.470Z,38.8376656,-122.8300018,1.9,0.25,md,8,94,0.004382,0.02,nc,nc73973251,2023-12-08T14:08:12.780Z,"9 km NW of The Geysers, CA",earthquake,0.47,0.91,0.12,9,automatic,nc,nc
 2023-12-08T13:46:47.540Z,19.1598339080811,-155.515502929688,30.9400005340576,2.21,ml,48,110,,0.150000006,hv,hv73678387,2023-12-08T13:52:29.610Z,"6 km SW of Pāhala, Hawaii",earthquake,0.48,0.74000001,5.06,5,automatic,hv,hv
-2023-12-08T13:46:17.027Z,51.1564,179.1506,35,4.3,mb,51,185,0.878,0.58,us,us7000lhe5,2023-12-08T19:33:03.061Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.19,1.458,0.055,94,reviewed,us,us
+2023-12-08T13:46:17.027Z,51.1564,179.1506,35,4.3,mb,51,185,0.878,0.58,us,us7000lhe5,2023-12-08T19:36:09.438Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.19,1.458,0.055,94,reviewed,us,us
 2023-12-08T13:44:38.070Z,46.194833333333335,-122.1975,10.04,0.5700000000000001,ml,16,49,0.006766,0.13,uw,uw61966792,2023-12-08T17:50:47.810Z,"37 km NNE of Amboy, Washington",earthquake,0.58,0.47,0.10036520823868156,10,reviewed,uw,uw
 2023-12-08T13:44:27.850Z,54.7495,-164.001833333333,8.01,1.38,ml,6,185,,0.18,av,av92148436,2023-12-08T18:15:25.250Z,"39 km WSW of False Pass, Alaska",earthquake,0.65,0.94,0.273052870835747,6,reviewed,av,av
 2023-12-08T13:40:51.533Z,65.1239,-145.3385,0.2,1.8,ml,,,,1.18,ak,ak023fpts0dd,2023-12-08T13:42:48.721Z,"55 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
