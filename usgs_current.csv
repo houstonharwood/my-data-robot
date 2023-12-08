@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T04:22:26.300Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
+2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T04:32:10.755Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
 2023-12-08T04:18:11.374Z,60.0972,-152.5374,102.1,1.9,ml,,,,0.1,ak,ak023fpoab2p,2023-12-08T04:19:22.277Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-12-08T03:54:47.590Z,38.8208351,-122.8043365,1.89,1,md,14,55,0.00516,0.02,nc,nc73973076,2023-12-08T04:13:11.644Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.64,0.24,14,automatic,nc,nc
 2023-12-08T03:49:48.840Z,19.2150001525879,-155.492340087891,43.2999992370605,2.04999995,md,20,248,,0.349999994,hv,hv73677242,2023-12-08T03:52:56.900Z,"1 km NW of Pāhala, Hawaii",earthquake,3.84,1.92999995,1.01999998,3,automatic,hv,hv
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T15:38:05.751Z,4.1846,127.8335,116.281,4.5,mb,31,83,3.422,0.49,us,us7000lgxv,2023-12-07T18:02:07.040Z,"272 km N of Tobelo, Indonesia",earthquake,9.53,8.907,0.108,29,reviewed,us,us
 2023-12-07T15:23:35.923Z,10.6797,-65.0735,10,4.6,mb,46,64,5.591,0.73,us,us7000lgxw,2023-12-07T21:07:48.401Z,"68 km NW of Lecherías, Venezuela",earthquake,9.28,1.92,0.097,36,reviewed,us,us
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
-2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"109 km ENE of Angoram, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
+2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
 2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.810Z,19.2905,-155.384833333333,2.2,2.3,ml,12,108,,0.09,hv,hv73675837,2023-12-07T17:39:00.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.3,0.6,0.265732610999115,11,reviewed,hv,hv
 2023-12-07T15:06:58.620Z,19.2875,-155.385833333333,1.61,1.63,ml,10,129,,0.09,hv,hv73675832,2023-12-07T17:47:13.070Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.65,0.00638374230567051,1,reviewed,hv,hv
@@ -261,8 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T04:51:08.979Z,61.2659,-150.36,18.3,1.8,ml,,,,0.36,ak,ak023fo0y10x,2023-12-07T04:53:13.747Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-07T04:45:47.808Z,8.673,126.6609,61.501,5.1,mb,60,84,1.92,0.78,us,us7000lgui,2023-12-07T05:00:47.040Z,"42 km ESE of Marihatag, Philippines",earthquake,10.17,6.826,0.078,53,reviewed,us,us
 2023-12-07T04:39:26.050Z,38.8434982,-122.8766632,1.96,0.95,md,15,91,0.007188,0.04,nc,nc73972671,2023-12-07T05:20:11.025Z,"13 km NW of The Geysers, CA",earthquake,0.32,0.45,0.17,16,automatic,nc,nc
-2023-12-07T04:34:20.400Z,57.0618333333333,-135.711833333333,7.33,0.83,ml,5,119,,0.14,av,av91123683,2023-12-07T23:50:17.580Z,"23 km W of Sitka, Alaska",earthquake,1.15,0.71,0.270741461258144,4,reviewed,av,av
-2023-12-07T04:33:53.750Z,58.4841666666667,-154.494166666667,4.82,0.1,ml,9,296,,0.15,av,av91123693,2023-12-08T00:04:28.400Z,"101 km N of Karluk, Alaska",earthquake,0.75,0.55,0.196862764481628,9,reviewed,av,av
-2023-12-07T04:31:33.000Z,19.3383333333333,-155.133333333333,3.22,2.35,ml,42,102,,0.15,hv,hv73675167,2023-12-07T23:26:08.735Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.84,0.21651439019781,16,reviewed,hv,hv
-2023-12-07T04:31:16.320Z,38.7830009,-122.7089996,1.01,1.79,md,26,84,0.01664,0.04,nc,nc73972666,2023-12-07T07:35:13.804Z,"2 km WNW of Anderson Springs, CA",earthquake,0.23,0.38,0.19,28,automatic,nc,nc
-2023-12-07T04:30:12.690Z,38.8231659,-122.8450012,2.09,0.84,md,16,77,0.007789,0.01,nc,nc73972661,2023-12-07T07:08:11.647Z,"9 km WNW of The Geysers, CA",earthquake,0.25,0.47,0.15,17,automatic,nc,nc
