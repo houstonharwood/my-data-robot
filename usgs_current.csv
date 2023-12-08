@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-08T23:31:16.553Z,60.3823,-149.9551,30.9,1.7,ml,,,,0.79,ak,ak023fpzoc9z,2023-12-08T23:32:56.865Z,"13 km SSW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-08T23:21:51.818Z,43.9043,-111.0786,5,3.7,ml,19,65,0.269,0.57,us,us7000lhmj,2023-12-08T23:35:08.260Z,"11 km NNE of Tetonia, Idaho",earthquake,1.11,1.256,0.045,65,reviewed,us,us
+2023-12-08T23:21:51.818Z,43.9043,-111.0786,5,3.7,ml,19,65,0.269,0.57,us,us7000lhmj,2023-12-08T23:40:16.090Z,"11 km NNE of Tetonia, Idaho",earthquake,1.11,1.256,0.045,65,reviewed,us,us
 2023-12-08T23:11:22.730Z,35.1095,-97.57616667,4.9,1.26,ml,47,41,0.05758869913,0.52,ok,ok2023yaul,2023-12-08T23:34:06.872Z,"0 km NNW of Cole, Oklahoma",earthquake,,1.1,0.21,19,reviewed,ok,ok
 2023-12-08T23:06:44.523Z,57.7355,-155.2802,58.3,2.1,ml,,,,0.29,ak,ak023fpzj1j8,2023-12-08T23:09:04.633Z,"52 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-08T23:04:05.037Z,58.2383,-155.147,35.1,0.5,ml,,,,0.37,ak,ak023fpzij1z,2023-12-08T23:05:57.964Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T15:00:41.220Z,34.0133333,-116.344,3,2.16,ml,62,36,0.06762,0.16,ci,ci40617584,2023-12-08T23:30:44.560Z,"14 km SSW of Joshua Tree, CA",earthquake,0.12,0.3,0.156,24,reviewed,ci,ci
 2023-12-08T14:53:41.010Z,33.184,-116.4133333,12.29,0.9,ml,30,71,0.08403,0.19,ci,ci40617576,2023-12-08T22:29:24.456Z,"9 km SSW of Borrego Springs, CA",earthquake,0.27,0.72,0.115,12,reviewed,ci,ci
 2023-12-08T14:53:30.180Z,33.183,-116.4093333,12.5,0.73,ml,23,134,0.08522,0.16,ci,ci40617568,2023-12-08T22:29:50.577Z,"9 km SSW of Borrego Springs, CA",earthquake,0.31,0.73,0.155,6,reviewed,ci,ci
-2023-12-08T14:49:00.491Z,51.2556,179.2842,35,3.9,mb,18,252,0.769,0.99,us,us7000lhg7,2023-12-08T19:21:48.150Z,"291 km WSW of Adak, Alaska",earthquake,10.04,2.024,0.149,14,reviewed,us,us
+2023-12-08T14:49:00.491Z,51.2556,179.2842,35,3.9,mb,18,252,0.769,0.99,us,us7000lhg7,2023-12-08T19:19:04.302Z,"291 km WSW of Adak, Alaska",earthquake,10.04,2.024,0.149,14,reviewed,us,us
 2023-12-08T14:41:54.960Z,19.0389995574951,-155.475997924805,36,2.18000007,md,35,198,,0.150000006,hv,hv73678467,2023-12-08T14:45:10.780Z,"11 km ESE of Naalehu, Hawaii",earthquake,0.73,0.959999979,1.09000003,3,automatic,hv,hv
 2023-12-08T14:16:41.050Z,19.3561668395996,-155.297332763672,2.15000009536743,1.88,ml,19,113,,0.189999998,hv,hv73678427,2023-12-08T14:22:10.430Z,"11 km SW of Volcano, Hawaii",earthquake,0.37,0.639999986,0.11,3,automatic,hv,hv
 2023-12-08T14:01:11.450Z,34.1433333,-116.8966667,12.19,0.98,ml,26,64,0.05937,0.12,ci,ci40617560,2023-12-08T21:47:54.890Z,"11 km S of Big Bear Lake, CA",earthquake,0.21,0.52,0.059,8,reviewed,ci,ci
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T07:56:12.309Z,44.2705,-115.1978,10,2.8,ml,22,67,0.301,0.74,us,us7000lh9m,2023-12-08T15:57:33.800Z,"21 km WNW of Stanley, Idaho",earthquake,2.26,2.012,0.047,60,reviewed,us,us
 2023-12-08T07:51:47.493Z,44.2584,-115.1704,10,2.9,ml,24,68,0.278,0.85,us,us7000lh9l,2023-12-08T15:44:20.940Z,"19 km WNW of Stanley, Idaho",earthquake,2.76,2.012,0.043,72,reviewed,us,us
 2023-12-08T07:47:38.890Z,31.8296667,-116.1876667,19.91,2,ml,14,75,0.2684,0.24,ci,ci40617488,2023-12-08T19:19:07.095Z,"38 km ENE of Maneadero, B.C., MX",earthquake,0.47,1.86,0.129,5,reviewed,ci,ci
-2023-12-08T07:46:28.910Z,44.2631,-115.1557,10,3.1,ml,25,67,0.272,1.03,us,us7000lh9j,2023-12-08T15:23:25.060Z,"18 km WNW of Stanley, Idaho",earthquake,2.43,2.01,0.037,96,reviewed,us,us
+2023-12-08T07:46:28.910Z,44.2631,-115.1557,10,3.1,ml,25,67,0.272,1.03,us,us7000lh9j,2023-12-08T23:40:58.308Z,"18 km WNW of Stanley, Idaho",earthquake,2.43,2.01,0.037,96,reviewed,us,us
 2023-12-08T07:42:17.809Z,35.08683333,-97.57083333,7.9,1.17,ml,56,60,0.04319152435,0.5,ok,ok2023xzpu,2023-12-08T12:46:48.170Z,"1 km S of Cole, Oklahoma",earthquake,,1,0.26,19,reviewed,ok,ok
 2023-12-08T07:34:42.700Z,38.8288345,-122.8154984,1.82,1.33,md,24,44,0.006889,0.02,nc,nc73973116,2023-12-08T09:45:13.269Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.39,0.15,26,automatic,nc,nc
 2023-12-08T07:25:07.560Z,34.1318333,-117.4886667,5,0.88,ml,33,54,0.04334,0.17,ci,ci40617480,2023-12-08T19:14:06.074Z,"5 km NW of Fontana, CA",earthquake,0.26,0.39,0.162,13,reviewed,ci,ci
@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T23:47:43.070Z,31.627,-104.512,6.8771,1.5,ml,9,76,0,0.2,tx,tx2023xzaf,2023-12-08T17:18:17.339Z,"62 km SSW of Whites City, New Mexico",earthquake,1.705431182,1.352433846,0.2,6,reviewed,tx,tx
 2023-12-07T23:46:32.047Z,31.632,-104.366,6.1316,1.7,ml,22,72,0.1,0.2,tx,tx2023xzac,2023-12-08T15:28:48.742Z,"60 km S of Whites City, New Mexico",earthquake,0.9357986559,1.005068842,0.1,6,reviewed,tx,tx
 2023-12-07T23:44:06.762Z,60.9099,-146.8664,20.4,1.8,ml,,,,0.64,ak,ak023foc7rc4,2023-12-07T23:46:07.881Z,"11 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-07T23:37:27.285Z,60.9336,-150.7233,40.6,1.6,ml,,,,0.45,ak,ak023foc6awo,2023-12-07T23:39:29.755Z,"2 km WNW of Point Possession, Alaska",earthquake,,1.8,,,automatic,ak,ak
