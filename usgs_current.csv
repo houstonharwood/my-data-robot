@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-09T22:47:46.340Z,33.1698341,-115.6498337,3.83,1.68,ml,13,148,0.02643,0.15,ci,ci40618392,2023-12-09T22:50:06.849Z,"14 km WNW of Calipatria, CA",earthquake,1.39,1.33,0.296,12,automatic,ci,ci
-2023-12-09T22:46:15.310Z,33.5149994,-116.4628296,7.48,1.37,ml,35,64,0.03213,0.17,ci,ci40618384,2023-12-09T22:48:27.110Z,"20 km ESE of Anza, CA",earthquake,0.31,0.85,0.187,14,automatic,ci,ci
+2023-12-09T22:47:46.300Z,33.1663333,-115.6506667,4.54,1.45,ml,31,52,0.02891,0.2,ci,ci40618392,2023-12-09T22:54:49.142Z,"14 km WNW of Calipatria, CA",earthquake,0.22,0.44,0.224,26,automatic,ci,ci
+2023-12-09T22:46:15.270Z,33.514,-116.4605,7.71,1.27,ml,50,42,0.03055,0.18,ci,ci40618384,2023-12-09T22:57:02.920Z,"20 km ESE of Anza, CA",earthquake,0.16,0.38,0.208,29,automatic,ci,ci
 2023-12-09T22:19:57.184Z,35.08950424,-97.57357025,2.808930635,2.16,ml,12,75.8637085,0.04571886733,0.529508313,ok,ok2023ycog,2023-12-09T22:25:06.220Z,"1 km S of Cole, Oklahoma",earthquake,3.193146881,2.526972049,0.25,8,automatic,ok,ok
+2023-12-09T22:12:19.880Z,18.0471666666667,-66.7816666666667,6.3,2.43,md,7,142,0.1173,0.24,pr,pr71433613,2023-12-09T22:53:34.960Z,"3 km NNE of Guayanilla, Puerto Rico",earthquake,0.59,0.72,0.101644799525308,3,reviewed,pr,pr
 2023-12-09T22:11:22.600Z,19.2534999847412,-155.40266418457,27.6100006103516,1.84000003,md,32,128,,0.109999999,hv,hv73680127,2023-12-09T22:14:39.450Z,"9 km NE of Pāhala, Hawaii",earthquake,0.61,0.939999998,1.12,8,automatic,hv,hv
 2023-12-09T22:07:50.180Z,33.7675,-116.9363333,13.5,0.98,ml,32,67,0.0482,0.13,ci,ci40618352,2023-12-09T22:15:36.146Z,"3 km SE of San Jacinto, CA",earthquake,0.17,0.53,0.136,20,automatic,ci,ci
 2023-12-09T22:05:57.950Z,33.1658333,-115.6523333,3.81,1.93,ml,50,32,0.03034,0.22,ci,ci40618344,2023-12-09T22:16:28.730Z,"14 km WNW of Calipatria, CA",earthquake,0.21,0.31,0.156,26,automatic,ci,ci
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T20:24:53.980Z,37.5781667,-118.8256667,1.06,0.3,md,9,279,0.01215,0.03,nc,nc71132089,2023-12-09T22:38:11.593Z,"13 km W of Toms Place, CA",earthquake,1.62,1.1,0.216,9,reviewed,nc,nc
 2023-12-09T20:24:34.270Z,39.3108333,-122.805,3.49,1.79,md,36,46,0.1563,0.13,nc,nc73973856,2023-12-09T22:18:12.352Z,"17 km SE of Lake Pillsbury, CA",earthquake,0.18,1.24,0.182,36,reviewed,nc,nc
 2023-12-09T20:20:37.540Z,32.7371667,-115.869,3.54,1.62,ml,24,48,0.1,0.22,ci,ci40618224,2023-12-09T20:27:01.138Z,"12 km E of Ocotillo, CA",earthquake,0.24,0.59,0.271,19,automatic,ci,ci
-2023-12-09T20:12:23.480Z,38.8144989,-122.819664,2.55,2.25,md,44,46,0.00932,0.06,nc,nc73973841,2023-12-09T20:56:11.833Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.28,0.16,48,automatic,nc,nc
+2023-12-09T20:12:23.480Z,38.8144989,-122.819664,2.55,2.25,md,44,46,0.00932,0.06,nc,nc73973841,2023-12-09T22:53:12.540Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.28,0.16,48,automatic,nc,nc
 2023-12-09T20:06:49.470Z,33.1678333,-115.6531667,3.26,2.53,ml,29,52,0.02985,0.21,ci,ci40618216,2023-12-09T20:17:24.622Z,"14 km WNW of Calipatria, CA",earthquake,0.33,0.45,0.146,30,automatic,ci,ci
 2023-12-09T20:06:36.960Z,33.1655,-115.6558333,3.24,2.34,ml,28,54,0.03298,0.21,ci,ci40618208,2023-12-09T20:13:35.608Z,"14 km WNW of Calipatria, CA",earthquake,0.61,0.87,0.109,3,automatic,ci,ci
 2023-12-09T20:05:40.083Z,36.0027,-115.6612,5.9,2,ml,8,341.92,0.702,0.3963,nn,nn00869934,2023-12-09T20:08:02.604Z,"20 km N of Sandy Valley, Nevada",earthquake,,29.4,0.18,7,automatic,nn,nn
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T23:11:22.730Z,35.1095,-97.57616667,4.9,1.26,ml,47,41,0.05758869913,0.52,ok,ok2023yaul,2023-12-08T23:34:06.872Z,"0 km NNW of Cole, Oklahoma",earthquake,,1.1,0.21,19,reviewed,ok,ok
 2023-12-08T23:06:44.523Z,57.7355,-155.2802,58.3,2.1,ml,,,,0.29,ak,ak023fpzj1j8,2023-12-08T23:09:04.633Z,"52 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-08T23:04:05.037Z,58.2383,-155.147,35.1,0.5,ml,,,,0.37,ak,ak023fpzij1z,2023-12-09T04:31:22.320Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-08T22:56:57.875Z,61.5978,-149.8531,31.2,2.7,ml,,,,0.43,ak,ak023fpz8crf,2023-12-09T00:21:50.056Z,"4 km SSW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
