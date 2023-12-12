@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-12T19:46:46.020Z,32.9205017,-116.2645035,9.84,2.87,ml,100,35,0.04717,0.25,ci,ci40620192,2023-12-12T19:48:58.251Z,"27 km ENE of Pine Valley, CA",earthquake,0.2,0.61,0.216,22,automatic,ci,ci
+2023-12-12T19:49:01.620Z,40.1756668,-121.0611649,10.8,2.05,md,8,212,0.1765,0.07,nc,nc73975256,2023-12-12T19:50:41.676Z,"1 km ENE of Canyondam, CA",earthquake,1.25,3.79,0.13,6,automatic,nc,nc
+2023-12-12T19:46:45.970Z,32.9208333,-116.2583333,10.16,2.8,ml,89,47,0.05068,0.22,ci,ci40620192,2023-12-12T19:54:03.289Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.41,0.124,25,automatic,ci,ci
 2023-12-12T19:42:32.810Z,38.8233337,-122.8518295,2.02,0.28,md,11,103,0.005762,0.02,nc,nc73975246,2023-12-12T19:44:06.802Z,"10 km WNW of The Geysers, CA",earthquake,0.3,0.83,0.17,11,automatic,nc,nc
 2023-12-12T19:39:00.990Z,35.056,-118.3458333,-0.95,1.24,ml,33,36,0.06534,0.21,ci,ci40620184,2023-12-12T19:47:18.643Z,"13 km SE of Tehachapi, CA",earthquake,0.31,0.62,0.117,16,automatic,ci,ci
 2023-12-12T19:37:17.400Z,35.5371667,-118.4726667,7.8,1.35,ml,29,37,0.1253,0.12,ci,ci40620176,2023-12-12T19:48:00.760Z,"6 km SSE of Bodfish, CA",earthquake,0.14,0.71,0.222,15,automatic,ci,ci
@@ -31,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T16:37:37.010Z,33.2676667,-116.7858333,12.04,1.12,ml,51,30,0.0389,0.17,ci,ci40620024,2023-12-12T16:44:03.205Z,"4 km NW of Lake Henshaw, CA",earthquake,0.15,0.5,0.137,22,automatic,ci,ci
 2023-12-12T16:21:27.020Z,38.8236656,-122.8056641,0.89,0.72,md,6,130,0.003455,0.02,nc,nc73975151,2023-12-12T17:35:11.114Z,"7 km NW of The Geysers, CA",earthquake,0.5,1.11,0.37,6,automatic,nc,nc
 2023-12-12T16:12:50.870Z,38.8126678,-122.8190002,2.72,0.8,md,16,59,0.00881,0.02,nc,nc73975146,2023-12-12T17:05:10.892Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.67,0.17,17,automatic,nc,nc
+2023-12-12T16:12:31.580Z,46.87766666666667,-121.95216666666667,9.76,0.96,ml,26,65,0.01082,0.14,uw,uw61976276,2023-12-12T19:49:27.710Z,"14 km NNE of Ashford, Washington",earthquake,0.35,0.49,0.18385572516479065,13,reviewed,uw,uw
 2023-12-12T16:07:14.124Z,9.7058,126.4709,51.29,4.7,mb,69,118,2.764,0.7,us,us7000lig5,2023-12-12T17:20:53.040Z,"39 km E of Union, Philippines",earthquake,10.95,6.589,0.073,56,reviewed,us,us
 2023-12-12T16:06:55.715Z,31.734,-104.106,6.4401,2.3,ml,24,65,0,0.2,tx,tx2023yhol,2023-12-12T18:39:08.006Z,"48 km W of Mentone, Texas",earthquake,0.5591248377,0.8124138591,0.2,12,reviewed,tx,tx
 2023-12-12T15:51:44.859Z,36.8777,-116.1305,5.9,0.4,ml,29,44.54,0.074,0.1187,nn,nn00870042,2023-12-12T18:17:35.082Z,"53 km NW of Indian Springs, Nevada",earthquake,,1.1,0.18,14,reviewed,nn,nn
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-11T20:06:33.500Z,38.8260002,-122.803833,1.43,1.7,md,34,38,0.005526,0.03,nc,nc73974706,2023-12-11T23:14:12.592Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.28,0.13,36,automatic,nc,nc
 2023-12-11T20:03:27.660Z,46.852666666666664,-121.7625,1.45,0.4,ml,15,85,0.02647,0.07,uw,uw61976116,2023-12-12T06:14:18.900Z,"23 km ENE of Ashford, Washington",earthquake,0.23,0.65,0.1693103871686426,7,reviewed,uw,uw
 2023-12-11T20:01:33.360Z,46.001,-112.477,-2,1.64,ml,10,167,0.05511,0.07,mb,mb90035898,2023-12-11T20:29:26.100Z,"4 km E of Butte, Montana",quarry blast,0.54,31.61,0.215669614854138,14,reviewed,mb,mb
-2023-12-11T19:49:26.700Z,34.6295,-116.4633333,1.91,1.44,ml,22,49,0.1695,0.16,ci,ci40619376,2023-12-11T21:50:19.638Z,"30 km WSW of Ludlow, CA",earthquake,0.22,0.87,0.12,15,reviewed,ci,ci
-2023-12-11T19:49:06.400Z,38.8188324,-122.7791672,0.98,1.1,md,19,78,0.00569,0.03,nc,nc73974701,2023-12-11T22:42:12.290Z,"5 km W of Cobb, CA",earthquake,0.22,0.35,0.18,18,automatic,nc,nc
