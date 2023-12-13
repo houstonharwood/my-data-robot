@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-13T19:10:04.590Z,36.8926659,-121.6353302,-0.13,2.23,md,9,90,0.03572,0.33,nc,nc73975681,2023-12-13T19:11:38.151Z,"1 km ENE of Aromas, CA",earthquake,1.01,3.07,0.19,8,automatic,nc,nc
 2023-12-13T18:19:58.890Z,61.4091,-147.7311,22.5,1.8,ml,,,,0.64,ak,ak023fy6bfe9,2023-12-13T18:21:44.009Z,"44 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-13T18:05:39.469Z,31.732,-104.106,5.8543,1.6,ml,17,64,0,0.5,tx,tx2023yjnw,2023-12-13T18:42:11.565Z,"48 km W of Mentone, Texas",earthquake,0,2.543667886,0.2,13,automatic,tx,tx
 2023-12-13T17:56:46.630Z,19.2188339233398,-155.449661254883,33.4799995422363,2.52999997,md,48,139,,0.119999997,hv,hv73683582,2023-12-13T18:02:17.320Z,"3 km ENE of Pāhala, Hawaii",earthquake,0.54,0.699999988,1.41999996,26,automatic,hv,hv
@@ -210,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T20:31:11.587Z,31.675,-104.388,7.0571,3.4,ml,44,57,0,0.2,tx,tx2023yhxe,2023-12-13T15:07:10.894Z,"55 km S of Whites City, New Mexico",earthquake,0.7664937551,0.9834142164,0.2,26,reviewed,tx,tx
 2023-12-12T20:30:30.940Z,32.7671667,-116.9005,2.73,1.48,ml,34,98,0.09541,0.22,ci,ci40620328,2023-12-12T20:37:06.734Z,"4 km NE of Rancho San Diego, CA",earthquake,0.29,0.45,0.117,17,automatic,ci,ci
 2023-12-12T20:30:19.418Z,31.675,-104.193,5.7717,1.9,ml,20,68,0.1,0.2,tx,tx2023yhxd,2023-12-13T16:41:45.412Z,"55 km NW of Toyah, Texas",earthquake,0.7719993888,1.616410593,0.1,7,reviewed,tx,tx
-2023-12-12T20:16:24.210Z,33.8471667,-117.49,2.38,1.24,ml,38,49,0.04777,0.16,ci,ci40620280,2023-12-12T20:27:15.800Z,"4 km SE of Home Gardens, CA",earthquake,0.17,0.23,0.261,31,automatic,ci,ci
+2023-12-12T20:16:24.030Z,33.8483333,-117.4866667,-0.51,1.21,ml,28,48,0.04639,0.27,ci,ci40620280,2023-12-13T19:06:18.370Z,"5 km SE of Home Gardens, CA",quarry blast,0.37,31.61,0.182,21,reviewed,ci,ci
 2023-12-12T20:14:03.270Z,38.8359985,-122.8000031,2.07,0.86,md,10,69,0.007918,0.01,nc,nc73975276,2023-12-12T20:31:14.131Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.09,0.23,11,automatic,nc,nc
 2023-12-12T20:13:23.280Z,34.8633333,-118.7826667,-1.17,1.41,ml,18,57,0.08652,0.21,ci,ci40620288,2023-12-13T18:59:11.355Z,"8 km ENE of Lebec, CA",quarry blast,0.43,31.61,0.077,9,reviewed,ci,ci
 2023-12-12T20:06:15.390Z,32.9253333,-116.2535,11.35,0.87,ml,30,48,0.0511,0.17,ci,ci40620256,2023-12-13T01:05:52.268Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.42,0.156,6,reviewed,ci,ci
@@ -229,11 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T19:20:09.910Z,19.1421661376953,-155.369827270508,29.1900005340576,1.70000005,md,30,195,,0.109999999,hv,hv73682127,2023-12-12T19:23:22.790Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.92,1.29999995,1.36000001,6,automatic,hv,hv
 2023-12-12T19:16:26.490Z,19.3858337402344,-155.250335693359,1.16999995708466,1.72,ml,11,89,,0.119999997,hv,hv73682117,2023-12-12T19:22:06.590Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.330000013,0.18,5,automatic,hv,hv
 2023-12-12T19:12:17.522Z,31.556,-104.016,7.7255,1.6,ml,10,65,0,0.1,tx,tx2023yhuq,2023-12-13T18:40:56.557Z,"34 km NW of Toyah, Texas",earthquake,1.036562435,1.116554606,0.1,9,reviewed,tx,tx
-2023-12-12T19:11:26.220Z,33.0523333,-114.9636667,-0.2,1.45,ml,15,63,0.08081,0.25,ci,ci40620168,2023-12-13T18:32:37.196Z,"45 km NNW of Los Algodones, B.C., MX",quarry blast,0.53,31.61,0.099,10,reviewed,ci,ci
-2023-12-12T19:06:47.670Z,38.7851677,-122.7333298,1.78,0.76,md,10,83,0.00328,0.02,nc,nc73975241,2023-12-12T19:47:17.853Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.64,0.21,10,automatic,nc,nc
-2023-12-12T19:04:43.120Z,32.9215,-116.2568333,10.52,1.91,ml,72,47,0.0512,0.2,ci,ci40620160,2023-12-13T01:08:01.160Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.38,0.136,26,reviewed,ci,ci
-2023-12-12T19:04:25.490Z,32.9265,-116.2543333,11.8,0.77,ml,17,93,0.04986,0.14,ci,ci40620144,2023-12-13T17:29:39.869Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.26,0.75,0.107,7,reviewed,ci,ci
-2023-12-12T19:04:03.380Z,46.5551666666667,-111.981166666667,-2,1.02,ml,11,65,0.05378,0.15,mb,mb90036108,2023-12-12T22:29:04.500Z,"1 km E of South Hills, Montana",quarry blast,0.83,31.61,0.522631733796863,7,reviewed,mb,mb
-2023-12-12T19:01:12.630Z,38.7835007,-122.732666,1.53,0.71,md,8,81,0.003183,0.03,nc,nc73975231,2023-12-12T19:26:12.754Z,"2 km ENE of The Geysers, CA",earthquake,0.33,0.75,0.24,7,automatic,nc,nc
-2023-12-12T19:00:15.660Z,46.3116666666667,-111.622666666667,-2,1.65,ml,8,92,0.3299,0.22,mb,mb90036103,2023-12-12T22:24:28.170Z,"7 km W of Townsend, Montana",quarry blast,0.8,31.61,0.317978904155862,14,reviewed,mb,mb
-2023-12-12T18:59:59.910Z,38.7540016,-122.7223358,12.2,1.03,md,12,142,0.007833,0.14,nc,nc73975226,2023-12-12T19:16:14.672Z,"4 km SW of Anderson Springs, CA",earthquake,1.19,2.12,0.18,10,automatic,nc,nc
