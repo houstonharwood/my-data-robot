@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-14T16:36:25.939Z,62.2757,-148.8745,35.7,1.7,ml,,,,0.66,ak,ak023fzsrhad,2023-12-14T16:39:23.325Z,"52 km ENE of Susitna North, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-12-14T16:34:13.348Z,65.0471,-147.0656,1.7,1.6,ml,,,,0.85,ak,ak023fzsr0wm,2023-12-14T16:36:31.184Z,"19 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-12-14T16:26:47.430Z,46.1975,-122.19566666666667,8.62,0.48,ml,11,82,0.004045,0.17,uw,uw61976616,2023-12-14T16:52:31.740Z,"37 km NNE of Amboy, Washington",earthquake,0.61,0.58,0.08886913983310177,7,reviewed,uw,uw
 2023-12-14T16:24:08.270Z,19.3339996337891,-155.28466796875,1.91999995708466,1.79999995,md,15,152,,0.239999995,hv,hv73685707,2023-12-14T16:27:06.850Z,"13 km SSW of Volcano, Hawaii",earthquake,0.47,0.629999995,1.26999998,10,automatic,hv,hv
 2023-12-14T16:21:27.628Z,14.2856,-92.823,51.343,5,mb,137,137,2.092,0.66,us,us7000lj2f,2023-12-14T16:38:40.040Z,"64 km SW of Puerto Madero, Mexico",earthquake,7.11,3.165,0.026,487,reviewed,us,us
 2023-12-14T16:09:53.097Z,31.636,-103.983,4.9296,1.8,ml,15,48,0,0.1,tx,tx2023ylfo,2023-12-14T16:26:23.993Z,"37 km WSW of Mentone, Texas",earthquake,0,1.261942935,0.2,11,automatic,tx,tx
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T09:39:06.450Z,19.3526668548584,-155.302505493164,-0.109999999403954,2.31,ml,31,63,,0.349999994,hv,hv73685012,2023-12-14T09:44:38.050Z,"12 km SW of Volcano, Hawaii",earthquake,0.29,0.409999996,2.86,15,automatic,hv,hv
 2023-12-14T09:36:22.660Z,19.2024993896484,-155.505661010742,37.0900001525879,1.89999998,md,33,77,,0.140000001,hv,hv73685007,2023-12-14T09:39:39.420Z,"2 km W of Pāhala, Hawaii",earthquake,0.65,1.26999998,0.579999983,11,automatic,hv,hv
 2023-12-14T09:35:08.970Z,38.831665,-122.8013306,1.69,0.27,md,8,88,0.01072,0.01,nc,nc73976016,2023-12-14T11:30:13.467Z,"7 km W of Cobb, CA",earthquake,0.44,1.19,0.17,8,automatic,nc,nc
-2023-12-14T09:29:44.089Z,-56.0214,-122.7493,10,4.9,mb,29,124,27.632,0.75,us,us7000livw,2023-12-14T10:41:30.040Z,"southern East Pacific Rise",earthquake,14.82,1.916,0.088,41,reviewed,us,us
+2023-12-14T09:29:44.202Z,-55.9959,-122.7509,10,5.5,mww,43,120,27.652,0.62,us,us7000livw,2023-12-14T16:56:26.040Z,"southern East Pacific Rise",earthquake,14.51,1.854,0.083,14,reviewed,us,us
 2023-12-14T09:18:16.364Z,60.837,-150.6223,2,1.5,ml,,,,0.55,ak,ak023fzohkg0,2023-12-14T09:21:18.674Z,"10 km SSE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-14T09:07:58.670Z,35.3300018,-118.6048355,4.75,1.38,ml,18,64,0.1203,0.14,ci,ci40443359,2023-12-14T09:19:12.210Z,"24 km ENE of Arvin, CA",earthquake,0.32,1.03,0.171,7,automatic,ci,ci
 2023-12-14T08:58:21.350Z,33.6334991,-116.7089996,16.61,1.25,ml,46,37,0.04592,0.14,ci,ci40443351,2023-12-14T09:09:21.900Z,"9 km NNW of Anza, CA",earthquake,0.27,0.44,0.278,11,automatic,ci,ci
@@ -255,6 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-13T17:09:21.050Z,45.0436666666667,-111.65,9.81,1.18,ml,17,112,0.2642,0.11,mb,mb90036238,2023-12-14T15:10:51.030Z,"34 km S of Ennis, Montana",earthquake,0.41,0.93,0.154400198629814,12,reviewed,mb,mb
 2023-12-13T17:05:10.740Z,32.938,-116.2165,10.4,0.8,ml,26,88,0.0749,0.18,ci,ci40442391,2023-12-14T00:54:46.879Z,"24 km SSW of Ocotillo Wells, CA",earthquake,0.25,0.63,0.248,7,reviewed,ci,ci
 2023-12-13T16:57:16.880Z,19.3753333333333,-155.282166666667,1.58,2.4,ml,22,95,,0.09,hv,hv73683487,2023-12-13T17:24:48.100Z,"9 km SW of Volcano, Hawaii",earthquake,0.17,0.19,0.161930908622243,9,reviewed,hv,hv
-2023-12-13T16:56:27.920Z,57.0541666666667,-135.7065,5.82,0.73,ml,5,100,,0.21,av,av91124408,2023-12-14T01:49:34.260Z,"22 km W of Sitka, Alaska",earthquake,1.2,0.74,0.235804532697341,4,reviewed,av,av
-2023-12-13T16:50:58.380Z,37.5708333,-118.8275,5.63,0.35,md,8,296,0.0192,0.01,nc,nc73975666,2023-12-13T20:04:10.897Z,"13 km W of Toms Place, CA",earthquake,3.36,3.55,0.158,8,reviewed,nc,nc
-2023-12-13T16:50:24.450Z,19.3596666666667,-155.301,2.18,2.92,ml,21,100,,0.09,hv,hv73683477,2023-12-13T23:26:09.040Z,"11 km SW of Volcano, Hawaii",earthquake,0.23,0.33,0.178743608062459,30,reviewed,hv,hv
