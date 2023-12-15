@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-15T22:41:28.796Z,38.1662,-118.2474,3.7,1.5,ml,9,153.89,0.22,0.2854,nn,nn00870208,2023-12-15T22:44:34.957Z,"27 km SSW of Mina, Nevada",earthquake,,26.1,0.29,7,automatic,nn,nn
 2023-12-15T22:26:56.380Z,38.8450012,-122.814003,1.49,1.56,md,28,46,0.01209,0.03,nc,nc73976741,2023-12-15T22:39:10.747Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.32,0.12,28,automatic,nc,nc
 2023-12-15T22:26:03.850Z,35.7055,-117.5603333,2.23,1.35,ml,28,58,0.1,0.15,ci,ci40445479,2023-12-15T22:32:01.957Z,"14 km NE of Ridgecrest, CA",earthquake,0.24,0.32,0.127,14,automatic,ci,ci
+2023-12-15T22:22:56.050Z,-36.1481,-9.8971,10,5.3,mb,38,85,20.445,0.54,us,us7000ljej,2023-12-15T22:43:49.040Z,"238 km ENE of Edinburgh of the Seven Seas, Saint Helena",earthquake,7.52,1.933,0.094,38,reviewed,us,us
 2023-12-15T22:11:39.314Z,31.556,-104.184,3.3437,1.6,ml,19,72,0.1,0.4,tx,tx2023ynmz,2023-12-15T22:38:22.252Z,"45 km NW of Toyah, Texas",earthquake,0,1.487713322,0.2,14,automatic,tx,tx
 2023-12-15T22:07:41.360Z,61.3021,-146.877,22.3,1.8,ml,,,,0.57,ak,ak023g1jp8uw,2023-12-15T22:09:28.814Z,"34 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-15T22:03:19.640Z,19.4513333333333,-155.591,39.84,2.42,md,22,45,,0.1,hv,hv73687357,2023-12-15T22:13:58.770Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.57,0.7,0.0981565271988276,9,reviewed,hv,hv
@@ -22,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-15T20:42:41.300Z,18.9953,-65.0011,26,3.95,ml,16,251,0.6431,0.3,pr,pr2023349003,2023-12-15T21:23:56.517Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.43,20.93,0,0,reviewed,pr,pr
 2023-12-15T20:30:06.500Z,19.2001667022705,-155.490997314453,31.2399997711182,2.19,ml,38,73,,0.119999997,hv,hv73687277,2023-12-15T20:35:36.330Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.59,0.860000014,5.11,3,automatic,hv,hv
 2023-12-15T20:28:47.450Z,38.7771683,-122.7158356,1.1,1.28,md,12,90,0.01575,0.04,nc,nc73976691,2023-12-15T20:52:14.110Z,"2 km W of Anderson Springs, CA",earthquake,0.26,0.6,0.15,13,automatic,nc,nc
+2023-12-15T20:27:06.140Z,33.4653333,-116.5583333,9.96,0.77,ml,21,51,0.04693,0.13,ci,ci37605404,2023-12-15T22:42:33.726Z,"15 km SE of Anza, CA",earthquake,0.21,0.47,0.098,10,reviewed,ci,ci
 2023-12-15T20:18:49.467Z,61.1336,-151.383,71.1,1.7,ml,,,,0.48,ak,ak023g1ikr5e,2023-12-15T20:21:05.641Z,"15 km WNW of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-12-15T20:16:11.990Z,33.8466667,-117.4861667,-0.51,1.48,ml,44,46,0.04499,0.24,ci,ci40445327,2023-12-15T22:23:26.057Z,"5 km SE of Home Gardens, CA",quarry blast,0.25,31.61,0.176,14,reviewed,ci,ci
 2023-12-15T20:00:49.020Z,46.017,-112.451166666667,-2,1.08,ml,7,206,0.07192,0.09,mb,mb90036348,2023-12-15T20:22:01.080Z,"6 km ENE of Butte, Montana",quarry blast,1.07,31.61,0.159118504581605,5,reviewed,mb,mb
@@ -224,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T22:56:48.930Z,37.4586667,-121.2558333,4.33,0.93,md,3,287,0.07641,0.07,nc,nc71132114,2023-12-15T21:14:14.239Z,"11 km SSW of Westley, CA",earthquake,1.06,31.61,0.072,3,reviewed,nc,nc
 2023-12-14T22:55:48.340Z,36.1103333,-117.8775,3.48,1.33,ml,20,118,0.01971,0.17,ci,ci40444455,2023-12-15T00:26:23.772Z,"10 km NE of Coso Junction, CA",earthquake,0.26,0.42,0.215,11,reviewed,ci,ci
 2023-12-14T22:54:22.312Z,38.1754,-118.1575,13.3,1.2,ml,9,115.99,0.138,0.1431,nn,nn00870167,2023-12-14T23:45:16.164Z,"24 km S of Mina, Nevada",earthquake,,2,0.21,6,reviewed,nn,nn
-2023-12-14T22:44:01.748Z,8.7581,127.3741,10,4.7,mb,61,119,2.444,0.62,us,us7000lj58,2023-12-14T23:12:33.040Z,"117 km E of Aras-asan, Philippines",earthquake,8.45,1.875,0.066,69,reviewed,us,us
