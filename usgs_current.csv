@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T18:10:18.100Z,38.8209991,-122.7908325,0.87,1.25,md,21,41,0.01107,0.03,nc,nc73978676,2023-12-20T21:10:10.484Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.34,0.2,20,automatic,nc,nc
 2023-12-20T18:07:43.960Z,31.673,-104.328,7.9311,2.7,ml,27,57,0.1,0.2,tx,tx2023ywim,2023-12-21T00:00:05.586Z,"55 km S of Whites City, New Mexico",earthquake,0.8371006663,1.032428824,0.2,21,reviewed,tx,tx
 2023-12-20T18:07:25.787Z,61.7024,-150.372,22,1.8,ml,,,,0.65,ak,ak023g9r07pe,2023-12-20T18:09:26.046Z,"18 km WSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-20T18:00:38.407Z,58.2714,-154.9605,3.6,1,ml,,,,0.24,ak,ak023g9qyqo0,2023-12-20T18:02:13.874Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-12-20T18:00:38.407Z,58.2714,-154.9605,3.6,1,ml,,,,0.24,ak,ak023g9qyqo0,2023-12-21T02:46:51.010Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-20T17:34:46.100Z,51.8025,-178.7995,6.57,1.01,ml,5,111,,0.14,av,av92159886,2023-12-20T19:14:03.140Z,"149 km W of Adak, Alaska",earthquake,0.64,0.86,0.0923028140772564,5,reviewed,av,av
 2023-12-20T17:34:40.247Z,64.2338,-149.9947,25,1.3,ml,,,,0.55,ak,ak023g9qkljs,2023-12-20T17:37:31.833Z,"39 km W of Clear, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-20T17:32:57.300Z,59.6798,-153.1304,104.8,2,ml,,,,0.19,ak,ak023g9qk7fm,2023-12-20T17:34:54.395Z,"56 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T17:30:47.330Z,38.911499,-123.0083313,3.79,1.63,md,15,83,0.08216,0.04,nc,nc73978671,2023-12-20T19:44:10.790Z,"12 km N of Cloverdale, CA",earthquake,0.62,1.57,0.18,16,automatic,nc,nc
 2023-12-20T17:03:30.180Z,38.9101677,-123.010498,3.46,1.61,md,21,68,0.08211,0.05,nc,nc73978661,2023-12-20T18:54:10.496Z,"12 km N of Cloverdale, CA",earthquake,0.31,1.75,0.21,23,automatic,nc,nc
 2023-12-20T17:03:05.700Z,19.1656665802002,-155.486831665039,32.2700004577637,1.70000005,md,28,153,,0.129999995,hv,hv73692322,2023-12-20T17:06:17.030Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.9,1.13999999,0.850000024,3,automatic,hv,hv
-2023-12-20T17:01:59.259Z,58.1019,-155.5795,16.4,0.9,ml,,,,0.56,ak,ak023g9qdkdx,2023-12-20T17:03:45.194Z,"89 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-12-20T17:01:59.259Z,58.1019,-155.5795,16.4,0.9,ml,,,,0.56,ak,ak023g9qdkdx,2023-12-21T02:42:28.420Z,"89 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-12-20T17:00:36.340Z,44.547333333333334,-117.42383333333333,-1.15,1.85,ml,7,152,0.3165,0.79,uw,uw61977416,2023-12-20T18:28:34.240Z,"25 km NNW of Huntington, Oregon",earthquake,3.9,2.91,0.09700742281373509,5,reviewed,uw,uw
 2023-12-20T16:57:21.150Z,48.2275,-123.16466666666666,45.48,1.35,ml,21,75,0.1858,0.2,uw,uw61977411,2023-12-20T18:19:05.600Z,"12 km NNW of Jamestown, Washington",earthquake,0.51,0.88,0.31796584592682353,12,reviewed,uw,uw
 2023-12-20T16:50:20.190Z,33.706,73.4118,10,2.6,mb_lg,11,226,0.132,0.88,us,us7000lker,2023-12-21T01:12:38.388Z,"10 km WSW of Kamra, Pakistan",earthquake,7.84,2.004,0.228,5,reviewed,us,us
@@ -269,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T02:51:30.504Z,51.7384,-174.5598,45.5,2,ml,,,,0.18,ak,ak023g9hqqnh,2023-12-20T14:44:51.377Z,"56 km SSW of Atka, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2023-12-20T02:51:13.740Z,44.1266666666667,-115.053333333333,10.65,1.87,ml,9,79,0.1503,0.27,mb,mb90036693,2023-12-20T15:36:15.010Z,"13 km SW of Stanley, Idaho",earthquake,0.57,1.17,0.309178904198636,11,reviewed,mb,mb
 2023-12-20T02:49:05.299Z,62.8688,-149.4329,55,1.9,ml,,,,0.6,ak,ak023g9hq8ip,2023-12-20T02:51:15.017Z,"57 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-20T02:46:22.240Z,38.8224983,-122.7998352,2.67,1.07,md,19,51,0.008048,0.02,nc,nc73978416,2023-12-20T03:10:16.396Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.52,0.18,21,automatic,nc,nc
-2023-12-20T02:46:21.808Z,44.1473,-115.018,10.376,2.7,ml,17,74,0.13,0.34,us,us7000lk8a,2023-12-20T15:08:54.030Z,"10 km SW of Stanley, Idaho",earthquake,1.97,5.277,0.039,87,reviewed,us,us
