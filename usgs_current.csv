@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-22T16:03:12.320Z,33.8919983,-116.762001,15.56,1.55,ml,56,40,0.02843,0.17,ci,ci40449575,2023-12-22T16:05:37.600Z,"4 km SE of Cabazon, CA",earthquake,0.21,0.56,0.19,22,automatic,ci,ci
 2023-12-22T15:38:26.370Z,38.8356667,-122.7733307,2.41,0.99,md,17,124,0.005835,0.03,nc,nc73979546,2023-12-22T15:52:10.665Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.52,0.23,18,automatic,nc,nc
 2023-12-22T15:33:11.590Z,38.8358345,-122.7731705,2.18,1.64,md,32,57,0.005929,0.02,nc,nc73979541,2023-12-22T15:49:13.648Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.31,0.13,33,automatic,nc,nc
 2023-12-22T15:23:39.120Z,19.2313327789307,-155.382171630859,32.7000007629395,1.99000001,md,36,154,,0.140000001,hv,hv73693672,2023-12-22T15:26:44.600Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,0.5,1.99000001,4,automatic,hv,hv
@@ -67,11 +68,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T09:09:45.960Z,38.7745018,-122.6996689,1.46,1.19,md,10,132,0.006323,0.02,nc,nc73979411,2023-12-22T12:48:10.617Z,"1 km W of Anderson Springs, CA",earthquake,0.3,0.43,0.2,10,automatic,nc,nc
 2023-12-22T09:01:45.690Z,17.949,-66.2823333333333,8.11,2.47,md,10,172,0.09157,0.5,pr,pr71434793,2023-12-22T09:26:31.370Z,"3 km SSE of Salinas, Puerto Rico",earthquake,1.53,3.5,0.137619548184775,8,reviewed,pr,pr
 2023-12-22T09:00:12.538Z,59.3428,-145.0986,19.8,3.3,ml,,,,0.34,ak,ak023gcwoh7p,2023-12-22T09:14:21.040Z,"138 km SSE of Cordova, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-12-22T08:41:55.705Z,31.713,-104.294,4.3446,1.6,ml,18,63,0,0.2,tx,tx2023yzgw,2023-12-22T09:19:50.356Z,"51 km S of Whites City, New Mexico",earthquake,0,1.213336316,0.2,13,automatic,tx,tx
+2023-12-22T08:41:55.531Z,31.719,-104.295,6.5943,1.7,ml,22,61,0.1,0.2,tx,tx2023yzgw,2023-12-22T16:06:22.563Z,"51 km S of Whites City, New Mexico",earthquake,0.6829801559,0.702819634,0.1,14,reviewed,tx,tx
 2023-12-22T08:40:48.266Z,63.2743,-151.021,6.2,1.7,ml,,,,0.53,ak,ak023gcwbp0a,2023-12-22T08:43:07.214Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-22T08:33:48.963Z,62.7535,-151.3818,6.6,2,ml,,,,0.68,ak,ak023gcwa71s,2023-12-22T08:36:42.700Z,"42 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-22T08:31:14.340Z,19.121166229248,-155.377670288086,30.7999992370605,1.95000005,md,44,188,,0.109999999,hv,hv73693397,2023-12-22T08:34:14.600Z,"13 km SE of Pāhala, Hawaii",earthquake,0.7,0.819999993,0.939999998,15,automatic,hv,hv
-2023-12-22T08:16:43.600Z,34.1695,-80.7185,2.43,2.19,md,13,62,0.03767,0.34,se,se60501453,2023-12-22T15:43:45.774Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.93,1.25,0.112032741928308,11,reviewed,se,se
+2023-12-22T08:16:43.600Z,34.1695,-80.7185,2.43,2.19,md,13,62,0.03767,0.34,se,se60501453,2023-12-22T16:03:34.134Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.93,1.25,0.112032741928308,11,reviewed,se,se
 2023-12-22T08:00:00.367Z,64.6146,-147.0066,15.6,0.9,ml,,,,0.28,ak,ak023gcw30o4,2023-12-22T08:02:21.052Z,"5 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-22T07:50:27.098Z,40.6266,-115.937,8.7,2.6,ml,7,110.96,0.543,0.147,nn,nn00870466,2023-12-22T14:10:01.040Z,"17 km SE of Carlin, Nevada",earthquake,,8.4,0.27,4,reviewed,nn,nn
 2023-12-22T07:46:01.530Z,38.8371658,-122.8073349,2.11,1.41,md,26,53,0.01333,0.02,nc,nc73979391,2023-12-22T10:17:11.771Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.39,0.13,27,automatic,nc,nc
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T16:21:51.115Z,-21.9025,-70.2778,55.281,5.7,mww,115,133,0.508,1.33,us,us7000lkpg,2023-12-22T12:39:40.809Z,"22 km NNW of Tocopilla, Chile",earthquake,3.16,5.974,0.078,16,reviewed,us,us
 2023-12-21T16:14:30.143Z,60.1923,-153.6267,186.8,2.5,ml,,,,0.41,ak,ak023gbde7b2,2023-12-21T23:01:35.040Z,"38 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-21T16:11:57.262Z,35.194,141.1741,27.383,4.9,mb,74,132,2.36,0.8,us,us7000lkpf,2023-12-21T16:35:14.040Z,"67 km SSE of Hasaki, Japan",earthquake,7.17,5.294,0.061,84,reviewed,us,us
-2023-12-21T15:57:42.460Z,41.8303333,-112.326,0.58,0.74,md,11,74,0.09893,0.16,uu,uu60556877,2023-12-21T16:25:30.850Z,"10 km ENE of Howell, Utah",earthquake,0.43,8.92,0.125,4,reviewed,uu,uu
