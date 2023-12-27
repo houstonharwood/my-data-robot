@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-27T23:12:22.710Z,38.8349991,-122.8170013,1.61,0.29,md,7,94,0.01279,0.01,nc,nc73981921,2023-12-27T23:13:56.617Z,"8 km W of Cobb, CA",earthquake,0.48,0.94,0.16,9,automatic,nc,nc
+2023-12-27T23:26:37.990Z,38.939167,-122.6200027,4.08,1.24,md,7,234,0.1776,0.16,nc,nc73981926,2023-12-27T23:28:11.922Z,"2 km SSE of Clearlake, CA",earthquake,3.84,12.36,0.2,5,automatic,nc,nc
+2023-12-27T23:12:22.710Z,38.8349991,-122.8170013,1.61,0.29,md,7,94,0.01279,0.01,nc,nc73981921,2023-12-27T23:24:11.413Z,"8 km W of Cobb, CA",earthquake,0.48,0.94,0.16,9,automatic,nc,nc
 2023-12-27T23:03:14.685Z,62.6675,-151.2381,88.5,2.1,ml,,,,0.48,ak,ak023glepxgs,2023-12-27T23:06:12.507Z,"30 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-27T23:01:07.050Z,19.1081666666667,-68.527,29.9,3.43,md,8,309,0.6065,0.16,pr,pr71435478,2023-12-27T23:20:01.920Z,"52 km NNE of Otra Banda, Dominican Republic",earthquake,3.27,12.35,0.159075862259537,7,reviewed,pr,pr
 2023-12-27T22:43:56.769Z,-7.7936,107.9423,71.557,5.1,mww,75,39,0.438,0.89,us,us6000m02j,2023-12-27T23:15:02.884Z,"52 km SSW of Singaparna, Indonesia",earthquake,7.36,2.591,0.086,13,reviewed,us,us
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T18:14:42.460Z,38.8354988,-122.8180008,1.16,0.58,md,8,82,0.01358,0.03,nc,nc73981841,2023-12-27T19:53:11.089Z,"8 km W of Cobb, CA",earthquake,0.38,0.58,0.17,7,automatic,nc,nc
 2023-12-27T18:13:31.340Z,19.2465000152588,-155.405166625977,29.5499992370605,1.82000005,md,33,130,,0.119999997,hv,hv73698377,2023-12-27T18:16:56.000Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.930000007,1.78999996,10,automatic,hv,hv
 2023-12-27T17:56:04.103Z,61.1931,-146.8367,7.2,1.8,ml,,,,0.47,ak,ak023glbgnyy,2023-12-27T17:58:33.060Z,"27 km WNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-27T23:17:01.195Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
+2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-27T23:22:15.885Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
 2023-12-27T17:41:46.768Z,61.377,-150.2192,44,1.9,ml,,,,0.3,ak,ak023glbdjis,2023-12-27T17:43:26.871Z,"13 km W of Point MacKenzie, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-12-27T17:31:15.350Z,19.3881664276123,-155.487503051758,5.63000011444092,1.88,md,42,55,,0.209999993,hv,hv73698357,2023-12-27T17:34:18.580Z,"20 km N of Pāhala, Hawaii",earthquake,0.32,0.829999983,0.74000001,17,automatic,hv,hv
 2023-12-27T17:25:29.390Z,35.9269981,-117.6825027,2.18,3.22,ml,50,61,0.112,0.18,ci,ci40451791,2023-12-27T21:41:57.175Z,"20 km E of Little Lake, CA",earthquake,0.21,0.44,0.28,23,reviewed,ci,ci
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-26T23:43:48.943Z,33.8063,138.2475,273.255,4.4,mb,66,77,0.871,0.8,us,us6000lzxy,2023-12-26T23:59:08.040Z,"88 km S of Ōyama, Japan",earthquake,8.38,6.256,0.06,80,reviewed,us,us
 2023-12-26T23:41:50.410Z,-21.0873,-178.6057,537.213,4.7,mb,46,83,3.177,1.02,us,us6000lzxw,2023-12-26T23:55:53.040Z,"Fiji region",earthquake,12.43,9.096,0.087,40,reviewed,us,us
 2023-12-26T23:29:23.070Z,38.7926674,-122.8095016,2.91,1.52,md,24,78,0.006637,0.03,nc,nc73981531,2023-12-27T01:31:10.485Z,"5 km WNW of The Geysers, CA",earthquake,0.26,0.45,0.17,26,automatic,nc,nc
-2023-12-26T23:28:39.950Z,33.9115,-116.8956667,11.05,1.25,ml,56,32,0.09282,0.15,ci,ci40451495,2023-12-27T17:08:53.185Z,"2 km SW of Banning, CA",earthquake,0.13,0.49,0.153,26,reviewed,ci,ci
