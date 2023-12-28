@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-28T09:00:23.395Z,62.0469,-148.7672,52.7,1.5,ml,,,,0.73,ak,ak023gmtwl0j,2023-12-28T09:01:49.710Z,"29 km N of Sutton-Alpine, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-28T08:52:31.650Z,19.170166015625,-155.480667114258,32.7799987792969,2,md,41,89,,0.129999995,hv,hv73699072,2023-12-28T08:55:35.530Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,0.930000007,0.779999971,11,automatic,hv,hv
 2023-12-28T08:37:45.550Z,35.5175018,-120.8033371,6.33,2.17,md,29,49,0.09554,0.04,nc,nc73982006,2023-12-28T08:53:14.836Z,"10 km WSW of Templeton, CA",earthquake,0.23,0.8,0.19,24,automatic,nc,nc
 2023-12-28T08:27:23.018Z,61.7645,-152.011,115.1,2.4,ml,,,,0.32,ak,ak023gmtgxpp,2023-12-28T08:33:15.567Z,"40 km SW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-12-28T08:21:34.831Z,62.2142,-148.1417,25.1,1.5,ml,,,,0.48,ak,ak023gmtfo1g,2023-12-28T08:24:13.531Z,"49 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -104,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T20:21:43.170Z,47.455,-113.538833333333,4.69,1.63,ml,15,158,0.2155,0.09,mb,mb90037268,2023-12-27T21:14:42.220Z,"15 km ESE of Condon, Montana",earthquake,0.49,6.33,0.178666181362477,7,reviewed,mb,mb
 2023-12-27T20:08:27.910Z,48.0701666666667,-115.189833333333,9.35,1.24,ml,10,135,0.3482,0.15,mb,mb90037263,2023-12-27T21:07:39.430Z,"3 km WSW of Happys Inn, Montana",earthquake,1.01,2.63,0.0499069393526694,3,reviewed,mb,mb
 2023-12-27T20:07:44.700Z,35.2405,-120.7813333,5.71,1.11,md,15,68,0.007486,0.05,nc,nc73981861,2023-12-27T22:22:15.044Z,"8 km NW of Avila Beach, CA",earthquake,0.25,0.32,0.187,11,reviewed,nc,nc
-2023-12-27T20:05:40.510Z,35.2355,-120.784,6.22,3.07,ml,50,111,0.003138,0.08,nc,nc73981856,2023-12-28T07:07:50.939Z,"8 km NW of Avila Beach, CA",earthquake,0.13,0.2,0.16,23,reviewed,nc,nc
+2023-12-27T20:05:40.510Z,35.2355,-120.784,6.22,3.07,ml,50,111,0.003138,0.08,nc,nc73981856,2023-12-28T09:03:56.307Z,"8 km NW of Avila Beach, CA",earthquake,0.13,0.2,0.16,23,reviewed,nc,nc
 2023-12-27T20:02:24.160Z,46.0148333333333,-112.460333333333,-2,1.82,ml,13,115,0.06544,0.1,mb,mb90037273,2023-12-27T21:23:20.640Z,"5 km ENE of Butte, Montana",quarry blast,0.38,31.61,0.197821108507635,17,reviewed,mb,mb
 2023-12-27T19:59:19.203Z,31.682,-104.296,4.3548,2.1,ml,18,66,0,0.2,tx,tx2023zjgr,2023-12-27T20:37:42.324Z,"55 km S of Whites City, New Mexico",earthquake,0,1.412986472,0.3,13,automatic,tx,tx
 2023-12-27T19:56:19.867Z,34.465,62.1217,7.508,4.3,mb,52,118,4.737,0.94,us,us6000m01w,2023-12-27T20:15:12.040Z,"14 km NNW of Herāt, Afghanistan",earthquake,4.67,5.249,0.093,33,reviewed,us,us
@@ -204,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T09:18:43.272Z,64.1426,-148.5871,9.4,1.8,ml,,,,0.57,ak,ak023gl6h4xz,2023-12-27T09:21:12.399Z,"29 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-27T09:18:01.587Z,61.3892,-149.475,33.6,1.7,ml,,,,0.36,ak,ak023gl6h1q6,2023-12-27T09:21:09.356Z,"9 km NNE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-27T09:16:38.780Z,44.9991666666667,-111.896,9.51,2.24,ml,48,42,0.2555,0.16,mb,mb90037183,2023-12-27T15:19:38.380Z,"32 km S of Virginia City, Montana",earthquake,0.19,0.75,0.244068386720382,32,reviewed,mb,mb
-2023-12-27T09:00:19.990Z,33.7081667,-116.8255,15.67,0.61,ml,35,98,0.08015,0.16,ci,ci40451615,2023-12-27T09:06:24.864Z,"8 km SE of Valle Vista, CA",earthquake,0.25,0.38,0.211,8,automatic,ci,ci
-2023-12-27T09:00:05.570Z,38.6829,73.6314,102.29,4.2,mb,24,125,1.632,0.31,us,us6000lzzm,2023-12-27T11:49:57.040Z,"64 km NNW of Murghob, Tajikistan",earthquake,7.79,4.752,0.176,9,reviewed,us,us
