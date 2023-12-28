@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-28T09:23:25.630Z,38.8146667,-122.8278351,1.78,0.74,md,8,91,0.005885,0.02,nc,nc73982021,2023-12-28T09:24:58.184Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.1,0.14,8,automatic,nc,nc
-2023-12-28T09:15:15.393Z,44.5796,148.9903,23.844,6.5,mww,119,49,4.611,1.07,us,us6000m05c,2023-12-28T09:32:54.040Z,"113 km SE of Kuril’sk, Russia",earthquake,7.98,4.633,0.078,16,reviewed,us,us
+2023-12-28T09:32:43.710Z,35.2036667,-118.6743333,3.57,1.12,ml,38,62,0.02979,0.2,ci,ci40452047,2023-12-28T09:39:20.274Z,"14 km E of Arvin, CA",earthquake,0.22,0.51,0.09,11,automatic,ci,ci
+2023-12-28T09:31:58.310Z,46.81416702270508,-120.55183410644531,9.85000038146973,1.88,md,19,58,,0.159999996,uw,uw61978196,2023-12-28T09:34:49.650Z,"14 km NE of Naches, Washington",earthquake,0.43,1.58000004,0.340000004,5,automatic,uw,uw
+2023-12-28T09:23:25.630Z,38.8146667,-122.8278351,1.78,0.74,md,8,91,0.005885,0.02,nc,nc73982021,2023-12-28T09:37:11.257Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.1,0.14,8,automatic,nc,nc
+2023-12-28T09:15:15.393Z,44.5796,148.9903,23.844,6.5,mww,119,49,4.611,1.07,us,us6000m05c,2023-12-28T09:38:10.450Z,"113 km SE of Kuril’sk, Russia",earthquake,7.98,4.633,0.078,16,reviewed,us,us
 2023-12-28T09:09:24.660Z,38.8175011,-122.7983322,2.42,1.3,md,29,33,0.009809,0.02,nc,nc73982011,2023-12-28T09:26:12.050Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.37,0.12,29,automatic,nc,nc
 2023-12-28T09:06:18.077Z,36.6956,-115.9031,7.8,0.6,ml,19,243.08,0.058,0.2267,nn,nn00870788,2023-12-28T09:08:11.480Z,"25 km NW of Indian Springs, Nevada",earthquake,,0.8,0.35,9,automatic,nn,nn
 2023-12-28T09:01:03.850Z,31.599,-103.959,5.7656,1.7,ml,16,70,0,0.5,tx,tx2023zkgl,2023-12-28T09:16:06.522Z,"35 km NNW of Toyah, Texas",earthquake,0,2.12757919,0.2,12,automatic,tx,tx
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T17:56:24.100Z,51.9316666666667,-177.1745,8.59,0.46,ml,4,256,,0.2,av,av92166456,2023-12-28T01:08:47.350Z,"37 km W of Adak, Alaska",earthquake,1.95,1.03,0.430773849266916,4,reviewed,av,av
 2023-12-27T17:56:04.103Z,61.1931,-146.8367,7.2,1.8,ml,,,,0.47,ak,ak023glbgnyy,2023-12-27T17:58:33.060Z,"27 km WNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-27T17:54:16.580Z,51.9465,-177.196333333333,7.02,0.81,ml,4,304,,0.05,av,av92166451,2023-12-28T00:46:04.550Z,"39 km WNW of Adak, Alaska",earthquake,0.95,0.53,0.450418638270896,4,reviewed,av,av
-2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T08:06:22.309Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
+2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T09:38:57.687Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
 2023-12-27T17:41:46.768Z,61.377,-150.2192,44,1.9,ml,,,,0.3,ak,ak023glbdjis,2023-12-27T17:43:26.871Z,"13 km W of Point MacKenzie, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-12-27T17:31:15.350Z,19.3881664276123,-155.487503051758,5.63000011444092,1.88,md,42,55,,0.209999993,hv,hv73698357,2023-12-27T17:34:18.580Z,"20 km N of Pāhala, Hawaii",earthquake,0.32,0.829999983,0.74000001,17,automatic,hv,hv
 2023-12-27T17:26:37.500Z,58.4138333333333,-154.770166666667,6.28,0.75,ml,14,147,,0.29,av,av92166436,2023-12-28T00:42:29.530Z,"95 km NNW of Karluk, Alaska",earthquake,0.67,1.08,0.180951111037007,14,reviewed,av,av
@@ -206,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T10:17:14.380Z,54.056,-166.242333333333,9.53,0.31,ml,13,153,,0.32,av,av92166221,2023-12-27T23:29:55.680Z,"27 km NE of Dutch Harbor, Alaska",earthquake,1.72,3.23,0.208787149433414,13,reviewed,av,av
 2023-12-27T09:57:29.790Z,33.944,-117.209,12.64,1.24,ml,68,60,0.0303,0.18,ci,ci40451623,2023-12-27T17:06:32.470Z,"3 km NE of Moreno Valley, CA",earthquake,0.14,0.35,0.184,25,reviewed,ci,ci
 2023-12-27T09:43:46.148Z,62.231,-150.9702,70.9,2,ml,,,,0.29,ak,ak023gl6mi2e,2023-12-27T09:46:02.767Z,"31 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-27T09:35:42.204Z,13.0587,-90.9055,37.627,4.6,mb,48,185,1.379,0.89,us,us6000lzzs,2023-12-27T09:58:39.040Z,"96 km S of Puerto San José, Guatemala",earthquake,8.24,8.488,0.04,192,reviewed,us,us
