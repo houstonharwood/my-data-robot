@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-28T05:39:38.445Z,60.4335,-147.4127,11.3,2.1,ml,,,,0.72,ak,ak023gmrr8ok,2023-12-28T05:41:40.690Z,"52 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-28T05:15:05.030Z,17.8618333333333,-66.8726666666667,12.43,2.33,md,8,249,0.1128,0.07,pr,pr71435523,2023-12-28T05:27:59.420Z,"12 km SSE of Guánica, Puerto Rico",earthquake,0.64,0.54,0.142814567095372,7,reviewed,pr,pr
 2023-12-28T04:58:32.800Z,34.0235,-116.743,13.27,1.22,ml,59,53,0.05504,0.16,ci,ci40451991,2023-12-28T05:04:55.162Z,"12 km NNE of Cabazon, CA",earthquake,0.14,0.33,0.154,27,automatic,ci,ci
 2023-12-28T04:57:36.350Z,19.1673336029053,-155.367004394531,30.4599990844727,2.47,ml,54,175,,0.129999995,hv,hv73698932,2023-12-28T05:05:55.040Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.51,0.660000026,3.16,14,automatic,hv,hv
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T17:56:24.100Z,51.9316666666667,-177.1745,8.59,0.46,ml,4,256,,0.2,av,av92166456,2023-12-28T01:08:47.350Z,"37 km W of Adak, Alaska",earthquake,1.95,1.03,0.430773849266916,4,reviewed,av,av
 2023-12-27T17:56:04.103Z,61.1931,-146.8367,7.2,1.8,ml,,,,0.47,ak,ak023glbgnyy,2023-12-27T17:58:33.060Z,"27 km WNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-27T17:54:16.580Z,51.9465,-177.196333333333,7.02,0.81,ml,4,304,,0.05,av,av92166451,2023-12-28T00:46:04.550Z,"39 km WNW of Adak, Alaska",earthquake,0.95,0.53,0.450418638270896,4,reviewed,av,av
-2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T05:30:45.146Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
+2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T05:41:18.656Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
 2023-12-27T17:41:46.768Z,61.377,-150.2192,44,1.9,ml,,,,0.3,ak,ak023glbdjis,2023-12-27T17:43:26.871Z,"13 km W of Point MacKenzie, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-12-27T17:31:15.350Z,19.3881664276123,-155.487503051758,5.63000011444092,1.88,md,42,55,,0.209999993,hv,hv73698357,2023-12-27T17:34:18.580Z,"20 km N of Pāhala, Hawaii",earthquake,0.32,0.829999983,0.74000001,17,automatic,hv,hv
 2023-12-27T17:26:37.500Z,58.4138333333333,-154.770166666667,6.28,0.75,ml,14,147,,0.29,av,av92166436,2023-12-28T00:42:29.530Z,"95 km NNW of Karluk, Alaska",earthquake,0.67,1.08,0.180951111037007,14,reviewed,av,av
@@ -209,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T05:56:46.440Z,19.2328338623047,-155.387161254883,32.310001373291,1.80999994,md,40,150,,0.109999999,hv,hv73697967,2023-12-27T05:59:58.390Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.68,1.03999996,1.15999997,8,automatic,hv,hv
 2023-12-27T05:53:25.700Z,37.7671661,-122.5598297,13.41,1.36,md,8,185,0.141,0.01,nc,nc73981636,2023-12-27T07:50:10.736Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.77,2.18,0.24,5,automatic,nc,nc
 2023-12-27T05:42:51.440Z,54.7473333333333,-164.087166666667,2,0.97,ml,7,102,,0.09,av,av92166036,2023-12-27T08:05:25.880Z,"45 km WSW of False Pass, Alaska",earthquake,0.34,0.77,0.357472941734276,8,reviewed,av,av
-2023-12-27T05:41:09.360Z,52.3211666666667,-174.1705,4.5,0.62,ml,5,137,,0.21,av,av91125843,2023-12-28T02:53:42.790Z,"14 km N of Atka, Alaska",earthquake,0.81,1.23,0.141589928049839,5,reviewed,av,av
-2023-12-27T05:39:05.490Z,18.0973333333333,-66.8355,18.31,2.14,md,6,106,0.1285,0.08,pr,pr71435433,2023-12-27T06:11:05.170Z,"7 km NNE of Yauco, Puerto Rico",earthquake,0.51,1.42,0.060819965583222,6,reviewed,pr,pr
-2023-12-27T05:37:35.929Z,54.7742,-164.1098,9.333,3.6,mb,41,109,0.01,0.67,us,us6000lzyx,2023-12-27T11:07:32.040Z,"45 km WSW of False Pass, Alaska",earthquake,4.93,5.633,0.224,5,reviewed,us,us
