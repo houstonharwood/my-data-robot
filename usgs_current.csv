@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-31T20:31:08.120Z,33.6850014,-116.7901688,15.73,1.17,ml,26,67,0.06853,0.09,ci,ci40453191,2023-12-31T20:33:25.603Z,"9 km SW of Idyllwild, CA",earthquake,0.31,0.49,0.113,5,automatic,ci,ci
-2023-12-31T20:28:15.230Z,33.6775017,-116.7969971,15.5,2.81,ml,108,14,0.06356,0.2,ci,ci40453183,2023-12-31T20:30:39.753Z,"10 km SW of Idyllwild, CA",earthquake,0.18,0.42,0.286,19,automatic,ci,ci
+2023-12-31T20:31:08.120Z,33.6826667,-116.7935,15.92,0.82,ml,40,41,0.06936,0.16,ci,ci40453191,2023-12-31T20:37:23.072Z,"9 km SW of Idyllwild, CA",earthquake,0.19,0.34,0.254,18,automatic,ci,ci
+2023-12-31T20:28:15.180Z,33.6773333,-116.7986667,15.63,2.52,ml,121,11,0.06252,0.2,ci,ci40453183,2023-12-31T20:39:20.210Z,"10 km SW of Idyllwild, CA",earthquake,0.11,0.26,0.207,25,automatic,ci,ci
 2023-12-31T20:24:01.040Z,33.6841667,-116.7915,15.46,0.74,ml,30,67,0.06987,0.16,ci,ci40453175,2023-12-31T20:30:34.832Z,"9 km SW of Idyllwild, CA",earthquake,0.27,0.42,0.088,11,automatic,ci,ci
-2023-12-31T20:17:44.060Z,39.010334,-123.3069992,3.68,2.99,md,36,52,0.03965,0.06,nc,nc73983491,2023-12-31T20:31:43.396Z,"5 km E of Boonville, CA",earthquake,0.18,0.63,0.12,46,automatic,nc,nc
-2023-12-31T20:08:10.640Z,38.7898331,-122.7698364,1.68,0.25,md,8,115,0.01337,0.01,nc,nc73983481,2023-12-31T20:24:11.257Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.81,0.03,8,automatic,nc,nc
-2023-12-31T19:59:56.060Z,38.8261681,-122.8113327,1.29,0.97,md,7,109,0.002938,0.01,nc,nc73983471,2023-12-31T20:17:18.067Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.77,0.15,8,automatic,nc,nc
+2023-12-31T20:17:44.060Z,39.010334,-123.3069992,3.68,2.99,md,36,52,0.03965,0.06,nc,nc73983491,2023-12-31T20:40:14.208Z,"5 km E of Boonville, CA",earthquake,0.18,0.63,0.12,46,automatic,nc,nc
+2023-12-31T20:08:10.640Z,38.7898331,-122.7698364,1.68,0.25,md,8,115,0.01337,0.01,nc,nc73983481,2023-12-31T20:40:14.328Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.81,0.03,8,automatic,nc,nc
+2023-12-31T19:59:56.060Z,38.8261681,-122.8113327,1.29,0.97,md,7,109,0.002938,0.01,nc,nc73983471,2023-12-31T20:40:15.333Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.77,0.15,8,automatic,nc,nc
 2023-12-31T19:49:51.130Z,31.606,-103.977,5.336,1.7,ml,16,59,0,0.2,tx,tx2023zqoj,2023-12-31T20:34:43.753Z,"36 km NNW of Toyah, Texas",earthquake,0,2.360170647,0.2,13,automatic,tx,tx
 2023-12-31T19:47:55.610Z,34.3431667,-118.3196667,6.49,1.27,ml,21,98,0.01556,0.08,ci,ci40453167,2023-12-31T19:55:40.766Z,"9 km NNE of Lake View Terrace, CA",earthquake,0.32,0.52,0.373,24,automatic,ci,ci
 2023-12-31T19:46:19.650Z,34.0666667,-117.2976667,16.78,1.88,ml,96,26,0.03059,0.16,ci,ci40453151,2023-12-31T19:57:01.810Z,"2 km ESE of Colton, CA",earthquake,0.12,0.25,0.283,27,automatic,ci,ci
@@ -256,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T20:43:24.833Z,44.3149,17.9067,10.533,4.7,mwr,128,15,0.675,0.81,us,us6000m0pp,2023-12-31T10:41:17.730Z,"9 km SSW of Željezno Polje, Bosnia and Herzegovina",earthquake,4.25,3.922,0.05,39,reviewed,us,us
 2023-12-30T20:42:16.932Z,61.58,-143.4202,66.9,1.1,ml,,,,0.52,ak,ak023gqbs198,2023-12-30T20:44:51.734Z,"31 km WNW of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-30T20:41:23.570Z,62.5564,-150.8595,73.9,1.7,ml,,,,0.72,ak,ak023gqbru11,2023-12-30T20:43:18.678Z,"8 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-30T20:37:07.003Z,59.5574,-153.0567,90.4,2,ml,,,,0.29,ak,ak023gqbqxvw,2023-12-30T20:38:53.351Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
