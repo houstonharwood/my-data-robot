@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T10:36:32.553Z,63.047,-151.8731,0,1.9,ml,,,,1.13,ak,ak0246sbi83,2024-01-04T10:40:44.005Z,"55 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-04T09:54:15.241Z,63.1977,-151.5078,4.8,3.6,ml,,,,0.95,ak,ak0246rtw8j,2024-01-04T10:40:02.040Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-04T09:48:30.786Z,31.597,-104.543,3.4451,2.6,ml,17,161,0.1,0.2,tx,tx2024agfx,2024-01-04T10:27:11.040Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.702386468,0.1,12,automatic,tx,tx
-2024-01-04T09:41:26.400Z,36.1199989,-120.0459976,4.48,2.3,md,18,144,0.1684,0.09,nc,nc73985006,2024-01-04T09:47:18.012Z,"10 km SSE of Huron, CA",earthquake,0.52,1.05,0.09,11,automatic,nc,nc
+2024-01-04T09:41:26.400Z,36.1199989,-120.0459976,4.48,2.3,md,18,144,0.1684,0.09,nc,nc73985006,2024-01-04T13:37:11.399Z,"10 km SSE of Huron, CA",earthquake,0.52,1.05,0.09,11,automatic,nc,nc
 2024-01-04T09:39:33.110Z,35.8983333,-117.6925,4.63,1.23,ml,28,62,0.1072,0.15,ci,ci40455087,2024-01-04T09:50:42.060Z,"20 km ESE of Little Lake, CA",earthquake,0.22,0.46,0.187,4,automatic,ci,ci
 2024-01-04T09:30:11.530Z,34.0111667,-116.344,3.37,0.88,ml,35,61,0.06941,0.17,ci,ci40455079,2024-01-04T09:36:11.451Z,"14 km SSW of Joshua Tree, CA",earthquake,0.2,0.65,0.084,12,automatic,ci,ci
 2024-01-04T09:28:03.782Z,31.335,-103.074,6.5461,1.7,ml,9,92,0,0.4,tx,tx2024agfh,2024-01-04T09:41:35.938Z,"10 km N of Coyanosa, Texas",earthquake,0,4.022418143,0.1,7,automatic,tx,tx
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T04:56:36.029Z,-21.146,-176.3885,187.944,5.6,mww,80,31,1.106,1.15,us,us6000m1ld,2024-01-04T07:00:05.793Z,"112 km W of Houma, Tonga",earthquake,9.7,5.699,0.098,10,reviewed,us,us
 2024-01-04T04:50:09.020Z,18.0251666666667,-66.7306666666667,15,2.56,md,14,126,0.05814,0.14,pr,pr71436188,2024-01-04T04:59:00.570Z,"3 km SSW of Peñuelas, Puerto Rico",earthquake,0.45,0.5,0.172971605184264,9,reviewed,pr,pr
 2024-01-04T04:36:22.870Z,38.833168,-122.8144989,1.67,0.84,md,17,54,0.01035,0.02,nc,nc73984951,2024-01-04T04:54:16.204Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.65,0.2,19,automatic,nc,nc
-2024-01-04T04:29:20.210Z,33.9915,-116.982,16.94,2.6,ml,118,19,0.06994,0.17,ci,ci40454935,2024-01-04T08:26:38.069Z,"7 km E of Calimesa, CA",earthquake,0.11,0.28,0.21,24,automatic,ci,ci
+2024-01-04T04:29:20.210Z,33.9915,-116.982,16.94,2.6,ml,118,19,0.06994,0.17,ci,ci40454935,2024-01-04T13:41:37.557Z,"7 km E of Calimesa, CA",earthquake,0.11,0.28,0.21,24,automatic,ci,ci
 2024-01-04T04:21:35.980Z,38.784832,-122.723999,1.6,0.73,md,8,85,0.01007,0,nc,nc73984941,2024-01-04T04:39:17.112Z,"3 km ENE of The Geysers, CA",earthquake,0.48,0.84,0.31,8,automatic,nc,nc
 2024-01-04T04:17:45.726Z,62.1781,-149.8117,10.4,1.9,ml,,,,0.64,ak,ak0246omv3g,2024-01-04T04:20:08.108Z,"2 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-04T04:10:10.159Z,31.671,-103.938,2.7713,1.8,mlv,5,185,0.1,0.6,tx,tx2024afuu,2024-01-04T04:41:25.829Z,"32 km W of Mentone, Texas",earthquake,0,3.345883981,0.4,5,automatic,tx,tx
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T14:00:00.510Z,39.2526,-119.9674,3.1,0.4,ml,5,164.82,0.067,0.1531,nn,nn00871252,2024-01-03T18:09:52.066Z,"0 km ENE of Incline Village, Nevada",earthquake,,6.5,0.33,2,reviewed,nn,nn
 2024-01-03T13:54:13.840Z,38.8204994,-122.8059998,2.57,0.96,md,18,45,0.0043,0.01,nc,nc73984771,2024-01-03T14:27:12.917Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.88,0.22,19,automatic,nc,nc
 2024-01-03T13:50:05.082Z,37.7922,-114.3021,5.3,1.3,ml,8,122.16,0.483,0.0663,nn,nn00871273,2024-01-04T00:37:56.047Z,"7 km E of Panaca, Nevada",earthquake,,5.3,0.38,6,reviewed,nn,nn
-2024-01-03T13:42:52.758Z,39.561,-119.8033,6.5,0.7,ml,10,110.37,0.023,0.1904,nn,nn00871248,2024-01-03T14:39:22.376Z,"3 km NNE of Reno, Nevada",earthquake,,1.3,0.05,2,reviewed,nn,nn
