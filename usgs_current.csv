@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-04T18:14:48.140Z,35.0016667,-119.1316667,15.62,2.28,ml,61,30,0.06906,0.25,ci,ci40455199,2024-01-04T18:25:21.780Z,"17 km N of Pine Mountain Club, CA",earthquake,0.22,0.72,0.131,27,automatic,ci,ci
+2024-01-04T18:09:08.890Z,31.713,-104.279,4.3098,2.2,ml,16,53,0,0.2,tx,tx2024agwl,2024-01-04T18:34:29.958Z,"52 km S of Whites City, New Mexico",earthquake,0,1.253252186,0.2,12,automatic,tx,tx
 2024-01-04T18:06:27.740Z,17.9866666666667,-66.9941666666667,9.48,1.29,md,4,156,0.05063,0.09,pr,pr71436233,2024-01-04T18:22:41.170Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.75,1.29,0.0547773435969556,3,reviewed,pr,pr
 2024-01-04T18:02:19.998Z,65.1692,-148.6076,6.7,2.1,ml,,,,0.41,ak,ak0246wvnv2,2024-01-04T18:04:41.705Z,"34 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-04T17:56:07.311Z,63.0624,-150.4782,28.6,2.1,ml,,,,1.6,ak,ak0246wlrx7,2024-01-04T17:58:54.456Z,"64 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -189,6 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T00:11:25.550Z,44.575,-110.741666666667,2.23,2.15,md,8,92,0.07663,0.2,uu,uu80000058,2024-01-04T14:52:52.570Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.58,31.61,0.406605494718276,4,reviewed,uu,uu
 2024-01-04T00:10:31.220Z,44.5855,-110.746,10.03,3.29,ml,24,56,0.07609,0.2,uu,uu80034111,2024-01-04T16:36:33.343Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.37,0.86,0.305989919885388,7,reviewed,uu,uu
 2024-01-04T00:06:36.740Z,41.0008333333333,-110.795833333333,14.36,1.22,md,14,106,0.1871,0.21,uu,uu80034106,2024-01-04T16:07:03.240Z,"32 km SSE of Evanston, Wyoming",earthquake,0.74,1.26,0.186028400260816,10,reviewed,uu,uu
+2024-01-03T23:59:06.120Z,33.5133333,-116.5385,9.45,0.57,ml,19,69,0.04449,0.1,ci,ci40454847,2024-01-04T18:27:57.080Z,"13 km ESE of Anza, CA",earthquake,0.24,0.44,0.109,8,reviewed,ci,ci
 2024-01-03T23:35:43.160Z,38.8293343,-122.8529968,2,0.91,md,15,64,0.003515,0.02,nc,nc73984886,2024-01-03T23:53:13.297Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.42,0.23,17,automatic,nc,nc
 2024-01-03T23:18:41.950Z,33.864,-117.5005,-0.44,1.21,ml,34,40,0.05173,0.24,ci,ci40454839,2024-01-04T18:22:49.481Z,"2 km SE of Home Gardens, CA",quarry blast,0.42,31.61,0.143,20,reviewed,ci,ci
 2024-01-03T22:39:17.750Z,34.2373333,-116.5805,2.17,1.06,ml,25,73,0.1313,0.11,ci,ci40454823,2024-01-04T01:09:58.732Z,"19 km NW of Yucca Valley, CA",earthquake,0.15,0.58,0.198,14,reviewed,ci,ci
@@ -235,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T18:51:12.627Z,62.624,-143.0375,33.1,2.2,ml,,,,0.97,ak,ak02459msv2,2024-01-03T18:53:32.877Z,"28 km N of Nabesna, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-01-03T18:48:04.720Z,38.7923317,-122.7271652,2.35,0.74,md,10,94,0.01176,0.01,nc,nc73984826,2024-01-03T19:14:11.603Z,"3 km ENE of The Geysers, CA",earthquake,0.33,1.35,0.08,10,automatic,nc,nc
 2024-01-03T18:39:38.271Z,39.2724,-119.9922,7.8,0.8,ml,7,65.4,0.04,0.1468,nn,nn00871275,2024-01-04T00:47:16.366Z,"2 km NW of Incline Village, Nevada",earthquake,,2,0.3,4,reviewed,nn,nn
-2024-01-03T18:31:42.270Z,18.0001666666667,-67.0518333333333,13.63,1.67,md,6,111,0.03142,0.05,pr,pr71436128,2024-01-03T18:43:28.670Z,"2 km NNW of La Parguera, Puerto Rico",earthquake,0.5,0.5,0.2195942191279,5,reviewed,pr,pr
