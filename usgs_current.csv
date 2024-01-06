@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-06T13:43:05.684Z,63.2137,-151.1193,0,2.1,ml,,,,0.74,ak,ak024a57y20,2024-01-06T13:45:26.664Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-06T13:35:15.620Z,38.8048325,-122.8170013,2.87,1.06,md,13,67,0.01033,0.02,nc,nc73985736,2024-01-06T13:46:10.968Z,"6 km WNW of The Geysers, CA",earthquake,0.35,0.82,0.26,14,automatic,nc,nc
-2024-01-06T13:18:42.850Z,38.8063316,-122.8178329,2.82,1.1,md,21,58,0.009219,0.02,nc,nc73985726,2024-01-06T13:35:15.889Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.5,0.15,22,automatic,nc,nc
+2024-01-06T13:35:15.620Z,38.8048325,-122.8170013,2.87,1.06,md,13,67,0.01033,0.02,nc,nc73985736,2024-01-06T13:52:16.001Z,"6 km WNW of The Geysers, CA",earthquake,0.35,0.82,0.26,14,automatic,nc,nc
+2024-01-06T13:18:42.850Z,38.8063316,-122.8178329,2.82,1.1,md,21,58,0.009219,0.02,nc,nc73985726,2024-01-06T13:52:15.001Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.5,0.15,22,automatic,nc,nc
 2024-01-06T13:15:03.060Z,36.6825,-116.2683,0,0.1,ml,10,142.02,0.063,0.264,nn,nn00871377,2024-01-06T13:16:51.789Z,"50 km ESE of Beatty, Nevada",earthquake,,2.1,0.11,5,automatic,nn,nn
 2024-01-06T12:33:03.460Z,-24.3624,-115.9325,10,5.1,mb,49,83,40.062,0.81,us,us6000m27f,2024-01-06T12:51:02.040Z,"southern East Pacific Rise",earthquake,13.33,1.894,0.052,120,reviewed,us,us
 2024-01-06T12:31:21.994Z,63.5122,-147.7903,19.6,1.6,ml,,,,0.27,ak,ak024a4jz47,2024-01-06T12:33:16.333Z,"59 km ENE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-06T12:05:06.244Z,31.676,-104.465,10.8249,2,ml,7,70,0,0.6,tx,tx2024akbl,2024-01-06T12:21:37.145Z,"56 km S of Whites City, New Mexico",earthquake,0,3.755479243,0.2,7,automatic,tx,tx
 2024-01-06T12:00:07.300Z,64.5798,-145.315,12,1.6,ml,,,,1.09,ak,ak024a4dasa,2024-01-06T12:01:55.690Z,"54 km NNE of Big Delta, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-06T11:51:35.126Z,-2.24,-79.7894,72.498,4.4,mb,22,136,1.181,0.58,us,us6000m26z,2024-01-06T12:37:16.086Z,"10 km SE of Eloy Alfaro, Ecuador",earthquake,5.09,12.643,0.134,16,reviewed,us,us
-2024-01-06T11:46:32.787Z,3.116,65.4845,10,5.6,mww,94,36,8.485,1.04,us,us6000m26y,2024-01-06T12:04:06.167Z,"Carlsberg Ridge",earthquake,9.91,1.831,0.089,12,reviewed,us,us
+2024-01-06T11:46:32.787Z,3.116,65.4845,10,5.6,mww,94,36,8.485,1.04,us,us6000m26y,2024-01-06T13:49:55.661Z,"Carlsberg Ridge",earthquake,9.91,1.831,0.089,12,reviewed,us,us
 2024-01-06T11:43:01.342Z,60.3537,-141.8048,7.9,1.9,ml,,,,0.34,ak,ak024a412ie,2024-01-06T11:45:21.513Z,"134 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-06T11:31:36.050Z,35.6521667,-117.4838333,5.29,1.02,ml,28,58,0.05064,0.14,ci,ci40456191,2024-01-06T11:37:25.319Z,"15 km SSW of Searles Valley, CA",earthquake,0.21,0.33,0.153,7,automatic,ci,ci
 2024-01-06T11:19:37.720Z,38.8264999,-122.7634964,1.74,0.89,md,10,131,0.006391,0.01,nc,nc73985721,2024-01-06T12:20:11.464Z,"4 km W of Cobb, CA",earthquake,0.36,0.54,0.22,13,automatic,nc,nc
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T14:08:39.650Z,19.1925,-155.494333333333,34.86,2.69,ml,38,148,,0.1,hv,hv73710367,2024-01-05T22:11:16.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.46,0.59,0.199061260873301,22,reviewed,hv,hv
 2024-01-05T14:07:56.820Z,19.2211666666667,-155.503833333333,32.64,1.48,md,18,177,,0.1,hv,hv73710362,2024-01-05T22:13:27.950Z,"3 km NW of Pāhala, Hawaii",earthquake,0.7,0.81,0.0489415778258985,10,reviewed,hv,hv
 2024-01-05T14:03:18.083Z,61.4217,-150.0179,31.1,2,ml,,,,0.72,ak,ak0248i1hhc,2024-01-05T14:05:10.315Z,"7 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-05T13:51:24.580Z,46.85216666666667,-121.99366666666667,7.45,1.04,ml,25,81,0.03142,0.12,uw,uw61978961,2024-01-05T19:05:03.460Z,"10 km NNE of Ashford, Washington",earthquake,0.24,0.51,0.17701356287500458,13,reviewed,uw,uw
