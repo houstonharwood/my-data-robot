@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-12T20:31:57.976Z,62.8541,-148.5679,51.5,1.9,ml,,,,0.93,ak,ak024k6jlj4,2024-01-12T20:35:15.987Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-12T20:07:40.740Z,36.7985001,-121.5383301,6.85,2.04,md,43,36,0.02927,0.15,nc,nc73988396,2024-01-12T20:17:11.300Z,"5 km S of San Juan Bautista, CA",earthquake,0.29,0.45,0.17,39,automatic,nc,nc
+2024-01-12T20:07:40.740Z,36.7985001,-121.5383301,6.85,2.04,md,43,36,0.02927,0.15,nc,nc73988396,2024-01-12T20:46:13.468Z,"5 km S of San Juan Bautista, CA",earthquake,0.29,0.45,0.17,39,automatic,nc,nc
 2024-01-12T20:01:22.963Z,36.75,-115.411,4.1,1.2,ml,15,191.36,0.319,0.284,nn,nn00871655,2024-01-12T20:03:34.618Z,"30 km NE of Indian Springs, Nevada",earthquake,,2.2,0.35,9,automatic,nn,nn
 2024-01-12T19:45:21.433Z,62.578,-151.2217,79.1,2,ml,,,,0.71,ak,ak024k613an,2024-01-12T19:47:36.807Z,"25 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-12T19:27:26.013Z,63.5669,-150.8315,7.4,2.8,ml,,,,0.57,ak,ak024k5x8rd,2024-01-12T19:29:11.704Z,"44 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T18:42:26.980Z,33.317,-116.2356667,6.09,0.8,ml,26,107,0.07667,0.16,ci,ci40458631,2024-01-12T18:48:25.891Z,"15 km ENE of Borrego Springs, CA",earthquake,0.26,0.79,0.142,10,automatic,ci,ci
 2024-01-12T18:41:17.960Z,38.8390007,-122.8379974,1.91,0.93,md,16,112,0.002003,0.02,nc,nc73988346,2024-01-12T18:59:17.834Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.46,0.28,18,automatic,nc,nc
 2024-01-12T18:27:48.808Z,35.9459,-115.0218,12.5,1.5,ml,8,342.72,1.102,0.2452,nn,nn00871649,2024-01-12T18:30:32.975Z,"11 km SSW of Henderson, Nevada",earthquake,,3.9,1.04,4,automatic,nn,nn
-2024-01-12T18:26:20.520Z,33.9178333,-116.7161667,11.04,0.6,ml,19,73,0.1078,0.09,ci,ci40458623,2024-01-12T18:32:16.622Z,"7 km E of Cabazon, CA",earthquake,0.17,0.48,0.162,9,automatic,ci,ci
+2024-01-12T18:26:20.620Z,33.9156667,-116.716,9.89,0.61,ml,16,74,0.1062,0.12,ci,ci40458623,2024-01-12T20:46:22.845Z,"7 km E of Cabazon, CA",earthquake,0.24,0.66,0.076,5,reviewed,ci,ci
 2024-01-12T18:20:14.100Z,38.8303337,-122.803833,1.32,0.93,md,10,74,0.008472,0.01,nc,nc73988341,2024-01-12T18:47:19.760Z,"7 km W of Cobb, CA",earthquake,0.37,1.1,0.22,12,automatic,nc,nc
 2024-01-12T18:13:31.250Z,45.7208333333333,-112.133333333333,2.36,0.35,ml,5,174,0.1142,0.07,mb,mb90038538,2024-01-12T19:15:42.490Z,"16 km S of Whitehall, Montana",earthquake,0.93,1.12,0.146075335857118,2,reviewed,mb,mb
 2024-01-12T18:12:14.009Z,56.6483,-157.8081,127.7,2.8,ml,,,,1.17,ak,ak024k58khk,2024-01-12T18:51:19.040Z,"53 km NE of Chignik, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T12:10:22.737Z,37.1818,136.8656,9.855,4.5,mb,50,68,1.247,0.61,us,us6000m39q,2024-01-12T12:30:07.040Z,"6 km SSW of Anamizu, Japan",earthquake,4.79,4.386,0.099,30,reviewed,us,us
 2024-01-12T12:08:59.421Z,63.0706,-150.5458,107.2,1.7,ml,,,,0.22,ak,ak024k1n7hy,2024-01-12T12:11:13.288Z,"64 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-12T12:01:31.140Z,38.8066673,-122.814003,2.6,0.88,md,13,59,0.01206,0.02,nc,nc73988201,2024-01-12T13:39:15.686Z,"6 km WNW of The Geysers, CA",earthquake,0.3,0.76,0.17,13,automatic,nc,nc
-2024-01-12T12:00:03.480Z,39.0426667,-123.094,9.22,1.26,md,20,59,0.08824,0.06,nc,nc73988206,2024-01-12T20:17:12.400Z,"12 km SSE of Talmage, CA",earthquake,0.16,0.48,0.17,20,reviewed,nc,nc
+2024-01-12T12:00:03.480Z,39.0426667,-123.094,9.22,1.26,md,20,59,0.08824,0.06,nc,nc73988206,2024-01-12T20:46:13.592Z,"12 km SSE of Talmage, CA",earthquake,0.16,0.48,0.17,20,reviewed,nc,nc
 2024-01-12T11:53:20.330Z,33.265,-116.4385,3.38,1.27,ml,72,24,0.01816,0.2,ci,ci40458487,2024-01-12T16:26:21.787Z,"6 km W of Borrego Springs, CA",earthquake,0.14,0.26,0.153,27,reviewed,ci,ci
 2024-01-12T11:51:47.950Z,44.6823333333333,-112.099833333333,2.91,1.13,ml,16,110,0.2283,0.2,mb,mb90038508,2024-01-12T15:50:52.710Z,"36 km N of Spencer, Idaho",earthquake,0.54,1.76,0.190547877762215,9,reviewed,mb,mb
 2024-01-12T11:46:32.090Z,35.6498337,-121.0623322,4.69,1.46,md,12,115,0.08112,0.03,nc,nc73988196,2024-01-12T13:12:12.518Z,"10 km N of Cambria, CA",earthquake,0.37,1.13,0.07,6,automatic,nc,nc
@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T05:48:29.047Z,31.616,-104.096,6.2344,1.5,ml,21,64,0,0.2,tx,tx2024auoa,2024-01-12T18:53:47.756Z,"44 km NW of Toyah, Texas",earthquake,0.6136049482,0.5336413174,0.2,19,reviewed,tx,tx
 2024-01-12T05:28:46.760Z,19.2643337249756,-155.386001586914,29.6299991607666,2.02999997,md,37,148,,0.140000001,hv,hv73715027,2024-01-12T05:32:02.620Z,"11 km NE of Pāhala, Hawaii",earthquake,0.52,1.07000005,1.5,18,automatic,hv,hv
 2024-01-12T05:19:05.580Z,37.9841667,-122.7928333,9.03,1.08,md,20,196,0.0583,0.13,nc,nc73988121,2024-01-12T20:12:14.271Z,"10 km WSW of Lagunitas-Forest Knolls, CA",earthquake,0.37,0.54,0.324,16,reviewed,nc,nc
-2024-01-12T05:12:19.380Z,34.0066667,-116.7731667,16.6,0.48,ml,10,98,0.04042,0.1,ci,ci37612612,2024-01-12T20:41:48.817Z,"10 km N of Cabazon, CA",earthquake,0.33,0.59,0.027,6,reviewed,ci,ci
+2024-01-12T05:12:19.380Z,34.0066667,-116.7731667,16.6,0.48,ml,10,98,0.04042,0.1,ci,ci37612612,2024-01-12T20:42:29.018Z,"10 km N of Cabazon, CA",earthquake,0.33,0.59,0.027,6,reviewed,ci,ci
 2024-01-12T05:12:03.040Z,33.0501667,-116.3568333,13.83,1.12,ml,44,34,0.07349,0.16,ci,ci40458423,2024-01-12T20:33:59.810Z,"23 km S of Borrego Springs, CA",earthquake,0.16,0.48,0.116,18,reviewed,ci,ci
 2024-01-12T05:10:19.791Z,31.64,-104.505,6.774,2.2,ml,30,74,0,0.1,tx,tx2024aumu,2024-01-12T15:43:18.794Z,"60 km SSW of Whites City, New Mexico",earthquake,0.8317415889,0.5567570738,0.2,23,reviewed,tx,tx
 2024-01-12T05:06:55.150Z,45.724,-112.1235,6.35,0.36,ml,6,173,0.1071,0.06,mb,mb90038498,2024-01-12T15:35:55.100Z,"16 km S of Whitehall, Montana",earthquake,0.79,1.7,0.213220116617496,3,reviewed,mb,mb
