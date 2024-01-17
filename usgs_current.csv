@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-17T19:18:51.615Z,61.6497,-150.8308,60.7,1.7,ml,,,,0.43,ak,ak024sfk3rd,2024-01-17T19:20:49.371Z,"20 km NW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-01-17T18:49:57.080Z,51.9241666666667,179.526,4.59,0.73,ml,4,243,,0.13,av,av92182676,2024-01-17T19:34:02.690Z,"264 km W of Adak, Alaska",earthquake,1.27,2.02,0.252822714181323,4,reviewed,av,av
 2024-01-17T18:48:45.150Z,17.8718333333333,-66.8268333333333,15.43,2.51,md,8,246,0.1141,0.06,pr,pr71437113,2024-01-17T19:05:48.240Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,1.02,0.6,0.105735885218138,6,reviewed,pr,pr
 2024-01-17T18:39:26.290Z,51.9118333333333,179.559833333333,6.16,3.07,ml,7,125,,0.26,av,av92182666,2024-01-17T19:02:32.870Z,"262 km W of Adak, Alaska",earthquake,0.65,0.88,0.216318175563807,9,reviewed,av,av
 2024-01-17T18:32:27.630Z,33.6736667,-116.6961667,16.35,1.86,ml,82,23,0.01925,0.18,ci,ci40461607,2024-01-17T19:08:29.314Z,"8 km SSE of Idyllwild, CA",earthquake,0.13,0.24,0.2,26,automatic,ci,ci
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T17:58:58.580Z,38.7958336,-122.7836685,3.8,0.28,md,8,95,0.004249,0.02,nc,nc73990696,2024-01-17T18:16:14.166Z,"3 km NW of The Geysers, CA",earthquake,0.94,2,0.08,9,automatic,nc,nc
 2024-01-17T17:46:18.050Z,51.9126666666667,179.533666666667,9.91,0.97,ml,5,208,,0.16,av,av92182631,2024-01-17T19:16:33.380Z,"263 km W of Adak, Alaska",earthquake,0.84,1.27,0.204353831589933,5,reviewed,av,av
 2024-01-17T17:45:42.710Z,51.9048333333333,179.551833333333,10.79,0.83,ml,4,238,,0.08,av,av92182626,2024-01-17T19:14:01.850Z,"262 km W of Adak, Alaska",earthquake,1.72,0.71,0.10084830312936,4,reviewed,av,av
-2024-01-17T17:35:08.080Z,38.8400002,-122.8116684,1.85,0.72,md,18,58,0.01663,0.02,nc,nc73990691,2024-01-17T17:52:15.019Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.57,0.28,18,automatic,nc,nc
+2024-01-17T17:35:08.080Z,38.8400002,-122.8116684,1.85,0.72,md,18,58,0.01663,0.02,nc,nc73990691,2024-01-17T19:34:14.681Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.57,0.28,18,automatic,nc,nc
 2024-01-17T17:22:43.009Z,31.113,-103.274,2.4296,2,ml,17,65,0,0.2,tx,tx2024beol,2024-01-17T18:58:14.106Z,"24 km SW of Coyanosa, Texas",earthquake,1.144457165,1.136695094,0.2,11,reviewed,tx,tx
 2024-01-17T17:15:05.530Z,38.8073349,-122.7740021,1.11,0.77,md,8,112,0.00789,0.02,nc,nc73990686,2024-01-17T19:10:13.534Z,"4 km NNW of The Geysers, CA",earthquake,0.46,0.84,0.05,12,automatic,nc,nc
 2024-01-17T17:12:37.504Z,31.739,-104.603,2.0653,1.6,ml,13,204,0.1,0.6,tx,tx2024beod,2024-01-17T17:32:31.665Z,"52 km SSW of Whites City, New Mexico",earthquake,0,2.159278622,0.2,11,automatic,tx,tx
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T15:55:09.860Z,37.0789986,-121.8594971,5.33,1.43,md,8,127,0.1249,0.21,nc,nc73990661,2024-01-17T18:45:14.342Z,"5 km N of Day Valley, CA",earthquake,2.6,11.48,0.46,7,automatic,nc,nc
 2024-01-17T15:43:15.470Z,33.7876667,-116.0828333,4.76,1.08,ml,45,84,0.1159,0.12,ci,ci40461471,2024-01-17T15:49:28.997Z,"14 km ENE of Indio, CA",earthquake,0.13,0.4,0.129,24,automatic,ci,ci
 2024-01-17T15:27:33.023Z,31.577,-103.96,4.5655,1.7,ml,15,65,0,0.4,tx,tx2024bekt,2024-01-17T16:14:06.886Z,"33 km NNW of Toyah, Texas",earthquake,0,1.242915006,0.1,13,automatic,tx,tx
-2024-01-17T15:21:40.760Z,31.672,-104.187,5.4121,1.9,ml,16,104,0.1,0.3,tx,tx2024bekm,2024-01-17T15:48:56.753Z,"54 km NW of Toyah, Texas",earthquake,0,3.448947779,0.2,12,automatic,tx,tx
+2024-01-17T15:21:40.766Z,31.667,-104.187,6.0287,2,ml,18,61,0.1,0.2,tx,tx2024bekm,2024-01-17T19:31:59.416Z,"54 km NW of Toyah, Texas",earthquake,1.022498727,1.419899336,0.2,11,reviewed,tx,tx
 2024-01-17T15:18:06.463Z,3.9487,95.8768,56.105,4.8,mb,44,71,1.66,0.95,us,us6000m47u,2024-01-17T17:36:32.040Z,"35 km SW of Meulaboh, Indonesia",earthquake,7.18,6.112,0.077,52,reviewed,us,us
 2024-01-17T15:10:05.100Z,18.3275,-66.6635,119.23,3.12,md,17,159,0.09178,0.15,pr,pr71437088,2024-01-17T19:04:28.831Z,"7 km NNE of Utuado, Puerto Rico",earthquake,1.58,0.81,0.0380875602475494,10,reviewed,pr,pr
 2024-01-17T14:51:11.230Z,38.8353348,-122.8161697,1.61,0.85,md,11,61,0.01543,0.01,nc,nc73990626,2024-01-17T17:07:14.752Z,"8 km W of Cobb, CA",earthquake,0.27,1.18,0.24,13,automatic,nc,nc
