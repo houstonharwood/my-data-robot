@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T05:43:41.300Z,36.8913345,-121.3021698,5.41,1.07,md,7,157,0.01132,0.05,nc,nc73992731,2024-01-23T06:23:13.975Z,"10 km ENE of Hollister, CA",earthquake,1.36,1.27,0.11,6,automatic,nc,nc
 2024-01-23T05:40:19.554Z,31.669,-104.187,4.3114,1.7,ml,18,104,0.1,0.5,tx,tx2024boqh,2024-01-23T05:57:27.175Z,"54 km NW of Toyah, Texas",earthquake,0,1.428793706,0.2,12,automatic,tx,tx
 2024-01-23T05:26:11.490Z,19.1818332672119,-155.483673095703,32.8699989318848,1.86000001,md,42,79,,0.109999999,hv,hv73725267,2024-01-23T05:31:14.800Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.62,0.699999988,,5,automatic,hv,hv
-2024-01-23T05:26:10.480Z,41.4946671,-124.2113342,34.28,4.31,mw,81,168,0.2462,0.2,nc,nc73992726,2024-01-23T07:22:53.955Z,"17 km WSW of Klamath, CA",earthquake,0.42,0.56,,3,reviewed,nc,nc
+2024-01-23T05:26:10.410Z,41.499,-124.2015,35.68,4.31,mw,74,163,0.2387,0.14,nc,nc73992726,2024-01-23T07:29:57.452Z,"16 km WSW of Klamath, CA",earthquake,0.39,0.34,,3,reviewed,nc,nc
 2024-01-23T05:23:06.665Z,63.5876,-150.8538,0,1.5,ml,,,,0.64,ak,ak024124h3d6,2024-01-23T05:24:58.877Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-23T05:18:10.051Z,57.9333,-156.1278,89.2,1.8,ml,,,,0.26,ak,ak024124g11p,2024-01-23T05:19:54.032Z,"80 km ESE of Egegik, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-01-23T05:14:35.710Z,64.4217,-146.6909,16.4,0.8,ml,,,,0.6,ak,ak024124f84c,2024-01-23T05:16:49.308Z,"7 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T03:00:20.380Z,35.8476677,-120.3943329,4.29,1.14,md,9,144,0.03697,0.01,nc,nc73992691,2024-01-23T03:49:13.038Z,"7 km SSE of Parkfield, CA",earthquake,0.6,0.81,0.01,2,automatic,nc,nc
 2024-01-23T02:59:00.702Z,63.166,-150.6344,117.8,1.9,ml,,,,0.44,ak,ak024122whva,2024-01-23T03:00:58.900Z,"68 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-23T02:52:06.270Z,31.664,-104.193,3.523,2.4,ml,18,68,0.1,0.5,tx,tx2024boku,2024-01-23T03:10:22.182Z,"54 km NW of Toyah, Texas",earthquake,0,1.299118904,0.2,11,automatic,tx,tx
-2024-01-23T02:50:55.750Z,38.7905006,-122.7611694,0.88,1.37,md,21,62,0.01017,0.03,nc,nc73992686,2024-01-23T03:39:12.989Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.39,0.18,20,automatic,nc,nc
+2024-01-23T02:50:55.750Z,38.7905006,-122.7611694,0.88,1.37,md,21,62,0.01017,0.03,nc,nc73992686,2024-01-23T07:27:12.320Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.39,0.18,20,automatic,nc,nc
 2024-01-23T02:45:40.190Z,19.1765003204346,-155.489837646484,29.6599998474121,2.04999995,md,27,196,,0.119999997,hv,hv73725177,2024-01-23T02:48:57.010Z,"3 km SSW of Pāhala, Hawaii",earthquake,1.18,1.12,0.230000004,5,automatic,hv,hv
 2024-01-23T02:36:41.401Z,36.5626,-115.9081,16,0.3,ml,12,317.13,0.108,0.2484,nn,nn00872139,2024-01-23T02:38:15.263Z,"21 km W of Indian Springs, Nevada",earthquake,,0.5,0.29,4,automatic,nn,nn
 2024-01-23T02:32:51.780Z,19.3055,-155.243333333333,6.25,1.98,ml,33,103,,0.09,hv,hv73725152,2024-01-23T03:47:28.570Z,"15 km S of Volcano, Hawaii",earthquake,0.27,0.55,0.158931287843284,15,reviewed,hv,hv
@@ -284,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T07:35:29.293Z,63.2739,-151.2858,6,1.4,ml,,,,0.67,ak,ak02410i78ec,2024-01-22T07:39:42.027Z,"36 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-22T07:35:10.796Z,63.2038,-146.2543,71.2,1.8,ml,,,,1.39,ak,ak02410i76zr,2024-01-22T07:37:23.666Z,"34 km WNW of Paxson, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-01-22T07:31:17.600Z,35.7403333,-117.561,2.28,0.82,ml,24,65,0.1346,0.15,ci,ci40463959,2024-01-22T18:54:51.053Z,"14 km WSW of Searles Valley, CA",earthquake,0.22,0.6,0.108,5,reviewed,ci,ci
-2024-01-22T07:23:26.106Z,64.4814,-146.9599,1.5,1.1,ml,,,,0.8,ak,ak02410i4nky,2024-01-22T07:25:11.567Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
