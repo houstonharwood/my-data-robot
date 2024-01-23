@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-23T20:22:41.050Z,34.6941681,-117.517334,10.74,1.17,ml,12,190,0.6143,0.3,ci,ci39755482,2024-01-23T20:29:03.168Z,"16 km NW of Adelanto, CA",earthquake,1.31,12.12,0.219,8,automatic,ci,ci
 2024-01-23T20:19:34.051Z,36.3618,-115.672,2.8,1.5,ml,14,295.75,0.38,0.4084,nn,nn00872189,2024-01-23T20:21:43.179Z,"11 km NNW of Mount Charleston, Nevada",earthquake,,10,0.33,11,automatic,nn,nn
-2024-01-23T20:15:05.430Z,60.7064,-151.9105,69.4,1.4,ml,,,,0.19,ak,ak02412dcvm7,2024-01-23T20:17:02.100Z,"33 km WNW of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-01-23T20:14:31.970Z,36.2273330688477,-89.2375030517578,3.76999998092651,2.70000005,md,34,75,0.05827,0.219999999,nm,nm60566096,2024-01-23T20:19:54.340Z,"4 km WNW of Trimble, Tennessee",earthquake,0.54,0.430000007,0.699999988,25,reviewed,nm,nm
+2024-01-23T20:15:05.430Z,60.7064,-151.9105,69.4,1.4,ml,,,,0.19,ak,ak02412dcvm7,2024-01-23T20:36:05.549Z,"33 km WNW of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
+2024-01-23T20:14:31.930Z,36.2245,-89.2355,4.2,2.75,md,40,75,0.06143,0.22,nm,nm60566096,2024-01-23T20:34:23.490Z,"4 km WNW of Trimble, Tennessee",earthquake,0.5,0.39,0.0724856224193828,22,reviewed,nm,nm
 2024-01-23T20:11:50.090Z,38.8209991,-122.8518295,2.33,0.94,md,18,114,0.007632,0.02,nc,nc73993001,2024-01-23T20:24:10.757Z,"10 km WNW of The Geysers, CA",earthquake,0.26,0.43,0.19,19,automatic,nc,nc
 2024-01-23T20:04:37.240Z,38.8231659,-122.8008347,1.85,0.78,md,7,132,0.007221,0.01,nc,nc73992996,2024-01-23T20:16:10.718Z,"6 km NW of The Geysers, CA",earthquake,0.57,1.07,0.1,8,automatic,nc,nc
 2024-01-23T19:49:38.685Z,36.9299,-115.2936,1,1,ml,11,324.95,0.563,0.1778,nn,nn00872182,2024-01-23T19:51:56.055Z,"49 km SSW of Alamo, Nevada",earthquake,,47.7,0.07,4,automatic,nn,nn
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T05:43:41.300Z,36.8913345,-121.3021698,5.41,1.07,md,7,157,0.01132,0.05,nc,nc73992731,2024-01-23T06:23:13.975Z,"10 km ENE of Hollister, CA",earthquake,1.36,1.27,0.11,6,automatic,nc,nc
 2024-01-23T05:40:19.431Z,31.672,-104.19,6.1316,1.8,ml,27,61,0.1,0.2,tx,tx2024boqh,2024-01-23T13:56:26.397Z,"54 km NW of Toyah, Texas",earthquake,0.5676838587,0.6937142261,0.2,19,reviewed,tx,tx
 2024-01-23T05:26:11.490Z,19.1818332672119,-155.483673095703,32.8699989318848,1.86000001,md,42,79,,0.109999999,hv,hv73725267,2024-01-23T05:31:14.800Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.62,0.699999988,,5,automatic,hv,hv
-2024-01-23T05:26:10.410Z,41.499,-124.2015,35.68,4.33,mw,74,163,0.2387,0.14,nc,nc73992726,2024-01-23T20:01:01.901Z,"16 km WSW of Klamath, CA",earthquake,0.39,0.34,,3,reviewed,nc,nc
+2024-01-23T05:26:10.410Z,41.499,-124.2015,35.68,4.33,mw,74,163,0.2387,0.14,nc,nc73992726,2024-01-23T20:36:24.009Z,"16 km WSW of Klamath, CA",earthquake,0.39,0.34,,3,reviewed,nc,nc
 2024-01-23T05:23:06.665Z,63.5876,-150.8538,0,1.5,ml,,,,0.64,ak,ak024124h3d6,2024-01-23T05:24:58.877Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-23T05:21:00.230Z,54.7606666666667,-163.967666666667,-0.44,1.4,ml,6,78,,0.43,av,av92186651,2024-01-23T20:10:50.980Z,"37 km WSW of False Pass, Alaska",earthquake,0.81,1.67,0.0819675910623729,6,reviewed,av,av
 2024-01-23T05:18:10.051Z,57.9333,-156.1278,89.2,1.8,ml,,,,0.26,ak,ak024124g11p,2024-01-23T05:19:54.032Z,"80 km ESE of Egegik, Alaska",earthquake,,3.2,,,automatic,ak,ak
@@ -265,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T21:04:31.140Z,35.0468333,-117.6603333,-0.79,1.46,ml,19,61,0.116,0.15,ci,ci40464151,2024-01-23T00:40:53.466Z,"5 km N of Boron, CA",quarry blast,0.36,31.61,0.21,16,reviewed,ci,ci
 2024-01-22T20:57:13.712Z,41.3129,78.8283,10,4.9,mb,74,55,1.229,0.52,us,us7000lt11,2024-01-22T21:28:59.730Z,"116 km WNW of Aykol, China",earthquake,6.21,1.854,0.055,105,reviewed,us,us
 2024-01-22T20:46:23.670Z,32.3966667,-115.234,9.39,2.59,ml,24,46,0.06423,0.34,ci,ci40464143,2024-01-22T21:28:40.985Z,"6 km NW of Delta, B.C., MX",earthquake,0.41,1.11,0.188,14,reviewed,ci,ci
-2024-01-22T20:32:52.840Z,48.27033333333333,-124.87033333333333,-0.16,2.6,ml,23,191,0.1756,0.66,uw,uw61980726,2024-01-23T06:49:59.452Z,"21 km WSW of Neah Bay, Washington",earthquake,1.48,1.86,0.1199372468198252,16,reviewed,uw,uw
