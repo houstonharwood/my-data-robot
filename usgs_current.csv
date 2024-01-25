@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-25T22:28:29.460Z,35.7303333,-117.582,1.93,0.54,ml,17,85,0.1443,0.15,ci,ci39757226,2024-01-25T22:34:15.736Z,"15 km NE of Ridgecrest, CA",earthquake,0.31,0.57,0.044,5,automatic,ci,ci
 2024-01-25T22:20:00.360Z,33.9763336,-117.2298355,-0.23,1.16,ml,13,194,0.1162,0.31,ci,ci39757218,2024-01-25T22:26:24.188Z,"6 km N of Moreno Valley, CA",earthquake,0.94,1.99,0.117,3,automatic,ci,ci
 2024-01-25T22:11:53.120Z,40.3025017,-124.3679962,7.33,1.94,md,11,262,0.02398,0.06,nc,nc73993956,2024-01-25T22:28:13.501Z,"8 km WSW of Petrolia, CA",earthquake,1.62,0.61,0.12,8,automatic,nc,nc
-2024-01-25T22:08:04.240Z,13.0543,-89.5055,61.047,4.8,mb,34,193,0.599,1.1,us,us7000ltub,2024-01-25T22:26:55.494Z,"51 km SSW of La Libertad, El Salvador",earthquake,7.12,9.153,0.048,136,reviewed,us,us
+2024-01-25T22:08:05.362Z,13.23,-89.3653,80.769,4.7,mb,80,147,0.429,0.72,us,us7000ltub,2024-01-25T22:34:44.868Z,"28 km S of La Libertad, El Salvador",earthquake,6.98,6.462,0.03,345,reviewed,us,us
 2024-01-25T22:03:38.250Z,63.5142,-150.8569,1.8,1.5,ml,,,,0.64,ak,ak02415pjxqi,2024-01-25T22:07:06.586Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-25T22:01:05.677Z,-23.7161,-179.5071,532.237,4.7,mb,30,107,4.719,0.44,us,us7000ltu9,2024-01-25T22:19:27.040Z,"south of the Fiji Islands",earthquake,15.65,16.116,0.091,37,reviewed,us,us
-2024-01-25T21:58:48.342Z,36.0122,-115.5346,13.2,1.7,ml,13,227.09,0.657,0.5436,nn,nn00872351,2024-01-25T22:02:58.316Z,"12 km WSW of Blue Diamond, Nevada",earthquake,,1.4,0.25,10,automatic,nn,nn
 2024-01-25T21:43:56.970Z,38.8274994,-122.8539963,1.49,1.33,md,25,95,0.002247,0.04,nc,nc73993936,2024-01-25T22:01:14.337Z,"10 km WNW of The Geysers, CA",earthquake,0.21,0.31,0.11,26,automatic,nc,nc
 2024-01-25T21:39:59.640Z,33.9491667,-116.7548333,12.36,1.52,ml,50,65,0.09639,0.14,ci,ci39757162,2024-01-25T21:55:07.461Z,"5 km NE of Cabazon, CA",earthquake,0.13,0.39,0.213,27,automatic,ci,ci
 2024-01-25T21:22:45.180Z,38.8173332,-122.8261642,1.63,0.36,md,7,102,0.008775,0.01,nc,nc73993931,2024-01-25T21:39:14.199Z,"8 km NW of The Geysers, CA",earthquake,0.49,0.84,0.24,8,automatic,nc,nc
@@ -239,7 +239,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T03:52:21.590Z,32.9193333,-116.2383333,8.76,0.82,ml,34,45,0.06503,0.14,ci,ci39756426,2024-01-25T14:35:59.306Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.142,8,reviewed,ci,ci
 2024-01-25T03:49:42.630Z,38.821167,-122.8058319,1.71,0.94,md,19,64,0.003991,0.01,nc,nc73993601,2024-01-25T04:53:16.210Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.54,0.17,19,automatic,nc,nc
 2024-01-25T03:46:35.400Z,38.8343315,-122.7963333,2.04,1.35,md,28,44,0.006201,0.02,nc,nc73993596,2024-01-25T06:23:11.296Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.35,0.16,29,automatic,nc,nc
-2024-01-25T03:43:19.970Z,34.1116667,-117.3115,15.78,4.24,mw,170,15,0.0193,0.22,ci,ci39756418,2024-01-25T22:24:34.218Z,"3 km SW of San Bernardino, CA",earthquake,0.12,0.23,,6,reviewed,ci,ci
+2024-01-25T03:43:19.970Z,34.1116667,-117.3115,15.78,4.24,mw,170,15,0.0193,0.22,ci,ci39756418,2024-01-25T22:30:48.874Z,"3 km SW of San Bernardino, CA",earthquake,0.12,0.23,,6,reviewed,ci,ci
 2024-01-25T03:27:38.450Z,56.2226666666667,-159.1395,8.39,0.1,ml,4,187,,0.08,av,av91128258,2024-01-25T21:56:38.360Z,"23 km W of Chignik Lake, Alaska",earthquake,0.56,1,0.205493763957602,4,reviewed,av,av
 2024-01-25T03:23:04.160Z,33.6913333,-117.393,9.29,0.95,ml,18,77,0.05036,0.13,ci,ci39756410,2024-01-25T15:53:56.808Z,"7 km WNW of Lake Elsinore, CA",earthquake,0.24,0.47,0.485,2,reviewed,ci,ci
 2024-01-25T03:14:35.510Z,38.8413315,-122.82267,1.79,0.58,md,11,90,0.01038,0.01,nc,nc73993581,2024-01-25T05:39:15.035Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.81,0.39,11,automatic,nc,nc
@@ -302,4 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T22:53:15.579Z,64.4827,-146.9299,1.1,0.9,ml,,,,0.86,ak,ak024142b9b9,2024-01-24T22:55:06.844Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-24T22:49:05.739Z,57.3259,-156.6277,14.1,2.1,ml,,,,0.84,ak,ak024142adkm,2024-01-24T23:02:11.879Z,"50 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-24T22:38:21.050Z,38.8031654,-122.7939987,3.3,0.94,md,18,44,0.004903,0.03,nc,nc73993511,2024-01-24T22:58:13.466Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.57,0.22,19,automatic,nc,nc
-2024-01-24T22:36:24.550Z,45.074,-111.734,-2,1.19,ml,8,154,0.2691,0.22,mb,mb90039203,2024-01-24T23:25:39.680Z,"29 km SE of Virginia City, Montana",quarry blast,51.34,31.61,0.0640062459379487,3,reviewed,mb,mb
