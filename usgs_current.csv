@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-30T21:33:21.080Z,35.9601669,-117.6536636,3.25,1.4,ml,24,68,0.01253,0.14,ci,ci39760130,2024-01-30T21:35:24.115Z,"23 km E of Little Lake, CA",earthquake,0.39,0.56,0.106,7,automatic,ci,ci
 2024-01-30T21:20:04.920Z,19.3611660003662,-155.270004272461,3.80999994277954,2.11999989,md,6,198,0.01205,0.170000002,hv,hv74077761,2024-01-30T21:21:35.230Z,"9 km SSW of Volcano, Hawaii",earthquake,0.99,1.48000002,0.239999995,4,automatic,hv,hv
 2024-01-30T21:13:18.540Z,19.3810005187988,-155.279663085938,0.889999985694885,1.8,ml,14,84,0.005834,0.140000001,hv,hv74077741,2024-01-30T21:28:52.010Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.189999998,1.47,4,automatic,hv,hv
 2024-01-30T21:13:07.680Z,38.4815,-112.8435,0.1,1.12,md,13,108,0.02632,0.23,uu,uu80036211,2024-01-30T21:22:50.850Z,"17 km ENE of Milford, Utah",earthquake,0.5,13.31,0.107570167656193,6,reviewed,uu,uu
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T20:47:13.950Z,35.0286667,-117.6818333,-0.81,1.51,ml,37,37,0.0948,0.25,ci,ci39760090,2024-01-30T20:53:52.676Z,"4 km NW of Boron, CA",earthquake,0.34,0.62,0.149,24,automatic,ci,ci
 2024-01-30T20:46:32.608Z,64.4862,-146.9386,8.9,2.6,ml,,,,0.52,ak,ak0241dyb0d8,2024-01-30T21:16:32.208Z,"4 km SSW of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-01-30T20:30:27.070Z,38.4841666666667,-112.8455,-0.38,-0.56,md,10,104,0.02365,0.09,uu,uu80036191,2024-01-30T21:00:38.460Z,"17 km NE of Milford, Utah",earthquake,0.25,0.14,0.399522865977451,4,reviewed,uu,uu
-2024-01-30T20:24:07.970Z,35.0545,-118.3405,-0.46,1.26,ml,25,79,0.06376,0.16,ci,ci39760074,2024-01-30T20:30:31.867Z,"13 km SE of Tehachapi, CA",earthquake,0.29,0.58,0.173,13,automatic,ci,ci
+2024-01-30T20:24:07.820Z,35.0606667,-118.344,-0.93,1.09,ml,25,80,0.06993,0.19,ci,ci39760074,2024-01-30T21:35:16.642Z,"12 km SE of Tehachapi, CA",quarry blast,0.38,31.61,0.117,6,reviewed,ci,ci
 2024-01-30T20:20:35.771Z,60.356,-152.5898,90.1,1.5,ml,,,,0.39,ak,ak0241dy5fzt,2024-01-30T20:22:43.079Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-30T20:15:33.790Z,38.4826666666667,-112.846333333333,0.06,0.16,md,10,104,0.02381,0.06,uu,uu80036181,2024-01-30T20:54:38.480Z,"17 km ENE of Milford, Utah",earthquake,0.27,7.2,0.554905646578521,5,reviewed,uu,uu
 2024-01-30T20:12:31.770Z,19.3735008239746,-155.281005859375,1.16999995708466,1.71,ml,17,102,0.01298,0.140000001,hv,hv74077641,2024-01-30T20:21:18.830Z,"9 km SSW of Volcano, Hawaii",earthquake,0.24,0.319999993,1.23,4,automatic,hv,hv
@@ -307,6 +308,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-29T21:51:43.420Z,19.2011666666667,-64.9493333333333,35.49,3.25,md,9,298,0.8443,0.27,pr,pr71438183,2024-01-29T22:04:21.230Z,"95 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.47,18.24,0.193209143901024,5,reviewed,pr,pr
 2024-01-29T21:49:25.980Z,38.8311653,-122.8151703,2.07,1.13,md,18,49,0.008721,0.02,nc,nc73996371,2024-01-30T02:21:11.250Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.49,0.19,20,automatic,nc,nc
 2024-01-29T21:38:33.833Z,13.4796,-88.7047,183.995,4.6,mb,43,129,0.324,0.42,us,us7000luun,2024-01-29T21:59:50.040Z,"12 km WNW of San Agustín, El Salvador",earthquake,9.64,8.422,0.053,107,reviewed,us,us
-2024-01-29T21:36:21.150Z,32.9126667,-116.9413333,-0.17,1.22,ml,27,98,0.07763,0.27,ci,ci39759466,2024-01-29T21:54:14.555Z,"6 km NNW of Lakeside, CA",quarry blast,0.55,31.61,0.154,9,reviewed,ci,ci
-2024-01-29T21:34:00.270Z,37.6020012,-118.848999,6.4,1.31,md,15,147,0.01981,0.02,nc,nc73996361,2024-01-30T01:27:10.942Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.73,1.07,0.15,15,automatic,nc,nc
-2024-01-29T21:33:05.830Z,37.6004982,-118.8488312,6.64,1.02,md,11,151,0.01883,0.02,nc,nc73996356,2024-01-29T22:01:13.688Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.73,1.48,0.15,11,automatic,nc,nc
