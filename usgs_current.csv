@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-31T03:46:26.490Z,19.17799949646,-155.379837036133,29.5499992370605,2.25999999,md,36,170,0.08095,0.140000001,hv,hv74078616,2024-01-31T03:48:15.360Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.58,0.680000007,0.0799999982,3,automatic,hv,hv
-2024-01-31T03:40:58.380Z,38.8221664,-122.8141632,8.4,0.87,md,13,116,0.003422,0.26,nc,nc73996921,2024-01-31T03:42:36.167Z,"7 km NW of The Geysers, CA",earthquake,2.24,4.99,0.31,13,automatic,nc,nc
+2024-01-31T03:40:58.380Z,38.8221664,-122.8141632,8.4,0.87,md,13,116,0.003422,0.26,nc,nc73996921,2024-01-31T03:52:10.488Z,"7 km NW of The Geysers, CA",earthquake,2.24,4.99,0.31,13,automatic,nc,nc
 2024-01-31T03:39:11.118Z,61.6443,-150.4951,45.9,2,ml,,,,0.23,ak,ak0241fbofwn,2024-01-31T03:40:48.545Z,"11 km N of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-01-31T03:27:46.640Z,38.1655,-117.8864,6.3,1.3,ml,8,188.9,0.084,0.1195,nn,nn00872717,2024-01-31T03:30:35.164Z,"31 km SE of Mina, Nevada",earthquake,,0.5,0.6,5,automatic,nn,nn
 2024-01-31T03:12:49.624Z,61.847,-146.2826,19.1,1.8,ml,,,,0.92,ak,ak0241fbiqjm,2024-01-31T03:15:07.172Z,"25 km SSE of Mendeltna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -252,7 +252,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T06:42:48.710Z,64.7181,-149.0266,14.7,1.4,ml,,,,0.45,ak,ak0241dpy49z,2024-01-30T08:13:27.190Z,"13 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-30T06:34:17.344Z,65.3966,-148.0812,11.8,2.7,ml,,,,0.59,ak,ak0241dpwc4m,2024-01-30T08:54:11.040Z,"25 km SE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-30T06:27:35.504Z,37.1923,-104.7376,8.692,3,ml,25,58,0.266,0.49,us,us7000lux6,2024-01-30T12:33:16.300Z,"7 km NNE of Segundo, Colorado",earthquake,4.7,7.818,0.053,67,reviewed,us,us
-2024-01-30T06:15:18.889Z,61.7454,-148.5621,9.7,4,ml,,,,0.94,ak,ak0241dps9ls,2024-01-31T03:23:21.111Z,"7 km SW of Chickaloon, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2024-01-30T06:15:18.889Z,61.7454,-148.5621,9.7,4,ml,,,,0.94,ak,ak0241dps9ls,2024-01-31T03:52:20.297Z,"7 km SW of Chickaloon, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-01-30T06:14:53.330Z,19.343334197998,-155.302673339844,3.03999996185303,2.24,ml,39,39,,0.219999999,hv,hv73736487,2024-01-30T06:20:24.270Z,"13 km SSW of Volcano, Hawaii",earthquake,0.36,0.879999995,2.16,11,automatic,hv,hv
 2024-01-30T06:14:40.100Z,19.3796672821045,-155.277160644531,0.779999971389771,1.96,ml,9,163,,0.100000001,hv,hv73736482,2024-01-30T06:20:11.740Z,"8 km SSW of Volcano, Hawaii",earthquake,0.33,0.25999999,2.23,10,automatic,hv,hv
 2024-01-30T06:07:36.700Z,33.9086667,-116.894,11.26,1.13,ml,62,32,0.07311,0.15,ci,ci39759730,2024-01-30T16:52:43.290Z,"2 km SW of Banning, CA",earthquake,0.12,0.39,0.144,30,reviewed,ci,ci
@@ -287,6 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T04:08:23.676Z,64.4579,-146.9731,9.2,1.2,ml,,,,0.17,ak,ak0241dojwsf,2024-01-30T04:17:30.238Z,"8 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-30T04:03:17.830Z,40.7333333333333,-112.0405,7.95,0.94,md,12,51,0.007279,0.08,uu,uu80036121,2024-01-30T14:27:05.010Z,"5 km NW of West Valley City, Utah",earthquake,0.31,0.68,0.184648131391308,7,reviewed,uu,uu
 2024-01-30T04:02:16.750Z,38.492,-112.845666666667,-0.14,1.09,ml,9,97,0.02111,0.07,uu,uu80036116,2024-01-30T14:23:27.450Z,"17 km NE of Milford, Utah",earthquake,0.24,0.16,0.221117556517554,2,reviewed,uu,uu
-2024-01-30T03:53:12.580Z,19.2508,-64.8218,51,3.68,md,11,296,0.9084,0.35,pr,pr2024030002,2024-01-30T04:26:08.909Z,"101 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.94,9.16,0.04,8,reviewed,pr,pr
-2024-01-30T03:52:36.555Z,41.1489,78.6653,10,4.1,mb,22,114,1.365,0.67,us,us7000luwf,2024-01-30T04:11:41.040Z,"125 km W of Aykol, China",earthquake,6.78,1.967,0.166,10,reviewed,us,us
-2024-01-30T03:49:58.944Z,61.4052,-150.6811,51.5,3.4,ml,,,,0.78,ak,ak0241do7c6u,2024-01-30T15:10:05.664Z,"17 km SSW of Susitna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
