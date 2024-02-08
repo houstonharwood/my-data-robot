@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T20:01:44.552Z,26.1973,-110.7735,10,4.7,mb,81,179,1.724,0.85,us,us7000lxuk,2024-02-08T20:20:26.040Z,"61 km ENE of Loreto, Mexico",earthquake,8.78,1.909,0.043,168,reviewed,us,us
 2024-02-08T19:49:55.230Z,33.5466667,-116.6671667,9.04,0.49,ml,18,88,0.0365,0.1,ci,ci40664144,2024-02-08T20:42:01.881Z,"1 km SSE of Anza, CA",earthquake,0.24,0.46,0.146,9,reviewed,ci,ci
 2024-02-08T19:48:45.680Z,38.8349991,-122.8181686,1.82,1.08,md,19,63,0.0132,0.02,nc,nc73997590,2024-02-08T19:50:52.766Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.65,0.16,19,automatic,nc,nc
-2024-02-08T19:42:16.928Z,38.1852,-117.8875,10.4,1.4,ml,8,112.57,0.078,0.1489,nn,nn00873109,2024-02-08T19:44:46.423Z,"29 km SE of Mina, Nevada",earthquake,,0.8,0.18,3,automatic,nn,nn
+2024-02-08T19:42:17.183Z,38.1815,-117.8923,12.4,1.2,ml,11,61.46,0.075,0.1512,nn,nn00873109,2024-02-08T20:48:53.349Z,"29 km SE of Mina, Nevada",earthquake,,1,0.39,4,reviewed,nn,nn
 2024-02-08T19:32:44.830Z,35.65,-117.475,6.24,1.32,ml,27,77,0.04441,0.15,ci,ci40664136,2024-02-08T20:15:47.601Z,"14 km SSW of Searles Valley, CA",earthquake,0.22,0.48,0.176,15,reviewed,ci,ci
 2024-02-08T19:29:21.990Z,37.6450005,-118.8460007,4.85,1.29,md,11,95,0.01068,0.02,nc,nc73997580,2024-02-08T19:31:46.814Z,"12 km E of Mammoth Lakes, CA",earthquake,0.44,1.33,0.13,10,automatic,nc,nc
 2024-02-08T19:28:50.460Z,37.6448326,-118.8451691,5.05,1.21,md,11,109,0.01007,0.02,nc,nc73997575,2024-02-08T19:30:59.285Z,"12 km E of Mammoth Lakes, CA",earthquake,0.51,1.28,0.13,12,automatic,nc,nc
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T14:29:13.499Z,37.8988,71.7156,52.619,4.5,mb,25,83,1.578,1.2,us,us7000lxr0,2024-02-08T14:58:09.040Z,"47 km NNE of Khorugh, Tajikistan",earthquake,7.14,6.327,0.104,27,reviewed,us,us
 2024-02-08T14:07:01.763Z,63.0818,-150.7061,109.4,1.6,ml,,,,0.21,ak,ak0241sqc3vk,2024-02-08T14:09:14.622Z,"65 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-02-08T13:55:51.740Z,19.3716659545898,-155.292327880859,1.92999994754791,1.89999998,md,21,54,0.01786,0.150000006,hv,hv74101376,2024-02-08T13:57:21.970Z,"9 km SW of Volcano, Hawaii",earthquake,0.24,0.310000002,0.370000005,17,automatic,hv,hv
-2024-02-08T13:49:38.098Z,-38.4868,145.9501,10,4.5,mb,16,128,0.983,0.8,us,us7000lxqx,2024-02-08T20:45:01.652Z,"1 km SSE of Leongatha, Australia",earthquake,6.67,1.946,0.192,8,reviewed,us,us
+2024-02-08T13:49:38.098Z,-38.4868,145.9501,10,4.5,mb,16,128,0.983,0.8,us,us7000lxqx,2024-02-08T20:50:06.891Z,"1 km SSE of Leongatha, Australia",earthquake,6.67,1.946,0.192,8,reviewed,us,us
 2024-02-08T13:38:59.790Z,36.5688324,-121.0618362,8.25,1.86,md,19,123,0.02035,0.06,nc,nc73999641,2024-02-08T14:38:12.304Z,"8 km ENE of Pinnacles, CA",earthquake,0.4,0.6,0.26,21,automatic,nc,nc
 2024-02-08T13:27:15.051Z,31.675,-104.534,6.0802,1.6,ml,21,148,0,0.2,tx,tx2024cslt,2024-02-08T17:47:55.708Z,"57 km SSW of Whites City, New Mexico",earthquake,1.10848022,0.7016823188,0.1,14,reviewed,tx,tx
 2024-02-08T13:11:14.552Z,64.4999,-146.9128,1.8,1.2,ml,,,,0.75,ak,ak0241sprk4f,2024-02-08T13:13:09.237Z,"2 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-07T21:12:53.883Z,62.8763,-150.3724,96.1,2.8,ml,,,,0.52,ak,ak0241r6zz76,2024-02-07T21:19:43.040Z,"46 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-07T21:04:32.470Z,38.8303337,-122.8161697,0.62,0.44,md,7,99,0.0164,0.01,nc,nc73999411,2024-02-07T21:34:11.037Z,"8 km NW of The Geysers, CA",earthquake,0.29,1.26,0.28,7,automatic,nc,nc
 2024-02-07T20:57:10.280Z,38.8288345,-122.8303299,4.22,0.83,md,7,125,0.006789,0.02,nc,nc73999406,2024-02-07T21:24:10.813Z,"9 km NW of The Geysers, CA",earthquake,2.69,6.8,0.22,7,automatic,nc,nc
-2024-02-07T20:49:08.320Z,38.8293343,-122.8156662,0.66,1.27,md,15,53,0.01635,0.04,nc,nc73999401,2024-02-07T23:49:11.125Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.5,0.22,15,automatic,nc,nc
