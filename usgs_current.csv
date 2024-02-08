@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-08T16:35:55.560Z,34.8828316,-118.7529984,10.11,1.17,ml,12,97,0.07719,0.09,ci,ci40664104,2024-02-08T16:38:41.733Z,"11 km ENE of Lebec, CA",earthquake,0.53,1.2,0.15,3,automatic,ci,ci
+2024-02-08T16:35:55.560Z,34.8828316,-118.7529984,10.11,1.38,ml,12,97,0.07719,0.09,ci,ci40664104,2024-02-08T16:42:41.313Z,"11 km ENE of Lebec, CA",earthquake,0.53,1.2,0.343,21,automatic,ci,ci
 2024-02-08T16:22:39.870Z,19.1774997711182,-155.494995117188,29.0300006866455,2.02999997,md,22,200,0.07061,0.109999999,hv,hv74101461,2024-02-08T16:24:23.440Z,"3 km SSW of Pāhala, Hawaii",earthquake,1,1.13999999,0.150000006,5,automatic,hv,hv
 2024-02-08T16:14:59.370Z,19.24049949646,-155.406997680664,30.8799991607666,2.04999995,md,25,151,0.09458,0.140000001,hv,hv74101451,2024-02-08T16:16:30.800Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.8,0.709999979,0.400000006,3,automatic,hv,hv
 2024-02-08T16:14:15.583Z,65.3939,-151.9902,0,1.8,ml,,,,0.93,ak,ak0241srki5y,2024-02-08T16:16:47.499Z,"25 km N of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T03:58:16.980Z,38.188,-112.334666666667,6.49,0.92,md,6,122,0.1883,0.15,uu,uu80036881,2024-02-08T14:42:23.490Z,"5 km WNW of Circleville, Utah",earthquake,0.9,3.99,0.284165994855237,4,reviewed,uu,uu
 2024-02-08T03:56:57.909Z,56.302,-149.2968,2.9,3,ml,,,,0.89,ak,ak0241sk2y6s,2024-02-08T09:09:32.777Z,"232 km SE of Chiniak, Alaska",earthquake,,3.5,,,reviewed,ak,ak
 2024-02-08T03:52:54.449Z,62.0465,-150.0239,35.8,1.6,ml,,,,0.86,ak,ak0241sk23ic,2024-02-08T03:54:55.220Z,"15 km SW of Susitna North, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-02-08T03:48:07.354Z,28.5574,-78.9438,9.98,4,mb,34,109,1.968,0.96,us,us7000lxp2,2024-02-08T16:38:50.194Z,"163 km E of Cape Canaveral, Florida",earthquake,6.14,8.485,0.298,3,reviewed,us,us
+2024-02-08T03:48:07.354Z,28.5574,-78.9438,9.98,4,mb,34,109,1.968,0.96,us,us7000lxp2,2024-02-08T16:43:52.624Z,"163 km E of Cape Canaveral, Florida",earthquake,6.14,8.485,0.298,3,reviewed,us,us
 2024-02-08T03:45:18.970Z,46.20066666666666,-122.19,7.83,0.02,ml,12,89,0.001068,0.2,uw,uw61982241,2024-02-08T16:29:02.620Z,"37 km NNE of Amboy, Washington",earthquake,0.81,1.97,0.12543057362294485,5,reviewed,uw,uw
 2024-02-08T03:38:22.161Z,31.685,-104.41,5.4632,1.6,ml,17,69,0,0.2,tx,tx2024crsi,2024-02-08T16:11:20.993Z,"54 km S of Whites City, New Mexico",earthquake,0.9235404092,0.9946756187,0.1,7,reviewed,tx,tx
 2024-02-08T03:34:41.130Z,38.4933333333333,-112.8405,0.1,-0.15,md,7,112,0.02501,0.06,uu,uu80036876,2024-02-08T14:57:33.420Z,"18 km NE of Milford, Utah",earthquake,0.32,31.61,0.425568045256866,3,reviewed,uu,uu
@@ -110,7 +110,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T01:17:57.490Z,40.2229996,-121.0475006,-0.33,2.16,md,7,119,0.1572,0.07,nc,nc73999491,2024-02-08T04:07:12.647Z,"3 km SE of East Shore, CA",earthquake,0.82,8.28,0.07,6,automatic,nc,nc
 2024-02-08T01:12:41.620Z,38.8256683,-122.8174973,1.37,1.54,md,24,39,0.006227,0.02,nc,nc73999486,2024-02-08T03:52:13.561Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.37,0.14,26,automatic,nc,nc
 2024-02-08T01:09:15.313Z,60.4424,-151.5599,69.6,1.9,ml,,,,0.31,ak,ak0241silxhn,2024-02-08T01:12:01.208Z,"15 km W of Kalifornsky, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2024-02-08T01:05:14.560Z,46.19599914550781,-122.18516540527344,2.51999998092651,,,16,82,,0.0900000036,uw,uw61982226,2024-02-08T01:07:54.710Z,"37 km NNE of Amboy, Washington",earthquake,0.49,0.779999971,,,automatic,uw,uw
+2024-02-08T01:05:13.960Z,46.189166666666665,-122.17283333333333,7.2,0.5700000000000001,ml,16,115,0.01594,0.15,uw,uw61982226,2024-02-08T16:42:29.590Z,"37 km NE of Amboy, Washington",earthquake,0.77,31.61,0.14028337963818216,12,reviewed,uw,uw
+2024-02-08T00:58:08.320Z,46.197833333333335,-122.18333333333334,2.63,0.01,ml,12,136,0.005577,0.08,uw,uw61982221,2024-02-08T16:45:16.980Z,"37 km NNE of Amboy, Washington",earthquake,0.42,0.57,0.02577007725158098,3,reviewed,uw,uw
 2024-02-08T00:45:36.238Z,64.6642,-153.0132,17,2.8,ml,,,,0.65,ak,ak0241si899z,2024-02-08T01:40:37.763Z,"71 km SW of Tanana, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-08T00:43:48.240Z,25.818,-110.8176,10,4.4,mb,36,209,1.965,0.56,us,us7000lxnk,2024-02-08T01:04:51.040Z,"57 km ESE of Loreto, Mexico",earthquake,4,1.991,0.112,23,reviewed,us,us
 2024-02-08T00:34:46.558Z,39.3424,-119.921,8.9,0.6,ml,8,112.36,0.102,0.1663,nn,nn00873078,2024-02-08T15:38:52.983Z,"10 km SE of Floriston, California",earthquake,,2.4,0.44,4,reviewed,nn,nn
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-07T17:09:01.820Z,17.9275,-66.9678333333333,15.9,2.09,md,9,229,0.08383,0.06,pr,pr71439193,2024-02-07T17:24:27.690Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.7,0.44,0.11520604244161,7,reviewed,pr,pr
 2024-02-07T17:08:33.685Z,36.9731,-116.4654,7.4,-0.3,ml,6,197.19,0.053,0.0751,nn,nn00873065,2024-02-07T20:53:44.799Z,"27 km ENE of Beatty, Nevada",earthquake,,2.8,0.54,4,reviewed,nn,nn
 2024-02-07T17:05:54.388Z,31.673,-104.376,6.1316,1.8,ml,16,69,0.1,0.2,tx,tx2024cqxl,2024-02-07T20:47:04.324Z,"55 km S of Whites City, New Mexico",earthquake,0.7556967351,0.7244381052,0.1,12,reviewed,tx,tx
-2024-02-07T16:43:12.384Z,64.768,-149.2856,20,1.2,ml,,,,1.13,ak,ak0241r47d6u,2024-02-07T16:46:32.264Z,"20 km NNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
