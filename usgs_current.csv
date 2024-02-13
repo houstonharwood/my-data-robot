@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-13T15:24:36.020Z,32.7739983,-115.5360031,14.36,1.47,ml,11,174,0.07204,0.33,ci,ci40668976,2024-02-13T15:26:42.269Z,"3 km SE of El Centro, CA",earthquake,1.1,1.64,0.288,9,automatic,ci,ci
-2024-02-13T15:22:42.680Z,33.581665,-116.899498,9.64,1.02,ml,26,51,0.0647,0.12,ci,ci40668968,2024-02-13T15:25:02.640Z,"16 km NNW of Aguanga, CA",earthquake,0.25,0.79,0.172,11,automatic,ci,ci
+2024-02-13T15:26:58.099Z,39.406,-119.7079,9.9,2.6,ml,19,40.51,0.047,0.3557,nn,nn00873356,2024-02-13T15:32:21.503Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.5,0.36,9,automatic,nn,nn
+2024-02-13T15:24:36.080Z,32.7871667,-115.5383333,12.58,1.4,ml,20,107,0.05951,0.18,ci,ci40668976,2024-02-13T15:30:40.976Z,"2 km E of El Centro, CA",earthquake,0.31,0.61,0.343,23,automatic,ci,ci
+2024-02-13T15:22:42.680Z,33.5706667,-116.9053333,8.26,0.85,ml,39,31,0.07621,0.15,ci,ci40668968,2024-02-13T15:28:56.664Z,"15 km NNW of Aguanga, CA",earthquake,0.16,0.48,0.141,23,automatic,ci,ci
 2024-02-13T15:10:29.364Z,60.2964,-151.394,30.2,2.3,ml,,,,1.25,ak,ak024210mz88,2024-02-13T15:12:02.403Z,"7 km N of Clam Gulch, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-13T15:10:24.726Z,60.0576,-152.0644,49.9,2.6,ml,,,,1.05,ak,ak024210myvc,2024-02-13T15:12:52.816Z,"22 km W of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-02-13T15:08:39.978Z,35.5491333,-96.75034332,4.247800827,1.86,ml,18,49.93276978,0.01654922962,0.1599259484,ok,ok2024dbsp,2024-02-13T15:12:24.697Z,"9 km NW of Prague, Oklahoma",earthquake,2.85132977,2.490653751,0.43,6,automatic,ok,ok
@@ -132,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T00:02:26.910Z,38.8173332,-122.8300018,8.94,0.76,md,8,216,0.008477,0.01,nc,nc74001956,2024-02-13T00:23:18.954Z,"8 km NW of The Geysers, CA",earthquake,1.76,7.49,0.06,9,automatic,nc,nc
 2024-02-12T23:58:41.950Z,-37.0479,-96.1378,10,4.8,mb,47,117,14.956,0.61,us,us7000lytt,2024-02-13T00:16:36.040Z,"southeast of Easter Island",earthquake,8.42,1.919,0.067,68,reviewed,us,us
 2024-02-12T23:55:33.796Z,62.795,-151.4625,102.7,1.8,ml,,,,0.58,ak,ak0241zi4r4z,2024-02-12T23:57:45.980Z,"48 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-02-12T23:54:43.500Z,37.4075,-118.55,5.47,3.52,mw,34,52,0.05526,0.06,nc,nc74001951,2024-02-13T15:22:12.841Z,"4 km E of Round Valley, CA",earthquake,0.24,0.76,,3,reviewed,nc,nc
+2024-02-12T23:54:43.500Z,37.4075,-118.55,5.47,3.52,mw,34,52,0.05526,0.06,nc,nc74001951,2024-02-13T15:32:01.252Z,"4 km E of Round Valley, CA",earthquake,0.24,0.76,,3,reviewed,nc,nc
 2024-02-12T23:50:35.322Z,64.4577,-147.4252,9.6,1.2,ml,,,,0.26,ak,ak0241zi3ooc,2024-02-12T23:52:31.021Z,"26 km WSW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-12T23:50:06.210Z,32.8185,-115.5791667,13.12,1.33,ml,23,63,0.06365,0.21,ci,ci40668616,2024-02-12T23:56:20.287Z,"3 km SSW of Imperial, CA",earthquake,0.36,0.64,0.162,13,automatic,ci,ci
 2024-02-12T23:42:32.676Z,64.4647,-146.9392,0.2,1.5,ml,,,,0.44,ak,ak0241zi1yqr,2024-02-12T23:44:47.352Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T15:41:10.593Z,37.4269,-118.3594,3.4,0.5,ml,3,289.52,0.313,0.0119,nn,nn00873328,2024-02-13T02:04:41.368Z,"6 km NE of Dixon Lane-Meadow Creek, California",earthquake,,83.7,0,1,reviewed,nn,nn
 2024-02-12T15:36:06.210Z,32.7851667,-115.5691667,6.02,1.88,ml,36,64,0.0399,0.29,ci,ci40667976,2024-02-12T16:00:48.010Z,"1 km WSW of El Centro, CA",earthquake,0.34,0.79,0.224,29,automatic,ci,ci
 2024-02-12T15:35:34.550Z,32.7915,-115.563,11.02,1.78,ml,37,65,0.04804,0.25,ci,ci40667968,2024-02-12T15:46:44.410Z,"1 km NW of El Centro, CA",earthquake,0.29,0.47,0.285,28,automatic,ci,ci
-2024-02-12T15:31:21.729Z,9.9766,126.2624,28.125,4.7,mb,81,102,2.966,0.75,us,us7000lypi,2024-02-13T14:57:52.029Z,"21 km NE of Pilar, Philippines",earthquake,9.39,4.388,0.062,80,reviewed,us,us
