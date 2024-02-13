@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-13T10:32:58.690Z,32.8468323,-115.590332,11.67,1.32,ml,21,109,0.05992,0.19,ci,ci40668880,2024-02-13T10:35:21.315Z,"2 km W of Imperial, CA",earthquake,0.61,0.66,0.207,4,automatic,ci,ci
 2024-02-13T10:14:58.630Z,33.8325,-116.7643333,14.36,0.66,ml,46,59,0.02752,0.15,ci,ci40668872,2024-02-13T10:20:50.878Z,"10 km SSE of Cabazon, CA",earthquake,0.17,0.34,0.158,17,automatic,ci,ci
 2024-02-13T10:13:03.286Z,39.6107,-120.4391,4,1,ml,8,237.92,0.263,0.0777,nn,nn00873344,2024-02-13T10:15:15.887Z,"1 km WSW of Sattley, California",earthquake,,12.5,0.2,5,automatic,nn,nn
 2024-02-13T10:04:40.250Z,63.1074,-150.8686,130,2.8,ml,,,,0.39,ak,ak02420xmjqx,2024-02-13T10:07:01.784Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -324,14 +325,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T10:40:11.420Z,32.778,-115.5358333,11.63,1.37,ml,28,67,0.05644,0.23,ci,ci40667136,2024-02-12T12:13:52.792Z,"2 km ESE of El Centro, CA",earthquake,0.28,0.48,0.248,25,automatic,ci,ci
 2024-02-12T10:38:36.010Z,32.805,-115.5735,11.09,0.92,ml,21,70,0.05618,0.22,ci,ci40667128,2024-02-12T12:13:02.092Z,"2 km NW of El Centro, CA",earthquake,0.4,0.6,0.221,11,automatic,ci,ci
 2024-02-12T10:37:07.560Z,32.7933333,-115.5498333,12.73,0.95,ml,21,76,0.05639,0.24,ci,ci40667120,2024-02-12T12:10:29.539Z,"1 km NE of El Centro, CA",earthquake,0.4,0.63,0.147,12,automatic,ci,ci
-2024-02-12T10:34:53.720Z,18.0663333333333,-66.9983333333333,17.55,2.3,md,9,77,0.0516,0.08,pr,pr71439658,2024-02-12T10:49:30.490Z,"4 km WSW of Sabana Grande, Puerto Rico",earthquake,0.57,1.03,0.0589382843287027,7,reviewed,pr,pr
-2024-02-12T10:34:24.170Z,44.02166666666667,-122.56583333333333,7.43,1.35,ml,16,57,0.1116,0.29,uw,uw61982851,2024-02-12T13:36:33.980Z,"18 km ENE of Unity, Oregon",earthquake,0.42,31.61,0.05452867424730179,7,reviewed,uw,uw
-2024-02-12T10:33:57.530Z,32.7816667,-115.5295,15.17,1.33,ml,12,161,0.07355,0.16,ci,ci40667112,2024-02-12T12:09:29.993Z,"3 km ESE of El Centro, CA",earthquake,0.82,1.82,0.202,12,automatic,ci,ci
-2024-02-12T10:33:34.030Z,32.8221667,-115.5753333,13.33,1.56,ml,19,63,0.06849,0.19,ci,ci40667104,2024-02-12T12:09:22.076Z,"3 km S of Imperial, CA",earthquake,0.38,0.66,0.192,4,automatic,ci,ci
-2024-02-12T10:33:19.358Z,61.4082,-150.1295,25.2,1.7,ml,,,,0.71,ak,ak0241za9den,2024-02-12T23:40:03.699Z,"9 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-12T10:32:53.570Z,32.8231667,-115.586,12.82,1.82,ml,46,43,0.06478,0.27,ci,ci40667096,2024-02-12T12:07:34.515Z,"3 km SSW of Imperial, CA",earthquake,0.29,0.57,0.165,28,automatic,ci,ci
-2024-02-12T10:31:34.560Z,32.7768333,-115.5401667,11.59,1.44,ml,32,78,0.05267,0.24,ci,ci40667080,2024-02-12T12:03:55.864Z,"2 km SE of El Centro, CA",earthquake,0.3,0.52,0.231,27,automatic,ci,ci
-2024-02-12T10:30:56.930Z,38.8321648,-122.8160019,1.1,0.33,md,9,85,0.009906,0.02,nc,nc74001621,2024-02-12T11:00:13.968Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.14,0.2,11,automatic,nc,nc
-2024-02-12T10:30:53.150Z,44.027,-122.56466666666667,3.89,1.74,ml,25,55,0.107,0.28,uw,uw61982846,2024-02-12T13:40:41.930Z,"18 km ENE of Unity, Oregon",earthquake,0.28,0.91,0.07666304877688757,10,reviewed,uw,uw
-2024-02-12T10:30:46.700Z,33.922,-116.733,11.78,0.85,ml,51,41,0.04327,0.11,ci,ci40667072,2024-02-12T15:10:42.380Z,"5 km E of Cabazon, CA",earthquake,0.11,0.37,0.126,26,reviewed,ci,ci
-2024-02-12T10:30:29.470Z,38.8294983,-122.8528366,1.99,1.13,md,21,64,0.003707,0.01,nc,nc74001616,2024-02-12T12:58:15.630Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.39,0.2,22,automatic,nc,nc
