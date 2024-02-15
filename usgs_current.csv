@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-15T06:40:15.722Z,35.67339325,-97.41400909,6.750684738,1.92,ml,18,64.41647339,0.04090860114,0.1760216026,ok,ok2024desv,2024-02-15T06:55:48.476Z,"6 km ENE of Edmond, Oklahoma",earthquake,3.026690293,4.17755846,0.32,7,automatic,ok,ok
 2024-02-15T06:39:02.089Z,64.1072,-149.2785,7.5,1.4,ml,,,,0.21,ak,ak024246ikdp,2024-02-15T06:40:46.602Z,"12 km NW of Ferry, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2024-02-15T06:38:56.044Z,26.1448,-110.7808,10,5.1,mww,76,181,1.754,0.95,us,us7000lzcc,2024-02-15T06:54:35.040Z,"58 km ENE of Loreto, Mexico",earthquake,9.37,1.934,0.043,51,reviewed,us,us
-2024-02-15T06:29:42.681Z,37.534,137.6025,10,5,mb,72,101,0.724,0.77,us,us7000lzc9,2024-02-15T07:03:46.399Z,"59 km NNW of Itoigawa, Japan",earthquake,3.39,1.861,0.05,128,reviewed,us,us
+2024-02-15T06:29:42.681Z,37.534,137.6025,10,5,mb,72,101,0.724,0.77,us,us7000lzc9,2024-02-15T07:25:42.805Z,"59 km NNW of Itoigawa, Japan",earthquake,3.39,1.861,0.05,128,reviewed,us,us
 2024-02-15T06:09:33.434Z,36.5815,-97.1373,5.622,2.6,mb_lg,32,62,0.169,0.19,us,us7000lzbw,2024-02-15T07:15:36.040Z,"2 km NNE of Marland, Oklahoma",earthquake,1.33,2.118,0.106,23,reviewed,us,us
 2024-02-15T06:06:52.630Z,33.9726667,-117.2178333,12.5,1.16,ml,59,52,0.04515,0.18,ci,ci40670520,2024-02-15T06:17:58.230Z,"5 km N of Moreno Valley, CA",earthquake,0.15,0.37,0.247,28,automatic,ci,ci
 2024-02-15T06:03:34.609Z,28.0627,102.0152,18.621,4.4,mb,26,74,7.998,0.96,us,us7000lzby,2024-02-15T06:38:29.040Z,"30 km NW of Xichang, China",earthquake,11.19,5.613,0.13,17,reviewed,us,us
@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T22:06:39.280Z,32.7176667,-115.4523333,11.55,1.7,ml,23,80,0.08753,0.22,ci,ci40670304,2024-02-14T22:12:44.503Z,"6 km NE of Calexico, CA",earthquake,0.34,0.72,0.326,26,automatic,ci,ci
 2024-02-14T21:56:40.755Z,61.005,-146.2758,16.8,1.4,ml,,,,0.7,ak,ak02422s0t63,2024-02-14T21:58:48.356Z,"14 km SSE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-14T21:52:40.332Z,65.2372,-149.337,3.7,1.8,ml,,,,0.69,ak,ak02422rzy9t,2024-02-14T21:54:39.016Z,"9 km N of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-14T21:43:37.842Z,63.0101,-150.6179,109.3,4.7,ml,,,,0.58,ak,ak02422ry0ln,2024-02-15T07:22:49.525Z,"57 km N of Petersville, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-02-14T21:43:37.842Z,63.0101,-150.6179,109.3,4.7,ml,,,,0.58,ak,ak02422ry0ln,2024-02-15T07:27:54.302Z,"57 km N of Petersville, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-02-14T21:32:43.440Z,38.8323326,-122.8013306,2.17,0.77,md,7,100,0.01051,0.01,nc,nc74002851,2024-02-14T23:24:11.803Z,"7 km W of Cobb, CA",earthquake,0.75,1.93,0.11,9,automatic,nc,nc
 2024-02-14T21:29:33.360Z,17.9163333333333,-66.2933333333333,14.73,2.2,md,8,189,0.1252,0.08,pr,pr71439918,2024-02-14T21:36:56.660Z,"6 km S of Salinas, Puerto Rico",earthquake,0.53,0.76,0.21069137484305,6,reviewed,pr,pr
 2024-02-14T21:29:13.820Z,19.8846664428711,-154.880493164062,8.9399995803833,2.59,ml,8,305,0.2609,0.319999993,hv,hv74110627,2024-02-14T23:45:30.154Z,"24 km ENE of Pepeekeo, Hawaii",earthquake,5.18,2.79999995,0.28,4,automatic,hv,hv
@@ -265,8 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T07:34:29.100Z,34.0545,-117.239,13.22,1.54,ml,21,156,0.06866,0.14,ci,ci40669576,2024-02-14T07:41:51.917Z,"2 km ENE of Loma Linda, CA",earthquake,0.44,0.67,0.183,27,automatic,ci,ci
 2024-02-14T07:33:20.940Z,19.1944999694824,-155.469665527344,31.4400005340576,1.95000005,md,34,100,0.03953,0.0799999982,hv,hv74109792,2024-02-14T07:35:07.910Z,"1 km SE of Pāhala, Hawaii",earthquake,0.52,0.660000026,0.389999986,4,automatic,hv,hv
 2024-02-14T07:32:03.370Z,57.0261666666667,-135.6435,5.16,0,ml,4,193,,0.1,av,av91132043,2024-02-15T02:40:14.190Z,"19 km W of Sitka, Alaska",earthquake,1.18,1.52,0.269611052249203,4,reviewed,av,av
-2024-02-14T07:29:50.653Z,39.393,-119.711,5.8,0.8,ml,9,125.92,0.042,0.107,nn,nn00873504,2024-02-15T01:14:30.959Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.7,0.05,3,reviewed,nn,nn
-2024-02-14T07:29:07.244Z,39.3997,-119.7194,5.7,1,ml,12,123.82,0.037,0.1575,nn,nn00873501,2024-02-15T02:29:03.788Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.5,0.08,4,reviewed,nn,nn
-2024-02-14T07:27:09.773Z,39.398,-119.7164,5.6,0.9,ml,12,124.53,0.038,0.1658,nn,nn00873464,2024-02-14T14:43:27.060Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.5,0.14,4,reviewed,nn,nn
-2024-02-14T07:23:13.210Z,19.2328338623047,-155.432327270508,30.2800006866455,1.83000004,md,34,122,0.082,0.119999997,hv,hv74109777,2024-02-14T07:24:55.040Z,"5 km NE of Pāhala, Hawaii",earthquake,0.73,0.519999981,0.119999997,4,automatic,hv,hv
-2024-02-14T07:23:10.370Z,48.528166666666664,-122.3525,8.56,1.18,ml,12,78,0.06341,0.2,uw,uw61983056,2024-02-14T20:19:16.950Z,"6 km NNW of Burlington, Washington",earthquake,0.57,1.08,0.18958208123282927,7,reviewed,uw,uw
