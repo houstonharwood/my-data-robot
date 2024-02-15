@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-15T07:50:39.990Z,19.4253330230713,-155.464340209961,5.59000015258789,2.31,ml,52,38,0.05341,0.180000007,hv,hv74112386,2024-02-15T07:53:18.930Z,"24 km W of Volcano, Hawaii",earthquake,0.23,0.569999993,0.3,20,automatic,hv,hv
+2024-02-15T07:50:12.310Z,19.4286670684814,-155.454498291016,23.9300003051758,2.27,ml,9,233,0.09106,0.319999993,hv,hv74112381,2024-02-15T07:52:52.320Z,"23 km W of Volcano, Hawaii",earthquake,3.85,2.50999999,0.25,19,automatic,hv,hv
 2024-02-15T07:44:58.107Z,64.766,-147.9303,13.2,1,ml,,,,1.12,ak,ak0242475jxu,2024-02-15T07:47:02.882Z,"8 km SW of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-15T07:39:58.689Z,62.5213,-150.8949,69.4,2.4,ml,,,,0.79,ak,ak0242474hd5,2024-02-15T07:41:56.057Z,"7 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-15T07:16:53.720Z,38.8333321,-122.8454971,2.72,0.36,md,8,123,0.0106,0.04,nc,nc74003026,2024-02-15T07:44:11.732Z,"10 km NW of The Geysers, CA",earthquake,0.62,1.31,0.24,9,automatic,nc,nc
@@ -117,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T19:11:49.680Z,33.136,-115.6111667,9.04,1.69,ml,40,83,0.02995,0.21,ci,ci40670112,2024-02-14T19:23:24.280Z,"9 km W of Calipatria, CA",earthquake,0.21,0.43,0.241,28,automatic,ci,ci
 2024-02-14T19:05:51.823Z,60.2682,-141.1877,17.5,1.4,ml,,,,0.25,ak,ak02422qj1am,2024-02-14T19:08:59.876Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-14T19:04:55.350Z,46.3148333333333,-111.617333333333,-2,2,ml,12,94,0.3283,0.16,mb,mb90040743,2024-02-14T19:29:02.420Z,"7 km W of Townsend, Montana",quarry blast,0.51,31.61,0.313022358438502,10,reviewed,mb,mb
-2024-02-14T18:58:37.209Z,-16.6622,172.8697,27.931,5.8,mww,150,27,5.069,0.59,us,us7000lz8a,2024-02-14T19:53:36.040Z,"Vanuatu region",earthquake,8.84,3.256,0.04,60,reviewed,us,us
+2024-02-14T18:58:37.209Z,-16.6622,172.8697,27.931,5.8,mww,150,27,5.069,0.59,us,us7000lz8a,2024-02-14T21:02:17.822Z,"Vanuatu region",earthquake,8.84,3.256,0.04,60,reviewed,us,us
 2024-02-14T18:33:23.490Z,19.1774997711182,-155.511337280273,34.7900009155273,2.17000008,md,37,102,0.05146,0.159999996,hv,hv74110407,2024-02-14T18:35:09.070Z,"4 km SW of Pāhala, Hawaii",earthquake,0.9,1.05999994,0.119999997,10,automatic,hv,hv
 2024-02-14T18:14:42.820Z,19.1763324737549,-155.509826660156,33.9000015258789,2.32999992,md,34,104,0.04967,0.119999997,hv,hv74110377,2024-02-14T18:17:27.750Z,"4 km SW of Pāhala, Hawaii",earthquake,0.62,1.25999999,0.819999993,4,automatic,hv,hv
 2024-02-14T18:13:56.742Z,62.5484,-148.4172,56.6,2.5,ml,,,,0.55,ak,ak02422pzbsq,2024-02-14T18:33:52.040Z,"83 km N of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -251,7 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T07:59:36.697Z,8.4297,126.6365,70.762,4.8,mb,52,126,1.71,0.84,us,us7000lz4c,2024-02-14T11:51:05.707Z,"33 km E of Hinatuan, Philippines",earthquake,9.26,7.088,0.06,86,reviewed,us,us
 2024-02-14T07:57:12.530Z,57.0346666666667,-135.6405,6.83,0.03,ml,4,184,,0.07,av,av91132058,2024-02-15T02:47:54.370Z,"18 km W of Sitka, Alaska",earthquake,1.02,1.01,0.194461155708996,4,reviewed,av,av
 2024-02-14T07:56:21.310Z,33.1371667,-115.62,7.75,2.58,ml,53,42,0.03706,0.23,ci,ci40669640,2024-02-14T16:56:52.130Z,"10 km W of Calipatria, CA",earthquake,0.19,0.36,0.158,22,reviewed,ci,ci
-2024-02-14T07:55:24.030Z,33.1336667,-115.619,7.69,2.39,ml,40,92,0.03491,0.2,ci,ci40669632,2024-02-14T16:11:26.189Z,"10 km W of Calipatria, CA",earthquake,0.2,0.38,0.187,29,reviewed,ci,ci
-2024-02-14T07:54:01.580Z,57.0395,-135.642,7.36,0.05,ml,4,178,,0.07,av,av91132053,2024-02-15T02:45:03.490Z,"18 km W of Sitka, Alaska",earthquake,1.07,0.85,0.283255967905621,4,reviewed,av,av
-2024-02-14T07:53:13.600Z,33.1276667,-115.623,9.84,4.04,mw,74,41,0.03654,0.26,ci,ci40669624,2024-02-15T04:44:44.578Z,"10 km N of Westmorland, CA",earthquake,0.2,0.41,,7,reviewed,ci,ci
-2024-02-14T07:51:02.480Z,33.9306667,-117.0623333,6.08,0.93,ml,51,39,0.09332,0.19,ci,ci40669616,2024-02-14T14:21:32.438Z,"6 km S of Calimesa, CA",earthquake,0.16,0.75,0.126,17,reviewed,ci,ci
