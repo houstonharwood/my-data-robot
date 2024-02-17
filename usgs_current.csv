@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-17T16:21:16.452Z,62.7077,-149.3732,16.4,1.6,ml,,,,0.38,ak,ak02427ng4ot,2024-02-17T16:23:29.158Z,"47 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-02-17T16:19:11.455Z,28.2022,-97.6105,5,3.2,mb_lg,13,257,0.674,0.87,us,us7000lzvj,2024-02-17T16:27:39.040Z,"9 km SE of Skidmore, Texas",earthquake,4.76,2.004,0.161,42,reviewed,us,us
+2024-02-17T16:19:11.455Z,28.2022,-97.6105,5,3.2,mb_lg,13,257,0.674,0.87,us,us7000lzvj,2024-02-17T16:28:26.010Z,"9 km SE of Skidmore, Texas",earthquake,4.76,2.004,0.161,42,reviewed,us,us
 2024-02-17T16:16:42.819Z,61.9339,-150.5976,78.9,1.9,ml,,,,0.38,ak,ak02427nf455,2024-02-17T16:18:31.710Z,"36 km NW of Willow, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-02-17T16:09:36.421Z,61.5099,-146.6639,28.6,1.9,ml,,,,0.66,ak,ak02427ndlmy,2024-02-17T16:11:23.693Z,"45 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-17T16:07:46.480Z,33.271,-116.7785,12.85,0.63,ml,28,47,0.03864,0.14,ci,ci40672072,2024-02-17T16:13:47.344Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.19,0.49,0.157,15,automatic,ci,ci
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-17T06:52:16.686Z,28.972,-97.965,8.3252,3.3,ml,14,70,0.1,0.3,tx,tx2024dikg,2024-02-17T15:26:23.614Z,"5 km ESE of Falls City, Texas",earthquake,1.6169851123074894,3.1120778178523296,0.1,9,reviewed,tx,tx
 2024-02-17T06:34:18.786Z,28.963,-97.936,8.3252,3.7,ml,13,74,0,0.3,tx,tx2024dijs,2024-02-17T15:51:08.926Z,"8 km ESE of Falls City, Texas",earthquake,2.640698519088665,4.423806137843485,0.2,7,reviewed,tx,tx
 2024-02-17T06:33:35.901Z,44.4448,148.1989,69.452,4.7,mb,91,136,4.039,0.63,us,us7000lztx,2024-02-17T06:49:28.040Z,"90 km SSE of Kuril’sk, Russia",earthquake,9.19,7.059,0.063,76,reviewed,us,us
-2024-02-17T06:32:54.216Z,28.954,-98.001,6.7871,4.7,ml,25,67,0,0.3,tx,tx2024dijp,2024-02-17T16:20:29.065Z,"3 km SSE of Falls City, Texas",earthquake,1.252766576277029,2.177697444037502,0.2,13,reviewed,tx,tx
+2024-02-17T06:32:54.216Z,28.954,-98.001,6.7871,4.7,ml,25,67,0,0.3,tx,tx2024dijp,2024-02-17T16:32:16.272Z,"3 km SSE of Falls City, Texas",earthquake,1.252766576277029,2.177697444037502,0.2,13,reviewed,tx,tx
 2024-02-17T06:25:53.265Z,60.1042,-153.1785,131,1.8,ml,,,,0.69,ak,ak02427hiu0o,2024-02-17T08:36:55.368Z,"62 km NE of Pedro Bay, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2024-02-17T06:20:21.919Z,28.954,-98.005,8.3496,4.4,ml,26,68,0,0.2,tx,tx2024dijf,2024-02-17T14:41:15.312Z,"3 km SSE of Falls City, Texas",earthquake,0.9618081919013947,2.136552124633239,0.1,14,reviewed,tx,tx
 2024-02-17T06:06:38.160Z,19.245,-155.409666666667,33.78,1.74,md,38,88,0.0137,0.11,hv,hv74114446,2024-02-17T09:07:35.570Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.54,0.58,0.125853623177282,23,reviewed,hv,hv
@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-16T16:47:17.800Z,38.4993333333333,-112.882833333333,2.28,-0.28,md,7,101,0.003735,0.06,uu,uu80037756,2024-02-16T20:50:17.980Z,"15 km NE of Milford, Utah",earthquake,0.56,0.43,0.455664852787205,3,reviewed,uu,uu
 2024-02-16T16:37:57.680Z,46.537166666666664,-122.28133333333334,10.77,1.02,ml,12,98,0.1983,0.15,uw,uw61983356,2024-02-16T19:20:35.520Z,"2 km SSW of Morton, Washington",earthquake,0.41,2.18,0.09300795508189585,6,reviewed,uw,uw
 2024-02-16T16:37:33.640Z,40.5591,-119.7088,18.4,1.3,ml,4,307.77,0.39,0.0934,nn,nn00873612,2024-02-16T23:05:24.568Z,"31 km W of Empire, Nevada",earthquake,,1.6,0.1,4,reviewed,nn,nn
-2024-02-16T16:33:07.100Z,38.8269997,-122.8156662,2.03,0.75,md,14,67,0.00566,0.02,nc,nc74003591,2024-02-16T17:03:13.463Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.55,0.19,15,automatic,nc,nc
-2024-02-16T16:30:18.830Z,47.595,-123.09383333333334,50.37,3.54,ml,93,20,0.05931,0.37,uw,uw61983351,2024-02-17T09:26:10.579Z,"17 km WSW of Brinnon, Washington",earthquake,0.36,0.65,0.1803075904192446,69,reviewed,uw,uw
