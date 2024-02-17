@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-17T09:51:42.200Z,33.9128342,-118.3215027,12.25,1.47,ml,15,87,0.01006,0.17,ci,ci40671928,2024-02-17T09:54:08.126Z,"3 km E of Hawthorne, CA",earthquake,0.58,0.72,0.231,10,automatic,ci,ci
 2024-02-17T09:44:52.629Z,60.1734,-153.02,102.4,1.9,ml,,,,0.5,ak,ak02427jf3pq,2024-02-17T09:47:07.774Z,"71 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-17T09:33:40.060Z,38.8348351,-122.8031693,2.22,1.16,md,8,98,0.01263,0.01,nc,nc74003896,2024-02-17T09:47:10.643Z,"7 km WNW of Cobb, CA",earthquake,0.49,1.34,0.28,7,automatic,nc,nc
 2024-02-17T09:30:22.374Z,63.0497,-150.6365,99.4,1.5,ml,,,,0.27,ak,ak02427jc1ct,2024-02-17T09:32:25.040Z,"62 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-02-17T09:24:25.350Z,34.1245,-117.3273333,13.77,1.06,ml,60,70,0.04152,0.17,ci,ci40671920,2024-02-17T09:41:11.986Z,"3 km W of San Bernardino, CA",earthquake,0.16,0.35,0.199,32,automatic,ci,ci
 2024-02-17T09:22:46.825Z,62.2171,-145.7488,12,1.5,ml,,,,0.94,ak,ak02427jadhh,2024-02-17T09:25:50.479Z,"15 km NW of Glennallen, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-02-17T09:18:47.664Z,31.63,-104.006,4.2716,1.5,ml,15,41,0,0.3,tx,tx2024dipb,2024-02-17T09:56:28.992Z,"39 km WSW of Mentone, Texas",earthquake,0,1.26327918907097,0.2,13,automatic,tx,tx
 2024-02-17T09:18:01.010Z,19.2280006408691,-155.374664306641,31.3400001525879,2.25,md,41,153,0.09294,0.150000006,hv,hv74114506,2024-02-17T09:19:34.380Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.48,0.600000024,0.219999999,8,automatic,hv,hv
-2024-02-17T09:16:07.180Z,38.8429985,-122.8816681,2.56,0.78,md,8,103,0.004968,0.01,nc,nc74003891,2024-02-17T09:33:13.905Z,"12 km ENE of Cloverdale, CA",earthquake,0.65,0.52,0.3,9,automatic,nc,nc
-2024-02-17T09:12:03.975Z,31.639,-104.011,6.8335,3.7,ml,20,39,0,0.2,tx,tx2024diox,2024-02-17T09:49:03.613Z,"39 km W of Mentone, Texas",earthquake,0,2.06153130179694,0.2,16,automatic,tx,tx
+2024-02-17T09:16:07.180Z,38.8429985,-122.8816681,2.56,0.78,md,8,103,0.004968,0.01,nc,nc74003891,2024-02-17T09:55:13.056Z,"12 km ENE of Cloverdale, CA",earthquake,0.65,0.52,0.3,9,automatic,nc,nc
+2024-02-17T09:12:04.127Z,31.639,-104.01,6.2131,3.7,ml,20,39,0,0.2,tx,tx2024diox,2024-02-17T09:55:36.872Z,"39 km W of Mentone, Texas",earthquake,0,2.06416172941272,0.2,16,automatic,tx,tx
 2024-02-17T09:04:22.080Z,33.667,-116.7491667,11.82,0.49,ml,33,62,0.05284,0.14,ci,ci40671912,2024-02-17T09:10:31.870Z,"9 km SSW of Idyllwild, CA",earthquake,0.21,0.42,0.133,8,automatic,ci,ci
 2024-02-17T08:56:21.761Z,12.3359,-88.6805,46.078,4.5,mb,70,161,1.179,0.57,us,us7000lzuc,2024-02-17T09:37:41.040Z,"105 km S of Puerto El Triunfo, El Salvador",earthquake,7.12,9.012,0.071,58,reviewed,us,us
 2024-02-17T08:32:26.215Z,64.4895,-146.9587,9.4,1.9,ml,,,,0.45,ak,ak02427ir1h9,2024-02-17T08:41:10.698Z,"4 km SW of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -261,7 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-16T10:02:26.370Z,34.0408333,-117.5875,12.42,1.01,ml,39,49,0.04205,0.14,ci,ci40671328,2024-02-16T20:30:40.620Z,"4 km ESE of Ontario, CA",earthquake,0.19,0.29,0.273,33,automatic,ci,ci
 2024-02-16T09:59:35.860Z,38.1565,-112.6615,3.63,1.43,md,12,153,0.2699,0.11,uu,uu80037646,2024-02-16T17:27:17.030Z,"13 km S of Beaver, Utah",earthquake,0.53,31.61,0.0552773952729559,8,reviewed,uu,uu
 2024-02-16T09:59:29.794Z,61.8387,-151.0436,72.4,1.8,ml,,,,0.23,ak,ak02425vyx77,2024-02-16T10:01:47.081Z,"25 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-02-16T09:56:33.580Z,38.4981666666667,-112.89,1.66,-0.52,md,8,109,0.004308,0.12,uu,uu80000353,2024-02-16T19:44:47.280Z,"15 km NE of Milford, Utah",earthquake,0.58,0.74,0.506205409427763,3,reviewed,uu,uu
-2024-02-16T09:55:48.310Z,38.501,-112.886833333333,2.01,-0.23,md,8,93,0.0005975,0.07,uu,uu80037641,2024-02-16T19:42:05.330Z,"15 km NE of Milford, Utah",earthquake,0.52,0.53,0.761418391484206,3,reviewed,uu,uu
-2024-02-16T09:52:48.650Z,38.8079987,-122.7956696,4.58,0.28,md,7,101,0.0002881,0.01,nc,nc74003496,2024-02-16T11:57:10.378Z,"5 km NW of The Geysers, CA",earthquake,1.09,5.02,0.02,7,automatic,nc,nc
-2024-02-16T09:52:13.768Z,36.0046,139.6955,61.377,4.5,mb,51,125,1.315,0.56,us,us7000lzkh,2024-02-16T10:40:42.333Z,"3 km ESE of Shiraoka, Japan",earthquake,7.5,7.72,0.094,33,reviewed,us,us
