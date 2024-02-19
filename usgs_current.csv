@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-19T20:52:51.532Z,60.3344,-152.4465,80.1,1.3,ml,,,,0.25,ak,ak0242b13a01,2024-02-19T20:54:28.515Z,"53 km NW of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-02-19T20:40:17.820Z,64.4868,-148.0493,4.1,1.2,ml,,,,0.57,ak,ak0242b10mt2,2024-02-19T20:42:09.380Z,"38 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-19T20:36:30.360Z,38.8223343,-122.8454971,2.07,0.81,md,7,128,0.008213,0.01,nc,nc74004871,2024-02-19T20:50:10.755Z,"9 km WNW of The Geysers, CA",earthquake,0.57,1.19,0.18,8,automatic,nc,nc
+2024-02-19T20:36:30.360Z,38.8223343,-122.8454971,2.07,0.81,md,7,128,0.008213,0.01,nc,nc74004871,2024-02-19T21:01:10.821Z,"9 km WNW of The Geysers, CA",earthquake,0.57,1.19,0.18,8,automatic,nc,nc
 2024-02-19T20:05:32.750Z,38.7874985,-122.7546692,2.26,1.32,md,7,164,0.01369,0.02,nc,nc74004866,2024-02-19T20:37:11.674Z,"1 km N of The Geysers, CA",earthquake,0.71,0.94,0.21,11,automatic,nc,nc
-2024-02-19T19:35:14.053Z,60.7737,-149.8937,36.9,3.3,ml,,,,0.34,ak,ak0242b0e4bx,2024-02-19T20:21:59.863Z,"21 km SW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-02-19T19:35:14.053Z,60.7737,-149.8937,36.9,3.3,ml,,,,0.34,ak,ak0242b0e4bx,2024-02-19T20:58:46.644Z,"21 km SW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-19T19:32:04.270Z,39.3356667,-122.416832,-0.09,1.82,md,11,159,0.2312,0.31,nc,nc74004861,2024-02-19T20:13:11.799Z,"20 km WNW of Maxwell, CA",earthquake,6.47,20.45,,1,automatic,nc,nc
 2024-02-19T19:12:52.938Z,31.662,-104.399,6.3519,2.1,ml,14,70,0.1,0.3,tx,tx2024dmzr,2024-02-19T19:49:59.566Z,"56 km S of Whites City, New Mexico",earthquake,0,3.38363940415799,0.2,10,automatic,tx,tx
 2024-02-19T19:12:04.761Z,66.3862,-146.8035,36.5,1.8,ml,,,,0.89,ak,ak0242b09658,2024-02-19T19:15:00.373Z,"26 km E of Beaver, Alaska",earthquake,,9.6,,,automatic,ak,ak
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T15:46:52.116Z,31.735,-104.101,4.4883,1.6,ml,18,65,0,0.4,tx,tx2024dmsx,2024-02-19T16:18:09.156Z,"47 km W of Mentone, Texas",earthquake,0,1.25602153959149,0.2,12,automatic,tx,tx
 2024-02-19T15:35:12.542Z,64.833,-148.8974,14,1.2,ml,,,,0.37,ak,ak0242ay0dsm,2024-02-19T15:37:49.102Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-19T15:33:21.000Z,61.9323,-150.99,77.4,2.1,ml,,,,0.37,ak,ak0242axzz0k,2024-02-19T15:35:18.972Z,"22 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-02-19T15:32:31.060Z,33.6231667,-116.6975,12.31,1.41,ml,63,38,0.04971,0.17,ci,ci40672904,2024-02-19T20:57:42.077Z,"8 km NNW of Anza, CA",earthquake,0.15,0.3,0.143,27,reviewed,ci,ci
+2024-02-19T15:32:31.060Z,33.6231667,-116.6975,12.31,1.41,ml,63,38,0.04971,0.17,ci,ci40672904,2024-02-19T20:58:52.320Z,"8 km NNW of Anza, CA",earthquake,0.15,0.3,0.143,27,reviewed,ci,ci
 2024-02-19T15:31:49.967Z,63.3635,-149.7586,103.4,1,ml,,,,0.71,ak,ak0242axzm8g,2024-02-19T19:14:10.434Z,"40 km W of Cantwell, Alaska",earthquake,,3.8,,,reviewed,ak,ak
 2024-02-19T15:27:11.681Z,-11.5411,166.3658,67.231,4.6,mb,49,63,6.649,0.44,us,us7000m068,2024-02-19T15:55:19.040Z,"109 km SE of Lata, Solomon Islands",earthquake,10.58,7.035,0.087,42,reviewed,us,us
 2024-02-19T15:15:32.590Z,19.2051658630371,-155.470840454102,35.2700004577637,1.99000001,md,44,95,0.05017,0.119999997,hv,hv74116306,2024-02-19T15:17:12.670Z,"0 km ENE of Pāhala, Hawaii",earthquake,0.52,0.660000026,0.25999999,8,automatic,hv,hv
@@ -166,6 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-18T21:21:35.500Z,38.7908325,-122.7646637,-0.82,0.76,md,8,87,0.01052,0.09,nc,nc74004526,2024-02-18T22:07:14.303Z,"2 km NNW of The Geysers, CA",earthquake,0.34,1.49,0.05,6,automatic,nc,nc
 2024-02-18T21:21:28.285Z,59.7198,-153.4286,115.5,2.2,ml,,,,0.58,ak,ak02429dyo4c,2024-02-18T21:23:36.787Z,"38 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-18T21:13:38.080Z,33.7171667,-116.7571667,18.82,0.75,ml,15,191,0.03634,0.13,ci,ci40672584,2024-02-18T21:19:54.951Z,"4 km SW of Idyllwild, CA",earthquake,0.97,1.6,0.189,8,automatic,ci,ci
-2024-02-18T21:10:37.061Z,60.4857,-147.3692,18.7,1.8,ml,,,,0.49,ak,ak02429dwbx6,2024-02-18T21:12:32.634Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-18T21:02:36.850Z,35.5106666666667,-84.486,10.02,1.71,md,9,77,0.06729,0.11,se,se60570561,2024-02-19T15:17:14.170Z,"5 km E of Niota, Tennessee",earthquake,0.64,1.18,0.0592207274504397,7,reviewed,se,se
-2024-02-18T21:01:42.500Z,38.7541656,-122.7183304,0.63,1.14,md,11,184,0.04059,0.39,nc,nc74004511,2024-02-19T01:06:10.124Z,"3 km SW of Anderson Springs, CA",earthquake,4.1,3.01,0.32,9,automatic,nc,nc
