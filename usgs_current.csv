@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T15:17:56.310Z,17.8428333333333,-66.8408333333333,7.69,2.63,md,10,231,0.1365,0.27,pr,pr71440663,2024-02-20T15:43:34.990Z,"15 km SSE of Maria Antonia, Puerto Rico",earthquake,1.1,0.71,0.0232647343946963,5,reviewed,pr,pr
 2024-02-20T15:08:50.847Z,36.4755,-115.7704,9,1,ml,18,129,0.242,0.2025,nn,nn00873674,2024-02-20T15:11:20.066Z,"13 km SW of Indian Springs, Nevada",earthquake,,2.1,0.28,10,automatic,nn,nn
 2024-02-20T15:08:05.070Z,31.643,-104.517,3.5295,1.5,ml,17,147,0,0.4,tx,tx2024donc,2024-02-20T15:49:54.997Z,"60 km SSW of Whites City, New Mexico",earthquake,0,1.64928837371264,0.2,13,automatic,tx,tx
-2024-02-20T15:05:23.720Z,38.8466682,-122.8186646,1.7,0.71,md,8,97,0.008779,0.01,nc,nc74005091,2024-02-20T15:21:13.517Z,"9 km WNW of Cobb, CA",earthquake,0.36,1.2,0.32,9,automatic,nc,nc
+2024-02-20T15:05:23.720Z,38.8466682,-122.8186646,1.7,0.71,md,8,97,0.008779,0.01,nc,nc74005091,2024-02-20T15:55:10.716Z,"9 km WNW of Cobb, CA",earthquake,0.36,1.2,0.32,9,automatic,nc,nc
 2024-02-20T14:57:29.711Z,23.6748,123.3215,19.337,5,mww,142,56,0.838,1.07,us,us7000m0cb,2024-02-20T15:16:54.040Z,"93 km SSE of Yonakuni, Japan",earthquake,3.92,3.595,0.065,23,reviewed,us,us
 2024-02-20T14:52:42.730Z,33.9795,-117.2038333,11.88,1.15,ml,47,63,0.04114,0.18,ci,ci40673144,2024-02-20T14:59:22.727Z,"6 km NNE of Moreno Valley, CA",earthquake,0.18,0.44,0.248,29,automatic,ci,ci
 2024-02-20T14:51:05.490Z,33.6736667,-116.763,12.8,0.52,ml,23,70,0.05529,0.11,ci,ci40673136,2024-02-20T14:57:18.430Z,"8 km SSW of Idyllwild, CA",earthquake,0.24,0.44,0.104,10,automatic,ci,ci
@@ -89,6 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T01:05:59.653Z,33.196,76.8952,10,4.3,mb,30,100,3.067,0.58,us,us7000m09y,2024-02-20T01:24:44.040Z,"30 km S of Padam, India",earthquake,8.66,1.893,0.125,18,reviewed,us,us
 2024-02-20T00:52:00.360Z,33.6368333,-117.4521667,11.81,1.33,ml,45,123,0.02498,0.22,ci,ci40673016,2024-02-20T14:37:24.651Z,"10 km W of Lakeland Village, CA",earthquake,0.26,0.53,0.316,32,reviewed,ci,ci
 2024-02-20T00:41:58.620Z,32.8261667,-115.6026667,11.78,1.44,ml,31,60,0.07451,0.21,ci,ci40673008,2024-02-20T00:48:01.471Z,"4 km SW of Imperial, CA",earthquake,0.3,0.4,0.228,29,automatic,ci,ci
+2024-02-20T00:19:48.010Z,48.0998333333333,-115.177,1.27,1.78,ml,13,83,0.3613,0.24,mb,mb90041053,2024-02-20T16:03:42.540Z,"3 km NW of Happys Inn, Montana",earthquake,0.93,7.56,0.254253958210533,6,reviewed,mb,mb
 2024-02-20T00:13:15.799Z,64.9827,-147.3711,2.2,1.5,ml,,,,1.01,ak,ak0242cchipn,2024-02-20T00:15:30.856Z,"11 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-20T00:12:20.010Z,60.8007,-147.2589,18.9,1.7,ml,,,,0.42,ak,ak0242cchbbl,2024-02-20T00:13:57.135Z,"32 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-19T23:35:05.063Z,63.5247,-148.7646,5.1,1.6,ml,,,,0.61,ak,ak0242b2ru22,2024-02-19T23:37:42.307Z,"17 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -140,7 +141,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T16:26:17.820Z,19.2746,-67.5043,42,3.78,md,15,305,0.8905,0.55,pr,pr2024050000,2024-02-19T17:47:11.040Z,"96 km NNW of San Antonio, Puerto Rico",earthquake,4.08,15.41,0.08,10,reviewed,pr,pr
 2024-02-19T16:23:21.605Z,-9.3637,-78.7758,55.768,5.1,mb,130,144,3.226,1.06,us,us7000m06g,2024-02-19T17:29:47.469Z,"37 km SSW of Chimbote, Peru",earthquake,8.31,6.56,0.033,298,reviewed,us,us
 2024-02-19T16:08:55.280Z,38.8048325,-122.8096695,1.19,0.75,md,8,75,0.01165,0.01,nc,nc74004826,2024-02-19T18:17:13.118Z,"6 km WNW of The Geysers, CA",earthquake,0.36,1.32,0.05,8,automatic,nc,nc
-2024-02-19T16:05:19.706Z,35.4287,74.7565,44.755,5.2,mb,85,78,4.676,0.74,us,us7000m06b,2024-02-19T22:37:55.013Z,"67 km SE of Gilgit, Pakistan",earthquake,8.49,6.159,0.045,164,reviewed,us,us
-2024-02-19T16:03:41.710Z,60.5465,-147.5266,15.5,1.4,ml,,,,0.46,ak,ak0242ayf0sb,2024-02-19T16:06:31.581Z,"58 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-19T16:01:21.830Z,35.103,-116.821,2.42,1.51,ml,18,82,0.1726,0.12,ci,ci40672912,2024-02-19T16:07:50.619Z,"22 km SW of Fort Irwin, CA",earthquake,0.18,0.82,0.188,17,automatic,ci,ci
-2024-02-19T15:54:34.698Z,62.7317,-151.7723,0,1.8,ml,,,,0.57,ak,ak0242ay4i3x,2024-02-19T15:56:48.103Z,"57 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
