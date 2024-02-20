@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T12:03:04.450Z,38.8219986,-122.80867,2.81,0.75,md,11,85,0.001774,0.01,nc,nc74005031,2024-02-20T14:23:11.126Z,"7 km NW of The Geysers, CA",earthquake,0.45,1.11,0.27,13,automatic,nc,nc
 2024-02-20T11:49:44.010Z,19.1863327026367,-155.472503662109,34.2099990844727,2.29999995,md,49,90,0.03229,0.129999995,hv,hv74117076,2024-02-20T11:51:23.970Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.44,0.639999986,0.159999996,11,automatic,hv,hv
 2024-02-20T11:22:20.130Z,38.814167,-122.8071671,0.81,1.41,md,27,43,0.00949,0.03,nc,nc74005016,2024-02-20T13:46:13.835Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.32,0.2,27,automatic,nc,nc
-2024-02-20T11:18:40.935Z,31.712,-104.492,4.1083,1.7,ml,16,77,0,0.2,tx,tx2024dofq,2024-02-20T11:52:02.446Z,"52 km SSW of Whites City, New Mexico",earthquake,0,1.53267743276759,0.2,13,automatic,tx,tx
+2024-02-20T11:18:40.633Z,31.715,-104.49,6.0999,1.6,ml,17,72,0,0.2,tx,tx2024dofq,2024-02-20T16:47:59.588Z,"52 km SSW of Whites City, New Mexico",earthquake,1.1705142885194717,0.8976641303188995,0.2,13,reviewed,tx,tx
 2024-02-20T11:00:15.520Z,46.2471666666667,-111.764833333333,6.25,2.83,ml,60,75,0.2471,0.14,mb,mb90041073,2024-02-20T15:31:09.420Z,"11 km WNW of Radersburg, Montana",earthquake,0.23,0.47,0.242769174629678,46,reviewed,mb,mb
 2024-02-20T10:58:38.290Z,38.8535004,-122.8280029,10.27,0.79,md,8,230,0.003814,0.08,nc,nc74005011,2024-02-20T13:17:18.655Z,"10 km WNW of Cobb, CA",earthquake,2.74,8.19,0.14,10,automatic,nc,nc
 2024-02-20T10:58:10.579Z,42.8352,94.2311,10,5.1,mb,85,33,8.074,0.51,us,us7000m0bs,2024-02-20T11:15:53.040Z,"59 km E of Hami, China",earthquake,3.63,1.857,0.057,101,reviewed,us,us
@@ -63,9 +63,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T06:44:38.460Z,35.7985,-117.6213333,9.65,1.13,ml,26,125,0.1171,0.13,ci,ci40673056,2024-02-20T06:50:27.491Z,"20 km W of Searles Valley, CA",earthquake,0.21,0.51,0.209,12,automatic,ci,ci
 2024-02-20T06:19:39.730Z,33.6863333,-116.7143333,16.16,0.65,ml,32,58,0.02477,0.1,ci,ci40673048,2024-02-20T14:36:49.961Z,"6 km S of Idyllwild, CA",earthquake,0.19,0.26,0.172,12,reviewed,ci,ci
 2024-02-20T06:18:42.580Z,48.0985,-115.174333333333,5.58,1.43,ml,8,121,0.359,0.14,mb,mb90041068,2024-02-20T16:12:00.430Z,"3 km NW of Happys Inn, Montana",earthquake,0.96,3.27,0.352331474663456,5,reviewed,mb,mb
-2024-02-20T06:00:13.712Z,38.7258,-119.2362,0,2,ml,8,172.38,0.239,0.1774,nn,nn00873661,2024-02-20T06:04:00.003Z,"11 km SE of Smith Valley, Nevada",earthquake,,39.7,0.42,4,automatic,nn,nn
+2024-02-20T06:00:13.712Z,38.7258,-119.2362,0,2,ml,8,172.38,0.239,0.1774,nn,nn00873661,2024-02-20T16:47:51.976Z,"11 km SE of Smith Valley, Nevada",earthquake,,39.7,0.42,4,automatic,nn,nn
 2024-02-20T05:59:20.597Z,37.0214,-115.9715,8.6,1.2,ml,13,177.8,0.055,0.2929,nn,nn00873657,2024-02-20T06:01:13.735Z,"56 km NNW of Indian Springs, Nevada",earthquake,,1,0.19,8,automatic,nn,nn
-2024-02-20T05:59:15.112Z,38.7284,-119.2208,9.7,2.4,ml,21,60.63,0.249,0.1438,nn,nn00873658,2024-02-20T16:46:35.723Z,"12 km SE of Smith, Nevada",earthquake,,1.7,0.16,9,reviewed,nn,nn
+2024-02-20T05:59:15.112Z,38.7284,-119.2208,9.7,2.4,ml,21,60.63,0.249,0.1438,nn,nn00873658,2024-02-20T16:47:11.210Z,"12 km SE of Smith, Nevada",earthquake,,1.7,0.16,9,reviewed,nn,nn
 2024-02-20T05:53:10.351Z,32.7881,-100.6441,5,2.5,mb_lg,27,43,0.367,0.46,us,us7000m0ay,2024-02-20T06:01:37.040Z,"18 km WSW of Rotan, Texas",earthquake,2.29,1.955,0.12,18,reviewed,us,us
 2024-02-20T05:52:48.939Z,62.3415,-153.2684,0,1.6,ml,,,,1.06,ak,ak0242cfp4b1,2024-02-20T05:55:11.981Z,"93 km SE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-20T05:48:01.176Z,41.812,47.6652,16.599,4.1,mb,25,99,1.598,0.87,us,us7000m0az,2024-02-20T06:11:12.040Z,"7 km ENE of Tpig, Russia",earthquake,3.48,6.248,0.14,15,reviewed,us,us
