@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T16:37:57.010Z,32.8231667,-115.6088333,11.68,1.94,ml,47,46,0.05861,0.27,ci,ci40673648,2024-02-21T16:48:43.120Z,"5 km SW of Imperial, CA",earthquake,0.28,0.45,0.231,28,automatic,ci,ci
 2024-02-21T16:36:52.380Z,19.2198333740234,-155.389663696289,32.1100006103516,2.15,ml,53,152,0.09378,0.159999996,hv,hv74118151,2024-02-21T16:39:29.170Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.47,0.620000005,0.3,5,automatic,hv,hv
 2024-02-21T16:35:45.514Z,62.09,-151.8563,98.1,2.2,ml,,,,0.4,ak,ak0242e9okxj,2024-02-21T16:37:49.234Z,"26 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-02-21T16:13:04.230Z,38.4971666666667,-112.8965,1.84,1.08,ml,14,82,0.008902,0.12,uu,uu80045156,2024-02-21T17:25:27.300Z,"14 km NE of Milford, Utah",earthquake,0.37,0.54,0.51325961010471,3,reviewed,uu,uu
 2024-02-21T16:11:57.529Z,62.2799,-148.3408,33.8,2.2,ml,,,,0.63,ak,ak0242e9jgo8,2024-02-21T16:14:00.575Z,"54 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-21T16:08:45.020Z,19.2708339691162,-155.391159057617,29.0400009155273,2.33,ml,54,125,0.06245,0.129999995,hv,hv74118126,2024-02-21T16:46:58.040Z,"11 km NE of Pāhala, Hawaii",earthquake,0.34,0.540000021,0.26,16,automatic,hv,hv
 2024-02-21T15:46:59.000Z,38.8121681,-122.8278351,1.61,0.75,md,14,59,0.003458,0.02,nc,nc74005616,2024-02-21T16:08:13.548Z,"7 km WNW of The Geysers, CA",earthquake,0.27,0.53,0.29,15,automatic,nc,nc
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T04:54:01.670Z,38.8361664,-122.8031693,2.2,1.05,md,21,58,0.01026,0.03,nc,nc74005376,2024-02-21T06:24:11.194Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.49,0.07,21,automatic,nc,nc
 2024-02-21T04:45:52.781Z,31.666,-104.192,6.1255,2.8,ml,21,58,0.1,0.2,tx,tx2024dpoc,2024-02-21T05:02:07.040Z,"54 km NW of Toyah, Texas",earthquake,0.5691310075514485,0.8523839125258525,0.1,13,reviewed,tx,tx
 2024-02-21T04:45:08.770Z,61.7395,-149.6039,22.1,3.5,ml,,,,0.8,ak,ak0242e2lfx9,2024-02-21T16:15:54.556Z,"12 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-02-21T04:44:00.406Z,36.4941,-116.5872,0,0.9,ml,11,120.86,0.108,0.2768,nn,nn00873720,2024-02-21T04:45:56.962Z,"24 km ENE of Furnace Creek, California",earthquake,,14.5,0.25,4,automatic,nn,nn
+2024-02-21T04:44:01.473Z,36.5002,-116.581,5.7,0.9,ml,17,112.57,0.108,0.137,nn,nn00873720,2024-02-21T17:26:46.422Z,"25 km ENE of Furnace Creek, California",earthquake,,2.8,0.02,2,reviewed,nn,nn
 2024-02-21T04:41:18.692Z,59.3864,-152.8607,78.2,2.3,ml,,,,0.2,ak,ak0242e2klwd,2024-02-21T05:05:09.197Z,"53 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-21T04:36:40.120Z,31.739,-104.111,6.5613,1.8,ml,30,34,0,0.2,tx,tx2024dpnu,2024-02-21T15:59:07.368Z,"48 km W of Mentone, Texas",earthquake,0.4849448002146414,0.651713696365191,0.2,23,reviewed,tx,tx
 2024-02-21T04:31:44.419Z,-22.6984,-178.4547,355.526,5.2,mb,62,71,3.38,0.91,us,us7000m0hp,2024-02-21T04:49:03.040Z,"south of the Fiji Islands",earthquake,10.86,7.787,0.028,404,reviewed,us,us
@@ -246,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T18:01:03.320Z,33.2638333,-116.4235,3.83,0.93,ml,45,65,0.006869,0.2,ci,ci40673184,2024-02-21T14:53:52.381Z,"5 km W of Borrego Springs, CA",earthquake,0.2,0.36,0.106,24,reviewed,ci,ci
 2024-02-20T17:54:39.750Z,46.116166666666665,-122.37383333333334,8.04,0.58,ml,15,236,0.07435,0.27,uw,uw61983741,2024-02-20T20:30:23.360Z,"23 km NNE of Amboy, Washington",earthquake,0.85,1.55,0.1604459248521526,8,reviewed,uw,uw
 2024-02-20T17:32:58.920Z,-24.0159,178.624,570.389,4.8,mb,52,82,6.071,1.08,us,us7000m0e9,2024-02-20T17:51:13.040Z,"south of the Fiji Islands",earthquake,12.6,9.188,0.071,62,reviewed,us,us
-2024-02-20T17:30:35.570Z,32.773,-115.8438333,4.59,1.9,ml,39,60,0.1242,0.23,ci,ci40673176,2024-02-20T17:41:47.090Z,"15 km ENE of Ocotillo, CA",earthquake,0.23,0.72,0.208,27,automatic,ci,ci
