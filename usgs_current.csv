@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-21T22:36:02.410Z,38.8138351,-122.8188324,2.56,0.75,md,14,52,0.009483,0.02,nc,nc74005686,2024-02-21T22:37:37.075Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.52,0.16,14,automatic,nc,nc
+2024-02-21T22:36:02.410Z,38.8138351,-122.8188324,2.56,0.75,md,14,52,0.009483,0.02,nc,nc74005686,2024-02-21T22:49:10.788Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.52,0.16,14,automatic,nc,nc
 2024-02-21T22:20:08.928Z,62.0338,-151.4282,84,3.1,ml,,,,0.47,ak,ak0242ed5w0c,2024-02-21T22:35:24.040Z,"5 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-21T22:14:01.120Z,17.9586666666667,-67.077,5.86,1.95,md,3,243,0.03298,0.03,pr,pr71440778,2024-02-21T22:32:05.040Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,1.46,0.7,0.219601092446063,3,reviewed,pr,pr
 2024-02-21T21:59:28.647Z,31.583,-104.537,3.9543,2.1,ml,17,157,0.1,0.3,tx,tx2024dqwe,2024-02-21T22:37:23.447Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.99981855523075,0.2,12,automatic,tx,tx
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T20:03:18.647Z,63.5443,-148.3335,4,1.6,ml,,,,0.64,ak,ak0242ebved4,2024-02-21T20:05:18.822Z,"35 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-21T20:03:18.190Z,33.1288333,-115.6216667,8.16,1.77,ml,44,41,0.03567,0.24,ci,ci40673768,2024-02-21T20:09:48.054Z,"10 km W of Calipatria, CA",earthquake,0.23,0.49,0.195,28,automatic,ci,ci
 2024-02-21T20:00:02.880Z,61.4718,-146.5363,33.5,1.2,ml,,,,0.42,ak,ak0242ebm1q5,2024-02-21T20:41:55.601Z,"39 km NNW of Valdez, Alaska",earthquake,,1.4,,,reviewed,ak,ak
-2024-02-21T19:59:21.410Z,37.9635,-122.0345,9.64,1.03,md,14,103,0.05071,0.08,nc,nc74005661,2024-02-21T22:38:10.733Z,"2 km WSW of Concord, CA",earthquake,0.28,0.73,0.215,13,reviewed,nc,nc
+2024-02-21T19:59:21.410Z,37.9635,-122.0345,9.64,1.03,md,14,103,0.05071,0.08,nc,nc74005661,2024-02-21T22:44:12.759Z,"2 km WSW of Concord, CA",earthquake,0.28,0.73,0.215,13,reviewed,nc,nc
 2024-02-21T19:56:45.460Z,34.984,-118.19,0.01,1.62,ml,33,36,0.1096,0.22,ci,ci40673752,2024-02-21T20:04:41.725Z,"8 km S of Mojave, CA",earthquake,0.28,0.7,0.227,26,automatic,ci,ci
 2024-02-21T19:55:32.670Z,33.3058333,-116.2443333,5.24,1.61,ml,73,24,0.07852,0.2,ci,ci40673744,2024-02-21T20:07:01.850Z,"13 km ENE of Borrego Springs, CA",earthquake,0.15,0.48,0.174,28,automatic,ci,ci
 2024-02-21T19:54:11.065Z,61.2758,-152.18,0,1.8,ml,,,,0.81,ak,ak0242ebkvoy,2024-02-21T19:56:29.374Z,"60 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -228,7 +228,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T02:28:44.280Z,38.840332,-122.8356705,1.31,0.6,md,10,116,0.001746,0.01,nc,nc74005351,2024-02-21T02:40:10.598Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.73,0.2,10,automatic,nc,nc
 2024-02-21T02:24:49.310Z,35.3508333,-118.6201667,5.6,1.7,ml,42,37,0.132,0.18,ci,ci40673424,2024-02-21T14:51:02.570Z,"25 km NE of Arvin, CA",earthquake,0.18,1.11,0.228,28,reviewed,ci,ci
 2024-02-21T02:20:46.602Z,64.4787,-146.8912,6.2,0.9,ml,,,,0.43,ak,ak0242e19aop,2024-02-21T02:31:11.545Z,"5 km S of Salcha, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2024-02-21T02:20:03.720Z,35.3501667,-118.6141667,4.51,2.22,ml,48,37,0.1336,0.16,ci,ci40673416,2024-02-21T14:16:13.996Z,"25 km NE of Arvin, CA",earthquake,0.14,0.6,0.237,27,automatic,ci,ci
+2024-02-21T02:20:03.730Z,35.3501667,-118.617,6.72,2.28,ml,45,37,0.1325,0.18,ci,ci40673416,2024-02-21T22:45:28.900Z,"25 km NE of Arvin, CA",earthquake,0.16,0.74,0.252,26,reviewed,ci,ci
 2024-02-21T02:18:30.040Z,32.9381667,-115.5493333,7.15,1.21,ml,17,74,0.03783,0.15,ci,ci40673408,2024-02-21T22:37:26.508Z,"5 km SSW of Brawley, CA",earthquake,0.24,0.49,0.318,11,reviewed,ci,ci
 2024-02-21T02:18:27.030Z,38.4951666666667,-112.893666666667,2.15,0.97,md,16,83,0.008449,0.09,uu,uu80043931,2024-02-21T19:49:02.460Z,"14 km NE of Milford, Utah",earthquake,0.28,0.4,0.15306119876921,6,reviewed,uu,uu
 2024-02-21T02:11:00.990Z,34.6153333,-119.0078333,9.99,1.48,ml,31,40,0.1417,0.16,ci,ci40673400,2024-02-21T14:51:05.570Z,"24 km SSW of Frazier Park, CA",earthquake,0.17,0.44,0.263,34,reviewed,ci,ci
@@ -277,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T23:26:05.090Z,33.7018333,-116.8253333,15.71,1.64,ml,68,21,0.07406,0.18,ci,ci40673344,2024-02-21T14:52:10.110Z,"8 km SE of Valle Vista, CA",earthquake,0.17,0.32,0.208,27,reviewed,ci,ci
 2024-02-20T23:23:46.503Z,6.8279,-72.984,154.592,4.5,mb,45,82,0.935,0.7,us,us7000m0g8,2024-02-20T23:38:38.040Z,"8 km N of Cepitá, Colombia",earthquake,7.94,6.437,0.051,115,reviewed,us,us
 2024-02-20T23:21:21.160Z,38.909832,-122.9963303,2.39,1.59,md,15,71,0.07559,0.02,nc,nc74005211,2024-02-21T02:43:13.621Z,"12 km N of Cloverdale, CA",earthquake,0.26,2.52,0.15,18,automatic,nc,nc
-2024-02-20T22:47:54.880Z,37.3192,69.9375,8.846,4.4,mb,28,90,2.605,0.67,us,us7000m0g5,2024-02-20T23:08:31.040Z,"23 km NNE of Rustāq, Afghanistan",earthquake,7.07,4.215,0.12,20,reviewed,us,us
