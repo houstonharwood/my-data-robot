@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-28T15:17:07.720Z,33.8278351,-115.7891693,3.21,1.5,ml,36,75,0.1653,0.2,ci,ci40678008,2024-02-28T15:19:14.110Z,"36 km NNE of North Shore, CA",earthquake,0.28,0.96,0.159,13,automatic,ci,ci
+2024-02-28T15:18:20.090Z,37.5330009,-118.8343353,3.74,1.52,md,16,210,0.05708,0.02,nc,nc74009301,2024-02-28T15:19:56.014Z,"14 km WSW of Toms Place, CA",earthquake,0.91,0.74,0.08,16,automatic,nc,nc
+2024-02-28T15:17:07.510Z,33.8321667,-115.7885,1.96,1.47,ml,40,67,0.1695,0.15,ci,ci40678008,2024-02-28T15:23:22.965Z,"37 km NNE of North Shore, CA",earthquake,0.17,0.41,0.11,25,automatic,ci,ci
 2024-02-28T15:09:36.906Z,63.6049,-149.7674,122.1,2.2,ml,,,,0.4,ak,ak0242ptoyvh,2024-02-28T15:11:26.878Z,"44 km WSW of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-28T15:05:30.060Z,38.8391685,-122.8241653,2.14,0.64,md,10,90,0.008861,0.01,nc,nc74009291,2024-02-28T15:07:05.639Z,"9 km WNW of Cobb, CA",earthquake,0.37,1.06,0.33,12,automatic,nc,nc
 2024-02-28T14:48:20.965Z,31.556,-104.115,3.075,1.6,ml,17,66,0.1,0.2,tx,tx2024edcn,2024-02-28T14:57:10.219Z,"40 km NW of Toyah, Texas",earthquake,0.9727445451525546,1.7074162454365032,0.2,12,reviewed,tx,tx
@@ -143,6 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T22:11:45.126Z,65.0398,-148.8419,14.9,1.6,ml,,,,0.41,ak,ak0242oac4b4,2024-02-27T22:14:15.518Z,"26 km ESE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-27T21:55:48.650Z,38.828167,-122.7901688,1.42,1.64,md,34,45,0.01023,0.03,nc,nc74009006,2024-02-27T21:58:35.301Z,"6 km W of Cobb, CA",earthquake,0.16,0.26,0.14,34,automatic,nc,nc
 2024-02-27T21:39:09.380Z,17.9603333333333,-66.8651666666667,16.42,2.15,md,8,203,0.01985,0.12,pr,pr71441453,2024-02-27T21:47:37.420Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,0.8,1.47,0.0812110984002887,4,reviewed,pr,pr
+2024-02-27T21:33:24.430Z,44.3823333333333,-116.127666666667,9.73,1.55,ml,7,158,0.3616,0.05,mb,mb90042043,2024-02-28T15:19:40.960Z,"9 km NNW of Smiths Ferry, Idaho",earthquake,0.43,2.62,0.339314978387629,7,reviewed,mb,mb
 2024-02-27T21:27:50.889Z,64.9945,-147.4451,3.7,1.5,ml,,,,0.96,ak,ak0242o9u4ls,2024-02-27T21:29:22.800Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-27T21:27:26.519Z,-21.0681,-68.9786,115.917,4.2,mb,21,57,0.476,0.67,us,us6000mfi1,2024-02-27T22:46:30.040Z,"77 km WNW of Ollagüe, Chile",earthquake,5.72,5.862,0.176,9,reviewed,us,us
 2024-02-27T21:26:11.950Z,38.4941666666667,-112.893833333333,1.99,0.37,md,12,64,0.009307,0.09,uu,uu80050646,2024-02-27T22:54:01.960Z,"14 km NE of Milford, Utah",earthquake,0.29,0.45,0.540717236712914,4,reviewed,uu,uu
@@ -152,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T21:01:59.780Z,38.8056679,-122.7768326,1.92,0.78,md,15,71,0.008156,0.03,nc,nc74008986,2024-02-27T21:03:32.542Z,"4 km NNW of The Geysers, CA",earthquake,0.29,0.51,0.16,15,automatic,nc,nc
 2024-02-27T20:59:35.000Z,36.6721649,-121.3420029,2.59,1.43,md,10,65,0.03541,0.15,nc,nc74008981,2024-02-27T21:13:40.493Z,"13 km S of Tres Pinos, CA",earthquake,0.57,1.28,0.34,10,automatic,nc,nc
 2024-02-27T20:59:24.857Z,56.3554,-158.4582,80.9,2.5,ml,,,,0.14,ak,ak0242o9fhxd,2024-02-27T21:17:44.040Z,"6 km NE of Chignik Lagoon, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2024-02-27T20:58:00.797Z,31.654,-104.116,3.6063,1.8,ml,17,90,0,0.7,tx,tx2024ebte,2024-02-27T21:10:26.056Z,"48 km NW of Toyah, Texas",earthquake,0,1.39070853507496,0.1,12,automatic,tx,tx
+2024-02-27T20:58:00.300Z,31.649,-104.117,1.9086,1.8,ml,15,51,0,0.1,tx,tx2024ebte,2024-02-28T15:20:24.537Z,"48 km NW of Toyah, Texas",earthquake,0.28850913658398714,0.5793054325775058,0.1,14,reviewed,tx,tx
 2024-02-27T20:52:00.434Z,40.1834,-119.742,18.3,0.6,ml,5,273.47,0.016,0.1501,nn,nn00873976,2024-02-28T00:20:45.468Z,"28 km NNW of Sutcliffe, Nevada",earthquake,,2.4,0.31,4,reviewed,nn,nn
 2024-02-27T20:31:02.340Z,17.9275,-66.9795,15.61,1.99,md,7,235,0.0744,0.05,pr,pr71441448,2024-02-27T20:49:57.280Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.52,0.75,0.0490229300797922,3,reviewed,pr,pr
 2024-02-27T20:17:24.340Z,38.4976666666667,-112.895,2.4,0.69,md,10,83,0.007634,0.05,uu,uu80050591,2024-02-27T21:13:42.750Z,"15 km NE of Milford, Utah",earthquake,0.28,0.46,0.78764698192698,3,reviewed,uu,uu
