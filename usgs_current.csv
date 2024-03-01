@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-01T18:37:32.120Z,38.8325005,-122.856163,2.13,0.77,md,11,134,0.01228,0.03,nc,nc74010381,2024-03-01T18:39:08.826Z,"11 km NW of The Geysers, CA",earthquake,0.37,0.63,0.34,10,automatic,nc,nc
 2024-03-01T18:30:58.210Z,37.6020012,-118.8481674,5.4,1.2,md,8,153,0.01929,0.02,nc,nc74010376,2024-03-01T18:32:33.742Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.85,1.96,0.04,9,automatic,nc,nc
+2024-03-01T18:06:12.732Z,-28.6271,-63.0012,614.791,4.4,mb,73,43,5.532,0.73,us,us6000mg5h,2024-03-01T18:47:33.040Z,"5 km WSW of Colonia Dora, Argentina",earthquake,10.34,6.771,0.091,39,reviewed,us,us
 2024-03-01T18:05:21.280Z,33.8166667,-116.9905,12.84,1.89,ml,80,32,0.02071,0.19,ci,ci40679688,2024-03-01T18:16:25.930Z,"5 km NW of San Jacinto, CA",earthquake,0.13,0.37,0.192,26,automatic,ci,ci
 2024-03-01T18:03:46.780Z,38.8255005,-122.8544998,2.23,0.76,md,13,119,0.002758,0.03,nc,nc74010361,2024-03-01T18:05:22.487Z,"10 km WNW of The Geysers, CA",earthquake,0.38,0.64,0.44,13,automatic,nc,nc
 2024-03-01T18:01:47.000Z,19.1973323822021,-155.505004882812,31.9899997711182,2.37,ml,27,67,0.05816,0.140000001,hv,hv74125566,2024-03-01T18:04:26.500Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.46,0.779999971,0.18,7,automatic,hv,hv
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T17:29:45.334Z,11.5218,57.6536,10.241,5.9,mww,230,18,13.422,1.13,us,us6000mg58,2024-03-01T18:06:10.040Z,"Owen Fracture Zone region",earthquake,8.2,4.011,0.066,22,reviewed,us,us
 2024-03-01T17:29:00.012Z,35.5427475,-96.76332092,4.194904327,1.71,ml,18,61.75413513,0.02185939811,0.2494382391,ok,ok2024egyu,2024-03-01T17:33:11.500Z,"8 km SE of Sparks, Oklahoma",earthquake,2.997556543,2.637926132,0.41,7,automatic,ok,ok
 2024-03-01T17:26:56.811Z,59.3885,-154.3067,87.2,2.7,ml,,,,1.45,ak,ak0242t628dm,2024-03-01T17:30:03.496Z,"21 km SSE of Pope-Vannoy Landing, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2024-03-01T17:25:38.191Z,27.1335,55.952,16.07,4.6,mb,154,41,2.191,0.61,us,us6000mg56,2024-03-01T18:12:33.040Z,"33 km W of Bandar Abbas, Iran",earthquake,8.65,3.992,0.046,154,reviewed,us,us
+2024-03-01T17:25:38.191Z,27.1335,55.952,16.07,4.6,mb,154,41,2.191,0.61,us,us6000mg56,2024-03-01T18:42:38.953Z,"33 km W of Bandar Abbas, Iran",earthquake,8.65,3.992,0.046,154,reviewed,us,us
 2024-03-01T17:10:19.980Z,38.493,-112.887,1.8,1.76,ml,17,57,0.00857,0.13,uu,uu80056451,2024-03-01T17:59:25.090Z,"15 km NE of Milford, Utah",earthquake,0.26,0.44,0.169675452978883,4,reviewed,uu,uu
 2024-03-01T17:09:28.820Z,38.4925,-112.898333333333,2.17,1.27,md,18,49,0.009322,0.12,uu,uu80056441,2024-03-01T18:12:38.230Z,"14 km NE of Milford, Utah",earthquake,0.27,0.45,0.338009787470109,8,reviewed,uu,uu
 2024-03-01T17:08:37.950Z,38.4943333333333,-112.895833333333,2.23,1.01,md,13,74,0.01001,0.1,uu,uu80056436,2024-03-01T18:29:55.300Z,"14 km NE of Milford, Utah",earthquake,0.3,0.44,0.513513439372176,5,reviewed,uu,uu
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T12:04:00.240Z,35.54433333,-96.74383333,7.23,2.81,ml,97,34,0,0.16,ok,ok2024egob,2024-03-01T18:02:53.901Z,"8 km NW of Prague, Oklahoma",earthquake,,0.2,0.25,40,reviewed,ok,ok
 2024-03-01T12:01:53.700Z,38.8123322,-122.8048325,2.62,1.08,md,17,41,0.008627,0.04,nc,nc74010261,2024-03-01T12:03:26.590Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.69,0.19,19,automatic,nc,nc
 2024-03-01T12:01:18.510Z,18.238,-67.1713333333333,20.92,2.54,md,10,209,0.03852,0.09,pr,pr71441598,2024-03-01T12:19:37.770Z,"5 km NW of Mayagüez, Puerto Rico",earthquake,0.38,0.63,0.0858948102009562,7,reviewed,pr,pr
-2024-03-01T11:50:41.670Z,33.3086667,-116.2436667,5.57,0.57,ml,35,55,0.07691,0.23,ci,ci40679488,2024-03-01T11:56:34.989Z,"14 km ENE of Borrego Springs, CA",earthquake,0.25,0.53,0.186,11,automatic,ci,ci
+2024-03-01T11:50:41.560Z,33.3098333,-116.2458333,6.83,0.67,ml,32,63,0.0748,0.18,ci,ci40679488,2024-03-01T18:45:57.173Z,"13 km ENE of Borrego Springs, CA",earthquake,0.24,0.65,0.124,13,reviewed,ci,ci
 2024-03-01T11:40:37.688Z,61.7167,-150.7013,42.7,1.7,ml,,,,0.48,ak,ak0242t2klbs,2024-03-01T11:42:40.655Z,"21 km NNW of Susitna, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2024-03-01T11:37:57.517Z,-5.6005,148.3124,193.837,4.8,mb,42,107,8.185,0.85,us,us6000mg1x,2024-03-01T11:58:02.040Z,"117 km NNE of Finschhafen, Papua New Guinea",earthquake,6.79,9.039,0.067,69,reviewed,us,us
 2024-03-01T11:35:42.980Z,45.3828333333333,-113.185666666667,5.01,1.44,ml,18,78,0.3954,0.12,mb,mb90042313,2024-03-01T15:12:36.980Z,"33 km SE of Wisdom, Montana",earthquake,0.39,9.18,0.190041426923489,12,reviewed,mb,mb
@@ -225,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T19:13:43.360Z,35.0596667,-118.3583333,-1.12,1.16,ml,10,78,0.07027,0.12,ci,ci40678976,2024-03-01T00:20:58.085Z,"12 km SE of Tehachapi, CA",quarry blast,0.37,31.61,0.275,4,reviewed,ci,ci
 2024-02-29T19:06:37.886Z,64.4915,-146.9732,2.9,1.8,ml,,,,0.81,ak,ak0242rjlfcc,2024-02-29T19:08:21.687Z,"4 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-29T18:49:31.820Z,53.9181666666667,-166.706,4.47,-0.34,ml,6,145,,0.13,av,av92219596,2024-03-01T00:45:29.220Z,"11 km WNW of Dutch Harbor, Alaska",earthquake,0.43,0.78,0.214465777439459,6,reviewed,av,av
-2024-02-29T18:44:54.380Z,38.838501,-122.8389969,7.34,0.82,md,5,219,0.02716,0.02,nc,nc74009926,2024-02-29T18:46:28.521Z,"10 km NW of The Geysers, CA",earthquake,2.19,2.96,0.12,6,automatic,nc,nc
