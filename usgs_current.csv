@@ -21,7 +21,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T12:50:27.300Z,44.5853333333333,-110.701666666667,9.19,0.41,md,11,90,0.04633,0.12,uu,uu80060176,2024-03-04T15:12:24.270Z,"33 km ESE of West Yellowstone, Montana",earthquake,0.54,1.21,0.346682412642974,9,reviewed,uu,uu
 2024-03-04T12:43:53.470Z,44.5913333333333,-110.7005,9.17,0.92,ml,12,70,0.04328,0.16,uu,uu80060141,2024-03-04T14:32:23.730Z,"32 km ESE of West Yellowstone, Montana",earthquake,0.51,1.1,0.378572600437101,4,reviewed,uu,uu
 2024-03-04T12:38:19.060Z,44.5926666666667,-110.704833333333,8.98,0.82,ml,12,71,0.04584,0.15,uu,uu80060121,2024-03-04T15:17:43.640Z,"32 km ESE of West Yellowstone, Montana",earthquake,0.56,1.08,0.507537268206459,3,reviewed,uu,uu
-2024-03-04T12:06:20.816Z,58.9544,-153.6668,243,2.1,ml,,,,0.81,ak,ak0242y1kqrl,2024-03-04T12:09:21.746Z,"82 km SE of Pope-Vannoy Landing, Alaska",earthquake,,11.5,,,automatic,ak,ak
 2024-03-04T12:04:22.200Z,35.9785,-118.3345,1.94,1.42,ml,31,43,0.1741,0.17,ci,ci40680608,2024-03-04T14:51:45.051Z,"26 km NNE of Kernville, CA",earthquake,0.18,0.87,0.125,19,reviewed,ci,ci
 2024-03-04T12:01:38.730Z,18.0383333333333,-66.76,16.35,2.28,md,12,118,0.1298,0.15,pr,pr71441938,2024-03-04T12:16:39.660Z,"2 km NNE of Magas Arriba, Puerto Rico",earthquake,0.51,0.65,0.369686922452868,7,reviewed,pr,pr
 2024-03-04T11:57:55.290Z,38.7921677,-122.7578354,0.48,1.08,md,14,127,0.008571,0.03,nc,nc74011666,2024-03-04T11:59:29.269Z,"2 km N of The Geysers, CA",earthquake,0.26,0.53,0.07,15,automatic,nc,nc
@@ -130,6 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T01:43:06.990Z,33.901,-117.0326667,15.09,1.11,ml,27,55,0.1489,0.18,ci,ci40680496,2024-03-04T14:54:38.402Z,"6 km WSW of Beaumont, CA",earthquake,0.28,0.78,0.328,33,reviewed,ci,ci
 2024-03-04T01:30:24.559Z,64.662,-138.4042,21.5,3.1,ml,,,,0.76,ak,ak0242xv64gx,2024-03-04T02:23:23.153Z,"83 km NE of Dawson City, Canada",earthquake,,0.9,,,reviewed,ak,ak
 2024-03-04T01:20:24.200Z,33.4778333,-116.4486667,10.61,1.33,ml,59,30,0.1051,0.18,ci,ci40680488,2024-03-04T14:55:44.410Z,"22 km ESE of Anza, CA",earthquake,0.14,0.29,0.218,27,reviewed,ci,ci
+2024-03-04T01:18:01.417Z,39.9707,-119.5682,10.5,0.5,ml,3,183.71,0.199,0.0086,nn,nn00874147,2024-03-04T15:42:40.749Z,"3 km NE of Sutcliffe, Nevada",earthquake,,9,0,1,reviewed,nn,nn
 2024-03-04T01:16:18.690Z,33.4755,-116.4476667,10.74,1.18,ml,51,39,0.1074,0.18,ci,ci40680480,2024-03-04T14:55:00.687Z,"23 km ESE of Anza, CA",earthquake,0.16,0.32,0.109,29,reviewed,ci,ci
 2024-03-04T01:13:37.308Z,62.8917,-148.9532,17.4,0.6,ml,,,,0.39,ak,ak0242xv2hpo,2024-03-04T02:16:38.183Z,"55 km S of Cantwell, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-03-04T00:53:44.240Z,38.8125,-122.7645035,1.28,1.57,md,30,49,0.01243,0.04,nc,nc74011406,2024-03-04T00:57:09.227Z,"4 km WSW of Cobb, CA",earthquake,0.2,0.29,0.15,29,automatic,nc,nc
@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-03T16:16:51.940Z,-58.9042,159.1636,10,6.7,mww,41,58,4.419,0.73,us,us6000mghc,2024-03-03T18:25:18.528Z,"Macquarie Island region",earthquake,6.59,1.748,0.062,25,reviewed,us,us
 2024-03-03T15:56:32.895Z,-29.5155,-112.014,10,5,mb,24,161,3.267,0.75,us,us6000mgha,2024-03-03T16:16:16.040Z,"Easter Island region",earthquake,12.52,1.958,0.082,47,reviewed,us,us
 2024-03-03T15:49:14.710Z,38.8398323,-122.8079987,1.63,0.54,md,8,89,0.01649,0.02,nc,nc74011121,2024-03-03T15:50:49.861Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.33,0.27,9,automatic,nc,nc
-2024-03-03T15:40:47.240Z,37.142334,-121.5261688,6.99,1.27,md,17,63,0.07169,0.08,nc,nc74011116,2024-03-03T15:42:19.807Z,"10 km NE of San Martin, CA",earthquake,0.27,0.77,0.23,12,automatic,nc,nc
-2024-03-03T15:38:27.163Z,63.9661,-148.8048,110.8,1.9,ml,,,,0.41,ak,ak0242wg0kho,2024-03-03T15:40:38.052Z,"14 km NNE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
