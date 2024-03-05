@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-05T23:27:30.350Z,45.26466751098633,-123.14350128173828,19.1100006103516,1.9416747093200684,ml,24,67,,0.129999995,uw,uw61987741,2024-03-05T23:30:23.590Z,"3 km NW of Lafayette, Oregon",earthquake,0.29,0.949999988,0.2945328652858734,13,automatic,uw,uw
 2024-03-05T23:23:03.220Z,38.8074989,-122.8154984,3.23,1.06,md,12,60,0.01077,0.06,nc,nc74012281,2024-03-05T23:24:39.783Z,"6 km WNW of The Geysers, CA",earthquake,0.44,1.09,0.31,15,automatic,nc,nc
 2024-03-05T23:14:54.389Z,60.2319,-151.6964,58,1.4,ml,,,,0.17,ak,ak0242zvpn8e,2024-03-05T23:16:16.722Z,"16 km W of Clam Gulch, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-03-05T23:14:29.050Z,36.3055000305176,-89.5051651000977,5.05000019073486,2.3599999,md,13,84,0.04962,0.100000001,nm,nm60572151,2024-03-05T23:22:48.780Z,"4 km NNW of Ridgely, Tennessee",earthquake,0.44,2.19000006,0.430000007,14,reviewed,nm,nm
@@ -113,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T11:57:03.416Z,60.8223,-150.9386,61.4,1.4,ml,,,,0.67,ak,ak0242zotjtx,2024-03-05T11:59:56.715Z,"17 km SW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-05T11:57:02.890Z,19.1743335723877,-155.458999633789,33.1199989318848,2.08999991,md,34,125,0.01905,0.129999995,hv,hv74128836,2024-03-05T11:58:48.100Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.65,0.75,0.189999998,3,automatic,hv,hv
 2024-03-05T11:56:40.211Z,64.5866,-150.2739,4.4,1.2,ml,,,,0.11,ak,ak0242zoteyd,2024-03-05T11:58:05.197Z,"49 km SSE of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-03-05T11:46:03.630Z,46.20783333333333,-122.181,6.33,0.14,ml,19,60,0.00825,0.1,uw,uw61987511,2024-03-05T23:29:23.190Z,"38 km NNE of Amboy, Washington",earthquake,0.26,0.22,0.14348347805710876,9,reviewed,uw,uw
 2024-03-05T11:38:30.310Z,35.6993333,-117.5141667,6.45,1.1,ml,28,120,0.08117,0.13,ci,ci40681104,2024-03-05T16:42:50.100Z,"12 km SW of Searles Valley, CA",earthquake,0.19,0.63,0.124,13,reviewed,ci,ci
 2024-03-05T11:34:23.290Z,33.8045,-116.1843333,6.73,2.08,ml,71,34,0.03191,0.15,ci,ci40681096,2024-03-05T16:36:31.990Z,"10 km NNE of Indio, CA",earthquake,0.13,0.3,0.149,74,reviewed,ci,ci
 2024-03-05T11:32:51.230Z,44.6668333333333,-110.0275,8.39,2.27,ml,18,103,0.09944,0.28,uu,uu80061386,2024-03-05T14:17:47.180Z,"37 km S of Silver Gate, Montana",earthquake,0.6,1.53,0.266075684220117,6,reviewed,uu,uu
@@ -222,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T23:40:53.070Z,33.802,-116.185,6.89,1.21,ml,30,74,0.03085,0.15,ci,ci40680960,2024-03-05T01:32:50.134Z,"10 km NNE of Indio, CA",earthquake,0.23,0.45,0.168,29,reviewed,ci,ci
 2024-03-04T23:38:20.180Z,46.17483333333333,-122.08183333333334,12.32,0.19,ml,12,184,0.06281,0.17,uw,uw61987411,2024-03-05T04:54:09.300Z,"40 km NE of Amboy, Washington",earthquake,0.86,0.7,0.08468949874806264,2,reviewed,uw,uw
 2024-03-04T23:36:20.120Z,38.8055,-122.7779999,1.84,1.7,md,33,76,0.008027,0.03,nc,nc74011861,2024-03-04T23:39:24.620Z,"4 km NNW of The Geysers, CA",earthquake,0.2,0.29,0.11,36,automatic,nc,nc
-2024-03-04T23:33:42.190Z,38.8043327,-122.7911682,3.08,0.3,md,14,62,0.004859,0.05,nc,nc74011856,2024-03-04T23:35:14.792Z,"4 km NW of The Geysers, CA",earthquake,0.39,0.86,0.17,15,automatic,nc,nc
-2024-03-04T23:32:27.160Z,33.0875,-116.1651667,7.75,1.28,ml,38,78,0.06804,0.18,ci,ci40680952,2024-03-05T01:18:34.251Z,"7 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.86,0.191,21,reviewed,ci,ci
-2024-03-04T23:31:35.580Z,38.4891666666667,-112.8995,2.02,1.09,md,19,57,0.007655,0.14,uu,uu80060971,2024-03-04T23:49:33.930Z,"14 km NE of Milford, Utah",earthquake,0.27,0.52,0.122474667347423,9,reviewed,uu,uu
