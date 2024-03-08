@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-08T20:34:31.950Z,33.9920006,-117.1520004,16.17,1.29,ml,32,141,0.04774,0.14,ci,ci40683800,2024-03-08T20:36:34.411Z,"8 km SSE of Redlands, CA",earthquake,0.39,0.68,0.185,8,automatic,ci,ci
+2024-03-08T20:34:32.040Z,33.986,-117.1481667,14.91,1.21,ml,44,57,0.04362,0.15,ci,ci40683800,2024-03-08T20:41:23.454Z,"8 km SSE of Redlands, CA",earthquake,0.19,0.33,0.194,29,automatic,ci,ci
 2024-03-08T20:25:02.482Z,64.9716,-147.4336,2.3,1.5,ml,,,,0.56,ak,ak02434sljhn,2024-03-08T20:27:16.586Z,"8 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-08T20:22:12.880Z,38.7840004,-122.7248306,1.04,1.06,md,13,84,0.02237,0.04,nc,nc74013936,2024-03-08T20:23:48.433Z,"3 km ENE of The Geysers, CA",earthquake,0.26,0.77,0.09,12,automatic,nc,nc
-2024-03-08T20:00:46.560Z,33.8673333,-117.5076667,1.97,1.23,ml,26,57,0.07209,0.21,ci,ci40683768,2024-03-08T20:07:06.723Z,"2 km SE of Home Gardens, CA",earthquake,0.26,0.37,0.396,33,automatic,ci,ci
+2024-03-08T20:00:46.400Z,33.8711667,-117.5043333,-0.53,0.98,ml,18,57,0.07287,0.23,ci,ci40683768,2024-03-08T20:42:00.797Z,"2 km ESE of Home Gardens, CA",quarry blast,0.38,31.61,0.168,6,reviewed,ci,ci
 2024-03-08T20:00:05.233Z,62.3044,-150.4274,22,1.2,ml,,,,0.4,ak,ak02434sga32,2024-03-08T20:02:32.471Z,"10 km W of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-08T19:42:45.350Z,35.53333333,-96.7615,6,1.75,ml,66,46,0.008098410816,0.19,ok,ok2024etxs,2024-03-08T19:56:35.091Z,"8 km NW of Prague, Oklahoma",earthquake,,0.2,0.23,21,reviewed,ok,ok
-2024-03-08T19:38:01.745Z,36.86,-116.2356,4.2,1,ml,21,72.97,0.044,0.1555,nn,nn00874395,2024-03-08T19:39:45.067Z,"46 km E of Beatty, Nevada",earthquake,,1.3,0.6,15,automatic,nn,nn
+2024-03-08T19:38:02.309Z,36.8587,-116.2447,5,0.8,ml,34,38.68,0.044,0.1398,nn,nn00874395,2024-03-08T20:45:55.620Z,"46 km E of Beatty, Nevada",earthquake,,1,0.38,19,reviewed,nn,nn
 2024-03-08T19:28:58.229Z,39.3896,-119.7075,6.7,1.9,ml,17,72.63,0.044,0.1552,nn,nn00874392,2024-03-08T20:17:08.555Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.1,0.32,4,reviewed,nn,nn
 2024-03-08T19:26:00.440Z,38.8246651,-122.8043365,1.49,1.28,md,23,34,0.004658,0.04,nc,nc74013916,2024-03-08T19:27:34.854Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,27,automatic,nc,nc
 2024-03-08T19:20:59.550Z,38.8339996,-122.8154984,1.6,1.06,md,21,57,0.01627,0.02,nc,nc74013911,2024-03-08T19:22:34.810Z,"8 km W of Cobb, CA",earthquake,0.21,0.4,0.12,23,automatic,nc,nc
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-08T16:43:53.070Z,38.7804985,-122.7375031,-0.87,1.08,md,9,139,0.002801,0.2,nc,nc74013801,2024-03-08T16:45:29.014Z,"2 km ENE of The Geysers, CA",earthquake,0.68,1.77,0.16,8,automatic,nc,nc
 2024-03-08T16:35:19.410Z,38.7804985,-122.7226639,1.27,1.17,md,8,81,0.01133,0.01,nc,nc74013796,2024-03-08T16:36:53.964Z,"3 km WNW of Anderson Springs, CA",earthquake,0.59,1.63,0.15,7,automatic,nc,nc
 2024-03-08T16:30:48.119Z,64.4818,-146.9521,9.1,1.1,ml,,,,0.22,ak,ak02434q92gk,2024-03-08T16:33:37.014Z,"5 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-08T16:18:07.380Z,38.7281685,-122.3731689,4.3,1.52,md,6,191,0.1005,0.05,nc,nc74013786,2024-03-08T16:19:42.757Z,"18 km NNE of Angwin, CA",earthquake,0.93,2.34,0.11,6,automatic,nc,nc
+2024-03-08T16:18:06.750Z,38.7343333,-122.357,12.16,1.48,md,37,71,0.02471,0.19,nc,nc74013786,2024-03-08T20:41:02.955Z,"19 km ESE of Hidden Valley Lake, CA",earthquake,0.31,0.35,0.164,31,reviewed,nc,nc
 2024-03-08T16:10:00.960Z,38.8256683,-122.7668304,1.95,0.21,md,7,123,0.005366,0.01,nc,nc74013781,2024-03-08T16:11:32.694Z,"4 km W of Cobb, CA",earthquake,0.5,0.71,0.08,8,automatic,nc,nc
 2024-03-08T15:45:46.990Z,38.7905006,-122.7708359,0.1,0.29,md,6,128,0.01333,0.03,nc,nc74013776,2024-03-08T15:47:23.426Z,"2 km NW of The Geysers, CA",earthquake,0.37,1.35,0.07,8,automatic,nc,nc
 2024-03-08T15:42:31.530Z,43.73566666666667,-121.223,-1.814952,0.43,ml,5,198,0.01552,0.17,uw,uw61988781,2024-03-08T18:00:45.260Z,"21 km ESE of Three Rivers, Oregon",other event,1.03,0.47,0.08727810575369377,2,reviewed,uw,uw
@@ -242,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T21:02:45.811Z,31.655,-104.396,5.3821,2.9,ml,20,71,0,0.1,tx,tx2024esew,2024-03-07T21:23:25.040Z,"57 km S of Whites City, New Mexico",earthquake,1.1655619152539551,1.0999087615230445,0.2,18,reviewed,tx,tx
 2024-03-07T20:54:56.387Z,40.2787,142.2468,51.353,4.3,mb,34,183,1.035,0.41,us,us7000m40a,2024-03-08T17:42:22.040Z,"41 km ENE of Noda, Japan",earthquake,7.26,9.492,0.125,18,reviewed,us,us
 2024-03-07T20:52:14.787Z,61.0007,-150.4961,41.6,1.5,ml,,,,0.41,ak,ak02433583k6,2024-03-07T20:54:25.316Z,"13 km NE of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2024-03-07T20:46:45.448Z,-11.3703,118.7824,10,4.5,mb,30,53,2.714,0.56,us,us7000m406,2024-03-07T21:17:00.040Z,"220 km SSW of Tambolaka, Indonesia",earthquake,4.68,1.855,0.118,21,reviewed,us,us
-2024-03-07T20:46:07.010Z,60.0065,-153.077333333333,-2.07,-0.66,ml,4,132,,0.12,av,av92225166,2024-03-08T01:11:33.070Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.36,3.05,0.154277512564971,4,reviewed,av,av
-2024-03-07T20:42:10.210Z,37.3676682,-121.7268295,7.42,1.49,md,23,63,0.1012,0.06,nc,nc74013331,2024-03-07T20:43:45.337Z,"9 km E of Alum Rock, CA",earthquake,0.17,0.62,0.13,14,automatic,nc,nc
