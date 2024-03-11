@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-11T14:06:17.250Z,38.7905006,-122.7653351,1.74,0.75,md,14,71,0.01102,0.06,nc,nc74015601,2024-03-11T14:07:50.110Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.56,0.06,14,automatic,nc,nc
+2024-03-11T14:05:50.310Z,38.8323326,-122.815834,1.69,0.27,md,12,67,0.009994,0.02,nc,nc74015596,2024-03-11T14:07:25.106Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.77,0.16,12,automatic,nc,nc
+2024-03-11T14:01:55.700Z,37.2888336,-121.6603317,5.26,2.32,md,53,40,0.03149,0.07,nc,nc74015591,2024-03-11T14:04:52.961Z,"16 km E of Seven Trees, CA",earthquake,0.14,0.35,0.13,54,automatic,nc,nc
+2024-03-11T13:57:47.033Z,62.0072,-148.8747,31.5,2.2,ml,,,,0.56,ak,ak02439n8ldb,2024-03-11T13:59:17.242Z,"26 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-11T13:27:41.740Z,38.8325005,-122.8143311,1.6,1.04,md,22,44,0.009681,0.02,nc,nc74015586,2024-03-11T13:29:13.710Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.39,0.21,23,automatic,nc,nc
 2024-03-11T13:19:55.020Z,39.3414993,-123.2518311,4.81,1.78,md,10,76,0.1012,0.03,nc,nc74015581,2024-03-11T13:21:28.628Z,"9 km NNW of Redwood Valley, CA",earthquake,0.33,2.24,0.1,8,automatic,nc,nc
 2024-03-11T13:16:11.583Z,61.932,-150.2864,18.5,1.3,ml,,,,0.38,ak,ak02439mzq9y,2024-03-11T13:18:16.358Z,"24 km NNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -21,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T12:04:46.568Z,61.0397,-148.2905,16.5,1.4,ml,,,,0.69,ak,ak02439mbss0,2024-03-11T12:06:53.207Z,"36 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-11T12:00:38.420Z,36.0726667,-117.8498333,1.99,0.84,ml,18,78,0.045,0.11,ci,ci40685512,2024-03-11T13:07:58.902Z,"9 km ENE of Coso Junction, CA",earthquake,0.14,0.18,0.134,10,reviewed,ci,ci
 2024-03-11T11:57:59.170Z,19.242166519165,-155.382827758789,31.8199996948242,2.25,md,53,142,0.08922,0.129999995,hv,hv74133781,2024-03-11T12:00:06.650Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.639999986,0.25,19,automatic,hv,hv
-2024-03-11T11:48:40.900Z,36.4971667,-118.1945,10.15,3.09,ml,34,69,0.1085,0.18,ci,ci40685504,2024-03-11T13:55:57.630Z,"15 km SW of Lone Pine, CA",earthquake,0.18,0.64,0.122,125,reviewed,ci,ci
+2024-03-11T11:48:40.900Z,36.4971667,-118.1945,10.15,3.09,ml,34,69,0.1085,0.18,ci,ci40685504,2024-03-11T13:56:51.570Z,"15 km SW of Lone Pine, CA",earthquake,0.18,0.64,0.122,125,reviewed,ci,ci
 2024-03-11T11:26:59.865Z,61.1166,-150.7624,33.5,1.9,ml,,,,0.63,ak,ak02439lv3ya,2024-03-11T11:29:30.235Z,"17 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-11T11:16:48.476Z,63.4657,-148.8534,6.2,1.6,ml,,,,0.47,ak,ak02439lsxwv,2024-03-11T11:18:50.866Z,"9 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-11T10:55:01.644Z,63.1911,-150.5425,131.2,1.9,ml,,,,0.18,ak,ak02439lfrmc,2024-03-11T10:57:07.296Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -189,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-10T14:25:52.740Z,38.8143349,-122.8180008,2.38,0.79,md,16,53,0.0103,0.02,nc,nc74015066,2024-03-10T14:27:24.602Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.66,0.08,18,automatic,nc,nc
 2024-03-10T14:18:59.090Z,38.8148346,-122.8166656,2.46,1.81,md,37,49,0.009979,0.05,nc,nc74015061,2024-03-10T14:22:01.795Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.31,0.13,35,automatic,nc,nc
 2024-03-10T14:18:17.550Z,35.7068333,-117.5573333,3.06,1.63,ml,36,58,0.1028,0.14,ci,ci40685088,2024-03-10T23:32:49.484Z,"14 km NE of Ridgecrest, CA",earthquake,0.16,0.42,0.135,25,automatic,ci,ci
-2024-03-10T14:05:59.530Z,35.8643333,-117.6681667,9.66,0.63,ml,23,63,0.08463,0.13,ci,ci40685080,2024-03-10T15:26:38.175Z,"23 km ESE of Little Lake, CA",earthquake,0.22,0.4,0.092,6,reviewed,ci,ci
-2024-03-10T14:03:36.120Z,19.1900005340576,-155.387329101562,30.3700008392334,2.53999996,md,49,173,0.07861,0.140000001,hv,hv74133051,2024-03-10T14:06:24.180Z,"9 km E of Pāhala, Hawaii",earthquake,0.39,0.560000002,0.280000001,13,automatic,hv,hv
