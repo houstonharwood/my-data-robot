@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-17T17:41:26.510Z,37.9716682,-122.0511703,15.2,1.75,md,22,91,0.06176,0.12,nc,nc74018986,2024-03-17T17:43:03.821Z,"2 km ESE of Pacheco, CA",earthquake,0.43,0.89,0.15,17,automatic,nc,nc
 2024-03-17T17:34:11.848Z,61.6844,-149.7096,6.8,2.4,ml,,,,0.9,ak,ak0243jmpekg,2024-03-17T17:36:08.188Z,"8 km NE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-17T17:33:33.250Z,38.8154984,-122.8198318,2.37,1.08,md,16,73,0.01097,0.02,nc,nc74018981,2024-03-17T17:35:09.686Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.68,0.11,18,automatic,nc,nc
 2024-03-17T17:25:11.725Z,61.4724,-147.9711,19.1,1,ml,,,,0.24,ak,ak0243jmnh44,2024-03-17T17:26:57.676Z,"40 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -163,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T00:44:03.563Z,12.3515,-87.6834,52.796,5.6,mww,70,132,0.732,1.36,us,us6000mjct,2024-03-17T07:59:59.380Z,"50 km SSW of Jiquilillo, Nicaragua",earthquake,6.82,5.061,0.05,38,reviewed,us,us
 2024-03-17T00:43:27.970Z,39.4118,-119.6967,7.7,0.7,ml,11,128.21,0.057,0.1641,nn,nn00874906,2024-03-17T02:56:53.506Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.5,0.09,5,reviewed,nn,nn
 2024-03-17T00:41:10.840Z,17.8608333333333,-65.599,6.09,3.42,md,27,175,0.2392,0.39,pr,pr71443128,2024-03-17T02:10:50.040Z,"29 km SSW of Esperanza, Puerto Rico",earthquake,0.79,1.1,0.0989364803721733,15,reviewed,pr,pr
-2024-03-17T00:37:10.820Z,35.6461678,-117.4543304,7.33,1.11,ml,19,60,0.03129,0.13,ci,ci40688224,2024-03-17T14:24:33.598Z,"14 km SSW of Searles Valley, CA",earthquake,0.39,0.57,0.143,13,reviewed,ci,ci
+2024-03-17T00:37:10.770Z,35.6465,-117.4576667,7.34,1.17,ml,27,57,0.03331,0.11,ci,ci40688224,2024-03-17T17:43:40.436Z,"14 km SSW of Searles Valley, CA",earthquake,0.17,0.3,0.191,14,reviewed,ci,ci
 2024-03-17T00:35:55.440Z,38.829834,-122.8531647,1.79,1.08,md,15,74,0.00369,0.02,nc,nc74018586,2024-03-17T00:37:29.973Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.5,0.14,16,automatic,nc,nc
 2024-03-17T00:34:12.400Z,38.8253326,-122.7953339,2.86,0.95,md,13,52,0.01168,0.02,nc,nc74018581,2024-03-17T00:35:44.959Z,"6 km W of Cobb, CA",earthquake,0.36,0.66,0.25,17,automatic,nc,nc
 2024-03-17T00:15:11.750Z,38.8344994,-122.8180008,2.04,0.76,md,10,66,0.0127,0.01,nc,nc74018571,2024-03-17T00:16:45.713Z,"8 km NW of The Geysers, CA",earthquake,0.39,1,0.17,11,automatic,nc,nc
@@ -221,6 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T17:55:42.650Z,38.810833,-122.8201675,2.64,0.3,md,6,110,0.007308,0.01,nc,nc74018461,2024-03-16T17:57:18.484Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.31,0.13,8,automatic,nc,nc
 2024-03-16T17:53:51.832Z,57.4019,-155.8421,65,3,ml,,,,0.34,ak,ak0243hza7po,2024-03-16T20:57:16.040Z,"85 km WSW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-16T17:46:01.092Z,62.5382,-148.9107,47,1.5,ml,,,,0.66,ak,ak0243hz8lu1,2024-03-16T17:48:17.764Z,"62 km E of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-03-16T17:43:42.560Z,39.7595,-119.4834,12.8,1.3,ml,9,142,0.09,0.2891,nn,nn00874887,2024-03-16T17:45:52.656Z,"13 km SW of Nixon, Nevada",earthquake,,1,0.22,4,automatic,nn,nn
-2024-03-16T17:42:31.990Z,19.1833324432373,-155.442993164062,30.9899997711182,2.17000008,md,39,149,0.03313,0.109999999,hv,hv74138652,2024-03-16T17:44:20.190Z,"4 km ESE of Pāhala, Hawaii",earthquake,0.48,0.540000021,0.0900000036,10,automatic,hv,hv
-2024-03-16T17:40:23.240Z,19.1609992980957,-155.480163574219,32.6399993896484,1.91999996,md,32,114,0.01795,0.119999997,hv,hv74138647,2024-03-16T17:42:06.710Z,"4 km S of Pāhala, Hawaii",earthquake,0.63,0.689999998,0.50999999,3,automatic,hv,hv
