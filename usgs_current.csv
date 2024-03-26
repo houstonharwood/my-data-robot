@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-26T04:19:41.920Z,38.8233337,-122.8014984,2.53,0.8,md,11,73,0.006699,0.03,nc,nc74024141,2024-03-26T04:21:17.676Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.91,0.12,13,automatic,nc,nc
+2024-03-26T04:11:02.140Z,33.4066667,-116.3523333,11.39,1.06,ml,44,44,0.05683,0.19,ci,ci40524535,2024-03-26T04:17:14.361Z,"17 km N of Borrego Springs, CA",earthquake,0.19,0.33,0.144,24,automatic,ci,ci
 2024-03-26T03:56:10.580Z,35.7026672,-121.1368332,6.89,1.29,md,10,105,0.02453,0.06,nc,nc74024131,2024-03-26T03:57:46.436Z,"8 km NE of San Simeon, CA",earthquake,0.5,0.67,0.03,8,automatic,nc,nc
 2024-03-26T03:53:36.310Z,38.7915001,-122.80233,3.07,0.73,md,13,64,0.003222,0.02,nc,nc74024126,2024-03-26T03:55:12.383Z,"4 km WNW of The Geysers, CA",earthquake,0.39,0.89,0.1,14,automatic,nc,nc
 2024-03-26T03:47:16.130Z,43.5063,-110.3684,8.581,2.5,ml,52,54,0.201,0.52,us,us7000m80m,2024-03-26T04:00:48.040Z,"24 km ESE of Kelly, Wyoming",earthquake,3.18,8.52,0.042,76,reviewed,us,us
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T01:07:26.910Z,38.7900009,-122.8036652,3.32,1.09,md,7,115,0.001736,0.01,nc,nc74024021,2024-03-26T01:09:01.687Z,"4 km WNW of The Geysers, CA",earthquake,0.56,1.36,0.03,8,automatic,nc,nc
 2024-03-26T01:06:10.380Z,38.831665,-122.7724991,15.94,1.07,md,7,203,0.01946,0.11,nc,nc74024011,2024-03-26T01:07:46.674Z,"4 km WNW of Cobb, CA",earthquake,3.42,4.9,0.11,4,automatic,nc,nc
 2024-03-26T01:01:38.740Z,38.7926674,-122.8014984,2.88,1.09,md,21,40,0.004506,0.03,nc,nc74024006,2024-03-26T01:03:11.698Z,"4 km WNW of The Geysers, CA",earthquake,0.24,0.48,0.14,23,automatic,nc,nc
-2024-03-26T01:01:08.204Z,36.7726,-116.2528,11.5,-0.1,ml,14,93.99,0.048,0.0681,nn,nn00875346,2024-03-26T01:03:00.908Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.96,6,automatic,nn,nn
+2024-03-26T01:01:08.759Z,36.7729,-116.2538,9.9,0.1,ml,21,59.97,0.037,0.075,nn,nn00875346,2024-03-26T04:09:20.770Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.42,10,reviewed,nn,nn
 2024-03-26T01:00:50.240Z,38.7900009,-122.8026657,2.9,2.39,md,52,39,0.001702,0.06,nc,nc74024001,2024-03-26T01:03:59.811Z,"4 km WNW of The Geysers, CA",earthquake,0.15,0.25,0.18,55,automatic,nc,nc
 2024-03-26T00:57:46.030Z,38.8330002,-122.8176651,1.53,0.5,md,9,84,0.01128,0.01,nc,nc74023996,2024-03-26T00:59:20.600Z,"8 km NW of The Geysers, CA",earthquake,0.32,1.07,0.28,9,automatic,nc,nc
 2024-03-26T00:57:23.020Z,38.8301659,-122.8164978,1.35,2.09,md,36,46,0.0161,0.05,nc,nc74023991,2024-03-26T01:00:28.735Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.26,0.14,39,automatic,nc,nc
@@ -204,6 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T08:01:30.980Z,47.68516666666667,-122.12683333333334,32.69,2.58,ml,94,24,0.02352,0.26,uw,uw61992201,2024-03-26T02:14:01.642Z,"1 km NNW of Redmond, Washington",earthquake,0.26,0.45,0.2010010956175008,78,reviewed,uw,uw
 2024-03-25T07:56:45.808Z,66.0709,-148.3354,22.7,1.3,ml,,,,0.5,ak,ak0243wp6muc,2024-03-25T07:58:52.497Z,"34 km ENE of Stevens Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-25T07:48:08.190Z,38.3998337,-122.4394989,3.44,1.57,md,6,216,0.2739,0.2,nc,nc74023521,2024-03-26T00:01:07.429Z,"7 km W of Yountville, CA",earthquake,9.44,13.76,,1,automatic,nc,nc
+2024-03-25T07:44:12.910Z,54.139,-165.91,1.09,-0.57,ml,5,155,,0.11,av,av92240731,2024-03-26T04:22:09.040Z,"8 km W of Akutan, Alaska",earthquake,0.45,0.9,0.0364988510200408,3,reviewed,av,av
 2024-03-25T07:25:00.630Z,46.88616666666667,-121.89333333333333,10.57,0.36,ml,23,106,0.03888,0.1,uw,uw61992196,2024-03-25T20:35:16.790Z,"17 km NE of Ashford, Washington",earthquake,0.23,0.42,0.1385545017383505,8,reviewed,uw,uw
 2024-03-25T07:18:00.425Z,62.0309,-152.0654,103.4,2.2,ml,,,,0.6,ak,ak0243woye4q,2024-03-25T07:20:52.522Z,"35 km W of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T07:14:02.260Z,37.0771667,-121.183,6.43,3.14,ml,101,37,0.03067,0.17,nc,nc74023516,2024-03-25T21:59:31.462Z,"26 km SW of Gustine, CA",earthquake,0.15,0.36,0.145,72,reviewed,nc,nc
@@ -212,7 +215,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T07:03:15.210Z,17.9915,-66.8421666666667,15.12,2.37,md,8,169,0.03891,0.16,pr,pr71443848,2024-03-25T07:17:07.420Z,"2 km W of Indios, Puerto Rico",earthquake,0.64,0.84,0.192437466260384,4,reviewed,pr,pr
 2024-03-25T06:58:26.060Z,40.5208333,-124.3845,18.28,2.71,md,35,220,0.05771,0.09,nc,nc74023506,2024-03-25T23:57:13.524Z,"12 km WSW of Ferndale, CA",earthquake,0.4,0.25,0.113,48,reviewed,nc,nc
 2024-03-25T06:54:57.579Z,34.7055,-96.6455,5,2.42,ml,86,73,0.2087590344,0.24,ok,ok2024fxzy,2024-03-25T12:13:21.803Z,"8 km SSE of Ada, Oklahoma",earthquake,,0.7,0.23,31,reviewed,ok,ok
-2024-03-25T06:52:39.643Z,58.2611,-155.139,1.1,0.4,ml,,,,0.39,ak,ak0243wokbwc,2024-03-25T06:54:04.076Z,"87 km NNW of Karluk, Alaska",earthquake,,3.2,,,automatic,ak,ak
+2024-03-25T06:52:45.920Z,58.2518333333333,-155.134166666667,5.27,0.23,ml,8,79,,0.32,av,av91137698,2024-03-26T04:15:37.520Z,"86 km NNW of Karluk, Alaska",earthquake,0.68,1.48,0.247964274336696,8,reviewed,av,av
+2024-03-25T06:52:39.643Z,58.2611,-155.139,1.1,0.4,ml,,,,0.39,ak,ak0243wokbwc,2024-03-26T04:10:31.200Z,"87 km NNW of Karluk, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-03-25T06:51:26.880Z,34.842,-118.9088333,11.44,1.36,ml,26,53,0.08321,0.2,ci,ci40523935,2024-03-25T13:20:33.932Z,"4 km ENE of Frazier Park, CA",earthquake,0.26,0.6,0.293,19,reviewed,ci,ci
 2024-03-25T06:27:30.630Z,38.8250008,-122.7724991,8.06,0.71,md,7,126,0.005824,0.05,nc,nc74023491,2024-03-25T06:29:05.505Z,"4 km W of Cobb, CA",earthquake,2.15,6.83,0.33,10,automatic,nc,nc
 2024-03-25T06:25:53.110Z,18.8028333333333,-65.3493333333333,8.06,3.4,md,15,252,0.5827,0.27,pr,pr71443838,2024-03-25T06:39:17.370Z,"55 km N of Culebra, Puerto Rico",earthquake,1.05,1.67,0.101641998418194,7,reviewed,pr,pr
@@ -230,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T04:29:44.310Z,38.8364983,-122.8398361,1.01,0.67,md,8,116,0.003987,0.05,nc,nc74023471,2024-03-25T04:31:20.201Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.93,0.11,8,automatic,nc,nc
 2024-03-25T04:28:58.340Z,33.16,-116.4728333,7.79,1.68,ml,69,32,0.08745,0.18,ci,ci40523919,2024-03-25T13:21:48.400Z,"14 km SW of Borrego Springs, CA",earthquake,0.14,0.7,0.248,29,reviewed,ci,ci
 2024-03-25T04:27:10.103Z,31.43,-103.846,6.0358,2,ml,18,82,0.1,0.1,tx,tx2024fxvb,2024-03-25T11:51:23.626Z,"13 km NNW of Toyah, Texas",earthquake,0.4406964852968285,0.8123205851431485,0.1,19,reviewed,tx,tx
-2024-03-25T04:17:03.872Z,39.2869,-119.6453,0,0.8,ml,11,144.61,0.114,0.156,nn,nn00875290,2024-03-26T02:04:30.162Z,"2 km S of Virginia City, Nevada",earthquake,,16,0.29,5,reviewed,nn,nn
-2024-03-25T04:16:39.391Z,-20.1184,-178.33,594.07,4.8,mb,71,40,3.109,0.66,us,us6000ml10,2024-03-25T05:00:15.040Z,"Fiji region",earthquake,11,4.569,0.037,232,reviewed,us,us
-2024-03-25T04:09:43.330Z,44.3585,-116.141166666667,3.89,1.74,ml,9,92,0.2003,0.23,mb,mb90044053,2024-03-25T16:33:40.740Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.61,12.25,0.290716874226548,7,reviewed,mb,mb
