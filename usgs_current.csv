@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T17:34:24.490Z,40.2783318,-124.7821655,4.84,3.12,ml,28,278,0.3364,0.26,nc,nc74025051,2024-03-27T17:36:25.818Z,"42 km W of Petrolia, CA",earthquake,3.48,2.95,0.26,8,automatic,nc,nc
+2024-03-27T17:29:52.040Z,38.8103333,-122.8243332,2.15,1.07,md,9,80,0.004058,0.02,nc,nc74025046,2024-03-27T17:31:26.728Z,"7 km WNW of The Geysers, CA",earthquake,0.44,0.77,0.08,10,automatic,nc,nc
+2024-03-27T17:28:55.780Z,63.3019,-150.4153,115.1,1.2,ml,,,,0.31,ak,ak0244061olm,2024-03-27T17:35:56.985Z,"70 km ESE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-03-27T17:28:42.840Z,38.8096657,-122.8236694,2.11,0.75,md,12,71,0.004377,0.02,nc,nc74025041,2024-03-27T17:30:16.593Z,"7 km WNW of The Geysers, CA",earthquake,0.33,0.72,0.25,12,automatic,nc,nc
 2024-03-27T17:27:50.390Z,38.7955017,-122.8095016,3.03,0.78,md,14,84,0.008752,0.02,nc,nc74025036,2024-03-27T17:29:26.601Z,"5 km WNW of The Geysers, CA",earthquake,0.35,0.86,0.09,16,automatic,nc,nc
 2024-03-27T17:12:55.120Z,38.8494987,-122.8209991,2.72,0.77,md,7,114,0.005471,0.04,nc,nc74025031,2024-03-27T17:14:30.393Z,"9 km WNW of Cobb, CA",earthquake,0.56,1.37,0.11,10,automatic,nc,nc
@@ -127,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T04:00:48.010Z,33.1329994,-115.6220016,5.47,1.51,ml,26,93,0.03706,0.13,ci,ci40699920,2024-03-27T04:03:18.569Z,"10 km W of Calipatria, CA",earthquake,0.22,0.45,0.301,6,automatic,ci,ci
 2024-03-27T03:56:11.290Z,47.7841666666667,-113.7525,7.38,0.79,ml,9,177,0.1917,0.02,mb,mb90044228,2024-03-27T14:59:17.700Z,"17 km SSE of Swan Lake, Montana",earthquake,1.01,1.55,0.443789433857899,3,reviewed,mb,mb
 2024-03-27T03:52:14.560Z,17.9228333333333,-66.8533333333333,15.62,2.53,md,9,226,0.0575,0.13,pr,pr71443958,2024-03-27T04:49:38.423Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.89,0.64,0.160489756016964,5,reviewed,pr,pr
-2024-03-27T03:49:21.760Z,32.5221667,-117.2266667,13.59,1.16,ml,14,173,0.108,0.14,ci,ci40699904,2024-03-27T17:31:13.680Z,"13 km WSW of Imperial Beach, CA",earthquake,0.43,1.09,0.103,7,reviewed,ci,ci
+2024-03-27T03:49:21.760Z,32.5221667,-117.2266667,13.59,1.16,ml,14,173,0.108,0.14,ci,ci40699904,2024-03-27T17:31:18.919Z,"13 km WSW of Imperial Beach, CA",earthquake,0.43,1.09,0.103,7,reviewed,ci,ci
 2024-03-27T03:49:16.338Z,42.3166,-126.5022,10,4.1,mb,67,201,1.597,0.89,us,us7000m87e,2024-03-27T04:08:33.040Z,"171 km WSW of Port Orford, Oregon",earthquake,8.61,1.977,0.086,37,reviewed,us,us
 2024-03-27T03:42:34.474Z,63.3036,-151.3377,0,1.8,ml,,,,0.67,ak,ak0243zxskif,2024-03-27T03:44:40.116Z,"32 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T03:38:41.620Z,19.1933326721191,-155.378005981445,31.0200004577637,2.02999997,md,43,165,0.08799,0.150000006,hv,hv74150907,2024-03-27T03:40:26.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.699999988,0.300000012,6,automatic,hv,hv
@@ -246,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T17:52:58.620Z,38.8306656,-122.7914963,1.71,0.27,md,8,71,0.007784,0.01,nc,nc74024446,2024-03-26T17:54:33.308Z,"6 km W of Cobb, CA",earthquake,0.42,1.1,0.16,8,automatic,nc,nc
 2024-03-26T17:49:35.400Z,-5.3196,145.8601,68.156,5.2,mww,122,48,5.851,0.69,us,us7000m845,2024-03-27T04:37:52.969Z,"13 km SE of Madang, Papua New Guinea",earthquake,6.14,6.331,0.11,8,reviewed,us,us
 2024-03-26T17:41:44.730Z,51.8893333333333,-178.645833333333,18.23,0.74,ml,6,213,0.1092,0.12,av,av93068286,2024-03-26T17:51:53.780Z,"138 km W of Adak, Alaska",earthquake,3.3,2.5,0.178535469439811,6,reviewed,av,av
-2024-03-26T17:33:45.730Z,38.7878342,-122.7573318,-0.59,0.77,md,8,81,0.01291,0.11,nc,nc74024426,2024-03-26T17:35:17.824Z,"1 km N of The Geysers, CA",earthquake,0.36,1.53,0.06,9,automatic,nc,nc
-2024-03-26T17:33:22.070Z,46.32333333333333,-122.232,5.09,0.51,ml,17,278,0.03031,0.12,uw,uw61992481,2024-03-27T02:57:17.730Z,"26 km S of Morton, Washington",earthquake,0.55,0.47,0.10735358352298541,10,reviewed,uw,uw
