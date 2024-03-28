@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-28T22:26:18.239Z,37.4162,-116.9499,0,1.5,ml,16,205.54,0.273,0.3555,nn,nn00875501,2024-03-28T22:28:41.511Z,"41 km SE of Goldfield, Nevada",earthquake,,32.4,0.18,12,automatic,nn,nn
 2024-03-28T22:24:10.850Z,17.9125,-66.8626666666667,15.09,2.14,md,5,233,0.06419,0.29,pr,pr71444073,2024-03-28T22:39:12.290Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.81,1.44,0.0852505948847262,5,reviewed,pr,pr
-2024-03-28T22:16:20.560Z,19.388500213623,-155.279006958008,0.959999978542328,1.79999995,md,9,93,0.00322,0.100000001,hv,hv74153052,2024-03-28T22:18:57.350Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.310000002,0.379999995,7,automatic,hv,hv
+2024-03-28T22:16:20.560Z,19.388500213623,-155.279006958008,0.959999978542328,1.79999995,md,9,93,0.00322,0.100000001,hv,hv74153052,2024-03-28T22:55:34.221Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.310000002,0.379999995,7,automatic,hv,hv
 2024-03-28T22:11:55.220Z,38.779335,-122.7463303,2.04,0.82,md,8,125,0.01745,0.03,nc,nc74025646,2024-03-28T22:13:30.172Z,"1 km ENE of The Geysers, CA",earthquake,0.64,1.41,0.1,8,automatic,nc,nc
 2024-03-28T22:11:36.670Z,38.777832,-122.7468338,2.02,1.72,md,30,71,0.009568,0.04,nc,nc74025641,2024-03-28T22:13:10.288Z,"1 km E of The Geysers, CA",earthquake,0.22,0.43,0.14,31,automatic,nc,nc
 2024-03-28T21:59:07.680Z,38.8204994,-122.8088303,3.09,0.78,md,11,85,0.00305,0.01,nc,nc74025636,2024-03-28T22:00:40.059Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.17,0.15,12,automatic,nc,nc
@@ -156,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T06:46:37.090Z,33.3768333,-116.9408333,7.9,0.75,ml,35,31,0.06941,0.23,ci,ci40700840,2024-03-28T19:43:26.426Z,"8 km WNW of Palomar Observatory, CA",earthquake,0.24,0.77,0.154,14,reviewed,ci,ci
 2024-03-28T06:37:17.397Z,-17.7403,-69.1766,155.354,4.3,mb,17,86,1.274,0.77,us,us7000m8gx,2024-03-28T07:57:02.040Z,"80 km W of Curahuara de Carangas, Bolivia",earthquake,4.9,9.948,0.125,18,reviewed,us,us
 2024-03-28T06:30:31.530Z,35.12266667,-95.559,7.19,1.59,ml,65,54,0.1079788109,0.26,ok,ok2024gdlq,2024-03-28T12:48:46.339Z,"10 km E of Crowder, Oklahoma",earthquake,,0.7,0.25,14,reviewed,ok,ok
+2024-03-28T06:29:24.820Z,58.1776666666667,-155.340666666667,2.18,0.75,ml,12,170,0.03311,0.12,av,av93000219,2024-03-28T22:53:52.920Z,"85 km NW of Karluk, Alaska",earthquake,0.34,0.43,0.307729970947534,12,reviewed,av,av
 2024-03-28T06:25:22.652Z,-18.5126,-175.5114,206.332,4.4,mb,27,85,2.659,0.93,us,us7000m8gw,2024-03-28T06:43:05.040Z,"161 km W of Neiafu, Tonga",earthquake,9.53,6.47,0.112,23,reviewed,us,us
 2024-03-28T06:10:08.850Z,38.8190002,-122.8248367,1.88,0.31,md,9,68,0.01067,0.01,nc,nc74025291,2024-03-28T06:11:42.076Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.93,0.14,9,automatic,nc,nc
 2024-03-28T06:08:36.230Z,46.884,-121.89116666666666,11.14,-0.11,md,13,92,0.04118,0.1,uw,uw61992856,2024-03-28T20:00:56.390Z,"17 km NE of Ashford, Washington",earthquake,0.29,0.53,0.13609821545831036,13,reviewed,uw,uw
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T23:12:03.150Z,19.4045,-154.978,1.51,1.65,md,25,111,0.02508,0.29,hv,hv74151812,2024-03-28T19:18:41.047Z,"9 km SW of Leilani Estates, Hawaii",earthquake,0.38,0.49,0.115128210634714,23,reviewed,hv,hv
 2024-03-27T23:11:38.999Z,59.9421,-153.2112,119.2,1.5,ml,,,,0.79,ak,ak024409ilrj,2024-03-27T23:21:08.442Z,"53 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-27T23:11:02.090Z,38.8255005,-122.8066635,2.35,1.09,md,12,72,0.003394,0.01,nc,nc74025186,2024-03-27T23:12:35.658Z,"7 km NW of The Geysers, CA",earthquake,0.33,1.04,0.24,14,automatic,nc,nc
-2024-03-27T22:49:50.038Z,-24.3334,-179.7421,468.418,5,mb,63,104,5.153,0.87,us,us7000m8f0,2024-03-27T23:06:31.040Z,"south of the Fiji Islands",earthquake,12.41,9.072,0.068,69,reviewed,us,us
