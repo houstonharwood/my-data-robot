@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-28T23:32:06.110Z,38.7773323,-122.7478333,2.06,2.45,md,51,38,0.0105,0.05,nc,nc74025691,2024-03-28T23:33:40.282Z,"1 km E of The Geysers, CA",earthquake,0.16,0.25,0.21,57,automatic,nc,nc
+2024-03-28T23:32:06.110Z,38.7773323,-122.7478333,2.06,2.45,md,51,38,0.0105,0.05,nc,nc74025691,2024-03-28T23:35:09.830Z,"1 km E of The Geysers, CA",earthquake,0.16,0.25,0.21,57,automatic,nc,nc
 2024-03-28T23:23:58.410Z,38.8203316,-122.7990036,8.43,0.23,md,6,101,0.009173,0.08,nc,nc74025681,2024-03-28T23:25:36.002Z,"6 km NW of The Geysers, CA",earthquake,1.39,7.44,0.11,9,automatic,nc,nc
 2024-03-28T23:23:32.660Z,38.8216667,-122.7634964,2.09,1.01,md,11,121,0.01012,0.01,nc,nc74025676,2024-03-28T23:25:05.973Z,"4 km W of Cobb, CA",earthquake,0.32,0.55,0.18,13,automatic,nc,nc
 2024-03-28T23:21:31.920Z,38.8263321,-122.7858353,1.44,1.14,md,20,47,0.01256,0.02,nc,nc74025671,2024-03-28T23:23:06.012Z,"6 km W of Cobb, CA",earthquake,0.2,0.38,0.13,22,automatic,nc,nc
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T12:50:45.180Z,19.1544990539551,-155.47883605957,30.9200000762939,2.20000005,md,40,139,0.01584,0.129999995,hv,hv74152487,2024-03-28T12:52:27.590Z,"5 km S of Pāhala, Hawaii",earthquake,0.6,0.839999974,0.189999998,8,automatic,hv,hv
 2024-03-28T12:46:15.190Z,38.8363342,-122.8121643,1.76,0.7,md,10,72,0.01302,0,nc,nc74025436,2024-03-28T12:47:52.110Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.06,0.35,12,automatic,nc,nc
 2024-03-28T12:21:15.670Z,35.9748333,-117.336,-0.55,1.99,ml,28,70,0.2565,0.16,ci,ci40700928,2024-03-28T21:21:20.284Z,"24 km N of Trona, CA",earthquake,0.27,0.75,0.115,19,reviewed,ci,ci
-2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-03-28T22:38:37.765Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
+2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-03-28T23:36:45.720Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
 2024-03-28T12:12:04.542Z,41.4231,-71.9668,2.282,1.6,ml,8,193,0.063,0.63,us,us7000m8n3,2024-03-28T21:44:39.657Z,"3 km N of Old Mystic, Connecticut",earthquake,2.25,6.083,0.097,14,reviewed,us,us
 2024-03-28T12:08:04.137Z,63.1431,-150.9086,129.3,2.4,ml,,,,0.31,ak,ak02441qhgqd,2024-03-28T12:10:18.459Z,"60 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-28T12:03:55.685Z,41.4038,-71.9705,0.773,2.1,ml,12,190,0.057,0.27,us,us7000m8iu,2024-03-28T23:17:48.689Z,"1 km NNW of Old Mystic, Connecticut",earthquake,1.61,4.371,0.085,18,reviewed,us,us
@@ -223,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T23:49:28.540Z,19.3955,-155.278833333333,1.22,1.47,ml,20,50,0.004901,0.08,hv,hv74151827,2024-03-28T00:31:14.870Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.12,0.194082461950799,7,reviewed,hv,hv
 2024-03-27T23:45:37.994Z,64.9914,-147.4404,2.4,1.4,ml,,,,0.52,ak,ak024409pw13,2024-03-27T23:47:26.334Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T23:42:45.005Z,61.3827,-153.1143,25.3,1.2,ml,,,,1.09,ak,ak024409p9f8,2024-03-27T23:51:24.757Z,"111 km WNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-03-27T23:39:39.276Z,61.908,-150.1064,8.4,1.6,ml,,,,0.31,ak,ak024409oltz,2024-03-27T23:51:18.236Z,"18 km NNW of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-03-27T23:39:07.574Z,39.1579,-119.7884,0,1,ml,5,143.62,0.036,0.1478,nn,nn00875493,2024-03-28T18:00:31.011Z,"1 km WSW of Carson City, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2024-03-27T23:38:02.785Z,59.9343,-152.5196,85.4,1.2,ml,,,,0.57,ak,ak024409o761,2024-03-28T06:37:12.902Z,"42 km WNW of Anchor Point, Alaska",earthquake,,1,,,reviewed,ak,ak
