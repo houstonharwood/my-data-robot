@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-29T21:25:01.430Z,18.8888339996338,-155.292495727539,17.0400009155273,2.1500001,md,28,274,0.3099,0.289999992,hv,hv74154242,2024-03-29T21:26:40.580Z,"36 km ESE of Naalehu, Hawaii",earthquake,1.48,23.9300003,0.280000001,3,automatic,hv,hv
+2024-03-29T21:12:14.482Z,-24.8267,-174.9923,10,5,mb,27,127,3.645,0.38,us,us7000m8tz,2024-03-29T21:39:14.040Z,"south of Tonga",earthquake,9.84,1.848,0.137,17,reviewed,us,us
 2024-03-29T21:00:26.005Z,31.65,-104.364,4.0189,2,ml,18,71,0.1,0.3,tx,tx2024ggjw,2024-03-29T21:17:12.541Z,"58 km S of Whites City, New Mexico",earthquake,0,1.32102261018426,0.1,14,automatic,tx,tx
 2024-03-29T20:43:11.570Z,63.3437,-145.2225,1.1,1.1,ml,,,,0.67,ak,ak02443izsp1,2024-03-29T20:45:49.251Z,"34 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-29T20:38:51.540Z,19.1586666107178,-155.364837646484,27.9599990844727,1.75999999,md,31,196,0.09201,0.100000001,hv,hv74154187,2024-03-29T20:40:28.480Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.48,0.579999983,0.319999993,8,automatic,hv,hv
@@ -155,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-29T04:09:00.970Z,33.059,-115.8956667,2.89,1.56,ml,55,30,0.0839,0.22,ci,ci40701664,2024-03-29T16:29:26.300Z,"24 km ESE of Ocotillo Wells, CA",earthquake,0.17,0.33,0.186,30,reviewed,ci,ci
 2024-03-29T04:07:58.997Z,39.194,-119.6578,10.2,0.4,ml,3,190.55,0.061,0.0547,nn,nn00875529,2024-03-29T16:34:56.454Z,"7 km SW of Dayton, Nevada",earthquake,,8.7,0,1,reviewed,nn,nn
 2024-03-29T04:02:53.090Z,38.8359985,-122.7956696,2.13,1.11,md,23,63,0.004805,0.03,nc,nc74025801,2024-03-29T04:04:25.303Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.43,0.16,25,automatic,nc,nc
-2024-03-29T03:59:02.190Z,19.6263332366943,-156.096832275391,34.6100006103516,2.43,ml,32,242,0.07995,0.189999998,hv,hv74153407,2024-03-29T04:15:57.040Z,"10 km W of Kailua-Kona, Hawaii",earthquake,0.72,1.19000006,0.32,4,automatic,hv,hv
+2024-03-29T03:59:01.980Z,19.6316666666667,-156.1135,35.21,2.26,md,27,245,0.09351,0.16,hv,hv74153407,2024-03-29T21:43:16.090Z,"12 km W of Kailua-Kona, Hawaii",earthquake,0.75,0.95,0.141063222758285,23,reviewed,hv,hv
 2024-03-29T03:31:22.950Z,36.2911682,-120.8655014,6.52,1.39,md,14,119,0.07726,0.11,nc,nc74025781,2024-03-29T03:32:59.944Z,"22 km SW of New Idria, CA",earthquake,0.41,0.77,0.2,8,automatic,nc,nc
 2024-03-29T03:15:53.471Z,61.2983,-146.8631,36.7,3,ml,,,,0.11,ak,ak024438pimr,2024-03-29T03:28:28.040Z,"33 km NW of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-29T03:13:10.719Z,31.0543,-107.4492,10,2.7,ml,13,165,1.501,0.82,us,us7000m8ph,2024-03-29T21:00:42.040Z,"51 km E of Ascención, Mexico",earthquake,5.18,1.639,0.085,18,reviewed,us,us
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T22:11:36.670Z,38.777832,-122.7468338,2.02,1.72,md,30,71,0.009568,0.04,nc,nc74025641,2024-03-28T22:13:10.288Z,"1 km E of The Geysers, CA",earthquake,0.22,0.43,0.14,31,automatic,nc,nc
 2024-03-28T21:59:07.680Z,38.8204994,-122.8088303,3.09,0.78,md,11,85,0.00305,0.01,nc,nc74025636,2024-03-28T22:00:40.059Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.17,0.15,12,automatic,nc,nc
 2024-03-28T21:46:08.500Z,43.309,-123.33816666666667,-0.39,1.5,ml,9,130,0.01866,0.28,uw,uw61992956,2024-03-29T20:42:06.500Z,"5 km NNW of Roseburg North, Oregon",explosion,0.67,31.61,0.2618651868991775,5,reviewed,uw,uw
-2024-03-28T21:38:04.790Z,38.8120003,-122.8041687,2.1,0.28,md,10,78,0.008012,0.02,nc,nc74025626,2024-03-28T21:39:39.891Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.68,0.09,11,automatic,nc,nc
