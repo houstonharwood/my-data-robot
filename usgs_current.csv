@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T19:09:01.210Z,38.8300018,-122.779335,-0.12,1.05,md,11,83,0.007374,0.03,nc,nc74027476,2024-04-01T19:10:36.888Z,"5 km W of Cobb, CA",earthquake,0.22,0.46,0.16,12,automatic,nc,nc
 2024-04-01T19:05:48.361Z,64.9814,-147.4831,8,1.3,ml,,,,1.32,ak,ak02448gsc1q,2024-04-01T19:08:18.156Z,"6 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-01T18:59:05.800Z,19.2596664428711,-155.401672363281,32.2900009155273,1.79999995,md,32,125,0.07489,0.129999995,hv,hv74158052,2024-04-01T19:00:56.300Z,"10 km NE of Pāhala, Hawaii",earthquake,0.52,0.479999989,0.209999993,11,automatic,hv,hv
+2024-04-01T18:55:35.924Z,31.728,-104.37,2.9211,1.6,ml,11,80,0.1,0.2,tx,tx2024glsf,2024-04-01T19:28:27.700Z,"49 km S of Whites City, New Mexico",earthquake,0.4642933665626865,1.1103083365559283,0.2,8,reviewed,tx,tx
 2024-04-01T18:44:50.337Z,62.2889,-149.2085,4.3,1.6,ml,,,,0.54,ak,ak02448gf9pl,2024-04-01T18:46:45.044Z,"36 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-01T18:43:32.381Z,62.3552,-149.0033,0,1.8,ml,,,,0.88,ak,ak02448gf0ly,2024-04-01T18:45:24.245Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-01T18:34:43.535Z,31.694,-104.359,11.6758,2.1,ml,12,83,0.1,0.8,tx,tx2024glro,2024-04-01T18:56:54.627Z,"53 km S of Whites City, New Mexico",earthquake,0,3.1120770086552,0.3,8,automatic,tx,tx
@@ -20,8 +21,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T18:14:47.613Z,62.2965,-149.1989,0.2,2,ml,,,,0.8,ak,ak02448g8u0p,2024-04-01T18:17:05.128Z,"37 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-01T18:12:39.486Z,62.8401,-149.7921,68.2,2,ml,,,,0.25,ak,ak02448g8dyk,2024-04-01T18:14:36.163Z,"46 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T17:58:33.100Z,33.673,-116.7108333,15.64,0.74,ml,27,77,0.03116,0.1,ci,ci40703072,2024-04-01T18:07:01.407Z,"8 km S of Idyllwild, CA",earthquake,0.19,0.28,0.197,15,automatic,ci,ci
-2024-04-01T17:52:30.890Z,32.9129982,-116.246666,7.8,3.01,ml,106,46,0.06321,0.25,ci,ci40703056,2024-04-01T18:50:46.963Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.27,0.255,21,reviewed,ci,ci
-2024-04-01T17:50:58.820Z,19.1186676025391,-155.480834960938,38.8300018310547,2.61999989,md,30,176,0.04061,0.159999996,hv,hv74157962,2024-04-01T17:52:32.660Z,"9 km S of Pāhala, Hawaii",earthquake,0.7,0.779999971,0.360000014,3,automatic,hv,hv
+2024-04-01T17:52:30.770Z,32.9131667,-116.2395,8.55,2.93,ml,102,55,0.06777,0.21,ci,ci40703056,2024-04-01T19:29:49.800Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.12,0.41,0.179,206,reviewed,ci,ci
+2024-04-01T17:50:59.020Z,19.1245,-155.467,37.92,1.91,md,29,224,0.0311,0.09,hv,hv74157962,2024-04-01T19:29:20.310Z,"8 km S of Pāhala, Hawaii",earthquake,0.79,0.58,0.115147227107788,23,reviewed,hv,hv
 2024-04-01T17:50:04.367Z,62.3487,-149.1475,0,1.9,ml,,,,0.58,ak,ak02448fv0us,2024-04-01T18:10:57.910Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T17:25:01.470Z,19.0076675415039,-155.433166503906,36.0699996948242,2.57,ml,55,214,0.1358,0.180000007,hv,hv74157937,2024-04-01T18:17:35.040Z,"16 km ESE of Naalehu, Hawaii",earthquake,0.56,0.850000024,0.31,23,automatic,hv,hv
 2024-04-01T17:08:56.140Z,38.8408318,-122.8753357,1.68,0.99,md,16,85,0.005309,0.07,nc,nc74027426,2024-04-01T17:10:32.327Z,"12 km NW of The Geysers, CA",earthquake,0.31,0.42,0.19,17,automatic,nc,nc
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T05:40:22.380Z,18.2213333333333,-67.2221666666667,109.53,3.15,md,9,230,0.1373,0.18,pr,pr71444443,2024-04-01T18:33:14.590Z,"8 km SSW of La Playa, Puerto Rico",earthquake,2.11,1.01,0.0309049823158889,4,reviewed,pr,pr
 2024-04-01T05:31:46.968Z,36.7756,-116.2456,9.1,0.3,ml,23,116.92,0.044,0.1056,nn,nn00875629,2024-04-01T16:23:00.647Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.26,7,reviewed,nn,nn
 2024-04-01T05:22:56.283Z,-22.4632,-68.6709,112.48,4.1,mb,16,61,0.666,0.37,us,us7000m95j,2024-04-01T11:18:19.040Z,"26 km E of Calama, Chile",earthquake,5.91,6.449,0.185,8,reviewed,us,us
-2024-04-01T05:08:58.180Z,47.7795,-122.5705,24.16,2.81,ml,58,23,0.04423,0.23,uw,uw61985547,2024-04-01T19:20:56.587Z,"4 km NW of Indianola, Washington",earthquake,0.28,0.59,0.18716122750391495,52,reviewed,uw,uw
+2024-04-01T05:08:58.180Z,47.7795,-122.5705,24.16,2.81,ml,58,23,0.04423,0.23,uw,uw61985547,2024-04-01T19:26:16.070Z,"4 km NW of Indianola, Washington",earthquake,0.28,0.59,0.18716122750391495,52,reviewed,uw,uw
 2024-04-01T05:07:46.620Z,38.8214989,-122.7623367,2.17,0.77,md,11,123,0.01074,0.01,nc,nc74027196,2024-04-01T05:09:22.606Z,"3 km W of Cobb, CA",earthquake,0.36,0.67,0.15,13,automatic,nc,nc
 2024-04-01T04:54:15.360Z,38.8291664,-122.8146667,1.74,0.78,md,22,45,0.006788,0.02,nc,nc74027191,2024-04-01T04:55:48.506Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.45,0.18,20,automatic,nc,nc
 2024-04-01T04:45:20.360Z,19.2681674957275,-155.409332275391,32.1100006103516,1.84000003,md,37,119,0.06863,0.119999997,hv,hv74157327,2024-04-01T04:47:47.510Z,"10 km NE of Pāhala, Hawaii",earthquake,0.66,0.839999974,0.230000004,9,automatic,hv,hv
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T20:05:03.270Z,38.7986679,-122.7781677,3.41,0.89,md,12,67,0.009386,0.01,nc,nc74026991,2024-03-31T20:06:39.940Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.81,0.2,12,automatic,nc,nc
 2024-03-31T19:47:42.860Z,38.8339996,-122.8161697,1.71,0.77,md,14,70,0.01161,0.02,nc,nc74026981,2024-03-31T19:49:19.745Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.6,0.18,17,automatic,nc,nc
 2024-03-31T19:47:05.853Z,31.639,-104.481,6.9458,1.4,ml,14,90,0,0.1,tx,tx2024gjyl,2024-04-01T14:26:15.816Z,"60 km S of Whites City, New Mexico",earthquake,0.8737626168949921,0.4763419433402433,0.1,11,reviewed,tx,tx
-2024-03-31T19:28:40.464Z,36.7714,-116.2528,10,0.6,ml,27,64.49,0.048,0.1108,nn,nn00875613,2024-03-31T20:11:57.690Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.18,13,reviewed,nn,nn
