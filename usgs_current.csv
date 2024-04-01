@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T09:07:06.509Z,31.649,-104.292,7.5354,1.7,ml,24,68,0,0.2,tx,tx2024gkyv,2024-04-01T10:13:52.650Z,"58 km S of Whites City, New Mexico",earthquake,0.8376943519507867,0.830025052179652,0.2,19,reviewed,tx,tx
 2024-04-01T09:06:27.410Z,38.8351669,-122.7911682,1.72,0.38,md,6,82,0.003301,0.01,nc,nc74027261,2024-04-01T09:08:03.053Z,"6 km WNW of Cobb, CA",earthquake,0.59,1.49,0.23,7,automatic,nc,nc
 2024-04-01T08:46:59.672Z,38.1684,-117.784,12.2,2.6,ml,11,71.83,0.109,0.1064,nn,nn00875640,2024-04-01T14:31:11.371Z,"37 km SE of Mina, Nevada",earthquake,,0.7,0.32,5,reviewed,nn,nn
-2024-04-01T08:43:19.387Z,36.772,-116.2532,8.9,0.1,ml,21,64.21,0.049,0.104,nn,nn00875638,2024-04-01T14:18:03.068Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.3,7,reviewed,nn,nn
+2024-04-01T08:43:19.322Z,36.7723,-116.2537,9.2,0.1,ml,21,64.07,0.049,0.0865,nn,nn00875638,2024-04-01T16:39:08.019Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.3,7,reviewed,nn,nn
 2024-04-01T08:34:33.632Z,62.4068,-151.4979,75,1.8,ml,,,,0.67,ak,ak02448aer4i,2024-04-01T08:37:07.172Z,"39 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T08:33:04.634Z,-17.6208,-178.5831,566.117,4.4,mb,43,71,4.757,0.54,us,us7000m968,2024-04-01T09:51:08.040Z,"228 km ENE of Levuka, Fiji",earthquake,9.34,7.89,0.09,36,reviewed,us,us
 2024-04-01T08:28:22.831Z,60.2702,-152.3638,92.2,1.6,ml,,,,0.29,ak,ak02448adg2z,2024-04-01T08:31:10.919Z,"45 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T05:40:22.380Z,18.2213333333333,-67.2221666666667,109.53,3.15,md,9,230,0.1373,0.18,pr,pr71444443,2024-04-01T05:59:53.840Z,"8 km SSW of La Playa, Puerto Rico",earthquake,2.11,1.01,0.0309049823158889,4,reviewed,pr,pr
 2024-04-01T05:31:46.968Z,36.7756,-116.2456,9.1,0.3,ml,23,116.92,0.044,0.1056,nn,nn00875629,2024-04-01T16:23:00.647Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.26,7,reviewed,nn,nn
 2024-04-01T05:22:56.283Z,-22.4632,-68.6709,112.48,4.1,mb,16,61,0.666,0.37,us,us7000m95j,2024-04-01T11:18:19.040Z,"26 km E of Calama, Chile",earthquake,5.91,6.449,0.185,8,reviewed,us,us
-2024-04-01T05:08:58.180Z,47.7795,-122.5705,24.16,2.81,ml,58,23,0.04423,0.23,uw,uw61985547,2024-04-01T16:33:44.144Z,"4 km NW of Indianola, Washington",earthquake,0.28,0.59,0.18716122750391495,52,reviewed,uw,uw
+2024-04-01T05:08:58.180Z,47.7795,-122.5705,24.16,2.81,ml,58,23,0.04423,0.23,uw,uw61985547,2024-04-01T16:44:52.393Z,"4 km NW of Indianola, Washington",earthquake,0.28,0.59,0.18716122750391495,52,reviewed,uw,uw
 2024-04-01T05:07:46.620Z,38.8214989,-122.7623367,2.17,0.77,md,11,123,0.01074,0.01,nc,nc74027196,2024-04-01T05:09:22.606Z,"3 km W of Cobb, CA",earthquake,0.36,0.67,0.15,13,automatic,nc,nc
 2024-04-01T04:54:15.360Z,38.8291664,-122.8146667,1.74,0.78,md,22,45,0.006788,0.02,nc,nc74027191,2024-04-01T04:55:48.506Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.45,0.18,20,automatic,nc,nc
 2024-04-01T04:45:20.360Z,19.2681674957275,-155.409332275391,32.1100006103516,1.84000003,md,37,119,0.06863,0.119999997,hv,hv74157327,2024-04-01T04:47:47.510Z,"10 km NE of Pāhala, Hawaii",earthquake,0.66,0.839999974,0.230000004,9,automatic,hv,hv
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T17:01:51.375Z,-62.7216,156.0013,10,5.9,mww,40,103,8.388,0.59,us,us7000m936,2024-03-31T19:06:24.984Z,"Balleny Islands region",earthquake,6.66,1.88,0.057,30,reviewed,us,us
 2024-03-31T16:53:58.870Z,38.8120003,-122.8218307,1.69,0.35,md,9,74,0.006537,0.01,nc,nc74026936,2024-03-31T16:55:33.940Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.83,0.16,9,automatic,nc,nc
 2024-03-31T16:45:19.220Z,38.7943344,-122.8101654,3.08,0.52,md,10,93,0.00817,0.02,nc,nc74026931,2024-03-31T16:46:53.799Z,"5 km WNW of The Geysers, CA",earthquake,0.46,1.19,0.22,11,automatic,nc,nc
-2024-03-31T16:39:35.479Z,62.357,-149.1096,6.5,1.6,ml,,,,0.64,ak,ak02446rnyah,2024-03-31T16:41:52.709Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
