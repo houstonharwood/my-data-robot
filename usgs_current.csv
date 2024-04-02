@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-02T19:24:26.942Z,62.093,-151.1833,9.8,1.6,ml,,,,0.37,ak,ak0244a4fpom,2024-04-02T19:26:16.490Z,"16 km NE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-02T19:07:42.317Z,42.9871,18.6344,10,4,mwr,25,58,0.724,0.82,us,us7000m9ep,2024-04-02T20:05:55.756Z,"20 km NE of Bileća, Bosnia and Herzegovina",earthquake,1.84,1.963,0.069,20,reviewed,us,us
+2024-04-02T19:07:42.317Z,42.9871,18.6344,10,4,mwr,25,58,0.724,0.82,us,us7000m9ep,2024-04-02T20:13:57.392Z,"20 km NE of Bileća, Bosnia and Herzegovina",earthquake,1.84,1.963,0.069,20,reviewed,us,us
 2024-04-02T19:02:54.480Z,46.0145,-112.468666666667,-2,1.59,ml,13,114,0.05963,0.1,mb,mb90044773,2024-04-02T19:58:21.010Z,"5 km ENE of Butte, Montana",quarry blast,0.36,31.61,0.224517401457563,13,reviewed,mb,mb
 2024-04-02T18:57:25.730Z,36.7355003,-121.2496643,8.24,1.7,md,21,145,0.03115,0.29,nc,nc74028031,2024-04-02T18:59:02.566Z,"9 km SE of Tres Pinos, CA",earthquake,0.75,1.29,0.25,18,automatic,nc,nc
 2024-04-02T18:55:37.200Z,35.6833333,-117.5458333,7.75,0.83,ml,22,117,0.1005,0.15,ci,ci40703904,2024-04-02T19:51:09.303Z,"14 km ENE of Ridgecrest, CA",earthquake,0.25,0.84,0.133,6,reviewed,ci,ci
@@ -87,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T08:29:58.760Z,33.9313333,-117.1946667,12.52,0.97,ml,44,69,0.02423,0.2,ci,ci40703488,2024-04-02T18:08:07.863Z,"3 km E of Moreno Valley, CA",earthquake,0.21,0.56,0.196,17,reviewed,ci,ci
 2024-04-02T08:23:16.140Z,46.92283333333334,-121.92166666666667,8.99,0.02,ml,12,105,0.02518,0.13,uw,uw61985782,2024-04-02T15:52:42.950Z,"20 km SSE of Carbonado, Washington",earthquake,0.39,0.75,0.14599658749856062,3,reviewed,uw,uw
 2024-04-02T08:22:09.520Z,46.2015,-122.19,0.47,-0.06,md,6,106,0.001821,0.14,uw,uw61985777,2024-04-02T15:47:20.960Z,"37 km NNE of Amboy, Washington",earthquake,0.57,0.73,0.03853700721393227,2,reviewed,uw,uw
+2024-04-02T08:13:42.431Z,39.0305,-118.0725,8.6,0.7,ml,6,144.86,0.029,0.1128,nn,nn00875729,2024-04-02T20:15:20.831Z,"22 km NW of Gabbs, Nevada",earthquake,,1.3,0.57,4,reviewed,nn,nn
 2024-04-02T08:07:52.360Z,19.1406666666667,-155.371333333333,30.57,1.95,md,39,184,0.08706,0.1,hv,hv74158632,2024-04-02T18:17:52.850Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.86,1.1,0.16910312861295,24,reviewed,hv,hv
 2024-04-02T08:03:09.438Z,64.458,-147.579,12.6,1.2,ml,,,,0.88,ak,ak02449xren3,2024-04-02T08:05:34.003Z,"33 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-02T07:58:01.140Z,35.8893333,-117.7261667,9.82,0.84,ml,22,83,0.08485,0.12,ci,ci40703480,2024-04-02T13:43:38.467Z,"17 km ESE of Little Lake, CA",earthquake,0.17,0.35,0.192,10,reviewed,ci,ci
@@ -127,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T04:06:52.640Z,19.2576666666667,-155.410333333333,32,2.65,ml,40,65,0.02343,0.12,hv,hv74158447,2024-04-02T05:10:13.040Z,"9 km NE of Pāhala, Hawaii",earthquake,0.43,0.63,0.198526357199515,18,reviewed,hv,hv
 2024-04-02T04:06:37.564Z,64.3147,-150.3417,7.8,1.6,ml,,,,1.28,ak,ak02449vedjg,2024-04-02T04:56:58.162Z,"55 km W of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-02T04:06:12.198Z,63.2311,-152.8066,7.9,2.1,ml,,,,0.3,ak,ak02449vebkz,2024-04-02T04:07:54.593Z,"64 km WSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-02T04:00:00.920Z,46.8778333333333,-112.6335,4.3,1.06,ml,9,112,0.03852,0.09,mb,mb90044778,2024-04-02T20:18:52.240Z,"9 km SSE of Lincoln, Montana",earthquake,0.54,0.85,0.189823086635324,6,reviewed,mb,mb
 2024-04-02T03:54:41.877Z,63.9515,-149.1438,0.2,2.9,ml,,,,1.21,ak,ak02449v38mu,2024-04-02T05:45:09.149Z,"7 km S of Ferry, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-04-02T03:48:26.350Z,32.7663333,-115.8516667,3.8,0.83,ml,17,65,0.1326,0.21,ci,ci40703432,2024-04-02T16:38:37.119Z,"14 km ENE of Ocotillo, CA",earthquake,0.3,1.43,0.181,7,reviewed,ci,ci
 2024-04-02T03:48:15.890Z,44.4296666666667,-115.200166666667,3.72,2.49,ml,11,72,0.4112,0.15,mb,mb90044733,2024-04-02T14:09:16.080Z,"31 km NW of Stanley, Idaho",earthquake,0.36,2.71,0.225284450183302,36,reviewed,mb,mb
@@ -147,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T03:04:46.090Z,33.1791667,-115.6918333,1.45,0.5,mh,6,250,0.05822,0.19,ci,ci40703416,2024-04-02T15:53:35.744Z,"17 km NNW of Westmorland, CA",earthquake,1.74,2.62,,0,reviewed,ci,ci
 2024-04-02T03:04:19.750Z,38.8226662,-122.8095016,1.49,2.49,md,42,54,0.03393,0.15,nc,nc74027706,2024-04-02T03:07:12.367Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.49,0.12,47,automatic,nc,nc
 2024-04-02T03:04:16.370Z,38.8243332,-122.8106689,1.3,2.6,md,13,60,0.001046,0.02,nc,nc74027701,2024-04-02T03:05:50.007Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.41,0.14,15,automatic,nc,nc
+2024-04-02T02:50:48.480Z,37.2458,-116.5757,7.7,-0.1,ml,8,223.19,0.155,0.1916,nn,nn00875728,2024-04-02T20:09:08.436Z,"40 km NNE of Beatty, Nevada",earthquake,,5.9,0.73,3,reviewed,nn,nn
 2024-04-02T02:46:29.800Z,39.391,-122.8993333,5.12,1.7,md,32,60,0.1781,0.12,nc,nc74027696,2024-04-02T19:24:32.935Z,"5 km ESE of Lake Pillsbury, CA",earthquake,0.27,1.13,0.13,31,reviewed,nc,nc
 2024-04-02T02:42:02.300Z,64.4355,-146.9464,4.1,1.9,ml,,,,0.48,ak,ak02449uf5dy,2024-04-02T03:14:43.428Z,"10 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-02T02:41:20.100Z,44.8,-110.8155,5.33,0.28,md,10,209,0.02752,0.07,uu,uu80063566,2024-04-02T12:46:53.940Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.72,0.69,0.280189275445486,7,reviewed,uu,uu
