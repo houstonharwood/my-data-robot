@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T09:05:49.165Z,61.817,-149.9785,33,2.2,ml,,,,0.57,ak,ak0244blwp8k,2024-04-03T09:08:00.053Z,"8 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-03T09:04:04.388Z,36.6442,-115.8153,0.8,0.6,ml,18,165.75,0.119,0.2007,nn,nn00875770,2024-04-03T09:06:08.353Z,"15 km WNW of Indian Springs, Nevada",earthquake,,6.9,0.32,12,automatic,nn,nn
 2024-04-03T09:02:16.593Z,-5.8957,112.3223,10,4.9,mb,53,63,2.193,0.87,us,us7000m9ke,2024-04-03T09:39:51.022Z,"108 km N of Paciran, Indonesia",earthquake,6.48,1.89,0.083,46,reviewed,us,us
+2024-04-03T08:56:29.306Z,24.02,121.6433,18.736,4.7,mb,84,63,0.672,0.64,us,us7000m9kk,2024-04-03T10:41:04.040Z,"6 km NE of Hualien City, Taiwan",earthquake,3.72,3.867,0.065,78,reviewed,us,us
 2024-04-03T08:40:10.640Z,33.5816667,-116.8078333,7.86,0.19,ml,14,65,0.05862,0.09,ci,ci40704304,2024-04-03T08:46:31.355Z,"13 km WNW of Anza, CA",earthquake,0.23,0.44,0.147,4,automatic,ci,ci
 2024-04-03T08:38:01.209Z,23.7149,121.5453,21.729,4.9,mb,51,73,0.394,0.91,us,us7000m9ka,2024-04-03T09:05:31.040Z,"29 km SSW of Hualien City, Taiwan",earthquake,2.57,4.761,0.06,87,reviewed,us,us
 2024-04-03T08:36:08.798Z,61.504,-149.9173,32.2,1.8,ml,,,,0.63,ak,ak0244blhtpr,2024-04-03T08:39:40.097Z,"2 km SE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T00:02:35.791Z,61.7367,-150.1539,38.8,1.3,ml,,,,0.53,ak,ak0244bgj4m3,2024-04-03T00:04:08.846Z,"6 km W of Willow, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2024-04-03T00:00:27.610Z,34.029,-116.8118333,12.14,0.75,ml,18,84,0.006997,0.19,ci,ci40704104,2024-04-03T00:07:21.027Z,"13 km N of Cabazon, CA",earthquake,0.44,0.77,0.348,13,automatic,ci,ci
 2024-04-02T23:59:45.440Z,38.7901649,-122.7348328,1.6,1.27,md,14,90,0.007074,0.02,nc,nc74028151,2024-04-03T01:58:03.837Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.78,0.14,14,automatic,nc,nc
-2024-04-02T23:58:11.228Z,23.819,121.5616,34.75,7.4,mww,87,23,0.354,1.18,us,us7000m9g4,2024-04-03T10:32:44.350Z,"18 km SSW of Hualien City, Taiwan",earthquake,4.35,4.487,0.043,51,reviewed,us,us
+2024-04-02T23:58:11.228Z,23.819,121.5616,34.75,7.4,mww,87,23,0.354,1.18,us,us7000m9g4,2024-04-03T10:37:50.125Z,"18 km SSW of Hualien City, Taiwan",earthquake,4.35,4.487,0.043,51,reviewed,us,us
 2024-04-02T23:47:54.050Z,35.8673333,-117.5676667,11.88,1.08,ml,21,142,0.1048,0.13,ci,ci40704096,2024-04-03T00:40:45.226Z,"18 km NW of Searles Valley, CA",earthquake,0.29,0.63,0.174,12,reviewed,ci,ci
 2024-04-02T23:43:45.170Z,38.8008347,-122.8073349,1.24,1.06,md,15,60,0.01179,0.02,nc,nc74028146,2024-04-02T23:45:18.509Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.47,0.17,17,automatic,nc,nc
 2024-04-02T23:36:43.832Z,62.262,-150.9076,69.2,1.5,ml,,,,0.07,ak,ak0244a6w1zz,2024-04-02T23:38:44.737Z,"27 km SSW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -258,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T10:59:00.050Z,19.0481662750244,-155.362670898438,30.1900005340576,1.75999999,md,40,214,0.1422,0.150000006,hv,hv74158732,2024-04-02T11:00:42.840Z,"21 km SE of Pāhala, Hawaii",earthquake,0.68,0.889999986,0.180000007,3,automatic,hv,hv
 2024-04-02T10:56:23.860Z,35.8748333,-117.688,9.41,1.05,ml,24,109,0.07905,0.12,ci,ci40703552,2024-04-02T13:42:25.880Z,"21 km ESE of Little Lake, CA",earthquake,0.18,0.42,0.203,11,reviewed,ci,ci
 2024-04-02T10:42:43.420Z,38.838665,-122.8079987,2.06,0.75,md,11,90,0.01379,0.01,nc,nc74027876,2024-04-02T10:44:20.196Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.8,0.18,12,automatic,nc,nc
-2024-04-02T10:40:07.570Z,19.1949996948242,-155.511505126953,33.0200004577637,2.3499999,md,50,69,0.0544,0.170000002,hv,hv74158727,2024-04-02T10:41:46.860Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.41,0.689999998,0.300000012,21,automatic,hv,hv
-2024-04-02T10:37:32.070Z,38.8125,-122.8293304,1.42,0.87,md,8,94,0.003629,0.01,nc,nc74027871,2024-04-02T10:39:05.068Z,"7 km WNW of The Geysers, CA",earthquake,0.36,0.79,0.14,7,automatic,nc,nc
