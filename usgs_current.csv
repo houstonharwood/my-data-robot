@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T18:07:59.620Z,32.8996667,-116.9525,4.94,1.58,ml,40,68,0.06231,0.25,ci,ci40706136,2024-04-05T18:14:42.285Z,"6 km NNW of Lakeside, CA",earthquake,0.27,0.63,0.246,31,automatic,ci,ci
 2024-04-05T17:57:16.640Z,48.49666666666667,-123.14483333333334,25.77,1.59,ml,23,58,0.08553,0.08,uw,uw61994526,2024-04-05T19:38:16.330Z,"10 km WSW of Friday Harbor, Washington",earthquake,0.2,0.39,0.1301494060246351,13,reviewed,uw,uw
 2024-04-05T17:56:18.870Z,19.3589992523193,-155.283828735352,-0.119999997317791,1.86,ml,17,67,0.02294,0.159999996,hv,hv74161807,2024-04-05T17:58:57.950Z,"10 km SSW of Volcano, Hawaii",earthquake,0.19,0.270000011,0.21,6,automatic,hv,hv
-2024-04-05T17:32:13.049Z,40.6407,-74.7386,5,2.2,ml,26,109,0.684,0.55,us,us7000ma95,2024-04-05T21:24:52.611Z,"3 km NE of Whitehouse Station, New Jersey",earthquake,1.21,1.983,0.081,20,reviewed,us,us
+2024-04-05T17:32:13.049Z,40.6407,-74.7386,5,2.2,ml,26,109,0.684,0.55,us,us7000ma95,2024-04-05T21:40:03.606Z,"3 km NE of Whitehouse Station, New Jersey",earthquake,1.21,1.983,0.081,20,reviewed,us,us
 2024-04-05T17:28:59.820Z,17.9653333333333,-65.729,21.69,1.94,md,3,277,0.2095,0.15,pr,pr71444748,2024-04-05T17:46:31.580Z,"15 km ESE of El Negro, Puerto Rico",earthquake,2.6,4.66,0.225606112181654,3,reviewed,pr,pr
 2024-04-05T17:25:21.742Z,-7.5361,127.8178,152.574,4.2,mb,20,76,3.643,0.85,us,us7000ma93,2024-04-05T19:36:39.040Z,"141 km NE of Lospalos, Timor Leste",earthquake,7.56,8.672,0.141,14,reviewed,us,us
 2024-04-05T17:21:55.207Z,40.7564,-74.7586,5,1.9,ml,7,205,0.691,0.32,us,us7000maav,2024-04-05T21:07:32.040Z,"3 km SSE of Long Valley, New Jersey",earthquake,2.24,1.994,0.181,4,reviewed,us,us
@@ -98,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T10:10:34.270Z,33.7445,-116.0348333,4.76,1.16,ml,33,90,0.09661,0.17,ci,ci40705992,2024-04-05T10:16:58.451Z,"15 km ENE of Coachella, CA",earthquake,0.22,0.69,0.214,21,automatic,ci,ci
 2024-04-05T09:55:04.880Z,46.8645,-112.529,9.88,1.23,ml,12,100,0.04969,0.1,mb,mb90045078,2024-04-05T15:21:33.260Z,"15 km SE of Lincoln, Montana",earthquake,0.53,0.45,0.0924451450337105,5,reviewed,mb,mb
 2024-04-05T09:49:44.660Z,45.55283333333333,-120.24216666666666,16,2.1,ml,16,117,0.3141,0.16,uw,uw61994486,2024-04-05T15:21:31.520Z,"18 km S of Arlington, Oregon",earthquake,0.39,0.95,0.20731852166541032,12,reviewed,uw,uw
+2024-04-05T09:49:16.120Z,52.096,-176.206,2.26,0.18,ml,4,292,0.05511,0.17,av,av93001479,2024-04-05T21:44:03.450Z,"38 km NE of Adak, Alaska",earthquake,1.08,2.28,0.36624570275449,4,reviewed,av,av
 2024-04-05T09:28:18.360Z,33.883,-116.8561667,14.05,0.88,ml,25,90,0.06945,0.12,ci,ci40705976,2024-04-05T09:34:36.210Z,"5 km SSE of Banning, CA",earthquake,0.25,0.55,0.176,15,automatic,ci,ci
 2024-04-05T09:25:18.630Z,38.7885017,-122.7669983,2.47,1.08,md,13,113,0.01338,0.02,nc,nc74029651,2024-04-05T09:26:54.966Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.67,0.34,15,automatic,nc,nc
 2024-04-05T09:19:14.262Z,31.67,-104.196,6.3947,1.7,ml,30,62,0.1,0.2,tx,tx2024gshg,2024-04-05T10:44:21.519Z,"54 km NW of Toyah, Texas",earthquake,0.5403767314232911,0.6366513010640793,0.3,25,reviewed,tx,tx
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T21:56:41.862Z,60.2896,-150.737,45.8,1.6,ml,,,,0.19,ak,ak0244dgw5y2,2024-04-04T21:57:56.744Z,"23 km S of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-04T21:56:21.429Z,34.524,-96.624,0,0.87,ml,16,130,0.1070789874,0.44,ok,ok2024grks,2024-04-05T14:49:03.956Z,"16 km NW of Bromide, Oklahoma",quarry blast,,1.1,0.19,8,reviewed,ok,ok
 2024-04-04T21:49:17.410Z,38.8356667,-122.807663,1.8,0.62,md,7,110,0.0124,0.02,nc,nc74029426,2024-04-04T21:50:53.343Z,"8 km WNW of Cobb, CA",earthquake,0.46,0.96,0.18,8,automatic,nc,nc
-2024-04-04T21:38:31.010Z,60.5481666666667,-152.742666666667,3.48,0.15,ml,9,112,0.05085,0.2,av,av93078136,2024-04-05T00:00:56.510Z,"78 km W of Salamatof, Alaska",earthquake,0.49,1.41,0.139512272976713,9,reviewed,av,av
