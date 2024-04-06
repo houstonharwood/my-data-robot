@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T13:38:46.496Z,59.7092,-152.997,92.9,2,ml,,,,0.47,ak,ak0244gn3jk9,2024-04-06T13:41:21.179Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-06T13:32:41.233Z,31.728,-104.237,5.0231,2.5,ml,20,107,0,0.4,tx,tx2024gulc,2024-04-06T15:32:20.040Z,"51 km SSE of Whites City, New Mexico",earthquake,0,2.81218505791445,0.1,15,automatic,tx,tx
 2024-04-06T13:26:41.070Z,31.7,-104.191,3.195,1.9,ml,19,99,0.1,0.4,tx,tx2024gukx,2024-04-06T13:55:57.385Z,"55 km SSE of Whites City, New Mexico",earthquake,0,1.51140423640008,0.2,14,automatic,tx,tx
-2024-04-06T13:22:11.190Z,36.414665222168,-89.4031677246094,12.4799995422363,1.38,md,6,125,0.09038,0.0199999996,nm,nm60576331,2024-04-06T13:34:12.660Z,"5 km NW of Samburg, Tennessee",earthquake,0.42,2.1500001,0.159999996,5,reviewed,nm,nm
+2024-04-06T13:22:11.260Z,36.4135,-89.4006666666667,11.77,1.92,md,32,51,0.04712,0.05,nm,nm60576331,2024-04-06T15:41:12.490Z,"5 km NW of Samburg, Tennessee",earthquake,0.29,0.57,0.127122747982242,29,reviewed,nm,nm
 2024-04-06T13:17:52.876Z,24.2052,121.7694,14.741,4.2,mb,20,119,0.585,0.83,us,us7000mag8,2024-04-06T15:26:26.040Z,"30 km NNE of Hualien City, Taiwan",earthquake,3.88,6.13,0.2,7,reviewed,us,us
 2024-04-06T13:02:02.789Z,32.4331,-104.6214,6.386,2.6,ml,20,106,0.651,0.88,us,us7000mag5,2024-04-06T13:18:51.040Z,"36 km NW of Whites City, New Mexico",earthquake,3.13,5.888,0.069,28,reviewed,us,us
 2024-04-06T13:01:03.020Z,38.8226662,-122.762001,2.15,0.59,md,7,141,0.009946,0.01,nc,nc74030196,2024-04-06T13:02:36.914Z,"3 km W of Cobb, CA",earthquake,0.54,0.81,0.38,9,automatic,nc,nc
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T10:51:39.665Z,59.3928,-152.9171,79.2,2.5,ml,,,,0.41,ak,ak0244gle0j4,2024-04-06T12:05:52.040Z,"56 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-06T10:48:28.250Z,18.1368,-67.5251,151,3.99,md,30,263,0.2519,0.18,pr,pr2024097001,2024-04-06T14:37:53.595Z,"35 km SW of Stella, Puerto Rico",earthquake,1.7,0.74,0.17,26,reviewed,pr,pr
 2024-04-06T10:47:12.078Z,23.8745,121.7218,28.612,5.2,mww,38,72,0.618,0.71,us,us7000mafi,2024-04-06T14:28:37.150Z,"16 km SE of Hualien City, Taiwan",earthquake,3.13,5.258,0.073,18,reviewed,us,us
-2024-04-06T10:46:39.443Z,40.6941,-74.7444,9.033,2.5,mb_lg,18,106,0.64,0.27,us,us7000mafe,2024-04-06T15:30:54.744Z,"7 km WSW of Gladstone, New Jersey",earthquake,1.91,1.587,0.154,11,reviewed,us,us
+2024-04-06T10:46:39.443Z,40.6941,-74.7444,9.033,2.5,mb_lg,18,106,0.64,0.27,us,us7000mafe,2024-04-06T15:41:14.134Z,"7 km WSW of Gladstone, New Jersey",earthquake,1.91,1.587,0.154,11,reviewed,us,us
 2024-04-06T10:44:05.680Z,35.6491667,-117.574,5.32,1.02,ml,29,83,0.07157,0.14,ci,ci40706328,2024-04-06T10:50:09.911Z,"10 km ENE of Ridgecrest, CA",earthquake,0.18,0.4,0.122,11,automatic,ci,ci
 2024-04-06T10:42:53.312Z,31.829,71.4416,10,4.3,mb,29,216,2.381,0.95,us,us7000maff,2024-04-06T12:01:16.040Z,"0 km SE of Dullewala, Pakistan",earthquake,8.84,1.93,0.114,22,reviewed,us,us
 2024-04-06T10:40:28.689Z,63.2181,-150.7623,124.3,1.5,ml,,,,0.21,ak,ak0244glbmrj,2024-04-06T10:43:19.466Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T22:04:13.160Z,51.9113333333333,179.660833333333,14.56,1.25,ml,4,268,0.02785,0.27,av,av93001534,2024-04-06T00:02:18.520Z,"255 km W of Adak, Alaska",earthquake,2.65,1.51,0.0994910693675686,4,reviewed,av,av
 2024-04-05T22:04:12.247Z,62.0885,-152.6286,0,1.6,ml,,,,0.71,ak,ak0244f4pqiw,2024-04-05T22:06:57.235Z,"65 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-05T22:01:47.750Z,36.6816673,-121.3529968,-0.22,1.43,md,8,84,0.02627,0.13,nc,nc74029901,2024-04-05T22:03:23.681Z,"12 km SSW of Tres Pinos, CA",earthquake,0.58,1.23,0.07,7,automatic,nc,nc
-2024-04-05T21:59:13.778Z,40.6854,-74.7348,8.518,3.8,mwr,33,107,0.65,0.43,us,us7000mab9,2024-04-06T15:31:36.408Z,"7 km SW of Gladstone, New Jersey",earthquake,0.96,7.63,0.071,19,reviewed,us,us
+2024-04-05T21:59:13.778Z,40.6854,-74.7348,8.518,3.8,mwr,33,107,0.65,0.43,us,us7000mab9,2024-04-06T15:42:14.520Z,"7 km SW of Gladstone, New Jersey",earthquake,0.96,7.63,0.071,19,reviewed,us,us
 2024-04-05T21:58:20.010Z,38.7960014,-122.7580032,-0.88,1.03,md,7,143,0.004806,0.11,nc,nc74029896,2024-04-06T06:12:31.775Z,"2 km N of The Geysers, CA",earthquake,0.41,0.91,0.08,7,automatic,nc,nc
 2024-04-05T21:53:02.500Z,38.8204994,-122.7803345,0.86,0.92,md,9,89,0.007235,0.01,nc,nc74029891,2024-04-05T21:54:38.192Z,"5 km W of Cobb, CA",earthquake,0.3,0.6,0.21,12,automatic,nc,nc
 2024-04-05T21:49:16.999Z,60.6051,-151.591,67.3,1.4,ml,,,,0.37,ak,ak0244f4dyib,2024-04-05T21:51:18.602Z,"14 km W of Salamatof, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T15:56:24.100Z,38.793335,-122.7561646,0.47,1.06,md,14,139,0.007789,0.04,nc,nc74029791,2024-04-05T15:58:00.826Z,"2 km N of The Geysers, CA",earthquake,0.27,0.62,0.26,14,automatic,nc,nc
 2024-04-05T15:55:51.527Z,62.3872,-150.9981,5.3,1.6,ml,,,,0.83,ak,ak0244f0upu8,2024-04-05T15:59:03.411Z,"17 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-05T15:49:36.690Z,40.7347,-74.7625,5,2,ml,20,134,0.597,0.62,us,us7000ma9j,2024-04-06T02:19:25.304Z,"5 km SSE of Long Valley, New Jersey",earthquake,1.5,1.931,0.081,20,reviewed,us,us
-2024-04-05T15:38:16.460Z,38.8271675,-122.8111649,1.73,0.26,md,7,123,0.003862,0.02,nc,nc74029786,2024-04-05T15:39:50.566Z,"7 km NW of The Geysers, CA",earthquake,0.54,1.71,0.14,8,automatic,nc,nc
-2024-04-05T15:37:10.448Z,40.6899,-74.7727,5,1.8,ml,12,150,0.637,0.27,us,us7000ma9v,2024-04-06T02:20:38.023Z,"6 km ESE of Califon, New Jersey",earthquake,1.94,1.931,0.115,10,reviewed,us,us
