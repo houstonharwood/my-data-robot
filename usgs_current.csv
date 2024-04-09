@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-09T16:09:24.630Z,18.0558333333333,-66.7676666666667,17.53,2.21,md,7,110,0.1332,0.25,pr,pr71445243,2024-04-09T16:37:40.000Z,"1 km WSW of Santo Domingo, Puerto Rico",earthquake,0.88,2.02,0.147117195909228,3,reviewed,pr,pr
 2024-04-09T16:01:06.310Z,19.2796669006348,-155.384994506836,29.1800003051758,2,md,32,175,0.05345,0.109999999,hv,hv74166047,2024-04-09T16:02:45.780Z,"12 km NE of Pāhala, Hawaii",earthquake,0.68,0.579999983,0.150000006,8,automatic,hv,hv
 2024-04-09T15:48:52.250Z,38.7608337,-122.7346649,2.31,0.99,md,9,127,0.007702,0.02,nc,nc74031801,2024-04-09T15:50:28.747Z,"3 km SE of The Geysers, CA",earthquake,0.64,0.49,0.26,9,automatic,nc,nc
 2024-04-09T15:37:48.571Z,58.4964,-152.6702,44.5,2.1,ml,,,,0.55,ak,ak0244lmw8p5,2024-04-09T15:40:17.453Z,"50 km NNE of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T10:14:00.170Z,33.136,-117.6721667,18.26,1.56,ml,35,141,0.2542,0.18,ci,ci40708328,2024-04-09T10:20:18.896Z,"29 km WSW of Camp Pendleton South, CA",earthquake,0.44,0.69,0.201,28,automatic,ci,ci
 2024-04-09T10:08:25.030Z,38.8246651,-122.7624969,2.32,0.81,md,10,129,0.008195,0.02,nc,nc74031711,2024-04-09T10:10:00.883Z,"3 km W of Cobb, CA",earthquake,0.57,1.04,0.11,10,automatic,nc,nc
 2024-04-09T09:55:55.693Z,64.5939,-147.0106,15,0.9,ml,,,,0.16,ak,ak0244ljfii9,2024-04-09T09:57:41.685Z,"8 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-04-09T09:48:01.680Z,2.7135,127.0944,35,6.6,mww,139,23,1.948,0.71,us,us7000maxr,2024-04-09T11:55:36.397Z,"149 km NW of Tobelo, Indonesia",earthquake,6.64,1.876,0.059,28,reviewed,us,us
+2024-04-09T09:48:01.680Z,2.7135,127.0944,35,6.6,mww,139,23,1.948,0.71,us,us7000maxr,2024-04-09T16:37:48.260Z,"149 km NW of Tobelo, Indonesia",earthquake,6.64,1.876,0.059,28,reviewed,us,us
 2024-04-09T09:39:42.200Z,19.3945007324219,-155.47966003418,5.30000019073486,1.88999999,md,46,40,0.03076,0.189999998,hv,hv74165782,2024-04-09T09:41:19.840Z,"21 km N of Pāhala, Hawaii",earthquake,0.29,0.75,0.319999993,17,automatic,hv,hv
 2024-04-09T09:32:40.720Z,34.1113333,-117.3205,15.13,1.06,ml,40,70,0.1261,0.16,ci,ci40708320,2024-04-09T13:41:23.439Z,"3 km SW of San Bernardino, CA",earthquake,0.18,0.31,0.189,23,reviewed,ci,ci
 2024-04-09T09:31:51.329Z,60.9234,-151.2789,68.5,1.1,ml,,,,0.21,ak,ak0244ljabn6,2024-04-09T14:20:28.656Z,"17 km SSW of Tyonek, Alaska",earthquake,,0.8,,,reviewed,ak,ak
@@ -88,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T03:09:53.700Z,35.4005,-118.644,4.42,2.23,ml,44,35,0.1251,0.19,ci,ci40708216,2024-04-09T16:19:12.360Z,"25 km SSW of Bodfish, CA",earthquake,0.16,0.63,0.196,62,reviewed,ci,ci
 2024-04-09T03:04:04.910Z,33.6928333,-116.712,18.16,0.75,ml,23,60,0.01838,0.12,ci,ci40708208,2024-04-09T13:42:34.429Z,"5 km S of Idyllwild, CA",earthquake,0.27,0.44,0.297,12,reviewed,ci,ci
 2024-04-09T02:50:14.340Z,38.7796669,-122.7248306,1,0.72,md,7,154,0.009957,0.04,nc,nc74031591,2024-04-09T02:51:50.734Z,"3 km E of The Geysers, CA",earthquake,0.56,1.81,0.58,7,automatic,nc,nc
-2024-04-09T02:46:40.391Z,37.7124,-77.5039,5,2.1,mb_lg,10,113,0.389,0.63,us,us7000mawq,2024-04-09T16:36:25.088Z,"5 km N of Glen Allen, Virginia",earthquake,1.19,1.947,0.255,4,reviewed,us,us
+2024-04-09T02:46:40.391Z,37.7124,-77.5039,5,2.1,mb_lg,10,113,0.389,0.63,us,us7000mawq,2024-04-09T16:41:39.530Z,"5 km N of Glen Allen, Virginia",earthquake,1.19,1.947,0.255,4,reviewed,us,us
 2024-04-09T02:43:36.110Z,33.3081667,-116.2843333,10.3,0.63,ml,19,206,0.05805,0.15,ci,ci37643012,2024-04-09T16:07:17.658Z,"10 km NE of Borrego Springs, CA",earthquake,0.46,0.39,0.12,6,reviewed,ci,ci
 2024-04-09T02:43:32.880Z,32.636,-115.792,8.22,1.25,ml,27,77,0.05694,0.17,ci,ci40708200,2024-04-09T15:39:24.309Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.23,0.54,0.206,16,reviewed,ci,ci
 2024-04-09T02:26:26.890Z,32.4033333,-115.2061667,11.02,3.03,ml,34,51,0.08514,0.34,ci,ci40708192,2024-04-09T14:32:33.241Z,"6 km NNW of Delta, B.C., MX",earthquake,0.43,0.95,0.146,64,reviewed,ci,ci
