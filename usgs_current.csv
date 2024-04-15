@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-15T20:45:42.240Z,33.9716682,-116.2091675,6.82,1.69,ml,50,36,0.05486,0.2,ci,ci40713392,2024-04-15T20:47:44.719Z,"20 km SSE of Joshua Tree, CA",earthquake,0.26,0.77,0.266,26,automatic,ci,ci
+2024-04-15T20:48:50.200Z,33.4425011,-116.5599976,13.84,1.07,ml,25,40,0.06377,0.2,ci,ci40713400,2024-04-15T20:51:10.747Z,"16 km SE of Anza, CA",earthquake,0.35,0.84,0.224,5,automatic,ci,ci
+2024-04-15T20:45:42.210Z,33.9718333,-116.2135,9.23,1.57,ml,55,36,0.05702,0.17,ci,ci40713392,2024-04-15T20:53:03.111Z,"20 km SSE of Joshua Tree, CA",earthquake,0.15,0.35,0.196,29,automatic,ci,ci
 2024-04-15T20:32:59.910Z,38.829834,-122.8326645,6.6,0.4,md,7,152,0.006958,0.05,nc,nc74034891,2024-04-15T20:34:34.949Z,"9 km NW of The Geysers, CA",earthquake,1.33,1.55,0.3,8,automatic,nc,nc
 2024-04-15T20:22:46.590Z,33.846,-117.4888333,2.55,1.51,ml,53,44,0.04629,0.18,ci,ci40713352,2024-04-15T20:33:48.440Z,"5 km SE of Home Gardens, CA",earthquake,0.17,0.26,0.221,33,automatic,ci,ci
 2024-04-15T20:10:03.997Z,61.0136,-148.1515,8.9,1.6,ml,,,,1.02,ak,ak0244vmxlwv,2024-04-15T20:12:45.052Z,"39 km NE of Whittier, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T19:50:08.830Z,46.12916666666667,-122.4275,17.11,0.86,ml,19,99,0.07798,0.1,uw,uw61988787,2024-04-15T20:39:18.260Z,"24 km N of Amboy, Washington",earthquake,0.37,0.61,0.10776587726839915,8,reviewed,uw,uw
 2024-04-15T19:44:27.839Z,61.4661,-152.1807,119.2,1.8,ml,,,,0.53,ak,ak0244vmjihr,2024-04-15T19:47:54.815Z,"69 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-15T19:41:16.540Z,34.1305,-117.4298333,6.25,0.94,ml,27,61,0.03173,0.17,ci,ci40713304,2024-04-15T20:13:53.675Z,"4 km NE of Fontana, CA",earthquake,0.3,0.57,0.134,16,reviewed,ci,ci
-2024-04-15T19:30:18.450Z,33.8525,-117.5046667,1.72,1.54,ml,48,50,0.05234,0.2,ci,ci40713288,2024-04-15T19:37:19.591Z,"3 km SSE of Home Gardens, CA",earthquake,0.23,0.3,0.429,38,automatic,ci,ci
+2024-04-15T19:30:18.150Z,33.8595,-117.503,-0.51,1.19,ml,35,54,0.05095,0.26,ci,ci40713288,2024-04-15T20:53:53.411Z,"3 km SE of Home Gardens, CA",quarry blast,0.39,31.61,0.109,20,reviewed,ci,ci
 2024-04-15T19:26:51.684Z,61.0264,-151.5378,59.9,1.6,ml,,,,0.61,ak,ak0244vmfpg0,2024-04-15T19:29:18.326Z,"22 km WSW of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-15T19:24:14.087Z,31.602,-104.532,5.6313,1.6,ml,17,156,0.1,0.4,tx,tx2024hlif,2024-04-15T19:44:34.557Z,"65 km SSW of Whites City, New Mexico",earthquake,0,4.8508752406742,0.1,12,automatic,tx,tx
 2024-04-15T19:18:39.191Z,64.3886,-147.1219,13.9,2.6,ml,,,,0.36,ak,ak0244vmdyr3,2024-04-15T19:28:54.040Z,"18 km SW of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -23,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T18:40:29.890Z,44.368,-115.204666666667,3.25,1.36,ml,6,117,0.3671,0.11,mb,mb90046313,2024-04-15T19:26:46.370Z,"27 km NW of Stanley, Idaho",earthquake,0.44,2.72,0.394662663270113,7,reviewed,mb,mb
 2024-04-15T18:33:46.670Z,36.0028333,-117.8081667,0.86,0.94,ml,14,80,0.02031,0.15,ci,ci40713264,2024-04-15T20:16:22.676Z,"12 km NE of Little Lake, CA",earthquake,0.24,0.41,0.227,10,reviewed,ci,ci
 2024-04-15T18:28:43.180Z,19.136833190918,-155.453338623047,32.060001373291,2.02999997,md,16,177,0.119,0.100000001,hv,hv74172427,2024-04-15T18:30:20.990Z,"7 km SSE of Pāhala, Hawaii",earthquake,1.31,1.83000004,0.209999993,3,automatic,hv,hv
+2024-04-15T18:27:06.780Z,49.01766666666666,-122.04183333333333,-0.39,1.69,ml,9,245,0.03451,0.08,uw,uw61988757,2024-04-15T20:52:23.000Z,"10 km NNE of Maple Falls, Washington",explosion,0.51,31.61,0.10142833408368945,9,reviewed,uw,uw
 2024-04-15T18:17:02.776Z,52.5633,172.7784,35,4.6,mb,58,86,0.822,0.63,us,us7000mc91,2024-04-15T19:39:43.891Z,"41 km SW of Attu Station, Alaska",earthquake,9.85,1.915,0.048,129,reviewed,us,us
 2024-04-15T18:16:44.040Z,19.151,-155.468166666667,32.92,3.18,ml,42,161,0.007213,0.1,hv,hv74172412,2024-04-15T19:54:58.980Z,"5 km S of Pāhala, Hawaii",earthquake,0.46,0.6,0.0922176020060197,24,reviewed,hv,hv
 2024-04-15T18:14:49.935Z,62.0554,-148.1496,24.2,1.6,ml,,,,0.72,ak,ak0244vlrnny,2024-04-15T18:16:49.764Z,"33 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -109,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T09:22:30.760Z,32.6398333,-115.7291667,7.7,1.21,ml,24,70,0.009757,0.21,ci,ci40713008,2024-04-15T17:40:09.976Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.34,0.37,0.248,8,reviewed,ci,ci
 2024-04-15T09:22:01.520Z,18.2316666666667,-67.103,22.25,2.54,md,26,47,0.03773,0.25,pr,pr71445628,2024-04-15T09:43:18.260Z,"5 km NE of Mayagüez, Puerto Rico",earthquake,0.4,0.65,0.0969507971807397,7,reviewed,pr,pr
 2024-04-15T08:56:45.248Z,60.0079,-139.5195,0,1.9,ml,,,,1.22,ak,ak0244vg2cr8,2024-04-15T08:59:18.336Z,"52 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-15T08:55:36.010Z,40.373333,-125.0185013,0.97,3.13,ml,41,276,0.5236,0.48,nc,nc74034651,2024-04-15T11:44:34.628Z,"62 km W of Petrolia, CA",earthquake,6.76,11.64,0.182,4,automatic,nc,nc
+2024-04-15T08:55:36.010Z,40.373333,-125.0185013,0.97,3.13,ml,41,276,0.5236,0.48,nc,nc74034651,2024-04-15T20:48:41.425Z,"62 km W of Petrolia, CA",earthquake,6.76,11.64,0.182,4,automatic,nc,nc
 2024-04-15T08:35:18.930Z,38.8393326,-122.8066635,1.66,0.89,md,9,121,0.01278,0.03,nc,nc74034646,2024-04-15T08:36:52.774Z,"8 km WNW of Cobb, CA",earthquake,0.37,1.29,0.34,10,automatic,nc,nc
 2024-04-15T08:31:12.360Z,38.8351669,-122.8011703,1.71,0.7,md,11,60,0.009054,0.01,nc,nc74034641,2024-04-15T08:32:48.710Z,"7 km WNW of Cobb, CA",earthquake,0.37,0.54,0.37,12,automatic,nc,nc
 2024-04-15T08:16:03.306Z,60.6581,-150.2559,42.4,1.4,ml,,,,0.51,ak,ak0244vftowa,2024-04-15T08:17:52.342Z,"30 km NW of Cooper Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
