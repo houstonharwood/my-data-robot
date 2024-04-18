@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T16:25:23.850Z,35.0516667,-118.312,1.14,0.95,ml,18,64,0.06558,0.21,ci,ci40549159,2024-04-18T16:31:35.663Z,"13 km W of Mojave, CA",earthquake,0.28,0.5,0.196,12,automatic,ci,ci
 2024-04-18T16:20:15.164Z,55.6506,-158.9155,18,2.3,ml,,,,0.19,ak,ak02450j82zw,2024-04-18T16:22:05.272Z,"32 km SSE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-18T16:19:22.860Z,19.1313323974609,-155.39616394043,30.9400005340576,1.91999996,md,23,241,0.06679,0.109999999,hv,hv74176567,2024-04-18T16:21:03.750Z,"11 km SE of Pāhala, Hawaii",earthquake,1.12,1.26999998,0.209999993,3,automatic,hv,hv
-2024-04-18T16:12:24.422Z,32.409,-102.145,6.3232,2.6,ml,27,65,0,0.1,tx,tx2024hqok,2024-04-18T16:26:57.034Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.5047293497080539,0.3997721757877085,0.1,15,reviewed,tx,tx
+2024-04-18T16:12:24.469Z,32.405,-102.149,6.0303,2.6,ml,23,63,0,0.1,tx,tx2024hqok,2024-04-18T16:41:23.271Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.4995670738329099,0.4924716048536929,0.1,12,reviewed,tx,tx
 2024-04-18T16:09:29.011Z,63.2832,-150.8906,90.6,2.1,ml,,,,2.41,ak,ak02450j5r6t,2024-04-18T16:12:02.249Z,"50 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-18T16:09:14.760Z,38.8196678,-122.8073349,2.23,0.43,md,7,92,0.004293,0.01,nc,nc74036596,2024-04-18T16:10:47.743Z,"6 km NW of The Geysers, CA",earthquake,0.5,0.88,0.35,8,automatic,nc,nc
 2024-04-18T16:06:31.630Z,37.6004982,-121.6470032,26.22,1.72,md,4,185,0.1239,0,nc,nc74036591,2024-04-18T16:08:07.707Z,"14 km SE of Livermore, CA",earthquake,2.18,3.35,0.13,6,automatic,nc,nc
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T15:20:55.430Z,43.9285,-110.121333333333,8.11,1.63,ml,14,199,0.4712,0.22,mb,mb90046843,2024-04-18T15:52:52.430Z,"52 km NE of Kelly, Wyoming",earthquake,1.21,1.62,0.216114169368489,7,reviewed,mb,mb
 2024-04-18T15:14:40.867Z,29.071,-97.811,6.1735,1.7,ml,15,78,0,1.1,tx,tx2024hqmn,2024-04-18T15:43:12.691Z,"22 km SSW of Nixon, Texas",earthquake,0,2.76766943932367,0.2,13,automatic,tx,tx
 2024-04-18T15:12:38.052Z,26.2173,-110.5083,10,5.6,mww,45,201,4.396,1.12,us,us7000mcxe,2024-04-18T16:28:32.193Z,"87 km ENE of Loreto, Mexico",earthquake,9.72,1.806,0.048,42,reviewed,us,us
-2024-04-18T15:11:25.221Z,40.0043,35.9763,10,5.6,mww,79,29,0.499,0.9,us,us7000mcxc,2024-04-18T16:32:59.647Z,"9 km W of Sulusaray, Turkey",earthquake,3.94,1.818,0.038,65,reviewed,us,us
+2024-04-18T15:11:25.221Z,40.0043,35.9763,10,5.6,mww,79,29,0.499,0.9,us,us7000mcxc,2024-04-18T16:38:06.114Z,"9 km W of Sulusaray, Turkey",earthquake,3.94,1.818,0.038,65,reviewed,us,us
 2024-04-18T15:11:05.155Z,64.3409,-149.7622,5.7,1.6,ml,,,,1.19,ak,ak02450ikp6b,2024-04-18T15:13:54.858Z,"27 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-18T15:09:12.880Z,19.3920001983643,-155.274505615234,0.639999985694885,2.62,ml,37,49,0.003448,0.349999994,hv,hv74176507,2024-04-18T15:11:50.110Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.219999999,0.43,24,automatic,hv,hv
 2024-04-18T14:59:41.083Z,-19.6617,-172.7188,10,4.6,mb,19,156,2.699,0.56,us,us7000mcx7,2024-04-18T15:50:23.040Z,"168 km E of Fangale’ounga, Tonga",earthquake,12.18,1.91,0.152,13,reviewed,us,us
@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T04:15:17.050Z,38.8300018,-122.8046646,1.29,0.23,md,7,101,0.007834,0.01,nc,nc74036366,2024-04-18T04:16:50.274Z,"7 km W of Cobb, CA",earthquake,0.4,1.13,0.12,7,automatic,nc,nc
 2024-04-18T04:10:29.080Z,38.8230019,-122.8073349,4.54,0.78,md,11,62,0.002175,0.09,nc,nc74036356,2024-04-18T04:12:05.255Z,"7 km NW of The Geysers, CA",earthquake,0.67,2.46,0.14,13,automatic,nc,nc
 2024-04-18T03:47:55.260Z,31.623,-104.499,6.3049,2.4,ml,42,69,0,0.2,tx,tx2024hppw,2024-04-18T08:32:10.610Z,"62 km S of Whites City, New Mexico",earthquake,0.8549464189323108,0.535430699092389,0.1,25,reviewed,tx,tx
+2024-04-18T03:42:25.150Z,42.5568333333333,-111.358333333333,7,1.91,ml,15,132,0.2822,0.23,uu,uu80066771,2024-04-18T16:41:15.380Z,"8 km N of Georgetown, Idaho",earthquake,0.83,0.89,0.145660677895964,3,reviewed,uu,uu
 2024-04-18T03:21:22.070Z,38.8358345,-122.8008347,2.55,0.7,md,8,106,0.008587,0.01,nc,nc74036346,2024-04-18T03:22:55.640Z,"7 km WNW of Cobb, CA",earthquake,0.49,1.7,0.36,8,automatic,nc,nc
 2024-04-18T03:15:23.438Z,66.0373,-152.0166,13.1,1.5,ml,,,,0.36,ak,ak02450bge6v,2024-04-18T03:17:10.267Z,"63 km SSE of New Allakaket, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-18T03:02:38.490Z,33.5375,-116.398,9.82,0.59,ml,29,82,0.02708,0.14,ci,ci40716040,2024-04-18T03:08:40.212Z,"16 km SSW of La Quinta, CA",earthquake,0.19,0.45,0.199,10,automatic,ci,ci
@@ -205,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T16:53:09.290Z,46.3648333333333,-113.513833333333,4.86,0.52,ml,7,99,0.08642,0.02,mb,mb90046668,2024-04-17T17:38:06.120Z,"17 km WNW of Philipsburg, Montana",earthquake,0.91,2.71,0.117141365332292,2,reviewed,mb,mb
 2024-04-17T16:51:43.480Z,45.9156666666667,-112.254166666667,-2,0.47,ml,9,103,0.1376,0.06,mb,mb90046663,2024-04-17T17:32:50.710Z,"13 km WNW of Whitehall, Montana",quarry blast,0.69,31.61,0.30179318991294,3,reviewed,mb,mb
 2024-04-17T16:46:28.110Z,38.828167,-122.809166,1.66,1.09,md,19,41,0.004818,0.02,nc,nc74036081,2024-04-17T16:48:03.175Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.53,0.1,23,automatic,nc,nc
-2024-04-17T16:40:04.253Z,40.6925,-74.7662,6.998,1.1,ml,5,93,0.014,0.07,us,us7000mcr6,2024-04-18T14:42:37.736Z,"6 km ESE of Califon, New Jersey",earthquake,1.48,2.537,0.115,10,reviewed,us,us
-2024-04-17T16:37:36.450Z,17.9963333333333,-66.9946666666667,3.47,1.95,md,5,141,0.05423,0.05,pr,pr71445843,2024-04-17T16:58:59.700Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.38,2.3,0.0995217339434857,4,reviewed,pr,pr
