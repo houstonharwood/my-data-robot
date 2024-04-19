@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T20:59:39.115Z,42.9759,146.6204,40.052,4.8,mb,86,126,2.735,0.59,us,us7000mday,2024-04-19T22:22:00.040Z,"91 km S of Shikotan, Russia",earthquake,9.08,6.685,0.038,216,reviewed,us,us
 2024-04-19T20:41:04.740Z,36.0038338,-120.5699997,2.62,1.08,md,11,96,0.02764,0.07,nc,nc74037481,2024-04-19T20:42:40.095Z,"17 km NW of Parkfield, CA",earthquake,0.35,0.91,0.24,7,automatic,nc,nc
 2024-04-19T20:38:21.522Z,-9.265,110.2853,42.592,4.5,mb,52,89,2.207,0.7,us,us7000mdau,2024-04-19T22:14:43.040Z,"145 km S of Pundong, Indonesia",earthquake,7.7,3.4,0.092,39,reviewed,us,us
-2024-04-19T20:36:19.671Z,40.321,-75.9748,8.01,2.4,mb_lg,30,62,0.352,0.59,us,us7000mdaq,2024-04-19T22:24:42.495Z,"1 km NE of Lincoln Park, Pennsylvania",earthquake,0.85,6.92,0.295,3,reviewed,us,us
+2024-04-19T20:36:19.671Z,40.321,-75.9748,8.01,2.4,mb_lg,30,62,0.352,0.59,us,us7000mdaq,2024-04-19T22:29:51.249Z,"1 km NE of Lincoln Park, Pennsylvania",earthquake,0.85,6.92,0.295,3,reviewed,us,us
 2024-04-19T20:36:12.650Z,38.8153343,-122.8239975,2,0.33,md,6,117,0.00762,0.01,nc,nc74037476,2024-04-19T20:37:44.986Z,"7 km NW of The Geysers, CA",earthquake,0.63,1.51,0.1,8,automatic,nc,nc
 2024-04-19T20:25:41.636Z,4.5921,-82.5669,6.105,4.6,mb,95,125,3.867,1.49,us,us7000mdak,2024-04-19T22:03:06.040Z,"south of Panama",earthquake,7.52,5.353,0.05,121,reviewed,us,us
 2024-04-19T20:18:10.090Z,33.8671667,-117.5028333,2.96,0.9,ml,27,55,0.06912,0.15,ci,ci40551335,2024-04-19T20:24:26.205Z,"2 km SE of Home Gardens, CA",earthquake,0.27,0.35,0.134,17,automatic,ci,ci
@@ -165,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T06:57:14.100Z,47.793,-122.813,21.09,1.03,ml,15,85,0.05046,0.14,uw,uw61997956,2024-04-19T17:42:26.220Z,"5 km SE of Quilcene, Washington",earthquake,0.46,0.39,0.10723267218726251,9,reviewed,uw,uw
 2024-04-19T06:54:17.770Z,38.821167,-122.8085022,2.83,0.77,md,16,66,0.002541,0.02,nc,nc74037091,2024-04-19T06:55:52.405Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.76,0.22,16,automatic,nc,nc
 2024-04-19T06:53:41.900Z,45.2108333333333,-112.305166666667,9.73,1.02,ml,17,62,0.1884,0.1,mb,mb90046948,2024-04-19T15:26:24.810Z,"19 km SW of Alder, Montana",earthquake,0.28,0.87,0.166555690525983,11,reviewed,mb,mb
+2024-04-19T06:44:45.980Z,51.7408333333333,-177.4705,4.49,1.6,ml,18,193,0.1477,0.28,av,av93095321,2024-04-19T22:30:34.010Z,"59 km WSW of Adak, Alaska",earthquake,0.97,1.2,0.256550235645041,17,reviewed,av,av
 2024-04-19T06:30:04.240Z,18.0213333333333,-66.8775,16.05,2.3,md,18,79,0.01913,0.2,pr,pr71445948,2024-04-19T06:39:38.630Z,"0 km NNW of Palomas, Puerto Rico",earthquake,0.5,0.65,0.0945543628242658,7,reviewed,pr,pr
 2024-04-19T06:23:07.380Z,39.5555,-123.3590012,7.31,1.74,md,12,106,0.08799,0.09,nc,nc74037086,2024-04-19T06:24:41.981Z,"13 km N of Brooktrails, CA",earthquake,0.36,0.97,0.12,7,automatic,nc,nc
 2024-04-19T06:19:31.641Z,63.5387,-150.9275,0,1.6,ml,,,,0.97,ak,ak024520swzw,2024-04-19T06:22:22.216Z,"39 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -288,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T22:42:13.470Z,38.8136673,-122.8274994,1.9,0.9,md,10,93,0.004968,0.02,nc,nc74036856,2024-04-18T22:43:48.905Z,"7 km WNW of The Geysers, CA",earthquake,0.35,0.63,0.3,13,automatic,nc,nc
 2024-04-18T22:34:42.930Z,38.8216667,-122.8528366,2.53,0.8,md,17,90,0.006663,0.02,nc,nc74036851,2024-04-18T22:36:18.802Z,"10 km WNW of The Geysers, CA",earthquake,0.29,0.51,0.12,19,automatic,nc,nc
 2024-04-18T22:32:01.951Z,36.6981,54.3223,10,4.3,mb,52,105,4.814,0.57,us,us7000md12,2024-04-18T23:58:08.040Z,"19 km SW of Gorgān, Iran",earthquake,5.73,1.92,0.078,47,reviewed,us,us
-2024-04-18T22:29:18.940Z,45.6835,-118.82383333333334,-0.59,1.8,ml,8,119,0.1459,0.19,uw,uw61997816,2024-04-19T18:08:53.666Z,"3 km WNW of Pendleton, Oregon",explosion,0.45,31.61,0.12957990673243114,3,reviewed,uw,uw
-2024-04-18T22:27:21.308Z,64.0378,-148.7962,0,1.5,ml,,,,0.91,ak,ak02450mu742,2024-04-18T22:29:32.372Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
