@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-21T17:56:34.967Z,59.8657,-153.3014,110,1.6,ml,,,,0.36,ak,ak02455inbe0,2024-04-21T17:58:58.121Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-21T17:55:55.370Z,19.1743335723877,-155.369338989258,29.8700008392334,1.78999996,md,26,204,0.08969,0.109999999,hv,hv74180442,2024-04-21T17:57:40.630Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.87,0.699999988,0.119999997,6,automatic,hv,hv
 2024-04-21T17:51:57.600Z,38.8196678,-122.8228302,2.23,1.29,md,19,80,0.01013,0.02,nc,nc74038726,2024-04-21T17:53:31.041Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.22,23,automatic,nc,nc
 2024-04-21T17:46:10.360Z,35.8841667,-117.7011667,2.81,0.95,ml,23,97,0.07579,0.14,ci,ci40553959,2024-04-21T17:52:04.961Z,"19 km ESE of Little Lake, CA",earthquake,0.17,0.27,0.137,13,automatic,ci,ci
 2024-04-21T17:33:53.907Z,28.738,-98.984,6.0106,2.5,ml,12,196,0.2,0.5,tx,tx2024hwdp,2024-04-21T17:52:32.040Z,"19 km ENE of Hilltop, Texas",earthquake,0,3.21755485197438,0.1,10,automatic,tx,tx
@@ -111,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-21T07:42:57.830Z,39.8521652,-120.7051697,6.12,2.27,md,6,93,0.393,0.17,nc,nc74038521,2024-04-21T15:45:34.461Z,"2 km S of Cromberg, CA",earthquake,1.27,12.48,0.22,3,automatic,nc,nc
 2024-04-21T07:30:49.200Z,17.9355,-66.2786666666667,14.04,2.37,md,10,180,0.102,0.22,pr,pr71446093,2024-04-21T07:46:06.020Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.86,1.4,0.141474598868711,6,reviewed,pr,pr
 2024-04-21T07:29:09.760Z,35.6755,-117.5305,8.01,1.11,ml,30,100,0.08757,0.13,ci,ci40553439,2024-04-21T15:13:11.150Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.55,0.214,12,reviewed,ci,ci
-2024-04-21T07:23:49.401Z,55.4827,-165.1168,243.503,4.2,mb,96,92,1.159,1.17,us,us7000mdlt,2024-04-21T09:22:20.040Z,"129 km WNW of False Pass, Alaska",earthquake,8.48,8.707,0.053,101,reviewed,us,us
+2024-04-21T07:23:49.401Z,55.4827,-165.1168,243.503,4.2,mb,96,92,1.159,1.17,us,us7000mdlt,2024-04-21T17:58:19.520Z,"129 km WNW of False Pass, Alaska",earthquake,8.48,8.707,0.053,101,reviewed,us,us
 2024-04-21T07:21:57.040Z,38.8086662,-122.7584991,-0.91,1.1,md,8,106,0.008085,0.17,nc,nc74038516,2024-04-21T07:23:29.855Z,"3 km WSW of Cobb, CA",earthquake,0.54,2.13,0.25,12,automatic,nc,nc
 2024-04-21T07:20:11.620Z,39.6423,74.2217,56.643,4.3,mb,43,133,1.771,0.62,us,us7000mdls,2024-04-21T11:27:55.040Z,"99 km SE of Gul’cha, Kyrgyzstan",earthquake,4.88,8.614,0.102,27,reviewed,us,us
 2024-04-21T07:17:47.190Z,38.8323326,-122.8079987,2.19,1.3,md,22,52,0.009071,0.02,nc,nc74038511,2024-04-21T07:19:19.837Z,"7 km W of Cobb, CA",earthquake,0.18,0.39,0.19,24,automatic,nc,nc
@@ -276,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T18:09:38.520Z,35.5913333,-117.5908333,2.92,0.91,ml,21,68,0.07295,0.16,ci,ci40552671,2024-04-20T18:16:01.952Z,"8 km ESE of Ridgecrest, CA",earthquake,0.22,0.41,0.265,9,automatic,ci,ci
 2024-04-20T18:07:10.560Z,40.7048,-74.7471,5.622,1.1,ml,4,231,0.008,0.17,us,us7000mdji,2024-04-20T22:45:12.040Z,"7 km WSW of Gladstone, New Jersey",earthquake,10.96,4.818,0.128,8,reviewed,us,us
 2024-04-20T18:01:55.589Z,38.4879,45.1674,16.69,4.4,mb,122,73,1.121,0.73,us,us7000mdi6,2024-04-20T21:03:08.040Z,"20 km ESE of Khowy, Iran",earthquake,3.56,2.695,0.051,113,reviewed,us,us
-2024-04-20T17:55:02.660Z,38.7963333,-122.7610016,-0.9,0.74,md,11,65,0.004402,0.18,nc,nc74038071,2024-04-20T17:56:38.305Z,"2 km N of The Geysers, CA",earthquake,0.41,1.16,0.15,12,automatic,nc,nc
