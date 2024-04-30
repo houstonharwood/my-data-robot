@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T08:29:15.358Z,31.659,-104.585,5.3567,1.8,ml,18,191,0.1,1.5,tx,tx2024ilxe,2024-04-30T09:14:07.423Z,"60 km SSW of Whites City, New Mexico",earthquake,0,5.42312897794041,0.2,14,automatic,tx,tx
 2024-04-30T08:16:05.215Z,32.411,-102.038,9.9365,3.6,ml,16,119,0.1,0.1,tx,tx2024ilwt,2024-04-30T09:06:12.358Z,"32 km WSW of Ackerly, Texas",earthquake,0.8695603789735314,2.064566277530937,0.1,12,reviewed,tx,tx
 2024-04-30T08:14:11.260Z,19.3833332061768,-155.233505249023,1.70000004768372,1.88999999,md,19,82,0.0118,0.150000006,hv,hv74199332,2024-04-30T08:15:32.560Z,"6 km S of Volcano, Hawaii",earthquake,0.25,0.170000002,0.319999993,16,automatic,hv,hv
-2024-04-30T08:12:23.490Z,35.6783333,-117.4793333,7.99,1.12,ml,32,70,0.04717,0.12,ci,ci40733376,2024-04-30T08:18:33.825Z,"12 km SW of Searles Valley, CA",earthquake,0.17,0.4,0.17,13,automatic,ci,ci
+2024-04-30T08:12:23.490Z,35.6786667,-117.4785,7.96,1.09,ml,27,70,0.04662,0.14,ci,ci40733376,2024-04-30T16:57:50.416Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.48,0.182,9,reviewed,ci,ci
 2024-04-30T08:02:33.769Z,60.6751,-150.6915,23,1.3,ml,,,,0.59,ak,ak0245k8symo,2024-04-30T08:04:28.499Z,"15 km NNE of Sterling, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-30T07:48:26.150Z,38.8226662,-122.8034973,1.72,1.14,md,22,51,0.005189,0.02,nc,nc74043251,2024-04-30T07:50:01.575Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.33,0.15,24,automatic,nc,nc
 2024-04-30T07:40:57.590Z,19.386,-155.242666666667,1.82,2.24,ml,30,67,0.008174,0.08,hv,hv74199207,2024-04-30T07:55:45.630Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.17,0.227305888890646,14,reviewed,hv,hv
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T04:10:38.181Z,60.7206,-147.7229,29.8,1.1,ml,,,,0.36,ak,ak0245k6gya2,2024-04-30T04:12:33.068Z,"52 km E of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-30T04:05:56.010Z,44.7925,-111.053666666667,8.27,0.76,ml,12,148,0.0378,0.08,uu,uu80067936,2024-04-30T13:26:58.070Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.58,0.66,0.47725231813101,3,reviewed,uu,uu
 2024-04-30T04:04:59.290Z,19.1941661834717,-155.497833251953,31.4599990844727,2.1,ml,46,67,0.05124,0.150000006,hv,hv74198582,2024-04-30T04:07:36.960Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.49,0.720000029,0.51,4,automatic,hv,hv
-2024-04-30T04:01:07.994Z,38.1606,-117.8964,7.6,2,ml,15,96.58000000000001,0.079,0.2578,nn,nn00876997,2024-04-30T04:03:44.831Z,"31 km SE of Mina, Nevada",earthquake,,0.4,0.39,9,automatic,nn,nn
+2024-04-30T04:01:08.228Z,38.1684,-117.899,11,1.6,ml,11,70.67999999999999,0.074,0.1408,nn,nn00876997,2024-04-30T16:56:02.869Z,"30 km SE of Mina, Nevada",earthquake,,1.3,0.5,6,reviewed,nn,nn
 2024-04-30T03:59:50.787Z,58.3674,-143.0432,10,3.2,ml,46,156,1.751,0.55,us,us6000mv3z,2024-04-30T05:10:35.040Z,"231 km SW of Yakutat, Alaska",earthquake,4.11,1.992,0.043,70,reviewed,us,us
 2024-04-30T03:59:38.348Z,60.7596,-151.7887,72.8,1,ml,,,,0.14,ak,ak0245k660qi,2024-04-30T04:01:39.753Z,"28 km WNW of Nikiski, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-04-30T03:57:13.561Z,63.3559,-152.0206,10.2,1,ml,,,,0.73,ak,ak0245k65jfd,2024-04-30T03:59:45.993Z,"25 km SW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -323,4 +323,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T17:07:30.340Z,35.502,-118.386,8.59,1.86,ml,30,40,0.1757,0.12,ci,ci40561519,2024-04-30T15:44:23.740Z,"14 km SE of Bodfish, CA",earthquake,0.14,0.53,0.161,19,reviewed,ci,ci
 2024-04-29T17:06:28.545Z,59.6486,-152.4152,65.1,1.1,ml,,,,0.44,ak,ak0245iqnbwl,2024-04-30T12:08:03.805Z,"35 km WSW of Anchor Point, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-04-29T17:00:06.670Z,46.213166666666666,-122.1255,-1.08,-0.31,md,4,313,0.04364,0.09,uw,uw61992612,2024-04-29T21:05:57.870Z,"40 km SSE of Morton, Washington",earthquake,1.6,10.38,0.42445648927685226,2,reviewed,uw,uw
-2024-04-29T16:53:32.560Z,18.0271666666667,-66.741,5.3,2.39,md,6,166,0.1292,0.19,pr,pr71447238,2024-04-29T17:04:58.100Z,"3 km ENE of Magas Arriba, Puerto Rico",earthquake,2.23,1.68,0.145316334460583,4,reviewed,pr,pr
