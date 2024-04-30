@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-30T17:17:38.110Z,33.8176651,-117.6340027,5.18,1.7,ml,43,160,0.03048,0.18,ci,ci40733776,2024-04-30T17:19:47.781Z,"8 km SW of Corona, CA",earthquake,0.33,0.5,0.249,26,automatic,ci,ci
+2024-04-30T17:27:04.970Z,19.3823337554932,-155.249664306641,2.83999991416931,1.74000001,md,14,96,0.003521,0.280000001,hv,hv74200892,2024-04-30T17:28:26.050Z,"6 km SSW of Volcano, Hawaii",earthquake,1.18,0.939999998,0.319999993,10,automatic,hv,hv
+2024-04-30T17:24:39.330Z,35.0448341,-118.329834,1.42,1.08,ml,13,78,0.05496,0.18,ci,ci40733792,2024-04-30T17:26:41.741Z,"14 km W of Mojave, CA",earthquake,0.51,0.9,0.156,3,automatic,ci,ci
+2024-04-30T17:17:38.050Z,33.8143333,-117.6405,4.6,1.85,ml,58,35,0.03234,0.19,ci,ci40733776,2024-04-30T17:26:43.443Z,"9 km SW of Corona, CA",earthquake,0.17,0.34,0.202,27,automatic,ci,ci
 2024-04-30T17:17:16.610Z,38.8240013,-122.805336,1.5,1.08,md,20,48,0.00375,0.02,nc,nc74043461,2024-04-30T17:18:48.871Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.12,19,automatic,nc,nc
 2024-04-30T17:14:45.600Z,61.0341,-151.9214,88.9,2.4,ml,,,,0.53,ak,ak0245ke8glm,2024-04-30T17:16:40.118Z,"42 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-30T17:14:18.060Z,33.4431667,-116.6451667,6.88,0.69,ml,32,36,0.06314,0.16,ci,ci40733760,2024-04-30T17:22:06.724Z,"13 km SSE of Anza, CA",earthquake,0.18,0.65,0.142,11,automatic,ci,ci
@@ -64,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T11:27:06.935Z,64.5574,-151.4717,15,0.8,ml,,,,0.65,ak,ak0245kaqk9x,2024-04-30T11:30:08.936Z,"63 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-30T11:26:42.460Z,38.8433342,-122.8410034,2.21,0.92,md,14,121,0.01783,0.01,nc,nc74043351,2024-04-30T11:28:18.119Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.63,0.21,15,automatic,nc,nc
 2024-04-30T11:25:10.090Z,18.7241666666667,-67.1245,17.98,2.93,md,6,322,0.2556,0.2,pr,pr71447333,2024-04-30T11:48:31.180Z,"25 km N of San Antonio, Puerto Rico",earthquake,1.54,0.82,0.0803987906872359,3,reviewed,pr,pr
-2024-04-30T11:24:57.347Z,-24.97,179.8598,502.95,5.5,mb,67,63,4.692,0.89,us,us6000mv68,2024-04-30T13:28:03.783Z,"south of the Fiji Islands",earthquake,11.5,7.516,0.093,40,reviewed,us,us
+2024-04-30T11:24:57.448Z,-24.9769,179.8991,506.99,5.4,mww,113,35,4.671,0.82,us,us6000mv68,2024-04-30T17:27:24.311Z,"south of the Fiji Islands",earthquake,10.9,5.008,0.093,11,reviewed,us,us
 2024-04-30T11:19:34.300Z,38.7915001,-122.7580032,0.07,1.82,md,27,56,0.009209,0.04,nc,nc74043346,2024-04-30T11:21:08.068Z,"2 km N of The Geysers, CA",earthquake,0.17,0.31,0.17,28,automatic,nc,nc
 2024-04-30T11:19:25.150Z,38.8336678,-122.7965012,2.18,1.04,md,11,72,0.006748,0.02,nc,nc74043341,2024-04-30T11:20:58.001Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.78,0.33,12,automatic,nc,nc
 2024-04-30T11:14:39.916Z,32.1393,-101.1234,1.388,2.4,mb_lg,26,46,0.224,0.35,us,us6000mv66,2024-04-30T13:35:59.040Z,"23 km E of Forsan, Texas",earthquake,1.15,3.192,0.082,40,reviewed,us,us
@@ -321,5 +323,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T17:44:25.220Z,19.3886661529541,-155.241333007812,1.5,2.29,ml,15,84,0.009928,0.230000004,hv,hv74196817,2024-04-29T17:47:04.630Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.280000001,0.33,13,automatic,hv,hv
 2024-04-29T17:38:22.290Z,19.4016666412354,-155.490325927734,-2.07999992370605,2.14,ml,10,93,0.04293,0.189999998,hv,hv74196797,2024-04-29T17:41:00.320Z,"22 km N of Pāhala, Hawaii",earthquake,0.73,0.469999999,0.15,3,automatic,hv,hv
 2024-04-29T17:31:25.690Z,17.8026,-66.9595,9,3.45,md,22,247,0.1871,0.28,pr,pr2024120001,2024-04-29T19:34:49.730Z,"19 km SSW of Guánica, Puerto Rico",earthquake,0.98,1.07,0.14,17,reviewed,pr,pr
-2024-04-29T17:28:54.570Z,18.8938333333333,-64.8151666666667,15.13,3.14,md,5,285,0.5061,0.27,pr,pr71447278,2024-04-29T18:02:13.040Z,"62 km NNE of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.09,4,0.069863479295464,5,reviewed,pr,pr
-2024-04-29T17:28:46.150Z,34.5711667,-116.5688333,3.54,1.51,ml,27,43,0.08576,0.17,ci,ci40561543,2024-04-30T15:52:26.037Z,"39 km ENE of Lucerne Valley, CA",earthquake,0.21,0.7,0.176,20,reviewed,ci,ci
