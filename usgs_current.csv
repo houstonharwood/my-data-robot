@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T11:24:57.448Z,-24.9769,179.8991,506.99,5.4,mww,113,35,4.671,0.82,us,us6000mv68,2024-04-30T17:27:24.311Z,"south of the Fiji Islands",earthquake,10.9,5.008,0.093,11,reviewed,us,us
 2024-04-30T11:19:34.300Z,38.7915001,-122.7580032,0.07,1.82,md,27,56,0.009209,0.04,nc,nc74043346,2024-04-30T11:21:08.068Z,"2 km N of The Geysers, CA",earthquake,0.17,0.31,0.17,28,automatic,nc,nc
 2024-04-30T11:19:25.150Z,38.8336678,-122.7965012,2.18,1.04,md,11,72,0.006748,0.02,nc,nc74043341,2024-04-30T11:20:58.001Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.78,0.33,12,automatic,nc,nc
-2024-04-30T11:14:39.916Z,32.1393,-101.1234,1.388,2.4,mb_lg,26,46,0.224,0.35,us,us6000mv66,2024-04-30T13:35:59.040Z,"23 km E of Forsan, Texas",earthquake,1.15,3.192,0.082,40,reviewed,us,us
+2024-04-30T11:14:40.817Z,32.151,-101.075,4.126,2.6,ml,21,75,0.2,0.3,tx,tx2024imcq,2024-04-30T17:43:18.079Z,"23 km SSW of Westbrook, Texas",earthquake,1.1097790605018347,4.001462586741147,0.1,19,reviewed,tx,tx
 2024-04-30T11:13:34.320Z,19.388334274292,-155.246673583984,1.3400000333786,1.97,ml,23,66,0.005201,0.200000003,hv,hv74199872,2024-04-30T11:16:11.350Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.170000002,0.29,9,automatic,hv,hv
 2024-04-30T11:07:42.930Z,19.3901672363281,-155.237838745117,0.910000026226044,2.59,ml,39,46,0.01353,0.25999999,hv,hv74199867,2024-04-30T11:10:29.100Z,"5 km S of Volcano, Hawaii",earthquake,0.21,0.180000007,0.39,20,automatic,hv,hv
 2024-04-30T10:55:09.310Z,34.053,-117.2205,13.21,0.88,ml,37,47,0.07356,0.17,ci,ci40733400,2024-04-30T17:11:09.003Z,"4 km W of Redlands, CA",earthquake,0.21,0.53,0.133,16,reviewed,ci,ci
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T10:34:47.630Z,38.7989998,-122.8464966,3.13,1.13,md,15,120,0.01164,0.02,nc,nc74043316,2024-04-30T10:36:22.402Z,"8 km WNW of The Geysers, CA",earthquake,0.31,1.08,0.23,17,automatic,nc,nc
 2024-04-30T10:33:32.790Z,38.7988319,-122.8450012,3.11,1.51,md,30,57,0.009529,0.04,nc,nc74043311,2024-04-30T10:37:05.374Z,"8 km WNW of The Geysers, CA",earthquake,0.23,0.41,0.15,29,automatic,nc,nc
 2024-04-30T10:31:46.380Z,35.64683333,-98.09733333,6.44,1.24,ml,63,41,0.1034796938,0.37,ok,ok2024imbf,2024-04-30T12:33:52.140Z,"5 km NNE of Calumet, Oklahoma",earthquake,,0.8,0.27,30,reviewed,ok,ok
-2024-04-30T10:28:39.953Z,37.2874,-117.5887,0,1.3,ml,12,95.3,0.071,0.3651,nn,nn00877006,2024-04-30T10:31:05.890Z,"52 km S of Silver Peak, Nevada",earthquake,,5,0.26,7,automatic,nn,nn
+2024-04-30T10:28:40.958Z,37.2872,-117.5875,6.1,1.1,ml,9,95.97999999999999,0.072,0.1231,nn,nn00877006,2024-04-30T17:39:03.121Z,"52 km S of Silver Peak, Nevada",earthquake,,2.5,0.33,4,reviewed,nn,nn
 2024-04-30T10:26:27.918Z,61.1301,-147.4432,0,1.6,ml,,,,0.82,ak,ak0245ka4ygm,2024-04-30T10:28:49.604Z,"50 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-30T10:23:48.360Z,19.3991666666667,-155.263333333333,1.31,1.34,md,12,63,0.01044,0.08,hv,hv74199712,2024-04-30T12:17:55.500Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.49,0.210069218871171,19,reviewed,hv,hv
 2024-04-30T10:13:50.630Z,34.0496667,-118.9235,3.84,1.96,ml,74,148,0.1222,0.3,ci,ci40733384,2024-04-30T12:56:32.360Z,"12 km WNW of Malibu, CA",earthquake,0.37,0.89,0.13,27,automatic,ci,ci
@@ -203,6 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T01:18:15.486Z,63.5237,-150.7373,0,1.1,ml,,,,1.2,ak,ak0245k4qbfz,2024-04-30T01:21:12.418Z,"49 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-30T01:14:28.587Z,57.7991,-154.307,52.8,1.6,ml,,,,0.51,ak,ak0245k4phl6,2024-04-30T01:16:35.737Z,"27 km NNE of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-30T01:09:24.360Z,19.3643341064453,-155.317672729492,-0.150000005960464,2.07,ml,23,86,0.03253,0.230000004,hv,hv74198032,2024-04-30T01:12:00.140Z,"12 km SW of Volcano, Hawaii",earthquake,0.26,0.330000013,0.3,14,automatic,hv,hv
+2024-04-30T01:09:10.520Z,19.379,-155.237166666667,2.24,1.35,md,8,108,0.006305,0.1,hv,hv74198027,2024-04-30T17:38:35.130Z,"7 km S of Volcano, Hawaii",earthquake,0.69,0.74,0.205216694155136,14,reviewed,hv,hv
 2024-04-30T01:08:08.240Z,38.7958336,-122.8089981,3.35,0.74,md,10,80,0.008813,0.02,nc,nc74043141,2024-04-30T01:09:43.289Z,"5 km WNW of The Geysers, CA",earthquake,0.52,1.18,0.36,11,automatic,nc,nc
 2024-04-30T01:05:22.428Z,31.53,-104.158,3.469,1.6,ml,18,73,0.1,0.5,tx,tx2024ilim,2024-04-30T01:41:24.750Z,"42 km NW of Toyah, Texas",earthquake,0,1.38404821151211,0.2,12,automatic,tx,tx
 2024-04-30T01:03:54.907Z,61.3972,-150.3839,116.1,1.2,ml,,,,0.16,ak,ak0245k4n6qq,2024-04-30T01:06:31.537Z,"17 km SSE of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -321,4 +322,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T17:58:35.719Z,36.20983333,-95.8795,0,1.09,ml,46,115,0.3365339606,0.55,ok,ok2024ikul,2024-04-29T18:08:53.895Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,0.6,0.22,23,reviewed,ok,ok
 2024-04-29T17:44:29.890Z,19.386,-155.2475,1.62,1.65,ml,17,74,0.00363,0.1,hv,hv74196822,2024-04-29T19:27:56.180Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.22,0.0927446078595723,7,reviewed,hv,hv
 2024-04-29T17:44:25.220Z,19.3886661529541,-155.241333007812,1.5,2.29,ml,15,84,0.009928,0.230000004,hv,hv74196817,2024-04-29T17:47:04.630Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.280000001,0.33,13,automatic,hv,hv
-2024-04-29T17:38:22.290Z,19.4016666412354,-155.490325927734,-2.07999992370605,2.14,ml,10,93,0.04293,0.189999998,hv,hv74196797,2024-04-29T17:41:00.320Z,"22 km N of Pāhala, Hawaii",earthquake,0.73,0.469999999,0.15,3,automatic,hv,hv
