@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-02T11:51:39.902Z,64.6073,-149.4686,19.9,1.4,ml,,,,0.8,ak,ak0245nlygzq,2024-05-02T11:54:02.123Z,"16 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-05-02T11:50:08.547Z,64.6588,-149.2567,18.2,1.1,ml,,,,1.01,ak,ak0245nly6uu,2024-05-02T11:52:18.319Z,"9 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-02T11:34:22.940Z,33.8235,-117.6306667,3.5,1.09,ml,18,57,0.03339,0.16,ci,ci40735832,2024-05-02T11:40:38.639Z,"8 km SW of Corona, CA",earthquake,0.31,0.21,0.473,21,automatic,ci,ci
 2024-05-02T11:26:37.647Z,67.8702,-160.8392,0,3.9,ml,,,,0.96,ak,ak0245nlt3xs,2024-05-02T11:48:23.040Z,"87 km ESE of Red Dog Mine, Alaska",earthquake,,207.5,,,automatic,ak,ak
 2024-05-02T11:21:42.710Z,19.3974990844727,-155.248001098633,1.28999996185303,1.89999998,md,13,52,0.01233,0.129999995,hv,hv74206847,2024-05-02T11:23:06.940Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.330000013,0.159999996,12,automatic,hv,hv
@@ -79,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T04:16:31.630Z,38.8138351,-122.8243332,2.18,1.09,md,13,102,0.006239,0.02,nc,nc74044081,2024-05-02T04:28:48.774Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.96,0.14,13,automatic,nc,nc
 2024-05-02T04:11:00.730Z,38.8224983,-122.8526688,2.17,0.53,md,7,198,0.01379,0.01,nc,nc74044076,2024-05-02T04:12:33.423Z,"10 km WNW of The Geysers, CA",earthquake,0.72,1.29,0.25,8,automatic,nc,nc
 2024-05-02T04:07:34.540Z,33.64,-116.6583333,16.68,0.65,ml,21,61,0.03158,0.11,ci,ci40735656,2024-05-02T04:13:57.898Z,"10 km N of Anza, CA",earthquake,0.25,0.48,0.206,11,automatic,ci,ci
-2024-05-02T04:06:53.822Z,31.669,-104.185,4.2858,2.6,ml,20,165,0.1,0.3,tx,tx2024ipfo,2024-05-02T04:46:59.315Z,"54 km NW of Toyah, Texas",earthquake,0,1.41954696722152,0.2,16,automatic,tx,tx
+2024-05-02T04:06:53.716Z,31.672,-104.182,6.2152,2.5,ml,38,65,0.1,0.1,tx,tx2024ipfo,2024-05-02T11:53:27.843Z,"54 km NW of Toyah, Texas",earthquake,0.396094140746539,0.5092005034858329,0.2,31,reviewed,tx,tx
 2024-05-02T04:06:29.478Z,31.663,-104.187,4.3252,2.3,ml,15,112,0.1,0.2,tx,tx2024ipfn,2024-05-02T04:23:15.142Z,"53 km NW of Toyah, Texas",earthquake,0,1.79564252962345,0.1,12,automatic,tx,tx
 2024-05-02T04:01:07.370Z,19.390832901001,-155.255996704102,1.75,1.85000002,md,6,147,0.0069,0.129999995,hv,hv74205752,2024-05-02T04:02:23.220Z,"6 km SSW of Volcano, Hawaii",earthquake,0.72,1.40999997,0.170000002,4,automatic,hv,hv
 2024-05-02T03:50:44.690Z,33.4825,-116.4448333,10.31,0.79,ml,42,65,0.1038,0.16,ci,ci40735648,2024-05-02T03:56:49.652Z,"23 km ESE of Anza, CA",earthquake,0.18,0.36,0.119,19,automatic,ci,ci
@@ -242,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T12:04:09.180Z,19.2571659088135,-155.399673461914,30.9699993133545,1.96000004,md,41,130,0.07698,0.129999995,hv,hv74203717,2024-05-01T12:05:57.510Z,"10 km NE of Pāhala, Hawaii",earthquake,0.48,0.629999995,0.109999999,4,automatic,hv,hv
 2024-05-01T12:02:16.600Z,18.0816666666667,-66.8401666666667,7.64,2.15,md,6,168,0.1119,0.26,pr,pr71447413,2024-05-01T12:28:04.620Z,"5 km NNE of Yauco, Puerto Rico",earthquake,1.75,1.06,0.0605499040192328,3,reviewed,pr,pr
 2024-05-01T11:56:45.416Z,36.4805,-115.8075,5,0.8,ml,5,334.90999999999997,0.286,0.0375,nn,nn00877067,2024-05-01T18:31:09.261Z,"15 km SW of Indian Springs, Nevada",earthquake,,46.3,0,1,reviewed,nn,nn
-2024-05-01T11:54:08.720Z,38.8001671,-122.8008347,1.47,0.76,md,13,52,0.008908,0.04,nc,nc74043756,2024-05-01T11:55:40.813Z,"5 km WNW of The Geysers, CA",earthquake,0.3,0.6,0.09,15,automatic,nc,nc
-2024-05-01T11:52:37.980Z,19.3939990997314,-155.257659912109,0.600000023841858,2.16000009,md,15,58,0.01036,0.230000004,hv,hv74203697,2024-05-01T11:54:00.360Z,"5 km SSW of Volcano, Hawaii",earthquake,0.2,0.439999998,0.419999987,10,automatic,hv,hv
