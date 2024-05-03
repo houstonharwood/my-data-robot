@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-03T14:28:58.570Z,36.8846664428711,-121.535331726074,6.42999982833862,1.71,md,20,68,0.07076,0.15,nc,nc75000411,2024-05-03T14:30:36.597Z,"4 km NNE of San Juan Bautista, CA",earthquake,0.43,1.10000002,0.22,19,automatic,nc,nc
 2024-05-03T14:04:48.080Z,19.3738327026367,-155.268325805664,0.639999985694885,1.72000003,md,7,188,0.005115,0.119999997,hv,hv74211342,2024-05-03T14:06:18.790Z,"8 km SSW of Volcano, Hawaii",earthquake,0.34,0.280000001,0.0900000036,4,automatic,hv,hv
 2024-05-03T14:00:53.391Z,31.676,-104.393,4.3736,1.5,ml,17,69,0,0.4,tx,tx2024iruq,2024-05-03T14:11:53.597Z,"55 km S of Whites City, New Mexico",earthquake,0,1.26430475580102,0.2,13,automatic,tx,tx
 2024-05-03T13:59:42.592Z,28.55,-98.579,4.8703,1.8,ml,12,83,0.2,1.2,tx,tx2024iruo,2024-05-03T14:08:37.569Z,"10 km NNW of Tilden, Texas",earthquake,0,1.68338889448924,0.1,10,automatic,tx,tx
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T03:30:37.190Z,19.3821659088135,-155.24299621582,0.180000007152557,2.01,ml,21,67,0.008524,0.239999995,hv,hv74209622,2024-05-03T03:33:16.280Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.170000002,0.23,12,automatic,hv,hv
 2024-05-03T03:27:51.340Z,35.66833333,-97.41516667,6.53,1.22,ml,68,48,0.03959223065,0.14,ok,ok2024iqzt,2024-05-03T13:11:38.695Z,"5 km ENE of Edmond, Oklahoma",earthquake,,0.2,0.18,29,reviewed,ok,ok
 2024-05-03T03:26:51.957Z,59.9632,-153.3796,139.7,2,ml,,,,0.5,ak,ak0245p4l0ob,2024-05-03T03:29:25.535Z,"45 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-03T03:22:01.707Z,28.985,-97.986,6.1233,2.2,ml,25,96,0,1,tx,tx2024iqzo,2024-05-03T03:53:43.728Z,"3 km E of Falls City, Texas",earthquake,0,1.84053178949528,0.2,19,automatic,tx,tx
+2024-05-03T03:22:01.419Z,28.976,-97.994,7.6904,2.2,ml,15,69,0,0.2,tx,tx2024iqzo,2024-05-03T14:28:55.738Z,"2 km ESE of Falls City, Texas",earthquake,1.0277392622064945,0.9012338092863911,0.2,19,reviewed,tx,tx
 2024-05-03T03:03:49.190Z,19.3061676025391,-155.45182800293,27.8999996185303,1.88999999,md,13,153,0.06575,0.140000001,hv,hv74209542,2024-05-03T03:05:25.290Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.84,1.17999995,0.560000002,3,automatic,hv,hv
 2024-05-03T03:03:28.801Z,48.8002,-128.743,10,5,mww,70,117,0.91,1.13,us,us6000mvw9,2024-05-03T12:37:03.712Z,"211 km WSW of Tofino, Canada",earthquake,5.23,1.895,0.047,44,reviewed,us,us
 2024-05-03T02:54:20.870Z,46.1945,-122.18766666666667,7.22,0.08,ml,14,93,0.005727,0.14,uw,uw61993777,2024-05-03T05:11:05.920Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.45,0.11511264246442035,8,reviewed,uw,uw
@@ -265,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T15:01:24.700Z,38.591835,-122.3601685,-0.32,1.42,md,11,83,0.04985,0.36,nc,nc74044316,2024-05-02T15:02:59.773Z,"8 km ENE of Angwin, CA",earthquake,1.31,2.78,0.13,9,automatic,nc,nc
 2024-05-02T14:54:21.597Z,64.2678,-149.9199,5.2,1.8,ml,,,,0.77,ak,ak0245nnrdjj,2024-05-02T14:56:17.816Z,"35 km W of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-02T14:31:17.932Z,66.0769,-148.1086,14.2,1.1,ml,,,,0.55,ak,ak0245nnmfsg,2024-05-02T14:34:10.968Z,"44 km SW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-02T14:29:33.940Z,33.5878333,-116.8035,7.37,0.24,ml,17,54,0.0334,0.11,ci,ci40735944,2024-05-02T20:03:22.526Z,"13 km WNW of Anza, CA",earthquake,0.22,0.49,0.044,2,reviewed,ci,ci
