@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-05T19:42:29.190Z,33.2186661,-116.081337,9.98,2.44,ml,84,54,0.09599,0.2,ci,ci40740288,2024-05-05T19:44:40.615Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.19,0.53,0.251,26,automatic,ci,ci
+2024-05-05T19:41:45.890Z,33.6085014,-117.5388336,0.8,1.15,ml,20,119,0.1281,0.2,ci,ci40740280,2024-05-05T19:43:48.312Z,"4 km E of Coto De Caza, CA",earthquake,0.35,0.64,0.439,12,automatic,ci,ci
+2024-05-05T19:40:15.224Z,36.47738647,-97.00904083,3.817592621,1.53,ml,19,91.21430206,0.03698237985,0.4387390889,ok,ok2024ivwv,2024-05-05T19:45:23.159Z,"15 km E of Red Rock, Oklahoma",earthquake,2.973463656,2.229873211,0.27,10,automatic,ok,ok
 2024-05-05T19:20:54.990Z,19.3700008392334,-155.240005493164,0.109999999403954,1.86,ml,17,90,0.01876,0.180000007,hv,hv74214457,2024-05-05T19:23:34.780Z,"8 km S of Volcano, Hawaii",earthquake,0.29,0.239999995,0.44,8,automatic,hv,hv
 2024-05-05T19:16:55.380Z,34.0096667,-117.1045,12.73,1.8,ml,73,28,0.02656,0.17,ci,ci40740264,2024-05-05T19:27:49.920Z,"5 km WNW of Calimesa, CA",earthquake,0.13,0.35,0.095,27,automatic,ci,ci
 2024-05-05T19:08:49.863Z,15.0412,119.9744,42.444,4.8,mb,51,100,7.805,0.59,us,us6000mwjn,2024-05-05T19:26:39.040Z,"10 km WSW of Poblacion, San Felipe, Philippines",earthquake,10.35,7.504,0.067,68,reviewed,us,us
@@ -126,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-05T05:44:19.589Z,10.8618,141.216,10,5.6,mb,87,72,4.483,1.28,us,us6000mwf5,2024-05-05T17:54:33.935Z,"143 km NNE of Fais, Micronesia",earthquake,7.13,1.859,0.033,334,reviewed,us,us
 2024-05-05T05:39:09.563Z,61.5698,-149.5625,31,1.2,ml,,,,0.73,ak,ak0245sgx9ws,2024-05-05T05:41:27.338Z,"6 km SSE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-05T05:35:37.531Z,61.8411,-150.503,35.7,2.7,ml,,,,0.48,ak,ak0245sgwh7a,2024-05-05T16:33:48.858Z,"26 km WNW of Willow, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2024-05-05T05:31:53.206Z,-33.6811,-70.8356,75.758,4.3,mb,31,60,0.159,0.44,us,us6000mwf1,2024-05-05T18:44:45.781Z,"8 km ESE of Talagante, Chile",earthquake,4.43,4.944,0.188,8,reviewed,us,us
+2024-05-05T05:31:53.206Z,-33.6811,-70.8356,75.758,4.3,mb,31,60,0.159,0.44,us,us6000mwf1,2024-05-05T19:39:46.349Z,"8 km ESE of Talagante, Chile",earthquake,4.43,4.944,0.188,8,reviewed,us,us
 2024-05-05T05:31:49.925Z,31.647,-104.291,3.9611,1.7,ml,17,128,0,0.2,tx,tx2024iuuw,2024-05-05T05:52:55.211Z,"59 km S of Whites City, New Mexico",earthquake,0,1.44037531345996,0.1,13,automatic,tx,tx
 2024-05-05T05:25:33.750Z,34.512,-119.1396667,0.16,1.31,ml,35,40,0.07492,0.27,ci,ci40739808,2024-05-05T05:32:30.571Z,"12 km NE of Ojai, CA",earthquake,0.25,0.54,0.197,28,automatic,ci,ci
 2024-05-05T05:22:11.870Z,34.0956667,-117.31,16.31,1.78,ml,93,32,0.02451,0.18,ci,ci40739792,2024-05-05T05:33:25.450Z,"2 km N of Colton, CA",earthquake,0.12,0.26,0.195,26,automatic,ci,ci
@@ -214,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T20:14:47.282Z,-31.2701,-178.2035,39.452,4.8,mb,25,178,2.016,0.43,us,us6000mwd2,2024-05-04T23:49:45.040Z,"Kermadec Islands region",earthquake,9.54,8.059,0.127,19,reviewed,us,us
 2024-05-04T20:11:08.050Z,18.318,-67.7145,140,3.8,md,14,169,0.6216,0.38,pr,pr2024125000,2024-05-05T00:00:24.040Z,"49 km W of Rincón, Puerto Rico",earthquake,3.61,1.85,0.12,11,reviewed,pr,pr
 2024-05-04T19:47:07.142Z,1.5783,-84.7978,10,4.6,mb,42,160,5.314,0.69,us,us6000mwcv,2024-05-05T00:07:20.040Z,"off the coast of Ecuador",earthquake,10.15,1.858,0.1,30,reviewed,us,us
-2024-05-04T19:44:25.463Z,62.1166,-150.9273,63.5,1.5,ml,,,,0.16,ak,ak0245r1r3oy,2024-05-04T19:46:11.240Z,"28 km ENE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-05-04T19:43:44.742Z,31.562,-103.94,4.5584,1.6,ml,15,67,0,0.2,tx,tx2024iubl,2024-05-04T20:22:20.822Z,"30 km NNW of Toyah, Texas",earthquake,0,1.27864889959005,0.2,13,automatic,tx,tx
