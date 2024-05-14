@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T16:01:47.645Z,61.179,-147.6752,11.4,1.6,ml,,,,0.96,ak,ak02467j33qk,2024-05-14T16:03:50.807Z,"64 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-14T15:58:15.479Z,62.377,-149.0748,23.6,1.2,ml,,,,0.36,ak,ak02467ittgf,2024-05-14T16:02:17.516Z,"46 km ENE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-05-14T15:55:19.100Z,46.850833892822266,-121.76866912841797,0.449999988079071,0.769999981,md,12,69,,0.0299999993,uw,uw61997682,2024-05-14T15:56:53.120Z,"22 km ENE of Ashford, Washington",earthquake,0.31,1.11000001,,1,automatic,uw,uw
-2024-05-14T15:54:55.306Z,31.583,-104.531,3.9377,1.8,ml,8,155,0.1,0.2,tx,tx2024jmax,2024-05-14T16:20:13.807Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.24669542297992,0.2,6,automatic,tx,tx
+2024-05-14T15:54:55.612Z,31.586,-104.549,1.4215,1.8,ml,16,162,0.1,0.5,tx,tx2024jmax,2024-05-14T16:33:28.549Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.16035468792153,0.1,12,automatic,tx,tx
 2024-05-14T15:49:57.348Z,66.6457,-149.0096,18.1,1.4,ml,,,,1.23,ak,ak02467irz92,2024-05-14T15:52:07.887Z,"71 km N of Stevens Village, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-05-14T15:43:51.910Z,-54.8345,-129.567,10,5.1,mb,159,34,29.73,0.84,us,us6000myjs,2024-05-14T16:21:11.040Z,"Pacific-Antarctic Ridge",earthquake,11.17,1.742,0.05,127,reviewed,us,us
 2024-05-14T15:42:31.420Z,46.84866714477539,-121.76083374023438,2.07999992370605,1.33000004,md,21,69,,0.100000001,uw,uw61997677,2024-05-14T15:44:39.070Z,"22 km ENE of Ashford, Washington",earthquake,0.29,0.829999983,,1,automatic,uw,uw
@@ -212,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T19:58:48.726Z,59.5458,-152.9931,86.1,1.1,ml,,,,0.24,ak,ak02465xo9yg,2024-05-13T20:00:22.550Z,"64 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-13T19:57:41.060Z,32.4091667,-115.2378333,11.32,2.43,ml,19,55,0.05774,0.35,ci,ci37654364,2024-05-14T15:53:31.403Z,"7 km NW of Delta, B.C., MX",earthquake,0.6,1.07,0.262,15,reviewed,ci,ci
 2024-05-13T19:57:06.740Z,32.4101667,-115.232,10.38,2.44,ml,20,81,0.06244,0.33,ci,ci40748696,2024-05-14T15:42:50.342Z,"7 km NNW of Delta, B.C., MX",earthquake,0.5,1.2,0.181,28,reviewed,ci,ci
-2024-05-13T19:50:34.400Z,32.4025,-115.2486667,11.57,2.24,ml,24,52,0.05057,0.3,ci,ci40748672,2024-05-13T20:10:10.384Z,"7 km NW of Delta, B.C., MX",earthquake,0.45,0.8,0.26,29,automatic,ci,ci
+2024-05-13T19:50:34.360Z,32.4135,-115.2405,10.75,2.16,ml,19,53,0.05488,0.29,ci,ci40748672,2024-05-14T16:32:27.641Z,"8 km NW of Delta, B.C., MX",earthquake,0.45,1,0.304,21,reviewed,ci,ci
 2024-05-13T19:47:12.840Z,33.7508333,-117.1056667,1.94,1.15,ml,34,44,0.04484,0.2,ci,ci40748664,2024-05-13T20:08:38.526Z,"3 km WNW of Green Acres, CA",earthquake,0.19,0.29,0.356,32,automatic,ci,ci
 2024-05-13T19:36:00.191Z,31.748,-104.248,6.1639,1.9,ml,26,59,0,0.1,tx,tx2024jkms,2024-05-14T12:58:28.019Z,"48 km SSE of Whites City, New Mexico",earthquake,0.5082041132214716,0.4565897646333766,0.1,14,reviewed,tx,tx
 2024-05-13T19:32:55.118Z,32.116,-102.173,6.4209,1.7,ml,22,75,0,0.2,tx,tx2024jkmp,2024-05-14T13:04:55.066Z,"15 km NW of Midland, Texas",earthquake,0.7047366171813574,0.8586441819270773,0.1,19,reviewed,tx,tx
@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T16:59:22.074Z,64.4552,-146.9989,18.7,0.5,ml,,,,0.75,ak,ak02465vw4wm,2024-05-13T17:01:41.420Z,"8 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-13T16:54:09.330Z,46.81,-123.44083333333333,-0.33,1.35,ml,9,124,0.1065,0.44,uw,uw61997352,2024-05-13T18:23:52.390Z,"16 km WSW of Oakville, Washington",explosion,1.17,31.61,0.12431046955756497,6,reviewed,uw,uw
 2024-05-13T16:44:49.360Z,33.5813333,-116.8043333,7.97,0.74,ml,30,43,0.03577,0.14,ci,ci40748296,2024-05-13T19:01:14.120Z,"12 km WNW of Anza, CA",earthquake,0.18,0.41,0.116,15,reviewed,ci,ci
-2024-05-13T16:38:07.932Z,63.4581,-148.9005,7.2,0.6,ml,,,,0.83,ak,ak02465vrlo9,2024-05-13T16:40:05.927Z,"7 km NNE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-13T16:37:47.820Z,47.089,-121.87433333333334,10.68,0.36,ml,14,174,0.1171,0.08,uw,uw61997337,2024-05-13T18:14:33.770Z,"13 km E of Wilkeson, Washington",earthquake,0.42,0.82,0.10224750334140717,5,reviewed,uw,uw
