@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-15T21:30:57.880Z,64.6935,-146.6156,0,1,ml,,,,0.73,ak,ak024699rusj,2024-05-15T21:33:58.057Z,"21 km E of Eielson Air Force Base, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-05-15T21:29:02.170Z,19.4004993438721,-155.267166137695,0.449999988079071,2.4,ml,21,52,0.007965,0.150000006,hv,hv74232072,2024-05-15T21:31:40.460Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.219999999,0.46,15,automatic,hv,hv
+2024-05-15T21:29:02.240Z,19.4041666666667,-155.267,0.72,1.29,ml,21,52,0.01077,0.09,hv,hv74232072,2024-05-15T21:47:29.960Z,"5 km SW of Volcano, Hawaii",earthquake,0.14,0.19,0.108383971779787,9,reviewed,hv,hv
 2024-05-15T21:24:51.410Z,32.4655,-115.5433333,7.21,2.7,ml,33,66,0.07898,0.29,ci,ci40586559,2024-05-15T21:39:31.508Z,"13 km SSE of Progreso, B.C., MX",earthquake,0.41,1.05,0.284,26,automatic,ci,ci
 2024-05-15T21:17:42.863Z,61.4312,-141.2023,0,1.1,ml,,,,0.43,ak,ak024699p1ce,2024-05-15T21:20:09.961Z,"91 km E of McCarthy, Alaska",earthquake,,12.6,,,automatic,ak,ak
 2024-05-15T21:08:22.151Z,59.6847,-153.4257,126.3,2.7,ml,,,,0.33,ak,ak024699n2bh,2024-05-15T21:10:11.971Z,"39 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T19:03:30.950Z,19.3456666666667,-66.5801666666667,37.34,3.41,md,13,223,0.8653,0.4,pr,pr71448928,2024-05-15T19:21:50.210Z,"97 km N of Arecibo, Puerto Rico",earthquake,2.3,14.29,0.146150574281331,8,reviewed,pr,pr
 2024-05-15T18:58:00.500Z,38.8228340148926,-122.763000488281,2.59999990463257,0.69,md,8,124,0.009344,0.01,nc,nc75007156,2024-05-15T18:59:37.044Z,"3 km WNW of Cobb, CA",earthquake,0.78,1.45000005,0.24,9,automatic,nc,nc
 2024-05-15T18:57:44.129Z,38.7341,-119.5472,6.8,1.4,ml,12,80.57,0.077,0.1425,nn,nn00877688,2024-05-15T19:27:14.737Z,"4 km W of Topaz Ranch Estates, Nevada",earthquake,,1.5,0.26,5,reviewed,nn,nn
-2024-05-15T18:56:21.220Z,33.5258333,-116.434,13.25,0.39,ml,13,100,0.007346,0.11,ci,ci40586367,2024-05-15T19:02:23.853Z,"19 km SW of La Quinta, CA",earthquake,0.45,0.6,0.148,5,automatic,ci,ci
+2024-05-15T18:56:21.150Z,33.528,-116.4365,13.95,0.4,ml,16,62,0.01012,0.12,ci,ci40586367,2024-05-15T21:47:39.931Z,"19 km SW of La Quinta, CA",earthquake,0.32,0.64,0.133,6,reviewed,ci,ci
 2024-05-15T18:43:50.972Z,40.14,-118.2809,1.9,1.2,ml,5,272.28,0.371,0.1702,nn,nn00877697,2024-05-15T20:59:26.920Z,"16 km ESE of Lovelock, Nevada",earthquake,,2.8,0.14,4,reviewed,nn,nn
 2024-05-15T18:37:29.251Z,65.0235,-147.0401,4.9,1.2,ml,,,,0.73,ak,ak0246980zst,2024-05-15T18:39:16.215Z,"16 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-15T18:26:39.200Z,38.8213348388672,-122.821998596191,1.91999995708466,0.76,md,14,76,0.009539,0.01,nc,nc75007146,2024-05-15T18:28:16.428Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.600000024,0.31,15,automatic,nc,nc
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T22:02:54.980Z,49.349333333333334,-120.4955,-0.37,2.17,ml,12,178,0.5698,0.61,uw,uw62005811,2024-05-15T04:22:20.630Z,"12 km S of Princeton, Canada",explosion,2.53,31.61,0.17477849793722722,8,reviewed,uw,uw
 2024-05-14T21:58:57.350Z,33.3351667,-117.1408333,2.98,0.77,ml,23,59,0.05386,0.16,ci,ci40583535,2024-05-14T22:05:04.078Z,"7 km WSW of Pala, CA",earthquake,0.24,0.31,0.226,13,automatic,ci,ci
 2024-05-14T21:53:22.135Z,28.461,-98.707,0.0244,2.6,ml,19,79,0.3,0.2,tx,tx2024jmmt,2024-05-15T07:53:46.712Z,"10 km E of Fowlerton, Texas",earthquake,1.6674169975451303,3.01350429260529,0.1,18,reviewed,tx,tx
-2024-05-14T21:43:48.379Z,62.3319,-150.907,0.3,0.6,ml,,,,0.56,ak,ak02467mb907,2024-05-14T23:04:58.548Z,"19 km SSW of Petersville, Alaska",earthquake,,1,,,reviewed,ak,ak
