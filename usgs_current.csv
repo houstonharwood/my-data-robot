@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-15T05:21:50.690Z,35.597332,-117.8801651,7.79,1.75,ml,13,77,0.1419,0.11,ci,ci40585551,2024-05-15T05:23:57.174Z,"8 km SW of Inyokern, CA",earthquake,0.49,4.52,0.651,9,automatic,ci,ci
+2024-05-15T05:27:47.250Z,38.8296661376953,-122.81566619873,1.54999995231628,0.71,md,15,46,0.007635,0.04,nc,nc75006981,2024-05-15T05:29:26.496Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.50999999,0.2,15,automatic,nc,nc
+2024-05-15T05:21:50.610Z,35.5963333,-117.876,9.9,0.61,ml,18,61,0.1401,0.13,ci,ci40585551,2024-05-15T05:28:35.617Z,"8 km SW of Inyokern, CA",earthquake,0.2,0.81,0.212,6,automatic,ci,ci
+2024-05-15T05:20:10.103Z,62.5554,-151.1765,79.1,1.4,ml,,,,0.33,ak,ak0246906oaa,2024-05-15T05:29:25.114Z,"22 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-15T05:10:13.558Z,61.3086,-152.2104,0,1.7,ml,,,,0.83,ak,ak0246904je3,2024-05-15T05:12:26.176Z,"63 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-15T05:02:44.501Z,31.637,-104.498,3.8839,1.5,ml,8,136,0,0.1,tx,tx2024jnax,2024-05-15T05:14:48.066Z,"60 km S of Whites City, New Mexico",earthquake,0,2.18404617126622,0.2,6,automatic,tx,tx
+2024-05-15T05:02:44.750Z,31.637,-104.516,2.8548,1.5,ml,15,147,0,0.4,tx,tx2024jnax,2024-05-15T05:31:07.763Z,"61 km SSW of Whites City, New Mexico",earthquake,0,1.77466638143085,0.1,12,automatic,tx,tx
 2024-05-15T04:58:23.905Z,61.0997,-150.7595,55.8,1.3,ml,,,,0.33,ak,ak02468zteye,2024-05-15T05:01:35.521Z,"18 km ESE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-05-15T04:49:51.230Z,33.0356667,-117.7451667,-0.23,2.13,ml,36,159,0.348,0.36,ci,ci40585479,2024-05-15T04:56:51.946Z,"39 km WSW of Carlsbad, CA",earthquake,0.83,1.92,0.168,28,automatic,ci,ci
 2024-05-15T04:48:42.339Z,64.308,-152.4672,0,1.4,ml,,,,0.52,ak,ak02468zrb7t,2024-05-15T04:51:02.167Z,"48 km N of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -10,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T04:41:45.500Z,28.948,-98.077,2.8564,2.9,ml,15,69,0.1,0.2,tx,tx2024jnaf,2024-05-15T05:08:17.735Z,"6 km WSW of Falls City, Texas",earthquake,1.2436869702468945,2.1353096665358744,0.1,19,reviewed,tx,tx
 2024-05-15T04:39:51.550Z,19.1825,-155.34,27.46,3.41,ml,59,175,0.07711,0.13,hv,hv74231257,2024-05-15T05:18:38.289Z,"14 km E of Pāhala, Hawaii",earthquake,0.39,0.53,0.183465129779823,39,reviewed,hv,hv
 2024-05-15T04:37:25.420Z,60.2281,-141.2506,17.2,1.3,ml,,,,0.74,ak,ak02468zox1c,2024-05-15T04:46:04.102Z,"114 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-15T04:37:13.900Z,61.2616666666667,-152.183666666667,28.74,0.4,ml,6,146,0.03813,0.27,av,av93126891,2024-05-15T05:28:21.200Z,"60 km WNW of Tyonek, Alaska",earthquake,1.34,1.76,0.279855917246728,6,reviewed,av,av
 2024-05-15T04:36:14.100Z,33.1828333,-115.6143333,2.22,1.21,ml,10,83,0.00546,0.15,ci,ci40585447,2024-05-15T04:42:40.844Z,"11 km SW of Niland, CA",earthquake,0.95,0.54,0.173,23,automatic,ci,ci
 2024-05-15T04:26:02.955Z,62.3512,-149.0914,14,1.2,ml,,,,0.59,ak,ak02468zmifb,2024-05-15T04:28:07.899Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-15T04:23:29.640Z,33.1816667,-115.6045,2.58,1.61,ml,37,46,0.01024,0.22,ci,ci40585439,2024-05-15T04:30:05.448Z,"10 km SW of Niland, CA",earthquake,0.21,0.17,0.206,29,automatic,ci,ci
@@ -251,7 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T05:49:11.851Z,62.3586,-149.1356,0,2.8,ml,,,,0.65,ak,ak02467ctjov,2024-05-14T05:51:18.692Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-14T05:42:46.180Z,19.2801666666667,-155.366,30.3,1.65,md,20,127,,0.1,hv,hv74230377,2024-05-14T20:51:28.870Z,"14 km NE of Pāhala, Hawaii",earthquake,0.57,0.72,0.0839147711520685,11,reviewed,hv,hv
 2024-05-14T05:42:27.390Z,33.595,-116.8181667,-1.22,-0.01,ml,9,83,0.04515,0.21,ci,ci40749368,2024-05-14T05:48:38.641Z,"14 km WNW of Anza, CA",earthquake,0.52,17.62,0.034,2,automatic,ci,ci
-2024-05-14T05:31:04.967Z,60.3131,-141.1497,4.9,2.2,ml,,,,0.99,ak,ak02467cpo9s,2024-05-14T05:34:18.391Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-14T05:30:34.770Z,38.8221664428711,-122.843330383301,2.07999992370605,0.76,md,14,100,0.006553,0.01,nc,nc75006431,2024-05-14T05:32:12.935Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.589999974,0.11,15,automatic,nc,nc
-2024-05-14T05:27:16.774Z,31.631,-104.493,7.6379,1.7,ml,24,74,0,0.2,tx,tx2024jlgg,2024-05-14T13:29:06.225Z,"61 km S of Whites City, New Mexico",earthquake,0.8258335293032467,0.644819391995966,0.2,19,reviewed,tx,tx
-2024-05-14T05:27:10.650Z,19.0834999084473,-155.419006347656,28.7700004577637,2.07999992,md,37,194,0.08233,0.200000003,hv,hv74230372,2024-05-14T05:28:56.260Z,"14 km SSE of Pāhala, Hawaii",earthquake,0.68,0.980000019,0.159999996,6,automatic,hv,hv
