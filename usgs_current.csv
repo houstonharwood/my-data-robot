@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T15:19:24.270Z,19.1458339691162,-155.473999023438,30.7800006866455,2.1500001,md,42,168,0.01473,0.159999996,hv,hv74241987,2024-05-20T15:21:19.010Z,"6 km S of Pāhala, Hawaii",earthquake,0.62,0.709999979,0.0700000003,4,automatic,hv,hv
 2024-05-20T15:16:28.300Z,38.7820014953613,-122.906829833984,12.5600004196167,1.1,md,5,203,0.03981,0.19,nc,nc75009721,2024-05-20T15:18:06.273Z,"10 km ESE of Cloverdale, CA",earthquake,6.45,12.8599997,0.22,2,automatic,nc,nc
 2024-05-20T15:00:44.160Z,38.7851676940918,-122.779167175293,2.05999994277954,1.06,md,8,109,0.01052,0.02,nc,nc75009716,2024-05-20T15:02:19.971Z,"2 km NW of The Geysers, CA",earthquake,0.39,0.689999998,0.29,9,automatic,nc,nc
 2024-05-20T14:52:22.850Z,60.4638,-149.91,14.5,1.2,ml,,,,0.59,ak,ak0246hff735,2024-05-20T14:55:38.722Z,"5 km WSW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T12:25:53.217Z,60.258,-152.7091,109,1.8,ml,,,,0.37,ak,ak0246he2lw9,2024-05-20T12:27:51.071Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:18:40.504Z,64.8148,-149.1242,19.7,1.1,ml,,,,0.41,ak,ak0246he12wi,2024-05-20T12:20:20.859Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-20T12:18:07.110Z,19.3484992980957,-155.021499633789,1.37999999523163,2.18,ml,49,183,0.07102,0.280000001,hv,hv74241837,2024-05-20T12:20:45.000Z,"17 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.519999981,0.56,10,automatic,hv,hv
-2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T15:14:30.357Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
+2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T15:25:02.847Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2024-05-20T12:10:52.320Z,19.378999710083,-155.220840454102,2.00999999046326,1.84,ml,23,95,0.007234,0.200000003,hv,hv74241827,2024-05-20T12:13:31.530Z,"7 km S of Volcano, Hawaii",earthquake,0.41,0.289999992,0.1,7,automatic,hv,hv
 2024-05-20T12:07:41.196Z,64.8732,-150.4265,9.4,1.1,ml,,,,0.79,ak,ak0246hdyq2v,2024-05-20T12:09:47.234Z,"17 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:00:07.310Z,31.736,-104.104,4.6104,1.8,ml,16,66,0,0.5,tx,tx2024jwse,2024-05-20T12:19:52.372Z,"47 km W of Mentone, Texas",earthquake,0,1.20738259544397,0.2,13,automatic,tx,tx
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-19T15:33:49.140Z,38.8250007629395,-122.841003417969,1.46000003814697,0.64,md,9,132,0.005031,0.01,nc,nc75009301,2024-05-19T15:35:26.561Z,"9 km NW of The Geysers, CA",earthquake,0.36,0.639999986,0.33,11,automatic,nc,nc
 2024-05-19T15:33:24.992Z,30.5116,-41.8765,10,5,mb,58,67,21.385,0.8,us,us6000mzp1,2024-05-19T15:51:30.040Z,"northern Mid-Atlantic Ridge",earthquake,11.55,1.895,0.039,209,reviewed,us,us
 2024-05-19T15:30:48.580Z,38.8380012512207,-122.813003540039,3.76999998092651,1.6,md,7,70,0.01476,0.04,nc,nc75009296,2024-05-19T15:32:21.867Z,"8 km WNW of Cobb, CA",earthquake,0.93,2.8599999,0.3,2,automatic,nc,nc
-2024-05-19T15:26:42.620Z,31.593,-104.56,2.9053,1.7,ml,16,168,0.1,0.3,tx,tx2024jvdm,2024-05-19T15:51:02.749Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.77671423862077,0.1,12,automatic,tx,tx
