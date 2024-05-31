@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-31T14:05:10.170Z,34.0338326,-116.8301697,17.93,1.24,ml,27,110,0.01864,0.14,ci,ci40608311,2024-05-31T14:07:23.422Z,"13 km NNE of Banning, CA",earthquake,0.28,0.62,0.138,5,automatic,ci,ci
-2024-05-31T14:05:03.660Z,36.1161652,-117.8826675,7.53,1.53,ml,17,120,0.02256,0.13,ci,ci40608303,2024-05-31T14:07:37.425Z,"10 km NE of Coso Junction, CA",earthquake,0.45,1.01,0.459,5,automatic,ci,ci
+2024-05-31T14:05:10.140Z,34.035,-116.8326667,18.02,1.19,ml,42,40,0.02067,0.16,ci,ci40608311,2024-05-31T14:12:31.400Z,"13 km NNE of Banning, CA",earthquake,0.18,0.34,0.128,27,automatic,ci,ci
+2024-05-31T14:05:03.630Z,36.113,-117.8866667,7.65,1.19,ml,23,90,0.02616,0.17,ci,ci40608303,2024-05-31T14:11:12.492Z,"9 km NE of Coso Junction, CA",earthquake,0.26,0.53,0.349,16,automatic,ci,ci
 2024-05-31T13:46:16.570Z,19.2031669616699,-155.496994018555,31.5400009155273,2.64,ml,62,69,0.04501,0.140000001,hv,hv74255011,2024-05-31T13:48:55.190Z,"1 km W of Pāhala, Hawaii",earthquake,0.41,0.529999971,0.33,42,automatic,hv,hv
 2024-05-31T13:30:37.314Z,64.5943,-149.3597,10,1.9,ml,,,,0.79,ak,ak0246zllwab,2024-05-31T13:33:04.279Z,"11 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-31T13:24:21.447Z,63.1672,-150.5753,125.9,1.7,ml,,,,0.19,ak,ak0246zlkkrk,2024-05-31T13:26:28.793Z,"70 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -160,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T19:48:55.413Z,61.9342,-150.8448,45.9,2.1,ml,,,,0.27,ak,ak0246y1r1ph,2024-05-30T19:50:14.720Z,"29 km ESE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-05-30T19:46:44.171Z,32.6025,130.6103,11.349,4.7,mb,51,92,1.098,0.48,us,us7000mp2j,2024-05-30T21:43:33.969Z,"5 km WSW of Uki, Japan",earthquake,5.45,4.3,0.054,104,reviewed,us,us
 2024-05-30T19:41:44.430Z,17.8711666666667,-66.9661666666667,10.05,2.34,md,7,252,0.1228,0.06,pr,pr71451018,2024-05-30T19:52:39.700Z,"12 km SSW of Guánica, Puerto Rico",earthquake,0.88,1.2,0.0576878336875268,6,reviewed,pr,pr
-2024-05-30T19:39:51.652Z,44.6676,-100.5445,12.67,3.7,mwr,63,27,1.158,0.66,us,us7000mp2d,2024-05-31T13:56:18.059Z,"36 km NNW of Pierre, South Dakota",earthquake,4.07,8.52,0.069,20,reviewed,us,us
+2024-05-30T19:39:51.652Z,44.6676,-100.5445,12.67,3.7,mwr,63,27,1.158,0.66,us,us7000mp2d,2024-05-31T14:22:15.767Z,"36 km NNW of Pierre, South Dakota",earthquake,4.07,8.52,0.069,20,reviewed,us,us
 2024-05-30T19:34:57.330Z,33.4708333,-116.4466667,10.06,1.18,ml,48,45,0.05528,0.18,ci,ci40607343,2024-05-30T19:41:11.917Z,"23 km ESE of Anza, CA",earthquake,0.17,0.32,0.242,12,automatic,ci,ci
 2024-05-30T19:30:14.220Z,46.20766666666667,-122.17933333333333,6.02,0.31,ml,14,96,0.008168,0.09,uw,uw62010676,2024-05-30T20:11:19.290Z,"39 km NNE of Amboy, Washington",earthquake,0.32,0.62,0.14863255478813897,9,reviewed,uw,uw
 2024-05-30T19:27:30.190Z,33.8686667,-117.5043333,2.02,1.11,ml,26,47,0.07106,0.17,ci,ci40607319,2024-05-30T19:34:06.054Z,"2 km SE of Home Gardens, CA",earthquake,0.22,0.29,0.285,32,automatic,ci,ci
@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T14:35:16.580Z,33.229,-116.067,9.43,0.94,ml,32,76,0.09309,0.23,ci,ci40606927,2024-05-30T19:29:09.848Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.33,0.83,0.072,11,reviewed,ci,ci
 2024-05-30T14:25:42.420Z,19.4053325653076,-155.289840698242,0.829999983310699,1.82000005,md,17,53,0.009679,0.119999997,hv,hv74253561,2024-05-30T14:28:19.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.230000004,0.449999988,15,automatic,hv,hv
 2024-05-30T14:25:25.750Z,19.1445,-155.488666666667,33.49,1.74,md,13,214,0.1564,0.07,hv,hv74253556,2024-05-31T01:13:05.630Z,"6 km S of Pāhala, Hawaii",earthquake,0.7,0.96,0.0173964162207665,6,reviewed,hv,hv
-2024-05-30T14:14:09.843Z,61.929,-149.9825,33.5,1.7,ml,,,,0.81,ak,ak0246xykhtk,2024-05-30T14:16:40.501Z,"20 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
