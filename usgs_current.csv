@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-04T21:15:03.160Z,37.8796653747559,-122.252334594727,8.84000015258789,2.1,md,54,33,0.003461,0.06,nc,nc75016322,2024-06-04T21:18:13.490Z,"2 km ENE of Berkeley, CA",earthquake,0.13,0.270000011,0.13,40,automatic,nc,nc
 2024-06-04T20:45:03.520Z,38.8235015869141,-122.845336914062,1.55999994277954,0.7,md,8,146,0.00806,0.01,nc,nc75016312,2024-06-04T20:46:41.301Z,"9 km NW of The Geysers, CA",earthquake,0.43,1.10000002,0.17,8,automatic,nc,nc
 2024-06-04T20:36:10.450Z,38.8313331604004,-122.817169189453,1.72000002861023,0.53,md,6,147,0.009672,0.01,nc,nc75016307,2024-06-04T20:37:46.138Z,"8 km NNW of The Geysers, CA",earthquake,0.71,1.28999996,0.29,6,automatic,nc,nc
 2024-06-04T20:34:34.380Z,38.8311653137207,-122.817665100098,1.77999997138977,0.32,md,13,80,0.009765,0.01,nc,nc75016302,2024-06-04T20:36:11.219Z,"8 km NNW of The Geysers, CA",earthquake,0.32,0.75999999,0.21,14,automatic,nc,nc
@@ -159,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-04T06:11:18.110Z,35.4908333,-118.5178333,3.16,1.13,ml,28,53,0.1752,0.15,ci,ci40613151,2024-06-04T13:17:53.266Z,"11 km SSW of Bodfish, CA",earthquake,0.17,0.65,0.208,13,reviewed,ci,ci
 2024-06-04T06:11:16.510Z,17.8088333333333,-66.8686666666667,7.38,2.72,md,16,237,0.1656,0.23,pr,pr71451473,2024-06-04T06:21:48.950Z,"18 km SSE of Guánica, Puerto Rico",earthquake,0.68,0.55,0.053384213474849,6,reviewed,pr,pr
 2024-06-04T06:07:40.620Z,17.8385,-66.862,9,3.6,md,19,226,0.1377,0.12,pr,pr2024156000,2024-06-04T06:26:42.113Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.48,0.66,0.12,11,reviewed,pr,pr
+2024-06-04T05:50:54.350Z,60.0116666666667,-153.114,-0.85,-1.06,ml,5,139,0.03195,0.03,av,av93149826,2024-06-04T21:10:26.730Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.23,3.06,0.165041187178871,5,reviewed,av,av
 2024-06-04T05:49:38.610Z,33.5863333,-116.8045,10.28,0.33,ml,17,75,0.03451,0.18,ci,ci40613143,2024-06-04T17:13:33.148Z,"13 km WNW of Anza, CA",earthquake,0.34,0.81,0.096,9,reviewed,ci,ci
 2024-06-04T05:43:06.810Z,33.2325,-116.744,10.92,1.28,ml,64,22,0.01285,0.2,ci,ci40613135,2024-06-04T13:19:08.950Z,"2 km ESE of Lake Henshaw, CA",earthquake,0.16,0.3,0.19,27,reviewed,ci,ci
 2024-06-04T05:42:07.870Z,33.2431667,-116.0421667,5.06,0.88,ml,44,52,0.05986,0.22,ci,ci40613127,2024-06-04T20:14:43.999Z,"10 km SW of Salton City, CA",earthquake,0.19,0.55,0.167,22,reviewed,ci,ci
@@ -254,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-03T21:41:45.827Z,63.2833,-150.5943,134.7,1.9,ml,,,,0.21,ak,ak02474p1s52,2024-06-03T21:43:57.122Z,"63 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-06-03T21:25:39.090Z,19.3463325500488,-155.342163085938,1.82000005245209,2,ml,15,107,0.0402,0.100000001,hv,hv74261411,2024-06-03T21:28:18.310Z,"15 km SW of Volcano, Hawaii",earthquake,0.3,0.660000026,0.38,4,automatic,hv,hv
 2024-06-03T21:24:18.170Z,47.559,-121.891,1.86,2.31,ml,13,86,0.06612,0.19,uw,uw62012051,2024-06-04T13:42:12.468Z,"0 km S of Fall City, Washington",earthquake,0.4,0.53,0.20601110380176846,11,reviewed,uw,uw
-2024-06-03T21:16:10.518Z,52.8904,-169.4509,77.029,3.7,mb,24,166,0.278,0.82,us,us7000mq4q,2024-06-03T22:21:55.040Z,"40 km W of Nikolski, Alaska",earthquake,11.04,6.208,0.108,22,reviewed,us,us
-2024-06-03T21:16:09.628Z,-4.129,123.4011,9.221,4.8,mb,44,61,3.743,0.52,us,us7000mq4s,2024-06-03T22:32:06.040Z,"99 km E of Kendari, Indonesia",earthquake,3.04,4.574,0.087,41,reviewed,us,us
