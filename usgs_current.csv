@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-05T10:42:31.500Z,38.8339996337891,-122.813331604004,1.75999999046326,0.27,md,8,93,0.01089,0.02,nc,nc75016642,2024-06-05T10:44:09.705Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.730000019,0.08,9,automatic,nc,nc
 2024-06-05T10:34:05.290Z,32.428,-115.1976667,5.84,1.84,ml,28,53,0.07761,0.35,ci,ci40614719,2024-06-05T10:40:29.035Z,"8 km N of Delta, B.C., MX",earthquake,0.39,1.58,0.239,23,automatic,ci,ci
 2024-06-05T10:33:57.120Z,38.8310012817383,-122.814834594727,2.08999991416931,1.04,md,16,83,0.008457,0.02,nc,nc75016637,2024-06-05T10:35:35.735Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.689999998,0.07,15,automatic,nc,nc
 2024-06-05T10:33:40.710Z,38.8320007324219,-122.813499450684,1.61000001430511,0.71,md,10,57,0.009,0.01,nc,nc75016632,2024-06-05T10:35:15.718Z,"8 km NNW of The Geysers, CA",earthquake,0.37,1.22000003,0.11,13,automatic,nc,nc
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-04T23:12:58.026Z,60.0438,-151.5942,46,1.3,ml,,,,0.76,ak,ak02476dlt0q,2024-06-04T23:16:16.929Z,"4 km E of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-06-04T23:08:25.170Z,38.8121681213379,-122.825996398926,1.82000005245209,1.09,md,22,58,0.004128,0.03,nc,nc75016367,2024-06-04T23:10:02.969Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.400000006,0.25,23,automatic,nc,nc
 2024-06-04T23:02:00.424Z,64.9438,-147.2911,0,1.3,ml,,,,0.94,ak,ak02476djjey,2024-06-04T23:03:54.766Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-04T22:55:13.558Z,31.654,-104.329,3.7501,1.6,ml,17,69,0.1,0.3,tx,tx2024kyyj,2024-06-04T23:02:37.284Z,"58 km S of Whites City, New Mexico",earthquake,0,1.32476529795778,0.2,13,automatic,tx,tx
+2024-06-04T22:55:13.267Z,31.646,-104.324,6.1255,1.6,ml,10,63,0.1,0.2,tx,tx2024kyyj,2024-06-05T10:46:36.269Z,"58 km S of Whites City, New Mexico",earthquake,1.419779784957667,1.965123202515663,0.1,13,reviewed,tx,tx
 2024-06-04T22:50:12.033Z,36.4767,69.0401,10,4.5,mb,49,104,1.959,1.05,us,us7000mqcw,2024-06-04T23:18:37.040Z,"23 km SSW of Khanabad, Afghanistan",earthquake,7.28,1.907,0.09,36,reviewed,us,us
 2024-06-04T22:34:58.508Z,11.0477,138.6501,10,4.6,mb,43,141,13.627,0.42,us,us7000mqd0,2024-06-04T23:48:49.040Z,"178 km NNE of Colonia, Micronesia",earthquake,4.77,1.921,0.097,32,reviewed,us,us
 2024-06-04T22:25:37.370Z,51.7316666666667,-177.478333333333,1.24,1.21,ml,10,198,0.1541,0.23,av,av93150551,2024-06-05T03:09:23.470Z,"60 km WSW of Adak, Alaska",earthquake,1.2,1.68,0.409863885002963,10,reviewed,av,av
@@ -273,5 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-04T10:54:40.220Z,46.211333333333336,-122.18166666666667,5.95,0.43,ml,11,91,0.01145,0.09,uw,uw62012181,2024-06-04T15:46:02.680Z,"39 km S of Morton, Washington",earthquake,0.4,0.42,0.07758505795658449,4,reviewed,uw,uw
 2024-06-04T10:50:57.070Z,38.8330001831055,-122.802001953125,13.289999961853,0.82,md,14,50,0.01059,0.07,nc,nc75016067,2024-06-04T10:52:36.861Z,"7 km WNW of Cobb, CA",earthquake,1.21,8.89999962,0.17,17,automatic,nc,nc
 2024-06-04T10:50:49.430Z,38.8339996337891,-122.817169189453,8.60999965667725,0.21,md,10,87,0.01195,0.05,nc,nc75016062,2024-06-04T10:52:27.151Z,"8 km NNW of The Geysers, CA",earthquake,1.27,0.779999971,0.07,12,automatic,nc,nc
-2024-06-04T10:46:36.610Z,33.668,-116.7113333,16.17,0.15,ml,10,90,0.03132,0.12,ci,ci37664444,2024-06-04T18:10:31.279Z,"8 km S of Idyllwild, CA",earthquake,0.44,0.83,0.095,6,reviewed,ci,ci
-2024-06-04T10:46:21.200Z,33.6591667,-116.7178333,15.29,0.75,ml,32,55,0.03799,0.17,ci,ci40613255,2024-06-04T18:10:32.279Z,"9 km S of Idyllwild, CA",earthquake,0.22,0.42,0.092,11,reviewed,ci,ci
