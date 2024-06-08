@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-08T00:03:16.200Z,38.8061676025391,-122.779335021973,2.45000004768372,0.76,md,9,92,0.007159,0.01,nc,nc75017542,2024-06-08T00:04:53.696Z,"4 km NNW of The Geysers, CA",earthquake,0.5,1.19000006,0.18,11,automatic,nc,nc
 2024-06-08T00:00:59.578Z,61.5161,-149.9059,34.4,1.5,ml,,,,0.8,ak,ak0247clznlx,2024-06-08T01:43:06.546Z,"2 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-07T23:54:58.150Z,38.8349990844727,-122.882331848145,2.60999989509583,0.85,md,11,99,0.003336,0.03,nc,nc75017537,2024-06-07T23:56:33.862Z,"12 km E of Cloverdale, CA",earthquake,0.58,0.49000001,0.3,12,automatic,nc,nc
-2024-06-07T23:39:32.730Z,61.4877,-149.9201,31.3,3.5,ml,,,,0.91,ak,ak0247bcdktz,2024-06-08T03:45:16.779Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-06-07T23:39:32.730Z,61.4877,-149.9201,31.3,3.5,ml,,,,0.91,ak,ak0247bcdktz,2024-06-08T04:26:33.647Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-06-07T23:31:06.760Z,17.8408333333333,-64.9301666666667,30.06,3.15,md,8,156,0.1806,0.16,pr,pr71451768,2024-06-08T00:04:33.460Z,"23 km WNW of Saint Croix, U.S. Virgin Islands",earthquake,1.05,2.35,0.188366856009992,5,reviewed,pr,pr
 2024-06-07T23:26:39.063Z,39.5035,-119.4891,2.2,1.7,ml,9,79.19000000000001,0.222,0.3989,nn,nn00878825,2024-06-07T23:28:41.060Z,"17 km NW of Stagecoach, Nevada",earthquake,,14.1,0.38,6,automatic,nn,nn
 2024-06-07T23:24:05.521Z,-31.812,-178.501,35,4.9,mb,22,169,2.591,0.65,us,us7000mr3k,2024-06-07T23:42:14.040Z,"Kermadec Islands region",earthquake,11.92,1.988,0.14,16,reviewed,us,us
@@ -209,7 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-07T05:55:26.499Z,-6.3572,149.7145,60.828,4.9,mb,46,123,3.946,0.75,us,us7000mqwc,2024-06-07T06:14:15.354Z,"24 km SE of Kandrian, Papua New Guinea",earthquake,10.18,7.002,0.087,42,reviewed,us,us
 2024-06-07T05:53:27.856Z,36.955,-116.0729,11.4,0.2,ml,14,61.18000000000001,0.027,0.2349,nn,nn00878772,2024-06-07T05:55:05.497Z,"55 km NW of Indian Springs, Nevada",earthquake,,0.9,0.38,9,automatic,nn,nn
 2024-06-07T05:47:36.194Z,-18.2728,-70.6548,60.379,4.5,mb,19,155,0.313,0.6,us,us7000mqwb,2024-06-07T06:49:03.040Z,"43 km WNW of Arica, Chile",earthquake,5.83,6.234,0.131,17,reviewed,us,us
-2024-06-07T05:30:13.320Z,34.14,-84.04,8.49,2.08,md,15,104,0.2759,0.25,se,se60584731,2024-06-07T23:19:50.524Z,"3 km N of Sugar Hill, Georgia",earthquake,0.73,2.27,0.0422120149146905,12,reviewed,se,se
+2024-06-07T05:30:13.320Z,34.14,-84.04,8.49,2.08,md,15,104,0.2759,0.25,se,se60584731,2024-06-08T04:20:17.823Z,"3 km N of Sugar Hill, Georgia",earthquake,0.73,2.27,0.0422120149146905,12,reviewed,se,se
 2024-06-07T05:28:27.154Z,63.3967,-149.3675,70,1.2,ml,,,,0.56,ak,ak0247b1lei1,2024-06-07T05:31:03.890Z,"20 km W of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-06-07T05:28:18.241Z,37.2046,-117.3595,7.8,1.8,ml,23,137.19000000000003,0.124,0.1306,nn,nn00878769,2024-06-07T17:26:55.072Z,"56 km S of Goldfield, Nevada",earthquake,,1.9,0.28,8,reviewed,nn,nn
 2024-06-07T05:15:44.440Z,46.3315,-122.24066666666667,10.69,0.9,ml,11,119,0.03279,0.07,uw,uw62004852,2024-06-07T18:08:30.490Z,"25 km S of Morton, Washington",earthquake,0.41,0.56,0.07403881677862989,5,reviewed,uw,uw
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-07T04:38:42.320Z,46.827,-110.736,4.93,1.42,ml,10,139,0.3746,0.17,mb,mb90054268,2024-06-07T15:26:20.390Z,"11 km S of Neihart, Montana",earthquake,1.23,1.97,0.211111885568994,6,reviewed,mb,mb
 2024-06-07T04:35:25.631Z,61.2519,-146.8821,14.6,3.4,ml,,,,0.66,ak,ak0247b11gwk,2024-06-07T23:50:39.603Z,"31 km WNW of Valdez, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2024-06-07T04:32:50.996Z,-55.1718,-28.8828,30.903,5,mb,32,69,4.498,0.87,us,us7000mqvy,2024-06-07T04:52:23.040Z,"South Sandwich Islands region",earthquake,10.9,4.065,0.086,43,reviewed,us,us
-2024-06-07T04:15:54.640Z,38.7931671142578,-121.485168457031,11.4300003051758,2.21,md,7,169,0.2986,0.17,nc,nc75017337,2024-06-07T07:20:18.941Z,"12 km  of Rio Linda, CA",earthquake,1.25,4.25,0.09,6,automatic,nc,nc
