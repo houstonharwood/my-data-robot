@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-11T11:14:50.586Z,61.5628,-148.0709,15.8,0.9,ml,,,,0.19,ak,ak0247hr8g2q,2024-06-11T11:17:29.431Z,"33 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-11T10:54:35.200Z,33.3935,-116.3798333,2.59,1,ml,63,31,0.06646,0.22,ci,ci40619407,2024-06-11T11:05:14.160Z,"15 km N of Borrego Springs, CA",earthquake,0.17,0.36,0.144,26,automatic,ci,ci
 2024-06-11T10:50:24.090Z,38.8056678771973,-122.820663452148,2.71000003814697,1.09,md,12,68,0.00738,0.02,nc,nc75020712,2024-06-11T10:52:01.438Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.810000002,0.17,15,automatic,nc,nc
 2024-06-11T10:50:09.610Z,38.8061676025391,-122.820503234863,2.74000000953674,1.07,md,17,80,0.007294,0.03,nc,nc75020707,2024-06-11T10:51:46.612Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.529999971,0.17,17,automatic,nc,nc
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T23:47:11.390Z,35.0433333,-117.6653333,-0.08,1.13,ml,28,41,0.1116,0.18,ci,ci40619207,2024-06-10T23:55:05.022Z,"5 km NNW of Boron, CA",earthquake,0.26,0.65,0.075,15,automatic,ci,ci
 2024-06-10T23:46:08.754Z,4.8103,95.8484,103.763,4.7,mb,66,152,1.171,0.73,us,us7000mrlj,2024-06-11T00:08:03.040Z,"64 km S of Sigli, Indonesia",earthquake,8.25,3.524,0.055,101,reviewed,us,us
 2024-06-10T23:45:46.019Z,31.61,-104.519,8.1763,1.7,ml,12,78,0.1,0.3,tx,tx2024ljza,2024-06-11T07:54:43.470Z,"64 km SSW of Whites City, New Mexico",earthquake,3.6135258971786093,1.630147732115166,0.1,24,reviewed,tx,tx
-2024-06-10T23:42:23.157Z,30.999,-103.661,3.6434,1.6,ml,14,64,0.1,0.7,tx,tx2024ljyx,2024-06-11T00:06:48.080Z,"8 km ENE of Balmorhea, Texas",earthquake,0,1.4099879283253,0.2,12,automatic,tx,tx
+2024-06-10T23:42:23.157Z,30.999,-103.661,3.6434,1.6,ml,14,64,0.1,0.7,tx,tx2024ljyx,2024-06-11T00:06:48.080Z,"western Texas",earthquake,0,1.4099879283253,0.2,12,automatic,tx,tx
 2024-06-10T23:39:24.507Z,-56.0176,-27.5922,113.896,4.7,mb,34,57,5.389,0.48,us,us7000mrlp,2024-06-11T00:21:18.040Z,"South Sandwich Islands region",earthquake,11.16,6.929,0.11,25,reviewed,us,us
 2024-06-10T23:22:33.870Z,46.203833333333336,-122.18216666666666,5.37,0.55,ml,17,95,0.004309,0.07,uw,uw62005877,2024-06-11T05:48:10.380Z,"38 km NNE of Amboy, Washington",earthquake,0.3,0.45,0.11676360611302494,7,reviewed,uw,uw
 2024-06-10T23:17:02.990Z,38.8363342285156,-122.789169311523,1.9099999666214,1.22,md,15,75,0.002266,0.03,nc,nc75020527,2024-06-10T23:18:37.382Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.460000008,0.18,17,automatic,nc,nc
@@ -179,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T11:51:01.180Z,33.379,-118.1081667,2,2.16,ml,76,109,0.1956,0.29,ci,ci40618511,2024-06-10T22:20:44.704Z,"21 km E of Avalon, CA",earthquake,0.26,0.88,0.174,48,reviewed,ci,ci
 2024-06-10T11:44:34.680Z,32.924,-116.2335,10.57,0.99,ml,45,46,0.1564,0.23,ci,ci40618503,2024-06-10T20:07:57.162Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.72,0.19,37,reviewed,ci,ci
 2024-06-10T11:22:57.600Z,38.8221664428711,-122.824668884277,2.16000008583069,0.31,md,10,82,0.008149,0.02,nc,nc75020312,2024-06-10T11:24:35.925Z,"8 km NW of The Geysers, CA",earthquake,0.43,1.13,0.19,11,automatic,nc,nc
-2024-06-10T11:20:31.070Z,35.54233333,-96.74716667,6.63,1.65,ml,84,34,0.009898057663,0.27,ok,ok2024ljal,2024-06-10T12:39:36.151Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.2,37,reviewed,ok,ok
-2024-06-10T11:12:24.103Z,63.0959,-151.3521,0,1.4,ml,,,,1.02,ak,ak0247g3om8m,2024-06-10T11:19:53.384Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
