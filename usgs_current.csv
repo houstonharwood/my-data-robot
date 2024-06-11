@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-11T20:28:55.270Z,35.1975,-120.046,5.84,1.36,ml,23,62,0.09365,0.21,ci,ci40620039,2024-06-11T20:35:58.903Z,"18 km SSW of Simmler, CA",earthquake,0.33,1.11,0.087,23,automatic,ci,ci
 2024-06-11T20:28:36.420Z,33.9903333,-116.9943333,9.35,1,ml,34,47,0.1138,0.14,ci,ci40620031,2024-06-11T20:34:56.966Z,"5 km E of Calimesa, CA",earthquake,0.15,0.53,0.16,28,automatic,ci,ci
-2024-06-11T20:23:26.100Z,35.8708333,-117.72,9.77,1.65,ml,28,92,0.07205,0.12,ci,ci40620015,2024-06-11T20:34:25.350Z,"18 km ESE of Little Lake, CA",earthquake,0.15,0.33,0.196,25,automatic,ci,ci
+2024-06-11T20:23:26.080Z,35.8703333,-117.7185,9.76,1.63,ml,28,93,0.07225,0.13,ci,ci40620015,2024-06-11T20:48:52.040Z,"18 km ESE of Little Lake, CA",earthquake,0.16,0.35,0.153,21,reviewed,ci,ci
 2024-06-11T20:21:24.570Z,38.8330001831055,-122.805168151855,2.21000003814697,0.78,md,17,49,0.01033,0.02,nc,nc75020912,2024-06-11T20:23:00.854Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.550000012,0.15,19,automatic,nc,nc
 2024-06-11T20:05:55.440Z,38.8203315734863,-122.789497375488,1.23000001907349,1.1,md,13,96,0.009862,0.02,nc,nc75020897,2024-06-11T20:07:30.793Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.5,0.13,13,automatic,nc,nc
 2024-06-11T20:05:22.990Z,35.1978333,-120.042,3.57,1.53,ml,29,52,0.09546,0.25,ci,ci40619999,2024-06-11T20:22:41.684Z,"18 km SSW of Simmler, CA",earthquake,0.33,1.18,0.18,27,automatic,ci,ci
@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T19:55:56.361Z,63.337,-150.0318,85.9,1.8,ml,,,,0.41,ak,ak0247hw8ppw,2024-06-11T19:58:20.201Z,"54 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-11T19:50:48.272Z,62.584,-151.1182,0,1.5,ml,,,,0.86,ak,ak0247hw7mij,2024-06-11T19:53:26.247Z,"20 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-11T19:38:00.100Z,46.459,-122.2935,3.86,2.0100000000000002,ml,54,60,0.1082,0.11,uw,uw62006107,2024-06-11T19:45:02.100Z,"11 km S of Morton, Washington",earthquake,0.27,0.85,0.2792321820853654,40,reviewed,uw,uw
+2024-06-11T19:24:29.330Z,35.544,-117.3836667,6.25,0.5,mh,5,161,0.0246,0.07,ci,ci40619951,2024-06-11T20:48:57.791Z,"24 km S of Trona, CA",earthquake,0.31,0.45,,0,reviewed,ci,ci
 2024-06-11T19:14:49.740Z,38.8214988708496,-122.813499450684,3.30999994277954,0.97,md,14,71,0.003278,0.04,nc,nc75020887,2024-06-11T19:16:25.302Z,"7 km NW of The Geysers, CA",earthquake,0.37,1,0.27,15,automatic,nc,nc
 2024-06-11T19:14:13.320Z,35.64,-117.5255,4.87,-0.1,ml,5,205,0.07423,0.08,ci,ci40619935,2024-06-11T20:27:20.080Z,"14 km E of Ridgecrest, CA",earthquake,0.79,0.41,0.075,1,reviewed,ci,ci
 2024-06-11T19:14:12.730Z,31.648,-104.313,5.6419,1.5,ml,17,69,0,0.6,tx,tx2024lllo,2024-06-11T19:27:54.104Z,"58 km S of Whites City, New Mexico",earthquake,0,2.79706346953046,0.1,12,automatic,tx,tx
@@ -64,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T14:29:37.549Z,31.672,-104.193,6.7151,2.3,ml,39,61,0.1,0.1,tx,tx2024llcg,2024-06-11T15:11:29.362Z,"54 km NW of Toyah, Texas",earthquake,0.6465349832488819,1.0320914770443157,0.3,30,reviewed,tx,tx
 2024-06-11T14:25:38.110Z,38.832332611084,-122.819999694824,1.82000005245209,0.76,md,8,122,0.01182,0.03,nc,nc75020787,2024-06-11T14:27:17.044Z,"8 km NNW of The Geysers, CA",earthquake,0.4,0.519999981,0.28,8,automatic,nc,nc
 2024-06-11T14:25:21.989Z,35.6365,-98.10133333,7.72,1.66,ml,89,41,0.1034796938,0.34,ok,ok2024llcb,2024-06-11T14:40:16.256Z,"4 km NNE of Calumet, Oklahoma",earthquake,,0.7,0.23,39,reviewed,ok,ok
+2024-06-11T14:21:46.551Z,36.7727,-116.2515,9.3,0,ml,17,96.5,0.038,0.0877,nn,nn00879071,2024-06-11T20:47:11.466Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.01,2,reviewed,nn,nn
 2024-06-11T14:21:30.226Z,61.7096,-150.6583,34.4,1.9,ml,,,,0.47,ak,ak0247ht27by,2024-06-11T14:23:47.349Z,"20 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-11T14:11:44.376Z,31.643,-104.327,4.4175,1.9,ml,16,70,0.1,0.3,tx,tx2024llbp,2024-06-11T14:42:19.189Z,"59 km S of Whites City, New Mexico",earthquake,0,1.39855781762166,0.2,12,automatic,tx,tx
 2024-06-11T14:10:52.130Z,35.6616668701172,-121.080001831055,6.23000001907349,1.86,md,19,117,0.06341,0.07,nc,nc75020782,2024-06-11T14:12:27.253Z,"10 km E of San Simeon, CA",earthquake,0.29,0.779999971,0.15,18,automatic,nc,nc
@@ -192,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T00:29:09.978Z,38.149,-118.0111,12.9,2.5,ml,12,74.15,0.054,0.1617,nn,nn00879033,2024-06-11T16:08:28.402Z,"28 km SSE of Mina, Nevada",earthquake,,1,0.25,6,reviewed,nn,nn
 2024-06-11T00:02:14.870Z,32.9631667,-115.5563333,9.28,1.35,ml,36,50,0.06164,0.25,ci,ci40619215,2024-06-11T14:06:09.032Z,"3 km SW of Brawley, CA",earthquake,0.27,0.66,0.189,29,reviewed,ci,ci
 2024-06-10T23:59:15.360Z,38.3043333333333,-110.598,6.04,1.75,md,10,122,0.3829,0.09,uu,uu80072966,2024-06-11T13:55:41.520Z,"12 km SE of Hanksville, Utah",earthquake,0.55,31.61,0.225386395622821,7,reviewed,uu,uu
-2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-10T23:53:37.020Z,38.8276672363281,-122.796997070312,0.970000028610229,1.48,md,16,72,0.01192,0.05,nc,nc75020542,2024-06-10T23:55:12.627Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.419999987,0.08,18,automatic,nc,nc
 2024-06-10T23:52:09.200Z,19.3926666666667,-155.277166666667,1.78,2.14,ml,32,42,0.004276,0.1,hv,hv74271791,2024-06-11T00:22:22.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.279714983662326,12,reviewed,hv,hv
 2024-06-10T23:47:11.280Z,35.0455,-117.6678333,-0.79,1.1,ml,27,46,0.1133,0.14,ci,ci40619207,2024-06-11T13:58:51.411Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.08,10,reviewed,ci,ci
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T20:59:49.900Z,51.932,179.4675,10.81,0.34,ml,4,315,0.06642,0.22,av,av93158516,2024-06-11T04:12:09.430Z,"268 km W of Adak, Alaska",earthquake,2.49,2.49,0.33564021788099,4,reviewed,av,av
 2024-06-10T20:57:24.360Z,38.4993333333333,-112.907,2.93,2.02,ml,27,50,0.01089,0.14,uu,uu80072936,2024-06-10T21:14:32.400Z,"14 km NE of Milford, Utah",earthquake,0.25,0.35,0.200090999989757,7,reviewed,uu,uu
 2024-06-10T20:54:25.650Z,47.650333333333336,-120.249,3.83,1.8800000000000001,ml,22,70,0.02048,0.13,uw,uw62005822,2024-06-10T21:15:16.960Z,"4 km SW of Entiat, Washington",earthquake,0.2,0.39,0.187897905152409,31,reviewed,uw,uw
-2024-06-10T20:47:45.910Z,38.8219985961914,-122.84400177002,1.99000000953674,0.93,md,18,86,0.007096,0.02,nc,nc75020477,2024-06-10T20:49:22.119Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.5,0.31,18,automatic,nc,nc
