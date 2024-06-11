@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-11T20:21:24.570Z,38.8330001831055,-122.805168151855,2.21000003814697,0.78,md,17,49,0.01033,0.02,nc,nc75020912,2024-06-11T20:23:00.854Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.550000012,0.15,19,automatic,nc,nc
 2024-06-11T20:05:55.440Z,38.8203315734863,-122.789497375488,1.23000001907349,1.1,md,13,96,0.009862,0.02,nc,nc75020897,2024-06-11T20:07:30.793Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.5,0.13,13,automatic,nc,nc
-2024-06-11T20:05:22.910Z,35.1971664,-120.0491638,7.6,1.79,ml,15,108,0.09222,0.15,ci,ci40619999,2024-06-11T20:07:27.598Z,"18 km SSW of Simmler, CA",earthquake,0.49,1.98,0.357,15,automatic,ci,ci
+2024-06-11T20:05:22.990Z,35.1978333,-120.042,3.57,1.53,ml,29,52,0.09546,0.25,ci,ci40619999,2024-06-11T20:22:41.684Z,"18 km SSW of Simmler, CA",earthquake,0.33,1.18,0.18,27,automatic,ci,ci
 2024-06-11T20:04:05.547Z,63.1154,-150.4629,105.6,1.7,ml,,,,0.5,ak,ak0247hwj3vu,2024-06-11T20:06:46.740Z,"70 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-06-11T19:55:56.361Z,63.337,-150.0318,85.9,1.8,ml,,,,0.41,ak,ak0247hw8ppw,2024-06-11T19:58:20.201Z,"54 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-11T19:50:48.272Z,62.584,-151.1182,0,1.5,ml,,,,0.86,ak,ak0247hw7mij,2024-06-11T19:53:26.247Z,"20 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -106,13 +107,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T09:31:48.240Z,19.1533336639404,-155.487503051758,31.5400009155273,2.21,ml,59,137,0.02409,0.140000001,hv,hv74272216,2024-06-11T09:34:27.330Z,"5 km S of Pāhala, Hawaii",earthquake,0.39,0.529999971,0.58,9,automatic,hv,hv
 2024-06-11T09:25:06.461Z,64.7658,-147.8389,12.6,0.3,ml,,,,0.17,ak,ak0247hq3uc6,2024-06-11T09:26:49.826Z,"5 km SSW of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-11T09:02:25.934Z,62.218,-149.8596,93.2,1.7,ml,,,,1.23,ak,ak0247hpyydd,2024-06-11T09:04:28.416Z,"6 km N of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2024-06-11T08:56:49.530Z,31.667,-104.19,4.0497,1.5,ml,18,71,0.1,0.2,tx,tx2024lkrg,2024-06-11T09:40:37.214Z,"54 km NW of Toyah, Texas",earthquake,0,1.20883660961825,0.2,13,automatic,tx,tx
+2024-06-11T08:56:49.374Z,31.668,-104.187,6.1511,1.6,ml,28,61,0.1,0.2,tx,tx2024lkrg,2024-06-11T20:22:09.497Z,"54 km NW of Toyah, Texas",earthquake,0.5564355538356704,0.6621949515794836,0.3,21,reviewed,tx,tx
 2024-06-11T08:56:42.017Z,61.4345,-146.8932,24,1.4,ml,,,,0.73,ak,ak0247hpp4o9,2024-06-11T08:59:33.443Z,"44 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-11T08:50:30.442Z,31.668,-104.185,6.4075,1.9,ml,30,61,0.1,0.2,tx,tx2024lkra,2024-06-11T19:53:36.312Z,"54 km NW of Toyah, Texas",earthquake,0.540406261663323,0.6622983637235645,0.2,23,reviewed,tx,tx
 2024-06-11T08:46:15.220Z,19.2776660919189,-155.386840820312,29.0799999237061,2,md,44,123,0.05545,0.140000001,hv,hv74272196,2024-06-11T08:48:01.410Z,"12 km NE of Pāhala, Hawaii",earthquake,0.49,0.680000007,0.230000004,13,automatic,hv,hv
 2024-06-11T08:11:40.650Z,38.8423347473145,-122.831497192383,1.28999996185303,0.24,md,10,117,0.004868,0.02,nc,nc75020672,2024-06-11T08:13:17.665Z,"10 km WNW of Cobb, CA",earthquake,0.3,0.660000026,0.14,10,automatic,nc,nc
 2024-06-11T08:08:00.455Z,62.4064,-151.144,9.3,2,ml,,,,0.64,ak,ak0247hper3h,2024-06-11T08:10:25.660Z,"21 km WSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-11T08:05:24.739Z,36.5208,-115.8756,4.6,0.5,ml,11,327.62000000000006,0.157,0.0761,nn,nn00879068,2024-06-11T20:10:22.269Z,"19 km WSW of Indian Springs, Nevada",earthquake,,20.9,0.17,4,reviewed,nn,nn
+2024-06-11T08:05:24.750Z,36.5212,-115.8761,4.6,0.5,ml,11,327.55,0.157,0.0761,nn,nn00879068,2024-06-11T20:19:34.188Z,"19 km WSW of Indian Springs, Nevada",earthquake,,21,0.17,4,reviewed,nn,nn
 2024-06-11T08:02:37.180Z,34.9215,-80.9658333333333,2.77,2.19,md,13,86,0.3733,0.26,se,se60502053,2024-06-11T17:52:09.866Z,"3 km NNW of Lesslie, South Carolina",earthquake,1.29,3.63,0.0634877249267847,11,reviewed,se,se
 2024-06-11T07:50:17.910Z,34.3973333,-120.0326667,-0.18,1.85,ml,32,89,0.1697,0.25,ci,ci40619383,2024-06-11T16:16:06.874Z,"16 km W of Isla Vista, CA",earthquake,0.4,0.81,0.182,24,reviewed,ci,ci
 2024-06-11T07:29:09.550Z,48.654,-123.08933333333333,18.05,1.71,ml,43,138,0.04861,0.07,uw,uw62005937,2024-06-11T19:01:19.390Z,"12 km WNW of Orcas, Washington",earthquake,0.17,0.21,0.1414208572609884,26,reviewed,uw,uw
@@ -180,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T00:29:09.978Z,38.149,-118.0111,12.9,2.5,ml,12,74.15,0.054,0.1617,nn,nn00879033,2024-06-11T16:08:28.402Z,"28 km SSE of Mina, Nevada",earthquake,,1,0.25,6,reviewed,nn,nn
 2024-06-11T00:02:14.870Z,32.9631667,-115.5563333,9.28,1.35,ml,36,50,0.06164,0.25,ci,ci40619215,2024-06-11T14:06:09.032Z,"3 km SW of Brawley, CA",earthquake,0.27,0.66,0.189,29,reviewed,ci,ci
 2024-06-10T23:59:15.360Z,38.3043333333333,-110.598,6.04,1.75,md,10,122,0.3829,0.09,uu,uu80072966,2024-06-11T13:55:41.520Z,"12 km SE of Hanksville, Utah",earthquake,0.55,31.61,0.225386395622821,7,reviewed,uu,uu
-2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-10T23:53:37.020Z,38.8276672363281,-122.796997070312,0.970000028610229,1.48,md,16,72,0.01192,0.05,nc,nc75020542,2024-06-10T23:55:12.627Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.419999987,0.08,18,automatic,nc,nc
 2024-06-10T23:52:09.200Z,19.3926666666667,-155.277166666667,1.78,2.14,ml,32,42,0.004276,0.1,hv,hv74271791,2024-06-11T00:22:22.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.279714983662326,12,reviewed,hv,hv
 2024-06-10T23:47:11.280Z,35.0455,-117.6678333,-0.79,1.1,ml,27,46,0.1133,0.14,ci,ci40619207,2024-06-11T13:58:51.411Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.08,10,reviewed,ci,ci
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T20:30:37.028Z,63.0784,-151.3713,0,1.5,ml,,,,0.71,ak,ak0247g95eg5,2024-06-10T20:32:49.361Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-10T20:27:10.197Z,62.0775,-147.7601,20.1,1.8,ml,,,,0.68,ak,ak0247g94p6p,2024-06-10T20:29:18.530Z,"30 km N of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-10T20:27:01.301Z,32.4,-102.132,6.8604,2.3,ml,40,60,0,0.3,tx,tx2024ljsm,2024-06-11T15:20:47.427Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.8032350472126616,1.2723986189421477,0.1,30,reviewed,tx,tx
-2024-06-10T20:14:45.340Z,19.3991661071777,-155.281494140625,1.37999999523163,1.90999997,md,14,54,0.008318,0.150000006,hv,hv74271566,2024-06-10T20:17:22.900Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.300000012,0.230000004,12,automatic,hv,hv
-2024-06-10T20:14:11.265Z,32.674,-100.698,6.2744,2.4,ml,17,56,0,0.1,tx,tx2024ljsc,2024-06-11T15:28:36.464Z,"7 km NE of Hermleigh, Texas",earthquake,1.000964851529548,1.6257528443022817,0.1,12,reviewed,tx,tx
