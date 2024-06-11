@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-11T14:37:59.087Z,31.766,-104.084,10.9088,2.1,ml,7,246,0.2,0.4,tx,tx2024llco,2024-06-11T14:46:02.205Z,"46 km W of Mentone, Texas",earthquake,0,18.6825667283847,0.1,7,automatic,tx,tx
+2024-06-11T14:37:36.681Z,31.67,-104.179,4.9136,2.2,ml,18,105,0.1,0.2,tx,tx2024llcm,2024-06-11T14:48:50.226Z,"53 km NW of Toyah, Texas",earthquake,0,1.63063583212516,0.2,12,automatic,tx,tx
+2024-06-11T14:29:37.726Z,31.669,-104.186,4.3545,2.4,ml,18,166,0.1,0.4,tx,tx2024llcg,2024-06-11T14:48:46.228Z,"54 km NW of Toyah, Texas",earthquake,0,1.79126167895176,0.2,13,automatic,tx,tx
 2024-06-11T14:25:38.110Z,38.832332611084,-122.819999694824,1.82000005245209,0.76,md,8,122,0.01182,0.03,nc,nc75020787,2024-06-11T14:27:17.044Z,"8 km NNW of The Geysers, CA",earthquake,0.4,0.519999981,0.28,8,automatic,nc,nc
 2024-06-11T14:25:21.989Z,35.6365,-98.10133333,7.72,1.66,ml,89,41,0.1034796938,0.34,ok,ok2024llcb,2024-06-11T14:40:16.256Z,"4 km NNE of Calumet, Oklahoma",earthquake,,0.7,0.23,39,reviewed,ok,ok
 2024-06-11T14:21:30.226Z,61.7096,-150.6583,34.4,1.9,ml,,,,0.47,ak,ak0247ht27by,2024-06-11T14:23:47.349Z,"20 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -110,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T00:29:10.526Z,38.22,-117.9388,7.3,2.4,ml,20,108.23000000000002,0.042,0.2984,nn,nn00879033,2024-06-11T00:32:03.091Z,"24 km SE of Mina, Nevada",earthquake,,0.4,0.22,12,automatic,nn,nn
 2024-06-11T00:02:14.870Z,32.9631667,-115.5563333,9.28,1.35,ml,36,50,0.06164,0.25,ci,ci40619215,2024-06-11T14:06:09.032Z,"3 km SW of Brawley, CA",earthquake,0.27,0.66,0.189,29,reviewed,ci,ci
 2024-06-10T23:59:15.360Z,38.3043333333333,-110.598,6.04,1.75,md,10,122,0.3829,0.09,uu,uu80072966,2024-06-11T13:55:41.520Z,"12 km SE of Hanksville, Utah",earthquake,0.55,31.61,0.225386395622821,7,reviewed,uu,uu
-2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-10T23:53:37.020Z,38.8276672363281,-122.796997070312,0.970000028610229,1.48,md,16,72,0.01192,0.05,nc,nc75020542,2024-06-10T23:55:12.627Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.419999987,0.08,18,automatic,nc,nc
 2024-06-10T23:52:09.200Z,19.3926666666667,-155.277166666667,1.78,2.14,ml,32,42,0.004276,0.1,hv,hv74271791,2024-06-11T00:22:22.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.279714983662326,12,reviewed,hv,hv
 2024-06-10T23:47:11.280Z,35.0455,-117.6678333,-0.79,1.1,ml,27,46,0.1133,0.14,ci,ci40619207,2024-06-11T13:58:51.411Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.08,10,reviewed,ci,ci
@@ -199,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T15:15:10.410Z,19.3811664581299,-155.237503051758,1.71000003814697,2.48,ml,36,64,0.008107,0.159999996,hv,hv74271366,2024-06-10T15:17:52.770Z,"6 km S of Volcano, Hawaii",earthquake,0.25,0.170000002,0.58,25,automatic,hv,hv
 2024-06-10T15:12:11.206Z,60.9668,-147.4208,9.1,2.1,ml,,,,0.72,ak,ak0247g62bj4,2024-06-10T15:14:28.015Z,"41 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-10T15:10:51.580Z,19.3833332061768,-155.247665405273,1.39999997615814,1.93,ml,26,47,0.004065,0.200000003,hv,hv74271351,2024-06-10T15:13:28.920Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.180000007,0.21,13,automatic,hv,hv
-2024-06-10T14:49:15.360Z,18.1193,-66.7325,21,2.31,md,13,103,0.1476,0.11,pr,pr2024162000,2024-06-10T16:15:30.890Z,"4 km SSW of Adjuntas, Puerto Rico",earthquake,0.41,0.66,0.17,7,reviewed,pr,pr
-2024-06-10T14:48:10.540Z,51.9961666666667,178.549333333333,5.22,-0.23,ml,4,302,0.03434,0.08,av,av93158246,2024-06-11T03:03:52.500Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.27,0.95,0.219343624517507,4,reviewed,av,av
