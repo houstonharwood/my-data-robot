@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-13T10:06:45.295Z,60.4306,-152.1154,57.5,1.2,ml,,,,0.78,ak,ak0247l1nzbl,2024-06-13T10:09:25.485Z,"45 km W of Cohoe, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-06-13T09:48:59.841Z,66.5868,-150.7921,4.5,2.7,ml,,,,0.84,ak,ak0247l1bkwu,2024-06-13T09:51:50.239Z,"48 km SE of Bettles, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-13T09:35:29.025Z,62.6115,-148.3353,51.3,1.1,ml,,,,0.42,ak,ak0247l18q86,2024-06-13T09:37:31.826Z,"91 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-13T09:19:23.360Z,36.1146667,-117.9923333,2.5,0.9,ml,23,80,0.1114,0.16,ci,ci40796840,2024-06-13T09:25:18.827Z,"9 km NNW of Coso Junction, CA",earthquake,0.24,0.77,0.145,11,automatic,ci,ci
@@ -135,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T19:37:13.260Z,18.6215,-64.6093333333333,2.3,2.86,md,3,304,0.2005,0.01,pr,pr71452438,2024-06-12T19:58:45.220Z,"37 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.75,1.4,0.0657181686096497,3,reviewed,pr,pr
 2024-06-12T19:34:10.850Z,19.2078333333333,-155.484833333333,32.73,2.52,ml,49,81,0.04249,0.11,hv,hv74274381,2024-06-12T21:57:31.330Z,"0 km NW of Pāhala, Hawaii",earthquake,0.41,0.54,0.165970148211864,33,reviewed,hv,hv
 2024-06-12T19:28:39.720Z,38.791332244873,-122.885330200195,16.5799999237061,0.88,md,8,165,0.02063,0.07,nc,nc75021432,2024-06-12T19:30:19.926Z,"11 km WNW of The Geysers, CA",earthquake,3.55,3.4000001,0.22,5,automatic,nc,nc
-2024-06-12T19:19:10.647Z,35.9621,27.9471,59.023,4.8,mww,174,67,0.288,0.63,us,us7000ms04,2024-06-13T08:36:43.603Z,"15 km SSW of Lárdos, Greece",earthquake,4.95,5.221,0.075,17,reviewed,us,us
+2024-06-12T19:19:10.647Z,35.9621,27.9471,59.023,4.8,mww,174,67,0.288,0.63,us,us7000ms04,2024-06-13T10:01:56.533Z,"15 km SSW of Lárdos, Greece",earthquake,4.95,5.221,0.075,17,reviewed,us,us
 2024-06-12T19:13:22.630Z,37.5073333333333,-118.828333333333,4.47,0.96,md,15,247,0.08255,0.05,nc,nc75021427,2024-06-13T00:12:46.413Z,"14 km WSW of Toms Place, CA",earthquake,0.52,0.85,0.138,14,reviewed,nc,nc
 2024-06-12T19:12:28.640Z,19.3903333333333,-155.2775,1.85,2.11,ml,27,53,0.005489,0.09,hv,hv74274346,2024-06-12T22:22:58.870Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.232801698699317,10,reviewed,hv,hv
 2024-06-12T19:08:42.992Z,62.0877,-149.5058,34.9,1.8,ml,,,,0.46,ak,ak0247jjhyiz,2024-06-12T19:11:08.394Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -261,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T10:37:12.360Z,36.0623333,-117.7165,2.07,1,ml,24,118,0.05417,0.15,ci,ci40620463,2024-06-12T13:21:18.198Z,"21 km E of Coso Junction, CA",earthquake,0.23,0.23,0.14,11,reviewed,ci,ci
 2024-06-12T10:34:36.037Z,63.8759,-149.0483,111.1,1.4,ml,,,,0.33,ak,ak0247jeam5v,2024-06-12T10:36:49.632Z,"4 km WNW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-12T10:31:23.957Z,36.7511,-116.2792,8.7,-0.4,ml,14,78.02,0.014,0.0677,nn,nn00879092,2024-06-12T16:57:07.539Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.3,4,reviewed,nn,nn
-2024-06-12T10:10:18.400Z,35.6928333,-117.5576667,2.29,0.6,ml,20,120,0.1125,0.13,ci,ci40620447,2024-06-12T16:01:07.931Z,"13 km NE of Ridgecrest, CA",earthquake,0.25,0.47,0.065,3,reviewed,ci,ci
-2024-06-12T10:06:53.370Z,40.752,-112.0615,3.88,0.18,md,7,114,0.0317,0.09,uu,uu80073426,2024-06-12T16:20:54.320Z,"5 km NE of Magna, Utah",earthquake,0.54,1,0.623587542298261,3,reviewed,uu,uu
-2024-06-12T10:05:14.900Z,35.2293333,-118.6188333,8.09,1.11,ml,37,57,0.05729,0.19,ci,ci40620439,2024-06-12T13:21:34.309Z,"19 km NW of Tehachapi, CA",earthquake,0.19,0.5,0.269,19,reviewed,ci,ci
