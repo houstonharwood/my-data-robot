@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-18T03:13:24.900Z,17.9698333333333,-66.9978333333333,10.28,2.1,md,9,182,0.04416,0.08,pr,pr71453148,2024-06-18T03:23:37.420Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.35,0.64,0.106299938580766,4,reviewed,pr,pr
-2024-06-18T03:13:18.640Z,33.472168,-116.4355011,8.43,2.11,ml,80,32,0.05175,0.19,ci,ci40801544,2024-06-18T03:24:00.430Z,"24 km ESE of Anza, CA",earthquake,0.18,0.55,0.222,25,automatic,ci,ci
+2024-06-18T03:13:18.630Z,33.4705,-116.4386667,8.8,2.08,ml,95,25,0.05386,0.19,ci,ci40801544,2024-06-18T03:35:28.009Z,"24 km ESE of Anza, CA",earthquake,0.11,0.3,0.173,26,automatic,ci,ci
 2024-06-18T03:11:23.161Z,60.3069,-147.8435,34.2,1.5,ml,,,,1.05,ak,ak0247t77pev,2024-06-18T03:13:37.412Z,"28 km NNE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-18T02:52:32.370Z,38.8250007629395,-122.806831359863,1.61000001430511,0.71,md,13,64,0.002998,0.02,nc,nc75023487,2024-06-18T02:54:07.698Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.769999981,0.23,13,automatic,nc,nc
 2024-06-18T02:45:59.810Z,38.7908325195312,-122.807167053223,3.22000002861023,1.82,md,37,77,0.004064,0.06,nc,nc75023482,2024-06-18T02:49:00.910Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.349999994,0.13,39,automatic,nc,nc
@@ -188,6 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T06:06:11.380Z,33.9836667,-116.7383333,15.58,1.04,ml,46,80,0.07723,0.14,ci,ci40800768,2024-06-17T14:30:22.490Z,"9 km NNE of Cabazon, CA",earthquake,0.17,0.37,0.08,28,reviewed,ci,ci
 2024-06-17T05:57:10.980Z,33.3515,-116.2403333,10.89,0.98,ml,50,62,0.05898,0.18,ci,ci40800760,2024-06-17T14:23:19.605Z,"16 km NE of Borrego Springs, CA",earthquake,0.22,0.37,0.086,18,reviewed,ci,ci
 2024-06-17T05:54:08.424Z,31.681,-104.433,4.3611,1.5,ml,15,50,0,0.3,tx,tx2024lvkg,2024-06-17T06:09:51.226Z,"55 km S of Whites City, New Mexico",earthquake,0,1.35982387629454,0.1,12,automatic,tx,tx
+2024-06-17T05:50:56.310Z,54.5233333333333,-163.5225,10.73,2.02,ml,12,219,0.1767,0.25,av,av93167661,2024-06-18T03:31:40.860Z,"37 km S of False Pass, Alaska",earthquake,0.85,1.13,0.265376590968271,12,reviewed,av,av
 2024-06-17T05:49:24.135Z,61.4333,-149.8552,32.4,1.1,ml,,,,0.9,ak,ak0247rl3dfh,2024-06-17T05:51:29.729Z,"7 km WSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-17T05:46:02.457Z,60.2766,-152.6173,106.5,1.7,ml,,,,0.21,ak,ak0247rl2olx,2024-06-17T05:48:15.090Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-06-17T05:45:03.262Z,61.9049,-149.6297,41.5,1.2,ml,,,,0.45,ak,ak0247rl2gye,2024-06-17T05:51:39.496Z,"27 km NW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -218,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T03:42:16.030Z,35.6373333,-117.4506667,10.19,1.42,ml,28,71,0.03536,0.14,ci,ci40800696,2024-06-17T13:15:03.871Z,"15 km SSW of Searles Valley, CA",earthquake,0.21,0.31,0.151,18,reviewed,ci,ci
 2024-06-17T03:42:03.265Z,65.8673,-147.686,7.2,1.1,ml,,,,0.56,ak,ak0247rjuyli,2024-06-17T03:44:01.898Z,"54 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-17T03:40:45.280Z,19.2259998321533,-155.378829956055,32.810001373291,2.18,ml,47,154,0.09709,0.150000006,hv,hv74280271,2024-06-17T03:43:35.020Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.44,0.479999989,0.12,5,automatic,hv,hv
-2024-06-17T03:34:48.905Z,2.1588,-97.5471,10,4.5,mb,33,146,14.962,0.76,us,us7000msxg,2024-06-17T05:19:12.040Z,"west of the Galapagos Islands",earthquake,11.65,1.952,0.071,58,reviewed,us,us
-2024-06-17T03:31:12.670Z,51.7698333333333,-177.47,3.51,0.44,ml,9,175,0.1461,0.19,av,av93167506,2024-06-18T01:34:31.850Z,"58 km WSW of Adak, Alaska",earthquake,1.17,1.62,0.193866249422242,10,reviewed,av,av
-2024-06-17T03:29:50.674Z,37.3604,-117.1929,3.2,1.4,ml,22,97.96000000000004,0.081,0.1497,nn,nn00879390,2024-06-17T16:50:18.962Z,"38 km S of Goldfield, Nevada",earthquake,,2.6,0.17,7,reviewed,nn,nn
