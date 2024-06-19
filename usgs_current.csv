@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-19T13:52:25.460Z,19.4015007019043,-155.278335571289,1.80999994277954,1.64,ml,23,38,0.007539,0.129999995,hv,hv74283536,2024-06-19T13:55:05.420Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.180000007,0.12,7,automatic,hv,hv
 2024-06-19T13:30:35.940Z,33.349,-116.3818333,11.93,0.53,ml,34,65,0.02539,0.17,ci,ci40802832,2024-06-19T13:36:35.482Z,"10 km N of Borrego Springs, CA",earthquake,0.2,0.46,0.149,9,automatic,ci,ci
 2024-06-19T13:27:21.000Z,33.4788333,-116.4386667,13.26,0.63,ml,31,73,0.04575,0.2,ci,ci40802824,2024-06-19T13:33:17.693Z,"23 km ESE of Anza, CA",earthquake,0.24,0.55,0.134,17,automatic,ci,ci
 2024-06-19T13:25:52.399Z,62.0151,-150.1335,39.1,1.4,ml,,,,0.34,ak,ak0247v0sg93,2024-06-19T13:27:26.248Z,"21 km SW of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-19T13:13:43.150Z,33.1443333,-116.5238333,4.79,0.62,ml,29,55,0.08843,0.27,ci,ci40802808,2024-06-19T13:19:44.877Z,"10 km NE of Julian, CA",earthquake,0.36,0.8,0.155,7,automatic,ci,ci
 2024-06-19T13:11:33.704Z,60.8184,-151.49,74.4,1.3,ml,,,,0.41,ak,ak0247v0pesa,2024-06-19T13:13:26.655Z,"18 km NW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-19T13:05:34.721Z,63.9005,-148.7349,1.3,2.1,ml,,,,0.65,ak,ak0247v0o4kg,2024-06-19T13:07:57.050Z,"12 km ENE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-06-19T13:02:34.760Z,18.0613333333333,-66.8028333333333,7.28,2,md,3,316,0.2472,0.18,pr,pr71453348,2024-06-19T13:51:13.850Z,"4 km NNW of Guayanilla, Puerto Rico",earthquake,7.95,11.99,0.197466986463776,3,reviewed,pr,pr
 2024-06-19T13:00:57.000Z,33.4700012,-116.5616684,11.25,1.44,ml,14,76,0.04188,0.16,ci,ci40802792,2024-06-19T13:07:25.818Z,"14 km SE of Anza, CA",earthquake,0.44,1.09,0.482,7,automatic,ci,ci
 2024-06-19T12:56:19.980Z,33.4661667,-116.5743333,13.04,0.48,ml,22,53,0.03677,0.15,ci,ci40802784,2024-06-19T13:03:51.798Z,"14 km SE of Anza, CA",earthquake,0.22,0.46,0.166,11,automatic,ci,ci
 2024-06-19T12:55:35.640Z,33.4641667,-116.5768333,12.85,0.87,ml,42,45,0.03711,0.15,ci,ci40802776,2024-06-19T13:02:14.788Z,"14 km SE of Anza, CA",earthquake,0.16,0.34,0.203,23,automatic,ci,ci
@@ -265,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-18T14:16:58.970Z,38.2881660461426,-121.855163574219,22.6800003051758,2.38,md,29,80,0.1795,0.34,nc,nc75023572,2024-06-18T14:18:34.257Z,"8 km SSE of Elmira, CA",earthquake,0.68,0.75999999,0.15,20,automatic,nc,nc
 2024-06-18T14:14:50.151Z,37.3622,-117.1915,1.4,1.3,ml,17,98.23999999999995,0.083,0.1024,nn,nn00879484,2024-06-18T18:42:11.513Z,"38 km S of Goldfield, Nevada",earthquake,,6.4,0.19,3,reviewed,nn,nn
 2024-06-18T14:04:58.060Z,41.564,-112.416666666667,4.19,1.06,md,12,113,0.02144,0.16,uu,uu80074046,2024-06-18T19:40:55.360Z,"17 km SW of Thatcher, Utah",earthquake,0.41,1.4,0.185658772261543,9,reviewed,uu,uu
-2024-06-18T13:50:56.830Z,35.7305,-117.542,1.88,0.67,ml,17,146,0.1163,0.13,ci,ci40801680,2024-06-18T14:17:35.694Z,"13 km WSW of Searles Valley, CA",earthquake,0.24,0.47,0.076,5,reviewed,ci,ci
-2024-06-18T13:49:44.456Z,-38.9664,177.6503,18.954,4.4,mwr,38,147,0.63,0.8,us,us7000mt6g,2024-06-18T19:43:42.660Z,"23 km SSE of Tiniroto, New Zealand",earthquake,6.37,5.005,0.069,20,reviewed,us,us
