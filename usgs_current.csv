@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T22:51:16.850Z,19.3731670379639,-155.218338012695,2.19000005722046,1.78,ml,17,102,0.002749,0.129999995,hv,hv74285406,2024-06-20T22:53:55.150Z,"7 km SSE of Volcano, Hawaii",earthquake,0.38,0.280000001,0.13,7,automatic,hv,hv
 2024-06-20T22:48:33.397Z,59.6375,-152.2373,88.4,2,ml,,,,0.49,ak,ak0247wttl6z,2024-06-20T22:50:22.032Z,"27 km SW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-20T22:47:47.574Z,31.718,-104.271,5.9972,1.6,ml,17,118,0,0.5,tx,tx2024mcec,2024-06-20T23:06:25.406Z,"51 km S of Whites City, New Mexico",earthquake,0,4.7152525211807,0.1,12,automatic,tx,tx
-2024-06-20T22:46:10.466Z,61.9768,-146.8816,41.6,2.8,ml,,,,0.35,ak,ak0247wtt3zq,2024-06-20T22:47:38.056Z,"6 km WSW of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-06-20T22:46:10.466Z,61.9768,-146.8816,41.6,2.8,ml,,,,0.35,ak,ak0247wtt3zq,2024-06-20T23:48:45.040Z,"6 km WSW of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-20T22:44:38.761Z,36.2538,-115.4318,4.3,1.8,ml,12,191.45,0.59,0.2964,nn,nn00879650,2024-06-20T22:48:27.503Z,"17 km NNW of Summerlin South, Nevada",earthquake,,3.4,0.25,9,automatic,nn,nn
 2024-06-20T22:32:04.940Z,38.8443336486816,-122.814834594727,1.29999995231628,0.77,md,14,77,0.01227,0.01,nc,nc75024577,2024-06-20T22:33:42.557Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.620000005,0.14,15,automatic,nc,nc
 2024-06-20T22:25:26.880Z,33.5903333,-116.6178333,15.02,0.79,ml,30,40,0.02588,0.11,ci,ci40805016,2024-06-20T22:32:34.859Z,"6 km NE of Anza, CA",earthquake,0.17,0.26,0.158,17,automatic,ci,ci
@@ -75,6 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T16:31:48.920Z,33.4871667,-116.485,13.53,0.72,ml,26,63,0.06133,0.14,ci,ci40804400,2024-06-20T16:38:47.132Z,"19 km ESE of Anza, CA",earthquake,0.2,0.51,0.124,17,automatic,ci,ci
 2024-06-20T16:30:55.730Z,33.487,-116.4945,13.78,1.05,ml,48,35,0.06799,0.21,ci,ci40804392,2024-06-20T18:20:33.516Z,"18 km ESE of Anza, CA",earthquake,0.22,0.4,0.111,30,reviewed,ci,ci
 2024-06-20T16:21:46.279Z,31.62,-104.512,8.0994,1.6,ml,14,76,0,0.1,tx,tx2024mbrk,2024-06-20T17:47:21.597Z,"62 km SSW of Whites City, New Mexico",earthquake,1.4453197316580424,0.6399333840267736,0.1,13,reviewed,tx,tx
+2024-06-20T16:19:21.100Z,48.782833333333336,-121.84266666666667,-1.23,0.8200000000000001,ml,4,127,0.05424,0.22,uw,uw62017166,2024-06-20T23:48:00.310Z,"14 km SSE of Glacier, Washington",other event,1.33,31.61,0.10381139161684755,3,reviewed,uw,uw
 2024-06-20T16:08:55.200Z,35.914,-95.15266667,0,1.31,ml,58,126,0,0.45,ok,ok2024mbqz,2024-06-20T16:45:11.891Z,"2 km SSW of Hulbert, Oklahoma",quarry blast,,0.5,0.18,18,reviewed,ok,ok
 2024-06-20T16:01:49.690Z,38.8321647644043,-122.81583404541,1.80999994277954,0.93,md,7,88,0.009845,0.01,nc,nc75024417,2024-06-20T16:03:28.481Z,"8 km NNW of The Geysers, CA",earthquake,0.49,1.47000003,0.32,9,automatic,nc,nc
 2024-06-20T15:58:34.768Z,37.3406,-117.1837,0,0.3,ml,7,221.70999999999998,0.074,0.1308,nn,nn00879646,2024-06-20T21:22:39.370Z,"41 km S of Goldfield, Nevada",earthquake,,0,0.07,3,reviewed,nn,nn
@@ -155,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T09:16:44.562Z,37.3526,-117.2052,5.9,1.5,ml,21,96.34999999999997,0.069,0.1718,nn,nn00879586,2024-06-20T17:14:28.551Z,"39 km S of Goldfield, Nevada",earthquake,,2,0.52,4,reviewed,nn,nn
 2024-06-20T09:16:40.502Z,60.7163,-148.5244,19.2,1.6,ml,,,,0.53,ak,ak0247wlw3yq,2024-06-20T09:18:18.659Z,"10 km SE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-20T08:59:58.309Z,63.0999,-151.3372,0,1.3,ml,,,,0.46,ak,ak0247wljxiu,2024-06-20T09:02:20.165Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-20T08:55:42.220Z,60.0006666666667,-153.071333333333,0.87,-1.03,ml,4,120,0.03083,0.08,av,av93171311,2024-06-20T23:49:53.610Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.34,1.26,0.238081444897472,4,reviewed,av,av
 2024-06-20T08:53:58.180Z,38.8413314819336,-122.834831237793,-0.100000001490116,0.79,md,14,126,0.002786,0.05,nc,nc75024307,2024-06-20T08:55:36.512Z,"10 km NNW of The Geysers, CA",earthquake,0.28,0.460000008,0.21,13,automatic,nc,nc
 2024-06-20T08:48:59.140Z,36.70783333,-97.1455,7.58,1.74,ml,82,96,0.07648499104,0.33,ok,ok2024mbcm,2024-06-20T12:41:16.428Z,"5 km W of Ponca City, Oklahoma",earthquake,,0.7,0.18,31,reviewed,ok,ok
 2024-06-20T08:45:51.055Z,32.5522,-104.3766,8.804,3.2,ml,30,78,0.441,0.29,us,us7000mtk0,2024-06-20T11:56:37.080Z,"18 km NW of La Huerta, New Mexico",earthquake,1.25,8.445,0.074,24,reviewed,us,us
@@ -270,7 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T00:08:18.970Z,38.4953333333333,-112.899,3.33,0.97,md,11,78,0.01153,0.08,uu,uu80001413,2024-06-20T15:45:01.940Z,"14 km NE of Milford, Utah",earthquake,0.28,0.5,0.25755723009858,4,reviewed,uu,uu
 2024-06-20T00:08:06.290Z,38.4961666666667,-112.901333333333,3.31,0.37,md,9,102,0.01273,0.07,uu,uu80074126,2024-06-20T15:40:48.180Z,"14 km NE of Milford, Utah",earthquake,0.34,0.62,0.361042013719313,4,reviewed,uu,uu
 2024-06-19T23:56:54.410Z,38.7924995422363,-122.764663696289,3.20000004768372,0.74,md,10,77,0.01819,0.02,nc,nc75024177,2024-06-19T23:58:32.405Z,"2 km NNW of The Geysers, CA",earthquake,0.37,0.959999979,0.09,9,automatic,nc,nc
-2024-06-19T23:48:48.030Z,19.3911666666667,-155.2775,1.29,2.38,ml,40,42,0.005543,0.11,hv,hv74284151,2024-06-20T16:48:50.647Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.1,0.260771475184639,10,reviewed,hv,hv
-2024-06-19T23:48:34.000Z,62.3068,-149.1979,47.7,1.8,ml,,,,0.32,ak,ak02426nwsqto,2024-06-19T23:50:23.939Z,"37 km ENE of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-06-19T23:46:14.393Z,56.8436,-155.5674,22.6,2,ml,,,,0.92,ak,ak0247v6v78x,2024-06-19T23:49:02.776Z,"85 km W of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-06-19T23:44:12.290Z,46.844833333333334,-121.9945,9.54,0.24,ml,14,226,0.03148,0.07,uw,uw62017011,2024-06-20T03:19:42.630Z,"9 km NNE of Ashford, Washington",earthquake,0.45,0.48,0.10492300147551374,8,reviewed,uw,uw
