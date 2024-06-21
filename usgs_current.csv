@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T19:00:35.240Z,33.4621667,-116.5626667,9.33,0.74,ml,35,47,0.04631,0.13,ci,ci40805904,2024-06-21T19:32:34.700Z,"15 km SE of Anza, CA",earthquake,0.16,0.31,0.167,19,reviewed,ci,ci
 2024-06-21T18:56:52.670Z,35.00816667,-97.75183333,10.28,1.58,ml,88,49,0.1043795172,0.35,ok,ok2024mdsa,2024-06-21T19:10:17.190Z,"10 km NNE of Alex, Oklahoma",earthquake,,1.4,0.25,41,reviewed,ok,ok
 2024-06-21T18:54:54.000Z,38.8286666870117,-122.816665649414,2.39000010490417,0.85,md,8,140,0.007363,0.01,nc,nc75025027,2024-06-21T18:56:31.124Z,"8 km NNW of The Geysers, CA",earthquake,0.63,1.46000004,0.27,9,automatic,nc,nc
-2024-06-21T18:35:25.030Z,33.4521667,-117.019,-1.29,0.86,ml,11,207,0.1636,0.38,ci,ci40805880,2024-06-21T18:44:23.245Z,"11 km NNE of Pala, CA",earthquake,2.71,1.59,0.118,16,automatic,ci,ci
+2024-06-21T18:35:29.230Z,33.484,-116.4745,8.62,0.76,ml,16,101,0.05663,0.15,ci,ci40805880,2024-06-21T23:42:51.410Z,"20 km ESE of Anza, CA",earthquake,0.3,0.95,0.065,14,reviewed,ci,ci
 2024-06-21T18:35:21.860Z,33.4838333,-116.4783333,5.97,0.96,ml,37,52,0.05909,0.19,ci,ci40805872,2024-06-21T19:32:42.036Z,"20 km ESE of Anza, CA",earthquake,0.18,0.5,0.146,31,reviewed,ci,ci
 2024-06-21T18:34:17.270Z,33.4826667,-116.4876667,7.14,1.96,ml,84,24,0.06581,0.18,ci,ci40805856,2024-06-21T19:33:55.240Z,"19 km ESE of Anza, CA",earthquake,0.12,0.37,0.173,26,reviewed,ci,ci
 2024-06-21T18:27:32.710Z,33.4818333,-116.4756667,9.25,0.42,ml,22,67,0.05884,0.2,ci,ci40805832,2024-06-21T23:31:19.452Z,"20 km ESE of Anza, CA",earthquake,0.34,0.9,0.07,14,reviewed,ci,ci
@@ -203,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T07:20:59.938Z,63.0834,-151.3857,0,1.2,ml,,,,0.58,ak,ak0247y89hlj,2024-06-21T07:26:44.285Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-21T07:14:53.854Z,61.3129,-149.2473,22.3,1.8,ml,,,,0.68,ak,ak0247y886uh,2024-06-21T07:17:08.906Z,"17 km E of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-21T07:14:11.105Z,37.3182,-117.1898,0,0.4,ml,8,200.38,0.059,0.3396,nn,nn00879672,2024-06-21T07:16:19.196Z,"43 km S of Goldfield, Nevada",earthquake,,0.4,0.31,5,automatic,nn,nn
-2024-06-21T07:09:27.100Z,37.3137,-117.2015,3.4,0.8,ml,12,176.33999999999997,0.049,0.1262,nn,nn00879671,2024-06-21T23:38:52.310Z,"43 km S of Goldfield, Nevada",earthquake,,3.3,0,1,reviewed,nn,nn
+2024-06-21T07:09:27.043Z,37.3306,-117.1997,2.4,0.8,ml,17,179.51999999999998,0.057,0.1343,nn,nn00879671,2024-06-21T23:42:01.129Z,"42 km S of Goldfield, Nevada",earthquake,,3.1,0,1,reviewed,nn,nn
 2024-06-21T06:53:35.220Z,33.639,-116.7091667,13.83,0.55,ml,14,131,0.04195,0.09,ci,ci40805256,2024-06-21T23:25:06.888Z,"10 km NNW of Anza, CA",earthquake,0.32,0.69,0.059,12,reviewed,ci,ci
 2024-06-21T06:53:34.840Z,33.6385,-116.713,13.83,0.27,ml,10,136,0.04459,0.05,ci,ci37671660,2024-06-21T23:27:40.627Z,"10 km NNW of Anza, CA",earthquake,0.35,0.71,0.489,2,reviewed,ci,ci
 2024-06-21T06:52:35.300Z,33.635,-116.7071667,13.54,0.92,ml,48,51,0.04379,0.16,ci,ci40805248,2024-06-21T18:02:16.220Z,"9 km NNW of Anza, CA",earthquake,0.17,0.3,0.212,27,reviewed,ci,ci
@@ -294,5 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T23:53:03.308Z,59.4742,-152.1361,68.5,1.2,ml,,,,0.37,ak,ak0247wug122,2024-06-20T23:54:27.608Z,"17 km NW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-06-20T23:52:14.180Z,60.5111666666667,-152.814666666667,5.09,-0.03,ml,5,164,0.0638,0.13,av,av93012634,2024-06-21T05:33:19.320Z,"81 km NW of Ninilchik, Alaska",earthquake,0.45,1.23,0.0931455489155635,5,reviewed,av,av
 2024-06-20T23:47:06.137Z,31.521,-104.018,7.7405,1.7,ml,20,62,0,0.1,tx,tx2024mcgc,2024-06-21T14:48:46.891Z,"31 km NW of Toyah, Texas",earthquake,0.7938940902171437,0.606227298251446,0.2,12,reviewed,tx,tx
-2024-06-20T23:43:23.350Z,34.41966667,-97.5865,15.57,1.27,ml,20,126,0.1088786343,0.32,ok,ok2024mcfz,2024-06-21T14:56:52.947Z,"7 km WSW of Ratliff City, Oklahoma",earthquake,,1.8,0.3,12,reviewed,ok,ok
-2024-06-20T23:42:12.970Z,38.7948341369629,-122.749496459961,1.98000001907349,1.15,md,13,92,0.01529,0.02,nc,nc75024617,2024-06-20T23:43:48.150Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.769999981,0.11,15,automatic,nc,nc
