@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-26T15:18:45.810Z,38.8253326416016,-122.803337097168,2.46000003814697,0.84,md,7,89,0.005607,0.02,nc,nc75027576,2024-06-26T15:20:22.786Z,"7 km NNW of The Geysers, CA",earthquake,0.67,0.959999979,0.31,9,automatic,nc,nc
+2024-06-26T15:16:07.768Z,61.6755,-148.1655,21,0.9,ml,,,,0.19,ak,ak02486moq14,2024-06-26T15:18:08.722Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-26T15:09:54.992Z,60.0051,-152.57,101.4,1.7,ml,,,,0.23,ak,ak02486mnbnv,2024-06-26T15:11:33.820Z,"47 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-26T15:01:20.590Z,38.8305015563965,-122.814834594727,2.08999991416931,1.08,md,23,48,0.008011,0.02,nc,nc75027566,2024-06-26T15:04:36.735Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.419999987,0.15,21,automatic,nc,nc
 2024-06-26T14:50:59.561Z,-18.3304,-177.965,529.082,4.7,mb,69,113,3.141,0.75,us,us6000n89k,2024-06-26T15:07:06.040Z,"289 km E of Levuka, Fiji",earthquake,11.64,5.794,0.068,66,reviewed,us,us
@@ -59,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T07:21:14.050Z,44.7681666666667,-110.842666666667,6.64,0.1,md,10,129,0.02092,0.08,uu,uu80074716,2024-06-26T13:29:50.320Z,"23 km ENE of West Yellowstone, Montana",earthquake,0.43,0.96,0.383222380329809,7,reviewed,uu,uu
 2024-06-26T07:16:02.289Z,-6.6701,-76.4842,10,4.6,mb,45,108,5.295,1.07,us,us6000n889,2024-06-26T08:19:46.040Z,"15 km S of Zapatero, Peru",earthquake,9.73,1.91,0.09,37,reviewed,us,us
 2024-06-26T07:07:44.150Z,33.6346667,-116.6955,16.23,0.4,ml,22,50,0.03865,0.18,ci,ci40810648,2024-06-26T13:18:03.666Z,"9 km NNW of Anza, CA",earthquake,0.32,0.54,0.069,4,reviewed,ci,ci
-2024-06-26T07:02:57.897Z,41.6267,-73.9341,8.299,2.1,mb_lg,22,52,0.202,0.33,us,us6000n888,2024-06-26T14:21:38.697Z,"1 km SSE of Crown Heights, New York",earthquake,1.42,5.117,0.18,8,reviewed,us,us
+2024-06-26T07:02:57.897Z,41.6267,-73.9341,8.299,2.1,mb_lg,22,52,0.202,0.33,us,us6000n888,2024-06-26T15:13:51.677Z,"1 km SSE of Crown Heights, New York",earthquake,1.42,5.117,0.18,8,reviewed,us,us
 2024-06-26T06:41:41.832Z,61.8692,-150.1705,32.3,1.2,ml,,,,0.53,ak,ak02486hh947,2024-06-26T06:43:13.527Z,"15 km NNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-26T06:28:04.190Z,38.7701683044434,-122.740997314453,4.1100001335144,0.24,md,7,148,0.01347,0.05,nc,nc75027431,2024-06-26T06:29:42.468Z,"2 km SE of The Geysers, CA",earthquake,1.41,2.17000008,0.03,7,automatic,nc,nc
 2024-06-26T06:09:02.920Z,17.849,-66.8348333333333,5.98,2.42,md,15,221,0.1323,0.24,pr,pr71454043,2024-06-26T06:48:07.130Z,"15 km SSE of Maria Antonia, Puerto Rico",earthquake,0.71,0.51,0.0789734430534601,9,reviewed,pr,pr
@@ -223,8 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-25T15:41:38.370Z,37.8521666666667,-113.064166666667,3.61,1.31,ml,7,174,0.257,0.25,uu,uu80074581,2024-06-25T16:22:48.390Z,"9 km NNW of Enoch, Utah",earthquake,1.09,12.45,0.0280780320880453,4,reviewed,uu,uu
 2024-06-25T15:40:29.700Z,38.837833404541,-122.822998046875,2.07999992370605,1.51,md,24,63,0.009783,0.02,nc,nc75027091,2024-06-25T15:42:06.073Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.409999996,0.13,25,automatic,nc,nc
 2024-06-25T15:39:59.870Z,18.937,-67.0448333333333,11.68,3.42,md,14,232,0.6271,0.18,pr,pr71454008,2024-06-25T17:01:25.260Z,"48 km N of Isabela, Puerto Rico",earthquake,0.91,1.41,0.0379045544869117,5,reviewed,pr,pr
-2024-06-25T15:26:21.036Z,39.4025,-119.7856,5.4,1.1,ml,17,75.98999999999998,0.021,0.156,nn,nn00879964,2024-06-25T18:51:26.910Z,"14 km S of Reno, Nevada",earthquake,,0.7,0.17,8,reviewed,nn,nn
-2024-06-25T15:24:19.260Z,52.713,-169.8535,9.46,1.56,ml,5,282,0.09261,0.17,av,av93013174,2024-06-25T23:21:03.760Z,"71 km WSW of Nikolski, Alaska",earthquake,1.73,1.58,0.117799764601406,5,reviewed,av,av
-2024-06-25T15:23:48.440Z,52.712,-169.854833333333,0.02,1.65,ml,5,284,0.09309,0.12,av,av93178236,2024-06-25T23:16:47.570Z,"71 km WSW of Nikolski, Alaska",earthquake,2.3,1.33,0.19378904617751,5,reviewed,av,av
-2024-06-25T15:18:43.810Z,62.4119,-148.1472,26.4,1.4,ml,,,,0.87,ak,ak02484z5vr1,2024-06-25T15:20:44.920Z,"70 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-06-25T15:17:05.470Z,37.8431666666667,-113.097666666667,8.25,1.47,md,7,162,0.2474,0.13,uu,uu80074576,2024-06-25T16:36:27.690Z,"10 km NW of Enoch, Utah",earthquake,0.79,4.26,0.296885457663881,7,reviewed,uu,uu
