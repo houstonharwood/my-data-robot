@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-01T23:21:04.770Z,33.4765015,-116.5065002,12,0.7,ml,21,57,0.08201,0.09,ci,ci40816456,2024-07-01T23:24:31.324Z,"18 km ESE of Anza, CA",earthquake,0.31,0.71,0.124,20,automatic,ci,ci
 2024-07-01T23:19:33.560Z,19.19700050354,-155.466003417969,32.9099998474121,1.99000001,md,28,106,0.04153,0.119999997,hv,hv74310296,2024-07-01T23:21:18.720Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.6,0.819999993,0.189999998,5,automatic,hv,hv
 2024-07-01T23:13:32.530Z,35.038,-116.9885,2.81,1.21,ml,16,82,0.1624,0.13,ci,ci40816440,2024-07-01T23:19:36.294Z,"16 km NNE of Barstow, CA",earthquake,0.22,0.99,0.179,10,automatic,ci,ci
 2024-07-01T22:56:15.040Z,19.2070007324219,-155.48649597168,28.1399993896484,2.03999996,md,29,82,0.05625,0.159999996,hv,hv74310256,2024-07-01T22:57:54.890Z,"0 km WNW of Pāhala, Hawaii",earthquake,0.75,0.970000029,0.180000007,6,automatic,hv,hv
@@ -40,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T19:26:09.506Z,31.669,-104.478,7.2225,1.9,ml,8,72,0,0.3,tx,tx2024mwaa,2024-07-01T19:49:55.045Z,"56 km S of Whites City, New Mexico",earthquake,0,3.3863447746231,0.1,6,automatic,tx,tx
 2024-07-01T19:01:49.664Z,63.3084,-149.3252,138.1,0.6,ml,,,,1.23,ak,ak0248eyo2f4,2024-07-01T19:04:23.670Z,"20 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-07-01T18:57:22.240Z,33.8491667,-117.4908333,-0.48,1.87,ml,78,34,0.04957,0.26,ci,ci40816056,2024-07-01T23:16:01.269Z,"4 km SE of Home Gardens, CA",quarry blast,0.22,31.61,0.179,33,reviewed,ci,ci
+2024-07-01T18:54:06.620Z,45.9071666666667,-113.205166666667,3.89,1.7,ml,25,86,0.2135,0.14,mb,mb90055703,2024-07-01T23:22:18.940Z,"31 km SW of Anaconda, Montana",earthquake,0.38,8.87,0.162329728714641,19,reviewed,mb,mb
 2024-07-01T18:53:12.650Z,35.3993333,-118.2226667,8.02,1.32,ml,35,46,0.1526,0.15,ci,ci40816048,2024-07-01T18:59:43.705Z,"32 km SE of Bodfish, CA",earthquake,0.17,0.69,0.175,26,automatic,ci,ci
 2024-07-01T18:45:16.028Z,65.5831,-147.9537,6.5,2.5,ml,,,,0.65,ak,ak0248eybzpu,2024-07-01T19:00:01.040Z,"28 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-01T18:32:15.160Z,59.7944,-153.3897,131.511,2.8,ml,27,82,0.617,0.49,us,us6000n9nh,2024-07-01T18:55:01.040Z,"40 km E of Pedro Bay, Alaska",earthquake,5.22,7.171,0.045,66,reviewed,us,us
@@ -193,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T05:15:00.451Z,65.2109,-150.8859,9.6,0.9,ml,,,,0.68,ak,ak0248eqew65,2024-07-01T05:27:04.200Z,"26 km NNW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-01T05:13:42.960Z,19.3871669769287,-155.248992919922,1.21000003814697,1.74,ml,23,62,0.002739,0.180000007,hv,hv74307916,2024-07-01T05:16:21.450Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.189999998,0.21,13,automatic,hv,hv
 2024-07-01T05:13:42.645Z,61.3807,-146.502,26.2,1.2,ml,,,,0.44,ak,ak0248eqejzs,2024-07-01T05:15:33.685Z,"29 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-07-01T05:12:03.283Z,14.7374,147.0554,10,5,mb,60,76,1.317,0.91,us,us6000n9jh,2024-07-01T17:22:07.686Z,"149 km ESE of Saipan, Northern Mariana Islands",earthquake,8.42,1.883,0.068,70,reviewed,us,us
+2024-07-01T05:12:03.283Z,14.7374,147.0554,10,5,mb,60,76,1.317,0.91,us,us6000n9jh,2024-07-01T23:22:11.501Z,"149 km ESE of Saipan, Northern Mariana Islands",earthquake,8.42,1.883,0.068,70,reviewed,us,us
 2024-07-01T05:07:09.660Z,19.3889999389648,-155.245834350586,1.30999994277954,1.98,ml,31,51,0.006227,0.219999999,hv,hv74307896,2024-07-01T05:09:47.140Z,"6 km SSW of Volcano, Hawaii",earthquake,0.25,0.180000007,0.29,17,automatic,hv,hv
 2024-07-01T05:03:15.360Z,33.709,-117.0668333,11.51,0.57,ml,28,102,0.05445,0.14,ci,ci40815248,2024-07-01T13:27:32.234Z,"2 km E of Winchester, CA",earthquake,0.24,0.35,0.15,12,reviewed,ci,ci
 2024-07-01T04:59:19.030Z,19.3888339996338,-155.253829956055,0.899999976158142,2.04,ml,28,64,0.004073,0.319999993,hv,hv74307876,2024-07-01T05:01:59.050Z,"6 km SSW of Volcano, Hawaii",earthquake,0.28,0.239999995,0.22,15,automatic,hv,hv
