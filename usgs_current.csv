@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-03T13:45:15.970Z,33.3148346,-116.2366638,5.36,1.09,ml,29,151,0.0773,0.27,ci,ci40647255,2024-07-03T13:47:27.830Z,"14 km ENE of Borrego Springs, CA",earthquake,0.59,0.92,0.191,5,automatic,ci,ci
+2024-07-03T13:41:20.190Z,33.6131667,-116.857,-1.15,-0.15,ml,9,111,0.01846,0.22,ci,ci40647239,2024-07-03T13:47:06.830Z,"15 km SSE of Valle Vista, CA",earthquake,0.54,18.95,0.173,2,automatic,ci,ci
 2024-07-03T13:37:04.719Z,62.781,-148.9337,10.3,1,ml,,,,1.23,ak,ak0248i6ds2t,2024-07-03T13:40:20.594Z,"68 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-03T13:32:31.978Z,62.7759,-148.8901,14.8,1.3,ml,,,,0.13,ak,ak0248i6crlp,2024-07-03T13:34:05.350Z,"68 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-03T13:25:05.950Z,62.3245,-148.4156,0,3.1,ml,,,,0.75,ak,ak0248i6bb43,2024-07-03T13:29:27.223Z,"58 km N of Chickaloon, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -67,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T06:01:44.550Z,19.3586673736572,-155.296829223633,1.82000005245209,1.9,ml,19,116,0.02324,0.159999996,hv,hv74312676,2024-07-03T06:04:22.920Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.400000006,0.25,7,automatic,hv,hv
 2024-07-03T05:57:15.620Z,19.3853340148926,-155.238494873047,1.86000001430511,2.44,ml,42,55,0.01187,0.239999995,hv,hv74312666,2024-07-03T05:59:53.510Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.200000003,0.38,22,automatic,hv,hv
 2024-07-03T05:53:33.100Z,35.7608333,-117.5793333,2.98,0.66,ml,18,64,0.1551,0.13,ci,ci40646839,2024-07-03T05:59:26.754Z,"16 km W of Searles Valley, CA",earthquake,0.26,0.89,0.189,6,automatic,ci,ci
-2024-07-03T05:50:31.827Z,36.7227,-116.0167,3.8,1.3,ml,24,103.44,0.026,0.213,nn,nn00880306,2024-07-03T05:52:33.261Z,"35 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.25,15,automatic,nn,nn
+2024-07-03T05:50:32.534Z,36.7279,-116.0229,4,1.2,ml,36,98.55000000000001,0.03,0.1405,nn,nn00880306,2024-07-03T13:43:21.954Z,"36 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.19,14,reviewed,nn,nn
 2024-07-03T05:48:18.450Z,19.3028335571289,-155.230834960938,-0.310000002384186,2.42,ml,53,133,0.02227,0.230000004,hv,hv74312661,2024-07-03T05:50:57.600Z,"15 km S of Volcano, Hawaii",earthquake,0.31,0.180000007,0.48,29,automatic,hv,hv
 2024-07-03T05:41:42.000Z,20.2803325653076,-155.994506835938,10.1700000762939,2.67,ml,49,145,0.374,0.209999993,hv,hv74312646,2024-07-03T05:44:44.580Z,"17 km WNW of Hāwī, Hawaii",earthquake,0.71,0.779999971,0.91,4,automatic,hv,hv
 2024-07-03T05:41:06.024Z,37.4731,-117.8442,2.9,1.4,ml,17,313.90999999999997,0.287,0.2141,nn,nn00880304,2024-07-03T05:43:52.543Z,"29 km SE of Dyer, Nevada",earthquake,,3.9,0.12,8,automatic,nn,nn
@@ -234,6 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T14:14:42.210Z,19.3733329772949,-155.213836669922,2.30999994277954,1.84,ml,24,146,0.001633,0.109999999,hv,hv74311531,2024-07-02T14:17:21.670Z,"7 km SSE of Volcano, Hawaii",earthquake,0.25,0.25999999,0.19,9,automatic,hv,hv
 2024-07-02T13:58:35.450Z,46.37733333333333,-122.24533333333333,7.58,0.01,ml,7,201,0.07527,0.06,uw,uw62020761,2024-07-03T04:19:22.050Z,"20 km S of Morton, Washington",earthquake,0.46,0.92,0.1058592849878123,5,reviewed,uw,uw
 2024-07-02T13:56:09.958Z,38.4364,-117.8714,9.7,2,ml,8,93.27,0.254,0.1314,nn,nn00880275,2024-07-02T16:46:51.043Z,"21 km ENE of Mina, Nevada",earthquake,,2.5,0.37,6,reviewed,nn,nn
-2024-07-02T13:48:37.830Z,44.7568333333333,-110.886333333333,5.99,1.65,md,6,97,0.215,0.15,uu,uu80001443,2024-07-02T14:35:48.620Z,"20 km ENE of West Yellowstone, Montana",earthquake,0.5,9.78,0.524716867359287,7,reviewed,uu,uu
-2024-07-02T13:48:28.580Z,44.767,-110.884,6.15,2.07,ml,22,101,0.032,0.17,uu,uu80075126,2024-07-02T14:25:26.240Z,"20 km ENE of West Yellowstone, Montana",earthquake,0.29,0.9,0.126687936098818,5,reviewed,uu,uu
-2024-07-02T13:44:54.848Z,62.081,-147.5734,33.7,1.3,ml,,,,0.71,ak,ak0248giw1gs,2024-07-02T13:46:55.820Z,"26 km NW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
