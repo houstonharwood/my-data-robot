@@ -15,8 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-04T16:30:43.422Z,61.5126,-149.8061,45.8,1.9,ml,,,,0.43,ak,ak0248jvo0d2,2024-07-04T17:20:22.145Z,"7 km NW of Knik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-07-04T16:24:54.240Z,38.8343315124512,-122.809829711914,2.10999989509583,0.75,md,15,49,0.01092,0.01,nc,nc75030737,2024-07-04T16:26:31.150Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.550000012,0.5,16,automatic,nc,nc
 2024-07-04T16:22:42.620Z,33.5303333,-116.5535,15.02,0.78,ml,34,49,0.03297,0.16,ci,ci40648671,2024-07-04T16:29:03.161Z,"12 km ESE of Anza, CA",earthquake,0.19,0.33,0.138,20,automatic,ci,ci
-2024-07-04T16:18:24.179Z,62.2399,-146.1477,69.4,3.3,ml,,,,0.96,ak,ak0248jvldhh,2024-07-04T16:21:15.014Z,"17 km NNW of Tolsona, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2024-07-04T16:15:08.277Z,48.6778,-129.0034,10,5.7,mww,34,87,0.758,0.99,us,us7000mx3m,2024-07-04T18:25:17.600Z,"232 km WSW of Tofino, Canada",earthquake,4.38,1.867,0.046,46,reviewed,us,us
+2024-07-04T16:15:08.277Z,48.6778,-129.0034,10,5.7,mww,34,87,0.758,0.99,us,us7000mx3m,2024-07-04T18:46:12.411Z,"232 km WSW of Tofino, Canada",earthquake,4.38,1.867,0.046,46,reviewed,us,us
 2024-07-04T16:09:52.750Z,33.825,-116.9653333,4.11,0.7,ml,26,200,0.1401,0.15,ci,ci40648655,2024-07-04T16:16:24.086Z,"5 km N of San Jacinto, CA",earthquake,0.72,0.81,0.181,20,automatic,ci,ci
 2024-07-04T16:00:34.000Z,48.833,-127.889,39,4.5,Mb,41,165.59998675200106,2.38323,1.39,at,at00sg3wgy,2024-07-04T16:07:43.328Z,"149 km WSW of Tofino, Canada",earthquake,0,0,,23,reviewed,at,at
 2024-07-04T16:00:17.075Z,48.7912,-129.1652,10,4.3,mb,18,163,0.869,0.86,us,us7000mx3h,2024-07-04T16:19:57.040Z,"241 km W of Tofino, Canada",earthquake,3.61,1.992,0.073,53,reviewed,us,us
@@ -34,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-04T14:51:42.150Z,32.6763333,-115.7128333,8.07,1.48,ml,25,77,0.02925,0.21,ci,ci40648591,2024-07-04T14:58:07.619Z,"16 km NW of Progreso, B.C., MX",earthquake,0.28,0.56,0.29,21,automatic,ci,ci
 2024-07-04T14:29:23.520Z,19.1550006866455,-155.514831542969,30.8099994659424,2.05999994,md,37,184,0.04984,0.189999998,hv,hv74314736,2024-07-04T14:31:14.810Z,"6 km SW of Pāhala, Hawaii",earthquake,0.59,0.769999981,0.0399999991,3,automatic,hv,hv
 2024-07-04T14:04:13.440Z,33.6611667,-116.7516667,14.48,0.65,ml,43,62,0.05886,0.13,ci,ci40648567,2024-07-04T14:15:30.373Z,"9 km SSW of Idyllwild, CA",earthquake,0.16,0.25,0.173,19,automatic,ci,ci
+2024-07-04T13:53:12.203Z,39.6044,-119.9894,2.7,0.5,ml,6,126.11999999999998,0.022,0.0805,nn,nn00880392,2024-07-04T18:46:19.105Z,"8 km S of Cold Springs, Nevada",earthquake,,1.8,0.15,6,reviewed,nn,nn
 2024-07-04T13:43:58.819Z,62.1677,-145.6435,21.3,1.4,ml,,,,0.77,ak,ak0248jtyj0g,2024-07-04T13:46:12.461Z,"8 km NW of Glennallen, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-04T13:18:02.860Z,48.6951,-129.2586,10,4.6,mb,24,148,0.778,0.97,us,us7000mx23,2024-07-04T13:58:22.040Z,"250 km WSW of Tofino, Canada",earthquake,6.64,1.808,0.046,145,reviewed,us,us
 2024-07-04T13:16:23.610Z,38.8306655883789,-122.818000793457,1.52999997138977,1.77,md,16,50,0.01578,0.02,nc,nc75030692,2024-07-04T13:18:01.901Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.1,18,automatic,nc,nc
@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-04T00:23:41.576Z,35.06090546,-97.52249908,0.7283500433,1.65,ml,12,107.8959351,0.01228753198,0.6215436079,ok,ok2024naaw,2024-07-04T00:31:33.573Z,"3 km W of Washington, Oklahoma",earthquake,3.780488712,3.203357277,0.25,6,automatic,ok,ok
 2024-07-04T00:23:22.331Z,28.995,-98.24,12.2738,1.5,ml,6,119,0.2,0.5,tx,tx2024naaw,2024-07-04T01:04:19.041Z,"17 km SSW of Floresville, Texas",earthquake,0,4.07786377987325,0.2,6,automatic,tx,tx
 2024-07-04T00:21:33.360Z,37.1813316345215,-119.698501586914,11.0200004577637,2.63,md,15,89,0.1696,0.25,nc,nc75030492,2024-07-04T00:23:07.794Z,"7 km ESE of Yosemite Lakes, CA",earthquake,0.51,1.05999994,0.25,13,automatic,nc,nc
-2024-07-04T00:17:31.135Z,19.7853,-109.2244,10,5.2,mww,89,190,6.881,1.13,us,us7000mwyt,2024-07-04T00:34:13.040Z,"Revilla Gigedo Islands region",earthquake,10.03,1.933,0.044,50,reviewed,us,us
+2024-07-04T00:17:31.135Z,19.7853,-109.2244,10,5.2,mww,89,190,6.881,1.13,us,us7000mwyt,2024-07-04T18:42:08.499Z,"Revilla Gigedo Islands region",earthquake,10.03,1.933,0.044,50,reviewed,us,us
 2024-07-04T00:17:29.460Z,19.5211658477783,-155.309326171875,8.31999969482422,1.92,ml,37,90,0.06863,0.270000011,hv,hv74314101,2024-07-04T00:20:07.100Z,"11 km NW of Volcano, Hawaii",earthquake,0.33,0.769999981,0.65,9,automatic,hv,hv
 2024-07-04T00:03:18.015Z,51.9971,-174.7556,54.4,2.1,ml,,,,0.29,ak,ak0248jlz905,2024-07-04T18:17:13.254Z,"44 km WSW of Atka, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2024-07-04T00:00:50.150Z,37.6056,-117.8133,4.3,1.6,ml,11,189.68999999999997,0.478,0.1595,nn,nn00880357,2024-07-04T00:03:36.192Z,"22 km SW of Silver Peak, Nevada",earthquake,,0.7,0.38,5,automatic,nn,nn
@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T19:08:26.730Z,61.3061666666667,-152.284666666667,-0.87,0.2,ml,6,121,0.06339,0.06,av,av93014164,2024-07-04T03:38:54.310Z,"67 km WNW of Beluga, Alaska",earthquake,0.27,9.14,0.276774688864299,6,reviewed,av,av
 2024-07-03T19:03:25.340Z,59.6744,-153.5513,119.2,1.2,ml,,,,0.45,ak,ak0248i9r4tt,2024-07-03T19:05:49.085Z,"33 km ESE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-03T18:54:18.780Z,35.0336667,-116.9843333,3.32,1.7,ml,26,53,0.1583,0.13,ci,ci40647639,2024-07-03T20:24:42.930Z,"15 km NNE of Barstow, CA",earthquake,0.18,0.73,0.162,27,reviewed,ci,ci
-2024-07-03T18:45:07.300Z,61.3025,-152.299166666667,1.61,0.1,ml,7,119,0.05605,0.13,av,av93185111,2024-07-04T03:20:59.610Z,"67 km WNW of Tyonek, Alaska",earthquake,0.77,1.91,0.260747519594658,7,reviewed,av,av
