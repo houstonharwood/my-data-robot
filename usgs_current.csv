@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-12T11:34:55.527Z,60.3023,-141.4863,12.1,3.4,ml,,,,0.91,ak,ak0248x10hyn,2024-07-12T11:36:42.643Z,"129 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-07-12T11:29:50.710Z,33.7148323,-117.4421692,10.32,1.48,ml,44,47,0.05148,0.25,ci,ci40657471,2024-07-12T11:31:55.606Z,"12 km WNW of Lake Elsinore, CA",earthquake,0.32,0.66,0.324,20,automatic,ci,ci
+2024-07-12T11:29:50.780Z,33.7056667,-117.4415,9.46,1.51,ml,56,81,0.05677,0.26,ci,ci40657471,2024-07-12T11:52:02.727Z,"11 km WNW of Lake Elsinore, CA",earthquake,0.24,0.47,0.184,28,automatic,ci,ci
 2024-07-12T11:01:43.958Z,39.5079,-120.3268,2.9,0.9,ml,8,203.41,0.299,0.0806,nn,nn00880809,2024-07-12T11:04:14.671Z,"9 km SSE of Sierraville, California",earthquake,,15.5,0.5,3,automatic,nn,nn
 2024-07-12T10:58:34.320Z,19.4391670227051,-155.197326660156,6.88000011444092,1.9,ml,9,172,0.08674,0.0599999987,hv,hv74330086,2024-07-12T11:01:14.620Z,"3 km E of Volcano, Hawaii",earthquake,4.2,7.03999996,0.96,5,automatic,hv,hv
 2024-07-12T10:42:26.230Z,19.2638339996338,-155.402496337891,30.7600002288818,2.20000005,md,45,123,0.071,0.159999996,hv,hv74330056,2024-07-12T10:44:18.260Z,"10 km NE of Pāhala, Hawaii",earthquake,0.44,0.600000024,0.180000007,10,automatic,hv,hv
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T08:59:40.180Z,33.1861667,-116.3241667,9.73,0.44,ml,32,72,0.0592,0.2,ci,ci40657439,2024-07-12T09:05:31.777Z,"9 km SSE of Borrego Springs, CA",earthquake,0.27,0.65,0.219,4,automatic,ci,ci
 2024-07-12T08:51:04.940Z,35.6756667,-117.5268333,8.94,0.71,ml,23,64,0.08462,0.15,ci,ci40657431,2024-07-12T08:56:55.034Z,"15 km ENE of Ridgecrest, CA",earthquake,0.24,0.57,0.111,7,automatic,ci,ci
 2024-07-12T08:45:28.973Z,31.32,-103.074,7.2197,1.8,ml,6,157,0,0.5,tx,tx2024nphk,2024-07-12T09:12:25.175Z,"8 km N of Coyanosa, Texas",earthquake,0,5.51215839322289,0.3,6,automatic,tx,tx
-2024-07-12T08:43:01.564Z,64.8242,-148.8089,15.6,0.7,ml,,,,0.54,ak,ak0248wza0jw,2024-07-12T08:44:29.393Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-12T08:43:01.564Z,64.8242,-148.8089,15.6,0.7,ml,,,,0.54,ak,ak0248wza0jw,2024-07-12T08:44:29.393Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-12T08:41:50.000Z,19.3773326873779,-155.221496582031,1.88999998569489,2.09,ml,32,52,0.006671,0.209999993,hv,hv74329856,2024-07-12T08:44:27.390Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.25999999,0.3,12,automatic,hv,hv
 2024-07-12T08:20:31.536Z,49.0205,-128.2873,10,4.8,mww,49,172,1.624,1.2,us,us7000mysw,2024-07-12T08:48:49.222Z,"174 km W of Tofino, Canada",earthquake,6.99,1.9,0.059,28,reviewed,us,us
 2024-07-12T08:14:03.780Z,38.8214988708496,-122.786834716797,0.970000028610229,0.72,md,13,88,0.01504,0.02,nc,nc75033967,2024-07-12T08:15:40.650Z,"6 km W of Cobb, CA",earthquake,0.3,0.519999981,0.08,15,automatic,nc,nc
@@ -210,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T12:08:10.330Z,44.7651666666667,-111.112833333333,7.9,0.58,ml,12,74,0.03133,0.16,uu,uu80075641,2024-07-11T13:21:00.540Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.46,0.89,0.416122121438153,2,reviewed,uu,uu
 2024-07-11T12:04:09.409Z,11.5257,-85.9578,187.497,4.6,mb,46,141,0.682,0.91,us,us7000myjw,2024-07-11T15:34:35.742Z,"7 km WNW of Belén, Nicaragua",earthquake,7.99,5.131,0.058,90,reviewed,us,us
 2024-07-11T12:01:51.660Z,46.0453333333333,-111.404,9.21,1.44,ml,17,67,0.1712,0.08,mb,mb90056508,2024-07-11T20:45:06.980Z,"3 km WNW of Ponderosa Pines, Montana",earthquake,0.26,0.71,0.23715871094128,12,reviewed,mb,mb
-2024-07-11T11:52:14.210Z,51.784,-178.804333333333,6.28,0.45,ml,5,119,0.03019,0.24,av,av93193431,2024-07-11T21:24:46.950Z,"149 km W of Adak, Alaska",earthquake,0.98,1.48,0.115545699022185,5,reviewed,av,av
-2024-07-11T11:51:34.330Z,19.0958333333333,-155.67,0.61,1.49,md,28,133,0.1013,0.18,hv,hv74327606,2024-07-11T18:05:11.070Z,"6 km WNW of Wai‘ōhinu, Hawaii",earthquake,0.37,0.49,0.100050066564695,14,reviewed,hv,hv
-2024-07-11T11:50:53.720Z,19.3701666666667,-155.213333333333,2.16,0.89,md,26,105,0.00414,0.11,hv,hv74327601,2024-07-12T02:33:32.250Z,"8 km SSE of Volcano, Hawaii",earthquake,0.28,0.23,0.0760492973820179,5,reviewed,hv,hv
