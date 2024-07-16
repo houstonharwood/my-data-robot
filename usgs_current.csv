@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-16T05:09:45.660Z,33.6474991,-116.7131653,14.85,1.14,ml,12,91,0.06351,0.08,ci,ci40660751,2024-07-16T05:11:49.053Z,"10 km S of Idyllwild, CA",earthquake,0.48,0.82,0.377,9,automatic,ci,ci
+2024-07-16T04:53:44.507Z,57.6057,-156.4574,114.4,1.8,ml,,,,0.42,ak,ak02493j3wlg,2024-07-16T05:02:02.502Z,"57 km E of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-16T04:51:41.511Z,62.9494,-150.7539,92.8,1.1,ml,,,,0.52,ak,ak02493j3gx3,2024-07-16T04:53:35.377Z,"50 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-07-16T04:49:57.750Z,19.3980007171631,-155.283172607422,1.11000001430511,1.80999994,md,10,81,0.009369,0.170000002,hv,hv74336527,2024-07-16T04:52:09.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.389999986,0.0799999982,7,automatic,hv,hv
 2024-07-16T04:40:54.714Z,61.4518,-150.1606,31.2,1.2,ml,,,,0.74,ak,ak02493j1527,2024-07-16T04:43:16.130Z,"13 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -243,7 +245,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T08:15:49.644Z,-4.0292,142.9846,43.447,5.2,mb,71,46,2.73,0.77,us,us7000mzax,2024-07-15T20:43:22.719Z,"27 km NE of Ambunti, Papua New Guinea",earthquake,7.79,5.441,0.057,102,reviewed,us,us
 2024-07-15T07:58:35.360Z,33.0303333,-116.0136667,4.93,0.99,ml,51,46,0.1459,0.23,ci,ci40659543,2024-07-15T13:44:20.290Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.21,0.89,0.141,19,reviewed,ci,ci
 2024-07-15T07:55:18.450Z,54.7361666666667,-164.115666666667,3.45,0.9,ml,7,194,0.07377,0.13,av,av93015404,2024-07-15T21:47:49.430Z,"47 km WSW of False Pass, Alaska",earthquake,0.58,0.78,0.399344297709327,7,reviewed,av,av
-2024-07-15T07:53:54.366Z,41.6477,-88.7058,9.785,3.4,mb_lg,55,21,0.561,0.44,us,us7000mzav,2024-07-16T04:07:50.793Z,"2 km NW of Somonauk, Illinois",earthquake,2.14,6.833,0.04,161,reviewed,us,us
+2024-07-15T07:53:54.366Z,41.6477,-88.7058,9.785,3.4,mb_lg,55,21,0.561,0.44,us,us7000mzav,2024-07-16T05:11:56.829Z,"2 km NW of Somonauk, Illinois",earthquake,2.14,6.833,0.04,161,reviewed,us,us
 2024-07-15T07:52:19.720Z,36.0601667,-117.7175,1.77,1.05,ml,22,90,0.05211,0.14,ci,ci40659535,2024-07-15T13:43:53.100Z,"21 km E of Coso Junction, CA",earthquake,0.19,0.2,0.114,13,reviewed,ci,ci
 2024-07-15T07:46:54.110Z,32.6723333,-115.7175,7.1,1.35,ml,30,62,0.02413,0.2,ci,ci40659527,2024-07-15T07:58:52.803Z,"16 km NW of Progreso, B.C., MX",earthquake,0.24,0.54,0.158,19,automatic,ci,ci
 2024-07-15T07:45:35.530Z,17.9356666666667,-66.831,16.95,2.54,md,6,217,0.08236,0.1,pr,pr71455433,2024-07-15T08:00:27.160Z,"6 km S of Indios, Puerto Rico",earthquake,0.69,0.55,0.256602742395504,3,reviewed,pr,pr
@@ -276,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T05:34:33.435Z,37.0046,-116.3862,8.7,0.4,ml,22,59.35000000000002,0.019,0.1274,nn,nn00880927,2024-07-15T15:48:58.707Z,"34 km ENE of Beatty, Nevada",earthquake,,1,0.57,6,reviewed,nn,nn
 2024-07-15T05:28:56.830Z,33.4195,-116.6145,7.68,0.62,ml,45,38,0.0757,0.16,ci,ci40659447,2024-07-15T13:45:29.050Z,"15 km N of Warner Springs, CA",earthquake,0.14,0.51,0.177,20,reviewed,ci,ci
 2024-07-15T05:19:19.720Z,51.6593333333333,-177.150666666667,11.18,0.57,ml,5,325,0.1151,0.05,av,av93015394,2024-07-15T21:24:04.510Z,"42 km SW of Adak, Alaska",earthquake,1.68,1.83,0.268534214892589,5,reviewed,av,av
-2024-07-15T05:06:58.650Z,59.9993333333333,-153.07,2.41,-0.83,ml,4,125,0.03097,0.02,av,av93197281,2024-07-15T21:11:22.850Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.34,1.04,0.217884575366253,4,reviewed,av,av
-2024-07-15T04:59:45.540Z,33.8091667,-116.9045,13.66,1.12,ml,65,27,0.05279,0.19,ci,ci40659431,2024-07-15T05:10:34.150Z,"6 km ENE of San Jacinto, CA",earthquake,0.15,0.41,0.211,27,automatic,ci,ci
