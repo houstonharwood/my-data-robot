@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-18T22:51:41.130Z,33.2685013,-116.4318314,6.36,1.16,ml,33,41,0.0123,0.2,ci,ci40663999,2024-07-18T22:53:45.551Z,"6 km WNW of Borrego Springs, CA",earthquake,0.35,0.71,0.307,11,automatic,ci,ci
 2024-07-18T22:47:00.770Z,38.8226661682129,-122.841499328613,1.86000001430511,0.86,md,18,71,0.005073,0.01,nc,nc75036672,2024-07-18T22:48:38.209Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.24,19,automatic,nc,nc
 2024-07-18T22:25:06.456Z,61.6825,-149.7801,42.5,1.8,ml,,,,0.25,ak,ak024974qbh1,2024-07-18T22:26:44.074Z,"6 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-18T22:17:40.721Z,60.7968,-150.5176,44.3,1.3,ml,,,,0.68,ak,ak024974ooe0,2024-07-18T22:19:46.732Z,"16 km SSE of Point Possession, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -134,6 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T07:50:30.890Z,33.1961667,-116.3826667,11.46,1.38,ml,76,21,0.07744,0.18,ci,ci40663183,2024-07-18T14:14:52.610Z,"7 km S of Borrego Springs, CA",earthquake,0.13,0.27,0.138,26,reviewed,ci,ci
 2024-07-18T07:49:52.340Z,52.104,-174.272166666667,9.69,0.64,ml,7,331,0.108,0.04,av,av93201441,2024-07-18T22:48:35.370Z,"11 km SSW of Atka, Alaska",earthquake,0.81,0.28,0.322569501946601,8,reviewed,av,av
 2024-07-18T07:45:15.260Z,19.4021666666667,-155.269,0.14,1.65,ml,28,43,0.004805,0.09,hv,hv74342121,2024-07-18T17:43:15.000Z,"5 km SW of Volcano, Hawaii",earthquake,0.1,0.12,0.190349772974558,9,reviewed,hv,hv
+2024-07-18T07:43:35.490Z,51.7915,-178.906833333333,7.68,1.12,ml,10,260,0.03418,0.13,av,av93201421,2024-07-18T22:51:40.260Z,"156 km W of Adak, Alaska",earthquake,0.78,0.31,0.296062342811923,11,reviewed,av,av
 2024-07-18T07:31:16.629Z,59.8027,-152.2039,71.6,1.2,ml,,,,0.38,ak,ak02496vu4ha,2024-07-18T08:06:44.831Z,"21 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-18T07:30:28.070Z,38.8400001525879,-122.824165344238,1.88999998569489,0.62,md,10,67,0.008953,0.01,nc,nc75036427,2024-07-18T07:32:05.236Z,"9 km WNW of Cobb, CA",earthquake,0.45,0.949999988,0.37,12,automatic,nc,nc
 2024-07-18T07:22:40.720Z,51.7341666666667,-178.798833333333,7.21,0.65,ml,5,288,0.03078,0.23,av,av93201406,2024-07-18T20:07:35.440Z,"150 km W of Adak, Alaska",earthquake,1.07,1.37,0.279977220988254,5,reviewed,av,av
@@ -197,7 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T02:21:55.900Z,32.9855,-116.3155,8.7,0.64,ml,31,64,0.03246,0.19,ci,ci40663007,2024-07-18T14:15:39.754Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.46,0.102,8,reviewed,ci,ci
 2024-07-18T02:21:31.620Z,58.2413333333333,-155.117666666667,31.19,0.77,ml,11,184,0.09273,0.27,av,av93015784,2024-07-18T20:58:28.060Z,"84 km NNW of Karluk, Alaska",earthquake,1.15,1.07,0.314670051281651,12,reviewed,av,av
 2024-07-18T02:19:40.560Z,36.4595,-98.79833333,6.25,1.17,ml,37,90,0.009898057663,0.16,ok,ok2024nztr,2024-07-18T03:49:10.602Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.23,14,reviewed,ok,ok
-2024-07-18T02:07:56.820Z,33.1693333,-116.105,10.82,0.8,ml,29,55,0.05449,0.18,ci,ci40662991,2024-07-18T19:17:27.059Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.24,0.49,0.186,13,reviewed,ci,ci
+2024-07-18T02:07:56.910Z,33.1705,-116.107,10.6,0.83,ml,42,40,0.05317,0.22,ci,ci40662991,2024-07-18T19:17:26.520Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.2,0.51,0.217,16,automatic,ci,ci
 2024-07-18T02:03:47.610Z,19.4004993438721,-155.290328979492,0.0799999982118607,2.25999999,md,13,56,0.01098,0.180000007,hv,hv74341696,2024-07-18T02:05:13.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.25999999,0.140000001,7,automatic,hv,hv
 2024-07-18T01:31:11.230Z,46.21933333333333,-122.18116666666667,6.72,0.07,ml,7,140,0.01937,0.06,uw,uw62017647,2024-07-18T19:17:09.260Z,"38 km S of Morton, Washington",earthquake,0.35,0.54,0.07242293861578486,3,reviewed,uw,uw
 2024-07-18T01:24:32.880Z,33.1973333,-116.3951667,12.01,2.65,ml,102,15,0.07304,0.2,ci,ci40662967,2024-07-18T19:12:53.770Z,"7 km SSW of Borrego Springs, CA",earthquake,0.11,0.43,0.153,26,reviewed,ci,ci
