@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-21T15:34:44.530Z,38.8358345031738,-122.764663696289,0.759999990463257,0.71,md,9,161,0.006745,0.03,nc,nc75037632,2024-07-21T15:36:20.585Z,"4 km NW of Cobb, CA",earthquake,0.38,0.460000008,0.26,10,automatic,nc,nc
 2024-07-21T15:30:37.540Z,37.1785011291504,-121.626335144043,4.34999990463257,1.31,md,11,81,0.01501,0.05,nc,nc75037627,2024-07-21T15:32:14.371Z,"6 km NE of Morgan Hill, CA",earthquake,0.37,0.49000001,0.06,10,automatic,nc,nc
-2024-07-21T15:24:42.900Z,34.0603333,-117.0011673,18.33,1.02,ml,15,76,0.06352,0.1,ci,ci40666543,2024-07-21T15:26:55.220Z,"5 km NE of Yucaipa, CA",earthquake,0.5,0.82,0.097,2,automatic,ci,ci
+2024-07-21T15:24:43.000Z,34.0603333,-116.9991667,17.13,0.95,ml,29,58,0.06211,0.16,ci,ci40666543,2024-07-21T15:38:27.279Z,"5 km NE of Yucaipa, CA",earthquake,0.26,0.63,0.202,23,automatic,ci,ci
 2024-07-21T15:17:26.418Z,37.2321,-116.0246,6,0.3,ml,8,171.92000000000002,0.084,0.0849,nn,nn00881273,2024-07-21T15:19:40.721Z,"52 km SSW of Rachel, Nevada",earthquake,,1.3,0.54,5,automatic,nn,nn
 2024-07-21T15:00:31.028Z,61.4535,-146.3385,32,0.9,ml,,,,0.41,ak,ak0249bz10pq,2024-07-21T15:02:17.266Z,"35 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-21T15:00:23.390Z,19.3943328857422,-155.269165039062,0.0599999986588955,1.71000004,md,8,213,0.004351,0.140000001,hv,hv74349601,2024-07-21T15:01:46.020Z,"6 km SW of Volcano, Hawaii",earthquake,0.58,0.209999993,0.0900000036,4,automatic,hv,hv
@@ -42,8 +43,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T11:53:21.070Z,48.520668029785156,-122.62733459472656,17.3099994659424,1.62,md,25,52,,0.0799999982,uw,uw62026871,2024-07-21T11:55:59.210Z,"1 km NW of Anacortes, Washington",earthquake,0.31,0.639999986,1.61000001,2,automatic,uw,uw
 2024-07-21T11:44:52.560Z,33.5955,-116.6586667,15.81,0.23,ml,8,195,0.03711,0.03,ci,ci40666447,2024-07-21T14:14:55.857Z,"5 km NNE of Anza, CA",earthquake,0.92,0.39,0.123,4,reviewed,ci,ci
 2024-07-21T11:43:56.769Z,62.2357,-150.2646,22.7,0.8,ml,,,,0.13,ak,ak0249bwwk2k,2024-07-21T11:45:51.640Z,"9 km S of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-21T11:34:36.580Z,39.1377,-120.0415,11.3,0.2,ml,8,91.20000000000002,0.096,0.1538,nn,nn00881276,2024-07-21T15:39:01.975Z,"7 km SE of Dollar Point, California",earthquake,,3.5,0.43,3,reviewed,nn,nn
 2024-07-21T11:34:14.497Z,60.0261,-151.5941,31.5,2.1,ml,,,,0.61,ak,ak0249bwujd5,2024-07-21T11:35:58.113Z,"4 km ESE of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-21T11:31:14.950Z,33.261,-116.4168333,3.74,0.38,ml,31,75,0.007186,0.18,ci,ci40666439,2024-07-21T14:15:12.539Z,"4 km W of Borrego Springs, CA",earthquake,0.2,0.17,0.051,4,reviewed,ci,ci
+2024-07-21T11:29:57.676Z,39.1346,-120.0303,9.5,0.3,ml,9,85.18000000000004,0.104,0.1418,nn,nn00881275,2024-07-21T15:38:59.936Z,"8 km SE of Dollar Point, California",earthquake,,2.1,0.5,6,reviewed,nn,nn
 2024-07-21T11:20:20.890Z,39.1399,-120.0255,9.1,0.5,ml,9,159.41,0.103,0.1333,nn,nn00881246,2024-07-21T11:22:49.340Z,"8 km SE of Dollar Point, California",earthquake,,0.7,0.49,6,automatic,nn,nn
 2024-07-21T11:12:27.170Z,37.9129981994629,-122.289169311523,3.73000001907349,1.14,md,11,71,0.04764,0.04,nc,nc75037587,2024-07-21T13:14:23.338Z,"1 km WNW of Kensington, CA",earthquake,0.29,1.38,0.1,8,automatic,nc,nc
 2024-07-21T11:03:39.083Z,60.2419,-141.5962,0.5,1.5,ml,,,,0.52,ak,ak0249bwny2c,2024-07-21T11:05:49.922Z,"130 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -226,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T16:45:10.625Z,67.229,-164.4528,0,2.7,ml,,,,0.69,ak,ak0249accph2,2024-07-20T19:28:08.040Z,"55 km S of Kivalina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-20T16:39:48.210Z,33.6543333,-116.7245,14.96,0.92,ml,44,55,0.04471,0.13,ci,ci40665823,2024-07-21T14:19:38.850Z,"10 km S of Idyllwild, CA",earthquake,0.16,0.25,0.18,27,reviewed,ci,ci
 2024-07-20T16:00:48.969Z,39.1281,-120.0373,9.2,0.1,ml,7,89.44,0.105,0.1409,nn,nn00881206,2024-07-20T18:23:06.684Z,"8 km SE of Dollar Point, California",earthquake,,2.9,0.25,4,reviewed,nn,nn
-2024-07-20T15:39:33.884Z,65.4951,-149.3607,0,0.9,ml,,,,0.33,ak,ak0249abq1d8,2024-07-20T15:41:06.958Z,"37 km E of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-07-20T15:38:06.809Z,34.9116,23.3821,8.102,4.5,mb,146,58,1.292,0.84,us,us7000n0hk,2024-07-20T18:43:44.040Z,"44 km SW of Palaióchora, Greece",earthquake,7.43,4.765,0.05,124,reviewed,us,us
