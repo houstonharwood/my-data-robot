@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-01T15:07:25.520Z,33.7671667,-116.1125,1.98,1.06,ml,41,44,0.09548,0.17,ci,ci40679471,2024-08-01T15:13:36.010Z,"11 km ENE of Indio, CA",earthquake,0.18,0.33,0.122,26,automatic,ci,ci
 2024-08-01T15:05:53.681Z,37.5815,-114.9658,14.1,1.7,ml,12,328,0.948,0.2906,nn,nn00881777,2024-08-01T15:08:21.970Z,"22 km E of Hiko, Nevada",earthquake,,2.6,0.06,8,automatic,nn,nn
+2024-08-01T14:51:23.853Z,37.2289,142.1867,30.898,4.5,mb,31,138,3.262,0.81,us,us6000nhd1,2024-08-01T15:29:41.040Z,"104 km E of Tomioka, Japan",earthquake,7.37,4.268,0.067,66,reviewed,us,us
 2024-08-01T14:35:12.534Z,-36.9594,-96.6228,10,5,mb,43,159,20.285,0.82,us,us6000nhcw,2024-08-01T14:50:35.040Z,"West Chile Rise",earthquake,15.32,1.919,0.055,107,reviewed,us,us
 2024-08-01T14:23:57.220Z,35.7785,-117.6141667,10.66,2.09,ml,17,65,0.1261,0.15,ci,ci40679367,2024-08-01T14:30:53.749Z,"18 km NNE of Ridgecrest, CA",earthquake,0.28,0.69,0.722,9,automatic,ci,ci
 2024-08-01T14:19:44.533Z,64.5775,-149.2331,12.7,1.1,ml,,,,0.31,ak,ak0249u5gi6t,2024-08-01T14:21:21.185Z,"6 km WSW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -226,6 +227,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T18:12:48.560Z,38.4835,-112.898333333333,2.87,1.23,md,19,84,0.005659,0.14,uu,uu80076971,2024-07-31T20:16:46.510Z,"13 km NE of Milford, Utah",earthquake,0.3,0.49,0.542495289429149,9,reviewed,uu,uu
 2024-07-31T18:11:11.090Z,38.84716796875,-122.78133392334,11.6099996566772,0.26,md,8,196,0.00597,0.05,nc,nc75041922,2024-07-31T18:44:24.595Z,"6 km NW of Cobb, CA",earthquake,2.58,8.36999989,0.11,9,automatic,nc,nc
 2024-07-31T18:02:00.781Z,62.066,-148.2368,36.7,1.3,ml,,,,0.74,ak,ak0249sk75ke,2024-07-31T18:03:53.214Z,"32 km NNE of Chickaloon, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-07-31T17:59:33.429Z,35.2585,-95.3615,1.83,1.48,ml,43,77,0.1043795172,0.24,ok,ok2024oysg,2024-08-01T15:35:52.435Z,"11 km W of Whitefield, Oklahoma",earthquake,,1.4,0.26,16,reviewed,ok,ok
 2024-07-31T17:55:45.640Z,38.8190002441406,-122.814834594727,3.23000001907349,0.75,md,7,116,0.005752,0.01,nc,nc75041912,2024-07-31T19:52:16.051Z,"7 km NW of The Geysers, CA",earthquake,0.74,1.88999999,0.12,8,automatic,nc,nc
 2024-07-31T17:52:57.550Z,53.872,-166.651333333333,8.68,-0.36,ml,8,117,0.02304,0.18,av,av93217036,2024-07-31T23:34:43.880Z,"7 km WSW of Dutch Harbor, Alaska",earthquake,0.47,1,0.249462261213268,8,reviewed,av,av
 2024-07-31T17:48:41.378Z,57.2224,-154.971,30.5,2.3,ml,,,,0.43,ak,ak0249sjvo15,2024-07-31T18:50:08.040Z,"49 km SW of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
@@ -247,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T15:47:54.300Z,19.1513328552246,-155.309173583984,7.76999998092651,2.24000001,md,11,222,0.1442,0.129999995,hv,hv74376661,2024-07-31T15:49:36.980Z,"18 km ESE of Pāhala, Hawaii",earthquake,1.38,2.02999997,0.0500000007,3,automatic,hv,hv
 2024-07-31T15:47:47.370Z,19.2056674957275,-155.334671020508,41.5999984741211,2.33,ml,61,168,0.06729,0.129999995,hv,hv74376656,2024-07-31T15:50:25.360Z,"15 km E of Pāhala, Hawaii",earthquake,0.52,0.479999989,0.41,30,automatic,hv,hv
 2024-07-31T15:39:16.050Z,53.876,-166.6445,8.54,0.49,ml,11,113,0.0253,0.16,av,av93216951,2024-07-31T23:27:16.150Z,"6 km WSW of Dutch Harbor, Alaska",earthquake,0.39,0.43,0.345322469732333,11,reviewed,av,av
-2024-07-31T15:31:24.420Z,38.820499420166,-122.78783416748,1.69000005722046,0.57,md,8,87,0.009136,0.02,nc,nc75041877,2024-07-31T15:52:15.388Z,"6 km NNW of The Geysers, CA",earthquake,0.57,1.28999996,0.24,10,automatic,nc,nc
