@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-02T22:29:11.760Z,32.5556679,-115.2440033,18.32,2.09,ml,16,50,0.1566,0.26,ci,ci40860160,2024-08-02T22:31:16.126Z,"10 km E of Puebla, B.C., MX",earthquake,0.57,1.71,0.282,24,automatic,ci,ci
+2024-08-02T22:23:05.000Z,8.3,127.1,52,7,Mi,28,53.999995680000346,1.678951,1.41,at,at00shm3ih,2024-08-02T22:32:53.541Z,"74 km ENE of Barcelona, Philippines",earthquake,0,0,,14,reviewed,at,at
 2024-08-02T22:15:07.942Z,60.7818,-150.5692,44.2,1.4,ml,,,,0.57,ak,ak0249vxqdu2,2024-08-02T22:18:40.454Z,"17 km SSE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-02T22:03:23.160Z,19.3938331604004,-155.251663208008,1.45000004768372,2.31,ml,30,48,0.008286,0.219999999,hv,hv74380751,2024-08-02T22:06:00.920Z,"5 km SSW of Volcano, Hawaii",earthquake,0.2,0.170000002,0.38,20,automatic,hv,hv
 2024-08-02T21:51:44.255Z,61.7025,-149.4835,35,1.1,ml,,,,0.46,ak,ak0249vxcqt5,2024-08-02T21:54:11.187Z,"8 km NNW of Tanaina, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T19:11:19.730Z,41.5261666666667,-111.734333333333,11.39,1.54,ml,20,70,0.1814,0.17,uu,uu80077356,2024-08-02T22:09:32.890Z,"6 km E of Avon, Utah",earthquake,0.32,0.59,0.156959534610367,3,reviewed,uu,uu
 2024-08-02T19:07:46.499Z,-8.2438,156.4017,4.343,5,mb,79,53,3.7,0.69,us,us6000nhnm,2024-08-02T19:25:43.040Z,"50 km WSW of Gizo, Solomon Islands",earthquake,8.06,4.532,0.064,82,reviewed,us,us
 2024-08-02T19:01:10.481Z,37.2296,-117.6905,12.8,0.9,ml,9,184.90000000000003,0.036,0.1126,nn,nn00881835,2024-08-02T21:08:22.603Z,"53 km E of Big Pine, California",earthquake,,1,0.09,3,reviewed,nn,nn
-2024-08-02T18:55:00.960Z,33.2286667,-116.0453333,3.55,1.55,ml,51,58,0.07152,0.18,ci,ci40859616,2024-08-02T22:24:58.087Z,"11 km SW of Salton City, CA",earthquake,0.14,0.35,0.15,23,reviewed,ci,ci
+2024-08-02T18:55:00.960Z,33.2286667,-116.0453333,3.55,1.55,ml,51,58,0.07152,0.18,ci,ci40859616,2024-08-02T22:25:19.870Z,"11 km SW of Salton City, CA",earthquake,0.14,0.35,0.15,23,reviewed,ci,ci
 2024-08-02T18:51:46.752Z,31.618,-104.114,6.2665,2.7,ml,54,53,0,0.2,tx,tx2024pcla,2024-08-02T19:03:43.850Z,"45 km NW of Toyah, Texas",earthquake,0.5009789382563198,0.4905940171557262,0.1,22,reviewed,tx,tx
 2024-08-02T18:42:15.350Z,33.2295,-116.045,3.62,2.61,ml,78,23,0.07073,0.18,ci,ci40859592,2024-08-02T22:19:09.340Z,"11 km SW of Salton City, CA",earthquake,0.12,0.31,0.154,24,reviewed,ci,ci
 2024-08-02T18:39:58.660Z,33.2255,-116.0438333,3.62,3.44,ml,97,20,0.07298,0.19,ci,ci40859584,2024-08-02T22:03:32.300Z,"12 km SW of Salton City, CA",earthquake,0.11,0.33,0.13,299,reviewed,ci,ci
@@ -150,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T08:55:46.420Z,36.4693333333333,-89.5523333333333,9.26,1.77,md,26,54,0.06398,0.03,nm,nm60588451,2024-08-02T13:13:31.410Z,"7 km SE of Marston, Missouri",earthquake,0.59,0.77,0.150599278061205,18,reviewed,nm,nm
 2024-08-02T08:44:29.780Z,33.5763333,-116.5968333,13.91,0.36,ml,24,68,0.02782,0.1,ci,ci40858800,2024-08-02T17:43:58.648Z,"8 km ENE of Anza, CA",earthquake,0.2,0.3,0.24,8,reviewed,ci,ci
 2024-08-02T08:34:35.830Z,55.3671666666667,-162.004166666667,25.72,0.38,ml,6,250,0.06601,0.14,av,av93218571,2024-08-02T22:07:23.550Z,"39 km NNE of King Cove, Alaska",earthquake,1.45,0.96,0.374873119598545,6,reviewed,av,av
+2024-08-02T08:34:03.180Z,52.0618333333333,-176.159,7.95,-0.47,ml,5,167,0.01056,0.31,av,av93017329,2024-08-02T22:26:25.550Z,"38 km ENE of Adak, Alaska",earthquake,2.23,2.44,0.332056471423886,5,reviewed,av,av
 2024-08-02T08:32:00.980Z,54.5386666666667,-164.719333333333,11.3,0.13,ml,4,156,0.04645,0.26,av,av93218561,2024-08-02T21:53:01.010Z,"82 km ENE of Akutan, Alaska",earthquake,1.18,2.28,0.264842366715311,4,reviewed,av,av
 2024-08-02T08:26:38.948Z,65.4431,-148.2255,3.7,1.2,ml,,,,0.67,ak,ak0249vpgqmu,2024-08-02T08:28:48.146Z,"17 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-02T08:24:15.200Z,32.903,-117.28,15.17,0.95,ml,27,183,0.1165,0.15,ci,ci40858792,2024-08-02T18:04:30.736Z,"6 km N of La Jolla, CA",earthquake,0.34,0.37,0.108,17,reviewed,ci,ci
@@ -262,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T22:38:41.090Z,38.4793333333333,-112.897166666667,2.65,0.92,md,13,86,0.00722,0.13,uu,uu80077286,2024-08-02T17:34:31.720Z,"13 km NE of Milford, Utah",earthquake,0.33,0.7,0.211132155182481,4,reviewed,uu,uu
 2024-08-01T22:36:00.938Z,64.985,-151.1285,17.7,1.5,ml,,,,0.81,ak,ak0249uabiu5,2024-08-01T22:37:42.479Z,"23 km W of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-01T22:35:26.820Z,34.1701667,-116.931,5.77,1.12,ml,30,74,0.07653,0.13,ci,ci40858336,2024-08-01T22:41:37.733Z,"8 km SSW of Big Bear Lake, CA",earthquake,0.19,0.36,0.251,26,automatic,ci,ci
-2024-08-01T22:25:13.339Z,58.4929,-152.6454,43.7,1.6,ml,,,,0.15,ak,ak0249ua96x1,2024-08-01T22:26:56.380Z,"50 km NNE of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
