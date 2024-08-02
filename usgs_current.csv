@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-02T21:05:35.870Z,35.87,-120.42,6.38,1.06,md,9,140,0.02444,0.03,nc,nc75042842,2024-08-02T21:07:10.895Z,"3 km S of Parkfield, CA",earthquake,0.55,0.74000001,0.18,4,automatic,nc,nc
-2024-08-02T21:04:22.760Z,38.82,-122.81,2.52,1.35,md,30,38,0.002875,0.02,nc,nc75042837,2024-08-02T21:07:43.750Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,32,automatic,nc,nc
+2024-08-02T21:04:22.760Z,38.82,-122.81,2.52,1.35,md,30,38,0.002875,0.02,nc,nc75042837,2024-08-02T21:39:25.463Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,32,automatic,nc,nc
 2024-08-02T21:00:42.222Z,63.2574,-150.5777,118.3,1.4,ml,,,,0.43,ak,ak0249vx1t4u,2024-08-02T21:02:46.299Z,"65 km ESE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-08-02T20:52:35.950Z,61.0692,-148.4965,0.6,1.6,ml,,,,0.97,ak,ak0249vwria3,2024-08-02T20:55:02.455Z,"34 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-02T20:50:07.320Z,33.2308333,-116.0411667,3.26,0.93,ml,37,74,0.06755,0.2,ci,ci40860016,2024-08-02T20:56:05.992Z,"11 km SW of Salton City, CA",earthquake,0.18,0.3,0.101,21,automatic,ci,ci
@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T19:41:40.940Z,33.2301667,-116.042,3.39,1.64,ml,63,53,0.06851,0.21,ci,ci40859832,2024-08-02T20:07:19.060Z,"11 km SW of Salton City, CA",earthquake,0.15,0.37,0.171,27,reviewed,ci,ci
 2024-08-02T19:38:40.590Z,38.56,-122.71,15.23,1.47,md,12,220,0.02192,0.15,nc,nc75042812,2024-08-02T21:34:26.428Z,"6 km NE of Larkfield-Wikiup, CA",earthquake,2.17,1.16999996,0.25,12,automatic,nc,nc
 2024-08-02T19:28:00.130Z,33.2301667,-116.0418333,3.55,1.38,ml,59,39,0.06841,0.21,ci,ci40859776,2024-08-02T20:08:24.630Z,"11 km SW of Salton City, CA",earthquake,0.14,0.34,0.118,27,reviewed,ci,ci
+2024-08-02T19:12:20.737Z,52.5603,-166.8957,3.5,3.6,ml,,,,2.52,ak,ak0249vvxgrn,2024-08-02T21:40:45.145Z,"139 km ESE of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-08-02T19:12:05.800Z,33.4958333,-116.4835,14,0.64,ml,29,63,0.05557,0.15,ci,ci40859688,2024-08-02T19:18:29.329Z,"19 km ESE of Anza, CA",earthquake,0.19,0.5,0.146,13,automatic,ci,ci
 2024-08-02T19:11:48.510Z,33.4943333,-116.4858333,13.38,0.75,ml,29,62,0.05801,0.15,ci,ci40859680,2024-08-02T20:07:27.452Z,"19 km ESE of Anza, CA",earthquake,0.21,0.43,0.188,24,reviewed,ci,ci
 2024-08-02T19:07:46.499Z,-8.2438,156.4017,4.343,5,mb,79,53,3.7,0.69,us,us6000nhnm,2024-08-02T19:25:43.040Z,"50 km WSW of Gizo, Solomon Islands",earthquake,8.06,4.532,0.064,82,reviewed,us,us
@@ -31,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T17:46:19.489Z,60.658,-147.042,48.8,1.4,ml,,,,1.44,ak,ak0249vuxvwc,2024-08-02T17:48:57.717Z,"30 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-02T17:45:15.690Z,35.375,-118.4828333,4.47,1.29,ml,27,60,0.2214,0.18,ci,ci40859472,2024-08-02T20:25:01.653Z,"24 km S of Bodfish, CA",earthquake,0.21,1.51,0.137,18,reviewed,ci,ci
 2024-08-02T17:34:50.407Z,60.8774,-146.663,25.1,1.5,ml,,,,0.59,ak,ak0249vuvdo0,2024-08-02T17:37:16.543Z,"1 km NNE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-02T17:34:04.996Z,59.0821,-151.21,19.1,2.3,ml,,,,0.78,ak,ak0249vuvb60,2024-08-02T21:36:55.484Z,"46 km SE of Port Graham, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2024-08-02T17:34:04.112Z,59.1197,-151.1931,31.4,2.4,ml,,,,0.56,ak,ak0249vuva2r,2024-08-02T19:10:09.040Z,"44 km SE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-02T17:31:52.686Z,31.519,-103.999,5.881,1.9,ml,16,68,0,0.4,tx,tx2024pcij,2024-08-02T17:52:41.237Z,"29 km NW of Toyah, Texas",earthquake,0,2.70839358531737,0.1,12,automatic,tx,tx
 2024-08-02T17:29:01.490Z,37.5626678466797,-121.702667236328,6.03000020980835,1.5,md,12,60,0.0937,0.14,nc,nc75042782,2024-08-02T19:47:15.706Z,"14 km SSE of Livermore, CA",earthquake,0.45,2.17000008,0.16,11,automatic,nc,nc
@@ -78,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T14:41:33.350Z,33.2303333,-116.0393333,4.43,0.77,ml,26,75,0.06687,0.18,ci,ci40859136,2024-08-02T19:18:32.161Z,"11 km SW of Salton City, CA",earthquake,0.26,0.69,0.179,13,reviewed,ci,ci
 2024-08-02T14:35:15.800Z,31.486,-115.6113333,8.4,1.52,ml,6,104,0.1751,0.11,ci,ci40859128,2024-08-02T19:11:22.590Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.31,1.38,0.069,2,reviewed,ci,ci
 2024-08-02T14:28:12.129Z,31.651,-104.464,6.2024,1.6,ml,19,72,0,0.1,tx,tx2024pcci,2024-08-02T17:37:51.908Z,"58 km S of Whites City, New Mexico",earthquake,1.3408679312476437,0.732243454531969,0.1,10,reviewed,tx,tx
-2024-08-02T14:18:57.035Z,44.6833,-86.9281,10.926,2.9,mb_lg,17,86,0.639,0.38,us,us6000nhkd,2024-08-02T21:30:12.793Z,"39 km ESE of Sturgeon Bay, Wisconsin",earthquake,2.7,8.461,0.055,85,reviewed,us,us
+2024-08-02T14:18:57.035Z,44.6833,-86.9281,10.926,2.9,mb_lg,17,86,0.639,0.38,us,us6000nhkd,2024-08-02T21:35:29.219Z,"39 km ESE of Sturgeon Bay, Wisconsin",earthquake,2.7,8.461,0.055,85,reviewed,us,us
 2024-08-02T14:16:04.590Z,32.6416667,-115.7781667,10.71,1.56,ml,15,192,0.04435,0.16,ci,ci37678540,2024-08-02T19:10:00.582Z,"19 km WNW of Progreso, B.C., MX",earthquake,0.51,0.37,0.176,12,reviewed,ci,ci
 2024-08-02T14:16:02.240Z,32.6706667,-115.758,11.57,1.38,ml,25,67,0.03412,0.24,ci,ci40859112,2024-08-02T19:05:13.729Z,"19 km WNW of Progreso, B.C., MX",earthquake,0.35,0.44,0.143,8,reviewed,ci,ci
 2024-08-02T14:12:21.168Z,31.614,-104.467,3.0905,2.5,ml,15,124,0.1,0.4,tx,tx2024pcbu,2024-08-02T14:27:19.417Z,"62 km S of Whites City, New Mexico",earthquake,0,1.99653713131985,0.1,13,automatic,tx,tx
