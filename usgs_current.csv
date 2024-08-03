@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T17:24:28.306Z,31.667,-104.365,6.0999,3.3,ml,16,69,0.1,0.2,tx,tx2024pedq,2024-08-03T17:40:33.074Z,"56 km S of Whites City, New Mexico",earthquake,1.1660373884128223,1.1658705409481258,0.1,11,reviewed,tx,tx
 2024-08-03T17:18:48.540Z,19.3824996948242,-155.183837890625,3.74000000953674,1.84,ml,28,73,0.01406,0.270000011,hv,hv74382881,2024-08-03T17:21:25.480Z,"8 km SE of Volcano, Hawaii",earthquake,0.63,1.42999995,0.42,17,automatic,hv,hv
 2024-08-03T17:01:30.220Z,19.2383327484131,-155.399993896484,30.2600002288818,1.98000002,md,32,116,0.002497,0.170000002,hv,hv74382856,2024-08-03T17:03:07.390Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.81,0.860000014,,3,automatic,hv,hv
-2024-08-03T16:54:23.577Z,31.655,-104.363,3.72,2.4,ml,16,70,0.1,0.3,tx,tx2024pect,2024-08-03T17:10:37.865Z,"57 km S of Whites City, New Mexico",earthquake,0,1.35004547183845,0.2,12,automatic,tx,tx
+2024-08-03T16:54:23.577Z,31.655,-104.363,3.72,2.4,ml,16,70,0.1,0.3,tx,tx2024pect,2024-08-03T19:01:40.040Z,"57 km S of Whites City, New Mexico",earthquake,0,1.35004547183845,0.2,12,automatic,tx,tx
 2024-08-03T16:50:25.260Z,33.4201667,-116.9155,6.2,1.06,ml,51,32,0.06157,0.21,ci,ci40860944,2024-08-03T16:56:46.241Z,"5 km WSW of Aguanga, CA",earthquake,0.17,0.53,0.121,26,automatic,ci,ci
 2024-08-03T16:50:06.045Z,31.661,-104.361,3.7419,2,ml,11,168,0.1,0.3,tx,tx2024pecn,2024-08-03T17:10:30.850Z,"57 km S of Whites City, New Mexico",earthquake,0,1.74001919735809,0.2,8,automatic,tx,tx
 2024-08-03T16:48:58.419Z,31.662,-104.366,8.4326,2.8,ml,18,69,0.1,0.3,tx,tx2024pecl,2024-08-03T17:04:26.040Z,"56 km S of Whites City, New Mexico",earthquake,1.4117538534814955,1.4284696235853929,0.2,10,reviewed,tx,tx
@@ -196,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T23:57:46.994Z,30.924,-103.598,4.4663,2,ml,13,80,0.2,0.5,tx,tx2024pcvc,2024-08-03T00:22:16.155Z,"15 km ESE of Balmorhea, Texas",earthquake,0,1.5076209228248,0.2,11,automatic,tx,tx
 2024-08-02T23:56:18.360Z,38.82,-122.81,4.22,0.32,md,8,90,0.003407,0.01,nc,nc75042872,2024-08-03T00:29:23.651Z,"7 km NW of The Geysers, CA",earthquake,0.89,3.27999997,0.21,10,automatic,nc,nc
 2024-08-02T23:51:56.020Z,53.8506666666667,-166.552333333333,11.92,-0.16,ml,7,283,0.08528,0.2,av,av93017394,2024-08-03T02:06:40.820Z,"2 km SSW of Unalaska, Alaska",earthquake,1.09,1.32,0.143288087946988,7,reviewed,av,av
-2024-08-02T23:51:32.819Z,49.3875,-119.5477,14.426,2.7,ml,20,174,0.083,0.91,us,us6000nhrv,2024-08-03T18:10:11.463Z,"4 km NNE of Okanagan Falls, Canada",earthquake,3.4,1.614,0.066,30,reviewed,us,us
+2024-08-02T23:51:32.819Z,49.3875,-119.5477,14.426,2.7,ml,20,174,0.083,0.91,us,us6000nhrv,2024-08-03T19:03:12.220Z,"4 km NNE of Okanagan Falls, Canada",earthquake,3.4,1.614,0.066,30,reviewed,us,us
 2024-08-02T23:49:54.296Z,30.962,-103.32,1.2026,1.6,ml,9,123,0,0.4,tx,tx2024pcuv,2024-08-03T00:22:12.153Z,"39 km SW of Coyanosa, Texas",earthquake,0,1.81751589772068,0.2,6,automatic,tx,tx
 2024-08-02T23:46:33.950Z,33.0186667,-116.4945,6.49,0.8,ml,33,72,0.08456,0.15,ci,ci40860200,2024-08-02T23:52:28.214Z,"12 km ESE of Julian, CA",earthquake,0.16,0.47,0.116,14,automatic,ci,ci
 2024-08-02T23:44:35.986Z,7.8806,126.6703,79.828,4.5,mb,35,110,1.349,0.54,us,us6000nhrw,2024-08-03T01:55:34.152Z,"24 km NE of Taytayan, Philippines",earthquake,9.63,3.221,0.099,30,reviewed,us,us
@@ -244,7 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T19:18:34.054Z,-29.6139,-69.0261,10,4.2,mb,15,127,0.996,1.34,us,us6000nhnq,2024-08-03T18:34:47.040Z,"74 km NNW of San José de Jáchal, Argentina",earthquake,3.98,1.919,0.305,4,reviewed,us,us
 2024-08-02T19:12:21.684Z,52.6053,-166.9058,10.517,4,mwr,82,134,1.01,0.95,us,us6000nhnr,2024-08-03T18:18:30.040Z,"137 km ESE of Nikolski, Alaska",earthquake,4.96,4.102,0.075,17,reviewed,us,us
 2024-08-02T19:12:05.750Z,33.494,-116.4831667,14.24,0.64,ml,20,63,0.05626,0.14,ci,ci40859688,2024-08-02T22:48:27.701Z,"19 km ESE of Anza, CA",earthquake,0.24,0.54,0.151,11,reviewed,ci,ci
-2024-08-02T19:11:48.510Z,33.4943333,-116.4858333,13.38,0.75,ml,29,62,0.05801,0.15,ci,ci40859680,2024-08-02T20:07:27.452Z,"19 km ESE of Anza, CA",earthquake,0.21,0.43,0.188,24,reviewed,ci,ci
-2024-08-02T19:11:19.730Z,41.5261666666667,-111.734333333333,11.39,1.54,ml,20,70,0.1814,0.17,uu,uu80077356,2024-08-02T22:09:32.890Z,"6 km E of Avon, Utah",earthquake,0.32,0.59,0.156959534610367,3,reviewed,uu,uu
-2024-08-02T19:07:47.501Z,-8.2492,156.384,10,5,mb,92,53,3.715,0.62,us,us6000nhnm,2024-08-03T17:17:12.040Z,"52 km WSW of Gizo, Solomon Islands",earthquake,8.08,1.795,0.06,90,reviewed,us,us
-2024-08-02T19:01:10.481Z,37.2296,-117.6905,12.8,0.9,ml,9,184.90000000000003,0.036,0.1126,nn,nn00881835,2024-08-02T21:08:22.603Z,"53 km E of Big Pine, California",earthquake,,1,0.09,3,reviewed,nn,nn
