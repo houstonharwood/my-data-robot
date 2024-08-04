@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-04T15:05:11.880Z,38.84,-122.81,2.31,0.78,md,8,112,0.01444,0.01,nc,nc75043487,2024-08-04T15:06:50.139Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.13999999,0.22,8,automatic,nc,nc
-2024-08-04T15:01:13.360Z,33.333168,-116.9215012,14.05,1.52,ml,23,53,0.05332,0.28,ci,ci40861792,2024-08-04T15:03:18.220Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.45,1.33,0.403,12,automatic,ci,ci
+2024-08-04T15:01:13.180Z,33.3388333,-116.9283333,15.97,0.7,ml,30,38,0.05692,0.14,ci,ci40861792,2024-08-04T15:07:53.249Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.18,0.45,0.138,12,automatic,ci,ci
 2024-08-04T14:53:12.217Z,59.8352,-152.0651,46.1,1.3,ml,,,,0.68,ak,ak0249z49rit,2024-08-04T14:55:45.671Z,"14 km WNW of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-08-04T14:35:26.100Z,38.82,-122.82,2.17,0.95,md,14,89,0.009355,0.01,nc,nc75043457,2024-08-04T14:52:14.673Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.569999993,0.21,16,automatic,nc,nc
 2024-08-04T14:32:36.050Z,19.3388328552246,-155.210327148438,4.25,1.74000001,md,38,70,0.03511,0.200000003,hv,hv74384386,2024-08-04T14:34:36.030Z,"11 km SSE of Volcano, Hawaii",earthquake,0.35,0.790000021,0.230000004,19,automatic,hv,hv
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T14:26:52.210Z,19.3703327178955,-155.170501708984,2.25999999046326,1.79,ml,27,132,0.009138,0.219999999,hv,hv74384376,2024-08-04T14:29:29.220Z,"10 km SE of Volcano, Hawaii",earthquake,0.88,0.660000026,0.22,3,automatic,hv,hv
 2024-08-04T14:24:42.140Z,33.2265,-116.0413333,3.55,1.02,ml,47,58,0.07084,0.24,ci,ci40861752,2024-08-04T14:30:44.422Z,"11 km SW of Salton City, CA",earthquake,0.18,0.43,0.185,26,automatic,ci,ci
 2024-08-04T14:10:38.503Z,65.4453,-148.2129,0.8,1.3,ml,,,,0.9,ak,ak0249z40lre,2024-08-04T14:13:26.852Z,"17 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-04T14:10:14.040Z,33.8176651,-118.7574997,0.56,2.97,ml,116,140,0.1908,0.3,ci,ci40861744,2024-08-04T15:01:17.382Z,"21 km SSE of Malibu, CA",earthquake,0.43,0.79,0.286,24,reviewed,ci,ci
+2024-08-04T14:10:14.040Z,33.8176651,-118.7574997,0.56,2.97,ml,116,140,0.1908,0.3,ci,ci40861744,2024-08-04T15:13:39.703Z,"21 km SSE of Malibu, CA",earthquake,0.43,0.79,0.286,24,reviewed,ci,ci
 2024-08-04T14:06:39.950Z,19.3649997711182,-155.170333862305,1.4099999666214,2.05,ml,37,80,0.0144,0.180000007,hv,hv74384356,2024-08-04T14:09:20.980Z,"10 km SE of Volcano, Hawaii",earthquake,0.46,0.400000006,0.15,11,automatic,hv,hv
 2024-08-04T14:06:17.549Z,60.8631,-150.8361,10.7,1.1,ml,,,,0.41,ak,ak0249z3zpa2,2024-08-04T14:08:10.011Z,"10 km SW of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-04T13:58:07.260Z,19.3791675567627,-155.248504638672,0.370000004768372,2.11,ml,23,75,0.006843,0.140000001,hv,hv74384351,2024-08-04T14:00:47.170Z,"7 km SSW of Volcano, Hawaii",earthquake,0.16,0.140000001,0.22,15,automatic,hv,hv
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T08:03:25.716Z,-3.7452,128.4129,128.29,4.5,mb,46,50,1.676,0.64,us,us6000ni0z,2024-08-04T08:23:33.040Z,"26 km ESE of Ambon, Indonesia",earthquake,3.99,7.289,0.099,30,reviewed,us,us
 2024-08-04T07:39:02.720Z,38.83,-122.81,1.4,0.78,md,16,48,0.004867,0.02,nc,nc75043337,2024-08-04T09:44:25.662Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.460000008,0.15,18,automatic,nc,nc
 2024-08-04T07:21:14.562Z,31.674,-104.187,4.1889,2.2,ml,18,75,0.1,0.3,tx,tx2024pfff,2024-08-04T07:59:01.052Z,"54 km NW of Toyah, Texas",earthquake,0,1.2194825440675,0.2,14,automatic,tx,tx
-2024-08-04T07:07:39.390Z,35.7453333,-117.5601667,2.18,1.27,ml,28,67,0.1268,0.13,ci,ci40861536,2024-08-04T07:19:53.764Z,"14 km W of Searles Valley, CA",earthquake,0.16,0.37,0.172,19,automatic,ci,ci
+2024-08-04T07:07:39.390Z,35.7453333,-117.5601667,2.18,1.27,ml,28,67,0.1268,0.13,ci,ci40861536,2024-08-04T15:22:16.915Z,"14 km W of Searles Valley, CA",earthquake,0.16,0.37,0.172,19,automatic,ci,ci
 2024-08-04T07:05:53.340Z,38.83,-122.79,1.57,0.78,md,13,49,0.00842,0.01,nc,nc75043322,2024-08-04T08:57:15.362Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.689999998,0.26,16,automatic,nc,nc
 2024-08-04T07:03:55.751Z,61.2306,-150.4408,43.5,1.3,ml,,,,0.75,ak,ak0249yzt3uf,2024-08-04T07:05:53.764Z,"28 km WSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-04T06:57:04.508Z,-3.7935,-78.5936,101.663,4.4,mb,33,158,1.865,0.74,us,us6000ni0m,2024-08-04T14:07:17.345Z,"19 km ENE of Yantzaza, Ecuador",earthquake,7.23,9.069,0.108,25,reviewed,us,us
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T15:38:23.144Z,61.1402,-147.4403,0.1,1.3,ml,,,,0.69,ak,ak0249xh8nqi,2024-08-03T15:40:20.072Z,"51 km NW of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-03T15:30:34.970Z,-19.2267,-177.6768,532.479,4.2,mb,81,72,3.022,0.69,us,us6000nhx7,2024-08-03T15:50:18.040Z,"Fiji region",earthquake,13.08,8.654,0.051,115,reviewed,us,us
 2024-08-03T15:27:10.500Z,18.9866666666667,-65.1273333333333,17.49,3.17,md,8,249,0.6513,0.15,pr,pr71456908,2024-08-03T16:13:15.340Z,"74 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.32,3.08,0.0748028895464383,3,reviewed,pr,pr
-2024-08-03T15:20:39.060Z,38.83,-122.79,1.87,0.76,md,15,50,0.005809,0.02,nc,nc75043102,2024-08-03T16:34:25.014Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.49000001,0.17,15,automatic,nc,nc
-2024-08-03T15:14:05.784Z,62.4267,-148.4769,27.7,1.4,ml,,,,1.03,ak,ak0249xh3h75,2024-08-03T15:17:03.589Z,"70 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-03T15:14:02.415Z,60.1975,-151.0878,55.6,1.3,ml,,,,0.18,ak,ak0249xh3c4j,2024-08-03T19:42:46.090Z,"17 km ESE of Clam Gulch, Alaska",earthquake,,0.9,,,reviewed,ak,ak
