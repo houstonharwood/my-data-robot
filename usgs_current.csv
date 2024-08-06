@@ -1,12 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-06T13:47:33.040Z,19.3791675567627,-155.167663574219,2.70000004768372,1.99,ml,9,179,0.001567,0.170000002,hv,hv74387776,2024-08-06T13:50:10.310Z,"9 km SE of Volcano, Hawaii",earthquake,1.46,0.550000012,0.18,3,automatic,hv,hv
+2024-08-06T13:46:57.580Z,19.1523342132568,-155.472503662109,31.6700000762939,2.27,ml,54,156,0.01029,0.129999995,hv,hv74387766,2024-08-06T13:49:35.060Z,"5 km S of Pāhala, Hawaii",earthquake,0.44,0.560000002,0.94,6,automatic,hv,hv
+2024-08-06T13:43:20.540Z,33.5373333,-116.5518333,14.66,0.63,ml,28,33,0.02659,0.12,ci,ci40864144,2024-08-06T13:53:44.458Z,"12 km E of Anza, CA",earthquake,0.21,0.28,0.158,15,reviewed,ci,ci
 2024-08-06T13:42:48.583Z,60.6424,-151.8302,97.7,1.8,ml,,,,0.35,ak,ak024a2eoqu2,2024-08-06T13:45:26.819Z,"28 km W of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-08-06T13:36:16.650Z,36.68,-121.36,1.2,1.69,md,15,82,0.02967,0.1,nc,nc75044302,2024-08-06T13:37:55.015Z,"13 km SSW of Tres Pinos, CA",earthquake,0.33,1.75999999,0.29,15,automatic,nc,nc
+2024-08-06T13:36:16.650Z,36.68,-121.36,1.2,1.69,md,15,82,0.02967,0.1,nc,nc75044302,2024-08-06T13:52:16.524Z,"13 km SSW of Tres Pinos, CA",earthquake,0.33,1.75999999,0.29,15,automatic,nc,nc
 2024-08-06T13:30:23.548Z,61.4414,-151.7092,171.1,1.7,ml,,,,1.27,ak,ak024a2em4b6,2024-08-06T13:32:31.721Z,"47 km NW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-08-06T13:25:57.040Z,38.78,-122.72,5.89,0.77,md,5,212,0.01532,0.04,nc,nc75044297,2024-08-06T13:44:25.636Z,"2 km WNW of Anderson Springs, CA",earthquake,1.9,3.68000007,0.32,5,automatic,nc,nc
 2024-08-06T13:23:07.670Z,32.9813333,-116.3208333,8.44,1.77,ml,73,36,0.07608,0.21,ci,ci40864120,2024-08-06T13:34:20.680Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.15,0.61,0.263,26,automatic,ci,ci
 2024-08-06T13:21:45.320Z,33.5075,-116.7678333,2.67,0.5,ml,31,32,0.03415,0.14,ci,ci40864112,2024-08-06T13:27:40.540Z,"10 km WSW of Anza, CA",earthquake,0.14,0.18,0.129,15,automatic,ci,ci
 2024-08-06T13:09:27.400Z,31.6137,-104.3304,5,3.1,ml,34,94,0.155,0.69,us,us6000nicf,2024-08-06T13:27:40.040Z,"60 km WNW of Toyah, Texas",earthquake,1.14,1.942,0.053,76,reviewed,us,us
-2024-08-06T13:09:05.273Z,31.675,-104.371,4.895,2.4,ml,34,57,0.1,0.1,tx,tx2024pjht,2024-08-06T13:46:17.546Z,"55 km S of Whites City, New Mexico",earthquake,0.7752453107631068,0.978968968219683,0.1,19,reviewed,tx,tx
+2024-08-06T13:09:05.273Z,31.675,-104.371,4.895,2.4,ml,34,57,0.1,0.1,tx,tx2024pjht,2024-08-06T13:53:25.040Z,"55 km S of Whites City, New Mexico",earthquake,0.7752453107631068,0.978968968219683,0.1,19,reviewed,tx,tx
 2024-08-06T13:07:01.860Z,38.84,-122.83,1.54,0.38,md,7,100,0.008078,0.01,nc,nc75044287,2024-08-06T13:27:13.372Z,"9 km WNW of Cobb, CA",earthquake,0.45,0.949999988,0.27,8,automatic,nc,nc
 2024-08-06T13:05:48.890Z,37.74,-122.06,14.47,2.43,md,60,42,0.005084,0.09,nc,nc75044282,2024-08-06T13:12:21.281Z,"6 km NE of Castro Valley, CA",earthquake,0.18,0.349999994,0.13,63,automatic,nc,nc
 2024-08-06T12:58:06.030Z,19.3693333333333,-155.182,2.25,1.89,ml,30,93,0.01565,0.09,hv,hv74387716,2024-08-06T13:15:55.810Z,"9 km SE of Volcano, Hawaii",earthquake,0.31,0.28,0.187574719566971,13,reviewed,hv,hv
@@ -231,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T14:15:09.120Z,33.9763333,-116.9675,2.54,0.79,ml,33,67,0.1198,0.17,ci,ci40862768,2024-08-05T14:21:21.862Z,"5 km N of Beaumont, CA",earthquake,0.22,0.79,0.066,17,automatic,ci,ci
 2024-08-05T14:12:13.620Z,35.8321666666667,-83.5435,17.44,2.51,md,17,65,0.2557,0.21,se,se60588556,2024-08-06T09:24:29.080Z,"4 km SSE of Sevierville, Tennessee",earthquake,0.35,1.51,0.0885607671171034,16,reviewed,se,se
 2024-08-05T13:56:28.583Z,38.7503,-118.6361,8.9,2.3,ml,8,69.38,0.51,0.0972,nn,nn00881933,2024-08-06T02:04:36.646Z,"15 km NE of Walker Lake, Nevada",earthquake,,5.7,0.27,5,reviewed,nn,nn
-2024-08-05T13:49:24.690Z,33.227,-116.0433333,3.36,1.53,ml,58,58,0.07663,0.23,ci,ci40862744,2024-08-05T14:00:04.450Z,"11 km SW of Salton City, CA",earthquake,0.2,0.47,0.159,28,automatic,ci,ci
