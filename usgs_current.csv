@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-06T17:30:02.370Z,32.9038315,-116.9506683,3.59,1.34,ml,29,104,0.06673,0.26,ci,ci40864448,2024-08-06T17:32:16.264Z,"6 km NNW of Lakeside, CA",earthquake,0.59,2.06,0.068,8,automatic,ci,ci
+2024-08-06T17:36:52.150Z,36.1418343,-118.2060013,-1.52,1.44,ml,11,190,0.2838,0.49,ci,ci40864480,2024-08-06T17:39:18.651Z,"24 km SW of Olancha, CA",earthquake,2.08,6.33,0.235,4,automatic,ci,ci
+2024-08-06T17:30:02.350Z,32.9026667,-116.9468333,4.1,1.32,ml,38,67,0.06667,0.21,ci,ci40864448,2024-08-06T17:36:26.639Z,"6 km NNW of Lakeside, CA",earthquake,0.26,0.76,0.209,24,automatic,ci,ci
 2024-08-06T17:25:02.583Z,60.5724,-152.2457,104.3,1.6,ml,,,,0.19,ak,ak024a2gyqj6,2024-08-06T17:26:45.086Z,"50 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-06T17:23:51.480Z,61.5943,-142.4391,19.4,1.3,ml,,,,0.26,ak,ak024a2gyevg,2024-08-06T17:25:37.203Z,"31 km NE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-06T17:01:28.150Z,35.3838333,-118.218,6.15,1.12,ml,24,91,0.1651,0.15,ci,ci40864344,2024-08-06T17:08:58.477Z,"34 km SE of Bodfish, CA",earthquake,0.23,0.8,0.192,17,automatic,ci,ci
@@ -122,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T02:43:40.950Z,19.3706665039062,-155.148498535156,2.6800000667572,2.25,ml,41,94,0.02149,0.25999999,hv,hv74386971,2024-08-06T02:46:18.730Z,"10 km S of Fern Forest, Hawaii",earthquake,0.42,0.49000001,0.58,20,automatic,hv,hv
 2024-08-06T02:39:54.810Z,35.34883333,-97.99716667,7.13,1.83,ml,90,52,0.07828463788,0.3,ok,ok2024pimy,2024-08-06T12:50:34.894Z,"6 km NW of Minco, Oklahoma",earthquake,,0.4,0.23,36,reviewed,ok,ok
 2024-08-06T02:28:34.799Z,35.8345,-97.84233333,7.62,1.51,ml,86,40,0.1682669803,0.22,ok,ok2024pimo,2024-08-06T13:29:23.945Z,"8 km ESE of Kingfisher, Oklahoma",earthquake,,0.7,0.21,43,reviewed,ok,ok
-2024-08-06T02:19:03.580Z,32.7706667,-115.8356667,6.01,1.18,ml,27,58,0.1204,0.2,ci,ci40863728,2024-08-06T02:25:04.929Z,"15 km ENE of Ocotillo, CA",earthquake,0.23,1.38,0.325,18,automatic,ci,ci
+2024-08-06T02:19:03.530Z,32.7721667,-115.8346667,6.55,0.9,ml,24,58,0.1188,0.18,ci,ci40863728,2024-08-06T17:37:52.647Z,"15 km ENE of Ocotillo, CA",earthquake,0.23,0.9,0.238,8,reviewed,ci,ci
 2024-08-06T02:10:32.449Z,36.9366,-117.7418,1.1,1.9,ml,14,173.31,0.306,0.1847,nn,nn00881959,2024-08-06T16:16:57.388Z,"43 km ENE of Independence, California",earthquake,,7.4,0.02,2,reviewed,nn,nn
 2024-08-06T02:09:56.360Z,38.78,-122.75,0.43,1.35,md,18,75,0.02256,0.03,nc,nc75044097,2024-08-06T05:09:25.258Z,"1 km ENE of The Geysers, CA",earthquake,0.23,0.50999999,0.08,18,automatic,nc,nc
 2024-08-06T02:09:38.560Z,38.4991666666667,-112.901,2.96,0.57,md,13,83,0.01152,0.1,uu,uu80077611,2024-08-06T14:27:51.980Z,"14 km NE of Milford, Utah",earthquake,0.29,0.43,0.608659163843712,5,reviewed,uu,uu
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T17:52:18.370Z,36.10266667,-97.83666667,5.54,1.49,ml,81,35,0.1169770451,0.17,ok,ok2024phvn,2024-08-05T18:09:39.808Z,"5 km E of Hennessey, Oklahoma",earthquake,,0.3,0.22,33,reviewed,ok,ok
 2024-08-05T17:49:13.172Z,31.734,-104.256,8.3173,1.6,ml,20,43,0,0.1,tx,tx2024phvl,2024-08-06T16:02:24.557Z,"50 km SSE of Whites City, New Mexico",earthquake,0.603228220994324,0.5920987573240136,0.2,28,reviewed,tx,tx
 2024-08-05T17:45:49.270Z,45.36533333333333,-121.70316666666666,2.04,0.8300000000000001,ml,6,115,0.03165,0.06,uw,uw62032611,2024-08-06T00:13:21.850Z,"7 km NNE of Government Camp, Oregon",earthquake,0.35,1.13,0.40000878966455244,3,reviewed,uw,uw
-2024-08-05T17:38:44.000Z,38.11,-122.1,5.26,2.1,md,9,213,0.04118,0.08,nc,nc75043882,2024-08-05T19:42:23.866Z,"9 km NE of Benicia, CA",earthquake,0.92,0.579999983,0.19,10,automatic,nc,nc
