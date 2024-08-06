@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T18:14:56.948Z,31.655,-104.405,4.519,1.6,ml,15,88,0,0.4,tx,tx2024pjru,2024-08-06T18:44:40.960Z,"57 km S of Whites City, New Mexico",earthquake,0,1.45279616049877,0.3,10,automatic,tx,tx
 2024-08-06T18:06:08.993Z,61.4175,-150.0787,33.6,1.5,ml,,,,0.49,ak,ak024a2hg40z,2024-08-06T18:08:11.238Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-06T18:05:44.890Z,38.79,-122.78,1.33,1.34,md,25,89,0.008402,0.03,nc,nc75044367,2024-08-06T18:09:11.700Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.330000013,0.13,24,automatic,nc,nc
-2024-08-06T17:48:44.358Z,-37.4355,146.3566,10,3.9,mb,15,69,0.702,0.52,us,us6000niec,2024-08-06T18:42:56.735Z,"32 km SSW of Mount Buller, Australia",earthquake,4.56,1.823,0.194,7,reviewed,us,us
+2024-08-06T17:48:44.358Z,-37.4355,146.3566,10,3.9,mb,15,69,0.702,0.52,us,us6000niec,2024-08-06T18:53:21.726Z,"32 km SSW of Mount Buller, Australia",earthquake,4.56,1.823,0.194,7,reviewed,us,us
 2024-08-06T17:43:47.640Z,35.0521667,-118.3411667,-1.12,1.18,ml,29,33,0.06143,0.21,ci,ci40864496,2024-08-06T17:50:19.507Z,"13 km SE of Tehachapi, CA",earthquake,0.3,0.94,0.127,23,automatic,ci,ci
 2024-08-06T17:36:56.340Z,36.0826667,-117.8863333,4.25,0.52,ml,8,212,0.04317,0.07,ci,ci40864480,2024-08-06T17:43:20.670Z,"7 km NE of Coso Junction, CA",earthquake,0.62,0.38,0.119,5,automatic,ci,ci
 2024-08-06T17:30:02.350Z,32.9026667,-116.9468333,4.1,1.32,ml,38,67,0.06667,0.21,ci,ci40864448,2024-08-06T17:36:26.639Z,"6 km NNW of Lakeside, CA",earthquake,0.26,0.76,0.209,24,automatic,ci,ci
@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T07:42:51.210Z,19.4063339233398,-155.268829345703,0.639999985694885,2.05,ml,23,45,0.008472,0.189999998,hv,hv74387301,2024-08-06T07:45:27.960Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.170000002,0.19,12,automatic,hv,hv
 2024-08-06T07:33:10.807Z,63.0878,-151.3502,0,1.4,ml,,,,0.59,ak,ak024a2b24u6,2024-08-06T07:36:06.743Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-06T07:30:54.960Z,40.04,-123.77,18.08,1.64,md,17,64,0.06827,0.1,nc,nc75044192,2024-08-06T08:49:26.639Z,"10 km SSE of Redway, CA",earthquake,0.49,0.660000026,0.13,8,automatic,nc,nc
+2024-08-06T07:27:38.500Z,40.04,-123.78,19.08,1.32,md,21,62,0.05963,0.13,nc,nc75044187,2024-08-06T18:49:25.935Z,"10 km SSE of Redway, CA",earthquake,0.35,0.65,0.25,10,reviewed,nc,nc
 2024-08-06T07:24:41.190Z,38.84,-122.81,0.73,0.3,md,11,58,0.01577,0.02,nc,nc75044182,2024-08-06T08:22:16.466Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.730000019,0.21,12,automatic,nc,nc
 2024-08-06T07:20:08.710Z,33.6793333,-116.7643333,14.41,0.59,ml,30,76,0.05251,0.13,ci,ci40863936,2024-08-06T13:58:57.450Z,"8 km SSW of Idyllwild, CA",earthquake,0.23,0.35,0.14,14,reviewed,ci,ci
 2024-08-06T07:18:40.825Z,13.4704,-89.7276,76.037,4.7,mb,77,167,0.327,0.79,us,us6000nib4,2024-08-06T17:07:01.636Z,"17 km SE of Acajutla, El Salvador",earthquake,6.54,5.211,0.029,357,reviewed,us,us
@@ -217,7 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T18:57:21.680Z,38.8,-122.8,0.1,1.33,md,18,76,0.007221,0.04,nc,nc75043937,2024-08-05T20:09:26.039Z,"4 km NW of The Geysers, CA",earthquake,0.19,0.430000007,0.17,18,automatic,nc,nc
 2024-08-05T18:56:45.060Z,33.4688333,-116.4406667,7.7,0.77,ml,34,75,0.05584,0.22,ci,ci40863224,2024-08-06T14:06:26.126Z,"24 km ESE of Anza, CA",earthquake,0.26,0.69,0.163,19,reviewed,ci,ci
 2024-08-05T18:56:39.710Z,38.8,-122.8,0.39,0.84,md,11,107,0.008546,0.03,nc,nc75043932,2024-08-05T18:58:16.887Z,"4 km NW of The Geysers, CA",earthquake,0.33,0.579999983,0.23,11,automatic,nc,nc
-2024-08-05T18:53:14.910Z,33.5006667,-116.7705,2.68,1.55,ml,74,17,0.03177,0.21,ci,ci40863216,2024-08-05T19:03:57.780Z,"11 km SW of Anza, CA",earthquake,0.13,0.27,0.149,25,automatic,ci,ci
-2024-08-05T18:52:36.630Z,38.8,-122.78,2.92,0.77,md,16,66,0.009269,0.02,nc,nc75043927,2024-08-05T18:54:12.038Z,"4 km NNW of The Geysers, CA",earthquake,0.3,0.550000012,0.12,16,automatic,nc,nc
-2024-08-05T18:51:55.090Z,46.04,-122.08466666666666,9.89,0.53,ml,12,290,0.08164,0.09,uw,uw62032631,2024-08-06T00:20:50.540Z,"31 km ENE of Amboy, Washington",earthquake,0.65,0.86,0.14292351750562035,5,reviewed,uw,uw
-2024-08-05T18:50:06.900Z,38.76,-122.7,1.46,0.44,md,16,55,0.01175,0.03,nc,nc75043922,2024-08-06T18:01:35.847Z,"2 km SW of Anderson Springs, CA",earthquake,0.22,0.25,0.146,14,reviewed,nc,nc
