@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-07T17:48:33.890Z,35.0986671,-119.1128311,12.9,1.63,ml,21,84,0.04653,0.18,ci,ci40868096,2024-08-07T17:50:40.045Z,"24 km NW of Grapevine, CA",earthquake,0.38,0.79,0.352,11,automatic,ci,ci
+2024-08-07T17:50:20.960Z,35.1311667,-119.1806667,5.08,1.58,ml,22,140,0.1075,0.26,ci,ci40868120,2024-08-07T17:56:50.625Z,"22 km ENE of Maricopa, CA",earthquake,0.51,2.94,0.165,27,automatic,ci,ci
+2024-08-07T17:48:33.890Z,35.0986671,-119.1128311,12.9,1.53,ml,21,84,0.04653,0.18,ci,ci40868096,2024-08-07T17:52:13.346Z,"24 km NW of Grapevine, CA",earthquake,0.38,0.79,0.161,28,automatic,ci,ci
 2024-08-07T17:40:07.780Z,35.872,-117.7235,9.51,0.92,ml,22,48,0.07168,0.13,ci,ci40868064,2024-08-07T17:46:02.022Z,"18 km ESE of Little Lake, CA",earthquake,0.18,0.48,0.102,13,automatic,ci,ci
 2024-08-07T17:34:08.081Z,60.0849,-152.685,101.6,1.7,ml,,,,0.27,ak,ak024a44k0w8,2024-08-07T17:35:52.087Z,"55 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-07T17:23:11.770Z,34.075,-118.1778333,12.55,1.57,ml,19,97,0.03791,0.11,ci,ci40868008,2024-08-07T17:31:15.926Z,"5 km N of East Los Angeles, CA",earthquake,0.6,0.6,0.316,34,automatic,ci,ci
@@ -382,7 +383,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T04:20:39.730Z,35.0821667,-119.09,2.8,2.47,ml,40,41,0.02406,0.24,ci,ci40865264,2024-08-07T08:14:59.163Z,"21 km NW of Grapevine, CA",earthquake,0.29,1.11,0.128,27,automatic,ci,ci
 2024-08-07T04:19:23.550Z,35.0958328,-119.1156693,9.28,3.39,ml,28,55,0.04542,0.29,ci,ci40865248,2024-08-07T08:05:25.847Z,"24 km NW of Grapevine, CA",earthquake,0.43,0.87,0.324,11,reviewed,ci,ci
 2024-08-07T04:19:10.860Z,35.0841667,-119.1081667,1.24,2.83,ml,22,49,0.03241,0.24,ci,ci40865240,2024-08-07T10:02:16.687Z,"23 km NW of Grapevine, CA",earthquake,0.36,1.45,0.161,22,automatic,ci,ci
-2024-08-07T04:17:46.780Z,35.0970001,-119.1159973,6.47,3.75,mlr,45,71,0.04653,0.22,ci,ci40865232,2024-08-07T10:03:14.300Z,"24 km NW of Grapevine, CA",earthquake,0.29,1.44,0.178,34,reviewed,ci,ci
+2024-08-07T04:17:46.890Z,35.0876667,-119.1118333,10.17,3.58,ml,44,53,0.03701,0.26,ci,ci40865232,2024-08-07T17:53:48.522Z,"23 km NW of Grapevine, CA",earthquake,0.26,0.66,0.089,27,reviewed,ci,ci
 2024-08-07T04:17:10.130Z,35.1085014,-119.0748367,10.55,4.07,mw,117,21,0.05033,0.32,ci,ci40865224,2024-08-07T16:16:10.872Z,"22 km SW of Lamont, CA",earthquake,0.23,0.65,,4,reviewed,ci,ci
 2024-08-07T04:15:43.556Z,-26.9594,-71.1503,12.323,4.6,mwr,46,144,0.812,0.85,us,us6000nih5,2024-08-07T05:50:58.519Z,"92 km WNW of Copiapó, Chile",earthquake,3.24,4.109,0.055,32,reviewed,us,us
 2024-08-07T04:15:14.900Z,35.0648346,-119.0684967,10.48,3.1,ml,17,59,0.01401,0.24,ci,ci40865208,2024-08-07T08:52:02.873Z,"18 km NW of Grapevine, CA",earthquake,0.59,0.87,0.288,5,automatic,ci,ci
@@ -406,7 +407,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T02:43:56.780Z,19.3784999847412,-155.245498657227,0.490000009536743,1.75,md,15,89,0.006737,0.140000001,hv,hv74388616,2024-08-07T02:46:34.990Z,"7 km S of Volcano, Hawaii",earthquake,0.16,0.129999995,0.100000001,12,automatic,hv,hv
 2024-08-07T02:36:50.910Z,37.6736666666667,-112.266333333333,10.19,1.56,ml,8,189,0.3729,0.16,uu,uu80077711,2024-08-07T14:41:29.090Z,"9 km W of Bryce Canyon City, Utah",earthquake,1.15,3.18,0.139155050570496,4,reviewed,uu,uu
 2024-08-07T02:32:28.197Z,37.6819,35.9702,10,4.6,mwr,78,41,0.315,0.43,us,us6000nigk,2024-08-07T16:15:02.098Z,"15 km SSE of Feke, Turkey",earthquake,4.36,1.878,0.056,31,reviewed,us,us
-2024-08-07T02:12:37.452Z,39.5882,-119.0427,13.1,1.6,ml,11,100.31,0.619,0.3565,nn,nn00882014,2024-08-07T02:15:10.515Z,"18 km E of Fernley, Nevada",earthquake,,1.3,0.23,5,automatic,nn,nn
 2024-08-07T02:10:05.389Z,34.52616667,-97.28716667,2.75,2.56,ml,97,60,0.0674867568,0.28,ok,ok2024pkhm,2024-08-07T12:44:14.064Z,"8 km SE of Katie, Oklahoma",earthquake,,0.7,0.23,33,reviewed,ok,ok
 2024-08-07T02:09:55.550Z,33.9596667,-116.7735,17.46,0.9,ml,25,74,0.0805,0.12,ci,ci40865120,2024-08-07T02:16:20.793Z,"5 km NNE of Cabazon, CA",earthquake,0.22,0.47,0.181,26,automatic,ci,ci
 2024-08-07T01:56:33.880Z,19.4698333740234,-155.42317199707,4.28000020980835,2.32,ml,51,38,0.04204,0.189999998,hv,hv74388546,2024-08-07T01:59:10.660Z,"20 km W of Volcano, Hawaii",earthquake,0.28,0.829999983,0.26,10,automatic,hv,hv
