@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-07T04:14:00.620Z,35.0660019,-119.0773315,11.19,2.97,ml,20,86,0.009094,0.24,ci,ci40865200,2024-08-07T04:16:29.017Z,"19 km NW of Grapevine, CA",earthquake,0.69,1.18,0.241,6,automatic,ci,ci
+2024-08-07T04:10:44.760Z,35.1110001,-119.1188354,9.71,4.45,mlr,47,55,0.05966,0.3,ci,ci40865192,2024-08-07T04:15:03.885Z,"25 km SW of Lamont, CA",earthquake,0.32,0.83,0.221,10,automatic,ci,ci
+2024-08-07T04:09:56.870Z,35.1108322,-119.0920029,11.67,5.25,mw,124,21,0.05254,0.33,ci,ci40865184,2024-08-07T04:15:04.750Z,"23 km SW of Lamont, CA",earthquake,0.27,1.04,,6,reviewed,ci,ci
+2024-08-07T04:06:35.300Z,35.8901667,-117.6911667,4.76,1.5,ml,27,43,0.06645,0.15,ci,ci40865176,2024-08-07T04:16:38.995Z,"20 km ESE of Little Lake, CA",earthquake,0.17,0.43,0.202,20,automatic,ci,ci
 2024-08-07T03:44:55.010Z,19.3838329315186,-155.258331298828,0.400000005960464,2.28,ml,29,41,0.006835,0.170000002,hv,hv74388676,2024-08-07T03:47:32.980Z,"7 km SSW of Volcano, Hawaii",earthquake,0.14,0.100000001,0.25,16,automatic,hv,hv
 2024-08-07T03:43:11.529Z,35.68254089,-98.14612579,2.999530315,2.07,ml,21,70.24835205,0.06147416681,1.066689492,ok,ok2024pkkn,2024-08-07T03:51:39.040Z,"9 km NNW of Calumet, Oklahoma",earthquake,2.807435421,2.012422129,0.3,11,automatic,ok,ok
 2024-08-07T03:28:52.600Z,35.9401667,-117.6955,2.67,0.88,ml,20,64,0.03742,0.14,ci,ci40865168,2024-08-07T03:34:38.323Z,"19 km E of Little Lake, CA",earthquake,0.23,0.35,0.118,10,automatic,ci,ci
@@ -8,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T02:45:39.778Z,65.1425,-148.5053,19.4,0.7,ml,,,,0.64,ak,ak024a3voy55,2024-08-07T02:47:42.911Z,"39 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-07T02:44:49.676Z,29.4181,102.0349,10,4.3,mb,20,114,15.191,0.78,us,us6000nign,2024-08-07T03:08:42.040Z,"65 km S of Kangding, China",earthquake,6.03,1.958,0.129,17,reviewed,us,us
 2024-08-07T02:43:56.780Z,19.3784999847412,-155.245498657227,0.490000009536743,1.75,md,15,89,0.006737,0.140000001,hv,hv74388616,2024-08-07T02:46:34.990Z,"7 km S of Volcano, Hawaii",earthquake,0.16,0.129999995,0.100000001,12,automatic,hv,hv
-2024-08-07T02:32:28.610Z,37.6751,35.9782,10,4.6,mwr,62,62,0.306,0.97,us,us6000nigk,2024-08-07T03:12:58.576Z,"16 km SSE of Feke, Turkey",earthquake,2.98,1.856,0.056,31,reviewed,us,us
+2024-08-07T02:32:28.197Z,37.6819,35.9702,10,4.6,mwr,78,41,0.315,0.43,us,us6000nigk,2024-08-07T04:03:23.714Z,"15 km SSE of Feke, Turkey",earthquake,4.36,1.878,0.056,31,reviewed,us,us
 2024-08-07T02:12:37.452Z,39.5882,-119.0427,13.1,1.6,ml,11,100.31,0.619,0.3565,nn,nn00882014,2024-08-07T02:15:10.515Z,"18 km E of Fernley, Nevada",earthquake,,1.3,0.23,5,automatic,nn,nn
 2024-08-07T02:10:06.190Z,34.51919556,-97.2902298,1.203137994,2.7,ml,75,53.27316284,0.06745340675,0.8473856758,ok,ok2024pkhm,2024-08-07T02:34:36.040Z,"8 km SE of Katie, Oklahoma",earthquake,1.668117778,1.17298057,0.26,38,automatic,ok,ok
 2024-08-07T02:09:55.550Z,33.9596667,-116.7735,17.46,0.9,ml,25,74,0.0805,0.12,ci,ci40865120,2024-08-07T02:16:20.793Z,"5 km NNE of Cabazon, CA",earthquake,0.22,0.47,0.181,26,automatic,ci,ci
@@ -203,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T04:31:59.830Z,38.85,-122.78,1.02,0.72,md,11,150,0.006204,0.02,nc,nc75044137,2024-08-06T04:52:12.149Z,"6 km NW of Cobb, CA",earthquake,0.3,0.419999987,0.34,12,automatic,nc,nc
 2024-08-06T04:28:57.290Z,19.3685,-155.210166666667,1.94,2.13,ml,26,111,0.00728,0.1,hv,hv74387116,2024-08-06T20:29:01.450Z,"8 km SSE of Volcano, Hawaii",earthquake,0.3,0.22,0.180078652071654,11,reviewed,hv,hv
 2024-08-06T04:28:39.223Z,39.5783,-119.0642,5.2,1.7,ml,11,98.94,0.604,0.1245,nn,nn00881966,2024-08-06T16:42:11.130Z,"16 km ESE of Fernley, Nevada",earthquake,,6.2,0.27,7,reviewed,nn,nn
-2024-08-06T04:09:40.720Z,53.8708333333333,-166.895,5.34,-0.31,ml,6,156,0.0684,0.16,av,av93221816,2024-08-07T01:33:39.580Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.54,1.31,0.290685065190544,6,reviewed,av,av
-2024-08-06T04:00:06.726Z,60.8233,-152.3654,97.1,1.9,ml,,,,0.31,ak,ak024a292r34,2024-08-06T04:01:57.200Z,"60 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
