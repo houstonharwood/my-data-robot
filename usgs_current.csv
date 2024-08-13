@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-13T18:45:54.330Z,33.3068352,-116.2490005,5.74,1.61,ml,57,39,0.07511,0.21,ci,ci40700607,2024-08-13T18:47:58.586Z,"13 km ENE of Borrego Springs, CA",earthquake,0.24,0.78,0.238,25,automatic,ci,ci
+2024-08-13T18:44:57.510Z,38.78,-122.74,0.67,0.78,md,8,108,0.001733,0.02,nc,nc75047826,2024-08-13T18:46:34.222Z,"2 km E of The Geysers, CA",earthquake,0.43,0.50999999,0.17,7,automatic,nc,nc
+2024-08-13T18:42:11.240Z,38.84,-122.79,1.99,0.88,md,8,107,0.003019,0.02,nc,nc75047821,2024-08-13T18:43:48.893Z,"6 km WNW of Cobb, CA",earthquake,0.44,1.07000005,0.17,10,automatic,nc,nc
 2024-08-13T18:19:38.280Z,44.7851666666667,-111.099666666667,10.54,0.53,md,10,130,0.07144,0.14,uu,uu80078401,2024-08-13T18:41:52.360Z,"7 km ENE of Hebgen Lake Estates, Montana",earthquake,0.52,0.76,0.341222417175716,4,reviewed,uu,uu
 2024-08-13T18:12:13.120Z,19.3808326721191,-155.242172241211,1.63999998569489,1.91999996,md,16,68,0.007376,0.100000001,hv,hv74398436,2024-08-13T18:14:52.080Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.170000002,0.219999999,13,automatic,hv,hv
 2024-08-13T17:50:34.360Z,35.9941667,-117.6881667,2.63,1.03,ml,19,92,0.05542,0.14,ci,ci40700487,2024-08-13T17:56:29.131Z,"21 km ENE of Little Lake, CA",earthquake,0.28,0.18,0.058,9,automatic,ci,ci
@@ -130,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T03:35:31.525Z,31.633,-104.516,7.6892,2.1,ml,35,74,0,0.1,tx,tx2024pvjh,2024-08-13T16:04:30.374Z,"61 km SSW of Whites City, New Mexico",earthquake,1.1496112477698401,0.5053611214499445,0.1,17,reviewed,tx,tx
 2024-08-13T03:26:04.560Z,34.0896667,-118.1751667,10.32,1.65,ml,59,34,0.03806,0.19,ci,ci40699743,2024-08-13T11:57:33.903Z,"4 km SW of South Pasadena, CA",earthquake,0.18,0.27,0.214,25,automatic,ci,ci
 2024-08-13T03:23:49.727Z,60.1966,-153.4401,186.7,2.6,ml,,,,0.47,ak,ak024adtdrvl,2024-08-13T04:40:00.040Z,"48 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-08-13T03:22:32.200Z,35.1075,-119.0891667,11.91,1.84,ml,46,44,0.04899,0.22,ci,ci40699727,2024-08-13T03:43:26.987Z,"23 km SW of Lamont, CA",earthquake,0.21,0.64,0.167,27,automatic,ci,ci
+2024-08-13T03:22:32.180Z,35.1046667,-119.0888333,11.77,1.86,ml,41,64,0.04615,0.2,ci,ci40699727,2024-08-13T18:47:47.179Z,"23 km NW of Grapevine, CA",earthquake,0.22,0.72,0.127,47,reviewed,ci,ci
 2024-08-13T03:08:26.350Z,35.1095,-119.1025,12.24,1.31,ml,21,78,0.05305,0.21,ci,ci40699711,2024-08-13T18:33:54.381Z,"24 km SW of Lamont, CA",earthquake,0.34,0.88,0.105,11,reviewed,ci,ci
 2024-08-13T03:03:53.377Z,-8.8103,112.7745,83.344,4.5,mb,25,110,1.403,0.61,us,us6000njsa,2024-08-13T04:01:23.040Z,"66 km S of Dampit, Indonesia",earthquake,8.5,3.673,0.132,17,reviewed,us,us
 2024-08-13T03:01:10.008Z,62.2965,-151.0661,85.2,2,ml,,,,0.59,ak,ak024adt8ywe,2024-08-13T03:02:53.633Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -235,7 +238,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
 2024-08-12T19:21:43.410Z,60.046,-153.0855,-2.33,-0.67,ml,5,106,0.01582,0.08,av,av93228481,2024-08-13T03:40:44.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.08,0.343378285052043,5,reviewed,av,av
 2024-08-12T19:21:14.140Z,54.5278333333333,-163.509333333333,12.01,1.25,ml,5,294,0.1794,0.28,av,av93018244,2024-08-13T03:59:40.400Z,"36 km S of False Pass, Alaska",earthquake,1.41,1.09,0.493062773843789,5,reviewed,av,av
-2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T18:40:47.948Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
+2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T18:46:18.353Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
 2024-08-12T19:12:12.545Z,-5.495,128.7465,326.354,4.9,mb,72,30,4.33,0.48,us,us6000njny,2024-08-12T19:31:20.040Z,"208 km SSE of Ambon, Indonesia",earthquake,7.11,6.817,0.049,131,reviewed,us,us
 2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63,31,0.1274,0.17,ci,ci40699183,2024-08-13T14:09:31.010Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29,reviewed,ci,ci
 2024-08-12T19:03:49.610Z,46.0005,-112.474,-2,1.85,ml,9,112,0.05854,0.1,mb,mb90059223,2024-08-12T23:35:50.840Z,"4 km E of Butte, Montana",quarry blast,0.6,31.61,0.179075758793563,15,reviewed,mb,mb
@@ -243,7 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T18:53:54.954Z,62.2415,-148.7472,19.6,2.6,ml,,,,0.63,ak,ak024aceyd39,2024-08-13T17:35:57.193Z,"51 km N of Sutton-Alpine, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-08-12T18:53:12.660Z,35.0708333,-119.1456667,11.38,1.7,ml,34,100,0.0522,0.21,ci,ci40699127,2024-08-12T19:04:08.640Z,"23 km E of Maricopa, CA",earthquake,0.28,0.65,0.19,27,automatic,ci,ci
 2024-08-12T18:49:27.609Z,29.118,-97.758,7.4463,2.3,ml,13,89,0.1,0.1,tx,tx2024purz,2024-08-12T19:17:40.197Z,"16 km S of Nixon, Texas",earthquake,0.6978558199279637,1.6141252093488905,0.2,18,reviewed,tx,tx
-2024-08-12T18:48:48.620Z,34.6321667,-117.083,-1.13,1.35,ml,37,52,0.2138,0.23,ci,ci40699119,2024-08-12T18:55:17.152Z,"17 km NNE of Apple Valley, CA",earthquake,0.3,1.18,0.11,29,automatic,ci,ci
-2024-08-12T18:47:05.687Z,43.142,146.8461,68.07,4.5,mb,54,135,2.948,0.55,us,us6000njnt,2024-08-12T19:10:46.040Z,"73 km S of Shikotan, Russia",earthquake,4.44,7.382,0.076,51,reviewed,us,us
-2024-08-12T18:45:18.750Z,34.8686667,-117.8075,9.51,1.65,ml,15,58,0.1125,0.08,ci,ci40699111,2024-08-13T14:09:06.950Z,"12 km ESE of Edwards Air Force Base, CA",earthquake,0.15,0.46,0.633,31,reviewed,ci,ci
-2024-08-12T18:44:05.559Z,35.35166667,-97.97483333,7.64,0.67,ml,31,69,0.06208781625,0.18,ok,ok2024purt,2024-08-12T19:09:11.959Z,"5 km NNW of Minco, Oklahoma",earthquake,,0.4,0.25,13,reviewed,ok,ok
