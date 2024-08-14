@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T19:05:05.730Z,19.2553329467773,-155.39582824707,31.3700008392334,2.07,ml,46,105,0.01781,0.150000006,hv,hv74400446,2024-08-14T19:07:44.490Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.43,0.660000026,0.2,6,automatic,hv,hv
 2024-08-14T19:05:05.720Z,19.2316665649414,-155.397506713867,29.7299995422363,2.07,ml,15,216,0.1018,0.100000001,hv,hv74400456,2024-08-14T19:07:47.560Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.16,0.819999993,0.16,6,automatic,hv,hv
 2024-08-14T19:00:44.367Z,64.1988,-150.6246,16.7,2.2,ml,,,,0.76,ak,ak024afqb40k,2024-08-14T19:02:55.067Z,"70 km W of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-14T18:56:31.540Z,35.1026667,-119.1086667,13.82,3.28,ml,63,20,0.04847,0.24,ci,ci40702023,2024-08-14T20:03:42.810Z,"24 km NW of Grapevine, CA",earthquake,0.19,0.46,0.129,147,reviewed,ci,ci
+2024-08-14T18:56:31.540Z,35.1026667,-119.1086667,13.82,3.28,ml,63,20,0.04847,0.24,ci,ci40702023,2024-08-14T20:45:03.540Z,"24 km NW of Grapevine, CA",earthquake,0.19,0.46,0.129,147,reviewed,ci,ci
 2024-08-14T18:55:46.340Z,33.507,-116.4978333,13.35,1.91,ml,82,30,0.05748,0.18,ci,ci40702015,2024-08-14T20:03:50.880Z,"17 km ESE of Anza, CA",earthquake,0.13,0.26,0.187,27,reviewed,ci,ci
 2024-08-14T18:53:33.840Z,38.89,-122.57,1.11,1.89,md,17,106,0.0546,0.1,nc,nc75048391,2024-08-14T19:21:00.059Z,"4 km SE of Lower Lake, CA",earthquake,0.31,1.30999994,0.18,19,automatic,nc,nc
 2024-08-14T18:47:07.341Z,31.407,-103.528,6.5976,1.6,ml,8,97,0,0.5,tx,tx2024pyja,2024-08-14T19:01:37.736Z,"3 km WSW of Pecos, Texas",earthquake,0,4.47280168533325,0.2,6,automatic,tx,tx
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:30:07.650Z,33.249,-116.0375,3.83,0.82,ml,29,81,0.05324,0.19,ci,ci40701839,2024-08-14T17:36:06.499Z,"9 km SW of Salton City, CA",earthquake,0.19,0.38,0.208,17,automatic,ci,ci
 2024-08-14T17:25:26.290Z,52.7806666666667,-169.778,10.36,1.77,ml,6,200,0.03402,0.21,av,av93230766,2024-08-14T19:09:24.680Z,"64 km WSW of Nikolski, Alaska",earthquake,1.75,0.96,0.275759533713923,7,reviewed,av,av
 2024-08-14T17:19:52.560Z,33.6845,-116.7888333,16.51,0.6,ml,24,80,0.06769,0.11,ci,ci40701823,2024-08-14T17:25:48.671Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.39,0.153,12,automatic,ci,ci
-2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
+2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:16:27.590Z,46.20433333333333,-122.19333333333333,6.38,0.04,ml,9,114,0.004868,0.09,uw,uw62027752,2024-08-14T19:11:41.590Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.73,0.054364641945367956,4,reviewed,uw,uw
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
 2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T19:28:43.192Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
@@ -227,6 +227,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:38:33.433Z,63.1262,-151.8458,5.2,1.7,ml,,,,0.67,ak,ak024afh0apb,2024-08-14T03:40:32.115Z,"46 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-14T03:36:15.930Z,36.6422,-115.74,9,1.4,ml,23,191.79000000000002,0.18,0.0688,nn,nn00882338,2024-08-14T11:39:53.467Z,"10 km NW of Indian Springs, Nevada",earthquake,,5,0.41,6,reviewed,nn,nn
 2024-08-14T03:35:56.271Z,36.6276,-115.7543,9.2,0.4,ml,11,307.26,0.171,0.074,nn,nn00882337,2024-08-14T19:24:46.919Z,"9 km NW of Indian Springs, Nevada",earthquake,,7.4,0.12,3,reviewed,nn,nn
+2024-08-14T03:28:26.021Z,36.634,-115.7111,8.3,0.3,ml,13,303.31000000000006,0.204,0.035,nn,nn00882335,2024-08-14T20:51:01.969Z,"8 km NNW of Indian Springs, Nevada",earthquake,,11.6,0.18,3,reviewed,nn,nn
 2024-08-14T03:23:34.350Z,35.35083333,-97.96016667,6.43,0.98,ml,32,61,0.05308958201,0.28,ok,ok2024pxek,2024-08-14T13:18:08.050Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.21,15,reviewed,ok,ok
 2024-08-14T03:21:10.503Z,35.63037491,-97.79013062,5,1.91,ml,8,171.9112968,0.2605517805,0.8793568968,ok,ok2024pxei,2024-08-14T03:28:47.257Z,"4 km WSW of Piedmont, Oklahoma",earthquake,7.732178059,,0.38,7,automatic,ok,ok
 2024-08-14T03:18:49.330Z,19.2455005645752,-155.397827148438,30.7800006866455,2.18000007,md,46,100,0.007962,0.129999995,hv,hv74399151,2024-08-14T03:20:38.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.41,0.610000014,0.230000004,12,automatic,hv,hv
@@ -235,6 +236,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:13:43.990Z,19.2501659393311,-155.391662597656,31.2199993133545,1.75999999,md,31,141,0.01375,0.129999995,hv,hv74399141,2024-08-14T03:15:12.900Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.769999981,0.189999998,3,automatic,hv,hv
 2024-08-14T03:13:23.658Z,57.7792,-155.1872,22,1.5,ml,,,,0.29,ak,ak024afgux1p,2024-08-14T03:16:08.172Z,"49 km WNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-08-14T03:12:28.032Z,36.6366,-115.7366,11.7,2.9,ml,33,85.63000000000001,0.183,0.0977,nn,nn00882329,2024-08-14T08:10:04.027Z,"9 km NW of Indian Springs, Nevada",earthquake,,2.9,0.19,13,reviewed,nn,nn
+2024-08-14T03:11:58.920Z,56.85,-158.1145,16.4,-0.25,ml,5,220,0.0119,0.14,av,av93018424,2024-08-14T20:45:06.940Z,"64 km NNE of Chignik, Alaska",earthquake,1.29,1.09,0.408562263394898,5,reviewed,av,av
 2024-08-14T03:11:42.874Z,59.5366,-146.3519,12.6,2.9,ml,,,,0.4,ak,ak024afguj3j,2024-08-14T03:13:54.398Z,"110 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-14T03:11:07.900Z,56.8596666666667,-158.110666666667,16.25,-0.08,ml,5,209,0.02119,0.13,av,av93230261,2024-08-14T20:25:48.400Z,"65 km NNE of Chignik, Alaska",earthquake,1.19,1.04,0.421184558724857,5,reviewed,av,av
 2024-08-14T03:10:43.288Z,36.5953,-115.6988,6.9,1.3,ml,9,308.28000000000003,0.222,0.0862,nn,nn00882328,2024-08-14T11:27:26.135Z,"3 km NW of Indian Springs, Nevada",earthquake,,9.6,0.1,2,reviewed,nn,nn
@@ -246,7 +248,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T02:54:15.840Z,32.9136667,-116.332,6.53,1.17,ml,44,64,0.04739,0.22,ci,ci40701175,2024-08-14T13:21:36.997Z,"21 km ENE of Pine Valley, CA",earthquake,0.22,0.47,0.145,27,reviewed,ci,ci
 2024-08-14T02:50:54.619Z,36.6405,-115.7375,10.3,0.4,ml,15,294.2,0.182,0.0702,nn,nn00882320,2024-08-14T12:29:38.647Z,"9 km NW of Indian Springs, Nevada",earthquake,,5.8,0.19,4,reviewed,nn,nn
 2024-08-14T02:49:18.080Z,34.276,-116.9455,5.72,0.84,ml,31,112,0.02463,0.13,ci,ci40701167,2024-08-14T13:22:25.082Z,"5 km NW of Big Bear Lake, CA",earthquake,0.19,0.33,0.199,11,reviewed,ci,ci
-2024-08-14T02:48:54.400Z,56.8886666666667,-158.262666666667,13.21,-0.51,ml,4,189,0.0176,0.17,av,av93018409,2024-08-14T20:02:17.240Z,"66 km NNE of Chignik Lagoon, Alaska",earthquake,1.36,1.68,0.255580560917623,4,reviewed,av,av
+2024-08-14T02:48:54.110Z,56.886,-158.262,14.63,-0.51,ml,4,189,0.0186,0.18,av,av93018409,2024-08-14T20:47:52.890Z,"66 km NNE of Chignik Lagoon, Alaska",earthquake,1.44,1.76,0.255580560917623,4,reviewed,av,av
 2024-08-14T02:47:46.770Z,35.0893333,-119.0516667,12.99,2.01,ml,50,35,0.04043,0.25,ci,ci40701159,2024-08-14T02:58:49.240Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.64,0.147,27,automatic,ci,ci
 2024-08-14T02:45:39.030Z,35.08766667,-95.5195,7.55,1.2,ml,55,55,0.1214761622,0.24,ok,ok2024pxde,2024-08-14T13:04:56.092Z,"14 km WSW of Quinton, Oklahoma",earthquake,,0.6,0.31,16,reviewed,ok,ok
 2024-08-14T02:43:35.770Z,32.485,-116.7653333,2.62,1.39,ml,20,108,0.1215,0.18,ci,ci40701151,2024-08-14T02:49:58.340Z,"15 km SW of Tecate, B.C., MX",earthquake,0.37,0.45,0.203,12,automatic,ci,ci
@@ -318,4 +320,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T20:59:31.540Z,36.04,-120.59,8.5,1.64,md,29,50,0.0287,0.14,nc,nc75047886,2024-08-13T21:02:29.160Z,"21 km NNW of Parkfield, CA",earthquake,0.33,0.579999983,0.22,14,automatic,nc,nc
 2024-08-13T20:58:16.200Z,35.1053333,-119.1348333,10.59,1.18,ml,16,125,0.06266,0.22,ci,ci40700831,2024-08-13T21:04:39.985Z,"25 km ENE of Maricopa, CA",earthquake,0.42,0.51,0.189,19,automatic,ci,ci
 2024-08-13T20:52:56.030Z,33.7866667,-116.9273333,13.85,0.49,ml,16,174,0.09937,0.19,ci,ci40700823,2024-08-13T20:59:08.248Z,"3 km E of San Jacinto, CA",earthquake,0.8,1.04,0.12,7,automatic,ci,ci
-2024-08-13T20:49:29.190Z,36.65,-121.34,0.53,1.71,md,7,109,0.04703,0.04,nc,nc75047876,2024-08-13T21:25:58.634Z,"15 km SSW of Tres Pinos, CA",earthquake,0.31,1.08000004,0.24,7,automatic,nc,nc
