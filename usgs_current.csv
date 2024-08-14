@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-14T15:35:26.330Z,19.3724994659424,-155.181503295898,2.49000000953674,1.83000004,md,27,172,0.01344,0.170000002,hv,hv74400156,2024-08-14T15:37:07.930Z,"9 km SE of Volcano, Hawaii",earthquake,0.64,0.419999987,0.170000002,15,automatic,hv,hv
-2024-08-14T15:21:25.010Z,35.08366667,-95.50766667,7.5,2.86,ml,81,57,0,0.25,ok,ok2024pycc,2024-08-14T15:47:40.559Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.24,17,reviewed,ok,ok
+2024-08-14T15:21:25.010Z,35.08366667,-95.50766667,7.5,2.86,ml,81,57,0,0.25,ok,ok2024pycc,2024-08-14T15:52:56.235Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.24,17,reviewed,ok,ok
 2024-08-14T15:20:33.830Z,19.3889999389648,-155.252838134766,1.00999999046326,2.01,ml,34,44,0.003759,0.289999992,hv,hv74400131,2024-08-14T15:23:12.450Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.170000002,0.31,17,automatic,hv,hv
 2024-08-14T15:15:55.018Z,36.6166,-116.4761,7.2,0.4,ml,12,264.34999999999997,0.114,0.1347,nn,nn00882414,2024-08-14T15:17:54.833Z,"38 km ENE of Furnace Creek, California",earthquake,,2,0.17,8,automatic,nn,nn
 2024-08-14T15:13:08.410Z,34.093,-118.2066667,11.39,1.84,ml,7,167,0.08021,0.22,ci,ci40701719,2024-08-14T15:19:33.725Z,"3 km SSW of Highland Park, CA",earthquake,2.12,0.99,0.236,29,automatic,ci,ci
@@ -196,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T01:29:30.840Z,38.82,-122.81,3.05,0.75,md,13,74,0.007408,0.02,nc,nc75048006,2024-08-14T02:15:57.332Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.42999995,0.38,15,automatic,nc,nc
 2024-08-14T01:28:43.360Z,36.6376,-115.7333,7.9,0.9,ml,18,294.77000000000004,0.186,0.0541,nn,nn00882317,2024-08-14T12:23:23.378Z,"9 km NW of Indian Springs, Nevada",earthquake,,6.9,0.25,5,reviewed,nn,nn
 2024-08-14T01:25:34.330Z,37.11,-121.54,5.45,0.61,md,16,74,0.07515,0.19,nc,nc75048001,2024-08-14T05:33:23.443Z,"7 km ENE of San Martin, CA",earthquake,0.45,1.43,0.238,14,reviewed,nc,nc
-2024-08-14T01:24:23.840Z,37.072,-116.9548,1.9,1,ml,18,153.69,0.199,0.2463,nn,nn00882315,2024-08-14T01:26:29.595Z,"25 km NW of Beatty, Nevada",earthquake,,17,0.23,13,automatic,nn,nn
+2024-08-14T01:24:24.373Z,37.0609,-116.9587,6.2,1,ml,26,90.70000000000005,0.1,0.1999,nn,nn00882315,2024-08-14T15:52:35.957Z,"24 km NW of Beatty, Nevada",earthquake,,1.7,0.37,8,reviewed,nn,nn
 2024-08-14T01:01:20.678Z,-29.9047,-177.8676,56.768,4.8,mb,17,161,0.642,1.27,us,us6000njyc,2024-08-14T01:44:47.040Z,"Kermadec Islands, New Zealand",earthquake,15.65,12.409,0.122,21,reviewed,us,us
 2024-08-14T01:00:24.010Z,19.3153324127197,-155.4375,28.8899993896484,2.23,ml,54,55,0.05216,0.129999995,hv,hv74398986,2024-08-14T01:03:03.510Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.34,0.519999981,0.56,12,automatic,hv,hv
 2024-08-14T00:58:26.230Z,38.81,-122.81,3.43,0.66,md,9,145,0.01078,0.08,nc,nc75047991,2024-08-14T01:55:57.195Z,"6 km NW of The Geysers, CA",earthquake,0.8,1.72000003,0.3,12,automatic,nc,nc
@@ -288,4 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T16:30:35.150Z,38.85,-122.82,0.83,0.84,md,11,82,0.009218,0.03,nc,nc75047796,2024-08-13T16:32:14.145Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.560000002,0.63,12,automatic,nc,nc
 2024-08-13T16:12:13.410Z,57.9731666666667,-155.723666666667,10.73,0.98,ml,9,182,0.1127,0.24,av,av93229701,2024-08-14T03:04:42.680Z,"87 km WNW of Karluk, Alaska",earthquake,1.41,1.48,0.121292134228363,9,reviewed,av,av
 2024-08-13T16:12:10.490Z,40.0909,-119.7214,14,0.5,ml,3,214.35000000000002,0.08,0.1067,nn,nn00882301,2024-08-13T17:12:58.245Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,3.7,0.21,3,reviewed,nn,nn
-2024-08-13T15:54:43.914Z,61.7148,-150.8232,52.3,1.8,ml,,,,0.28,ak,ak024ae0plqf,2024-08-13T15:56:47.992Z,"25 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
