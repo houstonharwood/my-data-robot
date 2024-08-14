@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-14T19:29:22.762Z,61.254,-151.5422,75.5,1,ml,,,,1.21,ak,ak024afqha44,2024-08-14T19:31:35.418Z,"27 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-14T19:26:03.510Z,32.5988333,-116.9918333,3.26,1.4,ml,30,109,0.05278,0.18,ci,ci40702055,2024-08-14T19:32:28.483Z,"6 km ESE of Chula Vista, CA",earthquake,0.35,0.42,0.089,22,automatic,ci,ci
 2024-08-14T19:25:39.090Z,19.2064990997314,-155.496170043945,28.5499992370605,1.71000004,md,26,114,0.04174,0.119999997,hv,hv74400491,2024-08-14T19:27:13.650Z,"1 km WNW of Pāhala, Hawaii",earthquake,0.75,0.779999971,0.330000013,3,automatic,hv,hv
 2024-08-14T19:15:33.820Z,19.2571659088135,-155.392837524414,30.2299995422363,2.31,ml,57,110,0.02005,0.140000001,hv,hv74400476,2024-08-14T19:18:10.950Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.43,0.5,0.48,25,automatic,hv,hv
 2024-08-14T19:15:08.300Z,33.4526667,-116.6228333,7.26,0.51,ml,22,59,0.04533,0.12,ci,ci40702039,2024-08-14T19:21:20.909Z,"12 km SSE of Anza, CA",earthquake,0.21,0.37,0.206,13,automatic,ci,ci
 2024-08-14T19:05:05.730Z,19.2553329467773,-155.39582824707,31.3700008392334,2.07,ml,46,105,0.01781,0.150000006,hv,hv74400446,2024-08-14T19:07:44.490Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.43,0.660000026,0.2,6,automatic,hv,hv
 2024-08-14T19:05:05.720Z,19.2316665649414,-155.397506713867,29.7299995422363,2.07,ml,15,216,0.1018,0.100000001,hv,hv74400456,2024-08-14T19:07:47.560Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.16,0.819999993,0.16,6,automatic,hv,hv
 2024-08-14T19:00:44.367Z,64.1988,-150.6246,16.7,2.2,ml,,,,0.76,ak,ak024afqb40k,2024-08-14T19:02:55.067Z,"70 km W of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-14T18:56:31.620Z,35.1048317,-119.1083298,12.05,3.3,ml,96,21,0.05032,0.29,ci,ci40702023,2024-08-14T19:25:08.495Z,"24 km NW of Grapevine, CA",earthquake,0.22,0.91,0.26,23,reviewed,ci,ci
+2024-08-14T18:56:31.620Z,35.1048317,-119.1083298,12.05,3.3,ml,96,21,0.05032,0.29,ci,ci40702023,2024-08-14T19:30:22.531Z,"24 km NW of Grapevine, CA",earthquake,0.22,0.91,0.26,23,reviewed,ci,ci
 2024-08-14T18:55:46.340Z,33.507,-116.4978333,13.35,1.91,ml,82,30,0.05748,0.18,ci,ci40702015,2024-08-14T19:06:24.670Z,"17 km ESE of Anza, CA",earthquake,0.13,0.26,0.187,27,automatic,ci,ci
 2024-08-14T18:53:33.840Z,38.89,-122.57,1.11,1.89,md,17,106,0.0546,0.1,nc,nc75048391,2024-08-14T19:21:00.059Z,"4 km SE of Lower Lake, CA",earthquake,0.31,1.30999994,0.18,19,automatic,nc,nc
 2024-08-14T18:47:07.341Z,31.407,-103.528,6.5976,1.6,ml,8,97,0,0.5,tx,tx2024pyja,2024-08-14T19:01:37.736Z,"3 km WSW of Pecos, Texas",earthquake,0,4.47280168533325,0.2,6,automatic,tx,tx
@@ -32,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:16:27.590Z,46.20433333333333,-122.19333333333333,6.38,0.04,ml,9,114,0.004868,0.09,uw,uw62027752,2024-08-14T19:11:41.590Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.73,0.054364641945367956,4,reviewed,uw,uw
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
-2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T18:05:57.556Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
+2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T19:28:43.192Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
 2024-08-14T17:05:37.560Z,35.1361667,-119.025,15.53,1.06,ml,10,190,0.09118,0.18,ci,ci40701799,2024-08-14T17:12:06.801Z,"17 km SW of Lamont, CA",earthquake,1.02,0.87,0.175,12,automatic,ci,ci
 2024-08-14T16:59:56.090Z,37.78,-121.99,8.07,2.09,md,27,55,0.04784,0.08,nc,nc75048306,2024-08-14T17:36:00.349Z,"1 km W of San Ramon, CA",earthquake,0.22,0.379999995,0.15,21,automatic,nc,nc
 2024-08-14T16:58:18.090Z,38.84,-122.81,2.19,1.04,md,17,50,0.01193,0.01,nc,nc75048301,2024-08-14T16:59:52.961Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.680000007,0.1,18,automatic,nc,nc
@@ -156,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T07:53:56.560Z,34.0335,-116.703,11.42,0.64,ml,25,120,0.04599,0.13,ci,ci40701327,2024-08-14T08:11:21.999Z,"11 km W of Morongo Valley, CA",earthquake,0.2,0.49,0.236,16,automatic,ci,ci
 2024-08-14T07:52:40.220Z,35.0851667,-119.0975,12.65,1.67,ml,40,54,0.02879,0.22,ci,ci40701319,2024-08-14T08:11:20.208Z,"22 km NW of Grapevine, CA",earthquake,0.27,0.6,0.195,29,automatic,ci,ci
 2024-08-14T07:52:02.140Z,35.0841675,-119.1041641,13.05,1.66,ml,30,123,0.03049,0.18,ci,ci40701311,2024-08-14T08:05:00.406Z,"22 km NW of Grapevine, CA",earthquake,0.43,0.66,0.196,27,automatic,ci,ci
+2024-08-14T07:49:50.753Z,36.6363,-115.7406,7.4,0.2,ml,14,318.69,0.18,0.0741,nn,nn00882435,2024-08-14T19:27:53.306Z,"9 km NW of Indian Springs, Nevada",earthquake,,6.6,0.12,2,reviewed,nn,nn
 2024-08-14T07:37:21.330Z,38.83,-122.81,2.14,1.07,md,16,62,0.006859,0.01,nc,nc75048111,2024-08-14T07:39:00.662Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.579999983,0.22,19,automatic,nc,nc
 2024-08-14T07:31:49.500Z,37.38,-121.73,7.49,0.98,md,28,48,0.0773,0.07,nc,nc75048106,2024-08-14T10:21:02.934Z,"9 km E of Alum Rock, CA",earthquake,0.22,0.55,0.254,22,reviewed,nc,nc
 2024-08-14T07:20:03.506Z,64.8478,-147.6246,6.6,1.3,ml,,,,1.18,ak,ak024afja3xa,2024-08-14T07:21:49.255Z,"4 km ENE of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
