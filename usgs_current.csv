@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T13:16:52.110Z,19.3729991912842,-155.222671508789,2.13000011444092,1.73,ml,35,98,0.006815,0.200000003,hv,hv74402326,2024-08-15T13:19:29.590Z,"7 km S of Volcano, Hawaii",earthquake,0.32,0.310000002,0.14,13,automatic,hv,hv
+2024-08-15T13:05:57.860Z,34.1408333,-117.7448333,9.35,1.11,ml,43,48,0.02044,0.22,ci,ci40702967,2024-08-15T13:12:24.348Z,"5 km NNE of La Verne, CA",earthquake,0.23,0.5,0.292,8,automatic,ci,ci
 2024-08-15T12:42:47.470Z,35.0815,-119.0763333,11.73,1.56,ml,31,74,0.02365,0.22,ci,ci40702951,2024-08-15T12:49:14.210Z,"20 km NW of Grapevine, CA",earthquake,0.25,0.85,0.263,27,automatic,ci,ci
 2024-08-15T12:39:06.576Z,61.2549,-146.8728,38.6,1.5,ml,,,,0.67,ak,ak024ah9wpac,2024-08-15T12:41:56.133Z,"31 km WNW of Valdez, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2024-08-15T12:39:01.470Z,19.820499420166,-155.097839355469,39.5699996948242,2.28,ml,30,188,0.1396,0.140000001,hv,hv74402231,2024-08-15T12:41:38.600Z,"1 km SE of Pepeekeo, Hawaii",earthquake,0.63,0.850000024,0.2,5,automatic,hv,hv
@@ -19,9 +21,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T11:40:55.823Z,59.7762,-152.0428,75.3,1.2,ml,,,,0.57,ak,ak024ah9bl72,2024-08-15T11:43:59.410Z,"11 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-15T11:30:02.220Z,33.3148333,-116.4145,4.92,1.15,ml,66,37,0.04139,0.2,ci,ci40702895,2024-08-15T11:36:19.145Z,"8 km NNW of Borrego Springs, CA",earthquake,0.15,0.39,0.176,27,automatic,ci,ci
 2024-08-15T11:28:47.530Z,35.6838333,-117.5218333,7.29,1.47,ml,29,60,0.08205,0.13,ci,ci40702887,2024-08-15T11:35:23.780Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.43,0.17,23,automatic,ci,ci
+2024-08-15T11:24:08.670Z,28.744,-98.243,0.0977,2.2,ml,15,46,0.1,0.2,tx,tx2024pzpu,2024-08-15T13:12:55.603Z,"25 km ESE of Christine, Texas",earthquake,0.875782280825512,1.372848013261686,0.1,12,reviewed,tx,tx
 2024-08-15T11:21:23.696Z,36.6741,-115.8163,2,0.4,ml,19,224.45000000000002,0.118,0.2647,nn,nn00882480,2024-08-15T11:23:23.352Z,"17 km NW of Indian Springs, Nevada",earthquake,,3.3,0.35,13,automatic,nn,nn
-2024-08-15T11:20:35.359Z,35.419,139.2285,21.374,4.5,mb,33,116,1.398,0.86,us,us7000n750,2024-08-15T11:59:11.040Z,"5 km N of Hadano, Japan",earthquake,3.08,5.734,0.108,25,reviewed,us,us
+2024-08-15T11:20:35.359Z,35.419,139.2285,21.374,4.5,mb,33,116,1.398,0.86,us,us7000n750,2024-08-15T13:06:50.011Z,"5 km N of Hadano, Japan",earthquake,3.08,5.734,0.108,25,reviewed,us,us
 2024-08-15T11:17:20.270Z,35.0806667,-119.1421667,11.66,2.55,ml,57,30,0.0527,0.27,ci,ci40702879,2024-08-15T11:28:34.270Z,"24 km E of Maricopa, CA",earthquake,0.24,0.74,0.258,25,automatic,ci,ci
+2024-08-15T11:15:24.552Z,28.739,-98.283,2.2705,2.3,ml,15,69,0.1,0.2,tx,tx2024pzpm,2024-08-15T13:04:44.065Z,"21 km ESE of Christine, Texas",earthquake,0.9667836576245562,1.884573244233144,0.1,13,reviewed,tx,tx
 2024-08-15T11:14:35.120Z,33.2391667,-116.0421667,3.23,1.75,ml,67,68,0.06239,0.2,ci,ci40702871,2024-08-15T11:25:30.980Z,"10 km SW of Salton City, CA",earthquake,0.15,0.34,0.137,26,automatic,ci,ci
 2024-08-15T11:07:23.342Z,61.0891,-148.3885,25.7,1.1,ml,,,,1.07,ak,ak024ah94g2g,2024-08-15T11:09:54.536Z,"38 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-15T11:06:11.330Z,37.16,-121.54,6.91,0.97,md,8,114,0.0601,0.11,nc,nc75048651,2024-08-15T12:30:59.621Z,"10 km NE of San Martin, CA",earthquake,0.64,2.1500001,0.15,5,automatic,nc,nc
@@ -39,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T10:20:04.260Z,35.0924988,-119.0856705,13.59,1.81,ml,35,42,0.03386,0.26,ci,ci40702831,2024-08-15T10:31:13.110Z,"22 km NW of Grapevine, CA",earthquake,0.34,0.88,0.099,26,automatic,ci,ci
 2024-08-15T10:11:25.800Z,33.2473333,-116.0326667,4.35,0.81,ml,38,96,0.05105,0.2,ci,ci40702823,2024-08-15T10:17:45.454Z,"9 km SW of Salton City, CA",earthquake,0.18,0.49,0.159,13,automatic,ci,ci
 2024-08-15T10:06:47.780Z,35.6611667,-117.5391667,9.37,1.44,ml,30,46,0.0941,0.14,ci,ci40702815,2024-08-15T10:17:46.690Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.41,0.11,22,automatic,ci,ci
+2024-08-15T10:01:49.080Z,37.4916666666667,-110.200333333333,14.91,2.28,ml,17,138,0.6188,0.19,uu,uu80078551,2024-08-15T13:21:51.640Z,"45 km E of Halls Crossing, Utah",earthquake,0.98,0.63,0.200584054384955,12,reviewed,uu,uu
 2024-08-15T09:50:07.230Z,35.102,-119.1148333,10.13,1.41,ml,32,64,0.05023,0.22,ci,ci40702807,2024-08-15T09:56:32.823Z,"24 km NW of Grapevine, CA",earthquake,0.25,0.55,0.143,27,automatic,ci,ci
 2024-08-15T09:48:14.240Z,34.1841667,-117.3515,5.97,1.09,ml,63,49,0.02523,0.19,ci,ci40702799,2024-08-15T09:54:37.216Z,"3 km NNW of Muscoy, CA",earthquake,0.14,0.4,0.119,27,automatic,ci,ci
 2024-08-15T09:42:07.021Z,61.2556,-151.451,65.1,1.2,ml,,,,0.19,ak,ak024ah851ni,2024-08-15T09:43:24.372Z,"23 km WNW of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -48,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T09:21:43.070Z,38.83,-122.8,1.48,1.1,md,20,36,0.007598,0.01,nc,nc75048616,2024-08-15T09:23:22.916Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.400000006,0.07,21,automatic,nc,nc
 2024-08-15T09:19:38.430Z,19.367000579834,-155.167999267578,1.79999995231628,2.3,ml,57,71,0.01244,0.300000012,hv,hv74401861,2024-08-15T09:22:16.800Z,"10 km SE of Volcano, Hawaii",earthquake,0.38,0.409999996,0.53,25,automatic,hv,hv
 2024-08-15T09:19:17.280Z,19.3761672973633,-155.139663696289,1.95000004768372,2.28,ml,9,192,0.01598,0.209999993,hv,hv74401856,2024-08-15T09:21:56.130Z,"9 km S of Fern Forest, Hawaii",earthquake,2.36,0.419999987,0.56,26,automatic,hv,hv
-2024-08-15T09:06:45.959Z,24.3858,121.9167,11.345,5.4,mww,72,43,0.362,0.9,us,us7000n74c,2024-08-15T12:30:06.382Z,"44 km SSE of Yilan, Taiwan",earthquake,5.28,3.325,0.068,21,reviewed,us,us
+2024-08-15T09:06:45.959Z,24.3858,121.9167,11.345,5.4,mww,72,43,0.362,0.9,us,us7000n74c,2024-08-15T13:21:15.019Z,"44 km SSE of Yilan, Taiwan",earthquake,5.28,3.325,0.068,21,reviewed,us,us
 2024-08-15T09:04:39.050Z,34.2371667,-117.644,5.16,1.01,ml,38,74,0.01215,0.18,ci,ci40702791,2024-08-15T09:11:03.969Z,"14 km W of Lytle Creek, CA",earthquake,0.2,0.41,0.152,29,automatic,ci,ci
 2024-08-15T08:52:46.832Z,60.2968,-148.5548,0,1.5,ml,,,,0.9,ak,ak024ah7lua3,2024-08-15T08:54:32.927Z,"39 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-15T08:50:31.320Z,38.82,-122.84,1.48,0.75,md,7,117,0.006525,0.02,nc,nc75048606,2024-08-15T09:46:36.552Z,"9 km NW of The Geysers, CA",earthquake,0.51,0.75,0.27,9,automatic,nc,nc
@@ -103,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T04:13:18.311Z,62.1714,-147.817,33.9,1.6,ml,,,,0.35,ak,ak024ah4zoqf,2024-08-15T04:14:38.272Z,"41 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-15T04:04:50.154Z,36.6625,-115.7727,2.5,1.3,ml,25,188.57,0.152,0.2748,nn,nn00882471,2024-08-15T04:07:03.180Z,"13 km NW of Indian Springs, Nevada",earthquake,,1.3,0.25,16,automatic,nn,nn
 2024-08-15T04:01:38.400Z,33.2376667,-116.0423333,3.12,1.16,ml,54,73,0.06349,0.24,ci,ci40702647,2024-08-15T04:07:39.709Z,"10 km SW of Salton City, CA",earthquake,0.19,0.37,0.12,27,automatic,ci,ci
-2024-08-15T03:47:21.695Z,35.37314987,-97.94934082,3.461847305,2.19,ml,34,60.70957947,0.03229433671,0.8508592453,ok,ok2024pzar,2024-08-15T03:56:31.842Z,"2 km SSW of Union City, Oklahoma",earthquake,2.426557157,1.459160828,0.28,24,automatic,ok,ok
+2024-08-15T03:47:21.239Z,35.35733333,-97.9645,7.37,1.87,ml,86,49,0.05128993517,0.27,ok,ok2024pzar,2024-08-15T13:22:27.755Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.4,0.26,40,reviewed,ok,ok
 2024-08-15T03:39:53.250Z,38.82,-122.8,2.46,1.08,md,14,75,0.005345,0.02,nc,nc75048546,2024-08-15T03:41:30.694Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.579999983,0.22,14,automatic,nc,nc
 2024-08-15T03:35:22.590Z,19.367166519165,-155.179504394531,2.25,1.71000004,md,20,136,0.01556,0.300000012,hv,hv74401206,2024-08-15T03:37:08.600Z,"10 km SE of Volcano, Hawaii",earthquake,0.79,0.689999998,0.230000004,9,automatic,hv,hv
 2024-08-15T03:33:35.642Z,42.8137,17.577,10,4,mb,52,31,1.301,1.01,us,us7000n73a,2024-08-15T11:05:02.612Z,"9 km N of Babino Polje, Croatia",earthquake,4.15,1.626,0.156,11,reviewed,us,us
@@ -270,13 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T13:32:16.040Z,35.9636667,-117.6596667,2.66,1.29,ml,21,93,0.01744,0.13,ci,ci40701567,2024-08-14T13:38:19.804Z,"22 km E of Little Lake, CA",earthquake,0.17,0.19,0.233,16,automatic,ci,ci
 2024-08-14T13:32:08.050Z,60.4131666666667,-152.720833333333,3.52,-0.55,ml,6,312,0.04235,0.33,av,av93018454,2024-08-15T00:04:19.830Z,"70 km NW of Ninilchik, Alaska",earthquake,1.56,1.86,0.107060926980585,4,reviewed,av,av
 2024-08-14T13:27:04.437Z,61.7112,-149.749,34.5,2.4,ml,,,,0.27,ak,ak024afmw7mz,2024-08-14T13:28:23.903Z,"9 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-14T13:18:40.710Z,36.57,-121.18,3.98,2.85,md,50,55,0.1139,0.19,nc,nc75048226,2024-08-14T18:25:59.583Z,"6 km NNW of Pinnacles, CA",earthquake,0.29,1.36000001,0.1,60,automatic,nc,nc
-2024-08-14T13:15:41.781Z,64.4299,-146.857,15.1,0.8,ml,,,,0.31,ak,ak024afmtpxe,2024-08-14T13:17:59.252Z,"10 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-14T13:15:02.599Z,39.2154,-120.0705,6.3,0.5,ml,8,112.23000000000002,0.044,0.1048,nn,nn00882450,2024-08-14T23:18:07.386Z,"1 km SE of Carnelian Bay, California",earthquake,,2.1,0.27,4,reviewed,nn,nn
-2024-08-14T13:12:42.180Z,33.2458333,-116.0348333,5.08,1.29,ml,29,96,0.05341,0.15,ci,ci40701551,2024-08-14T22:11:51.106Z,"9 km SW of Salton City, CA",earthquake,0.18,0.45,0.104,11,reviewed,ci,ci
-2024-08-14T13:12:11.840Z,61.7052,-149.7235,32.9,2.4,ml,,,,0.49,ak,ak024afmt0gw,2024-08-14T13:13:52.248Z,"9 km NNE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-14T13:10:53.420Z,33.2413333,-116.042,3.21,3.38,ml,92,19,0.06089,0.21,ci,ci40701543,2024-08-14T22:32:16.716Z,"10 km SW of Salton City, CA",earthquake,0.12,0.32,0.138,175,reviewed,ci,ci
-2024-08-14T13:07:56.402Z,31.387,-103.533,0.9729,1.9,ml,28,55,0,0.1,tx,tx2024pxxr,2024-08-14T15:51:02.501Z,"2 km NNE of Lindsay, Texas",earthquake,0.7980224371201075,0.8521352357189218,0.2,17,reviewed,tx,tx
-2024-08-14T13:07:16.370Z,31.9086667,-116.1145,13.92,2.1,ml,19,118,0.1709,0.22,ci,ci40701535,2024-08-14T17:43:42.541Z,"48 km ENE of Maneadero, B.C., MX",earthquake,0.36,0.86,0.182,17,reviewed,ci,ci
-2024-08-14T13:06:59.520Z,37.28,-113.766166666667,12.21,0.94,ml,7,114,0.1816,0.09,uu,uu80078496,2024-08-14T15:07:55.520Z,"8 km WSW of Dammeron Valley, Utah",earthquake,0.54,1.06,0.209794189206753,4,reviewed,uu,uu
-2024-08-14T13:03:35.580Z,56.8206666666667,-158.14,22.34,-0.39,ml,5,240,0.02127,0.32,av,av93018459,2024-08-15T00:07:51.870Z,"60 km NNE of Chignik, Alaska",earthquake,4.32,2.11,0.144113188623463,5,reviewed,av,av
