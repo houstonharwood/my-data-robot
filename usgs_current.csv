@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-15T13:36:40.852Z,61.5986,-146.3049,32.7,3.6,ml,,,,0.43,ak,ak024ahahkdx,2024-08-15T13:37:57.026Z,"50 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-15T13:47:17.470Z,35.958168,-117.663002,2.29,1.53,ml,15,125,0.01449,0.11,ci,ci40703015,2024-08-15T13:49:30.268Z,"22 km E of Little Lake, CA",earthquake,0.51,0.29,0.13,3,automatic,ci,ci
+2024-08-15T13:43:05.651Z,64.2012,-150.5808,11.6,2.3,ml,,,,0.88,ak,ak024ahaizol,2024-08-15T13:45:14.383Z,"67 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-15T13:36:40.852Z,61.5986,-146.3049,32.7,3.6,ml,,,,0.43,ak,ak024ahahkdx,2024-08-15T13:48:25.332Z,"50 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-15T13:34:03.950Z,19.3881664276123,-155.237335205078,0.939999997615814,2.75,ml,57,39,0.01345,0.389999986,hv,hv74402371,2024-08-15T13:36:40.760Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.239999995,0.52,36,automatic,hv,hv
 2024-08-15T13:25:34.530Z,40.732,-112.033,6.59,0.7,ml,12,72,0.005499,0.14,uu,uu80078566,2024-08-15T13:41:10.840Z,"5 km NNW of West Valley City, Utah",earthquake,0.38,0.6,0.183031234417722,2,reviewed,uu,uu
 2024-08-15T13:16:52.110Z,19.3729991912842,-155.222671508789,2.13000011444092,1.73,ml,35,98,0.006815,0.200000003,hv,hv74402326,2024-08-15T13:19:29.590Z,"7 km S of Volcano, Hawaii",earthquake,0.32,0.310000002,0.14,13,automatic,hv,hv
@@ -89,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T06:01:27.150Z,33.6911667,-116.7251667,17.2,0.28,ml,17,115,0.02196,0.15,ci,ci40702727,2024-08-15T06:07:51.211Z,"6 km S of Idyllwild, CA",earthquake,0.4,0.59,0.158,6,automatic,ci,ci
 2024-08-15T05:55:36.000Z,33.6763333,-116.7246667,15.6,0.65,ml,37,60,0.03583,0.11,ci,ci40702719,2024-08-15T13:38:16.860Z,"7 km S of Idyllwild, CA",earthquake,0.16,0.27,0.189,14,reviewed,ci,ci
 2024-08-15T05:50:23.120Z,35.1053333,-119.0901667,11.75,1.38,ml,28,64,0.04692,0.19,ci,ci40702703,2024-08-15T05:56:43.813Z,"23 km NW of Grapevine, CA",earthquake,0.27,0.54,0.15,27,automatic,ci,ci
+2024-08-15T05:44:50.800Z,47.3016666666667,-113.152666666667,21.07,0.92,ml,13,95,0.2397,0.08,mb,mb90059408,2024-08-15T13:47:34.170Z,"28 km ENE of Seeley Lake, Montana",earthquake,0.3,1.13,0.0730196291471761,6,reviewed,mb,mb
 2024-08-15T05:36:39.650Z,19.3754997253418,-155.171340942383,2.59999990463257,1.83,ml,27,127,0.004375,0.200000003,hv,hv74401451,2024-08-15T05:39:16.330Z,"9 km SE of Volcano, Hawaii",earthquake,0.67,0.49000001,0.16,3,automatic,hv,hv
 2024-08-15T05:25:50.545Z,32.6522,-104.3987,4.792,2.7,ml,33,81,0.496,0.33,us,us7000n73u,2024-08-15T05:32:31.040Z,"13 km S of Atoka, New Mexico",earthquake,2.65,5.532,0.081,20,reviewed,us,us
 2024-08-15T05:24:26.120Z,36.86,-121.6,6.74,1.06,md,8,110,0.05784,0.04,nc,nc75048556,2024-08-15T05:26:01.527Z,"5 km WNW of San Juan Bautista, CA",earthquake,0.46,1.04999995,0.13,5,automatic,nc,nc
@@ -276,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T14:06:16.631Z,36.6425,-115.7319,11.6,2.9,ml,47,54.089999999999975,0.186,0.1015,nn,nn00882407,2024-08-14T23:28:17.241Z,"9 km NW of Indian Springs, Nevada",earthquake,,1.1,0.35,16,reviewed,nn,nn
 2024-08-14T14:03:26.600Z,19.4371662139893,-155.498001098633,4.61999988555908,1.83,ml,47,35,0.0526,0.180000007,hv,hv74399966,2024-08-14T14:06:06.460Z,"26 km N of Pāhala, Hawaii",earthquake,0.27,0.720000029,0.28,5,automatic,hv,hv
 2024-08-14T13:56:13.889Z,31.608,-103.977,7.1765,1.6,ml,19,49,0,0.1,tx,tx2024pxzh,2024-08-14T17:55:39.871Z,"36 km NNW of Toyah, Texas",earthquake,0.4556161817949035,0.5422503067267314,0.1,12,reviewed,tx,tx
-2024-08-14T13:45:15.210Z,35.94,-120.49,9.17,1.76,md,24,90,0.02047,0.12,nc,nc75048241,2024-08-14T15:41:01.626Z,"7 km NW of Parkfield, CA",earthquake,0.29,0.540000021,0.24,15,automatic,nc,nc
-2024-08-14T13:44:37.990Z,35.077,-119.0948333,8.3,1.49,ml,30,102,0.02047,0.22,ci,ci40701599,2024-08-14T13:51:08.207Z,"21 km NW of Grapevine, CA",earthquake,0.32,1.19,0.241,30,automatic,ci,ci
