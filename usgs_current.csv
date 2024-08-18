@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-18T14:06:52.310Z,35.0733337,-119.0888367,14.09,1.78,ml,24,53,0.01527,0.22,ci,ci40706135,2024-08-18T14:08:56.489Z,"20 km NW of Grapevine, CA",earthquake,0.39,0.6,0.318,3,automatic,ci,ci
+2024-08-18T14:23:32.220Z,35.0766667,-119.1476667,12.21,1.14,ml,28,78,0.0554,0.22,ci,ci40706151,2024-08-18T14:29:58.284Z,"23 km E of Maricopa, CA",earthquake,0.3,0.63,0.129,19,automatic,ci,ci
+2024-08-18T14:06:52.330Z,35.077,-119.0825,12.64,1.35,ml,32,53,0.01839,0.25,ci,ci40706135,2024-08-18T14:24:52.967Z,"20 km NW of Grapevine, CA",earthquake,0.31,0.62,0.22,30,automatic,ci,ci
 2024-08-18T13:55:13.000Z,19.3304996490479,-155.113998413086,5.19999980926514,2.69,ml,59,141,0.04663,0.270000011,hv,hv74408966,2024-08-18T14:03:25.471Z,"15 km S of Fern Forest, Hawaii",earthquake,0.47,0.540000021,0.38,42,automatic,hv,hv
 2024-08-18T13:44:40.620Z,19.1431674957275,-155.370498657227,29.5,2.08999991,md,45,189,0.08746,0.119999997,hv,hv74408951,2024-08-18T13:46:11.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.48,0.550000012,0.319999993,8,automatic,hv,hv
 2024-08-18T13:17:40.755Z,62.3581,-149.1765,0,1.3,ml,,,,0.75,ak,ak024am8zj97,2024-08-18T13:19:24.962Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T12:16:57.430Z,33.477,-116.4475,8.63,0.8,ml,41,74,0.1064,0.17,ci,ci40706087,2024-08-18T13:59:47.774Z,"23 km ESE of Anza, CA",earthquake,0.19,0.61,0.18,18,reviewed,ci,ci
 2024-08-18T12:04:44.990Z,35.1091667,-119.1063333,13.65,1.97,ml,53,42,0.05373,0.24,ci,ci40706079,2024-08-18T12:11:30.852Z,"24 km SW of Lamont, CA",earthquake,0.21,0.56,0.178,26,automatic,ci,ci
 2024-08-18T11:54:44.682Z,61.241,-148.9598,20,1.5,ml,,,,0.56,ak,ak024am80luc,2024-08-18T11:56:49.818Z,"24 km S of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-18T11:54:15.583Z,36.7692,-116.6286,5.4,0.7,ml,19,230.85000000000002,0.024,0.1459,nn,nn00882620,2024-08-18T11:56:10.753Z,"19 km SE of Beatty, Nevada",earthquake,,0.7,0.22,13,automatic,nn,nn
+2024-08-18T11:54:15.899Z,36.7512,-116.6474,3.6,0.7,ml,30,161.02,0.045,0.1279,nn,nn00882620,2024-08-18T14:30:49.880Z,"20 km SSE of Beatty, Nevada",earthquake,,1.6,0.41,10,reviewed,nn,nn
 2024-08-18T11:34:40.223Z,63.3532,-145.5286,0,1.2,ml,,,,0.5,ak,ak024am7wb6e,2024-08-18T11:36:12.838Z,"29 km N of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-18T11:33:59.510Z,19.4591674804688,-155.427993774414,2.27999997138977,1.76999998,md,23,68,0.05208,0.140000001,hv,hv74408826,2024-08-18T11:35:42.370Z,"20 km W of Volcano, Hawaii",earthquake,0.35,2.5999999,0.25,3,automatic,hv,hv
 2024-08-18T11:27:30.870Z,33.4833333,-116.4828333,11.13,0.42,ml,29,63,0.08421,0.17,ci,ci40706055,2024-08-18T14:00:09.709Z,"19 km ESE of Anza, CA",earthquake,0.21,0.59,0.124,9,reviewed,ci,ci
@@ -199,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T14:58:02.247Z,60.3313,-151.3736,56.9,1.4,ml,,,,0.38,ak,ak024akmabr4,2024-08-17T14:59:42.801Z,"5 km W of Kasilof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-17T14:56:00.530Z,34.528,-116.2448333,1.7,1.46,ml,23,50,0.1727,0.12,ci,ci40705495,2024-08-18T14:21:55.660Z,"23 km SSW of Ludlow, CA",earthquake,0.17,0.68,0.163,26,reviewed,ci,ci
 2024-08-17T14:44:13.820Z,19.380500793457,-155.259506225586,0.509999990463257,1.82,ml,20,50,0.009203,0.119999997,hv,hv74406921,2024-08-17T14:46:49.390Z,"7 km SSW of Volcano, Hawaii",earthquake,0.15,0.159999996,0.3,11,automatic,hv,hv
-2024-08-17T14:30:05.510Z,33.6651667,-116.7543333,12.84,0.45,ml,22,65,0.0568,0.12,ci,ci40705479,2024-08-18T14:20:52.923Z,"9 km SSW of Idyllwild, CA",earthquake,0.27,0.49,0.126,7,reviewed,ci,ci
-2024-08-17T14:25:28.390Z,34.2171669,-117.4694977,5.27,1.53,ml,56,35,0.01989,0.18,ci,ci40705471,2024-08-17T14:36:17.830Z,"5 km SSE of Lytle Creek, CA",earthquake,0.22,0.46,0.19,26,automatic,ci,ci
