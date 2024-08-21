@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-21T05:24:16.040Z,33.1643333,-116.117836,4.7,1.05,ml,22,97,0.04287,0.22,ci,ci40709679,2024-08-21T05:26:34.550Z,"3 km NNE of Ocotillo Wells, CA",earthquake,0.45,0.76,0.173,4,automatic,ci,ci
 2024-08-21T05:16:27.800Z,19.3990001678467,-155.265167236328,0.910000026226044,1.73000002,md,17,48,0.001111,0.140000001,hv,hv74415861,2024-08-21T05:19:05.770Z,"5 km SW of Volcano, Hawaii",earthquake,0.17,0.209999993,0.430000007,10,automatic,hv,hv
 2024-08-21T04:55:21.583Z,59.7774,-151.9296,53.6,2.7,ml,,,,0.3,ak,ak024ar2gqv3,2024-08-21T04:56:57.687Z,"5 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-21T04:55:06.452Z,57.8746,-154.0937,59.8,1.8,ml,,,,0.26,ak,ak024ar2gqut,2024-08-21T04:56:49.795Z,"37 km N of Larsen Bay, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T20:25:10.450Z,19.3778324127197,-155.233993530273,1.86000001430511,1.84,ml,24,78,0.007549,0.150000006,hv,hv74414441,2024-08-20T20:27:47.830Z,"7 km S of Volcano, Hawaii",earthquake,0.28,0.209999993,0.19,9,automatic,hv,hv
 2024-08-20T20:08:40.117Z,36.6222,-115.7376,6.9,0.9,ml,12,168.96,0.185,0.0719,nn,nn00882721,2024-08-20T21:54:16.899Z,"8 km NW of Indian Springs, Nevada",earthquake,,7.4,0.26,6,reviewed,nn,nn
 2024-08-20T19:50:46.610Z,19.3673324584961,-155.237670898438,0.46000000834465,1.76999998,md,13,99,0.006794,0.119999997,hv,hv74414361,2024-08-20T19:52:16.160Z,"8 km S of Volcano, Hawaii",earthquake,0.26,0.170000002,0.230000004,7,automatic,hv,hv
-2024-08-20T19:50:12.510Z,33.7648333,-118.1546667,9.74,2.02,ml,55,87,0.04469,0.29,ci,ci40709175,2024-08-20T23:30:19.112Z,"4 km S of Long Beach, CA",earthquake,0.35,0.46,0.164,31,automatic,ci,ci
+2024-08-20T19:50:12.510Z,33.7648333,-118.1546667,9.74,2.02,ml,55,87,0.04469,0.29,ci,ci40709175,2024-08-21T05:25:40.061Z,"4 km S of Long Beach, CA",earthquake,0.35,0.46,0.164,31,automatic,ci,ci
 2024-08-20T19:48:15.910Z,19.3689994812012,-155.226837158203,0.170000001788139,1.87,ml,17,99,0.01171,0.109999999,hv,hv74414346,2024-08-20T19:50:52.580Z,"8 km S of Volcano, Hawaii",earthquake,0.2,0.209999993,0.24,4,automatic,hv,hv
 2024-08-20T19:43:44.680Z,19.3811664581299,-155.241500854492,1.42999994754791,1.94,ml,24,64,0.007606,0.129999995,hv,hv74414341,2024-08-20T19:46:22.010Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.159999996,0.23,12,automatic,hv,hv
 2024-08-20T19:37:07.210Z,35.9685,-117.6586667,2.65,2.17,ml,27,94,0.02163,0.14,ci,ci40709143,2024-08-20T19:44:07.124Z,"23 km E of Little Lake, CA",earthquake,0.19,0.16,0.234,27,automatic,ci,ci
@@ -448,5 +449,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T05:46:48.000Z,19.391,-155.244,1.57,3.02,ml,38,47,0.0088,0.1,hv,hv74412001,2024-08-20T10:01:07.603Z,"5 km S of Volcano, Hawaii",earthquake,0.15,0.13,0.244584937756843,17,reviewed,hv,hv
 2024-08-20T05:39:19.720Z,33.6775,-117.4058333,12.95,1.22,ml,49,58,0.03299,0.18,ci,ci40708223,2024-08-20T13:55:39.481Z,"7 km NW of Lakeland Village, CA",earthquake,0.23,0.39,0.321,30,reviewed,ci,ci
 2024-08-20T05:35:55.320Z,33.873,-116.8591667,13.03,0.29,ml,25,99,0.06473,0.08,ci,ci40708215,2024-08-20T18:19:24.516Z,"6 km SSE of Banning, CA",earthquake,0.17,0.47,0.117,4,reviewed,ci,ci
-2024-08-20T05:31:07.230Z,34.3568333,-119.498,2.46,1.2,ml,18,209,0.04481,0.21,ci,ci40708207,2024-08-20T18:14:04.781Z,"5 km SSE of Carpinteria, CA",earthquake,1.07,0.66,0.128,7,reviewed,ci,ci
-2024-08-20T05:30:28.480Z,58.3078333333333,-154.9765,2.87,-0.12,ml,4,244,0.1192,0.1,av,av93018779,2024-08-20T18:40:33.760Z,"87 km NNW of Karluk, Alaska",earthquake,1.2,3.14,0.310129721936601,4,reviewed,av,av
