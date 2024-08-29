@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-29T14:10:43.120Z,35.1096649,-119.1366653,11.4,1.66,ml,23,56,0.0669,0.22,ci,ci40718735,2024-08-29T14:12:49.525Z,"25 km ENE of Maricopa, CA",earthquake,0.49,1.06,0.168,15,automatic,ci,ci
+2024-08-29T14:10:43.050Z,35.1015,-119.1241667,13.78,1.68,ml,37,75,0.05411,0.22,ci,ci40718735,2024-08-29T14:25:27.707Z,"25 km NW of Grapevine, CA",earthquake,0.24,0.53,0.173,27,automatic,ci,ci
 2024-08-29T14:08:08.403Z,61.2078,-149.3855,29.4,1.3,ml,,,,0.47,ak,ak024b4gfsco,2024-08-29T14:10:00.721Z,"14 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-29T13:51:38.979Z,37.7399,-117.1417,0,1,ml,15,176.06,0.45,0.2499,nn,nn00883376,2024-08-29T13:54:02.398Z,"8 km ENE of Goldfield, Nevada",earthquake,,47.9,0.21,7,automatic,nn,nn
 2024-08-29T13:51:02.580Z,38.8214988708496,-122.813667297363,2.95000004768372,0.76,md,15,59,0.003386,0.01,nc,nc75054896,2024-08-29T14:07:16.552Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.589999974,0.14,14,automatic,nc,nc
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T12:08:27.640Z,33.6968333,-116.8016667,14.54,0.52,ml,26,51,0.07433,0.13,ci,ci40718679,2024-08-29T12:14:19.616Z,"9 km WSW of Idyllwild, CA",earthquake,0.22,0.35,0.186,11,automatic,ci,ci
 2024-08-29T12:06:34.920Z,38.792667388916,-122.778167724609,1.88999998569489,0.76,md,15,90,0.01647,0.02,nc,nc75054876,2024-08-29T13:54:28.460Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.560000002,0.05,17,automatic,nc,nc
 2024-08-29T12:05:08.160Z,19.3904991149902,-155.252838134766,1.37999999523163,1.82,ml,24,48,0.005168,0.25999999,hv,hv74429752,2024-08-29T12:08:00.230Z,"6 km SSW of Volcano, Hawaii",earthquake,0.26,0.230000004,0.3,13,automatic,hv,hv
-2024-08-29T12:04:06.748Z,43.0368,-110.9473,4.5,2.7,ml,48,65,0.294,0.48,us,us6000nnh8,2024-08-29T13:35:38.563Z,"5 km E of Etna, Wyoming",earthquake,1.02,4.351,0.041,78,reviewed,us,us
+2024-08-29T12:04:06.748Z,43.0368,-110.9473,4.5,2.7,ml,48,65,0.294,0.48,us,us6000nnh8,2024-08-29T14:16:24.864Z,"5 km E of Etna, Wyoming",earthquake,1.02,4.351,0.041,78,reviewed,us,us
 2024-08-29T11:57:58.060Z,35.8001667,-117.6231667,8.29,1.7,ml,30,68,0.1155,0.15,ci,ci40718671,2024-08-29T12:04:35.891Z,"20 km W of Searles Valley, CA",earthquake,0.17,0.59,0.126,25,automatic,ci,ci
 2024-08-29T11:54:30.910Z,19.3899993896484,-155.247833251953,1.41999995708466,1.84,ml,17,60,0.005542,0.159999996,hv,hv74429737,2024-08-29T11:57:22.700Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.239999995,0.35,4,automatic,hv,hv
 2024-08-29T11:50:30.260Z,37.7678,-117.1102,3.6,1,ml,16,182.07,0.564,0.2979,nn,nn00883358,2024-08-29T11:53:11.271Z,"12 km ENE of Goldfield, Nevada",earthquake,,11,0.29,8,automatic,nn,nn
@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T02:08:02.948Z,62.394,-151.0233,14.3,1.2,ml,,,,0.29,ak,ak024b49ako5,2024-08-29T02:10:38.222Z,"17 km SW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-29T02:01:08.295Z,62.8304,-150.5544,95.2,1.5,ml,,,,0.37,ak,ak024b49932l,2024-08-29T02:02:58.904Z,"38 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-29T01:43:23.699Z,35.01566667,-97.76116667,6.86,1.42,ml,66,47,0.1043795172,0.4,ok,ok2024qylq,2024-08-29T12:49:23.857Z,"11 km N of Alex, Oklahoma",earthquake,,0.7,0.21,28,reviewed,ok,ok
-2024-08-29T01:43:06.109Z,31.352,-103.85,5.1682,1.9,ml,5,191,0,0.1,tx,tx2024qylq,2024-08-29T02:08:24.562Z,"6 km NW of Toyah, Texas",earthquake,0,4.87087821960449,0,5,automatic,tx,tx
+2024-08-29T01:43:06.172Z,31.355,-103.849,4.7668,1.8,ml,22,72,0,0.2,tx,tx2024qylq,2024-08-29T14:30:12.529Z,"6 km NW of Toyah, Texas",earthquake,0.7483560632231702,1.206264655365262,0,6,reviewed,tx,tx
 2024-08-29T01:34:37.787Z,61.3938,-150.1004,32,1.7,ml,,,,0.68,ak,ak024b48usde,2024-08-29T01:36:56.696Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-29T01:34:00.944Z,63.0902,-151.1148,22.5,1.8,ml,,,,1.06,ak,ak024b48upj2,2024-08-29T01:36:12.682Z,"58 km SSE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-08-29T01:26:48.910Z,17.8631666666667,-66.8406666666667,18.46,2.07,md,3,250,0.2207,0.03,pr,pr71458538,2024-08-29T02:26:01.340Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,1.74,2.73,0.0241279599449191,3,reviewed,pr,pr
@@ -224,12 +224,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T21:22:53.800Z,19.3678340911865,-155.494171142578,7.69999980926514,1.98,ml,14,102,0.03513,0.150000006,hv,hv74428787,2024-08-28T21:25:45.540Z,"18 km N of Pāhala, Hawaii",earthquake,0.56,1.03999996,0.23,9,automatic,hv,hv
 2024-08-28T21:16:06.730Z,48.461666666666666,-123.548,-0.21,0.5,md,6,193,0.1562,0.09,uw,uw62041781,2024-08-29T00:56:17.710Z,"3 km WNW of Langford, Canada",explosion,0.88,31.61,0.42365856672529023,4,reviewed,uw,uw
 2024-08-28T21:14:58.770Z,33.9271667,-116.2851667,7.42,0.91,ml,25,39,0.09295,0.13,ci,ci40718079,2024-08-29T14:15:17.563Z,"15 km NE of Thousand Palms, CA",earthquake,0.19,0.65,0.208,20,reviewed,ci,ci
-2024-08-28T21:05:11.270Z,32.976,-116.2753333,9.63,1.51,ml,55,43,0.0318,0.18,ci,ci40718055,2024-08-29T14:15:21.384Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.161,27,reviewed,ci,ci
+2024-08-28T21:05:11.270Z,32.976,-116.2753333,9.63,1.51,ml,55,43,0.0318,0.18,ci,ci40718055,2024-08-29T14:16:37.660Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.161,27,reviewed,ci,ci
 2024-08-28T21:03:12.830Z,32.9746667,-116.2821667,9.7,2.27,ml,78,38,0.0268,0.22,ci,ci40718023,2024-08-28T21:14:19.130Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.44,0.19,26,automatic,ci,ci
 2024-08-28T21:00:33.980Z,38.806999206543,-122.775833129883,2.05999994277954,1.29,md,26,73,0.00731,0.04,nc,nc75054626,2024-08-29T00:34:27.343Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.379999995,0.2,26,automatic,nc,nc
 2024-08-28T20:52:14.980Z,33.2993333,-116.3691667,11.75,0.69,ml,27,64,0.02737,0.16,ci,ci40718007,2024-08-28T20:58:03.524Z,"5 km N of Borrego Springs, CA",earthquake,0.26,0.4,0.08,11,automatic,ci,ci
 2024-08-28T20:46:28.820Z,60.0495,-153.0745,-2.52,-0.96,ml,5,108,0.009589,0.15,av,av93244241,2024-08-29T00:54:08.640Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.52,1.77,0.276387667754367,4,reviewed,av,av
-2024-08-28T20:40:36.000Z,32.9868333,-116.3228333,5.31,1.68,ml,62,38,0.03606,0.2,ci,ci40717983,2024-08-29T14:15:52.508Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.4,0.181,27,reviewed,ci,ci
+2024-08-28T20:40:36.000Z,32.9868333,-116.3228333,5.31,1.68,ml,62,38,0.03606,0.2,ci,ci40717983,2024-08-29T14:16:41.520Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.4,0.181,27,reviewed,ci,ci
 2024-08-28T20:29:03.422Z,-23.637,-179.9994,542.67,4.5,mb,65,96,5.176,0.67,us,us6000nncf,2024-08-28T21:23:01.040Z,"south of the Fiji Islands",earthquake,14.38,7.795,0.08,46,reviewed,us,us
 2024-08-28T20:25:37.694Z,37.7444,-117.1301,0.7,1.2,ml,9,177.51,0.565,0.2023,nn,nn00883247,2024-08-28T20:28:02.535Z,"10 km ENE of Goldfield, Nevada",earthquake,,51.5,0.09,7,automatic,nn,nn
 2024-08-28T20:25:21.740Z,61.472,-151.915,5.26,0.79,ml,6,160,0.04657,0.13,av,av93244226,2024-08-29T00:50:57.780Z,"57 km NW of Beluga, Alaska",earthquake,0.66,1.99,0.272434884955101,6,reviewed,av,av
@@ -240,6 +240,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T20:13:28.600Z,18.006,-66.8223333333333,11.83,2.24,md,8,136,0.08876,0.16,pr,pr71458508,2024-08-28T20:31:58.060Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.67,2.41,0.00279401003367452,3,reviewed,pr,pr
 2024-08-28T20:11:44.749Z,61.4861,-147.2047,18.3,1.6,ml,,,,0.63,ak,ak024b2whrfu,2024-08-28T20:13:40.205Z,"43 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-28T20:09:47.751Z,60.4239,-141.8362,1.1,1.8,ml,,,,0.69,ak,ak024b2whc8n,2024-08-28T20:11:06.233Z,"126 km SSE of McCarthy, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2024-08-28T20:08:25.618Z,32.359,-101.208,7.5928,1.4,ml,12,89,0.2,0.1,tx,tx2024qyaq,2024-08-29T14:17:54.441Z,"11 km NE of Coahoma, Texas",earthquake,0.9889864783325819,2.8091047776344134,0.1,17,reviewed,tx,tx
 2024-08-28T20:02:38.950Z,38.503,-112.878833333333,1.33,0.42,md,10,96,0.006288,0.07,uu,uu80080476,2024-08-28T20:16:38.540Z,"16 km NE of Milford, Utah",earthquake,0.33,0.41,0.4746630604515,4,reviewed,uu,uu
 2024-08-28T19:58:55.590Z,31.676,-104.371,6.228,3.3,ml,29,68,0.1,0.2,tx,tx2024qyai,2024-08-28T20:30:04.040Z,"55 km S of Whites City, New Mexico",earthquake,1.627790112237026,1.4622734019539163,0.1,24,reviewed,tx,tx
 2024-08-28T19:58:14.110Z,38.8359985351562,-122.806503295898,2.16000008583069,0.67,md,10,79,0.01285,0.01,nc,nc75054616,2024-08-28T19:59:52.572Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.01999998,0.45,11,automatic,nc,nc
@@ -302,19 +303,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T16:02:25.170Z,34.091,-117.3218333,14.83,1.18,ml,8,217,0.2914,0.12,ci,ci40717455,2024-08-28T16:10:44.220Z,"2 km NNW of Colton, CA",earthquake,1.85,1,0.263,32,automatic,ci,ci
 2024-08-28T16:01:19.730Z,45.3705,-121.69533333333334,0.84,0.12,ml,7,90,0.01393,0.11,uw,uw62041686,2024-08-28T16:29:15.230Z,"8 km NNE of Government Camp, Oregon",earthquake,0.26,0.34,0.04833946444183648,3,reviewed,uw,uw
 2024-08-28T16:00:54.971Z,59.3963,-153.4766,110.1,1.5,ml,,,,0.24,ak,ak024b2u1oxl,2024-08-28T16:02:33.620Z,"56 km SE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-28T15:58:01.633Z,37.6218,-117.011,7,1.3,ml,16,245.56000000000003,0.378,0.216,nn,nn00883217,2024-08-28T16:00:40.545Z,"22 km ESE of Goldfield, Nevada",earthquake,,2.4,0.1,10,automatic,nn,nn
+2024-08-28T15:57:59.279Z,37.7354,-117.1433,8.4,1.2,ml,16,94.23,0.193,0.128,nn,nn00883217,2024-08-29T14:30:01.198Z,"8 km ENE of Goldfield, Nevada",earthquake,,2,0.27,4,reviewed,nn,nn
 2024-08-28T15:51:38.530Z,36.428,-81.1048333333333,7.67,2.03,md,8,177,0.5819,0.2,se,se60502383,2024-08-29T13:22:33.040Z,"8 km S of Sparta, North Carolina",earthquake,0.96,2.35,0.0990720028387537,7,reviewed,se,se
-2024-08-28T15:48:49.979Z,37.7294,-117.149,0,0.8,ml,8,174.15999999999997,0.562,0.1841,nn,nn00883215,2024-08-28T15:51:28.616Z,"7 km ENE of Goldfield, Nevada",earthquake,,96,0.31,6,automatic,nn,nn
+2024-08-28T15:48:51.094Z,37.7472,-117.1413,10.2,1.1,ml,11,177.07000000000005,0.457,0.1624,nn,nn00883215,2024-08-29T14:29:56.798Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.6,0.26,4,reviewed,nn,nn
 2024-08-28T15:47:41.568Z,5.4247,125.0187,35.504,4.9,mb,63,101,1.726,0.95,us,us6000nn86,2024-08-28T17:10:02.234Z,"40 km WSW of Balangonan, Philippines",earthquake,8.12,5.929,0.054,108,reviewed,us,us
-2024-08-28T15:47:25.707Z,37.5783,-116.9648,6.8,0.5,ml,8,168.43,0.475,0.1598,nn,nn00883214,2024-08-28T15:50:18.623Z,"27 km ESE of Goldfield, Nevada",earthquake,,0,0.22,5,automatic,nn,nn
-2024-08-28T15:46:01.911Z,37.7417,-117.0969,0,0.6,ml,8,181.09999999999997,0.668,0.2506,nn,nn00883212,2024-08-28T15:48:18.746Z,"12 km ENE of Goldfield, Nevada",earthquake,,85.2,0.41,5,automatic,nn,nn
+2024-08-28T15:46:02.580Z,37.7464,-117.1316,9.9,1,ml,9,118.38,0.458,0.1296,nn,nn00883212,2024-08-29T14:23:47.369Z,"10 km ENE of Goldfield, Nevada",earthquake,,4.1,0.24,2,reviewed,nn,nn
 2024-08-28T15:45:51.240Z,33.6861667,-116.709,16.23,0.53,ml,24,101,0.0253,0.15,ci,ci40717407,2024-08-28T18:05:32.652Z,"6 km S of Idyllwild, CA",earthquake,0.33,0.41,0.159,9,reviewed,ci,ci
 2024-08-28T15:44:26.970Z,31.656,-104.291,6.0999,1.9,ml,40,67,0.1,0.1,tx,tx2024qxrx,2024-08-29T13:25:18.139Z,"58 km S of Whites City, New Mexico",earthquake,0.5050321946592518,0.8638048622499098,0.2,40,reviewed,tx,tx
 2024-08-28T15:41:48.340Z,33.6818333,-116.705,15.48,0.55,ml,30,62,0.02904,0.12,ci,ci40717399,2024-08-28T18:05:49.648Z,"7 km S of Idyllwild, CA",earthquake,0.21,0.32,0.166,13,reviewed,ci,ci
 2024-08-28T15:40:57.970Z,54.757,-163.996666666667,-0.71,0.72,ml,6,101,0.04765,0.24,av,av93019574,2024-08-28T23:57:45.130Z,"39 km WSW of False Pass, Alaska",earthquake,0.35,0.56,0.404909271465883,6,reviewed,av,av
 2024-08-28T15:39:16.460Z,38.8209991455078,-122.811668395996,2.76999998092651,0.75,md,13,84,0.002697,0.03,nc,nc75054506,2024-08-28T17:07:16.394Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.670000017,0.23,14,automatic,nc,nc
 2024-08-28T15:38:48.230Z,59.3573333333333,-153.436333333333,-0.28,-0.93,ml,6,131,0.006803,0.11,av,av93019569,2024-08-28T23:20:58.680Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.21,0.14,0.153846728115849,6,reviewed,av,av
-2024-08-28T15:34:01.714Z,37.6718,-117.1674,16,0.9,ml,9,167.62,0.589,0.2072,nn,nn00883210,2024-08-28T15:36:58.637Z,"7 km SE of Goldfield, Nevada",earthquake,,1,0.12,7,automatic,nn,nn
 2024-08-28T15:26:04.462Z,37.74,-117.1446,8.8,1.1,ml,15,116.63,0.193,0.1209,nn,nn00883207,2024-08-29T14:14:32.098Z,"8 km ENE of Goldfield, Nevada",earthquake,,2.2,0.24,3,reviewed,nn,nn
 2024-08-28T15:23:28.956Z,37.7404,-117.1443,9.1,1.2,ml,14,115.36000000000001,0.45,0.1772,nn,nn00883206,2024-08-29T14:11:25.340Z,"8 km ENE of Goldfield, Nevada",earthquake,,2.4,0.29,4,reviewed,nn,nn
 2024-08-28T15:23:04.060Z,32.9318333,-116.0353333,9,0.92,ml,24,51,0.0715,0.21,ci,ci40717351,2024-08-28T15:29:13.535Z,"22 km N of Ocotillo, CA",earthquake,0.29,0.98,0.123,10,automatic,ci,ci
@@ -339,6 +338,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T14:35:10.430Z,38.8196678161621,-122.816665649414,2.69000005722046,0.26,md,7,100,0.006353,0.02,nc,nc75054481,2024-08-28T14:59:25.575Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.50999999,0.05,8,automatic,nc,nc
 2024-08-28T14:34:25.942Z,37.738,-117.1376,7,1.9,ml,21,94.82000000000001,0.198,0.175,nn,nn00883192,2024-08-28T18:45:06.183Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.1,0.14,7,reviewed,nn,nn
 2024-08-28T14:33:13.320Z,40.3745002746582,-124.609497070312,25.3799991607666,2.85,md,38,227,,0.16,nc,nc75054476,2024-08-28T16:22:17.107Z,"28 km WNW of Petrolia, CA",earthquake,1.98,1.52999997,0.1,26,automatic,nc,nc
-2024-08-28T14:27:24.948Z,37.7245,-117.1573,12,0.5,ml,8,172.89999999999998,0.56,0.1273,nn,nn00883191,2024-08-28T14:30:27.703Z,"7 km ENE of Goldfield, Nevada",earthquake,,1104,0.44,5,automatic,nn,nn
-2024-08-28T14:23:40.720Z,37.7408,-117.1467,10,1.6,ml,14,115.69,0.45,0.1843,nn,nn00883189,2024-08-29T04:43:06.927Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.9,0.46,3,reviewed,nn,nn
-2024-08-28T14:21:48.204Z,37.7371,-117.1468,9.1,1.4,ml,14,115.91,0.446,0.1611,nn,nn00883188,2024-08-29T04:36:56.108Z,"8 km ENE of Goldfield, Nevada",earthquake,,2.4,0.65,4,reviewed,nn,nn
