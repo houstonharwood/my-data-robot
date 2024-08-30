@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-30T13:24:02.120Z,38.7908325195312,-122.734832763672,1.54999995231628,0.9,md,8,94,0.007727,0.02,nc,nc75055251,2024-08-30T13:49:24.313Z,"2 km ENE of The Geysers, CA",earthquake,0.37,0.790000021,0.22,11,automatic,nc,nc
+2024-08-30T13:24:02.120Z,38.7908325195312,-122.734832763672,1.54999995231628,0.9,md,8,94,0.007727,0.02,nc,nc75055251,2024-08-30T14:09:24.452Z,"2 km ENE of The Geysers, CA",earthquake,0.37,0.790000021,0.22,11,automatic,nc,nc
 2024-08-30T13:19:16.743Z,37.7221,-115.4482,1.8,0.8,ml,10,322.83000000000004,0.745,0.3456,nn,nn00883477,2024-08-30T13:21:43.912Z,"24 km NW of Hiko, Nevada",earthquake,,0.3,0.47,6,automatic,nn,nn
 2024-08-30T12:59:11.650Z,33.8183333,-116.9588333,16.81,0.53,ml,16,244,0.1341,0.17,ci,ci40719783,2024-08-30T13:15:03.698Z,"4 km N of San Jacinto, CA",earthquake,2.19,1.84,0.261,8,automatic,ci,ci
 2024-08-30T12:46:36.140Z,19.3823337554932,-155.250503540039,1.58000004291534,1.77,ml,25,56,0.00325,0.189999998,hv,hv74431712,2024-08-30T12:49:28.100Z,"6 km SSW of Volcano, Hawaii",earthquake,0.26,0.219999999,0.35,11,automatic,hv,hv
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T07:35:34.746Z,60.4697,-150.3674,38.1,2,ml,,,,0.77,ak,ak024b5zyxwr,2024-08-30T07:45:59.174Z,"22 km E of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-30T07:31:32.394Z,31.608,-104.316,7.2278,1.9,ml,26,70,0.1,0.2,tx,tx2024rasq,2024-08-30T12:40:17.367Z,"59 km WNW of Toyah, Texas",earthquake,0.8640591514861985,1.447953830202757,0.1,41,reviewed,tx,tx
 2024-08-30T07:26:59.980Z,33.166,-116.6333333,2.86,0.78,ml,23,253,0.2682,0.14,ci,ci40719687,2024-08-30T07:49:17.242Z,"10 km NNW of Julian, CA",earthquake,1.38,2.22,0.134,14,automatic,ci,ci
-2024-08-30T07:26:59.360Z,33.141,-116.6293333,6.08,0.88,ml,18,167,0.05991,0.16,ci,ci40719679,2024-08-30T13:12:37.387Z,"7 km NNW of Julian, CA",earthquake,0.6,0.61,0.164,4,reviewed,ci,ci
+2024-08-30T07:26:59.360Z,33.141,-116.6293333,6.08,0.88,ml,18,167,0.05991,0.16,ci,ci40719679,2024-08-30T14:10:29.151Z,"7 km NNW of Julian, CA",earthquake,0.6,0.61,0.164,4,reviewed,ci,ci
 2024-08-30T07:16:37.328Z,35.0162468,-97.78007507,2.942533016,1.68,ml,30,93.06378174,0.09465909004,0.7585574298,ok,ok2024rasd,2024-08-30T07:25:43.369Z,"11 km N of Alex, Oklahoma",earthquake,2.533992151,1.681067548,0.23,16,automatic,ok,ok
 2024-08-30T06:41:24.760Z,37.7349,-117.1465,12.4,0.7,ml,9,175.05,0.56,0.1202,nn,nn00883465,2024-08-30T06:43:31.137Z,"8 km ENE of Goldfield, Nevada",earthquake,,112,0.21,7,automatic,nn,nn
 2024-08-30T06:39:50.110Z,45.112667083740234,-122.42500305175781,17.2700004577637,2.8374435901641846,ml,71,35,,0.25,uw,uw62042181,2024-08-30T07:45:32.232Z,"12 km ESE of Molalla, Oregon",earthquake,0.25,1.24000001,0.3037519156932831,133,automatic,uw,uw
@@ -239,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T14:26:48.920Z,35.90216667,-95.15666667,0,1.36,ml,53,126,0.5155988219,0.42,ok,ok2024qzkv,2024-08-29T14:43:50.431Z,"3 km SSW of Hulbert, Oklahoma",quarry blast,,0.5,0.22,11,reviewed,ok,ok
 2024-08-29T14:25:48.330Z,44.3311666666667,-115.180333333333,7.84,1.66,ml,11,69,0.3289,0.09,mb,mb90060398,2024-08-29T17:47:11.370Z,"23 km WNW of Stanley, Idaho",earthquake,0.32,0.92,0.416162323579617,9,reviewed,mb,mb
 2024-08-29T14:19:01.640Z,9.8916,-70.7354,14.602,4.5,mb,21,111,1.006,0.58,us,us6000nni0,2024-08-29T14:42:05.040Z,"21 km ENE of Mene Grande, Venezuela",earthquake,7.97,4.451,0.121,20,reviewed,us,us
-2024-08-29T14:10:43.050Z,35.1015,-119.1241667,13.78,1.68,ml,37,75,0.05411,0.22,ci,ci40718735,2024-08-29T16:48:18.378Z,"25 km NW of Grapevine, CA",earthquake,0.24,0.53,0.173,27,reviewed,ci,ci
-2024-08-29T14:08:08.403Z,61.2078,-149.3855,29.4,1.3,ml,,,,0.47,ak,ak024b4gfsco,2024-08-29T14:10:00.721Z,"14 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
