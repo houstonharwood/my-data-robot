@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-04T13:37:05.970Z,39.2446670532227,-123.094833374023,5.90999984741211,1.22,md,9,70,0.1154,0.05,nc,nc75057271,2024-09-04T13:38:41.810Z,"10 km ESE of Redwood Valley, CA",earthquake,0.41,1.67999995,0.02,4,automatic,nc,nc
-2024-09-04T13:34:11.890Z,35.5323334,-117.458168,3.26,1.04,ml,9,159,0.05415,0.14,ci,ci40724487,2024-09-04T13:36:18.265Z,"22 km ESE of Ridgecrest, CA",earthquake,0.69,1.5,0.127,3,automatic,ci,ci
+2024-09-04T13:37:05.970Z,39.2446670532227,-123.094833374023,5.90999984741211,1.22,md,9,70,0.1154,0.05,nc,nc75057271,2024-09-04T13:46:13.586Z,"10 km ESE of Redwood Valley, CA",earthquake,0.41,1.67999995,0.02,4,automatic,nc,nc
+2024-09-04T13:34:11.800Z,35.5271667,-117.454,4.26,1.01,ml,21,66,0.05958,0.14,ci,ci40724487,2024-09-04T13:44:30.405Z,"23 km ESE of Ridgecrest, CA",earthquake,0.21,0.43,0.19,10,automatic,ci,ci
 2024-09-04T13:21:23.745Z,37.7767,-117.0997,2.9,0.9,ml,12,183.99,0.566,0.2441,nn,nn00883897,2024-09-04T13:23:48.009Z,"14 km ENE of Goldfield, Nevada",earthquake,,19.8,0.27,7,automatic,nn,nn
 2024-09-04T12:48:11.576Z,31.667,-104.198,3.6564,1.6,ml,17,67,0.1,0.3,tx,tx2024rkgp,2024-09-04T13:19:12.759Z,"54 km NW of Toyah, Texas",earthquake,0,1.2518988847732497,0.3,12,automatic,tx,tx
 2024-09-04T12:28:55.250Z,34.5593333,-119.1306667,1.53,1.7,ml,38,31,0.1222,0.21,ci,ci40724455,2024-09-04T12:48:41.257Z,"16 km NE of Ojai, CA",earthquake,0.2,0.52,0.256,30,reviewed,ci,ci
@@ -86,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T03:43:25.480Z,19.371000289917,-155.171829223633,2,1.95,ml,36,82,0.008736,0.200000003,hv,hv74439777,2024-09-04T03:46:19.020Z,"10 km SE of Volcano, Hawaii",earthquake,0.35,0.330000013,0.33,8,automatic,hv,hv
 2024-09-04T03:42:21.190Z,19.3621673583984,-155.173828125,1.22000002861023,1.92999995,md,15,145,0.041,0.170000002,hv,hv74439772,2024-09-04T03:43:45.830Z,"10 km SE of Volcano, Hawaii",earthquake,0.7,0.730000019,0.100000001,10,automatic,hv,hv
 2024-09-04T02:44:44.560Z,34.4498333,-119.0408333,2.61,2.21,ml,66,33,0.08092,0.31,ci,ci40724263,2024-09-04T02:55:26.400Z,"11 km N of Santa Paula, CA",earthquake,0.22,0.44,0.162,26,automatic,ci,ci
+2024-09-04T02:41:58.659Z,35.01966667,-97.76483333,6.88,0.93,ml,45,61,0.1052793406,0.25,ok,ok2024rjmp,2024-09-04T13:52:48.475Z,"11 km N of Alex, Oklahoma",earthquake,,0.6,0.22,21,reviewed,ok,ok
 2024-09-04T02:39:46.360Z,34.1005,-116.766,4.07,1.23,ml,57,52,0.07384,0.18,ci,ci40724255,2024-09-04T12:52:41.570Z,"18 km WNW of Morongo Valley, CA",earthquake,0.15,0.4,0.1,25,reviewed,ci,ci
 2024-09-04T02:36:08.403Z,-17.0775,-174.8282,210.107,4.5,mb,17,139,4.086,0.71,us,us6000npl8,2024-09-04T03:00:25.040Z,"166 km SW of Hihifo, Tonga",earthquake,9.71,9.658,0.171,10,reviewed,us,us
 2024-09-04T02:32:55.400Z,48.0461666666667,-114.061666666667,11.17,1.14,ml,13,113,0.186,0.22,mb,mb90060723,2024-09-04T03:10:24.810Z,"2 km SSE of Bigfork, Montana",earthquake,0.74,1.92,0.135959847767684,5,reviewed,mb,mb
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T14:30:35.426Z,29.2445,142.4565,21.34,4.6,mb,152,45,2.154,0.4,us,us6000nphc,2024-09-03T15:02:58.040Z,"Izu Islands, Japan region",earthquake,7.19,4.611,0.048,134,reviewed,us,us
 2024-09-03T14:25:07.790Z,35.6403333,-117.455,8.21,0.92,ml,19,65,0.0355,0.14,ci,ci40723479,2024-09-03T14:31:02.690Z,"15 km SSW of Searles Valley, CA",earthquake,0.22,0.42,0.198,7,automatic,ci,ci
 2024-09-03T14:19:56.300Z,38.8173332214355,-122.806167602539,3.16000008583069,1.1,md,30,39,0.006779,0.02,nc,nc75056936,2024-09-03T15:09:24.344Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.389999986,0.14,29,automatic,nc,nc
-2024-09-03T13:47:46.207Z,63.3525,-152.6917,11.9,1.3,ml,,,,0.64,ak,ak024bcprj24,2024-09-03T13:51:30.724Z,"52 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
