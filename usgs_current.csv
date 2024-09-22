@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T10:54:00.806Z,61.092,-148.5397,1.2,0.9,ml,,,,0.88,ak,ak024c83884w,2024-09-22T10:56:35.463Z,"36 km NNE of Whittier, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2024-09-22T10:43:02.444Z,35.07791138,-97.53236389,0.910197258,1.65,ml,25,45.33332825,0.01009474602,0.6816128193,ok,ok2024sqzn,2024-09-22T10:52:27.298Z,"4 km SE of Cole, Oklahoma",earthquake,2.40176648,1.843951036,0.25,16,automatic,ok,ok
 2024-09-22T10:42:42.670Z,17.8695,-66.876,13.41,2.79,md,7,215,0.1885,0.08,pr,pr71460763,2024-09-22T11:03:02.860Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.86,0.81,0.105956415712182,5,reviewed,pr,pr
-2024-09-22T10:40:18.580Z,38.7946662902832,-122.757331848145,0.670000016689301,0.76,md,9,86,0.006234,0.03,nc,nc75065296,2024-09-22T10:57:20.897Z,"2 km N of The Geysers, CA",earthquake,0.31,0.720000029,0.14,10,automatic,nc,nc
+2024-09-22T10:40:18.580Z,38.7946662902832,-122.757331848145,0.670000016689301,0.76,md,9,86,0.006234,0.03,nc,nc75065296,2024-09-22T11:27:15.120Z,"2 km N of The Geysers, CA",earthquake,0.31,0.720000029,0.14,10,automatic,nc,nc
 2024-09-22T10:28:01.340Z,17.911,-66.8573333333333,2.03,2.68,md,11,195,0.1872,0.17,pr,pr71460753,2024-09-22T11:15:50.450Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.6,0.77,0.266289676448416,9,reviewed,pr,pr
 2024-09-22T10:25:28.890Z,19.4128341674805,-155.284332275391,9.14999961853027,1.97000003,md,24,53,0.004808,0.230000004,hv,hv74472907,2024-09-22T10:28:22.370Z,"6 km WSW of Volcano, Hawaii",earthquake,0.52,0.519999981,0.180000007,16,automatic,hv,hv
 2024-09-22T10:16:06.830Z,65.0415,-148.7187,8.2,1.1,ml,,,,0.85,ak,ak024c8303e3,2024-09-22T10:42:47.276Z,"32 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T21:27:38.410Z,62.0319,-147.8744,35,0.8,ml,,,,0.42,ak,ak024c6m2xv5,2024-09-21T21:29:38.011Z,"27 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-21T21:24:27.190Z,-31.9213,-66.794,130.391,6,mww,130,41,1.654,0.99,us,us6000ntjh,2024-09-22T03:33:50.475Z,"88 km NNW of Villa General Roca, Argentina",earthquake,8.14,5.144,0.03,104,reviewed,us,us
 2024-09-21T21:21:18.800Z,33.492,-116.4601667,12.57,1.3,ml,67,31,0.08814,0.17,ci,ci40741375,2024-09-21T21:33:46.351Z,"21 km ESE of Anza, CA",earthquake,0.14,0.33,0.212,27,automatic,ci,ci
-2024-09-21T21:15:21.500Z,34.0519981,-118.7979965,10.29,3.04,ml,117,78,0.01941,0.29,ci,ci40741367,2024-09-22T10:21:46.336Z,"5 km NNE of Malibu, CA",earthquake,0.29,0.44,0.285,24,automatic,ci,ci
+2024-09-21T21:15:21.500Z,34.0519981,-118.7979965,10.29,3.04,ml,117,78,0.01941,0.29,ci,ci40741367,2024-09-22T11:27:52.544Z,"5 km NNE of Malibu, CA",earthquake,0.29,0.44,0.285,24,automatic,ci,ci
 2024-09-21T21:14:13.434Z,60.3725,-152.4748,101.2,1.8,ml,,,,0.22,ak,ak024c6m03mn,2024-09-21T21:15:52.323Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-21T21:13:21.870Z,41.7445,143.4272,89.448,4.3,mb,29,153,0.337,1.06,us,us6000ntjg,2024-09-21T21:57:54.040Z,"60 km SE of Honchō, Japan",earthquake,10.07,5.628,0.137,15,reviewed,us,us
 2024-09-21T21:12:58.380Z,64.6694,-152.2473,15.9,1.1,ml,,,,0.95,ak,ak024c6lzrk3,2024-09-21T21:15:36.436Z,"56 km S of Tanana, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T12:12:40.503Z,59.8519,-153.4841,138.1,1.8,ml,,,,0.22,ak,ak024c6gmtua,2024-09-22T05:14:13.040Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-21T11:47:32.428Z,58.2416,-155.5586,2.3,0.5,ml,,,,0.09,ak,ak024c6g8voa,2024-09-21T11:49:03.890Z,"81 km SE of King Salmon, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-21T11:37:19.817Z,60.2961,-152.5251,90,1.6,ml,,,,0.75,ak,ak024c6g6pir,2024-09-21T11:40:17.630Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-09-21T11:27:05.720Z,34.0378333,-117.1735,13.7,0.99,ml,55,34,0.05078,0.15,ci,ci40740815,2024-09-21T11:37:54.500Z,"2 km SSE of Redlands, CA",earthquake,0.15,0.29,0.266,31,automatic,ci,ci
-2024-09-21T11:22:53.910Z,33.6928333,-116.7146667,17.48,0.64,ml,22,83,0.01829,0.1,ci,ci40740807,2024-09-21T11:28:55.085Z,"5 km S of Idyllwild, CA",earthquake,0.26,0.33,0.166,10,automatic,ci,ci
