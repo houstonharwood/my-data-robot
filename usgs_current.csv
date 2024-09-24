@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-24T19:23:07.370Z,33.4751663,-116.5111694,13.9,0.97,ml,21,124,0.07853,0.12,ci,ci40744383,2024-09-24T19:25:15.648Z,"18 km ESE of Anza, CA",earthquake,0.35,0.74,0.254,8,automatic,ci,ci
+2024-09-24T19:23:07.450Z,33.4718333,-116.5116667,12.73,0.7,ml,35,56,0.07903,0.17,ci,ci40744383,2024-09-24T19:29:17.936Z,"18 km ESE of Anza, CA",earthquake,0.22,0.46,0.123,20,automatic,ci,ci
 2024-09-24T19:13:16.770Z,38.4995002746582,-122.333000183105,3.67000007629395,1.21,md,11,100,0.09204,0.25,nc,nc75066286,2024-09-24T19:16:12.141Z,"11 km NNE of Yountville, CA",earthquake,0.88,4.63999987,0.24,7,automatic,nc,nc
 2024-09-24T19:08:22.130Z,38.8370018005371,-122.880165100098,2.27999997138977,0.95,md,9,121,0.002843,0.02,nc,nc75066281,2024-09-24T19:09:58.230Z,"12 km E of Cloverdale, CA",earthquake,0.49,0.680000007,0.21,12,automatic,nc,nc
 2024-09-24T18:46:48.830Z,60.7887,-150.1155,34.8,1.7,ml,,,,0.44,ak,ak024cbj0rxv,2024-09-24T18:50:26.480Z,"29 km WSW of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -153,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T01:44:47.770Z,19.167,-155.484166666667,30.93,1.73,ml,45,100,0.02382,0.11,hv,hv74475347,2024-09-24T03:00:24.197Z,"4 km S of Pāhala, Hawaii",earthquake,0.44,0.55,0.112256032593217,14,reviewed,hv,hv
 2024-09-24T01:39:59.834Z,57.7532,-155.2779,90.9,1.8,ml,,,,0.24,ak,ak024cb8uvgp,2024-09-24T05:27:36.782Z,"53 km WNW of Karluk, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-09-24T01:36:47.648Z,61.7158,-150.0245,30.7,1.7,ml,,,,0.74,ak,ak024cb8u9ek,2024-09-24T01:38:45.837Z,"3 km S of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-24T01:31:16.690Z,51.9368333333333,-177.172833333333,9.74,0.32,ml,4,241,0.02278,0.19,av,av93022099,2024-09-24T19:32:10.220Z,"37 km W of Adak, Alaska",earthquake,2.16,1.47,0.292735479587111,3,reviewed,av,av
 2024-09-24T01:28:32.390Z,19.1708335876465,-155.479827880859,31.3299999237061,2.07999992,md,42,87,0.02271,0.109999999,hv,hv74475337,2024-09-24T01:30:15.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.560000002,0.170000002,16,automatic,hv,hv
 2024-09-24T01:27:18.230Z,38.8084983825684,-122.737335205078,2.52999997138977,0.78,md,9,123,0.01917,0.02,nc,nc75066011,2024-09-24T01:57:15.874Z,"2 km SW of Cobb, CA",earthquake,0.49,1.79999995,0.08,9,automatic,nc,nc
 2024-09-24T01:27:02.510Z,34.0371667,-117.2493333,16.81,1.09,ml,43,33,0.09093,0.17,ci,ci40743743,2024-09-24T18:04:50.606Z,"2 km SE of Loma Linda, CA",earthquake,0.18,0.41,0.283,32,automatic,ci,ci
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T19:58:08.450Z,41.5878333333333,-112.429833333333,1.52,1.24,ml,17,92,0.08513,0.18,uu,uu80083256,2024-09-23T20:34:05.570Z,"16 km SW of Thatcher, Utah",earthquake,0.41,5.49,0.0175848809402466,2,reviewed,uu,uu
 2024-09-23T19:54:38.800Z,33.141,-115.9533333,6.53,1.24,ml,42,56,0.03833,0.18,ci,ci40743455,2024-09-24T13:47:27.680Z,"17 km E of Ocotillo Wells, CA",earthquake,0.18,0.47,0.16,26,reviewed,ci,ci
 2024-09-23T19:51:03.241Z,-0.0998,122.8871,149.425,6,mww,109,22,0.943,0.94,us,us6000ntxc,2024-09-24T17:13:13.040Z,"73 km SSW of Gorontalo, Indonesia",earthquake,6.15,3.645,0.037,72,reviewed,us,us
-2024-09-23T19:32:36.210Z,32.9823333,-116.3115,8.81,1.35,ml,55,39,0.02849,0.18,ci,ci40743447,2024-09-24T13:47:30.490Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.16,0.4,0.194,27,reviewed,ci,ci
