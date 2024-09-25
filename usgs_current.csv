@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-25T17:35:49.270Z,46.60749816894531,-119.79633331298828,7.17999982833862,1.04999995,md,8,124,,0.0599999987,uw,uw62049836,2024-09-25T17:37:28.310Z,"12 km SE of Desert Aire, Washington",earthquake,0.62,0.419999987,0.519999981,3,automatic,uw,uw
 2024-09-25T17:31:50.292Z,65.4474,-148.2526,11.5,1.1,ml,,,,0.14,ak,ak024cd5vh79,2024-09-25T17:33:46.287Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T17:29:46.820Z,62.0852,-147.9942,30.7,1.5,ml,,,,0.56,ak,ak024cd5v1i2,2024-09-25T17:32:00.235Z,"35 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-25T17:27:54.420Z,58.6906,-154.2925,9,1.1,ml,,,,0.21,ak,ak024cd5umnm,2024-09-25T17:29:24.640Z,"87 km SSE of Kokhanok, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-09-25T17:27:14.156Z,31.581,-103.935,4.4156,1.7,ml,14,78,0.1,0.1,tx,tx2024swzo,2024-09-25T17:35:33.995Z,"32 km NNW of Toyah, Texas",earthquake,0,1.28956401348114,0.2,12,automatic,tx,tx
+2024-09-25T17:25:13.886Z,31.581,-103.947,4.5625,2.5,ml,16,72,0,0.4,tx,tx2024swzn,2024-09-25T17:35:30.005Z,"32 km NNW of Toyah, Texas",earthquake,0,1.26509761810303,0.2,12,automatic,tx,tx
+2024-09-25T17:20:12.649Z,31.582,-103.938,4.6638,1.6,ml,16,77,0,0.2,tx,tx2024swzi,2024-09-25T17:35:22.996Z,"32 km NNW of Toyah, Texas",earthquake,0,1.16184043884277,0.2,13,automatic,tx,tx
 2024-09-25T17:06:08.506Z,31.581,-103.941,4.8048,2.2,ml,15,75,0.1,0.1,tx,tx2024swyt,2024-09-25T17:11:31.858Z,"32 km NNW of Toyah, Texas",earthquake,0,1.28150224685669,0.2,12,automatic,tx,tx
 2024-09-25T17:02:07.383Z,31.583,-103.936,4.3304,2.2,ml,15,78,0.1,0.2,tx,tx2024swyp,2024-09-25T17:11:23.854Z,"32 km NNW of Toyah, Texas",earthquake,0,1.24440860748291,0.2,11,automatic,tx,tx
 2024-09-25T17:01:33.720Z,31.579,-103.937,4.2923,1.7,ml,13,133,0.1,0.2,tx,tx2024swyo,2024-09-25T17:11:18.856Z,"32 km NNW of Toyah, Texas",earthquake,0,1.71531629562378,0.2,10,automatic,tx,tx
@@ -52,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T11:07:20.300Z,36.720832824707,-121.410331726074,7.40000009536743,1.81,md,25,78,0.05299,0.09,nc,nc75066541,2024-09-25T12:34:24.386Z,"11 km SSW of Ridgemark, CA",earthquake,0.24,0.670000017,0.21,23,automatic,nc,nc
 2024-09-25T11:06:55.700Z,35.721,-117.5565,3.68,0.85,ml,24,65,0.1216,0.13,ci,ci40745039,2024-09-25T13:23:57.452Z,"15 km WSW of Searles Valley, CA",earthquake,0.17,0.58,0.059,9,reviewed,ci,ci
 2024-09-25T11:03:04.670Z,38.7781677246094,-122.72533416748,1.57000005245209,0.77,md,10,75,0.01024,0.01,nc,nc75066536,2024-09-25T12:09:25.210Z,"3 km E of The Geysers, CA",earthquake,0.27,0.579999983,0.2,9,automatic,nc,nc
-2024-09-25T10:57:02.225Z,38.1962,-117.7652,6.1,1.6,ml,12,135.5,0.128,0.2765,nn,nn00885137,2024-09-25T10:59:37.445Z,"36 km SE of Mina, Nevada",earthquake,,0.6,0.27,8,automatic,nn,nn
+2024-09-25T10:57:02.351Z,38.1848,-117.7675,12.2,1.4,ml,9,83.55999999999997,0.118,0.1408,nn,nn00885137,2024-09-25T17:39:52.208Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.4,5,reviewed,nn,nn
 2024-09-25T10:49:49.530Z,36.5935,-118.1488333,10.86,1.82,ml,18,70,0.07145,0.16,ci,ci40745031,2024-09-25T17:27:33.488Z,"7 km W of Lone Pine, CA",earthquake,0.23,0.71,0.164,20,automatic,ci,ci
 2024-09-25T10:46:00.023Z,36.9628,-116.1862,3.1,0.2,ml,27,48.879999999999995,0.034,0.1533,nn,nn00885134,2024-09-25T17:15:20.592Z,"51 km E of Beatty, Nevada",earthquake,,1.4,0.32,11,reviewed,nn,nn
 2024-09-25T10:43:51.723Z,38.2077,-117.7542,6.1,1.1,ml,10,85.31,0.136,0.1784,nn,nn00885132,2024-09-25T16:44:35.735Z,"37 km ESE of Mina, Nevada",earthquake,,2,0.36,5,reviewed,nn,nn
