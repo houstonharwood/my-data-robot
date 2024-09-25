@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-25T16:49:43.330Z,33.0239983,-116.2928314,4.12,1.04,ml,27,106,0.06977,0.23,ci,ci40745287,2024-09-25T16:51:45.769Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.43,1.04,0.215,8,automatic,ci,ci
+2024-09-25T16:55:52.274Z,59.7342,-151.9102,28.6,1.5,ml,,,,0.69,ak,ak024cd5f6xn,2024-09-25T16:57:32.763Z,"6 km SW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-25T16:53:24.170Z,35.9183333,-117.6636667,4.21,1.51,ml,26,50,0.03141,0.14,ci,ci40745311,2024-09-25T16:59:43.419Z,"22 km E of Little Lake, CA",earthquake,0.15,0.35,0.125,17,automatic,ci,ci
+2024-09-25T16:49:43.330Z,33.0246667,-116.2936667,4.15,1.08,ml,46,40,0.07035,0.23,ci,ci40745287,2024-09-25T16:55:54.591Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.22,0.67,0.203,27,automatic,ci,ci
 2024-09-25T16:34:35.090Z,38.8004989624023,-122.765830993652,3.9300000667572,0.7,md,10,82,0.02421,0.01,nc,nc75066616,2024-09-25T16:37:19.627Z,"3 km  of The Geysers, CA",earthquake,0.59,1.61000001,0.07,11,automatic,nc,nc
 2024-09-25T16:34:30.760Z,32.9856667,-116.3075,8.57,0.61,ml,27,53,0.03117,0.19,ci,ci40745247,2024-09-25T16:40:28.105Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.49,0.086,9,automatic,ci,ci
 2024-09-25T16:08:35.810Z,38.7796669006348,-122.75666809082,1.14999997615814,0.96,md,10,66,0.01141,0.04,nc,nc75066606,2024-09-25T16:34:26.108Z,"0 km N of The Geysers, CA",earthquake,0.28,0.639999986,0.18,9,automatic,nc,nc
@@ -48,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T10:45:59.237Z,36.9692,-116.1823,2.2,0.3,ml,13,78.02999999999997,0.057,0.1716,nn,nn00885134,2024-09-25T10:47:56.640Z,"51 km E of Beatty, Nevada",earthquake,,0.8,0.39,9,automatic,nn,nn
 2024-09-25T10:43:51.723Z,38.2077,-117.7542,6.1,1.1,ml,10,85.31,0.136,0.1784,nn,nn00885132,2024-09-25T16:44:35.735Z,"37 km ESE of Mina, Nevada",earthquake,,2,0.36,5,reviewed,nn,nn
 2024-09-25T10:42:25.421Z,64.1341,-148.0028,108.4,2.2,ml,,,,0.2,ak,ak024cd1rqxa,2024-09-25T10:53:59.040Z,"55 km ENE of Ferry, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-09-25T10:23:04.490Z,46.61000061035156,-119.7941665649414,7.48000001907349,2.567298650741577,ml,27,70,,0.0799999982,uw,uw62049766,2024-09-25T10:25:47.520Z,"12 km SE of Desert Aire, Washington",earthquake,0.26,0.189999998,0.28677672147750854,53,automatic,uw,uw
+2024-09-25T10:23:04.460Z,46.60733333333334,-119.7975,7.97,2.4,ml,37,52,0.0241,0.09,uw,uw62049766,2024-09-25T16:55:26.960Z,"12 km SE of Desert Aire, Washington",earthquake,0.19,0.09,0.13838820863419876,39,reviewed,uw,uw
 2024-09-25T10:20:04.572Z,31.596,-104.112,7.215,2.1,ml,42,60,0,0.2,tx,tx2024swlh,2024-09-25T12:24:24.027Z,"43 km NW of Toyah, Texas",earthquake,0.5224939528229288,0.5027500753218626,0.2,32,reviewed,tx,tx
 2024-09-25T10:18:07.700Z,38.8419990539551,-122.831665039062,0.980000019073486,0.74,md,13,111,0.01904,0.03,nc,nc75066521,2024-09-25T11:14:23.806Z,"10 km WNW of Cobb, CA",earthquake,0.26,0.629999995,0.34,13,automatic,nc,nc
 2024-09-25T10:12:07.529Z,62.3208,-148.1629,35.2,2.3,ml,,,,0.47,ak,ak024cd1la28,2024-09-25T10:13:44.778Z,"60 km NNE of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -208,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T17:11:32.346Z,60.3205,-152.3665,94.9,2.3,ml,,,,0.31,ak,ak024cbi7t02,2024-09-24T19:47:41.040Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-24T17:09:43.000Z,46.601,-119.79333333333334,7.72,0.89,ml,10,119,0.02376,0.09,uw,uw62049646,2024-09-24T21:40:24.130Z,"12 km SE of Desert Aire, Washington",earthquake,0.31,0.15,0.12697132114471132,8,reviewed,uw,uw
 2024-09-24T17:07:41.463Z,41.5856,143.2815,45.978,4.5,mb,44,102,0.439,0.62,us,us7000nfz4,2024-09-24T19:35:09.040Z,"67 km SSE of Honchō, Japan",earthquake,7.23,5.733,0.089,37,reviewed,us,us
-2024-09-24T17:01:14.670Z,61.2468333333333,-152.176166666667,30.38,-0.3,ml,10,92,0.02135,0.22,av,av93022179,2024-09-25T00:52:21.710Z,"59 km WNW of Tyonek, Alaska",earthquake,0.83,1.22,0.347092658446131,10,reviewed,av,av
-2024-09-24T17:00:46.490Z,38.8245010375977,-122.763832092285,2.00999999046326,1.09,md,16,127,0.007622,0.02,nc,nc75066206,2024-09-24T17:32:14.413Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.529999971,0.29,16,automatic,nc,nc
-2024-09-24T16:55:11.289Z,34.35016667,-96.82516667,0,1.04,ml,24,184,0.2492510884,0.58,ok,ok2024svcu,2024-09-25T16:14:01.239Z,"6 km S of Mill Creek, Oklahoma",quarry blast,,1,0.19,9,reviewed,ok,ok
