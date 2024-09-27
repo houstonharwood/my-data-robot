@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-27T11:48:09.183Z,63.1837,-150.8237,119.1,1.2,ml,,,,0.17,ak,ak024cgdh4k6,2024-09-27T11:50:03.480Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-09-27T11:45:41.750Z,36.0976667,-117.897,5.19,1,ml,27,71,0.03949,0.16,ci,ci40746967,2024-09-27T11:51:44.301Z,"8 km NE of Coso Junction, CA",earthquake,0.22,0.55,0.328,12,automatic,ci,ci
 2024-09-27T11:35:02.301Z,62.6155,-149.5998,61.9,1.2,ml,,,,0.56,ak,ak024cgdebpy,2024-09-27T11:37:05.795Z,"31 km NE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-27T11:31:58.612Z,56.4622,-156.4568,249.9,2.3,ml,,,,0.65,ak,ak024cgddl79,2024-09-27T11:34:26.291Z,"121 km E of Chignik, Alaska",earthquake,,10.5,,,automatic,ak,ak
 2024-09-27T11:28:02.920Z,40.3569984436035,-122.09400177002,1.92999994754791,1.82,md,8,118,0.1503,0.06,nc,nc75067336,2024-09-27T11:31:38.273Z,"20 km SE of Anderson, CA",earthquake,0.36,8.32999992,0.18,6,automatic,nc,nc
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T11:25:03.392Z,59.9603,-148.5298,22.1,1.9,ml,,,,0.43,ak,ak024cgdc6n7,2024-09-27T11:26:46.458Z,"31 km WSW of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-27T11:25:02.680Z,33.3206667,-116.38,6.13,1.17,ml,70,45,0.01235,0.19,ci,ci40746951,2024-09-27T11:31:31.542Z,"7 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.222,26,automatic,ci,ci
 2024-09-27T11:24:24.733Z,31.661,-104.452,7.2143,1.7,ml,12,160,0,0.2,tx,tx2024taek,2024-09-27T11:30:36.640Z,"57 km S of Whites City, New Mexico",earthquake,0,3.38560914993286,0.1,10,automatic,tx,tx
-2024-09-27T11:20:17.430Z,-30.8501,-179.6616,358.846,5.2,mb,91,64,2.187,1.19,us,us7000ngsr,2024-09-27T11:41:28.040Z,"Kermadec Islands region",earthquake,10.33,5.327,0.032,328,reviewed,us,us
+2024-09-27T11:20:17.403Z,-30.8342,-179.7393,356.212,5.2,mb,71,65,2.223,0.68,us,us7000ngsr,2024-09-27T11:57:15.040Z,"Kermadec Islands region",earthquake,10.76,6.411,0.034,300,reviewed,us,us
 2024-09-27T11:10:28.798Z,63.8772,-145.6294,0,1.6,ml,,,,0.76,ak,ak024cgd9207,2024-09-27T11:13:30.631Z,"7 km SSW of Fort Greely, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T11:04:05.160Z,38.8330001831055,-122.882331848145,1.94000005722046,1.07,md,16,128,0.005288,0.03,nc,nc75067321,2024-09-27T11:49:27.475Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.460000008,0.11,18,automatic,nc,nc
 2024-09-27T10:54:54.730Z,38.8053321838379,-122.783836364746,3.21000003814697,0.43,md,7,134,0.009338,0.01,nc,nc75067311,2024-09-27T11:34:27.372Z,"4 km NNW of The Geysers, CA",earthquake,0.58,1.60000002,0.22,8,automatic,nc,nc
@@ -219,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T12:07:25.289Z,40.369,-126.3645,10,3,ml,38,259,1.548,0.7,us,us7000ngjd,2024-09-26T12:37:31.040Z,"179 km W of Ferndale, California",earthquake,8.02,2.023,0.036,104,reviewed,us,us
 2024-09-26T12:02:44.410Z,38.8359985351562,-122.790664672852,1.87000000476837,0.9,md,12,53,0.00242,0.02,nc,nc75066921,2024-09-26T13:52:15.198Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.560000002,0.18,13,automatic,nc,nc
 2024-09-26T12:02:08.760Z,34.0315,-116.8478333,19.62,0.78,ml,32,44,0.09578,0.15,ci,ci40746063,2024-09-26T14:06:10.416Z,"12 km NNE of Banning, CA",earthquake,0.26,0.59,0.263,20,reviewed,ci,ci
-2024-09-26T11:57:49.780Z,60.5425,-152.6835,9.94,-0.99,ml,7,109,0.04893,0.08,av,av93287158,2024-09-26T21:34:33.040Z,"75 km W of Salamatof, Alaska",earthquake,0.37,0.64,0.122361249557711,7,reviewed,av,av
-2024-09-26T11:55:34.860Z,64.4068,-146.748,7,1.2,ml,,,,0.24,ak,ak024cepzc26,2024-09-26T11:56:42.021Z,"8 km WNW of Harding-Birch Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
