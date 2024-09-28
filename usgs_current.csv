@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-28T17:04:42.790Z,19.3369998931885,-155.144332885742,-0.449999988079071,1.97,ml,17,205,0.04836,0.310000002,hv,hv74480952,2024-09-28T17:07:39.130Z,"14 km S of Fern Forest, Hawaii",earthquake,0.95,0.460000008,0.58,4,automatic,hv,hv
-2024-09-28T16:37:37.128Z,31.593,-104.554,4.0181,1.6,ml,6,167,0.1,0.1,tx,tx2024tckq,2024-09-28T17:05:18.288Z,"66 km NNE of Van Horn, Texas",earthquake,0,3.26879096031189,0.2,6,automatic,tx,tx
+2024-09-28T16:37:37.096Z,31.589,-104.546,4.4155,1.5,ml,8,161,0.1,0.1,tx,tx2024tckq,2024-09-28T17:09:37.336Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.44391655921936,0.1,6,automatic,tx,tx
 2024-09-28T16:34:45.429Z,35.53398132,-96.75893402,4.57976532,1.68,ml,15,48.77348328,0.0173853226,0.5404812372,ok,ok2024tckd,2024-09-28T16:43:47.609Z,"8 km NW of Prague, Oklahoma",earthquake,3.012631606,2.335334926,0.2,10,automatic,ok,ok
 2024-09-28T16:08:24.840Z,38.5212,-119.5277,0,2.3,ml,16,167.80999999999997,0.185,0.2667,nn,nn00885344,2024-09-28T16:32:43.666Z,"4 km W of Walker, California",earthquake,,3.5,0.2,8,automatic,nn,nn
 2024-09-28T16:05:30.272Z,60.9536,-152.2493,112.8,0.7,ml,,,,0.12,ak,ak024ci3qgwz,2024-09-28T16:06:45.643Z,"59 km WNW of Nikiski, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T13:58:48.990Z,36.5815010070801,-121.06916809082,6.46000003814697,1.93,md,30,81,0.02402,0.17,nc,nc75067791,2024-09-28T15:49:25.578Z,"9 km ENE of Pinnacles, CA",earthquake,0.36,0.920000017,0.14,10,automatic,nc,nc
 2024-09-28T13:43:18.880Z,19.4409999847412,-155.227996826172,6.40999984741211,1.77999997,md,17,147,0.03993,0.300000012,hv,hv74480812,2024-09-28T13:44:46.910Z,"0 km ESE of Volcano, Hawaii",earthquake,1.02,1.99000001,0.189999998,3,automatic,hv,hv
 2024-09-28T13:38:17.320Z,33.8013333,-116.9376667,12.56,0.56,ml,21,191,0.1071,0.13,ci,ci40747671,2024-09-28T13:44:29.171Z,"3 km NE of San Jacinto, CA",earthquake,1.26,0.71,0.085,14,automatic,ci,ci
-2024-09-28T13:33:19.683Z,51.993,179.4216,188.247,4.3,mb,29,81,0.096,0.76,us,us7000ngzg,2024-09-28T13:44:38.040Z,"271 km W of Adak, Alaska",earthquake,13.44,9.326,0.044,148,reviewed,us,us
+2024-09-28T13:33:19.683Z,51.993,179.4216,188.247,4.3,mb,29,81,0.096,0.76,us,us7000ngzg,2024-09-28T17:14:49.302Z,"271 km W of Adak, Alaska",earthquake,13.44,9.326,0.044,148,reviewed,us,us
 2024-09-28T13:32:59.419Z,36.7101,-116.1494,1.1,0.5,ml,25,41.119999999999976,0.02,0.1363,nn,nn00885326,2024-09-28T15:02:48.131Z,"45 km WNW of Indian Springs, Nevada",earthquake,,2,0.3,13,reviewed,nn,nn
 2024-09-28T13:09:58.370Z,35.786,-117.5991667,6.59,0.27,ml,19,67,0.1366,0.16,ci,ci40747663,2024-09-28T13:25:05.588Z,"18 km W of Searles Valley, CA",earthquake,0.25,0.9,0.02,3,automatic,ci,ci
 2024-09-28T13:09:25.342Z,38.0566,73.2882,10,4.6,mb,41,147,2.773,1.05,us,us7000ngzd,2024-09-28T13:56:50.040Z,"60 km WSW of Murghob, Tajikistan",earthquake,6.89,1.928,0.09,37,reviewed,us,us
@@ -191,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T17:29:34.930Z,33.2193333,-116.0753333,10.8,1.13,ml,49,52,0.09373,0.21,ci,ci40747159,2024-09-27T21:35:22.377Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.19,0.46,0.118,28,reviewed,ci,ci
 2024-09-27T17:25:39.540Z,35.8413333,-117.6651667,10.12,0.33,ml,16,101,0.08738,0.15,ci,ci40747151,2024-09-27T18:36:43.426Z,"24 km ESE of Little Lake, CA",earthquake,0.26,0.64,0.179,6,reviewed,ci,ci
 2024-09-27T17:24:53.058Z,32.409,-102.044,7.6904,3.3,ml,23,71,0.1,0.2,tx,tx2024taqv,2024-09-28T12:30:38.600Z,"33 km WSW of Ackerly, Texas",earthquake,0.6950023600920953,1.2482739331512,0.1,29,reviewed,tx,tx
-2024-09-27T17:15:45.151Z,61.5627,-149.9068,29.3,1.2,ml,,,,0.66,ak,ak024cgguqbu,2024-09-27T17:18:13.205Z,"5 km NNE of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-27T17:09:18.670Z,36.8908348083496,-121.623832702637,0.370000004768372,2.19,md,9,75,0.05028,0.13,nc,nc75067416,2024-09-27T18:39:23.426Z,"2 km E of Aromas, CA",earthquake,0.43,1.86000001,0.15,2,automatic,nc,nc
