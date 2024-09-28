@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-28T06:40:09.450Z,38.212,-117.814,5,2.9,ml,33,116.79999999999995,0.135,0.3505,nn,nn00885301,2024-09-28T06:44:28.623Z,"32 km SE of Mina, Nevada",earthquake,,0.7,0.17,19,automatic,nn,nn
-2024-09-28T06:31:01.720Z,36.2111664,-118.0143356,1.05,2.46,ml,37,60,0.1593,0.22,ci,ci40747495,2024-09-28T06:42:07.510Z,"8 km S of Olancha, CA",earthquake,0.37,0.77,0.27,26,automatic,ci,ci
-2024-09-28T06:30:02.160Z,38.8230018615723,-122.841499328613,1.76999998092651,0.63,md,8,139,0.005055,0.02,nc,nc75067656,2024-09-28T06:32:45.839Z,"9 km NW of The Geysers, CA",earthquake,0.59,0.870000005,0.37,8,automatic,nc,nc
+2024-09-28T06:31:01.720Z,36.2106667,-118.0131667,1.21,2.41,ml,32,53,0.1582,0.18,ci,ci40747495,2024-09-28T06:49:24.664Z,"8 km S of Olancha, CA",earthquake,0.24,0.94,0.179,26,automatic,ci,ci
+2024-09-28T06:30:02.160Z,38.8230018615723,-122.841499328613,1.76999998092651,0.63,md,8,139,0.005055,0.02,nc,nc75067656,2024-09-28T06:49:26.787Z,"9 km NW of The Geysers, CA",earthquake,0.59,0.870000005,0.37,8,automatic,nc,nc
 2024-09-28T06:02:42.631Z,36.622,-115.768,0,0.4,ml,14,297.42,0.161,0.1376,nn,nn00885295,2024-09-28T06:04:42.732Z,"10 km WNW of Indian Springs, Nevada",earthquake,,10.4,0.31,7,automatic,nn,nn
 2024-09-28T05:49:38.259Z,62.7708,-150.7814,79.5,1.4,ml,,,,0.33,ak,ak024chxg5dt,2024-09-28T05:51:21.832Z,"30 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-28T05:16:13.874Z,36.6372,-115.7229,2,0.9,ml,29,141.74,0.194,0.1997,nn,nn00885292,2024-09-28T05:18:24.888Z,"8 km NNW of Indian Springs, Nevada",earthquake,,1.4,0.25,19,automatic,nn,nn
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T03:28:47.280Z,34.062,-118.8063333,9.88,2.66,ml,108,92,0.03036,0.29,ci,ci40747447,2024-09-28T06:11:53.647Z,"6 km N of Malibu, CA",earthquake,0.24,0.41,0.203,25,automatic,ci,ci
 2024-09-28T03:10:30.640Z,38.8281669616699,-122.821998596191,1.86000001430511,0.69,md,13,63,0.01046,0.01,nc,nc75067591,2024-09-28T04:09:25.546Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.620000005,0.31,16,automatic,nc,nc
 2024-09-28T03:06:12.310Z,41.8627,-126.8396,10,4.6,mb,71,174,1.907,0.67,us,us7000ngxs,2024-09-28T05:20:50.360Z,"207 km WSW of Pistol River, Oregon",earthquake,8.81,1.877,0.092,35,reviewed,us,us
-2024-09-28T03:04:15.149Z,41.8543,-126.8404,10,5.1,mww,69,213,1.91,1.35,us,us7000ngxr,2024-09-28T05:14:30.854Z,"207 km WSW of Pistol River, Oregon",earthquake,3.95,2.005,0.044,49,reviewed,us,us
+2024-09-28T03:04:15.149Z,41.8543,-126.8404,10,5.1,mww,69,213,1.91,1.35,us,us7000ngxr,2024-09-28T06:50:07.276Z,"207 km WSW of Pistol River, Oregon",earthquake,3.95,2.005,0.044,49,reviewed,us,us
 2024-09-28T03:00:38.510Z,35.3836667,-117.4038333,4.4,0.69,ml,22,80,0.1204,0.13,ci,ci40747439,2024-09-28T03:06:41.991Z,"21 km E of Johannesburg, CA",earthquake,0.17,0.55,0.117,3,automatic,ci,ci
 2024-09-28T02:55:33.410Z,36.9378,-116.1464,3.2,0.1,ml,15,67.19,0.072,0.2132,nn,nn00885286,2024-09-28T02:57:31.992Z,"54 km E of Beatty, Nevada",earthquake,,0.6,0.12,7,automatic,nn,nn
 2024-09-28T02:46:06.850Z,19.1760005950928,-155.490997314453,32.4599990844727,2.1400001,md,39,94,0.03413,0.150000006,hv,hv74480207,2024-09-28T02:47:43.530Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.64,0.769999981,0.0799999982,5,automatic,hv,hv
@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T07:09:38.730Z,33.4718333,-116.4798333,8.61,0.52,ml,30,64,0.09554,0.15,ci,ci40746847,2024-09-27T17:31:17.988Z,"20 km ESE of Anza, CA",earthquake,0.2,0.63,0.066,12,reviewed,ci,ci
 2024-09-27T07:06:25.820Z,38.8315010070801,-122.795997619629,2.03999996185303,1.26,md,23,39,0.00819,0.04,nc,nc75067276,2024-09-27T08:09:34.932Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.419999987,0.22,22,automatic,nc,nc
 2024-09-27T07:05:45.950Z,60.0091666666667,-153.170166666667,2.87,-0.68,ml,5,226,0.02953,0.27,av,av93287988,2024-09-27T20:55:28.210Z,"57 km ENE of Pedro Bay, Alaska",earthquake,2.35,1.93,0.132400290475973,4,reviewed,av,av
-2024-09-27T06:49:26.966Z,31.718,-104.285,6.9202,2,ml,26,55,0,0.2,tx,tx2024szvi,2024-09-27T12:00:38.799Z,"51 km S of Whites City, New Mexico",earthquake,0.6966414180316233,0.595945602658344,0.2,25,reviewed,tx,tx
-2024-09-27T06:48:48.820Z,35.8885,-117.7135,8.58,0.77,ml,25,41,0.07835,0.14,ci,ci40746839,2024-09-27T17:31:38.045Z,"18 km ESE of Little Lake, CA",earthquake,0.17,0.58,0.176,9,reviewed,ci,ci
-2024-09-27T06:46:02.730Z,60.494,-150.8976,36.2,1.7,ml,,,,0.76,ak,ak024cgahilt,2024-09-27T06:47:54.235Z,"7 km W of Funny River, Alaska",earthquake,,4.3,,,automatic,ak,ak
