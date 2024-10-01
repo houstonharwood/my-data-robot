@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T07:23:20.605Z,-2.5504,-80.4867,43.176,3.5,mb,16,236,0.999,0.7,us,us7000nhe3,2024-10-01T08:12:22.040Z,"14 km NW of Playas, Ecuador",earthquake,8.91,19.335,0.351,2,reviewed,us,us
 2024-10-01T07:22:12.260Z,33.8363333,-117.626,8.38,1.82,ml,18,90,0.04329,0.13,ci,ci40749439,2024-10-01T13:49:36.105Z,"6 km SW of Corona, CA",earthquake,0.25,0.52,0.153,12,reviewed,ci,ci
 2024-10-01T07:12:36.190Z,18.0206,-66.7601,16,3.39,md,19,140,0.1889,0.24,pr,pr2024275000,2024-10-01T12:07:09.620Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.6,0.88,0.1,15,reviewed,pr,pr
-2024-10-01T07:11:30.507Z,36.5819,-115.4164,7.3,1.4,ml,29,149.48000000000002,0.223,0.2188,nn,nn00885419,2024-10-01T07:13:43.708Z,"22 km E of Indian Springs, Nevada",earthquake,,3.4,0.22,20,automatic,nn,nn
+2024-10-01T07:11:30.903Z,36.5767,-115.4229,10,1.2,ml,27,151.55,0.226,0.1258,nn,nn00885419,2024-10-01T14:44:58.395Z,"22 km E of Indian Springs, Nevada",earthquake,,4.4,0.22,14,reviewed,nn,nn
 2024-10-01T07:10:38.587Z,0.4903,122.2921,121.587,5,mb,63,59,1.596,0.85,us,us7000nhe1,2024-10-01T07:28:26.040Z,"85 km W of Gorontalo, Indonesia",earthquake,7.02,5.419,0.069,68,reviewed,us,us
 2024-10-01T07:07:07.290Z,41.765,-112.429833333333,-1.22,0.7,md,14,82,0.09591,0.13,uu,uu80083691,2024-10-01T13:24:57.300Z,"3 km SSE of Howell, Utah",earthquake,0.45,3.34,0.156134980597433,8,reviewed,uu,uu
 2024-10-01T07:07:05.120Z,35.7675,-84.0693333333333,11.87,2.06,md,15,111,0.1396,0.1,se,se60592126,2024-10-01T13:37:09.760Z,"6 km E of Friendsville, Tennessee",earthquake,0.3,0.96,0.0589845763504711,12,reviewed,se,se
@@ -106,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T01:23:12.200Z,19.7689990997314,-155.278167724609,32.7799987792969,2.1,ml,31,198,0.2399,0.170000002,hv,hv74483672,2024-10-01T01:26:05.900Z,"19 km W of Paukaa, Hawaii",earthquake,0.86,1.20000005,0.3,4,automatic,hv,hv
 2024-10-01T01:19:55.372Z,32.737,-100.66,8.4473,2.3,ml,12,80,0.1,0.1,tx,tx2024tgsu,2024-10-01T13:33:53.499Z,"14 km NE of Hermleigh, Texas",earthquake,0.8113656083774614,1.3185863522579575,0.1,6,reviewed,tx,tx
 2024-10-01T01:13:08.720Z,38.8209991455078,-122.893501281738,4.42999982833862,0.83,md,15,86,0.006098,0.04,nc,nc75068866,2024-10-01T02:47:17.098Z,"11 km E of Cloverdale, CA",earthquake,0.52,1.10000002,0.25,17,automatic,nc,nc
-2024-10-01T01:05:31.800Z,31.676,-104.412,6.0133,1.5,ml,16,69,0,0.3,tx,tx2024tgsg,2024-10-01T01:16:11.466Z,"55 km S of Whites City, New Mexico",earthquake,0,2.41988921165466,0.2,13,automatic,tx,tx
+2024-10-01T01:05:32.026Z,31.671,-104.413,6.3049,1.7,ml,19,88,0,0.1,tx,tx2024tgsg,2024-10-01T14:46:11.935Z,"56 km S of Whites City, New Mexico",earthquake,0.8469121708139131,1.1061117292862903,0.1,36,reviewed,tx,tx
 2024-10-01T00:57:19.290Z,35.8905,-117.688,9.22,1.23,ml,28,43,0.06491,0.11,ci,ci40749311,2024-10-01T13:51:32.750Z,"20 km ESE of Little Lake, CA",earthquake,0.13,0.35,0.152,18,reviewed,ci,ci
 2024-10-01T00:54:14.421Z,31.607,-103.962,8.7274,3.4,ml,16,58,0,0.1,tx,tx2024tgrx,2024-10-01T02:59:09.547Z,"36 km WSW of Mentone, Texas",earthquake,0.5204415746341337,0.4724878463240754,0.2,24,reviewed,tx,tx
 2024-10-01T00:45:00.750Z,33.3558333,-116.3756667,9.99,0.9,ml,54,35,0.02989,0.21,ci,ci40749303,2024-10-01T00:55:29.077Z,"11 km N of Borrego Springs, CA",earthquake,0.2,0.46,0.18,23,automatic,ci,ci
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T15:07:29.810Z,37.8605,-122.051166666667,9,1.91,md,68,40,0.04495,0.12,nc,nc75068601,2024-10-01T00:07:42.710Z,"2 km NW of Alamo, CA",earthquake,0.13,0.22,0.19,56,reviewed,nc,nc
 2024-09-30T14:54:45.360Z,33.8121667,-116.9695,12.4,0.95,ml,27,66,0.1072,0.12,ci,ci40748879,2024-09-30T20:07:05.050Z,"3 km NNW of San Jacinto, CA",earthquake,0.21,0.52,0.148,20,reviewed,ci,ci
 2024-09-30T14:50:29.140Z,38.7751655578613,-122.823829650879,12.0100002288818,0.29,md,8,202,0.02088,0.12,nc,nc75068591,2024-09-30T16:37:14.693Z,"6 km W of The Geysers, CA",earthquake,1.72,6.59000015,0.04,9,automatic,nc,nc
-2024-09-30T14:46:42.762Z,60.7589,-149.3272,11.2,1.6,ml,,,,0.64,ak,ak024cldv40k,2024-09-30T14:48:40.870Z,"15 km SSE of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
