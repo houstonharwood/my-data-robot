@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-03T04:23:42.675Z,37.6096,-117.0249,0,0.5,ml,9,168.15000000000003,0.362,0.4101,nn,nn00885517,2024-10-03T04:26:19.572Z,"21 km ESE of Goldfield, Nevada",earthquake,,61.2,0.36,5,automatic,nn,nn
+2024-10-03T04:22:45.765Z,37.6774,-117.0402,0,0.3,ml,9,277.78,0.416,0.2536,nn,nn00885515,2024-10-03T04:24:58.991Z,"17 km ESE of Goldfield, Nevada",earthquake,,45.8,0.31,7,automatic,nn,nn
 2024-10-03T03:58:41.594Z,38.1485,-117.9038,5.5,1.6,ml,8,160.10000000000002,0.081,0.1242,nn,nn00885514,2024-10-03T04:01:29.117Z,"32 km SSE of Mina, Nevada",earthquake,,0.7,0.63,4,automatic,nn,nn
 2024-10-03T03:58:16.011Z,61.6595,-148.0386,19,0.4,ml,,,,0.5,ak,ak024cq5zwdd,2024-10-03T04:00:05.506Z,"26 km SW of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-03T03:58:07.010Z,36.4726676940918,-121.042503356934,3.25999999046326,2.11,md,26,72,0.02137,0.07,nc,nc75069776,2024-10-03T04:09:27.501Z,"11 km SE of Pinnacles, CA",earthquake,0.26,0.560000002,0.12,13,automatic,nc,nc
@@ -50,9 +52,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T22:24:52.676Z,43.8446,-129.4168,13.482,4,mb,70,208,2.132,0.89,us,us6000nw6j,2024-10-03T01:43:25.106Z,"off the coast of Oregon",earthquake,11.52,7.904,0.11,22,reviewed,us,us
 2024-10-02T22:24:42.100Z,33.393,-116.3743333,4.93,0.65,ml,22,85,0.06219,0.16,ci,ci40750823,2024-10-02T23:42:35.956Z,"15 km N of Borrego Springs, CA",earthquake,0.26,0.52,0.1,12,reviewed,ci,ci
 2024-10-02T22:23:04.400Z,33.4866667,-116.4628333,12.65,0.48,ml,17,111,0.09074,0.12,ci,ci40750815,2024-10-02T23:39:17.956Z,"21 km ESE of Anza, CA",earthquake,0.32,0.93,0.033,9,reviewed,ci,ci
-2024-10-02T22:19:34.820Z,37.216667175293,-118.284164428711,11.1099996566772,1.75,md,12,179,0.014,0.08,nc,nc75069661,2024-10-03T00:19:56.826Z,"6 km NNE of Big Pine, CA",earthquake,1,0.889999986,0.01,3,automatic,nc,nc
+2024-10-02T22:19:35.179Z,37.2107,-118.2371,7.7,1.4,ml,7,268.45,0.263,0.2173,nn,nn00885499,2024-10-02T23:31:27.771Z,"6 km NE of Big Pine, California",earthquake,,8.7,0.41,4,reviewed,nn,nn
+2024-10-02T22:19:28.120Z,19.0616664886475,-155.351669311523,31.1200008392334,1.99,ml,56,207,0.14,0.140000001,hv,hv74486007,2024-10-02T22:22:22.160Z,"20 km SE of Pāhala, Hawaii",earthquake,0.49,0.730000019,0.87,3,automatic,hv,hv
+2024-10-02T22:04:14.036Z,56.045,-149.7104,17.915,3.6,ml,20,240,2.349,0.85,us,us6000nw6f,2024-10-02T22:12:00.040Z,"234 km SE of Chiniak, Alaska",earthquake,9.53,8.918,0.053,46,reviewed,us,us
 2024-10-02T22:00:52.200Z,36.0361667,-117.7773333,1.66,0.64,ml,8,162,0.01467,0.06,ci,ci37685164,2024-10-02T23:34:44.347Z,"15 km E of Coso Junction, CA",earthquake,0.22,0.19,0.183,3,reviewed,ci,ci
 2024-10-02T22:00:42.820Z,36.0295,-117.7778333,2.06,1.19,ml,24,77,0.01105,0.12,ci,ci40750799,2024-10-02T23:23:05.091Z,"15 km E of Coso Junction, CA",earthquake,0.19,0.13,0.158,15,reviewed,ci,ci
+2024-10-02T21:41:46.963Z,-14.3041,167.2944,209.096,5.2,mww,63,64,6.843,0.66,us,us6000nw6c,2024-10-02T21:56:44.040Z,"54 km SSW of Sola, Vanuatu",earthquake,8.86,7.579,0.093,11,reviewed,us,us
 2024-10-02T21:12:37.500Z,38.8230018615723,-122.852996826172,2.41000008583069,1.65,md,34,59,0.005454,0.02,nc,nc75069621,2024-10-02T21:32:15.642Z,"10 km NW of The Geysers, CA",earthquake,0.18,0.310000002,0.15,28,automatic,nc,nc
 2024-10-02T21:05:37.351Z,-34.8421,-179.5924,35,4.7,mb,25,115,3.202,1.13,us,us6000nw66,2024-10-02T21:45:15.040Z,"south of the Kermadec Islands",earthquake,10.92,1.89,0.134,17,reviewed,us,us
 2024-10-02T20:58:59.330Z,33.4615,-116.6111667,9.19,0.29,ml,15,85,0.02773,0.11,ci,ci40750759,2024-10-02T23:18:19.045Z,"12 km SSE of Anza, CA",earthquake,0.23,0.41,0.19,7,reviewed,ci,ci
@@ -132,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T14:55:21.350Z,35.0366667,-116.9878333,1.96,1.63,ml,22,52,0.1615,0.15,ci,ci40750367,2024-10-02T19:47:49.120Z,"16 km NNE of Barstow, CA",earthquake,0.18,0.46,0.198,17,reviewed,ci,ci
 2024-10-02T14:45:53.823Z,68.853,-145.3688,0.3,3,ml,,,,0.77,ak,ak024cooxm5d,2024-10-02T14:48:26.317Z,"81 km N of Arctic Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-02T14:43:14.990Z,19.2438335418701,-155.410003662109,32.2999992370605,2,md,46,93,0.01339,0.140000001,hv,hv74485612,2024-10-02T14:44:48.750Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.48,0.550000012,0.140000001,14,automatic,hv,hv
+2024-10-02T14:42:44.580Z,53.9693333333333,-166.520166666667,10.4,0.49,ml,11,148,0.09523,0.27,av,av93295508,2024-10-03T04:13:20.810Z,"8 km N of Dutch Harbor, Alaska",earthquake,0.78,1.73,0.14829496359629,11,reviewed,av,av
 2024-10-02T14:39:41.670Z,19.2455005645752,-155.417999267578,31.75,2.01999998,md,53,94,0.02094,0.129999995,hv,hv74485607,2024-10-02T14:41:30.580Z,"7 km NE of Pāhala, Hawaii",earthquake,0.4,0.550000012,0.270000011,16,automatic,hv,hv
 2024-10-02T14:38:29.390Z,36.50266667,-98.4275,7.98,1.62,ml,78,85,0.05848852256,0.33,ok,ok2024tjoi,2024-10-02T14:56:25.123Z,"2 km ESE of Aline, Oklahoma",earthquake,,0.6,0.19,30,reviewed,ok,ok
 2024-10-02T14:34:05.934Z,57.2016,-150.9689,92.6,2.8,ml,,,,0.64,ak,ak024coov5kh,2024-10-02T14:37:19.280Z,"91 km ESE of Chiniak, Alaska",earthquake,,5.3,,,automatic,ak,ak
@@ -139,6 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T14:20:57.760Z,19.3461666666667,-154.677833333333,38.91,2.12,ml,24,303,0.2094,0.09,hv,hv74485597,2024-10-02T18:44:52.850Z,"28 km ESE of Leilani Estates, Hawaii",earthquake,1.18,1.15,0.258403537532882,9,reviewed,hv,hv
 2024-10-02T14:12:04.540Z,39.0118333333333,-111.401,-1.43,0.89,ml,7,128,0.03579,0.16,uu,uu80083781,2024-10-02T15:11:20.200Z,"16 km NW of Emery, Utah",earthquake,0.82,0.8,0.466514044105266,3,reviewed,uu,uu
 2024-10-02T14:09:29.120Z,33.5018333,-116.491,13.77,0.37,ml,21,70,0.0648,0.12,ci,ci40750335,2024-10-02T16:39:12.871Z,"18 km ESE of Anza, CA",earthquake,0.25,0.49,0.134,11,reviewed,ci,ci
+2024-10-02T14:09:14.410Z,58.2963333333333,-155.335833333333,5.99,-0.77,ml,5,196,0.03779,0.09,av,av93023024,2024-10-03T04:26:31.400Z,"88 km ESE of King Salmon, Alaska",earthquake,0.56,0.76,0.378648512790044,5,reviewed,av,av
 2024-10-02T14:00:24.240Z,33.7713333,-116.9376667,14.82,0.29,ml,13,181,0.08251,0.12,ci,ci40750327,2024-10-02T20:22:56.211Z,"2 km SE of San Jacinto, CA",earthquake,0.43,0.81,0.103,6,reviewed,ci,ci
 2024-10-02T14:00:13.830Z,19.15016746521,-155.439498901367,7.3600001335144,2.21,ml,51,208,0.022,0.289999992,hv,hv74485572,2024-10-02T14:03:08.230Z,"7 km SE of Pāhala, Hawaii",earthquake,0.56,0.629999995,0.65,7,automatic,hv,hv
 2024-10-02T13:46:19.543Z,61.1405,-146.5697,0,1.7,ml,,,,0.79,ak,ak024coocbkn,2024-10-02T13:48:59.890Z,"11 km W of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -261,7 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T04:38:51.650Z,44.2996666666667,-115.131333333333,6.82,1.81,ml,13,70,0.2817,0.15,mb,mb90062918,2024-10-02T15:23:19.370Z,"17 km WNW of Stanley, Idaho",earthquake,0.41,1.1,0.175868844198983,16,reviewed,mb,mb
 2024-10-02T04:38:41.438Z,63.2817,-152.737,1.1,1.7,ml,,,,0.5,ak,ak024coixr4t,2024-10-02T04:41:06.866Z,"58 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-02T04:36:50.491Z,37.5872,-117.0386,15,0.7,ml,13,164.51,0.337,0.1074,nn,nn00885466,2024-10-02T16:46:56.202Z,"21 km SE of Goldfield, Nevada",earthquake,,2.4,0.34,3,reviewed,nn,nn
-2024-10-02T04:32:34.120Z,36.0735015869141,-120.212997436523,9.14000034332275,1.72,md,12,139,0.06529,0.18,nc,nc75069286,2024-10-02T06:37:17.257Z,"11 km NNW of Avenal, CA",earthquake,0.76,0.689999998,0.11,6,automatic,nc,nc
-2024-10-02T04:23:05.897Z,63.7805,-148.8662,29.5,2.2,ml,,,,0.73,ak,ak024coiucdq,2024-10-02T04:25:33.569Z,"5 km NNE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-02T04:20:22.254Z,60.1728,-152.5049,103.3,2.3,ml,,,,0.78,ak,ak024coituqw,2024-10-02T04:24:44.519Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-02T04:16:13.880Z,58.296,-155.335666666667,5.83,-0.48,ml,6,150,0.0375,0.08,av,av93295018,2024-10-02T21:34:46.200Z,"88 km ESE of King Salmon, Alaska",earthquake,0.36,0.74,0.269643250261767,6,reviewed,av,av
