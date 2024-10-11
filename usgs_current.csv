@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-11T22:33:39.500Z,38.823833465576,-122.84483337402,2.0599999427795,1.51,md,30,66,0.007691,0.02,nc,nc75073266,2024-10-11T22:43:39.960Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.300000012,0.13,31,automatic,nc,nc
+2024-10-11T22:47:43.170Z,34.0166664,-117.5970001,5.43,1.45,ml,58,59,0.01858,0.18,ci,ci40952272,2024-10-11T22:49:51.103Z,"5 km SE of Ontario, CA",earthquake,0.22,0.31,0.238,13,automatic,ci,ci
+2024-10-11T22:45:57.350Z,38.822334289551,-122.78833007812,1.3600000143051,1.27,md,22,38,0.01085,0.02,nc,nc75073281,2024-10-11T22:47:32.080Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.349999994,0.22,23,automatic,nc,nc
+2024-10-11T22:33:39.500Z,38.823833465576,-122.84483337402,2.0599999427795,1.51,md,30,66,0.007691,0.02,nc,nc75073266,2024-10-11T22:48:58.487Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.300000012,0.13,31,automatic,nc,nc
 2024-10-11T22:30:31.940Z,34.987,-118.1866667,0.78,1.4,ml,34,38,0.1133,0.17,ci,ci40952264,2024-10-11T22:37:38.039Z,"7 km S of Mojave, CA",earthquake,0.21,0.5,0.107,31,automatic,ci,ci
 2024-10-11T22:18:52.030Z,37.805999755859,-122.21067047119,9.2299995422363,1.78,md,35,55,0.03657,0.06,nc,nc75073261,2024-10-11T22:21:53.690Z,"2 km ENE of Oakland, CA",earthquake,0.18,0.460000008,0.22,25,automatic,nc,nc
 2024-10-11T22:14:32.660Z,35.6506667,-117.499,4.52,0.9,ml,22,92,0.06298,0.11,ci,ci40952248,2024-10-11T22:24:45.718Z,"16 km SSW of Searles Valley, CA",earthquake,0.18,0.37,0.18,9,automatic,ci,ci
@@ -158,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T04:26:57.249Z,61.404,-146.358,30.1,1.6,ml,,,,0.46,ak,ak024d3epc70,2024-10-11T04:28:59.347Z,"30 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T04:12:35.973Z,60.5968,-152.4406,94,1.2,ml,,,,0.22,ak,ak024d3emane,2024-10-11T04:15:01.721Z,"61 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-11T04:09:25.700Z,19.159999847412,-155.49650573731,31.790000915527,2.38000011,md,46,125,0.03283,0.150000006,hv,hv74496326,2024-10-11T04:11:00.820Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.61,0.649999976,0.25,12,automatic,hv,hv
+2024-10-11T03:55:06.980Z,54.603666666667,-163.90616666667,12.63,1.51,ml,5,246,0.1034,0.21,av,av93023779,2024-10-11T22:48:13.820Z,"42 km SW of False Pass, Alaska",earthquake,1.18,1.61,0.34730541032123,6,reviewed,av,av
 2024-10-11T03:55:06.760Z,38.852001190185,-122.77200317383,1.2599999904633,1.46,md,24,167,0.009993,0.03,nc,nc75072906,2024-10-11T05:24:23.968Z,"5 km NW of Cobb, CA",earthquake,0.32,0.280000001,0.08,24,automatic,nc,nc
 2024-10-11T03:49:17.260Z,38.849334716797,-122.76616668701,-0.77999997138977,1.26,md,15,210,0.01044,0.12,nc,nc75072896,2024-10-11T04:09:26.414Z,"5 km NW of Cobb, CA",earthquake,0.58,0.959999979,0.13,18,automatic,nc,nc
 2024-10-11T03:47:04.811Z,60.5435,-148.929,24.8,1.4,ml,,,,0.24,ak,ak024d3e8ai4,2024-10-11T07:49:12.990Z,"25 km ENE of Moose Pass, Alaska",earthquake,,0.5,,,reviewed,ak,ak
@@ -215,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T23:11:24.670Z,-17.9425,-178.6485,547.409,4.4,mb,66,49,3.649,0.68,us,us6000nxzd,2024-10-11T00:19:08.262Z,"215 km E of Levuka, Fiji",earthquake,12.49,7.255,0.049,118,reviewed,us,us
 2024-10-10T23:09:35.150Z,69.3196,-144.6772,0,2.9,ml,,,,0.77,ak,ak024d22djbf,2024-10-11T00:14:10.040Z,"99 km SSW of Kaktovik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-10T23:03:42.880Z,60.028833333333,-153.0585,3.1,-0.76,ml,5,102,0.0237,0.09,av,av93308723,2024-10-11T19:29:42.350Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.45,0.83,0.53743166850873,5,reviewed,av,av
-2024-10-10T22:52:55.791Z,63.4356,-149.9848,0,1.6,ml,,,,0.67,ak,ak024d221d3f,2024-10-10T22:55:11.649Z,"51 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-10T22:48:17.040Z,38.798999786377,-122.75849914551,4.4400000572205,0.49,md,9,90,0.001879,0.01,nc,nc75072826,2024-10-10T22:49:51.720Z,"2 km N of The Geysers, CA",earthquake,0.6,1.86000001,0.24,9,automatic,nc,nc
