@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-11T17:06:18.130Z,38.837501525879,-122.83016967773,2.1400001049042,0.94,md,14,90,0.004292,0.01,nc,nc75073136,2024-10-11T17:07:51.906Z,"9 km NNW of The Geysers, CA",earthquake,0.29,0.560000002,0.34,14,automatic,nc,nc
+2024-10-11T17:02:53.510Z,39.517166137695,-123.34016418457,7.0999999046326,2.05,md,22,53,0.04816,0.06,nc,nc75073131,2024-10-11T17:04:32.214Z,"9 km NE of Brooktrails, CA",earthquake,0.25,0.629999995,0.09,14,automatic,nc,nc
+2024-10-11T16:54:19.950Z,38.798500061035,-122.75666809082,3.8800001144409,0.69,md,8,93,0.003187,0.01,nc,nc75073126,2024-10-11T16:55:58.052Z,"2 km N of The Geysers, CA",earthquake,0.5,1.92999995,0.15,8,automatic,nc,nc
+2024-10-11T16:53:33.040Z,19.303499221802,-155.24516296387,3.9300000667572,2.54,ml,56,94,0.02943,0.200000003,hv,hv74496626,2024-10-11T16:56:27.100Z,"15 km S of Volcano, Hawaii",earthquake,0.29,1.10000002,0.32,39,automatic,hv,hv
 2024-10-11T16:45:53.520Z,36.405166625977,-120.97666931152,11.960000038147,1.38,md,9,120,0.08247,0.04,nc,nc75073121,2024-10-11T16:47:32.706Z,"20 km SE of Pinnacles, CA",earthquake,0.38,0.959999979,0.41,6,automatic,nc,nc
 2024-10-11T16:39:59.570Z,19.144500732422,-155.45449829102,33.369998931885,2.1099999,md,29,175,0.1071,0.140000001,hv,hv74496616,2024-10-11T16:41:36.490Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.84,1.00999999,0.349999994,3,automatic,hv,hv
 2024-10-11T16:36:24.332Z,36.7129,-116.1669,2.5,-0.1,ml,9,92.3,0.026,0.0419,nn,nn00885863,2024-10-11T16:38:14.530Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.04,4,automatic,nn,nn
@@ -102,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T03:49:17.260Z,38.849334716797,-122.76616668701,-0.77999997138977,1.26,md,15,210,0.01044,0.12,nc,nc75072896,2024-10-11T04:09:26.414Z,"5 km NW of Cobb, CA",earthquake,0.58,0.959999979,0.13,18,automatic,nc,nc
 2024-10-11T03:47:04.811Z,60.5435,-148.929,24.8,1.4,ml,,,,0.24,ak,ak024d3e8ai4,2024-10-11T07:49:12.990Z,"25 km ENE of Moose Pass, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-10-11T03:26:35.880Z,38.831832885742,-122.88300323486,2.2999999523163,0.28,md,8,167,0.00639,0.01,nc,nc75072891,2024-10-11T03:57:17.330Z,"12 km E of Cloverdale, CA",earthquake,0.55,0.74000001,0.16,8,automatic,nc,nc
-2024-10-11T03:25:03.867Z,38.1384,-116.7269,13.9,1.3,ml,9,212.68,0.775,0.2393,nn,nn00885833,2024-10-11T03:27:31.559Z,"44 km E of Tonopah, Nevada",earthquake,,1.8,0.32,8,automatic,nn,nn
+2024-10-11T03:25:03.127Z,38.1761,-116.7312,5.3,1.7,ml,7,167.27,0.275,0.0917,nn,nn00885833,2024-10-11T17:06:47.660Z,"45 km ENE of Tonopah, Nevada",earthquake,,5.2,0.37,2,reviewed,nn,nn
 2024-10-11T03:22:19.892Z,61.4829,-146.6966,13.5,2.7,ml,,,,0.74,ak,ak024d3e2u73,2024-10-11T03:24:10.791Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T03:19:40.000Z,37.2595,-113.29916666667,6.13,1.96,ml,20,66,0.08559,0.18,uu,uu80084336,2024-10-11T14:19:05.590Z,"1 km WNW of Toquerville, Utah",earthquake,0.36,0.99,0.10423267940745,7,reviewed,uu,uu
 2024-10-11T03:19:20.460Z,69.3252,-144.7407,0.1,2,ml,,,,0.42,ak,ak024d3e2bqm,2024-10-11T03:22:37.828Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -175,6 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T19:30:31.109Z,36.495,-98.476,6.28,1.16,ml,31,100,0.02609487929,0.27,ok,ok2024tynz,2024-10-11T12:35:47.097Z,"2 km SW of Aline, Oklahoma",earthquake,,0.5,0.24,12,reviewed,ok,ok
 2024-10-10T19:20:36.033Z,36.6094,-117.0807,7.8,1.4,ml,14,262.3,0.143,0.1114,nn,nn00885821,2024-10-10T19:46:12.566Z,"27 km NW of Furnace Creek, California",earthquake,,2,0.49,5,reviewed,nn,nn
 2024-10-10T19:16:02.360Z,36.977666666667,-119.82766666667,8.16,2,md,10,205,0.09802,0.11,nc,nc75072776,2024-10-10T22:02:43.240Z,"4 km ESE of Bonadelle Ranchos-Madera Ranchos, CA",earthquake,1.4,0.8,0.211,24,reviewed,nc,nc
+2024-10-10T19:10:59.020Z,37.518665313721,-118.78549957275,4.7699999809265,1.57,md,17,159,0.07922,0.03,nc,nc75072771,2024-10-10T20:52:15.194Z,"10 km WSW of Toms Place, CA",earthquake,0.54,1.01999998,0.14,17,automatic,nc,nc
 2024-10-10T18:56:53.150Z,61.302666666667,-152.22666666667,1.68,-0.37,ml,7,165,0.05089,0.05,av,av93023749,2024-10-11T07:51:47.800Z,"64 km WNW of Beluga, Alaska",earthquake,0.37,1.06,0.31908375773703,8,reviewed,av,av
 2024-10-10T18:56:23.410Z,61.303166666667,-152.22633333333,1.88,-0.42,ml,7,165,0.05115,0.05,av,av93308493,2024-10-11T07:47:50.730Z,"64 km WNW of Beluga, Alaska",earthquake,0.32,1.07,0.29450961065858,7,reviewed,av,av
 2024-10-10T18:55:02.240Z,48.612166666667,-121.95816666667,0.44,2.02,ml,12,50,0.1043,0.13,uw,uw62045242,2024-10-11T15:42:10.470Z,"10 km NNE of Hamilton, Washington",earthquake,0.22,0.53,0.19567213552954,8,reviewed,uw,uw
@@ -202,6 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T18:13:41.060Z,34.6315,-117.1156667,-1.22,1.4,ml,31,35,0.2092,0.15,ci,ci40951312,2024-10-10T20:03:39.268Z,"16 km NNE of Apple Valley, CA",quarry blast,0.24,31.61,0.058,21,reviewed,ci,ci
 2024-10-10T18:12:34.393Z,-0.9254,-22.0667,10,5.3,mb,72,46,10.364,0.68,us,us6000nxws,2024-10-11T06:53:18.040Z,"central Mid-Atlantic Ridge",earthquake,8.28,1.848,0.041,194,reviewed,us,us
 2024-10-10T18:12:15.760Z,38.818000793457,-122.81749725342,2.4500000476837,1.07,md,20,53,0.007914,0.02,nc,nc75072756,2024-10-10T19:39:29.659Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.449999988,0.16,22,automatic,nc,nc
+2024-10-10T17:59:07.540Z,-56.0665,-25.5835,10,4.6,mb,17,112,6.498,0.82,us,us6000ny13,2024-10-11T16:58:27.040Z,"South Sandwich Islands region",earthquake,12.77,1.932,0.136,16,reviewed,us,us
 2024-10-10T17:55:51.290Z,32.8938333,-116.5963333,8.53,1.03,ml,43,54,0.02873,0.18,ci,ci40951304,2024-10-10T19:59:34.906Z,"10 km NW of Pine Valley, CA",earthquake,0.2,0.44,0.3,22,reviewed,ci,ci
 2024-10-10T17:50:13.898Z,69.366,-144.9212,0,2.6,ml,,,,0.73,ak,ak024d1z1oel,2024-10-10T18:48:52.040Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T17:49:07.232Z,65.8031,-149.8941,3.1,1.2,ml,,,,0.67,ak,ak024d1z1g6e,2024-10-10T17:58:48.834Z,"35 km NNE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -210,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T17:35:30.900Z,58.6065,-154.6848,0,1.7,ml,,,,0.53,ak,ak024d1yyi0l,2024-10-11T06:16:10.510Z,"92 km S of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T17:18:00.970Z,61.274166666667,-152.24016666667,3.27,-0.82,ml,8,147,0.04206,0.06,av,av93308378,2024-10-11T06:11:34.390Z,"63 km WNW of Tyonek, Alaska",earthquake,0.26,0.38,0.32638933706608,8,reviewed,av,av
 2024-10-10T17:17:49.092Z,61.5205,-149.9059,42.6,1.1,ml,,,,0.55,ak,ak024d1yuohp,2024-10-10T17:20:04.543Z,"2 km E of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-10-10T17:06:46.146Z,62.3422,-150.953,67.6,1.4,ml,,,,0.45,ak,ak024d1ysbdy,2024-10-10T17:09:07.041Z,"19 km SSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-10T17:03:00.220Z,34.6915,-96.63816667,0,1.41,ml,27,126,0.2555498524,0.4,ok,ok2024tyjc,2024-10-11T12:25:16.548Z,"9 km SSE of Ada, Oklahoma",quarry blast,,0.6,0.27,15,reviewed,ok,ok
