@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-11T23:31:41.610Z,38.822166442871,-122.78833007812,1.3799999952316,1.12,md,17,45,0.01071,0.02,nc,nc75073306,2024-10-11T23:33:16.550Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.400000006,0.15,19,automatic,nc,nc
 2024-10-11T23:14:01.370Z,34.4493333,-117.94,9.76,1.04,ml,15,61,0.01274,0.12,ci,ci40952288,2024-10-11T23:24:08.511Z,"7 km SSW of Pearblossom, CA",earthquake,0.26,0.44,0.19,7,reviewed,ci,ci
 2024-10-11T23:04:15.320Z,33.9776667,-116.7615,11.55,0.68,ml,25,90,0.06903,0.15,ci,ci40952280,2024-10-11T23:19:28.018Z,"7 km NNE of Cabazon, CA",earthquake,0.26,0.67,0.086,10,reviewed,ci,ci
 2024-10-11T22:59:37.376Z,36.6609,-116.2651,6.1,0.5,ml,11,108.41,0.061,0.0694,nn,nn00885875,2024-10-11T23:01:16.994Z,"51 km ESE of Beatty, Nevada",earthquake,,1.1,0.19,7,automatic,nn,nn
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T19:04:41.691Z,62.6083,-149.7141,15.6,2,ml,,,,0.51,ak,ak024d3ni3bd,2024-10-11T19:06:40.164Z,"26 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-11T19:02:32.723Z,62.6665,-149.8404,7.2,3.2,ml,,,,0.72,ak,ak024d3nhn6d,2024-10-11T23:13:30.149Z,"27 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-11T19:00:33.740Z,38.79033279419,-122.76716613769,3.0699999332428,1.11,md,21,77,0.01646,0.02,nc,nc75073191,2024-10-11T21:37:16.067Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.639999986,0.14,21,automatic,nc,nc
-2024-10-11T18:57:13.960Z,35.8163333,-117.6388333,6.71,0.68,ml,13,77,0.03359,0.07,ci,ci40952088,2024-10-11T23:16:15.802Z,"22 km WNW of Searles Valley, CA",earthquake,0.16,0.35,0.126,7,reviewed,ci,ci
+2024-10-11T18:57:13.960Z,35.8163333,-117.6386667,6.69,0.68,ml,13,77,0.03346,0.07,ci,ci40952088,2024-10-11T23:34:10.559Z,"22 km WNW of Searles Valley, CA",earthquake,0.15,0.33,0.125,7,reviewed,ci,ci
 2024-10-11T18:52:38.970Z,46.3405,-122.266,10.56,0.4,ml,16,236,0.03722,0.09,uw,uw62053686,2024-10-11T20:49:18.220Z,"24 km S of Morton, Washington",earthquake,0.64,0.41,0.11097800562625,7,reviewed,uw,uw
 2024-10-11T18:51:09.080Z,19.315166473389,-155.24533081055,5.8400001525879,1.88,md,40,93,0.039,0.140000001,hv,hv74496706,2024-10-11T18:52:41.950Z,"14 km S of Volcano, Hawaii",earthquake,0.41,0.620000005,0.340000004,22,automatic,hv,hv
 2024-10-11T18:50:35.300Z,38.788166046143,-122.76699829102,3.9900000095367,1.64,md,31,77,0.01368,0.05,nc,nc75073186,2024-10-11T21:09:29.984Z,"2 km NNW of The Geysers, CA",earthquake,0.25,0.479999989,0.13,32,automatic,nc,nc
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T23:56:05.970Z,61.273333333333,-151.7385,16.16,-0.26,ml,5,251,0.128,0.15,av,av93308788,2024-10-11T19:37:39.190Z,"38 km WNW of Beluga, Alaska",earthquake,1.54,1.35,0.1456091574826,5,reviewed,av,av
 2024-10-10T23:50:52.330Z,19.044666290283,-155.35783386231,29.110000610352,2.1,ml,55,211,0.1478,0.150000006,hv,hv74496131,2024-10-10T23:53:47.250Z,"21 km SE of Pāhala, Hawaii",earthquake,0.54,0.980000019,0.75,4,automatic,hv,hv
 2024-10-10T23:41:21.700Z,34.6446667,-117.4268333,9.09,1.53,ml,39,53,0.09416,0.14,ci,ci40951504,2024-10-11T00:40:43.952Z,"7 km NNW of Adelanto, CA",earthquake,0.14,0.51,0.118,22,reviewed,ci,ci
-2024-10-10T23:35:30.310Z,33.8053333,-117.624,5.52,1.15,ml,34,62,0.01597,0.15,ci,ci40951496,2024-10-11T00:30:31.793Z,"9 km SW of Corona, CA",earthquake,0.18,0.28,0.189,16,reviewed,ci,ci
-2024-10-10T23:32:22.940Z,33.4891667,-116.7475,9.16,0.67,ml,22,85,0.05279,0.11,ci,ci40951488,2024-10-10T23:49:20.483Z,"10 km SW of Anza, CA",earthquake,0.23,0.47,0.092,6,reviewed,ci,ci
