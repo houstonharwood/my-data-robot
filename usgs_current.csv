@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-15T20:35:10.560Z,36.1036682,-117.8395004,4.9,1.53,ml,15,92,0.01864,0.11,ci,ci40954656,2024-10-15T20:37:30.780Z,"12 km ENE of Coso Junction, CA",earthquake,0.38,0.84,0.409,6,automatic,ci,ci
+2024-10-15T20:40:33.760Z,36.1153336,-117.9280014,4.16,1.27,ml,19,80,0.05926,0.2,ci,ci40954664,2024-10-15T20:44:22.000Z,"8 km NNE of Coso Junction, CA",earthquake,0.41,0.81,0.206,21,automatic,ci,ci
+2024-10-15T20:35:10.610Z,36.102,-117.8428333,4.5,1.12,ml,31,64,0.01835,0.15,ci,ci40954656,2024-10-15T20:41:24.017Z,"11 km NE of Coso Junction, CA",earthquake,0.16,0.24,0.206,17,automatic,ci,ci
 2024-10-15T20:24:29.430Z,39.498664855957,-122.95850372315,2.8199999332428,1.5,md,8,192,0.1812,0.15,nc,nc75074721,2024-10-15T20:26:03.767Z,"10 km N of Lake Pillsbury, CA",earthquake,1.02,5.5,0.1,2,automatic,nc,nc
 2024-10-15T20:09:47.480Z,38.788166046143,-122.76850128174,1.8500000238419,0.75,md,9,99,0.01421,0.02,nc,nc75074716,2024-10-15T20:39:35.080Z,"2 km NNW of The Geysers, CA",earthquake,0.37,0.779999971,0.04,8,automatic,nc,nc
 2024-10-15T20:07:14.010Z,36.4811668396,-121.06050109863,8.7700004577637,1.53,md,8,166,0.02591,0.06,nc,nc75074711,2024-10-15T20:22:22.941Z,"9 km SE of Pinnacles, CA",earthquake,0.56,0.879999995,0.37,6,automatic,nc,nc
@@ -165,9 +166,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T03:10:09.840Z,38.825164794922,-122.80349731445,2.3599998950958,1.5,md,28,34,0.005433,0.02,nc,nc75074371,2024-10-15T04:39:29.189Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.340000004,0.2,30,automatic,nc,nc
 2024-10-15T03:09:53.946Z,61.8638,-150.2685,28,1.4,ml,,,,0.5,ak,ak024da05n4y,2024-10-15T03:11:55.727Z,"17 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-15T03:08:27.739Z,62.9173,-151.101,107,1.7,ml,,,,0.34,ak,ak024da05ded,2024-10-15T03:10:21.842Z,"49 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-10-15T02:45:14.990Z,32.834,-100.938,4.8096,1.4,ml,13,76,0,0.1,tx,tx2024ugki,2024-10-15T20:44:49.544Z,"13 km N of Snyder, Texas",earthquake,0.61184606771513,1.1445106438978,0.2,11,reviewed,tx,tx
 2024-10-15T02:37:19.770Z,35.8986667,-117.6928333,3.94,0.92,ml,26,41,0.06001,0.14,ci,ci40954336,2024-10-15T14:00:59.102Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.4,0.173,12,reviewed,ci,ci
 2024-10-15T02:13:34.467Z,59.9017,-152.2066,89.7,1.5,ml,,,,0.13,ak,ak024d9zl0w6,2024-10-15T02:24:38.957Z,"25 km WNW of Anchor Point, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2024-10-15T02:11:31.543Z,52.1301,-169.3975,41.8,3,ml,,,,0.68,ak,ak024d9zklc7,2024-10-15T15:35:55.116Z,"97 km SSW of Nikolski, Alaska",earthquake,,3.3,,,reviewed,ak,ak
+2024-10-15T02:11:22.610Z,46.1985,-122.18633333333,6.8,0.31,ml,12,93,0.02466,0.12,uw,uw62054306,2024-10-15T20:40:15.600Z,"37 km NNE of Amboy, Washington",earthquake,0.44,0.66,0.095288805474909,7,reviewed,uw,uw
 2024-10-15T02:09:08.921Z,32.148,-101.059,8.252,1.2,ml,22,72,0.2,0.1,tx,tx2024ugjd,2024-10-15T20:39:24.493Z,"23 km S of Westbrook, Texas",earthquake,0.87724812825395,2.602152025567,0.2,15,reviewed,tx,tx
 2024-10-15T02:08:10.310Z,38.819000244141,-122.74299621582,1,1.08,md,15,142,0.02252,0.02,nc,nc75074361,2024-10-15T02:47:19.399Z,"2 km W of Cobb, CA",earthquake,0.38,0.469999999,0.14,17,automatic,nc,nc
 2024-10-15T02:05:36.397Z,57.63,-155.6245,86.4,1.7,ml,,,,0.15,ak,ak024d9zjbbb,2024-10-15T02:08:06.238Z,"70 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -222,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T21:03:29.799Z,61.514,-150.5382,73.4,1.7,ml,,,,0.99,ak,ak024d8nardf,2024-10-14T21:06:23.759Z,"3 km SSW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-10-14T20:59:08.050Z,34.48883333,-97.20166667,0,1.27,ml,55,130,0.2573494992,0.66,ok,ok2024ufyx,2024-10-14T21:42:53.451Z,"7 km WSW of Davis, Oklahoma",quarry blast,,0.8,0.22,23,reviewed,ok,ok
 2024-10-14T20:54:27.990Z,61.3575,-152.29333333333,-0.15,0.11,ml,10,144,0.1058,0.11,av,av93317033,2024-10-15T05:45:30.300Z,"69 km WNW of Beluga, Alaska",earthquake,0.26,4.64,0.21982783108664,10,reviewed,av,av
-2024-10-14T20:43:06.888Z,31.737,-104.406,5.3052,1.4,ml,16,81,0,0.2,tx,tx2024ufyk,2024-10-15T10:26:15.373Z,"48 km S of Whites City, New Mexico",earthquake,0.66770377253404,0.8416209505411,0.1,18,reviewed,tx,tx
