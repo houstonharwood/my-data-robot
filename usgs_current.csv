@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-22T15:06:16.970Z,38.557666666667,-112.713,9.33,1.42,ml,23,79,0.08946,0.12,uu,uu80084861,2024-10-22T15:36:42.930Z,"31 km NE of Milford, Utah",earthquake,0.4,0.84,0.14119379927,5,reviewed,uu,uu
 2024-10-22T14:57:37.307Z,59.8432,-152.6586,92.7,1.9,ml,,,,0.67,ak,ak024dlrr3c2,2024-10-22T14:59:51.663Z,"47 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-22T14:55:21.750Z,39.346332550049,-123.24800109863,2.7799999713898,1.43,md,5,102,0.09695,0.05,nc,nc75077336,2024-10-22T15:17:17.016Z,"10 km NNW of Redwood Valley, CA",earthquake,0.42,8.72999954,0.22,4,automatic,nc,nc
 2024-10-22T14:47:04.440Z,19.45599937439,-155.44050598144,0.93999999761581,1.84,ml,54,34,0.06332,0.200000003,hv,hv74507696,2024-10-22T14:49:58.720Z,"21 km W of Volcano, Hawaii",earthquake,0.26,0.75,0.26,8,automatic,hv,hv
@@ -123,7 +124,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T01:24:22.498Z,63.1392,-151.4056,2.7,1.4,ml,,,,0.73,ak,ak024dljtcoi,2024-10-22T01:26:41.690Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-22T01:12:37.703Z,36.2205,141.2627,35,4.6,mb,40,151,2.485,0.6,us,us7000nmck,2024-10-22T02:44:12.040Z,"61 km E of Ōarai, Japan",earthquake,7.55,1.897,0.107,26,reviewed,us,us
 2024-10-22T01:07:24.460Z,33.2265,-116.0498333,3.12,1.01,ml,41,82,0.07571,0.23,ci,ci40959792,2024-10-22T01:13:41.037Z,"12 km SW of Salton City, CA",earthquake,0.21,0.44,0.131,25,automatic,ci,ci
-2024-10-22T01:06:58.628Z,35.7669,-115.9025,2.9,2,ml,26,144,0.33,0.2709,nn,nn00886372,2024-10-22T01:10:43.906Z,"25 km WSW of Sandy Valley, Nevada",earthquake,,5.3,0.22,18,automatic,nn,nn
 2024-10-22T01:04:37.785Z,31.614,-104.533,8.1506,1.8,ml,31,85,0.1,0.1,tx,tx2024utbq,2024-10-22T12:43:11.178Z,"64 km SSW of Whites City, New Mexico",earthquake,0.66971204983323,0.52549035133239,0.1,29,reviewed,tx,tx
 2024-10-22T01:02:29.680Z,32.939,-115.8793333,10.15,1.27,ml,40,42,0.06709,0.23,ci,ci40959784,2024-10-22T01:08:36.432Z,"25 km NNE of Ocotillo, CA",earthquake,0.23,0.59,0.254,28,automatic,ci,ci
 2024-10-22T00:59:37.430Z,33.3035,-116.4536667,3.04,0.96,ml,57,26,0.04663,0.2,ci,ci40959776,2024-10-22T13:50:23.260Z,"9 km NW of Borrego Springs, CA",earthquake,0.15,0.26,0.183,27,reviewed,ci,ci
@@ -140,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T23:39:25.170Z,37.122,-121.5385,3.99,0.58,md,16,45,0.07572,0.14,nc,nc75077106,2024-10-22T04:16:05.375Z,"8 km ENE of San Martin, CA",earthquake,0.33,1.24,0.3,13,reviewed,nc,nc
 2024-10-21T23:38:31.100Z,38.789,-122.45583333333,9.27,0.95,md,14,59,0.01787,0.15,nc,nc75077101,2024-10-22T05:12:17.570Z,"9 km ESE of Hidden Valley Lake, CA",earthquake,0.35,0.64,0.156,11,reviewed,nc,nc
 2024-10-21T23:24:13.160Z,19.185667037964,-155.48466491699,31.180000305176,2.21000004,md,32,122,0.03688,0.129999995,hv,hv74506626,2024-10-21T23:25:59.640Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.69,0.699999988,0.540000021,5,automatic,hv,hv
-2024-10-21T23:24:12.990Z,33.9656667,-116.7146667,16.94,0.8,ml,42,43,0.09139,0.19,ci,ci37539581,2024-10-22T15:27:46.928Z,"9 km NE of Cabazon, CA",earthquake,0.23,0.58,0.114,19,reviewed,ci,ci
+2024-10-21T23:24:12.990Z,33.9656667,-116.7146667,16.94,0.8,ml,42,43,0.09139,0.19,ci,ci37539581,2024-10-22T15:28:23.159Z,"9 km NE of Cabazon, CA",earthquake,0.23,0.58,0.114,19,reviewed,ci,ci
 2024-10-21T23:24:10.190Z,33.9705,-116.715,16.84,0.61,ml,27,62,0.08778,0.11,ci,ci40959624,2024-10-22T15:13:19.823Z,"9 km NE of Cabazon, CA",earthquake,0.19,0.44,0.101,20,reviewed,ci,ci
 2024-10-21T23:14:26.360Z,35.6728333,-117.5345,9.13,0.64,ml,19,98,0.09054,0.15,ci,ci40959616,2024-10-22T13:50:16.440Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.73,0.116,7,reviewed,ci,ci
 2024-10-21T22:57:54.250Z,38.592833333333,-122.78866666667,8.49,1.55,md,75,43,0.06908,0.08,nc,nc75077096,2024-10-22T06:09:30.000Z,"6 km NE of Windsor, CA",earthquake,0.11,0.28,0.154,62,reviewed,nc,nc
@@ -212,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T15:55:53.190Z,38.83483505249,-122.81666564941,1.8799999952316,0.72,md,15,61,0.01517,0.02,nc,nc75076851,2024-10-21T16:27:18.099Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.810000002,0.12,16,automatic,nc,nc
 2024-10-21T15:52:46.620Z,17.926,-67.082833333333,10.14,2.45,md,9,268,0.05671,0.09,pr,pr71463153,2024-10-21T16:33:46.330Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.57,0.37,0.24041893835118,6,reviewed,pr,pr
 2024-10-21T15:45:48.702Z,60.8173,-149.4064,32.1,2.3,ml,,,,0.27,ak,ak024dk4qmq0,2024-10-21T15:47:10.849Z,"7 km S of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-21T15:36:12.543Z,31.843,-101.826,5.4932,1.5,ml,22,66,0.1,0.1,tx,tx2024usiu,2024-10-21T20:45:38.990Z,"29 km SE of Midland, Texas",earthquake,0.68127897598849,1.0922828979004,0.1,10,reviewed,tx,tx
-2024-10-21T15:30:42.160Z,32.976,-116.2671667,9.75,1.06,ml,36,44,0.1207,0.17,ci,ci40958560,2024-10-22T13:52:02.770Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.19,0.64,0.215,25,reviewed,ci,ci
-2024-10-21T15:30:31.750Z,38.808334350586,-122.81666564941,2.9100000858307,0.99,md,15,60,0.00979,0.02,nc,nc75076846,2024-10-21T15:47:22.805Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.610000014,0.23,18,automatic,nc,nc
