@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-22T16:41:33.940Z,33.1388321,-116.6060028,14.41,1.35,ml,48,34,0.05813,0.18,ci,ci40960520,2024-10-22T16:43:39.372Z,"7 km N of Julian, CA",earthquake,0.28,0.55,0.394,12,automatic,ci,ci
 2024-10-22T16:05:52.730Z,38.837833404541,-122.82599639893,1.960000038147,1.35,md,22,76,0.00745,0.02,nc,nc75077361,2024-10-22T16:22:16.516Z,"9 km NNW of The Geysers, CA",earthquake,0.2,0.449999988,0.13,23,automatic,nc,nc
 2024-10-22T15:45:36.902Z,-23.9328,-179.5771,459.099,5.5,mww,80,76,5.492,0.58,us,us7000nmg9,2024-10-22T16:05:51.455Z,"south of the Fiji Islands",earthquake,10.8,7.521,0.073,18,reviewed,us,us
 2024-10-22T15:36:50.040Z,19.195499420166,-155.49766540527,35.509998321533,2.25999999,md,46,77,0.05215,0.150000006,hv,hv74507751,2024-10-22T15:38:37.230Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.63,0.540000021,0.0700000003,3,automatic,hv,hv
@@ -11,10 +12,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T14:31:46.310Z,45.713166666667,-112.928,5.02,0.89,ml,4,154,0.238,0.05,mb,mb90064088,2024-10-22T15:08:05.190Z,"42 km ENE of Wisdom, Montana",earthquake,0.41,6.45,0.2250400459993,8,reviewed,mb,mb
 2024-10-22T14:21:18.613Z,38.5251,-119.5114,5.1,2.1,ml,16,121.66,0.185,0.1147,nn,nn00886388,2024-10-22T16:06:08.238Z,"3 km WNW of Walker, California",earthquake,,1.6,0.24,6,reviewed,nn,nn
 2024-10-22T14:13:10.340Z,35.0453333,-117.661,0.85,0.95,ml,29,46,0.1144,0.14,ci,ci40960320,2024-10-22T14:54:36.638Z,"5 km NNW of Boron, CA",earthquake,0.2,0.33,0.123,10,reviewed,ci,ci
+2024-10-22T14:11:31.340Z,46.846666666667,-121.767,0.25,0.28,ml,18,65,0.0183,0.07,uw,uw62055966,2024-10-22T16:44:24.390Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.51,0.16610424784355,7,reviewed,uw,uw
 2024-10-22T14:11:11.530Z,44.752166666667,-110.9065,7.58,0.15,md,12,97,0.05384,0.13,uu,uu80084856,2024-10-22T15:47:32.730Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.31,0.87,0.1326985195266,8,reviewed,uu,uu
 2024-10-22T14:09:32.850Z,19.142166137695,-155.2799987793,39.340000152588,1.77999997,md,16,267,0.146,0.230000004,hv,hv74507656,2024-10-22T14:11:00.470Z,"21 km ESE of Pāhala, Hawaii",earthquake,1.8,1.32000005,0.899999976,3,automatic,hv,hv
 2024-10-22T14:02:46.030Z,35.072,-119.0953333,12.33,1.37,ml,32,95,0.01638,0.27,ci,ci40960304,2024-10-22T14:09:07.336Z,"21 km NW of Grapevine, CA",earthquake,0.4,0.73,0.221,30,automatic,ci,ci
-2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"western Texas",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
+2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"60 km S of Whites City, New Mexico",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
 2024-10-22T13:44:47.600Z,35.0763333,-119.0875,12.36,2.07,ml,51,95,0.01795,0.22,ci,ci40960264,2024-10-22T14:00:59.432Z,"21 km NW of Grapevine, CA",earthquake,0.22,0.67,0.177,26,automatic,ci,ci
 2024-10-22T13:43:40.160Z,35.0753333,-119.0926667,11.86,1.31,ml,28,113,0.01821,0.19,ci,ci40960256,2024-10-22T13:58:10.057Z,"21 km NW of Grapevine, CA",earthquake,0.27,0.76,0.29,27,automatic,ci,ci
 2024-10-22T13:42:54.230Z,35.0751667,-119.0886667,12.15,1.37,ml,32,102,0.017,0.17,ci,ci40960248,2024-10-22T13:56:50.765Z,"21 km NW of Grapevine, CA",earthquake,0.23,0.62,0.254,30,automatic,ci,ci
@@ -116,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T02:44:49.940Z,33.7301667,-115.9868333,1.96,1.64,ml,64,36,0.07486,0.17,ci,ci40959848,2024-10-22T13:49:17.840Z,"17 km NE of Thermal, CA",earthquake,0.13,0.31,0.138,27,reviewed,ci,ci
 2024-10-22T02:40:09.850Z,33.6721667,-116.9343333,15.92,0.71,ml,38,52,0.01727,0.2,ci,ci40959840,2024-10-22T13:48:50.865Z,"9 km SSE of Hemet, CA",earthquake,0.27,0.42,0.197,25,reviewed,ci,ci
 2024-10-22T02:36:18.744Z,-6.0572,130.3925,10,5.1,mb,68,43,1.6,0.59,us,us7000nmcs,2024-10-22T03:06:24.040Z,"265 km W of Tual, Indonesia",earthquake,8.62,1.757,0.08,51,reviewed,us,us
-2024-10-22T02:27:58.181Z,37.3629,-115.2575,9.6,1.2,ml,14,174.8,0.17,0.2307,nn,nn00886377,2024-10-22T02:30:11.806Z,"8 km W of Alamo, Nevada",earthquake,,1.8,0.24,9,automatic,nn,nn
+2024-10-22T02:27:58.202Z,37.2707,-115.2063,13,1.4,ml,5,134.83,0.184,0.0889,nn,nn00886377,2024-10-22T16:49:05.066Z,"11 km SSW of Alamo, Nevada",earthquake,,19.7,0.1,4,reviewed,nn,nn
 2024-10-22T02:27:08.380Z,19.403666666667,-155.29333333333,10.04,1.06,ml,19,50,0.00695,0.13,hv,hv74506851,2024-10-22T03:51:46.200Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.42,0.17217523042111,13,reviewed,hv,hv
 2024-10-22T02:25:40.370Z,34.2465,-118.666,4.05,1.69,ml,68,33,0.006587,0.25,ci,ci40959832,2024-10-22T02:37:17.756Z,"6 km NNW of West Hills, CA",earthquake,0.18,0.38,0.147,28,automatic,ci,ci
 2024-10-22T02:16:45.330Z,33.1446667,-116.6251667,4.24,0.69,ml,34,43,0.05741,0.19,ci,ci40959816,2024-10-22T13:49:12.581Z,"8 km NNW of Julian, CA",earthquake,0.23,0.41,0.128,10,reviewed,ci,ci
@@ -206,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T17:07:55.937Z,59.0221,-152.7746,66.7,2.1,ml,,,,0.28,ak,ak024dk5pdah,2024-10-21T17:09:27.365Z,"61 km SW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-21T16:55:28.944Z,62.5926,-151.2316,87.7,2,ml,,,,0.37,ak,ak024dk5e5yy,2024-10-21T16:59:05.616Z,"26 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-21T16:51:10.250Z,38.955,-123.235,3.96,1.14,md,14,52,0.03624,0.08,nc,nc75076876,2024-10-21T17:42:15.639Z,"13 km SE of Boonville, CA",earthquake,0.25,0.8,0.108,11,reviewed,nc,nc
-2024-10-21T16:40:32.000Z,46.1925,-122.18,7.72,0.26,ml,10,99,0.008597,0.1,uw,uw62055801,2024-10-21T17:13:47.510Z,"37 km NNE of Amboy, Washington",earthquake,0.41,0.64,0.007496425449279,4,reviewed,uw,uw
-2024-10-21T16:40:28.814Z,60.5932,-142.7145,24.6,1.1,ml,,,,0.15,ak,ak024dk5ay81,2024-10-21T16:43:17.744Z,"94 km S of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
