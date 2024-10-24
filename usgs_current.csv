@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-24T19:17:43.130Z,36.944831848145,-121.30266571045,6.5999999046326,2.53,md,62,122,0.04242,0.13,nc,nc75078291,2024-10-24T19:20:47.460Z,"14 km NE of Hollister, CA",earthquake,0.27,0.419999987,0.11,63,automatic,nc,nc
+2024-10-24T19:28:11.450Z,19.35650062561,-155.12266540527,-0.28999999165535,1.92,ml,24,178,0.02833,0.330000013,hv,hv74511297,2024-10-24T19:31:03.440Z,"12 km S of Fern Forest, Hawaii",earthquake,0.72,0.75,0.38,3,automatic,hv,hv
+2024-10-24T19:17:43.130Z,36.944831848145,-121.30266571045,6.5999999046326,2.53,md,62,122,0.04242,0.13,nc,nc75078291,2024-10-24T19:27:18.419Z,"14 km NE of Hollister, CA",earthquake,0.27,0.419999987,0.11,63,automatic,nc,nc
 2024-10-24T19:16:37.960Z,35.0591667,-118.3313333,4.84,1.38,ml,33,49,0.06892,0.27,ci,ci40963456,2024-10-24T19:26:01.523Z,"13 km SE of Tehachapi, CA",earthquake,0.37,0.98,0.182,34,automatic,ci,ci
 2024-10-24T19:15:42.430Z,32.7608333,-116.9358333,3.71,1.2,ml,36,105,0.02576,0.19,ci,ci40963448,2024-10-24T19:24:16.972Z,"2 km N of Rancho San Diego, CA",earthquake,0.23,0.39,0.224,22,automatic,ci,ci
 2024-10-24T19:07:57.050Z,34.0458333,-117.2236667,8.1,1.42,ml,69,24,0.07536,0.16,ci,ci40963440,2024-10-24T19:20:01.669Z,"4 km E of Loma Linda, CA",earthquake,0.12,0.42,0.231,28,automatic,ci,ci
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T19:06:51.580Z,34.0466652,-117.225502,6.87,0.92,ml,17,79,0.1213,0.12,ci,ci40963424,2024-10-24T19:14:16.659Z,"3 km E of Loma Linda, CA",earthquake,0.37,1.44,0.24,25,automatic,ci,ci
 2024-10-24T19:04:24.990Z,34.0455,-117.2245,5.67,0.85,ml,33,30,0.09361,0.2,ci,ci40963416,2024-10-24T19:13:41.469Z,"3 km E of Loma Linda, CA",earthquake,0.21,1.1,0.196,20,automatic,ci,ci
 2024-10-24T18:57:45.670Z,19.174333572388,-155.49166870117,30.489999771118,1.85000002,md,42,97,0.03369,0.119999997,hv,hv74511267,2024-10-24T18:59:29.400Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.48,0.680000007,0.150000006,10,automatic,hv,hv
+2024-10-24T18:52:09.570Z,-5.0468,152.2399,57.198,5.2,mb,60,62,0.853,0.84,us,us7000nmz2,2024-10-24T19:30:33.040Z,"77 km S of Kokopo, Papua New Guinea",earthquake,8.99,7.044,0.038,232,reviewed,us,us
 2024-10-24T18:34:05.993Z,61.741,-146.2095,32.7,1.7,ml,,,,0.62,ak,ak024dp52iuv,2024-10-24T18:35:45.164Z,"38 km SSE of Mendeltna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-24T18:25:49.910Z,59.8975,-152.4261,42.9,1.8,ml,,,,1.29,ak,ak024dp50o3o,2024-10-24T18:27:56.167Z,"35 km WNW of Anchor Point, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-10-24T18:23:48.850Z,19.370333333333,-155.21366666667,1.8,1.4,ml,9,195,0.003845,0.1,hv,hv74511242,2024-10-24T19:10:26.140Z,"8 km SSE of Volcano, Hawaii",earthquake,0.58,0.25,0.2260757625353,7,reviewed,hv,hv
@@ -262,7 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T20:14:07.430Z,38.828998565674,-122.85116577148,1.8799999952316,0.63,md,7,110,0.004688,0.02,nc,nc75077826,2024-10-23T20:32:16.648Z,"10 km NW of The Geysers, CA",earthquake,0.62,0.939999998,0.17,8,automatic,nc,nc
 2024-10-23T19:49:57.350Z,35.3978333,-118.6511667,5.4,1.41,ml,28,80,0.1213,0.16,ci,ci40962184,2024-10-23T23:32:44.562Z,"26 km SW of Bodfish, CA",earthquake,0.22,1.13,0.306,23,reviewed,ci,ci
 2024-10-23T19:35:59.970Z,34.5266667,-118.853,11.47,1.57,ml,45,23,0.07075,0.23,ci,ci40962160,2024-10-23T22:35:57.167Z,"14 km NNW of Piru, CA",earthquake,0.23,0.45,0.272,21,reviewed,ci,ci
-2024-10-23T19:33:46.588Z,61.1463,-147.4384,3.2,1.4,ml,,,,0.78,ak,ak024dni4h9s,2024-10-23T19:41:12.511Z,"51 km NW of Tatitlek, Alaska",earthquake,,5.4,,,automatic,ak,ak
-2024-10-23T19:33:15.250Z,37.627834320068,-122.02683258057,6.3200001716614,1.57,md,15,73,0.05328,0.17,nc,nc75077816,2024-10-23T19:52:16.349Z,"4 km N of Union City, CA",earthquake,0.45,1.09000003,0.16,10,automatic,nc,nc
-2024-10-23T19:30:36.140Z,33.8585,-117.506,2.61,1.25,ml,35,56,0.04893,0.13,ci,ci40962152,2024-10-24T16:55:28.924Z,"3 km SSE of Home Gardens, CA",quarry blast,0.22,0.32,0.144,24,reviewed,ci,ci
-2024-10-23T19:27:25.650Z,33.841,-116.873,10.17,1.85,ml,74,27,0.06338,0.16,ci,ci40962144,2024-10-24T16:48:51.730Z,"9 km S of Banning, CA",earthquake,0.12,0.3,0.206,25,reviewed,ci,ci
