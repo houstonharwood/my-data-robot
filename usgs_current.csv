@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-31T13:29:35.445Z,59.9902,-153.5064,125.6,1.6,ml,,,,0.12,ak,ak024e0mtrzc,2024-10-31T13:30:49.772Z,"40 km ENE of Pedro Bay, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2024-10-31T13:11:56.530Z,19.133167266846,-155.50450134277,35.220001220703,2.04999995,md,39,162,0.04578,0.159999996,hv,hv74518477,2024-10-31T13:13:39.490Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.51,0.629999995,0.0700000003,7,automatic,hv,hv
-2024-10-31T13:11:18.980Z,38.795833587646,-122.81066894531,3.079999923706,1.06,md,26,74,0.009564,0.02,nc,nc75081301,2024-10-31T13:12:55.797Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.1,25,automatic,nc,nc
+2024-10-31T13:11:18.980Z,38.795833587646,-122.81066894531,3.079999923706,1.06,md,26,74,0.009564,0.02,nc,nc75081301,2024-10-31T13:47:18.978Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.1,25,automatic,nc,nc
 2024-10-31T13:09:05.720Z,19.125,-155.49099731445,33.959999084473,1.98000002,md,21,180,0.06895,0.159999996,hv,hv74518472,2024-10-31T13:10:41.140Z,"8 km S of Pāhala, Hawaii",earthquake,0.9,1.13,0.330000013,4,automatic,hv,hv
 2024-10-31T13:08:43.550Z,37.558166503906,-118.86616516113,6.0300002098083,1.39,md,14,166,0.04334,0.03,nc,nc75081296,2024-10-31T13:37:16.907Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.6,1.30999994,0.17,14,automatic,nc,nc
 2024-10-31T13:08:20.718Z,36.5972,-117.145,0.5,1.2,ml,18,226.42,0.367,0.2663,nn,nn00887041,2024-10-31T13:10:31.026Z,"30 km WNW of Furnace Creek, California",earthquake,,34.3,0.18,13,automatic,nn,nn
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T01:44:01.866Z,61.3543,-152.3356,13.3,0.5,ml,,,,0.15,ak,ak024e0frpve,2024-10-31T01:46:03.504Z,"71 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-31T01:32:40.503Z,29.8573,92.247,10,4.4,mb,35,89,6.447,0.82,us,us7000np4h,2024-10-31T01:54:50.040Z,"113 km ENE of Lhasa, China",earthquake,7.45,1.882,0.114,22,reviewed,us,us
 2024-10-31T01:24:02.130Z,33.7008333,-116.7221667,17.55,0.6,ml,23,63,0.01228,0.12,ci,ci40783815,2024-10-31T12:48:32.055Z,"4 km S of Idyllwild, CA",earthquake,0.24,0.36,0.274,5,reviewed,ci,ci
-2024-10-31T01:21:50.590Z,35.8313333,-117.6648333,8.79,0.71,ml,27,53,0.05688,0.14,ci,ci40783807,2024-10-31T01:27:38.101Z,"23 km N of Ridgecrest, CA",earthquake,0.17,0.46,0.275,7,automatic,ci,ci
+2024-10-31T01:21:50.610Z,35.8343333,-117.6636667,8.69,0.71,ml,27,53,0.05687,0.15,ci,ci40783807,2024-10-31T13:46:43.230Z,"24 km N of Ridgecrest, CA",earthquake,0.18,0.46,0.275,6,reviewed,ci,ci
 2024-10-31T01:11:38.609Z,58.0599,-137.4997,13.4,3.6,ml,,,,1.04,ak,ak024e0fkqev,2024-10-31T03:14:26.028Z,"69 km WSW of Elfin Cove, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-10-31T00:56:46.410Z,36.0301667,-117.819,1.43,1.72,ml,31,59,0.04384,0.16,ci,ci40783799,2024-10-31T01:03:06.618Z,"12 km E of Coso Junction, CA",earthquake,0.15,0.21,0.193,25,automatic,ci,ci
 2024-10-31T00:27:12.710Z,34.5091667,-118.8738333,11.03,1.49,ml,46,29,0.04631,0.26,ci,ci40783791,2024-10-31T00:33:38.142Z,"13 km NW of Piru, CA",earthquake,0.23,0.5,0.172,33,automatic,ci,ci
@@ -139,6 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T18:36:10.523Z,36.8656,-116.0643,11.6,0.1,ml,21,61.7,0.06,0.08,nn,nn00887010,2024-10-31T00:20:38.406Z,"48 km NW of Indian Springs, Nevada",earthquake,,0.9,0.57,6,reviewed,nn,nn
 2024-10-30T18:23:59.360Z,38.81266784668,-122.79650115967,1.8500000238419,0.75,md,10,89,0.004785,0.02,nc,nc75080966,2024-10-30T18:54:29.855Z,"5 km NNW of The Geysers, CA",earthquake,0.47,1.16999996,0.41,10,automatic,nc,nc
 2024-10-30T18:21:23.010Z,33.8506667,-117.4906667,-0.5,1.51,ml,48,43,0.05043,0.28,ci,ci40782351,2024-10-30T22:08:50.300Z,"4 km SE of Home Gardens, CA",quarry blast,0.31,31.61,0.154,19,reviewed,ci,ci
+2024-10-30T18:13:21.210Z,45.08,-111.73883333333,-2,1.15,ml,9,167,0.1126,0.13,mb,mb90064968,2024-10-31T13:50:55.280Z,"28 km SE of Virginia City, Montana",quarry blast,1.14,31.61,0.14765679401442,14,reviewed,mb,mb
 2024-10-30T18:10:46.294Z,36.8665,-116.0604,11.9,0.2,ml,26,44.98,0.062,0.1306,nn,nn00887008,2024-10-31T00:02:07.829Z,"47 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,9,reviewed,nn,nn
 2024-10-30T18:09:39.190Z,36.594501495361,-121.41366577148,1.6200000047684,1.28,md,7,133,0.009266,0.03,nc,nc75080956,2024-10-30T18:34:29.709Z,"10 km E of Chualar, CA",earthquake,0.83,0.689999998,0.06,6,automatic,nc,nc
 2024-10-30T18:07:24.888Z,43.3204,147.0739,52.866,4.4,mb,38,136,3.169,0.74,us,us7000np2e,2024-10-30T20:18:50.040Z,"60 km SSE of Shikotan, Russia",earthquake,10.09,7.834,0.103,27,reviewed,us,us
