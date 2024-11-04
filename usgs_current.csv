@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-04T19:20:18.940Z,33.8549995,-117.1959991,4.9,1.66,ml,28,123,0.123,0.37,ci,ci40787455,2024-11-04T19:22:22.369Z,"7 km ESE of March Air Reserve Base, CA",earthquake,0.88,2.76,0.329,12,automatic,ci,ci
 2024-11-04T19:14:44.790Z,62.7475,-149.631,59.4,1.7,ml,,,,0.57,ak,ak024e7cgkkf,2024-11-04T19:16:49.157Z,"41 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-11-04T19:12:34.080Z,33.4673347,-116.4816666,9.97,1.12,ml,30,89,0.09892,0.11,ci,ci40787439,2024-11-04T19:14:36.552Z,"20 km ESE of Anza, CA",earthquake,0.27,0.69,0.18,14,automatic,ci,ci
+2024-11-04T19:12:34.090Z,33.4653333,-116.4821667,9.92,1.02,ml,37,63,0.1006,0.15,ci,ci40787439,2024-11-04T19:23:55.236Z,"20 km ESE of Anza, CA",earthquake,0.2,0.38,0.153,26,automatic,ci,ci
 2024-11-04T19:03:14.484Z,61.7179,-151.7851,94.3,1.7,ml,,,,0.33,ak,ak024e7ce5co,2024-11-04T19:05:03.696Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-04T19:02:25.230Z,33.5405006,-116.3830032,8.41,1.13,ml,10,184,0.2774,0.37,ci,ci40787431,2024-11-04T19:13:47.965Z,"15 km SSW of La Quinta, CA",earthquake,1.9,9.35,0.298,11,automatic,ci,ci
 2024-11-04T18:44:58.491Z,60.6898,-149.3751,15.5,2,ml,,,,0.6,ak,ak024e7c1li1,2024-11-04T18:46:35.092Z,"22 km S of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T17:51:03.866Z,-12.3355,166.7681,248.19,4.5,mb,45,68,8.508,0.48,us,us7000npwt,2024-11-04T18:07:52.040Z,"190 km NNW of Sola, Vanuatu",earthquake,12.77,8.181,0.076,51,reviewed,us,us
 2024-11-04T17:46:26.400Z,17.870833333333,-65.647666666667,39.14,2.76,md,14,223,0.2426,0.2,pr,pr71464638,2024-11-04T18:24:11.810Z,"28 km SE of El Negro, Puerto Rico",earthquake,1.32,1.13,0.23101267035577,5,reviewed,pr,pr
 2024-11-04T16:45:46.340Z,46.885,-112.52383333333,9.63,1.07,ml,9,122,0.05262,0.03,mb,mb90065203,2024-11-04T18:58:23.970Z,"14 km ESE of Lincoln, Montana",earthquake,0.45,0.32,0.19372412771818,9,reviewed,mb,mb
-2024-11-04T16:41:29.650Z,40.500999450684,-124.78566741943,15.140000343323,3.24,ml,62,235,,0.22,nc,nc75082686,2024-11-04T17:54:04.668Z,"45 km W of Ferndale, CA",earthquake,1.26,0.839999974,0.147,9,automatic,nc,nc
+2024-11-04T16:41:29.650Z,40.500999450684,-124.78566741943,15.140000343323,3.24,ml,62,235,,0.22,nc,nc75082686,2024-11-04T19:20:05.639Z,"45 km W of Ferndale, CA",earthquake,1.26,0.839999974,0.147,9,automatic,nc,nc
 2024-11-04T16:37:28.377Z,57.0694,-154.3594,6.9,2.1,ml,,,,0.24,ak,ak024e7at5yd,2024-11-04T16:39:27.960Z,"17 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-04T16:29:00.412Z,66.445,-145.9869,0,2,ml,,,,1.73,ak,ak024e7are2h,2024-11-04T16:31:27.695Z,"22 km NNW of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-04T16:28:57.720Z,18.870166666667,-155.2245,10.74,2.34,ml,26,269,0.362,0.12,hv,hv74522042,2024-11-04T17:30:55.720Z,"43 km ESE of Naalehu, Hawaii",earthquake,0.67,0.72,0.18878387120743,11,reviewed,hv,hv
@@ -133,4 +134,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T20:09:10.826Z,31.645,-104.5,6.8689,2.7,ml,33,73,0,0.1,tx,tx2024vqli,2024-11-04T19:07:10.743Z,"59 km S of Whites City, New Mexico",earthquake,0.76389919482191,0.51755893759178,0.2,31,reviewed,tx,tx
 2024-11-03T19:48:44.259Z,-53.8662,2.802,10,4.9,mb,45,64,18.041,0.51,us,us7000nprm,2024-11-03T20:08:09.040Z,"Bouvet Island region",earthquake,7.76,1.746,0.086,42,reviewed,us,us
 2024-11-03T19:42:54.568Z,59.7773,-151.686,25.2,1.9,ml,,,,0.89,ak,ak024e5p38vk,2024-11-03T19:44:51.683Z,"5 km SW of Nikolaevsk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-03T19:20:49.880Z,25.4788,142.7637,10,4.7,mb,50,125,1.692,0.92,us,us7000npre,2024-11-03T19:47:50.040Z,"Volcano Islands, Japan region",earthquake,11.63,1.906,0.087,40,reviewed,us,us
