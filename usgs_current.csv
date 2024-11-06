@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-06T14:15:52.852Z,31.584,-104.566,3.3758,1.5,ml,8,169,0.1,0.1,tx,tx2024vvmg,2024-11-06T14:32:44.301Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.9617035388947,0.1,6,automatic,tx,tx
+2024-11-06T14:15:53.017Z,31.59,-104.566,3.081,1.5,ml,19,95,0.1,0.3,tx,tx2024vvmg,2024-11-06T14:42:22.401Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.5510526895523,0.1,14,automatic,tx,tx
 2024-11-06T14:11:52.110Z,33.61,-116.8283333,16.68,0.73,ml,5,198,0.08805,0.04,ci,ci40788519,2024-11-06T14:18:10.469Z,"16 km WNW of Anza, CA",earthquake,0.6,0.66,0.285,9,automatic,ci,ci
 2024-11-06T14:04:56.060Z,38.067,-112.7355,5.99,1.36,md,9,109,0.4036,0.18,uu,uu80085996,2024-11-06T14:22:33.110Z,"20 km N of Paragonah, Utah",earthquake,0.55,31.61,0.23649098394291,8,reviewed,uu,uu
 2024-11-06T13:55:57.277Z,36.5738,-117.1498,8,2.5,ml,29,229.51,0.205,0.2694,nn,nn00887230,2024-11-06T13:58:40.664Z,"30 km WNW of Furnace Creek, California",earthquake,,0.6,0.25,20,automatic,nn,nn
@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T03:34:19.740Z,40.201667785645,-124.1129989624,12.369999885559,3.11,ml,28,146,0.04625,0.16,nc,nc75083086,2024-11-06T04:24:46.233Z,"19 km N of Shelter Cove, CA",earthquake,0.36,0.519999981,0.319,10,automatic,nc,nc
 2024-11-06T03:31:57.720Z,33.769001,-118.8416672,10.57,2.05,ml,7,242,0.3732,0.16,ci,ci40788303,2024-11-06T03:40:50.304Z,"26 km S of Malibu, CA",earthquake,1.65,2.98,0.223,36,automatic,ci,ci
 2024-11-06T03:18:06.145Z,64.971,-147.4761,0,1.7,ml,,,,0.66,ak,ak024eae13ra,2024-11-06T03:19:54.037Z,"6 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-06T03:07:51.376Z,32.4,-102.068,7.7881,1.1,ml,19,57,0,0.1,tx,tx2024vuqd,2024-11-06T14:42:20.398Z,"35 km WSW of Ackerly, Texas",earthquake,0.79812925440824,1.1825457067813,0,7,reviewed,tx,tx
 2024-11-06T02:50:27.639Z,-31.7172,-71.5492,43.383,4.3,mb,31,155,0.587,0.68,us,us7000nq6n,2024-11-06T03:11:24.040Z,"37 km WSW of Illapel, Chile",earthquake,2.6,9.84,0.237,5,reviewed,us,us
 2024-11-06T02:41:06.730Z,19.253499984741,-155.40167236328,33.240001678467,2.1500001,md,46,86,0.01639,0.119999997,hv,hv74523247,2024-11-06T02:42:51.050Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.550000012,0.230000004,14,automatic,hv,hv
 2024-11-06T02:23:28.240Z,19.0168,-64.7596,8,3.58,md,12,276,0.6181,0.52,pr,pr2024311000,2024-11-06T03:08:40.850Z,"75 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.74,8.24,0.07,5,reviewed,pr,pr
@@ -132,4 +133,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T15:28:51.323Z,36.8642,-115.9704,6.1,-0.2,ml,13,209.32,0.043,0.1195,nn,nn00887187,2024-11-05T15:58:42.489Z,"42 km NW of Indian Springs, Nevada",earthquake,,1.9,0.11,5,reviewed,nn,nn
 2024-11-05T15:23:13.746Z,59.9493,-151.6632,65.3,2,ml,,,,0.34,ak,ak024e8xo1ou,2024-11-05T15:25:08.995Z,"3 km E of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-11-05T15:11:38.375Z,36.7086,-116.1536,0.8,-0.2,ml,9,302.89,0.024,0.0291,nn,nn00887186,2024-11-05T15:52:33.082Z,"45 km WNW of Indian Springs, Nevada",earthquake,,7.2,0,1,reviewed,nn,nn
-2024-11-05T14:41:56.127Z,37.7478,-117.1298,8.6,1.5,ml,15,117.06,0.336,0.1201,nn,nn00887181,2024-11-05T17:33:36.340Z,"10 km ENE of Goldfield, Nevada",earthquake,,4.9,0.3,6,reviewed,nn,nn
