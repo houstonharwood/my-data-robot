@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-07T15:21:13.060Z,38.83466720581,-122.8184967041,2.2300000190735,0.76,md,13,65,0.01304,0.01,nc,nc75083566,2024-11-07T15:22:47.401Z,"8 km NNW of The Geysers, CA",earthquake,0.32,1.00999999,0.18,14,automatic,nc,nc
 2024-11-07T14:56:57.938Z,-24.3071,-67.9645,110.798,4.8,mb,51,56,1.363,0.9,us,us7000nqea,2024-11-07T15:11:32.040Z,"156 km S of San Pedro de Atacama, Chile",earthquake,3.75,7.351,0.037,222,reviewed,us,us
 2024-11-07T14:45:59.680Z,63.3096,-150.0113,0,1.8,ml,,,,0.91,ak,ak024ec8a4df,2024-11-07T14:48:25.059Z,"53 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-07T14:17:56.183Z,44.3061,-125.705,10,2.6,ml,18,248,1.317,0.81,us,us7000nqe6,2024-11-07T14:51:07.040Z,"127 km W of Yachats, Oregon",earthquake,6.9,2.016,0.055,44,reviewed,us,us
@@ -98,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T01:26:27.860Z,33.9521667,-115.9958333,8.36,1.47,ml,44,50,0.04835,0.13,ci,ci40788943,2024-11-07T01:40:12.710Z,"22 km SSE of Twentynine Palms, CA",earthquake,0.16,0.39,0.157,26,reviewed,ci,ci
 2024-11-07T01:21:54.340Z,33.9516667,-115.9981667,8.31,1.14,ml,38,49,0.04881,0.16,ci,ci40788935,2024-11-07T01:41:16.740Z,"22 km SSE of Twentynine Palms, CA",earthquake,0.18,0.42,0.167,27,reviewed,ci,ci
 2024-11-07T01:11:49.179Z,25.5554,142.8629,19.4,5,mb,65,98,1.65,1.02,us,us7000nqby,2024-11-07T01:28:11.040Z,"Volcano Islands, Japan region",earthquake,9.66,4.315,0.062,82,reviewed,us,us
+2024-11-07T00:50:47.477Z,32.44,-102.109,8.8623,1.3,ml,28,58,0.1,0.1,tx,tx2024vwhd,2024-11-07T15:26:36.709Z,"35 km SSW of Los Ybanez, Texas",earthquake,0.61137708039047,0.77400064383707,0.2,25,reviewed,tx,tx
 2024-11-07T00:27:10.605Z,55.9238,-162.0385,171.036,4.2,mb,22,122,1.056,0.75,us,us7000nqbt,2024-11-07T02:27:29.242Z,"52 km W of Nelson Lagoon, Alaska",earthquake,7.51,9.846,0.215,6,reviewed,us,us
 2024-11-07T00:27:10.400Z,19.30966758728,-155.33399963379,27.020000457764,2.30999994,md,42,102,0.02838,0.180000007,hv,hv74524072,2024-11-07T00:28:47.000Z,"18 km SW of Volcano, Hawaii",earthquake,0.53,0.600000024,0.140000001,12,automatic,hv,hv
 2024-11-07T00:23:03.240Z,35.0413333,-117.6643333,-0.79,1.81,ml,23,46,0.1099,0.15,ci,ci40788903,2024-11-07T01:37:41.446Z,"5 km NNW of Boron, CA",quarry blast,0.3,31.61,0.112,44,reviewed,ci,ci
@@ -160,14 +162,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T16:19:56.670Z,58.1735,-155.3165,0.27,0.04,ml,7,170,0.03712,0.03,av,av93351148,2024-11-07T07:54:22.790Z,"84 km NW of Karluk, Alaska",earthquake,0.23,1.46,0.18331118432984,7,reviewed,av,av
 2024-11-06T16:17:45.940Z,32.7546667,-118.3131667,-0.21,3.01,ml,9,209,0.2986,0.31,ci,ci40788607,2024-11-06T22:44:09.989Z,"8 km SSE of San Clemente Is. (SE tip), CA",earthquake,1.46,3.53,0.324,13,reviewed,ci,ci
 2024-11-06T16:11:17.805Z,31.728,-104.297,7.0227,2.1,ml,19,59,0,0.1,tx,tx2024vvpz,2024-11-06T18:09:28.607Z,"50 km S of Whites City, New Mexico",earthquake,0.5435561959364,0.64179164289442,0.1,7,reviewed,tx,tx
+2024-11-06T16:09:09.190Z,45.3665,-112.56216666667,9.37,1.1,ml,13,61,0.02446,0.08,mb,mb90065328,2024-11-07T15:25:51.640Z,"17 km NNE of Dillon, Montana",earthquake,0.23,0.42,0.14549712724859,16,reviewed,mb,mb
 2024-11-06T16:04:48.120Z,19.150499343872,-155.49282836914,30.700000762939,1.75,md,33,141,0.02945,0.150000006,hv,hv74523692,2024-11-06T16:06:32.100Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.62,0.810000002,0.140000001,6,automatic,hv,hv
 2024-11-06T16:02:09.840Z,33.5261667,-116.728,3.79,0.8,ml,26,53,0.03989,0.14,ci,ci40788591,2024-11-06T16:37:33.593Z,"6 km WSW of Anza, CA",earthquake,0.17,0.39,0.177,15,reviewed,ci,ci
 2024-11-06T15:55:08.255Z,-18.2302,-177.8377,431.842,5.9,mww,87,43,3.185,1.11,us,us7000nq9w,2024-11-07T07:26:52.104Z,"Fiji region",earthquake,10.6,7.109,0.054,33,reviewed,us,us
 2024-11-06T15:42:33.865Z,31.089,-103.386,2.1008,1.5,ml,8,84,0,0.2,tx,tx2024vvpb,2024-11-06T19:03:58.628Z,"34 km SSE of Lindsay, Texas",earthquake,1.3149323850203,0.87876690941178,0.3,19,reviewed,tx,tx
 2024-11-06T15:39:52.503Z,39.5598,-120.3205,4.8,0.3,ml,5,174.42,0.208,0.0462,nn,nn00887272,2024-11-07T02:32:47.328Z,"5 km SE of Sierraville, California",earthquake,,12.6,0.8,3,reviewed,nn,nn
 2024-11-06T15:38:47.635Z,-20.8906,-178.6518,585.958,5.1,mb,107,49,4.413,0.8,us,us7000nq9t,2024-11-06T15:53:37.040Z,"Fiji region",earthquake,9.06,7.995,0.026,466,reviewed,us,us
-2024-11-06T15:27:45.444Z,-11.9223,166.0632,10,4.7,mb,30,186,6.497,0.67,us,us7000nq9s,2024-11-06T18:33:24.040Z,"135 km SSE of Lata, Solomon Islands",earthquake,11.21,1.946,0.115,23,reviewed,us,us
-2024-11-06T15:21:19.920Z,19.270666122436,-155.40766906738,29.700000762939,2.20000005,md,40,89,0.03436,0.159999996,hv,hv74523657,2024-11-06T15:23:00.680Z,"10 km NE of Pāhala, Hawaii",earthquake,0.36,0.649999976,0.409999996,14,automatic,hv,hv
-2024-11-06T15:20:30.380Z,56.9749,-156.1964,5.8,3.8,ml,,,,0.56,ak,ak024eal6sbi,2024-11-06T15:27:53.006Z,"94 km SE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-06T15:19:23.854Z,-33.821,-176.5676,10,4.6,mb,21,199,4.689,0.62,us,us7000nq9q,2024-11-06T15:47:26.040Z,"south of the Kermadec Islands",earthquake,16.27,2.003,0.126,19,reviewed,us,us
-2024-11-06T15:18:32.700Z,19.251167297363,-155.39833068848,31.520000457764,1.91999996,md,21,114,0.01362,0.109999999,hv,hv74523652,2024-11-06T15:20:19.630Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.699999988,0.119999997,3,automatic,hv,hv
