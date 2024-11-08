@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T21:24:03.520Z,33.1303333,-116.0811667,7.37,1.52,ml,61,28,0.07704,0.2,ci,ci40790231,2024-11-08T21:35:05.040Z,"5 km ESE of Ocotillo Wells, CA",earthquake,0.16,0.52,0.199,25,automatic,ci,ci
 2024-11-08T21:19:45.680Z,33.926,-116.969,15.29,1.04,ml,25,75,0.1694,0.14,ci,ci40790223,2024-11-08T21:25:45.795Z,"1 km ESE of Beaumont, CA",earthquake,0.21,0.74,0.184,23,automatic,ci,ci
 2024-11-08T21:17:47.270Z,32.5475,-115.2478333,18.52,2.02,ml,20,86,0.1365,0.24,ci,ci40790215,2024-11-08T21:24:05.843Z,"10 km E of Puebla, B.C., MX",earthquake,0.64,1.43,0.192,27,automatic,ci,ci
-2024-11-08T21:13:18.342Z,58.7422,-152.6926,49.8,2.9,ml,,,,0.27,ak,ak024edzsjyp,2024-11-08T21:14:43.911Z,"77 km N of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-11-08T21:13:18.342Z,58.7422,-152.6926,49.8,2.9,ml,,,,0.27,ak,ak024edzsjyp,2024-11-08T21:47:50.040Z,"77 km N of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-08T21:00:46.720Z,34.1801667,-117.9283333,0.05,1.24,ml,21,130,0.05007,0.17,ci,ci40790199,2024-11-08T21:07:13.055Z,"5 km NE of Bradbury, CA",earthquake,0.36,0.51,0.411,35,automatic,ci,ci
 2024-11-08T20:44:58.195Z,60.0466,-151.4806,59,1.6,ml,,,,0.28,ak,ak024edzdunv,2024-11-08T20:48:03.962Z,"10 km E of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-08T20:35:50.063Z,60.0272,-153.2268,121.7,2.9,ml,,,,0.25,ak,ak024edzbwkb,2024-11-08T20:37:18.424Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T05:33:39.280Z,38.822498321533,-122.8065032959,2.4100000858307,1.38,md,28,42,0.002929,0.02,nc,nc75083851,2024-11-08T05:52:15.399Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.349999994,0.14,30,automatic,nc,nc
 2024-11-08T05:19:00.590Z,38.8685,-111.28,2.03,0.84,ml,5,165,0.09777,0.13,uu,uu80086136,2024-11-08T16:09:14.180Z,"6 km SSW of Emery, Utah",earthquake,0.78,31.61,0.0044142582655944,2,reviewed,uu,uu
 2024-11-08T05:17:09.520Z,47.122,-113.44166666667,9.6,1.17,ml,20,60,0.125,0.13,mb,mb90065503,2024-11-08T21:13:29.610Z,"7 km SSE of Seeley Lake, Montana",earthquake,0.33,0.96,0.12415656533633,13,reviewed,mb,mb
-2024-11-08T05:08:43.120Z,36.889666666667,-121.61616666667,5.37,1.68,md,48,67,0.02009,0.11,nc,nc75083841,2024-11-08T21:33:10.960Z,"2 km E of Aromas, CA",earthquake,0.18,0.36,0.191,44,reviewed,nc,nc
+2024-11-08T05:08:43.120Z,36.889666666667,-121.61616666667,5.37,1.68,md,48,67,0.02009,0.11,nc,nc75083841,2024-11-08T21:47:22.012Z,"2 km E of Aromas, CA",earthquake,0.18,0.36,0.191,44,reviewed,nc,nc
 2024-11-08T05:07:54.910Z,38.759498596191,-122.7054977417,1.1000000238419,0.77,md,7,161,0.009936,0.03,nc,nc75083836,2024-11-08T05:27:16.267Z,"2 km SW of Anderson Springs, CA",earthquake,0.66,0.409999996,0.15,5,automatic,nc,nc
 2024-11-08T05:00:54.909Z,29.9346,92.3024,10,4.6,mb,42,103,6.516,0.58,us,us7000nqjm,2024-11-08T06:36:09.040Z,"120 km ENE of Lhasa, China",earthquake,10.17,1.873,0.098,31,reviewed,us,us
 2024-11-08T04:50:33.530Z,47.1105,-113.46,8.37,0.9,ml,7,107,0.1334,0.04,mb,mb90065473,2024-11-08T19:16:35.860Z,"7 km SSE of Seeley Lake, Montana",earthquake,0.37,1.15,0.066717945096321,6,reviewed,mb,mb
@@ -156,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T01:17:19.591Z,25.5174,142.6689,22.218,4.6,mb,54,130,1.631,0.54,us,us7000nqj5,2024-11-08T01:39:31.040Z,"Volcano Islands, Japan region",earthquake,13.3,5.702,0.064,73,reviewed,us,us
 2024-11-08T01:08:19.750Z,37.520999908447,-118.82050323486,2.8599998950958,1.42,md,18,138,0.06925,0.05,nc,nc75083771,2024-11-08T01:49:34.790Z,"13 km W of Toms Place, CA",earthquake,0.39,1.09000003,0.13,16,automatic,nc,nc
 2024-11-08T01:00:42.740Z,38.836166381836,-122.80916595459,2.2999999523163,0.61,md,12,59,0.01277,0.01,nc,nc75083761,2024-11-08T01:34:28.795Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.949999988,0.45,13,automatic,nc,nc
+2024-11-08T00:58:24.870Z,58.489,-154.60016666667,3.69,-0.52,ml,4,160,0.02849,0.07,av,av93026354,2024-11-08T21:43:24.170Z,"102 km N of Karluk, Alaska",earthquake,0.49,0.61,0.1701025802537,4,reviewed,av,av
 2024-11-08T00:37:02.058Z,61.4277,-147.9723,15.6,1.5,ml,,,,0.42,ak,ak024ednfk7x,2024-11-08T00:38:44.187Z,"45 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-08T00:28:16.300Z,19.134,-64.709166666667,26.4,3.42,md,13,284,0.715,0.34,pr,pr71465113,2024-11-08T02:47:11.040Z,"89 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.91,25.03,0.075692084432441,8,reviewed,pr,pr
 2024-11-08T00:04:56.863Z,15.6271,-72.6332,10,4.3,mb,25,100,3.575,0.93,us,us7000nqis,2024-11-08T16:29:44.541Z,"274 km SSW of Oviedo, Dominican Republic",earthquake,7.63,1.957,0.133,16,reviewed,us,us
@@ -182,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T22:00:07.750Z,39.400166666667,-111.29583333333,16.29,0.84,ml,16,63,0.1238,0.22,uu,uu80086106,2024-11-07T23:12:09.220Z,"19 km ESE of Spring City, Utah",earthquake,0.42,0.93,0.13652853702449,2,reviewed,uu,uu
 2024-11-07T21:56:16.700Z,43.062833333333,-124.16933333333,-0.5,1.43,ml,10,173,0.2002,0.64,uw,uw62059191,2024-11-08T04:11:06.120Z,"2 km W of Myrtle Point, Oregon",explosion,1.95,31.61,0.09938748397653,3,reviewed,uw,uw
 2024-11-07T21:54:35.700Z,33.4518333,-116.3908333,8.19,0.78,ml,26,94,0.1122,0.15,ci,ci40789615,2024-11-08T00:37:27.400Z,"22 km N of Borrego Springs, CA",earthquake,0.24,1.06,0.12,19,reviewed,ci,ci
-2024-11-07T21:49:31.470Z,18.702666666667,-64.599833333333,23.3,3.33,md,11,283,0.2817,0.34,pr,pr71465093,2024-11-07T22:07:19.010Z,"45 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.45,9.94,0.075022955353439,7,reviewed,pr,pr
-2024-11-07T21:44:53.860Z,42.319666666667,-121.80966666667,-1.82,1.73,ml,13,73,0.1084,0.15,uw,uw62059181,2024-11-08T04:30:20.540Z,"10 km NNW of Klamath Falls, Oregon",explosion,0.34,31.61,0.078457903159334,7,reviewed,uw,uw
-2024-11-07T21:43:58.242Z,25.425,142.6876,10,4.6,mb,33,132,1.724,0.93,us,us7000nqi9,2024-11-07T22:41:22.040Z,"Volcano Islands, Japan region",earthquake,11.48,1.921,0.109,25,reviewed,us,us
