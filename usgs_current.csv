@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-13T19:29:52.020Z,36.9128,-116.1338,2.8,0.3,ml,8,231.59,0.096,0.094,nn,nn00887509,2024-11-13T19:31:43.548Z,"55 km E of Beatty, Nevada",earthquake,,0.8,0.2,4,automatic,nn,nn
+2024-11-13T19:25:01.810Z,33.5281667,-116.7386667,3.33,0.42,ml,21,63,0.03715,0.08,ci,ci40792639,2024-11-13T19:38:01.738Z,"7 km WSW of Anza, CA",earthquake,0.12,0.31,0.096,9,reviewed,ci,ci
 2024-11-13T19:18:32.764Z,61.3141,-146.7713,14.3,2.1,ml,,,,0.76,ak,ak024em8biy4,2024-11-13T19:20:42.803Z,"30 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-13T19:09:35.250Z,32.9001667,-116.2563333,9.48,0.68,ml,18,93,0.1481,0.14,ci,ci40792631,2024-11-13T19:32:29.422Z,"27 km ENE of Pine Valley, CA",earthquake,0.25,0.78,0.06,7,reviewed,ci,ci
 2024-11-13T18:56:13.380Z,33.9398333,-116.8875,12.59,1.01,ml,40,42,0.1159,0.12,ci,ci40792615,2024-11-13T19:24:00.402Z,"2 km NNW of Banning, CA",earthquake,0.13,0.46,0.108,20,reviewed,ci,ci
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T15:06:22.210Z,33.4491667,-116.4788333,10.93,0.78,ml,37,77,0.1127,0.15,ci,ci40792471,2024-11-13T16:20:55.648Z,"22 km ESE of Anza, CA",earthquake,0.19,0.43,0.125,16,reviewed,ci,ci
 2024-11-13T14:58:19.340Z,33.0301667,-115.8291667,10.42,0.97,ml,25,114,0.0753,0.19,ci,ci40792447,2024-11-13T16:12:03.956Z,"19 km W of Westmorland, CA",earthquake,0.31,0.69,0.106,10,reviewed,ci,ci
 2024-11-13T14:52:50.690Z,46.639333333333,-112.2935,8.69,0.74,ml,7,103,0.1119,0.08,mb,mb90065878,2024-11-13T16:32:37.240Z,"12 km S of Marysville, Montana",earthquake,0.38,1.6,0.2126642164328,6,reviewed,mb,mb
+2024-11-13T14:43:44.160Z,37.3665,-121.36616666667,5.96,1.14,md,17,104,0.06865,0.1,nc,nc75086021,2024-11-13T19:39:44.852Z,"24 km WSW of Patterson, CA",earthquake,0.23,1.05,0.121,16,reviewed,nc,nc
 2024-11-13T14:28:55.760Z,19.339332580566,-155.13966369629,0.37999999523163,1.85,ml,54,109,0.04724,0.280000001,hv,hv74529502,2024-11-13T14:31:48.770Z,"13 km S of Fern Forest, Hawaii",earthquake,0.42,0.270000011,1.37,6,automatic,hv,hv
 2024-11-13T14:18:08.420Z,17.924666666667,-66.868666666667,11.81,2.38,md,8,221,0.05112,0.17,pr,pr71465573,2024-11-13T14:44:59.640Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.91,0.59,0.0048783448072594,5,reviewed,pr,pr
 2024-11-13T14:03:16.800Z,44.574166666667,-110.38533333333,3.47,0.99,md,11,118,0.01379,0.14,uu,uu80086476,2024-11-13T16:36:57.250Z,"51 km SSE of Mammoth, Wyoming",earthquake,0.44,0.38,0.38573043960683,9,reviewed,uu,uu
@@ -175,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T20:00:57.047Z,59.935,-152.9557,118,2.2,ml,,,,0.73,ak,ak024ekl9t1k,2024-11-12T20:04:03.551Z,"65 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-12T19:55:07.500Z,33.2066667,-116.0405,7.86,0.96,ml,21,104,0.06216,0.17,ci,ci40792079,2024-11-12T21:49:48.521Z,"11 km NE of Ocotillo Wells, CA",earthquake,0.26,0.69,0.049,14,reviewed,ci,ci
 2024-11-12T19:43:59.050Z,33.8258333,-116.9926667,12.31,1.02,ml,38,44,0.1176,0.18,ci,ci40792071,2024-11-12T21:42:50.301Z,"6 km NW of San Jacinto, CA",earthquake,0.19,0.67,0.136,28,reviewed,ci,ci
-2024-11-12T19:38:52.013Z,56.2522,-158.9693,87.5,2.8,ml,,,,0.35,ak,ak024ekkwi9d,2024-11-12T21:44:33.040Z,"12 km W of Chignik Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
