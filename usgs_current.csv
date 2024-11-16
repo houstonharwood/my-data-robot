@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T23:01:26.566Z,61.0644,-151.0506,43.4,1.6,ml,,,,1.18,ak,ak024er97n74,2024-11-16T23:04:12.070Z,"4 km E of Tyonek, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-16T22:51:36.776Z,59.9191,-152.1115,86.6,2.1,ml,,,,0.58,ak,ak024er8wy6l,2024-11-16T22:53:53.770Z,"21 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-16T22:33:52.392Z,28.2097,139.366,492.672,4.4,mb,98,53,2.735,0.69,us,us7000ns7m,2024-11-16T23:04:00.040Z,"Bonin Islands, Japan region",earthquake,11.85,7.878,0.058,86,reviewed,us,us
-2024-11-16T22:17:04.370Z,34.1463318,-117.4986649,2.45,3.47,mw,120,25,0.04136,0.25,ci,ci40794295,2024-11-16T23:39:43.855Z,"7 km NW of Fontana, CA",earthquake,0.21,0.62,,4,reviewed,ci,ci
+2024-11-16T22:17:04.370Z,34.1463318,-117.4986649,2.45,3.47,mw,120,25,0.04136,0.25,ci,ci40794295,2024-11-16T23:44:57.888Z,"7 km NW of Fontana, CA",earthquake,0.21,0.62,,4,reviewed,ci,ci
 2024-11-16T22:10:15.198Z,31.576,-104.01,6.0602,1.8,ml,13,51,0,0.2,tx,tx2024woiw,2024-11-16T22:24:06.333Z,"35 km NW of Toyah, Texas",earthquake,0,2.7501177787781,0.1,11,automatic,tx,tx
 2024-11-16T21:58:30.790Z,19.172666549683,-155.49450683594,29.969999313354,2.33,ml,50,93,0.0351,0.140000001,hv,hv74533142,2024-11-16T22:01:23.050Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.41,0.519999981,0.09,9,automatic,hv,hv
 2024-11-16T21:57:23.050Z,33.9521667,-116.3591667,7.7,1.49,ml,54,44,0.04279,0.15,ci,ci40794279,2024-11-16T22:08:09.920Z,"13 km E of Desert Hot Springs, CA",earthquake,0.14,0.44,0.147,27,automatic,ci,ci
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T16:12:12.468Z,58.8422,-153.7588,8.9,2.3,ml,,,,0.37,ak,ak024er53xr2,2024-11-16T16:13:56.766Z,"88 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-16T16:00:18.866Z,64.7001,-149.0971,7.5,1.1,ml,,,,0.49,ak,ak024er51dnq,2024-11-16T16:02:44.369Z,"10 km N of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-16T15:56:24.560Z,37.413333892822,-118.60949707031,9.4899997711182,1.88,md,5,138,0.07046,0.07,nc,nc75087016,2024-11-16T16:17:18.553Z,"1 km W of Round Valley, CA",earthquake,2.3,4.34000015,0.31,5,automatic,nc,nc
-2024-11-16T15:52:08.410Z,36.1795,-89.658333333333,8.33,3.15,md,68,36,,0.14,nm,nm60593941,2024-11-16T23:11:20.493Z,"1 km S of Caruthersville, Missouri",earthquake,0.2,0.53,0.18208122811387,53,reviewed,nm,nm
+2024-11-16T15:52:08.410Z,36.1795,-89.658333333333,8.33,3.15,md,68,36,,0.14,nm,nm60593941,2024-11-16T23:48:19.863Z,"1 km S of Caruthersville, Missouri",earthquake,0.2,0.53,0.18208122811387,53,reviewed,nm,nm
 2024-11-16T15:49:05.420Z,33.9391667,-116.026,6.26,1.11,ml,31,52,0.06549,0.14,ci,ci40794079,2024-11-16T15:52:35.363Z,"23 km S of Twentynine Palms, CA",earthquake,0.22,0.51,0.134,24,automatic,ci,ci
 2024-11-16T15:44:02.956Z,-14.8942,167.2523,157.75,4.8,mb,37,82,6.295,0.86,us,us7000ns6f,2024-11-16T15:59:29.040Z,"25 km NE of Port-Olry, Vanuatu",earthquake,4.22,8.179,0.103,29,reviewed,us,us
 2024-11-16T15:39:19.500Z,19.333333969116,-155.21366882324,2.1400001049042,1.82000005,md,45,72,0.04028,0.230000004,hv,hv74532827,2024-11-16T15:41:06.020Z,"12 km S of Volcano, Hawaii",earthquake,0.36,0.569999993,0.280000001,22,automatic,hv,hv
@@ -153,4 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T00:47:01.550Z,37.393166666667,-118.60416666667,5.03,1.16,md,26,131,0.2007,0.05,nc,nc75086931,2024-11-16T21:24:29.584Z,"2 km SSW of Round Valley, CA",earthquake,0.18,3.41,0.176,15,reviewed,nc,nc
 2024-11-16T00:31:30.580Z,48.147,-122.99166666667,43.72,1.17,ml,22,59,0.1399,0.17,uw,uw62052032,2024-11-16T00:49:02.450Z,"7 km ENE of Jamestown, Washington",earthquake,0.44,0.65,0.16648496590019,7,reviewed,uw,uw
 2024-11-16T00:19:46.140Z,38.816833496094,-122.76499938965,1.6000000238419,0.78,md,7,135,0.01415,0.02,nc,nc75086926,2024-11-16T00:39:27.122Z,"4 km W of Cobb, CA",earthquake,0.42,1.07000005,0.08,8,automatic,nc,nc
-2024-11-15T23:49:47.380Z,38.813999176025,-122.76166534424,1.8300000429153,1.07,md,15,110,0.01344,0.02,nc,nc75086911,2024-11-16T00:09:28.941Z,"3 km W of Cobb, CA",earthquake,0.28,0.5,0.15,14,automatic,nc,nc
