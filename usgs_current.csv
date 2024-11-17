@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T04:33:53.920Z,38.784000396729,-122.75800323486,1.9500000476837,1.02,md,17,66,0.01458,0.03,nc,nc75087226,2024-11-17T04:49:27.631Z,"1 km N of The Geysers, CA",earthquake,0.27,0.469999999,0.14,17,automatic,nc,nc
 2024-11-17T04:33:46.740Z,38.7308,-118.7738,15.7,2.2,ml,17,152.24,0.444,0.2649,nn,nn00887638,2024-11-17T04:36:11.765Z,"9 km N of Walker Lake, Nevada",earthquake,,1,0.43,11,automatic,nn,nn
 2024-11-17T04:26:44.997Z,0.7206,126.0453,50.65,4.9,mb,44,60,1.322,1.01,us,us7000ns8i,2024-11-17T04:45:59.040Z,"129 km SE of Bitung, Indonesia",earthquake,8.21,7.932,0.081,50,reviewed,us,us
-2024-11-17T04:17:21.630Z,34.1448326,-117.49617,3.54,3.37,ml,117,21,0.04229,0.24,ci,ci40794407,2024-11-17T07:25:05.115Z,"6 km NNW of Fontana, CA",earthquake,0.22,0.87,0.242,19,automatic,ci,ci
+2024-11-17T04:17:21.630Z,34.1448326,-117.49617,3.54,3.37,ml,117,21,0.04229,0.24,ci,ci40794407,2024-11-17T07:50:04.756Z,"6 km NNW of Fontana, CA",earthquake,0.22,0.87,0.242,19,automatic,ci,ci
 2024-11-17T04:14:37.923Z,-24.2382,-179.9814,510.613,4.5,mb,42,77,5.313,1.14,us,us7000ns8g,2024-11-17T04:31:09.040Z,"south of the Fiji Islands",earthquake,13.5,8.652,0.078,51,reviewed,us,us
 2024-11-17T03:59:56.827Z,31.711,-104.288,4.8672,1.7,ml,21,56,0,0.3,tx,tx2024wouj,2024-11-17T04:34:21.692Z,"52 km S of Whites City, New Mexico",earthquake,0,1.1203310489655,0.2,17,automatic,tx,tx
 2024-11-17T03:38:53.040Z,48.181833333333,-124.64166666667,6.46,2.44,ml,25,116,0.0304,0.41,uw,uw62052122,2024-11-17T04:38:29.040Z,"20 km S of Neah Bay, Washington",earthquake,0.74,1.13,0.12754903811316,16,reviewed,uw,uw
@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T23:01:26.566Z,61.0644,-151.0506,43.4,1.6,ml,,,,1.18,ak,ak024er97n74,2024-11-16T23:04:12.070Z,"4 km E of Tyonek, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-16T22:51:36.776Z,59.9191,-152.1115,86.6,2.1,ml,,,,0.58,ak,ak024er8wy6l,2024-11-16T22:53:53.770Z,"21 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-16T22:33:52.392Z,28.2097,139.366,492.672,4.4,mb,98,53,2.735,0.69,us,us7000ns7m,2024-11-16T23:04:00.040Z,"Bonin Islands, Japan region",earthquake,11.85,7.878,0.058,86,reviewed,us,us
-2024-11-16T22:17:04.370Z,34.1463318,-117.4986649,2.45,3.47,mw,120,25,0.04136,0.25,ci,ci40794295,2024-11-17T07:30:04.410Z,"7 km NW of Fontana, CA",earthquake,0.21,0.62,,4,reviewed,ci,ci
+2024-11-16T22:17:04.370Z,34.1463318,-117.4986649,2.45,3.47,mw,120,25,0.04136,0.25,ci,ci40794295,2024-11-17T07:52:04.828Z,"7 km NW of Fontana, CA",earthquake,0.21,0.62,,4,reviewed,ci,ci
 2024-11-16T22:14:46.642Z,39.4075,-119.9235,7,0.5,ml,11,91.9,0.098,0.1163,nn,nn00887634,2024-11-17T00:52:04.234Z,"8 km E of Floriston, California",earthquake,,1.6,0.42,5,reviewed,nn,nn
 2024-11-16T22:10:15.198Z,31.576,-104.01,6.0602,1.8,ml,13,51,0,0.2,tx,tx2024woiw,2024-11-16T22:24:06.333Z,"35 km NW of Toyah, Texas",earthquake,0,2.7501177787781,0.1,11,automatic,tx,tx
 2024-11-16T21:58:30.790Z,19.172666549683,-155.49450683594,29.969999313354,2.33,ml,50,93,0.0351,0.140000001,hv,hv74533142,2024-11-16T23:54:33.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.41,0.519999981,0.09,9,automatic,hv,hv
@@ -153,5 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T08:34:11.470Z,60.5198,-144.8619,17.2,1.9,ml,,,,1.16,ak,ak024er0h6l7,2024-11-16T08:36:00.569Z,"49 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-16T08:33:44.360Z,46.899666666667,-112.51816666667,10.13,1.66,ml,11,124,0.05831,0.09,mb,mb90066123,2024-11-16T16:38:45.390Z,"13 km ESE of Lincoln, Montana",earthquake,0.45,0.65,0.16454160649065,15,reviewed,mb,mb
 2024-11-16T08:22:26.677Z,-12.2641,166.617,121.078,5.4,mww,100,29,7.127,0.98,us,us7000ns4s,2024-11-16T10:25:23.123Z,"192 km SSE of Lata, Solomon Islands",earthquake,9.38,5.009,0.066,22,reviewed,us,us
-2024-11-16T07:48:48.621Z,37.3136,-115.1878,2.2,0.8,ml,11,174.32,0.143,0.4226,nn,nn00887626,2024-11-16T07:51:06.719Z,"6 km SSW of Alamo, Nevada",earthquake,,17.6,0.29,5,automatic,nn,nn
-2024-11-16T07:48:30.000Z,33.8035,-116.9028333,8.43,1.11,ml,52,28,0.05436,0.2,ci,ci40793959,2024-11-16T07:57:56.555Z,"6 km ENE of San Jacinto, CA",earthquake,0.21,0.63,0.238,31,automatic,ci,ci
