@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T15:46:01.820Z,-14.4419,167.3887,183.737,4.5,mb,38,126,1.015,0.6,us,us7000nuir,2024-11-27T16:27:52.040Z,"65 km SSW of Sola, Vanuatu",earthquake,13.13,6.442,0.107,26,reviewed,us,us
 2024-11-27T15:37:58.618Z,60.2044,-153.3983,158.8,2,ml,,,,0.38,ak,ak024f9bks1h,2024-11-27T15:40:08.572Z,"50 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-27T15:32:53.599Z,36.9112,136.4369,10,4.3,mwr,49,53,1.466,0.66,us,us7000nuis,2024-11-27T16:22:29.040Z,"31 km W of Hakui, Japan",earthquake,6.48,1.876,0.078,16,reviewed,us,us
-2024-11-27T15:32:23.626Z,24.0113,121.7273,43.625,4.6,mwr,57,68,0.729,0.82,us,us7000nuil,2024-11-27T16:07:47.981Z,"13 km ENE of Hualien City, Taiwan",earthquake,3.34,6.095,0.063,24,reviewed,us,us
+2024-11-27T15:32:23.626Z,24.0113,121.7273,43.625,4.6,mwr,57,68,0.729,0.82,us,us7000nuil,2024-11-27T16:40:50.321Z,"13 km ENE of Hualien City, Taiwan",earthquake,3.34,6.095,0.063,24,reviewed,us,us
 2024-11-27T15:26:18.800Z,19.233499526977,-155.35716247559,28.110000610352,2.0999999,md,43,154,0.03832,0.170000002,hv,hv74543517,2024-11-27T15:28:13.280Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.51,0.75,0.0399999991,3,automatic,hv,hv
 2024-11-27T15:04:57.270Z,38.842834472656,-122.83183288574,1.3600000143051,0.63,md,13,112,0.00511,0.01,nc,nc75091551,2024-11-27T15:27:18.653Z,"10 km WNW of Cobb, CA",earthquake,0.29,0.629999995,0.22,13,automatic,nc,nc
 2024-11-27T15:00:30.530Z,19.385499954224,-155.24833679199,1.8099999427795,2.11,ml,33,46,0.002807,0.370000005,hv,hv74543482,2024-11-27T15:03:23.790Z,"6 km SSW of Volcano, Hawaii",earthquake,0.38,0.289999992,0.37,17,automatic,hv,hv
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T13:03:00.740Z,44.806666666667,-110.99283333333,8.87,0.21,md,12,171,0.04828,0.09,uu,uu80087321,2024-11-27T14:11:20.630Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.5,0.72,0.27396723176491,9,reviewed,uu,uu
 2024-11-27T13:01:26.150Z,33.5166667,-116.555,13.46,0.55,ml,15,78,0.04511,0.11,ci,ci40988424,2024-11-27T14:50:07.610Z,"12 km ESE of Anza, CA",earthquake,0.44,0.96,0.189,8,reviewed,ci,ci
 2024-11-27T12:56:11.120Z,33.5841667,-116.6103333,13.19,0.45,ml,23,61,0.0184,0.11,ci,ci40988416,2024-11-27T14:50:24.971Z,"7 km ENE of Anza, CA",earthquake,0.2,0.32,0.225,10,reviewed,ci,ci
-2024-11-27T12:51:53.060Z,34.3436667,-118.5121667,11.19,0.94,ml,10,268,0.1312,0.16,ci,ci40988408,2024-11-27T12:56:22.010Z,"7 km NW of Sylmar, CA",earthquake,1.65,0.87,0.319,23,automatic,ci,ci
+2024-11-27T12:51:53.550Z,34.362,-118.4816667,10.95,0.76,ml,15,89,0.06954,0.22,ci,ci40988408,2024-11-27T16:49:58.144Z,"6 km SSE of Santa Clarita, CA",earthquake,0.48,0.94,0.113,9,reviewed,ci,ci
 2024-11-27T12:50:08.555Z,24.595,93.5059,73.784,4.3,mb,26,76,3.615,0.69,us,us7000nuhz,2024-11-27T15:23:48.490Z,"29 km WNW of Moirāng, India",earthquake,10.86,8.355,0.126,18,reviewed,us,us
 2024-11-27T12:48:43.020Z,38.832500457764,-122.87616729736,2.8399999141693,1.49,md,27,69,0.008064,0.02,nc,nc75091476,2024-11-27T13:22:18.758Z,"12 km NW of The Geysers, CA",earthquake,0.26,0.439999998,0.18,26,automatic,nc,nc
 2024-11-27T12:36:29.583Z,31.608,-103.975,6.6254,1.5,ml,11,66,0,0.1,tx,tx2024xhsn,2024-11-27T13:56:12.463Z,"36 km NNW of Toyah, Texas",earthquake,0.38755596362059,0.56499577877738,0.1,10,reviewed,tx,tx
@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T02:54:20.797Z,64.4726,-146.8767,0,1.5,ml,,,,0.83,ak,ak024f93xpfj,2024-11-27T03:07:54.990Z,"5 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-27T02:54:00.597Z,64.4691,-146.8726,10.8,1.1,ml,,,,0.89,ak,ak024f93xnvf,2024-11-27T02:55:47.868Z,"6 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-27T02:53:23.848Z,31.129,-103.693,4.9463,1.8,ml,19,51,0.1,0.2,tx,tx2024xgzg,2024-11-27T13:20:10.291Z,"16 km NNE of Balmorhea, Texas",earthquake,0.63551790810552,1.702543568389,0.2,16,reviewed,tx,tx
-2024-11-27T02:43:42.190Z,33.7311667,-116.0568333,2.2,0.9,ml,32,99,0.0821,0.17,ci,ci40988096,2024-11-27T02:47:02.785Z,"12 km ENE of Coachella, CA",earthquake,0.2,0.39,0.154,21,automatic,ci,ci
+2024-11-27T02:43:42.140Z,33.7325,-116.0566667,2.46,0.85,ml,33,99,0.08343,0.15,ci,ci40988096,2024-11-27T16:47:39.377Z,"12 km ENE of Coachella, CA",earthquake,0.22,0.38,0.111,14,reviewed,ci,ci
 2024-11-27T02:42:38.820Z,19.260166168213,-155.38949584961,28.889999389648,1.77999997,md,36,115,0.02378,0.119999997,hv,hv74542627,2024-11-27T02:44:45.420Z,"11 km NE of Pāhala, Hawaii",earthquake,0.45,0.550000012,0.0199999996,4,automatic,hv,hv
 2024-11-27T02:35:47.923Z,61.2251,-150.6116,17.2,1.3,ml,,,,0.7,ak,ak024f93tox4,2024-11-27T02:37:54.111Z,"27 km ENE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-27T02:26:04.190Z,33.4938333,-116.4801667,12.85,0.47,ml,19,123,0.102,0.11,ci,ci40988088,2024-11-27T14:54:05.406Z,"19 km ESE of Anza, CA",earthquake,0.23,0.48,0.177,10,reviewed,ci,ci
@@ -270,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T17:19:47.379Z,37.0257,136.4128,10,4.9,mww,99,57,1.516,0.8,us,us7000nub4,2024-11-26T17:46:04.040Z,"36 km WNW of Hakui, Japan",earthquake,6.01,1.843,0.11,8,reviewed,us,us
 2024-11-26T16:54:45.450Z,44.794,-110.98816666667,8.82,0.75,md,17,126,0.03696,0.17,uu,uu80001723,2024-11-26T17:15:18.790Z,"16 km E of Hebgen Lake Estates, Montana",earthquake,0.41,0.72,0.17181664009378,10,reviewed,uu,uu
 2024-11-26T16:54:18.880Z,44.7965,-110.99366666667,9.57,1.63,ml,22,117,0.03822,0.17,uu,uu80087261,2024-11-26T17:08:19.370Z,"15 km E of Hebgen Lake Estates, Montana",earthquake,0.35,0.68,0.12325739954652,3,reviewed,uu,uu
-2024-11-26T16:52:54.155Z,58.192,-155.3019,2.3,0.7,ml,,,,1.58,ak,ak024f7oq2jw,2024-11-26T16:55:20.662Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-11-26T16:45:24.940Z,34.265,-117.1506667,4.55,1.63,ml,63,49,0.07115,0.16,ci,ci40987584,2024-11-26T18:02:10.000Z,"4 km ENE of Lake Arrowhead, CA",earthquake,0.14,0.33,0.119,55,reviewed,ci,ci
