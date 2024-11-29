@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-29T19:16:26.360Z,37.608833312988,-122.45300292969,4.2199997901917,1.25,md,7,124,0.03727,0.15,nc,nc75092571,2024-11-29T19:18:03.121Z,"3 km ESE of Pacifica, CA",earthquake,0.53,0.980000019,0.24,6,automatic,nc,nc
 2024-11-29T19:07:30.360Z,38.822166442871,-122.76550292969,2.0099999904633,1.3,md,27,102,0.008979,0.02,nc,nc75092566,2024-11-29T19:09:08.051Z,"4 km WNW of Cobb, CA",earthquake,0.23,0.389999986,0.1,27,automatic,nc,nc
 2024-11-29T19:02:25.598Z,37.5917,-117.0922,13.2,0.7,ml,8,276.24,0.634,0.1285,nn,nn00888115,2024-11-29T19:04:35.580Z,"18 km SE of Goldfield, Nevada",earthquake,,47.8,0.4,5,automatic,nn,nn
 2024-11-29T18:42:44.930Z,33.9463333,-117.9425,7.01,1.3,ml,29,154,0.01564,0.23,ci,ci40990128,2024-11-29T18:47:46.486Z,"2 km NNE of La Habra, CA",earthquake,0.31,0.44,0.229,33,automatic,ci,ci
@@ -43,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T12:41:14.260Z,35.5418333,-118.3245,2.91,0.85,ml,25,58,0.1503,0.17,ci,ci40989896,2024-11-29T12:45:50.771Z,"16 km ESE of Lake Isabella, CA",earthquake,0.19,0.94,0.198,9,automatic,ci,ci
 2024-11-29T12:34:18.960Z,63.2026,-150.3951,121.1,1.2,ml,,,,0.18,ak,ak024fckug7y,2024-11-29T12:36:41.722Z,"75 km WSW of Cantwell, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-11-29T12:19:58.420Z,33.3811667,-116.379,6.44,0.69,ml,50,45,0.05519,0.19,ci,ci40989888,2024-11-29T12:23:55.026Z,"14 km N of Borrego Springs, CA",earthquake,0.19,0.55,0.111,21,automatic,ci,ci
-2024-11-29T12:12:10.250Z,40.3115,-122.1795,25.91,2.31,md,27,38,0.1108,0.14,nc,nc75092476,2024-11-29T19:08:06.464Z,"16 km NNE of Red Bluff, CA",earthquake,0.38,0.55,0.172,25,reviewed,nc,nc
+2024-11-29T12:12:10.250Z,40.3115,-122.1795,25.91,2.31,md,27,38,0.1108,0.14,nc,nc75092476,2024-11-29T19:14:28.303Z,"16 km NNE of Red Bluff, CA",earthquake,0.38,0.55,0.172,25,reviewed,nc,nc
 2024-11-29T12:12:09.178Z,36.7469,-116.283,7.2,-0.1,ml,24,59.59,0.012,0.078,nn,nn00888108,2024-11-29T17:39:28.276Z,"46 km ESE of Beatty, Nevada",earthquake,,0.8,0.41,11,reviewed,nn,nn
 2024-11-29T12:06:54.928Z,38.0954,-118.3692,1.5,1.9,ml,13,171.14,1.766,0.334,nn,nn00888104,2024-11-29T12:10:05.583Z,"32 km NNE of Benton, California",earthquake,,0,0.31,10,automatic,nn,nn
 2024-11-29T12:06:54.133Z,38.0941,-118.2046,8.3,2,ml,19,74.6,0.202,0.3262,nn,nn00888101,2024-11-29T12:10:27.670Z,"33 km SSW of Mina, Nevada",earthquake,,0.5,0.27,13,automatic,nn,nn
@@ -177,5 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T19:34:00.090Z,33.3935,-116.308,13.67,1.12,ml,47,76,0.08297,0.22,ci,ci40989592,2024-11-28T19:38:27.500Z,"16 km NNE of Borrego Springs, CA",earthquake,0.23,0.64,0.166,25,automatic,ci,ci
 2024-11-28T19:33:53.630Z,19.070167541504,-155.39666748047,32.189998626709,2.33999991,md,40,225,0.105,0.159999996,hv,hv74545377,2024-11-28T19:35:46.130Z,"17 km SSE of Pāhala, Hawaii",earthquake,0.64,0.769999981,0.219999999,8,automatic,hv,hv
 2024-11-28T19:28:47.056Z,34.1597,141.7806,35.044,4.8,mb,34,139,1.944,0.7,us,us7000nutf,2024-11-28T21:47:51.040Z,"173 km SE of Shinmachi, Japan",earthquake,9.42,7.905,0.091,37,reviewed,us,us
-2024-11-28T19:24:19.270Z,38.82500076294,-122.79433441162,2.7599999904633,0.79,md,15,41,0.0124,0.01,nc,nc75092191,2024-11-28T19:52:15.486Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.680000007,0.15,15,automatic,nc,nc
-2024-11-28T19:14:39.890Z,37.263168334961,-121.63966369629,4.6199998855591,1.63,md,30,64,0.02702,0.06,nc,nc75092181,2024-11-28T21:34:33.181Z,"15 km NNE of Morgan Hill, CA",earthquake,0.18,0.589999974,0.11,22,automatic,nc,nc
