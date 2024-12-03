@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-03T21:47:03.650Z,19.386499404907,-155.47599792481,7.539999961853,1.75,md,42,36,0.02281,0.159999996,hv,hv74554837,2024-12-03T21:48:55.900Z,"20 km N of Pāhala, Hawaii",earthquake,0.34,0.660000026,0.409999996,22,automatic,hv,hv
 2024-12-03T21:29:43.550Z,34.7948341,-116.9083328,4.53,1.43,ml,29,83,0.1081,0.19,ci,ci40992992,2024-12-03T21:32:10.932Z,"16 km SE of Barstow, CA",earthquake,0.36,1.13,0.21,10,automatic,ci,ci
 2024-12-03T21:24:50.786Z,31.662,-104.21,4.5484,1.7,ml,16,63,0,0.2,tx,tx2024xtiy,2024-12-03T21:38:05.283Z,"55 km NW of Toyah, Texas",earthquake,0,1.2863306999207,0.3,13,automatic,tx,tx
 2024-12-03T21:24:39.560Z,19.149333953857,-155.48616027832,31.360000610352,1.83000004,md,35,234,0.02352,0.119999997,hv,hv74554812,2024-12-03T21:26:12.750Z,"5 km S of Pāhala, Hawaii",earthquake,0.63,0.899999976,0.300000012,5,automatic,hv,hv
@@ -111,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T10:31:02.897Z,38.728,-117.9488,10.2,1.5,ml,10,74.53,0.228,0.1505,nn,nn00888206,2024-12-03T19:32:52.070Z,"15 km S of Gabbs, Nevada",earthquake,,1.7,0.2,4,reviewed,nn,nn
 2024-12-03T10:30:08.137Z,64.3431,-149.7022,1,1.6,ml,,,,1.04,ak,ak024fj5s32l,2024-12-03T10:32:40.988Z,"24 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-03T10:13:16.270Z,19.571333333333,-65.263333333333,31.59,3.18,md,7,296,1.247,0.23,pr,pr71467638,2024-12-03T10:52:36.860Z,"140 km NNE of Vieques, Puerto Rico",earthquake,1.69,18.31,0.078373986452929,4,reviewed,pr,pr
+2024-12-03T10:02:56.990Z,46.193166666667,-122.184,6.8,-0.1,ml,8,100,0.01915,0.05,uw,uw62063801,2024-12-03T21:46:43.310Z,"37 km NNE of Amboy, Washington",earthquake,0.31,0.58,0.068701206886879,4,reviewed,uw,uw
 2024-12-03T10:00:18.150Z,19.380666732788,-155.23216247559,2.0099999904633,2.63,ml,43,62,0.01065,0.389999986,hv,hv74553552,2024-12-03T10:03:24.720Z,"6 km S of Volcano, Hawaii",earthquake,0.44,0.379999995,0.47,32,automatic,hv,hv
 2024-12-03T09:58:34.469Z,39.4227,-119.8537,8.2,0.7,ml,13,103.62,0.076,0.1083,nn,nn00888205,2024-12-03T19:14:28.086Z,"11 km SSE of Mogul, Nevada",earthquake,,1.6,0.14,7,reviewed,nn,nn
 2024-12-03T09:57:57.936Z,61.8697,-152.0733,104,1.3,ml,,,,0.17,ak,ak024fj5cjn5,2024-12-03T09:59:23.678Z,"37 km WSW of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -255,7 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T22:04:17.168Z,60.6853,-149.5036,29.9,1.5,ml,,,,0.37,ak,ak024fhp8dx0,2024-12-02T22:06:12.251Z,"22 km S of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-02T22:01:09.970Z,34.93,-97.60833333,9.44,1.45,ml,42,64,0.01619682163,0.46,ok,ok2024xrop,2024-12-03T13:31:41.575Z,"10 km N of Lindsay, Oklahoma",earthquake,,1.4,0.2,21,reviewed,ok,ok
 2024-12-02T21:53:51.450Z,46.910333333333,-120.56683333333,-0.87,1.83,ml,14,109,0.0009453,0.75,uw,uw62063691,2024-12-02T23:00:46.030Z,"9 km S of Ellensburg, Washington",explosion,1.65,31.61,0.22074169350671,8,reviewed,uw,uw
-2024-12-02T21:48:24.630Z,36.117666666667,-121.59983333333,7.99,0.98,md,17,138,0.05974,0.08,nc,nc75094216,2024-12-03T20:34:27.585Z,"11 km  of Lopez Point, CA",earthquake,0.35,0.81,0.282,13,reviewed,nc,nc
-2024-12-02T21:46:13.721Z,57.0208,-154.641,37.3,2.2,ml,,,,0.79,ak,ak024fhovy4c,2024-12-02T21:48:17.300Z,"29 km WNW of Akhiok, Alaska",earthquake,,4,,,automatic,ak,ak
-2024-12-02T21:46:07.890Z,19.284334182739,-155.37199401856,29.450000762939,2.26999998,md,49,117,0.05048,0.129999995,hv,hv74552177,2024-12-02T21:47:49.120Z,"14 km NE of Pāhala, Hawaii",earthquake,0.38,0.50999999,0.400000006,16,automatic,hv,hv
-2024-12-02T21:43:04.715Z,65.0352,-148.9958,8.6,1.3,ml,,,,1.53,ak,ak024fhova9z,2024-12-02T21:44:56.887Z,"21 km SE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
