@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-04T21:42:34.720Z,19.391834259033,-155.26333618164,2.4100000858307,1.74000001,md,22,51,0.006863,0.129999995,hv,hv74556317,2024-12-04T21:45:25.260Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.170000002,0.5,19,automatic,hv,hv
+2024-12-04T21:42:28.000Z,38.788333892822,-122.76699829102,2.1800000667572,1.05,md,14,77,0.01353,0.02,nc,nc75095176,2024-12-04T21:44:05.131Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.50999999,0.27,14,automatic,nc,nc
 2024-12-04T20:59:21.856Z,58.4494,-154.6077,15.6,1,ml,,,,1.24,ak,ak024fkzg0ft,2024-12-04T21:01:21.881Z,"98 km N of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-12-04T20:57:22.750Z,32.678,-115.8246667,3.62,1.62,ml,8,83,0.0877,0.17,ci,ci40994016,2024-12-04T21:04:55.347Z,"17 km ESE of Ocotillo, CA",earthquake,0.49,0.61,0.45,10,automatic,ci,ci
-2024-12-04T20:56:30.223Z,36.6722,-116.2644,7,0.5,ml,16,91.28,0.065,0.1504,nn,nn00888286,2024-12-04T20:58:23.635Z,"51 km ESE of Beatty, Nevada",earthquake,,0.6,0.34,11,automatic,nn,nn
+2024-12-04T20:56:30.586Z,36.6567,-116.2713,6.9,0.4,ml,25,84.13,0.056,0.0773,nn,nn00888286,2024-12-04T21:46:33.535Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.35,10,reviewed,nn,nn
 2024-12-04T20:53:53.870Z,35.0453333,-118.3236667,0.59,1.37,ml,36,37,0.1471,0.2,ci,ci40993984,2024-12-04T20:58:47.904Z,"14 km W of Mojave, CA",earthquake,0.21,0.65,0.136,29,automatic,ci,ci
 2024-12-04T20:37:56.575Z,60.2037,-141.6963,5,2.3,ml,,,,1.01,ak,ak024fkzbdd5,2024-12-04T20:40:07.508Z,"132 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-04T20:14:32.501Z,61.0451,-150.6865,62.6,1.4,ml,,,,0.18,ak,ak024fkz6e1e,2024-12-04T20:16:40.408Z,"13 km N of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -206,7 +208,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:32:32.710Z,47.609333333333,-121.80833333333,17.56,0.86,ml,13,126,0.1001,0.13,uw,uw62063991,2024-12-04T19:54:24.950Z,"7 km NE of Fall City, Washington",earthquake,0.37,0.54,0.12493875700405,7,reviewed,uw,uw
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2024-12-04T04:12:15.520Z,33.6951667,-116.8145,14.75,1.34,ml,61,28,0.07068,0.18,ci,ci40993272,2024-12-04T20:48:45.420Z,"9 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.222,36,reviewed,ci,ci
 2024-12-04T04:12:07.310Z,19.372166666667,-155.1745,2.54,1.42,ml,30,128,0.008751,0.09,hv,hv74555302,2024-12-04T17:56:02.410Z,"10 km SE of Volcano, Hawaii",earthquake,0.48,0.28,0.26799063260079,19,reviewed,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -294,5 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T21:57:45.180Z,38.509,-112.88933333333,1.99,1.11,md,17,59,0.007705,0.11,uu,uu80094391,2024-12-03T22:25:36.320Z,"16 km NE of Milford, Utah",earthquake,0.32,0.42,0.427341946897,9,reviewed,uu,uu
 2024-12-03T21:52:53.810Z,44.498333333333,-122.21983333333,-0.93,1.23,ml,10,71,0.1869,0.1,uw,uw62063916,2024-12-04T05:50:36.540Z,"23 km ENE of Cascadia, Oregon",explosion,0.39,31.61,0.12121901229931,5,reviewed,uw,uw
 2024-12-03T21:50:38.992Z,31.639,-102.045,2.6184,1.5,ml,27,65,0,0.5,tx,tx2024xtjx,2024-12-03T21:57:21.460Z,"38 km SE of Odessa, Texas",earthquake,0,1.1428066492081,0.1,16,automatic,tx,tx
-2024-12-03T21:48:35.280Z,47.151833333333,-122.0065,19.06,0.51,ml,20,182,0.03824,0.1,uw,uw62063911,2024-12-04T05:29:55.400Z,"1 km SE of Buckley, Washington",earthquake,0.59,0.47,0.13944697800043,5,reviewed,uw,uw
-2024-12-03T21:47:03.660Z,19.391833333333,-155.47366666667,7.6,1.32,ml,40,40,0.02505,0.12,hv,hv74554837,2024-12-03T23:49:44.470Z,"20 km N of Pāhala, Hawaii",earthquake,0.32,0.56,0.17558313995554,22,reviewed,hv,hv
