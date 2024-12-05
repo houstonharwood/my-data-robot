@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-05T17:33:11.348Z,59.0057,-153.1562,9.3,1.9,ml,,,,1.03,ak,ak024fml1gsi,2024-12-05T17:36:35.637Z,"80 km WSW of Nanwalek, Alaska",earthquake,,10.4,,,automatic,ak,ak
 2024-12-05T17:23:05.454Z,61.8994,-150.7416,64,2.1,ml,,,,0.43,ak,ak024fmkzb2p,2024-12-05T17:24:38.453Z,"35 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-12-05T17:15:45.870Z,38.836166381836,-122.81533050537,1.5199999809265,0.72,md,11,62,0.0134,0.01,nc,nc75095616,2024-12-05T17:17:21.800Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.800000012,0.14,13,automatic,nc,nc
+2024-12-05T17:15:45.870Z,38.836166381836,-122.81533050537,1.5199999809265,0.72,md,11,62,0.0134,0.01,nc,nc75095616,2024-12-05T17:42:15.385Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.800000012,0.14,13,automatic,nc,nc
 2024-12-05T17:13:24.610Z,35.8966667,-117.7178333,9.85,0.59,ml,24,39,0.07491,0.12,ci,ci40995096,2024-12-05T17:16:46.917Z,"18 km ESE of Little Lake, CA",earthquake,0.16,0.32,0.034,6,automatic,ci,ci
 2024-12-05T16:51:31.095Z,-55.7476,-29.0697,171.121,5.1,mb,32,199,4.515,0.91,us,us7000nw6g,2024-12-05T17:06:34.040Z,"South Sandwich Islands region",earthquake,15.17,11.152,0.076,56,reviewed,us,us
 2024-12-05T16:46:08.830Z,-12.3629,167.0881,256.644,4.8,mb,46,77,3.068,0.94,us,us7000nw5h,2024-12-05T17:01:01.040Z,"174 km NNW of Sola, Vanuatu",earthquake,11.84,8.129,0.031,324,reviewed,us,us
@@ -230,7 +230,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T22:37:19.340Z,45.093166666667,-111.71133333333,-2,1.41,ml,15,110,0.121,0.23,mb,mb90067623,2024-12-04T22:56:03.340Z,"28 km S of Ennis, Montana",quarry blast,0.75,31.61,0.1320719433859,20,reviewed,mb,mb
 2024-12-04T22:26:11.859Z,35.5365,-96.74533333,7,1.05,ml,35,79,0.006298763968,0.23,ok,ok2024xvgl,2024-12-05T14:15:45.358Z,"7 km NW of Prague, Oklahoma",earthquake,,0.4,0.21,12,reviewed,ok,ok
 2024-12-04T22:16:54.673Z,51.63,100.5274,9.851,4.3,mb,17,118,1.942,0.38,us,us7000nw02,2024-12-04T22:30:46.040Z,"16 km NW of Turt, Mongolia",earthquake,11.72,5.061,0.154,12,reviewed,us,us
-2024-12-04T21:59:33.110Z,33.6845,-117.1218333,1.75,0.97,ml,34,49,0.05906,0.21,ci,ci40994144,2024-12-05T17:34:37.523Z,"4 km SW of Winchester, CA",earthquake,0.36,0.67,0.181,11,reviewed,ci,ci
+2024-12-04T21:59:33.120Z,33.6851667,-117.1218333,1.95,0.97,ml,35,49,0.05848,0.22,ci,ci40994144,2024-12-05T17:40:52.561Z,"4 km SW of Winchester, CA",earthquake,0.28,0.46,0.181,11,reviewed,ci,ci
 2024-12-04T21:49:09.450Z,33.2898333,-116.7436667,12.79,0.68,ml,32,44,0.05518,0.14,ci,ci40994120,2024-12-05T17:12:16.261Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.23,0.49,0.111,14,reviewed,ci,ci
 2024-12-04T21:42:34.720Z,19.391834259033,-155.26333618164,2.4100000858307,1.74000001,md,22,51,0.006863,0.129999995,hv,hv74556317,2024-12-04T21:45:25.260Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.170000002,0.5,19,automatic,hv,hv
 2024-12-04T21:42:28.000Z,38.788333892822,-122.76699829102,2.1800000667572,1.05,md,14,77,0.01353,0.02,nc,nc75095176,2024-12-04T23:07:15.547Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.50999999,0.27,14,automatic,nc,nc
@@ -277,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T17:55:17.540Z,38.505666666667,-112.88466666667,1.92,0.96,md,15,57,0.004365,0.11,uu,uu80094971,2024-12-04T18:59:24.170Z,"16 km NE of Milford, Utah",earthquake,0.32,0.45,0.44343137732862,7,reviewed,uu,uu
 2024-12-04T17:53:37.410Z,36.247001647949,-120.81716918945,5.9899997711182,1.71,md,10,172,0.03359,0.06,nc,nc75095136,2024-12-04T20:07:19.363Z,"22 km ENE of San Lucas, CA",earthquake,0.34,0.389999986,0.24,8,automatic,nc,nc
 2024-12-04T17:46:41.216Z,-30.3289,-71.8873,31.084,4.2,mb,26,190,0.407,0.93,us,us7000nvyj,2024-12-04T20:13:38.040Z,"67 km SW of Coquimbo, Chile",earthquake,4.96,5.321,0.264,4,reviewed,us,us
-2024-12-04T17:44:12.420Z,38.4975,-112.88933333333,2.24,1.82,ml,22,42,0.004588,0.18,uu,uu80094956,2024-12-04T17:54:03.810Z,"15 km NE of Milford, Utah",earthquake,0.39,0.61,0.15490108980253,8,reviewed,uu,uu
-2024-12-04T17:41:36.410Z,34.0255,-117.6023333,3.66,1.35,ml,48,44,0.008718,0.15,ci,ci40993768,2024-12-04T17:46:05.708Z,"4 km SE of Ontario, CA",earthquake,0.14,0.22,0.158,29,automatic,ci,ci
