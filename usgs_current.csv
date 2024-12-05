@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-05T05:28:43.985Z,31.892,-101.746,3.4065,1.1,ml,27,48,0.1,0.5,tx,tx2024xvuk,2024-12-05T05:42:35.301Z,"25 km W of Garden City, Texas",earthquake,0,1.1193531751633,0.2,16,automatic,tx,tx
+2024-12-05T05:28:43.985Z,31.892,-101.746,3.4065,1.1,ml,27,48,0.1,0.5,tx,tx2024xvuk,2024-12-05T05:44:01.307Z,"25 km W of Garden City, Texas",earthquake,0,1.1193531751633,0.2,16,automatic,tx,tx
 2024-12-05T05:28:39.529Z,63.4695,-150.2511,117.8,1.5,ml,,,,0.34,ak,ak024fmdv88w,2024-12-05T05:31:31.244Z,"65 km W of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-12-05T05:09:06.950Z,35.8979988,-117.7516632,5.08,1.95,ml,38,39,0.07418,0.2,ci,ci40994528,2024-12-05T05:11:11.458Z,"15 km ESE of Little Lake, CA",earthquake,0.25,0.98,0.306,25,automatic,ci,ci
 2024-12-05T05:06:31.390Z,35.8971672,-117.7516632,5.01,3.06,ml,50,39,0.07475,0.16,ci,ci40994520,2024-12-05T05:17:36.540Z,"15 km ESE of Little Lake, CA",earthquake,0.17,0.53,0.258,21,automatic,ci,ci
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T03:44:06.160Z,19.191667556763,-155.40432739258,32.20000076294,2.48000002,md,31,180,0.04605,0.129999995,hv,hv74556702,2024-12-05T04:03:07.758Z,"7 km E of Pāhala, Hawaii",earthquake,0.83,0.75999999,0.189999998,6,automatic,hv,hv
 2024-12-05T03:37:41.810Z,38.785667419434,-122.76983642578,2.6800000667572,0.94,md,14,104,0.01526,0.03,nc,nc75095336,2024-12-05T05:32:13.267Z,"1 km NW of The Geysers, CA",earthquake,0.36,0.730000019,0.19,17,automatic,nc,nc
 2024-12-05T03:27:41.320Z,33.8141667,-117.6311667,3.58,1.19,ml,31,60,0.1059,0.2,ci,ci40994440,2024-12-05T03:43:38.505Z,"8 km SW of Corona, CA",earthquake,0.22,0.92,0.269,32,automatic,ci,ci
-2024-12-05T03:27:13.170Z,37.735500335693,-122.13616943359,4.3400001525879,1.35,md,10,106,0.01753,0.06,nc,nc75095326,2024-12-05T05:07:14.093Z,"2 km ENE of San Leandro, CA",earthquake,0.51,0.699999988,0.27,7,automatic,nc,nc
+2024-12-05T03:27:13.170Z,37.735500335693,-122.13616943359,4.3400001525879,1.35,md,10,106,0.01753,0.06,nc,nc75095326,2024-12-05T05:48:51.514Z,"2 km ENE of San Leandro, CA",earthquake,0.51,0.699999988,0.27,7,automatic,nc,nc
 2024-12-05T03:22:55.348Z,60.8706,-143.48,13.7,1.9,ml,,,,0.61,ak,ak024fmcn4qm,2024-12-05T03:25:06.236Z,"69 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-05T03:18:23.090Z,38.771999359131,-122.73650360107,1.1299999952316,1.05,md,9,69,0.01122,0.01,nc,nc75095321,2024-12-05T04:42:14.922Z,"2 km ESE of The Geysers, CA",earthquake,0.28,0.569999993,0.24,9,automatic,nc,nc
 2024-12-05T03:13:35.460Z,63.8799,-150.4788,8.8,1.2,ml,,,,0.72,ak,ak024fmcl5re,2024-12-05T03:15:40.584Z,"68 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -281,4 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T06:19:40.020Z,32.787,-118.2935,9.61,2.58,ml,4,221,0.2872,0.08,ci,ci40993336,2024-12-04T17:44:06.743Z,"6 km SE of San Clemente Is. (SE tip), CA",earthquake,1.41,6.93,0.161,30,automatic,ci,ci
 2024-12-04T06:06:04.318Z,61.5757,-150.4391,35.4,1.6,ml,,,,0.76,ak,ak024fkqsjnz,2024-12-04T06:08:34.254Z,"5 km NE of Susitna, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2024-12-04T05:57:13.427Z,53.7314,-166.6156,83.3,1.9,ml,,,,0.14,ak,ak024fkqhxrw,2024-12-04T15:39:58.400Z,"16 km SSW of Unalaska, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2024-12-04T05:48:35.120Z,19.40333366394,-155.26499938965,1.6000000238419,2.21000004,md,21,42,0.005158,0.129999995,hv,hv74555372,2024-12-04T05:50:27.640Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.209999993,0.219999999,16,automatic,hv,hv
