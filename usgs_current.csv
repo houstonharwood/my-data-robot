@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-09T17:50:58.170Z,36.001667022705,-120.56133270264,2.0599999427795,0.91,md,10,90,0.02148,0.13,nc,nc75100196,2024-12-09T17:52:32.470Z,"16 km NW of Parkfield, CA",earthquake,0.53,1.03999996,0.07,4,automatic,nc,nc
 2024-12-09T17:36:36.580Z,19.334167480469,-155.18533325195,0.81999999284744,1.7,ml,47,84,0.04752,0.25,hv,hv74560802,2024-12-09T17:39:29.770Z,"13 km SSE of Volcano, Hawaii",earthquake,0.28,0.379999995,1.99,4,automatic,hv,hv
-2024-12-09T17:36:21.130Z,35.994667053223,-120.55400085449,3.2799999713898,1.01,md,9,67,0.02028,0.05,nc,nc75100191,2024-12-09T17:37:57.972Z,"15 km NW of Parkfield, CA",earthquake,0.43,0.699999988,0.13,5,automatic,nc,nc
+2024-12-09T17:36:21.130Z,35.994667053223,-120.55400085449,3.2799999713898,1.01,md,9,67,0.02028,0.05,nc,nc75100191,2024-12-09T17:47:19.567Z,"15 km NW of Parkfield, CA",earthquake,0.43,0.699999988,0.13,5,automatic,nc,nc
 2024-12-09T17:35:13.300Z,38.840667724609,-121.98100280762,1.9800000190735,2.16,md,4,131,0.08743,0.01,nc,nc75100186,2024-12-09T17:42:15.528Z,"5 km SSW of Dunnigan, CA",earthquake,1.12,7.80000019,0.16,9,automatic,nc,nc
+2024-12-09T17:34:04.944Z,54.1906,-162.5865,35,5,mwr,122,133,0.824,0.75,us,us7000nxcu,2024-12-09T17:53:53.137Z,"91 km SE of False Pass, Alaska",earthquake,5.01,1.863,0.051,37,reviewed,us,us
 2024-12-09T17:25:22.766Z,-9.2495,66.7514,10,5.7,mww,70,46,10.944,0.82,us,us7000nxct,2024-12-09T17:45:26.923Z,"Mid-Indian Ridge",earthquake,3.41,1.852,0.069,20,reviewed,us,us
 2024-12-09T17:16:33.968Z,50.9787,-177.5087,10,3.6,ml,8,224,0.904,0.63,us,us7000nxc5,2024-12-09T17:22:19.040Z,"116 km SSW of Adak, Alaska",earthquake,2.41,1.829,0.091,16,reviewed,us,us
 2024-12-09T17:03:49.303Z,50.8638,-177.5754,10,3.3,ml,9,226,1.015,0.32,us,us7000nxc4,2024-12-09T17:19:01.564Z,"130 km SSW of Adak, Alaska",earthquake,4.63,2.006,0.091,16,reviewed,us,us
@@ -21,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T16:01:21.050Z,39.697666168213,-123.12149810791,7.7199997901917,2.06,md,12,115,0.05698,0.07,nc,nc75100151,2024-12-09T16:47:14.122Z,"15 km SE of Covelo, CA",earthquake,0.56,1.26999998,0.06,11,automatic,nc,nc
 2024-12-09T15:56:16.740Z,31.349,-103.726,5.9708,2.1,ml,9,100,0.1,0.2,tx,tx2024ydxc,2024-12-09T16:00:58.971Z,"7 km ENE of Toyah, Texas",earthquake,0,4.1164951324463,0.2,7,automatic,tx,tx
 2024-12-09T15:55:16.690Z,39.701168060303,-123.14199829102,4.1100001335144,1.65,md,9,93,0.07067,0.1,nc,nc75100146,2024-12-09T16:32:22.007Z,"14 km SSE of Covelo, CA",earthquake,0.34,1.46000004,0.23,9,automatic,nc,nc
+2024-12-09T15:35:41.990Z,46.1975,-122.18883333333,0.26,-0.12,mh,12,125,0.002679,0.16,uw,uw62066931,2024-12-09T17:52:03.430Z,"37 km NNE of Amboy, Washington",earthquake,0.6,0.24,,0,reviewed,uw,uw
 2024-12-09T15:23:02.993Z,31.596,-103.965,7.5143,2.2,ml,15,67,0,0.4,tx,tx2024ydwb,2024-12-09T15:32:47.697Z,"35 km NNW of Toyah, Texas",earthquake,0,2.582864522934,0.2,13,automatic,tx,tx
 2024-12-09T15:21:03.343Z,61.5626,-148.3921,21.3,1.2,ml,,,,0.29,ak,ak024ft5xe8u,2024-12-09T15:23:11.981Z,"26 km S of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-09T15:12:56.105Z,50.7357,-177.5072,10,2.7,ml,9,304,1.041,0.46,us,us7000nxbl,2024-12-09T17:42:29.040Z,"140 km SSW of Adak, Alaska",earthquake,6.18,1.992,0.148,6,reviewed,us,us
@@ -242,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T18:07:49.881Z,-9.3402,-109.8632,10,5.6,mww,100,162,17.698,0.75,us,us7000nx3l,2024-12-08T20:10:43.054Z,"central East Pacific Rise",earthquake,11.57,1.933,0.071,19,reviewed,us,us
 2024-12-08T18:02:57.310Z,38.79700088501,-122.76716613769,1.25,0.89,md,14,69,0.006857,0.03,nc,nc75099611,2024-12-08T18:22:14.943Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.49000001,0.32,14,automatic,nc,nc
 2024-12-08T17:56:01.280Z,46.8465,-121.76466666667,0.88,0.93,ml,11,75,0.0199,0.07,uw,uw62066816,2024-12-08T22:54:10.440Z,"22 km ENE of Ashford, Washington",earthquake,0.25,0.49,0.17539093757781,7,reviewed,uw,uw
-2024-12-08T17:47:09.324Z,-18.0369,-178.4166,589.889,4.4,mb,61,39,2.622,0.85,us,us7000nx3k,2024-12-08T18:04:27.040Z,"240 km E of Levuka, Fiji",earthquake,11.7,8.098,0.041,172,reviewed,us,us
