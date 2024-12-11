@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-11T21:29:55.280Z,33.2895,-116.2435,5.15,1.58,ml,70,20,0.09695,0.2,ci,ci41000152,2024-12-11T21:40:45.030Z,"13 km ENE of Borrego Springs, CA",earthquake,0.14,0.54,0.15,26,automatic,ci,ci
-2024-12-11T21:07:43.240Z,34.2556667,-117.0835,3.77,0.8,ml,33,99,0.06467,0.17,ci,ci41000120,2024-12-11T21:12:18.835Z,"6 km NNE of Running Springs, CA",earthquake,0.24,0.37,0.153,10,automatic,ci,ci
+2024-12-11T21:29:55.280Z,33.2895,-116.2435,5.15,1.58,ml,70,20,0.09695,0.2,ci,ci41000152,2024-12-11T21:51:51.990Z,"13 km ENE of Borrego Springs, CA",earthquake,0.14,0.54,0.15,26,reviewed,ci,ci
+2024-12-11T21:07:43.240Z,34.2556667,-117.0835,3.77,0.8,ml,33,99,0.06467,0.17,ci,ci41000120,2024-12-11T21:51:31.138Z,"6 km NNE of Running Springs, CA",earthquake,0.24,0.37,0.153,10,reviewed,ci,ci
 2024-12-11T20:57:12.771Z,-30.5917,-178.2739,49.139,5.2,mww,123,29,1.375,1.06,us,us7000nxya,2024-12-11T21:21:36.040Z,"Kermadec Islands, New Zealand",earthquake,9.45,4.532,0.078,16,reviewed,us,us
 2024-12-11T20:52:42.554Z,59.3683,-152.8247,69.4,2.1,ml,,,,0.28,ak,ak024fwk5zhb,2024-12-11T20:54:47.607Z,"51 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-11T20:49:46.230Z,17.963166666667,-66.95,10.09,2.41,md,14,186,0.06836,0.11,pr,pr71468328,2024-12-11T21:02:06.870Z,"4 km SW of Fuig, Puerto Rico",earthquake,0.38,0.49,0.1500569100955,9,reviewed,pr,pr
 2024-12-11T20:42:27.915Z,39.1897,-119.0175,16,1.4,ml,8,119.37,0.268,0.3656,nn,nn00889275,2024-12-11T20:45:26.921Z,"25 km NNE of Yerington, Nevada",earthquake,,2.5,0.34,5,automatic,nn,nn
 2024-12-11T20:38:46.360Z,46.2995,-111.6245,-2,1.89,ml,8,169,0.3117,0.17,mb,mb90068253,2024-12-11T20:51:53.230Z,"8 km WSW of Townsend, Montana",quarry blast,1.06,31.61,0.23976503435002,23,reviewed,mb,mb
-2024-12-11T20:38:40.080Z,34.2565,-117.0826667,3.59,1.4,ml,64,30,0.06969,0.15,ci,ci41000088,2024-12-11T20:49:23.570Z,"6 km NNE of Running Springs, CA",earthquake,0.15,0.36,0.192,31,automatic,ci,ci
+2024-12-11T20:38:40.080Z,34.2565,-117.0826667,3.59,1.4,ml,64,30,0.06969,0.15,ci,ci41000088,2024-12-11T21:51:55.420Z,"6 km NNE of Running Springs, CA",earthquake,0.15,0.36,0.192,31,reviewed,ci,ci
 2024-12-11T20:33:40.077Z,63.3502,-145.4769,1,1.9,ml,,,,0.75,ak,ak024fwk1won,2024-12-11T20:36:22.633Z,"29 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-11T20:23:57.970Z,41.598333333333,-112.41683333333,7.14,1.89,ml,24,90,0.07798,0.2,uu,uu80097231,2024-12-11T21:08:17.980Z,"14 km SW of Thatcher, Utah",earthquake,0.46,1.08,0.2085733908895,8,reviewed,uu,uu
 2024-12-11T20:16:31.290Z,44.644,-114.14133333333,0.32,1.23,ml,10,66,0.271,0.21,mb,mb90068263,2024-12-11T20:58:55.050Z,"17 km NNE of Challis, Idaho",earthquake,0.54,2.75,0.17096364657358,9,reviewed,mb,mb
@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T22:27:44.289Z,36.04183333,-96.52416667,0,1.37,ml,57,65,0.1970613298,0.53,ok,ok2024ygfn,2024-12-11T13:22:08.128Z,"7 km SE of Oilton, Oklahoma",quarry blast,,0.6,0.22,28,reviewed,ok,ok
 2024-12-10T22:01:19.324Z,53.969,-165.005,61.8,2.3,ml,,,,0.4,ak,ak024fuxiivw,2024-12-11T00:44:07.177Z,"53 km ESE of Akutan, Alaska",earthquake,,5,,,reviewed,ak,ak
 2024-12-10T21:55:47.430Z,45.155166666667,-113.8195,7.22,1.51,ml,16,103,0.6147,0.13,mb,mb90068178,2024-12-11T15:33:55.790Z,"6 km ESE of Salmon, Idaho",earthquake,0.42,0.94,0.14020923240009,20,reviewed,mb,mb
-2024-12-10T21:50:44.750Z,40.411998748779,-125.41283416748,4.7699999809265,3.24,ml,42,287,0.8231,0.58,nc,nc75101286,2024-12-10T23:47:18.149Z,"96 km WNW of Petrolia, CA",earthquake,12.53,35.1899986,0.248,5,automatic,nc,nc
