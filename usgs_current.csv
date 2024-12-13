@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T06:39:31.301Z,39.1414,-119.045,16,1.5,ml,10,127.32,0.218,0.1753,nn,nn00889447,2024-12-13T06:42:01.337Z,"20 km NNE of Yerington, Nevada",earthquake,,2,0.32,4,automatic,nn,nn
 2024-12-13T06:34:52.611Z,39.095,-119.05,4.1,1.9,ml,18,91.26,0.184,0.1972,nn,nn00889445,2024-12-13T06:37:23.002Z,"15 km NE of Yerington, Nevada",earthquake,,1.6,0.21,11,automatic,nn,nn
 2024-12-13T06:32:38.250Z,38.835498809815,-122.81600189209,1.8300000429153,0.91,md,16,48,0.01294,0.02,nc,nc75102631,2024-12-13T06:34:15.285Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.540000021,0.19,19,automatic,nc,nc
-2024-12-13T06:28:55.150Z,36.244499206543,-120.79582977295,6.289999961853,1.39,md,10,155,0.02887,0.07,nc,nc75102626,2024-12-13T06:30:30.587Z,"22 km SW of New Idria, CA",earthquake,0.64,0.449999988,0.27,8,automatic,nc,nc
+2024-12-13T06:28:55.150Z,36.244499206543,-120.79582977295,6.289999961853,1.39,md,10,155,0.02887,0.07,nc,nc75102626,2024-12-13T06:52:17.960Z,"22 km SW of New Idria, CA",earthquake,0.64,0.449999988,0.27,8,automatic,nc,nc
 2024-12-13T06:16:17.080Z,38.835334777832,-122.79683685303,2.2799999713898,1.09,md,17,59,0.005928,0.02,nc,nc75102616,2024-12-13T06:32:17.813Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.730000019,0.27,18,automatic,nc,nc
 2024-12-13T06:07:43.898Z,39.1714,-119.0488,4.2,1.6,ml,8,86.96,0.238,0.1272,nn,nn00889444,2024-12-13T06:11:10.769Z,"22 km NNE of Yerington, Nevada",earthquake,,2.3,0.04,2,automatic,nn,nn
 2024-12-13T05:56:20.460Z,60.8317,-152.1026,87.4,1.3,ml,,,,0.84,ak,ak024fzmbzf4,2024-12-13T05:59:33.168Z,"47 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T04:55:26.970Z,33.956,-118.3358333,5.74,1.6,ml,48,79,0.00537,0.28,ci,ci41001080,2024-12-13T05:55:22.993Z,"1 km E of Inglewood, CA",earthquake,0.28,0.36,0.109,30,automatic,ci,ci
 2024-12-13T04:54:01.938Z,39.1573,-119.0344,4.6,3.4,ml,10,66.66,0.012,0.1047,nn,nn00889423,2024-12-13T06:05:31.464Z,"22 km NNE of Yerington, Nevada",earthquake,,1.8,0.3,2,reviewed,nn,nn
 2024-12-13T04:48:01.085Z,39.1772,-119.0351,0,2.2,ml,12,87.51,0.25,0.1302,nn,nn00889421,2024-12-13T05:10:08.643Z,"23 km NNE of Yerington, Nevada",earthquake,,17.7,0.08,4,automatic,nn,nn
-2024-12-13T04:45:55.640Z,39.1652,-119.0336,4.7,3.3,ml,35,70.12,0.006,0.1419,nn,nn00889415,2024-12-13T06:36:24.205Z,"22 km NNE of Yerington, Nevada",earthquake,,0.6,0.25,11,reviewed,nn,nn
+2024-12-13T04:45:55.640Z,39.1652,-119.0336,4.7,3.3,ml,35,70.12,0.006,0.1419,nn,nn00889415,2024-12-13T06:48:43.478Z,"22 km NNE of Yerington, Nevada",earthquake,,0.6,0.25,11,reviewed,nn,nn
 2024-12-13T04:45:37.651Z,39.1735,-119.0211,5.5,3.1,ml,7,62.21,0.015,0.1063,nn,nn00889414,2024-12-13T05:43:14.550Z,"24 km NNE of Yerington, Nevada",earthquake,,2.1,0.15,2,reviewed,nn,nn
 2024-12-13T04:41:52.066Z,39.1762,-119.0437,0,1.8,ml,15,87.39,0.245,0.1398,nn,nn00889412,2024-12-13T04:44:31.691Z,"23 km NNE of Yerington, Nevada",earthquake,,16.9,0.22,8,automatic,nn,nn
 2024-12-13T04:35:41.674Z,31.681,-104.421,5.6228,1.6,ml,16,61,0,0.3,tx,tx2024ykir,2024-12-13T04:41:56.353Z,"55 km S of Whites City, New Mexico",earthquake,0,2.524505853653,0.1,12,automatic,tx,tx
@@ -81,6 +81,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T21:38:47.471Z,57.2782,-153.6344,30.9,2.3,ml,,,,0.34,ak,ak024fy87rxn,2024-12-12T21:41:30.572Z,"21 km WNW of Old Harbor, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-12-12T21:19:31.197Z,64.4591,-146.9218,0.2,1.6,ml,,,,0.55,ak,ak024fy83o2n,2024-12-12T21:25:50.239Z,"7 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T21:16:14.903Z,61.5778,-146.4789,30.6,1.8,ml,,,,0.38,ak,ak024fy82zo2,2024-12-12T21:17:35.886Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-12T21:13:45.670Z,58.283666666667,-155.04616666667,2.23,-0.44,ml,6,120,0.01554,0.27,av,av93028324,2024-12-13T06:48:01.570Z,"86 km NNW of Karluk, Alaska",earthquake,0.66,0.78,0.22951897348948,6,reviewed,av,av
+2024-12-12T21:06:52.080Z,60.3625,-152.82516666667,7.63,0.26,ml,7,319,0.06264,0.08,av,av93406616,2024-12-13T06:43:01.130Z,"72 km WNW of Ninilchik, Alaska",earthquake,0.71,0.71,0.16556076767332,7,reviewed,av,av
 2024-12-12T21:01:24.990Z,46.360668182373,-122.38400268555,-0.15999999642372,1.7796680927277,ml,21,95,,0.109999999,uw,uw62059157,2024-12-12T21:03:00.070Z,"20 km SSE of Mossyrock, Washington",earthquake,0.71,0.449999988,0.27621418237686,13,automatic,uw,uw
 2024-12-12T20:51:26.901Z,62.3912,-152.0694,104,1.4,ml,,,,0.27,ak,ak024fy7p31u,2024-12-12T20:53:16.102Z,"56 km NW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-12T20:51:18.400Z,56,-159.56583333333,13.42,0.2,ml,5,296,0.07159,0.3,av,av93028314,2024-12-13T06:27:25.460Z,"12 km NNW of Ivanof Bay, Alaska",earthquake,3.57,1.58,0.23528434620022,5,reviewed,av,av
@@ -248,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T07:11:49.380Z,35.6143333,-117.4423333,7.07,1.11,ml,32,49,0.03215,0.13,ci,ci41000424,2024-12-12T14:02:20.580Z,"17 km SSW of Searles Valley, CA",earthquake,0.14,0.28,0.128,14,reviewed,ci,ci
 2024-12-12T07:01:48.980Z,19.143333435059,-155.36332702637,28.260000228882,1.95000005,md,22,224,0.09416,0.119999997,hv,hv74563192,2024-12-12T07:03:19.240Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.85,1.02999997,0.0500000007,3,automatic,hv,hv
 2024-12-12T06:58:11.190Z,18.5185,-68.7301,105,4.14,md,26,160,0.8971,0.5,pr,pr2024347001,2024-12-12T07:41:51.242Z,"10 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,3.8,2.49,0.12,25,reviewed,pr,pr
-2024-12-12T06:51:35.258Z,38.1565,-117.8163,7.8,1.4,ml,9,131.98,0.116,0.1797,nn,nn00889333,2024-12-12T06:54:12.009Z,"36 km SE of Mina, Nevada",earthquake,,0.6,0.63,6,automatic,nn,nn
-2024-12-12T06:51:05.560Z,39.741166666667,-111.21566666667,8.11,1.65,md,8,262,0.1013,0.13,uu,uu80097281,2024-12-12T17:10:26.480Z,"5 km WNW of Scofield, Utah",earthquake,3.95,4.28,0.11374156507166,7,reviewed,uu,uu
