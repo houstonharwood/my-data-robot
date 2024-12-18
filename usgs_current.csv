@@ -1,14 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-18T22:42:20.956Z,36.0515,-115.1636,0,1.8,ml,17,272.98,0.453,0.2881,nn,nn00889951,2024-12-18T22:45:58.415Z,"5 km SSW of Paradise, Nevada",earthquake,,29.8,0.2,14,automatic,nn,nn
 2024-12-18T22:39:36.598Z,62.2051,-151.2877,81.4,1.7,ml,,,,0.54,ak,ak024g861hdn,2024-12-18T22:41:17.028Z,"24 km NNE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-18T22:39:20.760Z,19.455667495727,-155.33166503906,4.1500000953674,1.97,ml,46,51,0.0515,0.159999996,hv,hv74570427,2024-12-18T22:42:11.610Z,"10 km W of Volcano, Hawaii",earthquake,0.29,0.829999983,0.24,7,automatic,hv,hv
 2024-12-18T22:35:12.848Z,38.6822,-117.1558,15.9,1.9,ml,8,183.23,0.497,0.2247,nn,nn00889949,2024-12-18T22:38:04.750Z,"59 km S of Kingston, Nevada",earthquake,,1.8,0.86,5,automatic,nn,nn
 2024-12-18T22:32:49.664Z,31.586,-104.47,3.8081,2.3,ml,18,130,0.1,0.5,tx,tx2024yuvt,2024-12-18T22:38:45.973Z,"65 km S of Whites City, New Mexico",earthquake,0,1.5414963960648,0.1,13,automatic,tx,tx
-2024-12-18T22:27:18.450Z,38.753665924072,-122.74866485596,1.6200000047684,0.77,md,11,109,0.003367,0.04,nc,nc75105031,2024-12-18T22:28:57.562Z,"3 km S of The Geysers, CA",earthquake,0.31,0.49000001,0.19,10,automatic,nc,nc
+2024-12-18T22:27:18.450Z,38.753665924072,-122.74866485596,1.6200000047684,0.77,md,11,109,0.003367,0.04,nc,nc75105031,2024-12-18T22:47:18.340Z,"3 km S of The Geysers, CA",earthquake,0.31,0.49000001,0.19,10,automatic,nc,nc
 2024-12-18T22:13:51.505Z,39.1943,-119.0337,0.3,1.5,ml,11,106.32,0.264,0.3021,nn,nn00889946,2024-12-18T22:16:15.178Z,"25 km NNE of Yerington, Nevada",earthquake,,16.8,0.22,6,automatic,nn,nn
 2024-12-18T22:08:52.440Z,35.9096667,-117.7475,7.57,0.95,ml,24,45,0.0694,0.11,ci,ci40824151,2024-12-18T22:12:24.798Z,"15 km ESE of Little Lake, CA",earthquake,0.14,0.4,0.131,15,automatic,ci,ci
 2024-12-18T22:03:30.140Z,38.825164794922,-122.84100341797,2.1800000667572,0.7,md,6,104,0.005095,0.01,nc,nc75105016,2024-12-18T22:22:14.632Z,"9 km NW of The Geysers, CA",earthquake,0.66,1.77999997,0.45,8,automatic,nc,nc
 2024-12-18T21:57:32.711Z,59.7478,-153.4984,117.6,2.1,ml,,,,0.29,ak,ak024g85jwd3,2024-12-18T21:59:20.889Z,"34 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-18T21:53:19.916Z,39.1727,-119.0483,8.3,1.3,ml,8,134.9,0.008,0.0891,nn,nn00889945,2024-12-18T21:56:54.249Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.26,4,automatic,nn,nn
+2024-12-18T21:53:20.392Z,39.1647,-119.0254,8.1,1.4,ml,10,86.82,0.011,0.1643,nn,nn00889945,2024-12-18T22:49:10.506Z,"23 km NNE of Yerington, Nevada",earthquake,,0.9,0.09,5,reviewed,nn,nn
 2024-12-18T21:39:47.520Z,32.5958333,-116.9713333,4.85,1.11,ml,11,253,0.03669,0.19,ci,ci40824127,2024-12-18T21:43:11.016Z,"8 km ESE of Chula Vista, CA",earthquake,1.09,0.48,0.247,8,automatic,ci,ci
 2024-12-18T21:30:04.740Z,19.388833999634,-155.27966308594,1.3700000047684,1.8,ml,22,58,0.002999,0.109999999,hv,hv74570377,2024-12-18T21:32:56.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.159999996,0.3,9,automatic,hv,hv
 2024-12-18T21:25:31.360Z,60.9285,-147.444,28.8,1.7,ml,,,,0.66,ak,ak024g85d1cg,2024-12-18T21:27:24.987Z,"42 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T23:03:55.993Z,61.1847,-151.3633,68.5,1.7,ml,,,,0.35,ak,ak024g6ivw0x,2024-12-17T23:07:09.921Z,"15 km WNW of Beluga, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-12-17T22:59:12.700Z,33.3566667,-116.4293333,11.23,1.7,ml,74,26,0.06001,0.2,ci,ci41003992,2024-12-18T01:33:19.070Z,"12 km NNW of Borrego Springs, CA",earthquake,0.15,0.26,0.209,27,reviewed,ci,ci
 2024-12-17T22:55:33.840Z,38.826667785645,-122.80200195312,2.2000000476837,0.77,md,9,77,0.007102,0.01,nc,nc75104616,2024-12-17T23:52:16.211Z,"7 km NNW of The Geysers, CA",earthquake,0.42,1.08000004,0.13,9,automatic,nc,nc
-2024-12-17T22:46:09.560Z,38.84700012207,-122.73699951172,11.539999961853,0.74,md,6,201,0.04959,0.01,nc,nc75104611,2024-12-17T23:07:17.891Z,"3 km NNW of Cobb, CA",earthquake,1.98,1.79999995,0.16,5,automatic,nc,nc
