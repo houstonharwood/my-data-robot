@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-20T14:31:28.430Z,40.383335113525,-125.12483215332,-0.23999999463558,2.94,md,13,282,0.6054,0.29,nc,nc75105836,2024-12-20T14:33:01.598Z,"71 km WNW of Petrolia, CA",earthquake,8.17,15.2600002,0.02,5,automatic,nc,nc
 2024-12-20T14:23:36.410Z,33.6465,-116.6856667,10.87,0.55,ml,13,185,0.07517,0.23,ci,ci40825967,2024-12-20T14:28:29.378Z,"10 km N of Anza, CA",earthquake,0.85,1.21,0.085,8,automatic,ci,ci
 2024-12-20T14:19:25.710Z,19.114999771118,-155.49600219727,30.760000228882,2.05999994,md,26,176,0.05141,0.180000007,hv,hv74571627,2024-12-20T14:21:08.220Z,"9 km S of Pāhala, Hawaii",earthquake,0.87,0.99000001,0.239999995,4,automatic,hv,hv
 2024-12-20T14:11:26.799Z,62.878,-151.1617,104.2,1.6,ml,,,,0.23,ak,ak024gbc6opz,2024-12-20T14:13:52.286Z,"47 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -248,6 +249,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T19:30:59.799Z,13.6771,144.7346,102.501,4.6,mb,42,69,0.157,0.77,us,us7000p051,2024-12-19T20:23:08.648Z,"20 km NNW of Dededo Village, Guam",earthquake,9.8,0.899,0.091,36,reviewed,us,us
 2024-12-19T19:24:38.942Z,61.7174,-151.1091,63.6,1.8,ml,,,,0.43,ak,ak024g9rpbhy,2024-12-19T19:26:47.493Z,"33 km SSE of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-12-19T19:22:19.121Z,11.9353,126.6311,10,5.1,mww,111,83,4.945,0.66,us,us7000p04x,2024-12-19T19:42:06.040Z,"125 km E of Dapdap, Philippines",earthquake,9.14,1.841,0.073,18,reviewed,us,us
+2024-12-19T19:20:23.862Z,32.138,-101.084,8.5205,1.9,ml,24,78,0.2,0.1,tx,tx2024ywkw,2024-12-20T14:37:28.889Z,"25 km SSW of Westbrook, Texas",earthquake,1.0449499761004,2.1383831824726,0.2,19,reviewed,tx,tx
 2024-12-19T19:10:30.230Z,61.353166666667,-152.30866666667,4.46,-0.48,ml,8,142,0.09926,0.13,av,av93028924,2024-12-20T02:08:47.230Z,"69 km WNW of Beluga, Alaska",earthquake,0.38,4.99,0.11117494525548,8,reviewed,av,av
 2024-12-19T18:55:52.750Z,46.954333333333,-121.935,11,1.12,ml,28,101,0.03526,0.09,uw,uw62060042,2024-12-19T19:17:55.890Z,"16 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.12267444850657,18,reviewed,uw,uw
 2024-12-19T18:53:58.936Z,61.6669,-149.9869,28.1,1.8,ml,,,,0.21,ak,ak024g9ra579,2024-12-19T18:56:07.485Z,"9 km SSE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -263,7 +265,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T18:01:40.070Z,19.310333333333,-155.209,1.12,1.84,ml,39,131,0.0325,0.12,hv,hv74570942,2024-12-20T03:08:33.040Z,"14 km S of Volcano, Hawaii",earthquake,0.2,0.3,0.16037913799051,30,reviewed,hv,hv
 2024-12-19T17:54:41.520Z,40.581,-111.37966666667,-2,1.84,ml,11,113,0.03369,0.23,uu,uu80098116,2024-12-19T19:12:01.680Z,"6 km SSE of Hideout, Utah",quarry blast,0.82,31.61,0.038574666741541,2,reviewed,uu,uu
 2024-12-19T17:51:03.743Z,63.8985,-149.0382,70.7,2,ml,,,,1.87,ak,ak024g9qo5wm,2024-12-19T17:53:36.640Z,"5 km NW of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-12-19T17:37:44.530Z,31.598,-103.947,6.5623,1.6,ml,16,76,0,0.3,tx,tx2024ywhm,2024-12-19T17:45:04.865Z,"34 km NNW of Toyah, Texas",earthquake,0,2.2243432998657,0.1,12,automatic,tx,tx
+2024-12-19T17:37:44.622Z,31.607,-103.955,8.7018,1.6,ml,18,58,0,0.1,tx,tx2024ywhm,2024-12-20T14:37:54.894Z,"35 km WSW of Mentone, Texas",earthquake,0.33461850754719,0.40951255978644,0.2,22,reviewed,tx,tx
 2024-12-19T17:35:52.850Z,33.5995,-116.6351667,12.55,0.18,ml,14,76,0.03271,0.05,ci,ci37693396,2024-12-19T18:05:35.223Z,"6 km NE of Anza, CA",earthquake,0.15,0.28,0.105,9,reviewed,ci,ci
 2024-12-19T17:35:28.590Z,33.5996667,-116.6363333,12.3,0.25,ml,11,84,0.03369,0.05,ci,ci40824911,2024-12-19T17:57:43.131Z,"6 km NE of Anza, CA",earthquake,0.22,0.37,0.098,3,reviewed,ci,ci
 2024-12-19T17:13:07.500Z,36.182834625244,-121.35350036621,33.619998931885,1.54,md,7,146,0.1078,0.17,nc,nc75105386,2024-12-19T18:12:24.150Z,"18 km SW of Greenfield, CA",earthquake,3.02,7.86999989,0.42,6,automatic,nc,nc
