@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-30T04:27:17.860Z,40.26216506958,-124.60749816894,15.39999961853,2.67,ml,18,283,0.2402,0.13,nc,nc75109591,2024-12-30T04:29:20.839Z,"28 km W of Petrolia, CA",earthquake,3.07,1.42999995,1.62,5,automatic,nc,nc
+2024-12-30T04:25:53.936Z,63.012,-149.4661,75.3,1.6,ml,,,,0.55,ak,ak024grpovq9,2024-12-30T04:27:40.179Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-12-30T04:19:18.680Z,38.832164764404,-122.87666320801,2.0499999523163,0.47,md,9,174,0.008045,0.02,nc,nc75109581,2024-12-30T04:20:55.989Z,"12 km NW of The Geysers, CA",earthquake,0.81,0.5,0.33,10,automatic,nc,nc
 2024-12-30T03:39:44.730Z,35.3448334,-117.7949982,6.4,1.96,ml,35,90,0.08771,0.17,ci,ci40829975,2024-12-30T03:41:53.147Z,"15 km WSW of Johannesburg, CA",earthquake,0.27,0.72,0.237,17,automatic,ci,ci
 2024-12-30T03:27:44.540Z,35.9058333,-117.7003333,2.48,1.23,ml,23,49,0.05836,0.13,ci,ci40829967,2024-12-30T03:31:20.919Z,"19 km E of Little Lake, CA",earthquake,0.15,0.25,0.161,25,automatic,ci,ci
 2024-12-30T03:17:54.030Z,38.748332977295,-122.72483062744,0.99000000953674,1.36,md,14,79,0.01324,0.05,nc,nc75109566,2024-12-30T03:37:16.979Z,"4 km SW of Anderson Springs, CA",earthquake,0.38,0.349999994,0.13,14,automatic,nc,nc
@@ -45,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T21:42:31.940Z,33.1206667,-116.4355,11.58,0.84,ml,32,38,0.04331,0.19,ci,ci40829903,2024-12-29T21:47:12.387Z,"16 km SSW of Borrego Springs, CA",earthquake,0.24,0.62,0.102,17,automatic,ci,ci
 2024-12-29T21:38:02.470Z,19.186332702637,-155.46217346191,30.930000305176,2.35,ml,59,107,0.03076,0.109999999,hv,hv74579677,2024-12-29T21:41:10.020Z,"2 km SE of Pāhala, Hawaii",earthquake,0.41,0.479999989,0.52,11,automatic,hv,hv
 2024-12-29T21:32:13.804Z,61.6984,-150.1027,19.6,2.1,ml,,,,0.52,ak,ak024gqcbbfo,2024-12-29T21:34:13.215Z,"6 km SSW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-12-29T21:11:34.300Z,44.399666666667,-124.42433333333,29.67,2.68,ml,17,180,0.2499,0.17,uw,uw62060867,2024-12-29T22:07:41.590Z,"27 km WNW of Yachats, Oregon",earthquake,0.38,0.35,0.099779363782774,11,reviewed,uw,uw
+2024-12-29T21:11:34.300Z,44.399666666667,-124.42433333333,29.67,2.68,ml,17,180,0.2499,0.17,uw,uw62060867,2024-12-30T04:24:29.040Z,"27 km WNW of Yachats, Oregon",earthquake,0.38,0.35,0.099779363782774,11,reviewed,uw,uw
 2024-12-29T21:08:25.777Z,37.9646,-117.9266,7,2,ml,16,118.35,0.239,0.2909,nn,nn00890836,2024-12-29T21:11:26.070Z,"34 km NW of Silver Peak, Nevada",earthquake,,0.7,0.21,10,automatic,nn,nn
 2024-12-29T21:06:25.070Z,40.270999908447,-124.49983215332,20.959999084473,2.73,md,5,296,0.2621,0,nc,nc75109416,2024-12-29T21:42:17.460Z,"19 km W of Petrolia, CA",earthquake,4.71,1.16999996,0.03,4,automatic,nc,nc
 2024-12-29T21:05:21.920Z,37.740833282471,-119.34549713135,-2.0599999427795,2.09,md,24,152,0.2373,0.08,nc,nc75109411,2024-12-30T04:05:33.040Z,"20 km E of Yosemite Valley, CA",earthquake,0.52,7.05999994,0.25,23,automatic,nc,nc
@@ -196,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T04:38:54.577Z,64.5492,-149.2668,9.6,2,ml,,,,0.45,ak,ak024gq28bld,2024-12-29T04:40:36.672Z,"8 km W of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-29T04:37:24.850Z,32.9276667,-116.8453333,15.23,0.73,ml,32,48,0.03674,0.25,ci,ci40829679,2024-12-29T04:41:23.759Z,"10 km SSW of San Diego Country Estates, CA",earthquake,0.28,0.57,0.187,13,automatic,ci,ci
 2024-12-29T04:33:53.602Z,31.887,-101.734,3.276,1.2,ml,23,53,0,0.5,tx,tx2024znoq,2024-12-29T04:41:17.086Z,"24 km W of Garden City, Texas",earthquake,0,1.2608940601349,0.3,13,automatic,tx,tx
-2024-12-29T04:19:17.758Z,64.9701,-147.5108,7.9,1.2,ml,,,,0.36,ak,ak024gq2465b,2024-12-29T04:21:26.134Z,"5 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
