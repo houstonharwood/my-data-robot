@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-04T22:27:00.360Z,40.396499633789,-124.80066680908,9.9499998092651,2.8,md,8,294,0.3622,0.07,nc,nc75112931,2025-01-04T22:28:26.606Z,"44 km WNW of Petrolia, CA",earthquake,6.33,5.26999998,0.04,8,automatic,nc,nc
+2025-01-04T22:27:00.360Z,40.396499633789,-124.80066680908,9.9499998092651,2.8,md,8,294,0.3622,0.07,nc,nc75112931,2025-01-04T22:32:17.398Z,"44 km WNW of Petrolia, CA",earthquake,6.33,5.26999998,0.04,8,automatic,nc,nc
 2025-01-04T22:09:41.610Z,33.8121667,-116.1441667,8.87,1.4,ml,49,36,0.06621,0.17,ci,ci40833895,2025-01-04T22:20:21.010Z,"12 km NNE of Indio, CA",earthquake,0.16,0.43,0.159,27,automatic,ci,ci
 2025-01-04T22:07:54.290Z,33.0793333,-116.0371667,9.24,1.07,ml,43,36,0.1063,0.2,ci,ci40833887,2025-01-04T22:12:37.351Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.23,0.75,0.134,26,automatic,ci,ci
 2025-01-04T22:02:16.400Z,38.827167510986,-122.77549743652,1.5900000333786,1.08,md,13,84,0.005469,0.02,nc,nc75112926,2025-01-04T22:03:51.455Z,"5 km WNW of Cobb, CA",earthquake,0.29,0.460000008,0.07,13,automatic,nc,nc
@@ -150,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-04T01:21:17.860Z,38.833999633789,-122.81616973877,1.1399999856949,0.73,md,14,57,0.01577,0.02,nc,nc75112676,2025-01-04T01:22:53.943Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.800000012,0.15,16,automatic,nc,nc
 2025-01-04T01:01:55.730Z,19.355167388916,-155.12983703613,5.460000038147,1.91,ml,44,101,0.02983,0.180000007,hv,hv74583387,2025-01-04T01:05:09.780Z,"12 km S of Fern Forest, Hawaii",earthquake,0.43,0.660000026,1.02,6,automatic,hv,hv
 2025-01-04T00:59:06.080Z,34.9833333,-116.4405,1.45,2.03,ml,21,85,0.1654,0.12,ci,ci40833519,2025-01-04T01:02:38.455Z,"38 km SE of Fort Irwin, CA",earthquake,0.15,0.31,0.173,26,automatic,ci,ci
-2025-01-04T00:52:21.123Z,9.4796,40.1535,8,5.7,mww,111,36,3.342,0.95,us,us6000phrk,2025-01-04T20:24:18.093Z,"54 km N of Āwash, Ethiopia",earthquake,9.53,1.854,0.056,31,reviewed,us,us
+2025-01-04T00:52:21.123Z,9.4796,40.1535,8,5.7,mww,111,36,3.342,0.95,us,us6000phrk,2025-01-04T22:36:37.171Z,"54 km N of Āwash, Ethiopia",earthquake,9.53,1.854,0.056,31,reviewed,us,us
 2025-01-04T00:46:40.070Z,35.4993333,-118.2868333,3.39,1.06,ml,26,80,0.1252,0.2,ci,ci40833511,2025-01-04T00:50:31.880Z,"21 km ESE of Bodfish, CA",earthquake,0.27,0.95,0.248,17,automatic,ci,ci
 2025-01-04T00:36:32.670Z,18.038666666667,-66.806166666667,13.7,1.99,md,7,140,0.09403,0.15,pr,pr71470123,2025-01-04T01:06:09.730Z,"2 km NW of Guayanilla, Puerto Rico",earthquake,0.61,0.63,0.1968619961586,5,reviewed,pr,pr
 2025-01-04T00:27:55.076Z,37.3721,-117.1322,6.8,2.5,ml,34,105.48,0.125,0.134,nn,nn00891366,2025-01-04T22:25:25.040Z,"38 km SSE of Goldfield, Nevada",earthquake,,2.2,0.43,16,reviewed,nn,nn
@@ -167,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T22:41:06.119Z,32.483,-101.653,4.4827,1.1,ml,21,63,0.1,0.2,tx,tx2025afkf,2025-01-03T22:46:46.996Z,"7 km SE of Ackerly, Texas",earthquake,0,1.2766848802567,0.2,14,automatic,tx,tx
 2025-01-03T22:40:02.926Z,64.9703,-147.4202,1.9,1.4,ml,,,,0.58,ak,ak0255by5ns,2025-01-03T22:42:50.162Z,"9 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-03T22:38:37.150Z,38.840831756592,-122.83766937256,1.7799999713898,1.05,md,20,87,0.002814,0.01,nc,nc75112626,2025-01-03T22:40:13.011Z,"10 km NNW of The Geysers, CA",earthquake,0.2,0.389999986,0.1,22,automatic,nc,nc
-2025-01-03T22:36:48.220Z,38.841167449951,-122.83850097656,1.6499999761581,0.71,md,9,116,0.003488,0.01,nc,nc75112621,2025-01-03T22:38:22.980Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.550000012,0.28,12,automatic,nc,nc
-2025-01-03T22:32:50.009Z,60.0457,-141.659,17.4,2.1,ml,,,,0.61,ak,ak0255bwjk8,2025-01-03T22:34:45.514Z,"121 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
