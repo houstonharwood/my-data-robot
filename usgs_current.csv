@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T07:59:09.640Z,31.617,-104.006,7.702,1.7,ml,27,55,0,0.1,tx,tx2025ayjj,2025-01-14T13:57:44.927Z,"39 km NNW of Toyah, Texas",earthquake,0.39186329809757,0.56068321031386,0.2,59,reviewed,tx,tx
 2025-01-14T07:43:34.955Z,31.732,-104.093,6.5485,2.1,ml,21,61,0.1,0.2,tx,tx2025ayiv,2025-01-14T13:56:10.823Z,"46 km W of Mentone, Texas",earthquake,0.45741842878193,0.45075658612963,0.2,17,reviewed,tx,tx
 2025-01-14T07:38:36.268Z,45.2827,150.8942,60.941,4.5,mb,40,144,5.897,0.59,us,us6000pjw5,2025-01-14T10:02:41.040Z,"236 km E of Kuril’sk, Russia",earthquake,12.05,8.086,0.099,30,reviewed,us,us
-2025-01-14T07:35:43.493Z,39.154,-119.0615,6,1.1,ml,10,88.37,0.023,0.1315,nn,nn00891962,2025-01-14T07:37:57.422Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.34,6,automatic,nn,nn
+2025-01-14T07:35:43.912Z,39.1613,-119.0536,6.4,1,ml,10,77.52,0.014,0.1303,nn,nn00891962,2025-01-14T22:19:21.324Z,"21 km NNE of Yerington, Nevada",earthquake,,1.9,0.23,5,reviewed,nn,nn
 2025-01-14T07:35:29.170Z,38.834499359131,-122.81549835205,1.6100000143051,0.72,md,10,58,0.01187,0.01,nc,nc75116961,2025-01-14T07:37:05.240Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.959999979,0.3,11,automatic,nc,nc
 2025-01-14T07:22:05.960Z,46.944666666667,-112.6405,9.52,1.05,ml,6,130,0.0151,0.07,mb,mb90070928,2025-01-14T15:29:47.200Z,"3 km ESE of Lincoln, Montana",earthquake,1.41,1.03,0.32352876062567,8,reviewed,mb,mb
 2025-01-14T07:21:49.140Z,60.7226,-151.9998,54.3,1.5,ml,,,,0.69,ak,ak025n9thz6,2025-01-14T20:45:01.910Z,"38 km W of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -170,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T03:43:21.714Z,60.7668,-151.0763,41.8,2,ml,,,,0.26,ak,ak025n7kf6z,2025-01-14T03:44:40.068Z,"14 km NE of Nikiski, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-01-14T03:39:17.646Z,57.3696,-155.8828,19.7,1.9,ml,,,,0.29,ak,ak025n7jk0k,2025-01-14T03:41:43.664Z,"88 km WSW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-14T03:28:26.631Z,63.2132,-150.9079,0,2.1,ml,,,,0.77,ak,ak025n7h7tz,2025-01-14T03:30:41.715Z,"54 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-14T03:28:25.940Z,61.316666666667,-152.29766666667,0.94,-0.07,ml,9,125,0.06807,0.08,av,av93455596,2025-01-14T22:17:54.730Z,"68 km WNW of Beluga, Alaska",earthquake,0.24,0.96,0.29744570508922,10,reviewed,av,av
 2025-01-14T03:27:25.830Z,58.296166666667,-154.99066666667,3.04,-0.41,ml,5,142,0.0383,0.07,av,av93455586,2025-01-14T22:08:37.960Z,"86 km NNW of Karluk, Alaska",earthquake,0.38,0.6,0.23184405770019,5,reviewed,av,av
 2025-01-14T03:24:52.350Z,61.046166666667,-152.32516666667,15.16,0.05,ml,5,288,0.1501,0.04,av,av93455581,2025-01-14T22:06:17.160Z,"64 km W of Tyonek, Alaska",earthquake,0.8,0.99,0.37057464320988,6,reviewed,av,av
 2025-01-14T03:21:45.123Z,32.097,-101.476,8.1299,2.2,ml,18,59,0.1,0.1,tx,tx2025ayaf,2025-01-14T16:05:52.103Z,"10 km W of Forsan, Texas",earthquake,0.47201256503317,0.6731303817261,0.1,48,reviewed,tx,tx
@@ -206,11 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T22:48:31.552Z,-6.0211,151.2889,10,4.4,mb,12,291,5.295,0.39,us,us6000pju2,2025-01-13T23:11:56.040Z,"137 km ESE of Kimbe, Papua New Guinea",earthquake,13.38,2.016,0.169,10,reviewed,us,us
 2025-01-13T22:39:33.920Z,37.706001281738,-122.54316711426,8.8800001144409,1.81,md,14,105,0.1042,0.03,nc,nc75116796,2025-01-14T04:51:46.060Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.48,0.970000029,0.23,10,automatic,nc,nc
 2025-01-13T22:36:44.718Z,60.3499,-152.255,85.1,1.7,ml,,,,0.51,ak,ak025lvauyf,2025-01-13T22:38:36.661Z,"46 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-01-13T22:26:39.680Z,37.707332611084,-122.55149841309,8.4300003051758,2.3,md,37,108,0.1067,0.06,nc,nc75116786,2025-01-14T00:40:10.515Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.22,0.519999981,0.12,34,automatic,nc,nc
-2025-01-13T22:23:32.084Z,-21.3709,-67.9405,187.958,4.4,mb,17,197,1.283,0.49,us,us6000pjtr,2025-01-13T22:35:33.040Z,"36 km ESE of Ollagüe, Chile",earthquake,8.99,8.554,0.155,12,reviewed,us,us
-2025-01-13T22:18:52.708Z,59.0419,-154.1179,92.7,2.2,ml,,,,0.69,ak,ak025lv70om,2025-01-13T22:21:56.489Z,"58 km SE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-01-13T22:18:29.470Z,46.6555,-121.87416666667,4.85,0.42,ml,20,228,0.07568,0.1,uw,uw62062242,2025-01-14T03:59:58.500Z,"16 km WNW of Packwood, Washington",earthquake,0.47,1.09,0.23170805040129,7,reviewed,uw,uw
-2025-01-13T22:18:11.420Z,37.706165313721,-122.54766845703,7.9200000762939,2.37,md,49,106,0.106,0.12,nc,nc75116781,2025-01-13T23:18:51.139Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.26,0.639999986,0.15,47,automatic,nc,nc
-2025-01-13T22:17:30.840Z,17.947833333333,-66.794166666667,10.4,2.32,md,9,214,0.07182,0.07,pr,pr71470793,2025-01-13T22:29:32.270Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.47,0.58,0.016036547921029,4,reviewed,pr,pr
-2025-01-13T22:16:19.300Z,38.836334228516,-122.80683135986,1.8999999761581,0.72,md,10,61,0.01304,0.02,nc,nc75116776,2025-01-13T22:17:53.898Z,"7 km WNW of Cobb, CA",earthquake,0.3,1.30999994,0.13,10,automatic,nc,nc
-2025-01-13T22:16:08.797Z,32.231,-101.911,6.2744,1.4,ml,37,45,0,0.1,tx,tx2025axqc,2025-01-14T14:55:46.616Z,"16 km NW of Stanton, Texas",earthquake,0.38856690554771,0.48335038930583,0.2,36,reviewed,tx,tx
