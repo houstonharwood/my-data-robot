@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-19T13:15:15.780Z,33.4551659,-116.3888321,13.57,1.13,ml,22,142,0.1138,0.13,ci,ci40843231,2025-01-19T13:17:18.233Z,"22 km N of Borrego Springs, CA",earthquake,0.56,1.15,0.329,7,automatic,ci,ci
+2025-01-19T13:24:56.540Z,38.833168029785,-122.81632995606,1.3099999427795,0.26,md,10,89,0.01091,0.01,nc,nc75119686,2025-01-19T13:26:35.464Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.790000021,0.15,10,automatic,nc,nc
+2025-01-19T13:15:15.950Z,33.4536667,-116.4015,12.54,0.57,ml,38,89,0.1192,0.15,ci,ci40843231,2025-01-19T13:19:09.528Z,"22 km N of Borrego Springs, CA",earthquake,0.19,0.54,0.109,12,automatic,ci,ci
 2025-01-19T13:12:12.790Z,40.294498443604,-124.44866943359,19.139999389648,2.1,md,19,266,0.08137,0.09,nc,nc75119681,2025-01-19T13:17:20.489Z,"14 km W of Petrolia, CA",earthquake,1.84,0.419999987,0.18,15,automatic,nc,nc
+2025-01-19T13:07:48.590Z,17.934333333333,-66.983333333333,10.29,1.61,md,5,231,0.06766,0.06,pr,pr71471123,2025-01-19T13:24:21.910Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.62,0.79,0.063913184431012,3,reviewed,pr,pr
 2025-01-19T12:54:41.255Z,60.8948,-151.3627,65.5,1.8,ml,,,,0.31,ak,ak025vmoghp,2025-01-19T12:57:08.565Z,"22 km SSW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-19T12:48:08.130Z,33.3278333,-116.3113333,11.28,0.98,ml,65,53,0.03447,0.19,ci,ci40843215,2025-01-19T12:59:03.620Z,"10 km NE of Borrego Springs, CA",earthquake,0.16,0.3,0.187,26,automatic,ci,ci
 2025-01-19T12:37:57.965Z,58.1641,-155.3988,1.1,0.7,ml,,,,0.14,ak,ak025vmkulw,2025-01-19T12:39:24.586Z,"86 km NW of Karluk, Alaska",earthquake,,4,,,automatic,ak,ak
@@ -117,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-18T22:46:29.150Z,34.3615,-116.6768333,3.02,2.49,ml,85,31,0.05329,0.14,ci,ci40842895,2025-01-19T00:04:13.840Z,"19 km NE of Big Bear City, CA",earthquake,0.09,0.37,0.143,25,automatic,ci,ci
 2025-01-18T22:30:42.080Z,59.9159,-152.5443,89.7,2.3,ml,,,,0.36,ak,ak025u4yaxk,2025-01-18T22:32:39.971Z,"42 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-18T22:16:07.689Z,31.707,-104.26,4.4046,1.7,ml,21,52,0,0.4,tx,tx2025bgtq,2025-01-18T22:54:16.917Z,"53 km SSE of Whites City, New Mexico",earthquake,0,1.2592191696167,0.2,15,automatic,tx,tx
-2025-01-18T22:13:40.144Z,41.5253,-72.4584,10.326,1.8,ml,5,238,0.333,0.64,us,us6000pl1j,2025-01-19T05:02:12.050Z,"2 km NNW of Moodus, Connecticut",earthquake,2.29,10.088,0.115,10,reviewed,us,us
+2025-01-18T22:13:40.144Z,41.5253,-72.4584,10.326,1.8,ml,5,238,0.333,0.64,us,us6000pl1j,2025-01-19T13:24:08.642Z,"2 km NNW of Moodus, Connecticut",earthquake,2.29,10.088,0.115,10,reviewed,us,us
 2025-01-18T22:05:20.980Z,34.0486667,-117.1328333,6.08,1.07,ml,52,25,0.02147,0.17,ci,ci40842887,2025-01-18T22:13:04.968Z,"2 km S of Mentone, CA",earthquake,0.14,0.39,0.218,29,automatic,ci,ci
 2025-01-18T22:03:55.630Z,35.3401667,-117.8011667,5.95,0.77,ml,21,96,0.08125,0.19,ci,ci40842871,2025-01-18T22:08:45.936Z,"16 km WSW of Johannesburg, CA",earthquake,0.3,0.72,0.25,8,automatic,ci,ci
 2025-01-18T21:51:19.000Z,35.953,-117.6793333,5.14,0.68,ml,17,61,0.02404,0.09,ci,ci40842855,2025-01-18T21:54:50.647Z,"20 km E of Little Lake, CA",earthquake,0.16,0.33,0.16,7,automatic,ci,ci
@@ -183,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-18T13:51:23.678Z,32.541,-101.129,2.792,1.1,ml,11,129,0.1,0.4,tx,tx2025bgcz,2025-01-18T14:00:59.753Z,"23 km NNW of Westbrook, Texas",earthquake,0,1.864230632782,0.1,6,automatic,tx,tx
 2025-01-18T13:47:09.746Z,31.672,-104.407,4.6723,1.9,ml,18,70,0,0.3,tx,tx2025bgcv,2025-01-18T14:01:04.753Z,"55 km S of Whites City, New Mexico",earthquake,0,1.631351351738,0.1,9,automatic,tx,tx
 2025-01-18T13:39:22.030Z,37.712833404541,-122.54183197022,7.1599998474121,0.96,md,8,197,0.09789,0.02,nc,nc75119136,2025-01-18T13:40:59.459Z,"4 km WSW of San Francisco Zoo, CA",earthquake,0.72,1.42999995,0.02,5,automatic,nc,nc
-2025-01-18T13:20:12.750Z,36.318,-89.469833333333,4.97,2.37,md,29,35,0.02107,0.05,nm,nm60596851,2025-01-18T14:35:00.410Z,"6 km NNE of Ridgely, Tennessee",earthquake,0.19,0.25,0.11293943520202,28,reviewed,nm,nm
-2025-01-18T13:19:20.152Z,-8.1387,119.9713,175.485,4.5,mb,24,71,1.554,0.64,us,us6000pkxx,2025-01-18T14:24:38.040Z,"40 km NNE of Labuan Bajo, Indonesia",earthquake,8.11,8.863,0.157,12,reviewed,us,us
