@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T11:01:59.750Z,36.686832427979,-121.3561630249,0.73000001907349,1.76,md,19,56,0.022,0.18,nc,nc75120191,2025-01-20T11:03:38.810Z,"12 km SSW of Tres Pinos, CA",earthquake,0.36,0.860000014,0.2,17,automatic,nc,nc
 2025-01-20T10:48:36.020Z,18.185666666667,-67.268166666667,18.4,3.29,md,23,218,0.1214,0.19,pr,pr71471168,2025-01-20T11:17:48.760Z,"13 km W of Mayagüez, Puerto Rico",earthquake,0.7,0.44,0.17906742666409,17,reviewed,pr,pr
 2025-01-20T10:48:28.400Z,38.791332244873,-122.77216339111,3.4300000667572,1.11,md,24,78,0.01245,0.03,nc,nc75120186,2025-01-20T10:50:02.644Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.600000024,0.16,24,automatic,nc,nc
-2025-01-20T10:43:02.069Z,13.9717,120.6437,136.164,5.4,mww,126,18,8.808,0.86,us,us6000pl78,2025-01-20T13:05:33.057Z,"0 km ENE of Binubusan, Philippines",earthquake,9.24,4.81,0.043,52,reviewed,us,us
+2025-01-20T10:43:02.069Z,13.9717,120.6437,136.164,5.4,mww,126,18,8.808,0.86,us,us6000pl78,2025-01-20T15:39:26.430Z,"0 km ENE of Binubusan, Philippines",earthquake,9.24,4.81,0.043,52,reviewed,us,us
 2025-01-20T10:25:19.963Z,62.8891,-150.5263,88.1,1.6,ml,,,,0.25,ak,ak025x8unkg,2025-01-20T10:28:21.086Z,"45 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-20T10:23:33.480Z,61.7707,-151.6647,85.7,2,ml,,,,0.62,ak,ak025x8u9z8,2025-01-20T10:25:39.453Z,"28 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-20T10:02:08.550Z,33.5673333,-116.7336667,7.56,0.43,ml,15,71,0.003595,0.2,ci,ci40843783,2025-01-20T10:06:29.391Z,"6 km WNW of Anza, CA",earthquake,0.44,0.75,0.262,11,automatic,ci,ci
@@ -56,14 +56,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T08:21:36.470Z,34.6691667,-119.4896667,5.78,0.91,ml,14,96,0.09975,0.15,ci,ci40843751,2025-01-20T08:26:16.538Z,"29 km NNE of Montecito, CA",earthquake,0.29,1.17,0.17,7,automatic,ci,ci
 2025-01-20T08:19:12.650Z,34.0455,-117.1325,7.32,1.18,ml,75,25,0.01945,0.16,ci,ci40843743,2025-01-20T08:29:57.880Z,"3 km S of Mentone, CA",earthquake,0.12,0.32,0.166,27,automatic,ci,ci
 2025-01-20T08:08:17.200Z,38.825164794922,-122.85583496094,2.329999923706,0.9,md,15,114,0.002511,0.02,nc,nc75120151,2025-01-20T08:09:55.230Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.479999989,0.2,18,automatic,nc,nc
-2025-01-20T08:05:51.082Z,31.669,-104.493,8.8873,1.8,ml,10,123,0.1,0.4,tx,tx2025bjio,2025-01-20T08:34:48.321Z,"57 km S of Whites City, New Mexico",earthquake,0,4.16779088974,0.2,8,automatic,tx,tx
 2025-01-20T08:05:31.264Z,31.648,-104.116,1.5428,1,ml,9,140,0,0.7,tx,tx2025bjip,2025-01-20T08:34:03.319Z,"48 km NW of Toyah, Texas",earthquake,0,1.789372086525,0.7,6,automatic,tx,tx
 2025-01-20T08:01:06.853Z,37.3069,-115.8298,1.4,1,ml,17,183.27,0.256,0.311,nn,nn00892268,2025-01-20T08:03:15.618Z,"38 km SSW of Rachel, Nevada",earthquake,,17.8,0.39,10,automatic,nn,nn
 2025-01-20T07:53:46.290Z,32.999,-116.4428333,8.04,0.79,ml,43,45,0.03831,0.18,ci,ci40843735,2025-01-20T07:58:15.390Z,"17 km ESE of Julian, CA",earthquake,0.18,0.48,0.125,14,automatic,ci,ci
 2025-01-20T07:39:02.540Z,36.049,-117.8101667,0.85,1,ml,16,95,0.04346,0.15,ci,ci40843727,2025-01-20T07:42:32.334Z,"12 km E of Coso Junction, CA",earthquake,0.21,0.31,0.192,15,automatic,ci,ci
 2025-01-20T07:37:17.728Z,-20.573,-69.956,64.62,3.7,mb,13,114,0.308,0.54,us,us6000pl6j,2025-01-20T15:27:29.458Z,"36 km SSE of La Tirana, Chile",earthquake,4.04,5.782,0.292,3,reviewed,us,us
 2025-01-20T07:15:36.564Z,-30.1683,-178.1078,58.787,4.4,mb,13,157,0.918,0.92,us,us6000pl6i,2025-01-20T08:40:57.040Z,"Kermadec Islands, New Zealand",earthquake,13.1,12.757,0.162,11,reviewed,us,us
-2025-01-20T07:06:48.130Z,34.0651667,-118.9636667,11.17,2.56,ml,91,144,0.00654,0.27,ci,ci40843719,2025-01-20T15:35:54.086Z,"16 km WNW of Malibu, CA",earthquake,0.26,0.31,0.122,25,automatic,ci,ci
+2025-01-20T07:06:48.130Z,34.0651667,-118.9636667,11.17,2.56,ml,91,144,0.00654,0.27,ci,ci40843719,2025-01-20T15:41:36.157Z,"16 km WNW of Malibu, CA",earthquake,0.26,0.31,0.122,25,automatic,ci,ci
 2025-01-20T06:57:19.626Z,38.5007,-118.4888,4.4,1.7,ml,12,98.74,0.13,0.241,nn,nn00892265,2025-01-20T06:59:45.222Z,"12 km ESE of Hawthorne, Nevada",earthquake,,1.6,0.31,7,automatic,nn,nn
 2025-01-20T06:54:22.910Z,38.784168243408,-122.76716613769,3.079999923706,0.72,md,7,105,0.01347,0.03,nc,nc75120141,2025-01-20T06:55:59.200Z,"1 km NW of The Geysers, CA",earthquake,0.86,2.18000007,0.21,8,automatic,nc,nc
 2025-01-20T06:49:10.484Z,37.3684,-117.1234,0,0.9,ml,8,191.11,0.395,0.2618,nn,nn00892264,2025-01-20T06:51:13.467Z,"39 km SSE of Goldfield, Nevada",earthquake,,62.2,0.29,7,automatic,nn,nn
