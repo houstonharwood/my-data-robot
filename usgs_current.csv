@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-23T15:25:07.288Z,61.6569,-147.5384,31.8,1.4,ml,,,,0.6,ak,ak02512afuw8,2025-01-23T15:26:34.291Z,"17 km SSE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-01-23T15:15:59.160Z,19.497333526611,-155.95967102051,6.2300000190735,1.95000005,md,52,241,0.22,0.310000002,hv,hv74599372,2025-01-23T15:28:22.741Z,"3 km W of Captain Cook, Hawaii",earthquake,0.81,0.610000014,0.129999995,4,automatic,hv,hv
-2025-01-23T15:14:33.866Z,62.7807,-149.5367,74.6,3.5,ml,,,,0.37,ak,ak02512adk2h,2025-01-23T15:25:51.410Z,"46 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-23T15:14:33.866Z,62.7807,-149.5367,74.6,3.5,ml,,,,0.37,ak,ak02512adk2h,2025-01-23T15:49:49.040Z,"46 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-23T15:04:46.722Z,53.0449,159.8085,48.845,4.8,mb,53,130,30.223,0.88,us,us6000plt6,2025-01-23T15:24:28.040Z,"79 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.03,7.227,0.049,127,reviewed,us,us
 2025-01-23T14:36:26.385Z,32.408,-101.478,2.343,1.1,ml,5,141,0.1,0.4,tx,tx2025bpib,2025-01-23T15:15:42.052Z,"17 km N of Big Spring, Texas",earthquake,0,3.7659821510315,0.3,6,automatic,tx,tx
 2025-01-23T14:31:41.380Z,36.6487,-116.6245,15.9,1.1,ml,11,213.85,0.254,0.4646,nn,nn00892424,2025-01-23T14:44:58.669Z,"30 km NE of Furnace Creek, California",earthquake,,1.8,1.27,6,automatic,nn,nn
@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T12:53:09.380Z,38.831001281738,-122.81966400147,1.8799999952316,0.83,md,8,129,0.01067,0.02,nc,nc75121696,2025-01-23T12:54:45.869Z,"8 km NNW of The Geysers, CA",earthquake,0.43,0.889999986,0.35,8,automatic,nc,nc
 2025-01-23T12:50:23.920Z,18.022166666667,-66.845,16.08,1.92,md,5,191,0.05425,0.15,pr,pr71471328,2025-01-23T14:00:21.500Z,"1 km SSE of Yauco, Puerto Rico",earthquake,1.36,1.98,0.15238461770964,4,reviewed,pr,pr
 2025-01-23T12:34:35.640Z,33.5563333,-116.6631667,11.72,2.02,ml,85,23,0.02911,0.19,ci,ci41034048,2025-01-23T14:24:53.760Z,"1 km E of Anza, CA",earthquake,0.13,0.3,0.258,26,reviewed,ci,ci
+2025-01-23T12:34:11.223Z,32.747,-100.658,8.3984,1.2,ml,11,80,0.1,0.1,tx,tx2025bpdy,2025-01-23T15:47:35.710Z,"15 km NE of Hermleigh, Texas",earthquake,1.107978531994,2.0816210145318,0.1,11,reviewed,tx,tx
 2025-01-23T12:18:09.480Z,38.831001281738,-122.81700134277,1.6699999570847,1.46,md,23,51,0.009325,0.01,nc,nc75121686,2025-01-23T12:19:45.541Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.379999995,0.13,25,automatic,nc,nc
 2025-01-23T12:16:15.709Z,31.734,-104.098,4.5624,1.4,ml,20,74,0,0.2,tx,tx2025bpdj,2025-01-23T12:43:34.989Z,"47 km W of Mentone, Texas",earthquake,0,1.1192232370377,0.2,16,automatic,tx,tx
 2025-01-23T11:59:53.160Z,40.322666168213,-124.49549865723,11.579999923706,2.09,md,11,276,0.1218,0.03,nc,nc75121681,2025-01-23T12:01:30.761Z,"18 km W of Petrolia, CA",earthquake,1.48,0.389999986,0.08,7,automatic,nc,nc
@@ -181,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T16:02:37.696Z,31.716,-104.262,6.0358,2,ml,20,65,0,0.1,tx,tx2025bnpi,2025-01-22T16:54:44.819Z,"52 km SSE of Whites City, New Mexico",earthquake,0.51731051922677,0.50304998371251,0.2,30,reviewed,tx,tx
 2025-01-22T16:02:16.055Z,61.0337,-150.2857,34.8,1.6,ml,,,,0.89,ak,ak02510nd17s,2025-01-22T16:09:27.547Z,"25 km ENE of Point Possession, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-01-22T15:56:15.450Z,38.834499359131,-122.79850006103,1.7300000190735,1.16,md,8,74,0.007471,0.02,nc,nc75121301,2025-01-22T15:57:52.092Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.39999998,0.46,9,automatic,nc,nc
-2025-01-22T15:51:00.630Z,42.060833333333,-120.054,-1.15,2.08,ml,9,184,0.1574,0.13,uw,uw62071686,2025-01-22T21:04:46.550Z,"21 km ENE of New Pine Creek, Oregon",earthquake,0.33,0.43,0.14339925645543,3,reviewed,uw,uw
-2025-01-22T15:47:52.570Z,44.351333333333,-111.389,15.98,0.51,ml,9,198,0.2188,0.06,mb,mb90071508,2025-01-22T22:43:43.530Z,"8 km S of Island Park, Idaho",earthquake,0.85,0.73,0.27947898034006,4,reviewed,mb,mb
