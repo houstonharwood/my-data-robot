@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-23T20:52:06.073Z,61.3733,-150.0949,29.9,1.8,ml,,,,0.54,ak,ak02512dkt5r,2025-01-23T20:54:56.485Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-23T20:45:23.247Z,64.0214,-148.7915,0,1.8,ml,,,,0.68,ak,ak02512djch0,2025-01-23T20:47:13.743Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-23T20:35:32.750Z,35.1498333,-117.3565,5.46,1.7,ml,31,47,0.1459,0.22,ci,ci41034520,2025-01-23T20:39:25.575Z,"32 km ENE of Boron, CA",earthquake,0.24,1.6,0.146,26,automatic,ci,ci
 2025-01-23T20:30:50.591Z,36.2332,-115.6744,15.8,1.4,ml,12,293.62,0.52,0.3902,nn,nn00892432,2025-01-23T20:33:05.162Z,"3 km SW of Mount Charleston, Nevada",earthquake,,1,0.17,10,automatic,nn,nn
@@ -13,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T19:31:15.849Z,36.67516667,-96.71116667,0,1.35,ml,43,58,0.0674867568,0.62,ok,ok2025bprs,2025-01-23T19:48:14.728Z,"2 km SE of Burbank, Oklahoma",quarry blast,,0.7,0.21,21,reviewed,ok,ok
 2025-01-23T19:23:37.096Z,24.6224,95.1177,126.088,5.1,mb,113,25,3.406,0.5,us,us6000plwf,2025-01-23T20:43:32.122Z,"106 km E of Wāngjing, India",earthquake,8.66,6.526,0.039,215,reviewed,us,us
 2025-01-23T19:21:51.310Z,38.822834014893,-122.84400177002,2.079999923706,0.76,md,14,84,0.007014,0.01,nc,nc75121806,2025-01-23T19:23:30.659Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.620000005,0.17,14,automatic,nc,nc
+2025-01-23T19:17:18.360Z,40.730166666667,-112.06533333333,9.49,0.69,md,9,87,0.04609,0.07,uu,uu80099996,2025-01-23T20:49:09.400Z,"3 km NE of Magna, Utah",earthquake,0.43,1.16,0.2206367626406,6,reviewed,uu,uu
 2025-01-23T19:15:22.070Z,38.79683303833,-122.75316619873,2.1600000858307,1.08,md,14,93,0.006364,0.02,nc,nc75121796,2025-01-23T19:16:59.657Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.589999974,0.35,14,automatic,nc,nc
 2025-01-23T19:00:31.260Z,38.835834503174,-122.80616760254,2.0099999904633,0.7,md,12,55,0.01262,0.01,nc,nc75121791,2025-01-23T19:02:10.417Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.889999986,0.21,12,automatic,nc,nc
 2025-01-23T18:51:01.080Z,40.26216506958,-124.47682952881,17.620000839233,2.48,md,9,283,0.106,0.03,nc,nc75121786,2025-01-23T19:12:15.165Z,"18 km WSW of Petrolia, CA",earthquake,1.74,0.800000012,0.13,6,automatic,nc,nc
@@ -50,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T13:58:47.326Z,39.2222,-99.4989,10.182,2.6,mb_lg,24,181,0.448,0.54,us,us6000plt0,2025-01-23T14:15:50.040Z,"5 km WSW of Zurich, Kansas",earthquake,4.66,8.584,0.076,45,reviewed,us,us
 2025-01-23T13:22:57.397Z,61.2393,-152.2068,8.1,1.1,ml,,,,0.65,ak,ak0251298gej,2025-01-23T13:24:56.427Z,"60 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-23T13:22:06.598Z,61.4431,-150.7915,3.4,1.7,ml,,,,0.48,ak,ak0251298cgn,2025-01-23T13:24:54.012Z,"18 km SW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-01-23T13:01:00.760Z,35.956665,-117.678833,4.51,1.48,ml,21,77,0.02469,0.13,ci,ci41034064,2025-01-23T13:03:22.765Z,"21 km E of Little Lake, CA",earthquake,0.3,0.47,0.147,11,automatic,ci,ci
+2025-01-23T13:01:00.790Z,35.9556667,-117.6806667,4.51,1.47,ml,26,62,0.02577,0.14,ci,ci41034064,2025-01-23T20:53:01.649Z,"20 km E of Little Lake, CA",earthquake,0.17,0.27,0.102,11,reviewed,ci,ci
 2025-01-23T12:56:10.390Z,33.498,-116.878,12.23,0.39,ml,14,64,0.03225,0.11,ci,ci41034056,2025-01-23T20:24:09.486Z,"6 km N of Aguanga, CA",earthquake,0.27,0.54,0.1,8,reviewed,ci,ci
 2025-01-23T12:54:03.270Z,36.46166667,-98.80383333,6.65,1.43,ml,47,101,0.01259752794,0.25,ok,ok2025bpep,2025-01-23T13:38:06.800Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.25,20,reviewed,ok,ok
 2025-01-23T12:53:09.380Z,38.831001281738,-122.81966400147,1.8799999952316,0.83,md,8,129,0.01067,0.02,nc,nc75121696,2025-01-23T12:54:45.869Z,"8 km NNW of The Geysers, CA",earthquake,0.43,0.889999986,0.35,8,automatic,nc,nc
