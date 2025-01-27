@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-27T13:52:24.190Z,38.813499450684,-122.82483673096,1.6399999856949,1.49,md,26,50,0.005735,0.05,nc,nc75123931,2025-01-27T13:55:40.640Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.310000002,0.16,26,automatic,nc,nc
+2025-01-27T13:51:25.749Z,60.2644,-151.0747,60.1,2.5,ml,,,,0.31,ak,ak02518vjzpa,2025-01-27T13:53:14.277Z,"13 km SE of Kasilof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-27T13:47:38.300Z,36.4591667,-117.9535,8.78,2.25,ml,27,45,0.1039,0.19,ci,ci40852519,2025-01-27T13:51:12.531Z,"18 km SE of Lone Pine, CA",earthquake,0.24,0.52,0.227,26,automatic,ci,ci
 2025-01-27T13:40:15.510Z,33.4685,-116.4838333,9.79,0.59,ml,29,62,0.1023,0.16,ci,ci40852503,2025-01-27T13:44:27.487Z,"20 km ESE of Anza, CA",earthquake,0.19,0.48,0.093,12,automatic,ci,ci
 2025-01-27T13:31:05.370Z,33.9681667,-116.9851667,4.72,1.03,ml,55,28,0.04681,0.15,ci,ci40852495,2025-01-27T13:35:32.440Z,"4 km N of Beaumont, CA",earthquake,0.12,0.49,0.185,28,automatic,ci,ci
@@ -177,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T16:53:46.440Z,19.260499954224,-155.87066650391,3.6800000667572,2.69,ml,50,259,0.1494,0.349999994,hv,hv74601837,2025-01-26T20:10:46.203Z,"21 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.96,0.720000029,0.32,6,automatic,hv,hv
 2025-01-26T16:44:42.320Z,36.2145,-120.776,9.29,1.41,md,17,145,0.162,0.07,nc,nc75123411,2025-01-26T20:08:51.608Z,"24 km ENE of San Lucas, CA",earthquake,0.28,0.73,0.326,18,reviewed,nc,nc
 2025-01-26T16:40:49.820Z,46.850666046143,-121.7603302002,1.4400000572205,1.71000004,md,20,85,,0.0599999987,uw,uw62072386,2025-01-26T16:42:30.040Z,"23 km ENE of Ashford, Washington",earthquake,0.36,0.810000002,1.70000005,2,automatic,uw,uw
-2025-01-26T16:31:48.708Z,25.0043,125.4011,45.108,4.7,mb,70,113,1.23,1.55,us,us6000pmg4,2025-01-26T16:48:12.040Z,"24 km NNE of Hirara, Japan",earthquake,6.61,7.149,0.064,79,reviewed,us,us
+2025-01-26T16:31:48.708Z,25.0043,125.4011,45.108,4.7,mb,70,113,1.23,1.55,us,us6000pmg4,2025-01-27T13:56:44.764Z,"24 km NNE of Hirara, Japan",earthquake,6.61,7.149,0.064,79,reviewed,us,us
 2025-01-26T16:30:50.390Z,38.8345,-122.784,2.46,0.39,md,10,75,0.006307,0.02,nc,nc75123406,2025-01-26T22:49:41.322Z,"5 km WNW of Cobb, CA",earthquake,0.45,0.62,0.243,10,reviewed,nc,nc
 2025-01-26T16:30:08.650Z,32.3735,-115.2356667,11.29,2.74,ml,25,79,0.07446,0.31,ci,ci40851855,2025-01-26T16:57:09.040Z,"4 km WNW of Delta, B.C., MX",earthquake,0.5,0.94,0.169,27,automatic,ci,ci
 2025-01-26T16:28:29.420Z,38.830501556396,-122.81700134277,2.0899999141693,1.26,md,22,63,0.008924,0.02,nc,nc75123401,2025-01-26T16:30:04.425Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.469999999,0.21,22,automatic,nc,nc
@@ -206,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T14:06:52.570Z,34.0531667,-116.5331667,9.7,0.82,ml,35,66,0.09642,0.17,ci,ci40851791,2025-01-26T16:24:30.300Z,"4 km E of Morongo Valley, CA",earthquake,0.22,0.54,0.144,19,reviewed,ci,ci
 2025-01-26T14:03:01.190Z,40.334833333333,-124.94283333333,7.04,4.13,mw,177,231,0.4613,0.3,nc,nc75123321,2025-01-27T06:48:42.125Z,"56 km WNW of Petrolia, CA",earthquake,0.7,1.03,,7,reviewed,nc,nc
 2025-01-26T14:01:44.228Z,39.0631,-119.039,3.7,1,ml,8,106.54,0.106,0.175,nn,nn00892522,2025-01-26T14:04:15.555Z,"13 km NE of Yerington, Nevada",earthquake,,13.6,0.42,4,automatic,nn,nn
-2025-01-26T13:55:43.330Z,34.0446667,-117.132,6.55,1.33,ml,81,24,0.01868,0.21,ci,ci40851711,2025-01-26T16:24:34.300Z,"3 km S of Mentone, CA",earthquake,0.14,0.35,0.188,24,reviewed,ci,ci
-2025-01-26T13:55:33.174Z,39.0584,-119.0373,0,1,ml,8,108.34,0.11,0.0977,nn,nn00892521,2025-01-26T13:57:35.475Z,"13 km NE of Yerington, Nevada",earthquake,,8.4,0.41,5,automatic,nn,nn
