@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-30T17:53:34.890Z,38.827499389648,-122.82266998291,1.6200000047684,0.93,md,19,40,0.0106,0.02,nc,nc75125741,2025-01-30T17:55:09.967Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.24,19,automatic,nc,nc
+2025-01-30T17:50:45.700Z,33.577,-116.5983333,13.87,0.75,ml,30,44,0.02783,0.13,ci,ci40175610,2025-01-30T17:55:11.475Z,"7 km ENE of Anza, CA",earthquake,0.2,0.32,0.178,22,automatic,ci,ci
 2025-01-30T17:44:51.400Z,38.769500732422,-122.73366546631,2.1199998855591,1.19,md,18,63,0.01047,0.03,nc,nc75125731,2025-01-30T17:46:29.658Z,"2 km SE of The Geysers, CA",earthquake,0.28,0.469999999,0.2,17,automatic,nc,nc
 2025-01-30T17:35:38.170Z,34.0175,-117.195,13.8,1.16,ml,48,28,0.0709,0.15,ci,ci40175594,2025-01-30T17:40:18.101Z,"4 km SSW of Redlands, CA",earthquake,0.16,0.36,0.259,29,automatic,ci,ci
 2025-01-30T17:30:19.710Z,34.1131667,-116.9701667,7.68,0.78,ml,26,67,0.03453,0.14,ci,ci40175586,2025-01-30T17:35:14.997Z,"11 km NE of Yucaipa, CA",earthquake,0.21,0.43,0.254,18,automatic,ci,ci
@@ -112,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T05:18:45.780Z,35.6676667,-117.5663333,7.95,0.57,ml,20,77,0.07999,0.14,ci,ci40174762,2025-01-30T14:39:05.979Z,"11 km ENE of Ridgecrest, CA",earthquake,0.21,0.9,0.143,8,reviewed,ci,ci
 2025-01-30T05:16:39.750Z,38.827667236328,-122.80416870117,4.1500000953674,0.72,md,9,74,0.01522,0.01,nc,nc75125511,2025-01-30T05:18:16.657Z,"7 km NNW of The Geysers, CA",earthquake,0.62,6.73000002,0.07,9,automatic,nc,nc
 2025-01-30T05:12:21.487Z,31.654,-104.349,6.9202,2.3,ml,21,59,0.1,0.3,tx,tx2025cbke,2025-01-30T10:02:43.867Z,"57 km S of Whites City, New Mexico",earthquake,0.94471558450897,0.82346686106189,0.1,11,reviewed,tx,tx
-2025-01-30T05:03:43.207Z,6.7426,-73.0795,152.573,4.7,mb,80,38,0.845,0.57,us,us7000p9zc,2025-01-30T06:07:16.040Z,"2 km ENE of Jordán, Colombia",earthquake,8.54,5.74,0.066,71,reviewed,us,us
+2025-01-30T05:03:43.207Z,6.7426,-73.0795,152.573,4.7,mb,80,38,0.845,0.57,us,us7000p9zc,2025-01-30T17:52:01.281Z,"2 km ENE of Jordán, Colombia",earthquake,8.54,5.74,0.066,71,reviewed,us,us
 2025-01-30T04:53:11.354Z,51.9315,178.3574,121.645,4.4,mb,61,150,0.135,0.73,us,us7000p9za,2025-01-30T05:54:06.575Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,14.14,11.044,0.064,71,reviewed,us,us
 2025-01-30T04:40:08.758Z,62.9214,-156.3276,8.8,5.2,mww,,,,1.11,ak,ak0251doqqfp,2025-01-30T16:50:15.775Z,"15 km WSW of Takotna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-01-30T04:35:01.280Z,38.836166381836,-122.78283691406,2.1800000667572,0.44,md,8,96,0.006276,0.01,nc,nc75125501,2025-01-30T04:36:37.144Z,"5 km WNW of Cobb, CA",earthquake,0.72,1.38999999,0.25,8,automatic,nc,nc
@@ -125,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T03:42:53.970Z,36.2425,-89.4505,7,1.82,md,24,43,0.02726,0.05,nm,nm60597551,2025-01-30T16:40:27.050Z,"4 km SE of Ridgely, Tennessee",earthquake,0.34,0.52,0.091138606615783,23,reviewed,nm,nm
 2025-01-30T03:35:01.890Z,34.3173333,-117.0085,6.3,0.9,ml,33,64,0.0604,0.19,ci,ci40174650,2025-01-30T16:56:43.047Z,"12 km NW of Big Bear Lake, CA",earthquake,0.24,0.6,0.137,12,reviewed,ci,ci
 2025-01-30T03:32:53.840Z,35.6382,-115.9208,6.4,1.8,ml,17,64.51,0.203,0.1326,nn,nn00892724,2025-01-30T17:34:06.032Z,"32 km SW of Sandy Valley, Nevada",earthquake,,2.1,0.19,2,reviewed,nn,nn
-2025-01-30T03:26:38.932Z,29.078,-97.845,3.6865,4.5,ml,31,89,0.1,0.3,tx,tx2025cbgl,2025-01-30T17:45:05.991Z,"19 km ENE of Falls City, Texas",earthquake,1.1567225222368,2.2644972555133,0.2,26,reviewed,tx,tx
+2025-01-30T03:26:38.932Z,29.078,-97.845,3.6865,4.5,ml,31,89,0.1,0.3,tx,tx2025cbgl,2025-01-30T17:56:03.504Z,"19 km ENE of Falls City, Texas",earthquake,1.1567225222368,2.2644972555133,0.2,26,reviewed,tx,tx
 2025-01-30T03:23:55.324Z,64.7333,-149.2202,18.3,1.2,ml,,,,0.19,ak,ak0251do1rd8,2025-01-30T03:25:43.025Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-30T03:17:59.020Z,34.2203333,-117.4733333,7.95,0.81,ml,33,67,0.01555,0.18,ci,ci40174642,2025-01-30T14:44:55.012Z,"5 km SSE of Lytle Creek, CA",earthquake,0.27,0.43,0.152,24,reviewed,ci,ci
 2025-01-30T03:15:28.560Z,59.4582,-154.2876,7.4,1.9,ml,,,,0.42,ak,ak0251dnzzjy,2025-01-30T03:17:46.391Z,"16 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-29T18:16:29.650Z,33.3591667,-116.892,7.03,0.69,ml,25,41,0.02518,0.2,ci,ci40173986,2025-01-29T18:20:31.427Z,"3 km W of Palomar Observatory, CA",earthquake,0.29,0.45,0.135,15,automatic,ci,ci
 2025-01-29T18:14:47.810Z,19.359333333333,-155.07233333333,6.28,1.92,md,32,142,0.04296,0.18,hv,hv74604487,2025-01-30T03:11:11.440Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.48,0.75,0.11956214956939,6,reviewed,hv,hv
 2025-01-29T18:01:45.940Z,45.275166666667,-121.6925,8.65,0.26,ml,8,209,0.05549,0.04,uw,uw62064822,2025-01-29T22:54:16.550Z,"2 km NE of Wapanitia, Oregon",earthquake,0.37,0.56,0.097636018668984,4,reviewed,uw,uw
-2025-01-29T17:54:37.340Z,34.0128333,-117.207,6,0.97,ml,43,26,0.07121,0.16,ci,ci40173850,2025-01-29T17:58:54.383Z,"5 km SSW of Redlands, CA",earthquake,0.15,0.54,0.264,27,automatic,ci,ci
