@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-31T23:07:36.789Z,32.452,-102.118,3.9025,1.2,ml,20,100,0,0.5,tx,tx2025ceow,2025-01-31T23:21:58.779Z,"35 km SSW of Los Ybanez, Texas",earthquake,0,1.3299078941345,0.2,12,automatic,tx,tx
+2025-01-31T23:02:29.151Z,-0.8239,-78.1491,10,5.5,mb,78,60,0.242,0.86,us,us7000pahy,2025-01-31T23:21:34.040Z,"39 km WNW of Archidona, Ecuador",earthquake,5.03,1.854,0.028,429,reviewed,us,us
 2025-01-31T22:58:53.020Z,36.1383333,-117.9316667,3.62,1.33,ml,27,50,0.06554,0.2,ci,ci40176954,2025-01-31T23:02:20.924Z,"10 km N of Coso Junction, CA",earthquake,0.25,0.63,0.118,23,automatic,ci,ci
 2025-01-31T22:48:00.685Z,38.5017,-118.453,1.4,1.8,ml,9,132.94,0.138,0.1346,nn,nn00892827,2025-01-31T22:50:25.860Z,"15 km E of Hawthorne, Nevada",earthquake,,5.2,0.32,4,automatic,nn,nn
 2025-01-31T22:38:23.170Z,40.498832702637,-123.34716796875,27.260000228882,2.44,md,18,57,0.091,0.07,nc,nc75126491,2025-01-31T23:07:18.038Z,"15 km WSW of Hayfork, CA",earthquake,0.41,0.930000007,0.1,16,automatic,nc,nc
@@ -28,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T20:20:16.907Z,37.123,-116.9937,4.2,1.1,ml,22,133.12,0.146,0.1638,nn,nn00892815,2025-01-31T20:22:28.072Z,"31 km NW of Beatty, Nevada",earthquake,,1.4,0.39,11,automatic,nn,nn
 2025-01-31T20:03:58.820Z,37.530833333333,-118.87916666667,2.5,0.98,md,12,205,0.07123,0.06,nc,nc75126441,2025-01-31T21:13:39.449Z,"15 km SSE of Mammoth Lakes, CA",earthquake,0.63,2.09,0.155,8,reviewed,nc,nc
 2025-01-31T20:01:48.270Z,46.0205,-112.4615,-2,1.82,ml,9,130,0.06504,0.17,mb,mb90071958,2025-01-31T20:26:29.350Z,"5 km ESE of Walkerville, Montana",quarry blast,0.65,31.61,0.29443227589027,15,reviewed,mb,mb
-2025-01-31T19:59:30.655Z,36.2865,-114.994,4.7,1.4,ml,12,319.68,0.255,0.3398,nn,nn00892814,2025-01-31T20:02:06.433Z,"7 km NE of Nellis Air Force Base, Nevada",earthquake,,2.9,0.36,9,automatic,nn,nn
+2025-01-31T19:59:30.655Z,36.2865,-114.994,4.7,1.4,ml,12,319.68,0.255,0.3398,nn,nn00892814,2025-01-31T23:16:42.834Z,"7 km NE of Nellis Air Force Base, Nevada",earthquake,,2.9,0.36,9,automatic,nn,nn
 2025-01-31T19:54:20.600Z,33.3603333,-116.6751667,13.43,0.66,ml,27,59,0.09553,0.16,ci,ci40176778,2025-01-31T20:28:30.881Z,"10 km NNW of Warner Springs, CA",earthquake,0.22,0.54,0.092,13,reviewed,ci,ci
 2025-01-31T19:52:28.720Z,35.0573333,-118.3455,-1.11,1.12,ml,29,44,0.06666,0.19,ci,ci40176770,2025-01-31T21:16:49.169Z,"13 km SE of Tehachapi, CA",quarry blast,0.33,31.61,0.093,27,reviewed,ci,ci
 2025-01-31T19:50:08.213Z,-15.8543,-172.4235,10,4.7,mb,37,51,2.031,0.94,us,us7000pagf,2025-01-31T20:09:07.040Z,"147 km E of Hihifo, Tonga",earthquake,6.3,1.869,0.084,48,reviewed,us,us
@@ -134,7 +136,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T07:40:26.040Z,38.828834533691,-122.81549835205,2,0.76,md,9,77,0.006889,0.01,nc,nc75126211,2025-01-31T07:42:04.043Z,"8 km NNW of The Geysers, CA",earthquake,0.52,1.02999997,0.17,10,automatic,nc,nc
 2025-01-31T07:36:03.200Z,36.605335235596,-121.23349761963,6.1999998092651,2.41,md,46,54,0.05124,0.21,nc,nc75126206,2025-01-31T08:17:24.015Z,"11 km NNW of Pinnacles, CA",earthquake,0.32,1.04999995,0.21,43,automatic,nc,nc
 2025-01-31T07:20:32.480Z,37.474498748779,-118.80633544922,5.0700001716614,2.57,md,27,127,0.1167,0.05,nc,nc75126201,2025-01-31T08:44:04.838Z,"15 km WSW of Toms Place, CA",earthquake,0.3,1.54999995,0.21,35,automatic,nc,nc
+2025-01-31T07:18:10.120Z,61.261666666667,-152.25383333333,1.53,-1.5,ml,5,177,0.04792,0.07,av,av93478926,2025-01-31T23:16:53.900Z,"63 km WNW of Tyonek, Alaska",earthquake,0.43,1.49,0.18529526466819,3,reviewed,av,av
 2025-01-31T07:12:30.090Z,34.4275,-119.7438333,15.53,2.85,ml,87,93,0.02731,0.24,ci,ci40176402,2025-01-31T20:18:35.660Z,"4 km W of Santa Barbara, CA",earthquake,0.21,0.25,0.179,25,reviewed,ci,ci
+2025-01-31T07:08:35.790Z,61.271666666667,-152.254,3.08,-0.67,ml,4,199,0.04823,0.06,av,av93478911,2025-01-31T23:10:32.010Z,"64 km WNW of Tyonek, Alaska",earthquake,0.45,0.84,0.084193820625255,5,reviewed,av,av
 2025-01-31T07:07:56.996Z,-4.9724,102.7527,43.015,4.5,mb,28,142,1.268,0.83,us,us7000pa85,2025-01-31T11:27:57.974Z,"118 km SSW of Pagar Alam, Indonesia",earthquake,11.3,8.756,0.125,19,reviewed,us,us
 2025-01-31T07:07:51.770Z,34.429,-119.7433333,14.46,1.76,ml,33,112,0.02625,0.19,ci,ci40176394,2025-01-31T19:43:49.628Z,"4 km WNW of Santa Barbara, CA",earthquake,0.3,0.37,0.15,18,reviewed,ci,ci
 2025-01-31T07:07:19.650Z,34.445,-119.75,13.53,2.2,ml,30,91,0.01689,0.18,ci,ci40176386,2025-01-31T19:35:12.582Z,"5 km WNW of Santa Barbara, CA",earthquake,0.3,0.48,0.135,22,reviewed,ci,ci
@@ -159,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T05:12:15.802Z,29.038,-97.816,5.6885,1.8,ml,17,67,0,0.3,tx,tx2025cdfk,2025-01-31T13:35:53.429Z,"18 km NNE of Karnes City, Texas",earthquake,0.92436227380611,1.6277568777355,0.2,14,reviewed,tx,tx
 2025-01-31T05:04:13.180Z,39.0884,-119.0271,7.9,1.4,ml,16,86.32,0.081,0.1734,nn,nn00892786,2025-01-31T05:07:51.780Z,"16 km NE of Yerington, Nevada",earthquake,,0.7,0.13,8,automatic,nn,nn
 2025-01-31T04:50:13.380Z,38.79666519165,-122.73899841309,1.1399999856949,0.98,md,13,100,0.01353,0.04,nc,nc75126156,2025-01-31T04:51:51.684Z,"3 km NE of The Geysers, CA",earthquake,0.3,0.610000014,0.17,15,automatic,nc,nc
-2025-01-31T04:39:56.215Z,39.1615,-119.0348,7.5,1.2,ml,11,79.2,0.008,0.1509,nn,nn00892784,2025-01-31T04:42:10.666Z,"22 km NNE of Yerington, Nevada",earthquake,,0.6,0.28,5,automatic,nn,nn
+2025-01-31T04:39:56.740Z,39.1594,-119.0381,5.6,1.3,ml,17,64.84,0.01,0.1598,nn,nn00892784,2025-01-31T23:14:48.719Z,"22 km NNE of Yerington, Nevada",earthquake,,0.7,0.45,6,reviewed,nn,nn
 2025-01-31T04:30:28.750Z,38.822166666667,-122.84366666667,2.28,0.57,md,24,68,0.006813,0.01,nc,nc75126146,2025-01-31T11:10:56.864Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.36,0.13,22,reviewed,nc,nc
 2025-01-31T04:28:18.419Z,38.1558,-117.9433,10.1,1.4,ml,10,128,0.054,0.1358,nn,nn00892783,2025-01-31T22:37:48.076Z,"29 km SSE of Mina, Nevada",earthquake,,2.1,0.29,4,reviewed,nn,nn
 2025-01-31T04:26:03.540Z,38.787334442139,-122.74666595459,1.8400000333786,1.04,md,12,83,0.008781,0.02,nc,nc75126141,2025-01-31T04:27:42.648Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.589999974,0.11,13,automatic,nc,nc
