@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-07T07:52:42.558Z,60.9502,-148.6706,21.7,1.3,ml,,,,0.42,ak,ak0251qywgin,2025-02-07T07:54:13.595Z,"19 km N of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-07T07:30:36.713Z,-7.2425,125.1561,494.83,4.8,mb,29,76,2.647,0.78,us,us7000pc28,2025-02-07T07:48:22.040Z,"150 km N of Likisá, Timor Leste",earthquake,15.28,10.312,0.107,27,reviewed,us,us
 2025-02-07T07:24:41.602Z,-15.5994,-70.1897,214.006,4.8,mb,45,142,2.096,1.22,us,us7000pc27,2025-02-07T07:39:56.040Z,"9 km WSW of Caracoto, Peru",earthquake,9.58,9.758,0.046,156,reviewed,us,us
 2025-02-07T07:21:23.675Z,32.422,-102.119,8.3737,1,ml,9,169,0,0.4,tx,tx2025cqee,2025-02-07T07:33:22.782Z,"37 km SSW of Los Ybanez, Texas",earthquake,0,4.2393236160278,0.2,8,automatic,tx,tx
@@ -10,7 +11,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T06:32:07.240Z,33.5863333,-116.8035,8.73,0.48,ml,25,70,0.05713,0.14,ci,ci40181330,2025-02-07T06:36:40.453Z,"12 km WNW of Anza, CA",earthquake,0.22,0.45,0.154,14,automatic,ci,ci
 2025-02-07T06:12:28.340Z,33.1738333,-115.4993333,5.13,1.37,ml,30,49,0.08043,0.27,ci,ci40181322,2025-02-07T06:16:31.513Z,"6 km NNE of Calipatria, CA",earthquake,0.39,0.73,0.204,29,automatic,ci,ci
 2025-02-07T06:11:40.665Z,61.3623,-151.0326,44,1.8,ml,,,,0.39,ak,ak0251qy28eq,2025-02-07T06:13:52.439Z,"24 km N of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-02-07T06:10:45.269Z,61.5338,-152.4493,250,2.1,ml,,,,0.97,ak,ak0251qy25oo,2025-02-07T06:14:12.505Z,"75 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-07T06:05:54.404Z,59.8864,-152.2362,112.5,1.2,ml,,,,0.46,ak,ak0251qy0z68,2025-02-07T06:07:25.619Z,"25 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-07T05:56:54.523Z,60.2432,-152.6236,99,0.8,ml,,,,0.31,ak,ak0251qxqh3g,2025-02-07T05:58:53.204Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-07T05:52:14.620Z,18.184833333333,-66.141833333333,76.43,2.98,md,17,81,0.1354,0.18,pr,pr71472368,2025-02-07T06:14:17.550Z,"2 km ENE of Cidra, Puerto Rico",earthquake,1.03,0.7,0.047287962387558,5,reviewed,pr,pr
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T08:06:55.310Z,61.276,-152.2505,2.04,-1.02,ml,7,186,0.04733,0.08,av,av93032204,2025-02-07T00:36:12.000Z,"64 km WNW of Tyonek, Alaska",earthquake,0.34,1.31,0.14361406273269,7,reviewed,av,av
 2025-02-06T08:00:28.930Z,62.0957,-145.4587,23.4,1.2,ml,,,,0.43,ak,ak0251pbndcd,2025-02-06T08:02:04.686Z,"4 km NNW of Tazlina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-06T07:58:05.370Z,33.5901667,-116.8041667,10.83,0.51,ml,26,37,0.05389,0.13,ci,ci40180562,2025-02-06T15:26:10.904Z,"13 km WNW of Anza, CA",earthquake,0.17,0.55,0.175,11,reviewed,ci,ci
-2025-02-06T07:52:35.100Z,57.087666666667,-135.7505,5.34,-0.02,ml,4,263,0.03071,0.04,av,av93485971,2025-02-07T00:32:40.930Z,"25 km W of Sitka, Alaska",earthquake,0.58,0.78,0.17508120382314,4,reviewed,av,av
