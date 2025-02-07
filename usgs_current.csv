@@ -35,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T09:31:49.130Z,34.1468333,-117.4151667,5.18,0.96,ml,48,33,0.04677,0.2,ci,ci40181362,2025-02-07T09:37:23.830Z,"6 km NW of Rialto, CA",earthquake,0.2,0.35,0.144,30,automatic,ci,ci
 2025-02-07T09:26:19.966Z,61.366,-150.9138,50.6,1.2,ml,,,,1.18,ak,ak0251qzxpe5,2025-02-07T09:28:54.181Z,"26 km NNE of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-02-07T09:05:23.540Z,38.827835083008,-122.80216979981,1.539999961853,1.02,md,12,72,0.007601,0.02,nc,nc75128896,2025-02-07T09:08:08.490Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.720000029,0.23,15,automatic,nc,nc
+2025-02-07T08:50:12.090Z,60.4458,-153.4882,86.6,1.6,ml,,,,0.81,ak,ak0251qzhf3r,2025-02-07T14:46:04.567Z,"53 km ENE of Port Alsworth, Alaska",earthquake,,6.6,,,reviewed,ak,ak
 2025-02-07T08:36:15.503Z,59.8515,-152.9838,101,1.3,ml,,,,0.27,ak,ak0251qzeeku,2025-02-07T08:38:34.458Z,"63 km E of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-07T08:30:48.520Z,38.821833333333,-122.84733333333,2.36,0.02,md,14,93,0.009384,0.02,nc,nc75128891,2025-02-07T08:51:31.488Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.43,0.428,14,reviewed,nc,nc
 2025-02-07T08:19:45.783Z,9.3425,40.1856,10,4.6,mb,39,121,6.617,0.96,us,us7000pc2b,2025-02-07T10:28:31.154Z,"39 km N of Āwash, Ethiopia",earthquake,9.42,1.675,0.099,30,reviewed,us,us
@@ -150,6 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T19:39:17.482Z,60.8185,-148.2493,9,2.6,ml,,,,0.66,ak,ak0251pifh2o,2025-02-07T14:20:48.040Z,"24 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-06T19:35:48.890Z,57.049166666667,-135.65983333333,9,0.22,ml,4,172,0.0275,0.17,av,av93032294,2025-02-07T05:51:24.940Z,"19 km W of Sitka, Alaska",earthquake,2.29,1.21,0.25320490330126,4,reviewed,av,av
 2025-02-06T19:35:26.150Z,57.0425,-135.67183333333,9.02,0.05,ml,4,189,0.02046,0.14,av,av93486796,2025-02-07T05:49:34.310Z,"20 km W of Sitka, Alaska",earthquake,2.03,1.02,0.17409701099125,4,reviewed,av,av
+2025-02-06T19:34:47.442Z,36.5666,25.6188,10,4.4,mb,65,60,1.406,0.98,us,us7000pbx6,2025-02-07T14:45:19.040Z,"23 km NE of Firá, Greece",earthquake,4.4,1.864,0.075,52,reviewed,us,us
 2025-02-06T19:31:59.990Z,47.665,-120.23683333333,3.32,0.61,ml,8,110,0.006883,0.1,uw,uw62065992,2025-02-06T20:15:19.490Z,"2 km WSW of Entiat, Washington",earthquake,0.25,0.5,0.11906402732371,5,reviewed,uw,uw
 2025-02-06T19:27:31.348Z,55.6965,-155.9065,0,3.1,ml,,,,0.76,ak,ak0251picxim,2025-02-06T19:29:51.881Z,"169 km ESE of Chignik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-06T19:26:20.181Z,64.7102,-147.372,11.8,1.1,ml,,,,0.41,ak,ak0251picoxu,2025-02-06T19:28:03.941Z,"4 km SSW of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -167,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T18:34:45.480Z,38.813833333333,-122.82516666667,1.99,0.68,md,12,90,0.005865,0.01,nc,nc75128711,2025-02-06T23:55:11.427Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.84,0.293,12,reviewed,nc,nc
 2025-02-06T18:29:23.946Z,61.0884,-150.8054,72.3,1.1,ml,,,,0.88,ak,ak0251phrwwj,2025-02-06T18:32:02.059Z,"16 km ESE of Beluga, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-02-06T18:25:36.741Z,32.132,-101.626,7.1045,1.9,ml,14,75,0,0.1,tx,tx2025cpep,2025-02-07T13:33:18.332Z,"15 km E of Stanton, Texas",earthquake,0.67840244503254,1.0026604536153,0.1,31,reviewed,tx,tx
-2025-02-06T18:23:30.370Z,32.13,-101.632,3.5563,1.3,ml,24,71,0,0.5,tx,tx2025cpen,2025-02-06T18:33:55.804Z,"14 km E of Stanton, Texas",earthquake,0,1.2930662631989,0.2,12,automatic,tx,tx
+2025-02-06T18:23:30.588Z,32.13,-101.634,7.2754,1.3,ml,23,51,0,0.1,tx,tx2025cpen,2025-02-07T14:46:01.897Z,"14 km E of Stanton, Texas",earthquake,0.70733816761579,0.94771066973609,0.2,13,reviewed,tx,tx
 2025-02-06T18:21:18.278Z,63.0944,-151.5484,0.1,1.6,ml,,,,1.15,ak,ak0251phq6kd,2025-02-06T18:24:10.764Z,"50 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-06T18:16:45.225Z,36.4784,25.5548,10,4.3,mb,60,83,1.305,1.05,us,us7000pbwr,2025-02-06T20:55:18.737Z,"12 km ENE of Firá, Greece",earthquake,5.26,1.89,0.094,32,reviewed,us,us
 2025-02-06T18:16:30.185Z,-16.6013,-173.6341,46.183,4.5,mb,27,134,3.219,0.79,us,us7000pbws,2025-02-06T18:38:24.040Z,"73 km SSE of Hihifo, Tonga",earthquake,12.94,2.787,0.101,29,reviewed,us,us
