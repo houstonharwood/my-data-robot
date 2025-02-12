@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-12T18:57:39.550Z,32.8951683,-116.9499969,4.53,1.38,ml,22,68,0.08789,0.21,ci,ci40185002,2025-02-12T18:59:44.650Z,"5 km NNW of Lakeside, CA",earthquake,0.56,1.21,0.152,12,automatic,ci,ci
+2025-02-12T18:54:36.514Z,64.9849,-148.409,6.6,1.9,ml,,,,0.39,ak,ak0251zf5dlv,2025-02-12T18:56:10.161Z,"24 km NW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-12T18:47:21.123Z,65.2548,-148.4379,12.4,1.2,ml,,,,0.55,ak,ak0251zf3ueo,2025-02-12T18:59:28.300Z,"30 km S of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-12T18:46:03.756Z,58.862,-154.4439,103.6,1.8,ml,,,,0.33,ak,ak0251zf3lcn,2025-02-12T18:47:55.315Z,"67 km SSE of Kokhanok, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2025-02-12T18:43:09.787Z,37.3023,-117.6842,0,1.4,ml,13,129.83,0.076,0.4685,nn,nn00893383,2025-02-12T18:45:37.081Z,"50 km S of Silver Peak, Nevada",earthquake,,4.4,0.38,9,automatic,nn,nn
 2025-02-12T18:41:01.597Z,37.4597,-116.3227,0,0.7,ml,10,241.69,0.249,0.443,nn,nn00893381,2025-02-12T18:43:07.100Z,"55 km WSW of Rachel, Nevada",earthquake,,81,0.33,4,automatic,nn,nn
@@ -114,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T06:18:44.670Z,35.6901667,-117.4891667,7.48,1.72,ml,32,62,0.05887,0.16,ci,ci40184698,2025-02-12T14:47:18.785Z,"12 km SW of Searles Valley, CA",earthquake,0.18,0.62,0.191,26,reviewed,ci,ci
 2025-02-12T06:12:16.732Z,36.6566,-116.2656,7.1,0.2,ml,16,160.75,0.06,0.2457,nn,nn00893352,2025-02-12T06:14:13.273Z,"52 km ESE of Beatty, Nevada",earthquake,,0.8,0.16,7,automatic,nn,nn
 2025-02-12T06:09:26.930Z,38.804164886475,-122.72716522217,3.1500000953674,0.81,md,14,114,0.02219,0.01,nc,nc75132072,2025-02-12T06:11:03.756Z,"2 km SSW of Cobb, CA",earthquake,0.34,1.17999995,0.15,14,automatic,nc,nc
-2025-02-12T05:52:43.835Z,36.6486,-116.2554,1,0,ml,10,171.57,0.067,0.1092,nn,nn00893351,2025-02-12T05:54:32.293Z,"53 km W of Indian Springs, Nevada",earthquake,,5.7,0.19,6,automatic,nn,nn
+2025-02-12T05:52:44.171Z,36.6475,-116.2708,7.2,0,ml,19,173.11,0.055,0.0807,nn,nn00893351,2025-02-12T18:58:59.762Z,"52 km ESE of Beatty, Nevada",earthquake,,1.1,0.15,5,reviewed,nn,nn
 2025-02-12T05:45:41.420Z,63.324,-145.1444,0,1.9,ml,,,,0.83,ak,ak0251z7ctoe,2025-02-12T05:48:01.404Z,"35 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-12T05:42:03.230Z,33.4728333,-116.5781667,10.33,0.87,ml,36,68,0.02965,0.16,ci,ci40184674,2025-02-12T14:47:21.917Z,"13 km SE of Anza, CA",earthquake,0.18,0.29,0.19,28,reviewed,ci,ci
 2025-02-12T05:25:17.080Z,39.425,-111.93216666667,8.21,0.83,md,5,152,0.1221,0.16,uu,uu80102106,2025-02-12T14:52:54.400Z,"16 km SSW of Levan, Utah",earthquake,1.87,6.05,0.21507441659999,3,reviewed,uu,uu
@@ -200,6 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T22:42:21.820Z,34.1656667,-117.2691667,5.67,0.97,ml,15,100,0.06077,0.15,ci,ci40184530,2025-02-12T15:16:35.898Z,"5 km NNE of San Bernardino, CA",earthquake,0.27,0.69,0.112,13,reviewed,ci,ci
 2025-02-11T22:39:58.320Z,40.224666595459,-121.16316986084,-1.1699999570847,2.35,md,15,137,0.1961,0.2,nc,nc75131907,2025-02-11T23:12:15.824Z,"1 km ENE of Almanor, CA",earthquake,0.69,16.2399998,0.08,14,automatic,nc,nc
 2025-02-11T22:30:45.660Z,32.7743333,-116.8975,-0.34,1.31,ml,24,91,0.05407,0.24,ci,ci40184514,2025-02-12T16:44:19.966Z,"5 km NE of Rancho San Diego, CA",quarry blast,0.59,31.61,0.089,5,reviewed,ci,ci
+2025-02-11T22:25:48.480Z,49.286333333333,-120.52233333333,-0.82,1.93,ml,18,176,0.5961,0.63,uw,uw62066992,2025-02-12T18:54:35.160Z,"19 km S of Princeton, Canada",explosion,1.83,31.61,0.096187462801906,10,reviewed,uw,uw
 2025-02-11T22:17:48.375Z,63.3024,-151.2588,3.4,2,ml,,,,0.64,ak,ak0251xtruyd,2025-02-11T22:20:17.311Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-11T22:13:31.640Z,46.196833333333,-122.1825,6.56,0.05,ml,13,97,0.00396,0.08,uw,uw62066987,2025-02-11T22:34:18.470Z,"37 km NNE of Amboy, Washington",earthquake,0.77,0.43,0.12985293465928,8,reviewed,uw,uw
 2025-02-11T22:10:36.370Z,40.164001464844,-122.18616485596,28.659999847412,2.29,md,8,172,0.06425,0.06,nc,nc75131882,2025-02-11T22:57:14.736Z,"5 km ESE of Red Bluff, CA",earthquake,0.93,0.460000008,0.24,7,automatic,nc,nc
@@ -227,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T19:29:44.300Z,34.1631667,-117.2631667,5.81,1.44,ml,64,29,0.0344,0.19,ci,ci40184410,2025-02-12T16:07:32.110Z,"5 km NE of San Bernardino, CA",earthquake,0.15,0.51,0.118,53,reviewed,ci,ci
 2025-02-11T19:23:47.283Z,63.3141,-151.3003,10.8,1.7,ml,,,,0.71,ak,ak0251xs0ucm,2025-02-11T19:27:15.292Z,"32 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-11T19:13:40.200Z,40.324166666667,-124.93916666667,9.85,2.64,md,70,245,0.4576,0.3,nc,nc75131817,2025-02-12T05:37:17.354Z,"55 km WNW of Petrolia, CA",earthquake,0.73,1.26,0.159,36,reviewed,nc,nc
-2025-02-11T18:55:29.050Z,40.277000427246,-124.95933532715,9.7299995422363,2.3,md,6,322,0.4719,0.01,nc,nc75131812,2025-02-11T19:32:18.389Z,"57 km W of Petrolia, CA",earthquake,6.41,4.42999983,0.19,5,automatic,nc,nc
