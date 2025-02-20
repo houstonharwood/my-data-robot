@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-20T21:29:34.870Z,38.830665588379,-122.81466674805,2.2200000286102,0.74,md,17,49,0.008098,0.01,nc,nc75136732,2025-02-20T21:31:11.275Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.529999971,0.15,16,automatic,nc,nc
 2025-02-20T21:13:48.570Z,38.820999145508,-122.81283569336,2.6500000953674,0.28,md,13,109,0.003221,0.02,nc,nc75136727,2025-02-20T21:15:26.104Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.779999971,0.15,13,automatic,nc,nc
 2025-02-20T21:02:11.933Z,59.3991,-152.579,65.2,2.7,ml,,,,0.38,ak,ak0252cox95z,2025-02-20T21:03:38.559Z,"37 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-20T20:52:20.320Z,33.8441667,-117.5313333,2.03,1.63,ml,30,212,0.07665,0.16,ci,ci40190010,2025-02-20T21:02:57.130Z,"4 km SSW of Home Gardens, CA",earthquake,0.67,0.32,0.233,33,automatic,ci,ci
+2025-02-20T20:52:20.580Z,33.8453333,-117.4948333,-0.51,1.49,ml,40,44,0.04995,0.25,ci,ci40190010,2025-02-20T21:27:08.150Z,"4 km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.201,56,reviewed,ci,ci
 2025-02-20T20:46:38.050Z,38.806667327881,-122.77083587647,1.3500000238419,1.53,md,31,61,0.01013,0.04,nc,nc75136717,2025-02-20T20:50:02.360Z,"3 km  of The Geysers, CA",earthquake,0.19,0.330000013,0.12,30,automatic,nc,nc
 2025-02-20T20:39:39.588Z,-21.378,-178.7009,547.476,4.8,mb,56,115,4.736,0.72,us,us7000pf3d,2025-02-20T21:02:38.040Z,"Fiji region",earthquake,14.41,8.857,0.077,52,reviewed,us,us
 2025-02-20T20:36:00.065Z,32.437,-102.118,6.7445,1.5,ml,21,98,0,0.5,tx,tx2025doyw,2025-02-20T21:02:47.823Z,"36 km SSW of Los Ybanez, Texas",earthquake,0,1.7065677642822,0.2,15,automatic,tx,tx
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T17:27:30.055Z,38.7821,-119.6155,8.4,1.4,ml,19,62.47,0.077,0.1359,nn,nn00893754,2025-02-20T19:05:43.669Z,"9 km SSE of Carter Springs, Nevada",earthquake,,1.1,0.37,8,reviewed,nn,nn
 2025-02-20T17:24:50.264Z,-22.4909,179.3257,571.068,4.9,mb,80,65,4.871,0.89,us,us7000pf1x,2025-02-20T17:57:02.040Z,"south of the Fiji Islands",earthquake,13.17,7.621,0.039,205,reviewed,us,us
 2025-02-20T17:22:42.202Z,52.7725,-162.9556,10,3.3,ml,18,230,2.019,1.12,us,us7000pf1w,2025-02-20T17:49:04.040Z,"233 km S of False Pass, Alaska",earthquake,6.32,2.012,0.081,20,reviewed,us,us
-2025-02-20T17:21:51.316Z,38.7754,-119.6133,8.9,3,ml,24,55.81,0.078,0.1352,nn,nn00893750,2025-02-20T19:42:32.324Z,"9 km SSE of Carter Springs, Nevada",earthquake,,1,0.56,6,reviewed,nn,nn
+2025-02-20T17:21:51.316Z,38.7754,-119.6133,8.9,3,ml,24,55.81,0.078,0.1352,nn,nn00893750,2025-02-20T21:29:58.048Z,"9 km SSE of Carter Springs, Nevada",earthquake,,1,0.56,6,reviewed,nn,nn
 2025-02-20T17:16:16.270Z,38.820667266846,-122.82233428955,2.3800001144409,0.89,md,18,80,0.009957,0.02,nc,nc75136632,2025-02-20T17:17:51.321Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.620000005,0.23,20,automatic,nc,nc
 2025-02-20T17:13:26.452Z,37.4555,-114.5888,7,1.7,ml,6,114.63,0.371,0.103,nn,nn00893748,2025-02-20T17:32:43.130Z,"18 km SSW of Caliente, Nevada",earthquake,,8.3,0.3,4,reviewed,nn,nn
 2025-02-20T16:56:30.440Z,46.72,-121.12866666667,10.25,1.02,ml,14,138,0.2094,0.12,uw,uw62076631,2025-02-20T20:46:52.900Z,"18 km SW of Nile, Washington",earthquake,0.45,2.97,0.14740518321519,10,reviewed,uw,uw
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T22:13:36.310Z,59.3655,-153.44083333333,-0.13,0,ml,4,155,0.003519,0.07,av,av93505621,2025-02-20T18:03:02.150Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.32,0.17,0.41830139483314,4,reviewed,av,av
 2025-02-19T22:00:00.470Z,58.2755,-155.00316666667,2.63,0.15,ml,7,243,0.03796,0.07,av,av93505616,2025-02-20T17:59:26.080Z,"85 km NNW of Karluk, Alaska",earthquake,0.62,0.39,0.34769323532419,7,reviewed,av,av
 2025-02-19T21:55:39.060Z,38.830333709717,-122.81816864014,1.789999961853,0.77,md,10,127,0.00938,0.01,nc,nc75136327,2025-02-19T21:57:15.032Z,"8 km NNW of The Geysers, CA",earthquake,0.4,0.769999981,0.33,10,automatic,nc,nc
-2025-02-19T21:25:54.851Z,59.4085,-152.7917,93.6,2.1,ml,,,,0.23,ak,ak0252b1ixj1,2025-02-19T21:28:32.265Z,"49 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
