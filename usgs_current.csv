@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-21T20:24:56.310Z,38.811332702637,-122.82900238037,1.1799999475479,0.74,md,9,71,0.002465,0.01,nc,nc75136811,2025-02-21T20:26:35.148Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.660000026,0.27,7,automatic,nc,nc
 2025-02-21T20:13:11.380Z,36.0338333,-117.7766667,1.41,0.77,ml,15,77,0.01263,0.1,ci,ci40190802,2025-02-21T20:16:36.863Z,"16 km E of Coso Junction, CA",earthquake,0.17,0.18,0.166,12,automatic,ci,ci
 2025-02-21T20:06:06.982Z,63.533,-150.9205,2.6,1.7,ml,,,,0.2,ak,ak0252ebw0m4,2025-02-21T20:15:36.072Z,"39 km E of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-21T20:01:05.376Z,39.1429,-119.0643,9.3,1.5,ml,11,107.96,0.033,0.076,nn,nn00893809,2025-02-21T20:03:05.388Z,"19 km NNE of Yerington, Nevada",earthquake,,0.7,0.32,6,automatic,nn,nn
+2025-02-21T20:01:05.858Z,39.1475,-119.0593,8.6,1.5,ml,19,80,0.01,0.1461,nn,nn00893809,2025-02-21T20:49:57.821Z,"20 km NNE of Yerington, Nevada",earthquake,,1.1,0.36,10,reviewed,nn,nn
 2025-02-21T20:00:29.540Z,35.3453331,-117.7968369,5.33,1.51,ml,15,99,0.08745,0.23,ci,ci40190770,2025-02-21T20:02:33.788Z,"15 km WSW of Johannesburg, CA",earthquake,0.55,1.81,0.248,5,automatic,ci,ci
 2025-02-21T19:41:12.140Z,18.0225,-66.148333333333,13.28,2.06,md,4,186,0.08615,0.1,pr,pr71473273,2025-02-21T20:21:00.510Z,"4 km WNW of Olimpo, Puerto Rico",earthquake,1.79,1.31,0.36028354344218,4,reviewed,pr,pr
 2025-02-21T19:24:48.497Z,63.6226,-149.0639,0,2.1,ml,,,,0.51,ak,ak0252ebej3l,2025-02-21T19:26:39.718Z,"14 km SSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -122,6 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-21T05:10:42.620Z,38.838001251221,-122.78333282471,1.7599999904633,0.96,md,11,81,0.005491,0.02,nc,nc75136917,2025-02-21T05:12:18.705Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.519999981,0.24,14,automatic,nc,nc
 2025-02-21T05:08:36.870Z,38.836334228516,-122.78283691406,1.7799999713898,1.48,md,26,67,0.006218,0.02,nc,nc75136912,2025-02-21T05:10:13.819Z,"5 km WNW of Cobb, CA",earthquake,0.2,0.330000013,0.17,27,automatic,nc,nc
 2025-02-21T05:07:48.450Z,39.7195,-110.82683333333,-3.41,1.69,md,9,109,0.06598,0.16,uu,uu80102491,2025-02-21T15:41:34.470Z,"3 km NNW of Kenilworth, Utah",earthquake,0.58,1.2,0.19482912813149,9,reviewed,uu,uu
+2025-02-21T05:06:49.310Z,53.846333333333,-166.8715,4,-0.24,ml,7,125,0.05316,0.1,av,av93506781,2025-02-21T20:54:51.000Z,"22 km WSW of Dutch Harbor, Alaska",earthquake,0.39,1.31,0.25433158116588,7,reviewed,av,av
 2025-02-21T04:59:15.140Z,33.1385,-116.6378333,3.46,0.54,ml,19,77,0.061,0.19,ci,ci40190314,2025-02-21T17:41:50.914Z,"7 km NNW of Julian, CA",earthquake,0.3,0.76,0.126,7,reviewed,ci,ci
 2025-02-21T04:41:30.685Z,39.8704,141.4957,72.188,4.5,mb,30,172,0.975,0.44,us,us7000pf5k,2025-02-21T05:54:50.040Z,"19 km SSE of Kuzumaki, Japan",earthquake,4.08,7.551,0.113,23,reviewed,us,us
 2025-02-21T04:39:29.141Z,32.003,-101.734,7.7148,1.6,ml,15,80,0.1,0.1,tx,tx2025dpnx,2025-02-21T14:59:49.699Z,"14 km SSE of Stanton, Texas",earthquake,0.46545350603367,0.8676700276456,0.1,19,reviewed,tx,tx
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T21:19:03.861Z,62.1185,-150.0322,57.3,1.4,ml,,,,0.7,ak,ak0252cp0rok,2025-02-21T00:30:27.593Z,"10 km WSW of Susitna North, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-02-20T21:13:48.570Z,38.820999145508,-122.81283569336,2.6500000953674,0.28,md,13,109,0.003221,0.02,nc,nc75136727,2025-02-20T21:15:26.104Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.779999971,0.15,13,automatic,nc,nc
 2025-02-20T21:02:11.933Z,59.3991,-152.579,65.2,2.7,ml,,,,0.38,ak,ak0252cox95z,2025-02-21T00:34:01.040Z,"37 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-20T20:52:20.580Z,33.8453333,-117.4948333,-0.51,1.49,ml,40,44,0.04995,0.25,ci,ci40190010,2025-02-20T21:27:08.150Z,"4 km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.201,56,reviewed,ci,ci
