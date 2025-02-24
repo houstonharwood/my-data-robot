@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-24T18:41:41.800Z,36.81816482544,-121.86483001709,6.9099998474121,2.7,md,5,202,0.2933,0.01,nc,nc75138446,2025-02-24T18:44:42.086Z,"7 km WNW of Moss Landing, CA",earthquake,0.64,1.77999997,1.82,4,automatic,nc,nc
+2025-02-24T18:41:41.800Z,36.81816482544,-121.86483001709,6.9099998474121,2.7,md,5,202,0.2933,0.01,nc,nc75138446,2025-02-24T18:52:17.180Z,"7 km WNW of Moss Landing, CA",earthquake,0.64,1.77999997,1.82,4,automatic,nc,nc
 2025-02-24T18:32:04.771Z,61.8255,-150.5883,36,1.3,ml,,,,0.52,ak,ak0252j9grbx,2025-02-24T18:34:18.128Z,"30 km WNW of Willow, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2025-02-24T18:24:25.916Z,61.6157,-146.2578,32.4,1.2,ml,,,,0.72,ak,ak0252j9f38f,2025-02-24T18:26:02.779Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-24T18:19:56.476Z,55.8381,-155.6792,6,2.6,ml,,,,0.9,ak,ak0252j9e6h3,2025-02-24T18:42:52.249Z,"154 km SW of Akhiok, Alaska",earthquake,,1.3,,,reviewed,ak,ak
@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T17:51:48.220Z,46.853000640869,-121.75816345215,1.8200000524521,1.71000004,md,18,84,,0.0500000007,uw,uw62077501,2025-02-24T17:53:26.110Z,"23 km ENE of Ashford, Washington",earthquake,0.39,0.980000019,1.70000005,2,automatic,uw,uw
 2025-02-24T17:51:40.635Z,32.287,-101.864,5.5367,1.6,ml,10,103,0,0.5,tx,tx2025dwaq,2025-02-24T18:16:27.560Z,"18 km NNW of Stanton, Texas",earthquake,0,3.7316148281097,0.1,8,automatic,tx,tx
 2025-02-24T17:31:59.060Z,33.963,-116.583,6.66,0.65,ml,23,61,0.02729,0.14,ci,ci40193066,2025-02-24T17:35:30.113Z,"8 km W of Desert Hot Springs, CA",earthquake,0.2,0.73,0.088,11,automatic,ci,ci
+2025-02-24T17:17:03.223Z,28.915,-98.195,9.2529,1.8,ml,17,82,0.1,0.5,tx,tx2025dvzo,2025-02-24T18:47:53.755Z,"18 km WSW of Falls City, Texas",earthquake,0.79565670304042,3.6269301789578,0.1,14,reviewed,tx,tx
 2025-02-24T17:14:43.336Z,65.1302,-149.4241,15.2,2.6,ml,,,,0.39,ak,ak0252j8rjty,2025-02-24T17:27:12.040Z,"4 km WSW of Minto, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-02-24T17:05:49.532Z,8.7912,127.2672,10,4.4,mb,32,121,2.392,0.67,us,us6000pv5b,2025-02-24T17:23:44.040Z,"105 km E of Aras-asan, Philippines",earthquake,9.74,1.928,0.117,21,reviewed,us,us
 2025-02-24T17:04:16.014Z,31.518,-104.007,5.0246,1.6,ml,13,121,0,0.2,tx,tx2025dvzd,2025-02-24T17:08:06.152Z,"30 km NW of Toyah, Texas",earthquake,0,3.4288105964661,0.1,11,automatic,tx,tx
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T13:17:20.005Z,62.3181,-149.9394,34.8,1.1,ml,,,,0.85,ak,ak0252j6eeqo,2025-02-24T13:18:59.596Z,"8 km E of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-24T13:17:00.470Z,35.2425,-97.7695,4.11,1.39,ml,49,53,0.01259752794,0.35,ok,ok2025dvrl,2025-02-24T13:53:55.043Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.27,24,reviewed,ok,ok
 2025-02-24T13:09:28.007Z,37.4247,-117.1029,9.6,1,ml,8,219.28,0.177,0.3963,nn,nn00893948,2025-02-24T13:11:39.417Z,"33 km SSE of Goldfield, Nevada",earthquake,,2.2,0.38,5,automatic,nn,nn
-2025-02-24T13:04:46.290Z,35.6736679,-117.4886703,5.79,0.99,ml,16,75,0.05358,0.14,ci,ci40192898,2025-02-24T13:06:49.425Z,"13 km SW of Searles Valley, CA",earthquake,0.39,1.08,0.307,5,automatic,ci,ci
+2025-02-24T13:04:46.210Z,35.6725,-117.482,6.88,0.85,ml,27,39,0.04803,0.14,ci,ci40192898,2025-02-24T18:50:33.533Z,"13 km SW of Searles Valley, CA",earthquake,0.17,0.46,0.081,15,automatic,ci,ci
 2025-02-24T12:46:46.800Z,33.5208333,-116.5178333,13.6,0.56,ml,22,57,0.07515,0.1,ci,ci40192882,2025-02-24T13:56:50.952Z,"15 km ESE of Anza, CA",earthquake,0.17,0.38,0.196,13,reviewed,ci,ci
 2025-02-24T12:28:43.216Z,60.9292,-152.1616,83,0.7,ml,,,,0.09,ak,ak0252j5vdsx,2025-02-24T12:30:04.655Z,"54 km WNW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-02-24T12:26:00.966Z,-45.6245,-77.399,10,4.9,mb,40,182,2.78,1.13,us,us7000pfsi,2025-02-24T13:56:17.040Z,"Off the coast of Aisen, Chile",earthquake,9.23,1.947,0.086,43,reviewed,us,us
