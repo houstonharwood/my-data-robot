@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-26T22:36:17.300Z,36.0701675,-117.6633301,0.78,1.85,ml,22,57,0.094,0.2,ci,ci40195202,2025-02-26T22:38:21.494Z,"26 km E of Coso Junction, CA",earthquake,0.41,0.62,0.236,24,automatic,ci,ci
+2025-02-26T22:30:12.600Z,33.8571667,-117.509,1.57,1.36,ml,53,47,0.04711,0.2,ci,ci40195194,2025-02-26T22:36:32.505Z,"3 km SSE of Home Gardens, CA",earthquake,0.21,0.3,0.305,37,automatic,ci,ci
 2025-02-26T22:26:34.703Z,61.3249,-152.2719,3,0.4,ml,,,,0.04,ak,ak0252mmvyr2,2025-02-26T22:27:45.739Z,"67 km WNW of Beluga, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-02-26T22:26:09.180Z,38.809665679932,-122.78533172607,1.2000000476837,1.08,md,17,55,0.005104,0.02,nc,nc75139626,2025-02-26T22:27:45.414Z,"4 km NNW of The Geysers, CA",earthquake,0.2,0.479999989,0.18,17,automatic,nc,nc
 2025-02-26T22:25:41.653Z,61.6918,-150.1844,23.9,1.7,ml,,,,0.39,ak,ak0252mmvrkl,2025-02-26T22:27:48.243Z,"9 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -53,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T16:45:20.609Z,35.24283333,-97.77883333,1.14,1.24,ml,18,106,0.01979611533,0.23,ok,ok2025dzpi,2025-02-26T16:52:35.682Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.22,8,reviewed,ok,ok
 2025-02-26T16:45:17.097Z,64.7093,-146.8427,13,1.5,ml,,,,0.4,ak,ak0252mjfed9,2025-02-26T16:47:05.796Z,"11 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-26T16:29:01.160Z,38.0405,-112.444,1.84,1.53,md,11,80,0.2051,0.26,uu,uu80102686,2025-02-26T17:29:54.390Z,"21 km SW of Circleville, Utah",earthquake,0.62,16.91,0.17046039987643,9,reviewed,uu,uu
-2025-02-26T16:22:48.070Z,19.248,-68.262333333333,10.36,3.39,md,10,285,0.7382,0.25,pr,pr71473723,2025-02-26T16:47:19.470Z,"75 km NNE of Punta Cana, Dominican Republic",earthquake,4.64,6.31,0.12591772713913,6,reviewed,pr,pr
+2025-02-26T16:22:48.070Z,19.248,-68.262333333333,10.36,3.39,md,10,285,0.7382,0.25,pr,pr71473723,2025-02-26T22:30:51.040Z,"75 km NNE of Punta Cana, Dominican Republic",earthquake,4.64,6.31,0.12591772713913,6,reviewed,pr,pr
 2025-02-26T16:19:36.420Z,35.9615,-117.4985,1.91,0.91,ml,21,65,0.124,0.16,ci,ci40194866,2025-02-26T19:29:01.349Z,"23 km NNW of Searles Valley, CA",earthquake,0.26,0.43,0.152,14,reviewed,ci,ci
 2025-02-26T16:18:09.015Z,61.8454,-150.5797,34.9,1.4,ml,,,,0.42,ak,ak0252mj9let,2025-02-26T16:19:50.560Z,"30 km WNW of Willow, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-02-26T16:15:30.183Z,55.4764,164.6101,10,5.8,mww,125,74,4.273,0.64,us,us6000pvm4,2025-02-26T18:42:00.662Z,"157 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.77,1.837,0.039,62,reviewed,us,us
@@ -264,8 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T22:55:44.164Z,0.375,124.9411,10,6.1,mww,115,19,1.067,0.81,us,us6000pvgx,2025-02-26T13:37:12.923Z,"56 km E of Modisi, Indonesia",earthquake,4.83,1.731,0.053,34,reviewed,us,us
 2025-02-25T22:47:00.318Z,63.0938,-151.506,0,1.4,ml,,,,0.88,ak,ak0252kzh1n4,2025-02-25T22:49:43.204Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-25T22:46:21.240Z,38.512,-112.90533333333,3.17,1.07,md,13,117,0.01798,0.11,uu,uu80102656,2025-02-25T23:10:03.200Z,"15 km NE of Milford, Utah",earthquake,0.3,0.61,0.14556403592982,5,reviewed,uu,uu
-2025-02-25T22:38:23.829Z,35.2475,-97.78083333,5.3,1.63,ml,16,101,0.01799646848,0.12,ok,ok2025dyfm,2025-02-25T23:08:48.714Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.24,8,reviewed,ok,ok
-2025-02-25T22:38:04.356Z,36.6466,-116.2742,7.1,-0.3,ml,7,201.64,0.052,0.0865,nn,nn00894021,2025-02-26T01:56:31.178Z,"52 km SE of Beatty, Nevada",earthquake,,2.3,0.12,2,reviewed,nn,nn
-2025-02-25T22:36:27.850Z,36.176166666667,-91.4125,6.72,1.79,md,6,192,0.2346,0.19,nm,nm60503058,2025-02-26T15:36:50.890Z,"9 km SSW of Williford, Arkansas",earthquake,0.78,4.48,0.099594917645288,6,reviewed,nm,nm
-2025-02-25T22:30:30.213Z,59.7549,-153.1849,101.3,1.9,ml,,,,0.31,ak,ak0252kzdgrx,2025-02-25T22:32:17.182Z,"51 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-25T22:29:05.870Z,35.248,-97.77333333,5.13,2.24,ml,40,86,0.01709664506,0.17,ok,ok2025dyfe,2025-02-26T06:21:20.646Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.3,0.26,15,reviewed,ok,ok
