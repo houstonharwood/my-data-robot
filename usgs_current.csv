@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T06:14:37.480Z,36.1633333,-118.0623333,-0.62,2.18,ml,31,60,0.174,0.17,ci,ci40194626,2025-02-26T06:18:19.026Z,"14 km SSW of Olancha, CA",earthquake,0.22,0.51,0.246,25,automatic,ci,ci
 2025-02-26T06:14:14.251Z,36.9006,-115.3481,0,1.1,ml,16,287.1,0.487,0.3168,nn,nn00894040,2025-02-26T06:16:49.395Z,"46 km NE of Indian Springs, Nevada",earthquake,,18.9,0.76,6,automatic,nn,nn
 2025-02-26T06:13:02.610Z,38.791168212891,-122.73583221435,2.3099999427795,0.79,md,10,94,0.00795,0.02,nc,nc75139241,2025-02-26T06:42:16.584Z,"2 km ENE of The Geysers, CA",earthquake,0.35,1,0.12,10,automatic,nc,nc
-2025-02-26T05:53:24.989Z,33.596,136.3684,394.464,5.8,mww,133,45,1.833,0.68,us,us6000pvj5,2025-02-26T06:30:50.066Z,"38 km ESE of Shingū, Japan",earthquake,8,6.514,0.054,33,reviewed,us,us
+2025-02-26T05:53:24.989Z,33.596,136.3684,394.464,5.8,mww,133,45,1.833,0.68,us,us6000pvj5,2025-02-26T07:40:14.196Z,"38 km ESE of Shingū, Japan",earthquake,8,6.514,0.054,33,reviewed,us,us
 2025-02-26T05:51:14.340Z,38.83483505249,-122.8176651001,1.6900000572205,0.72,md,13,62,0.01287,0.02,nc,nc75139231,2025-02-26T06:12:18.384Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.74000001,0.46,15,automatic,nc,nc
 2025-02-26T05:50:15.578Z,38.5592,-119.536,7.5,1.4,ml,8,93.43,0.223,0.0777,nn,nn00894033,2025-02-26T05:52:38.234Z,"2 km WSW of Coleville, California",earthquake,,3.1,0.18,4,automatic,nn,nn
 2025-02-26T05:46:24.210Z,36.667999267578,-121.32183074951,8.5699996948242,3.59,ml,71,28,0.0441,0.27,nc,nc75139226,2025-02-26T07:26:04.399Z,"14 km SSW of Tres Pinos, CA",earthquake,0.28,0.720000029,0.202,39,reviewed,nc,nc
@@ -223,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T12:26:12.030Z,33.9725,-116.8753333,17.81,0.98,ml,41,48,0.08399,0.19,ci,ci40193890,2025-02-25T12:30:36.274Z,"5 km N of Banning, CA",earthquake,0.21,0.49,0.216,27,automatic,ci,ci
 2025-02-25T12:25:13.800Z,36.925998687744,-121.4178314209,8.3800001144409,1.55,md,28,60,0.07213,0.09,nc,nc75138996,2025-02-25T15:07:18.285Z,"9 km N of Hollister, CA",earthquake,0.24,0.709999979,0.21,17,automatic,nc,nc
 2025-02-25T12:24:34.753Z,61.591,-150.0405,43.1,1.2,ml,,,,0.52,ak,ak0252ktdus3,2025-02-25T12:26:06.169Z,"9 km NNW of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-02-25T12:23:54.896Z,57.9805,-157.0828,9.4,1.5,ml,,,,0.76,ak,ak0252ktdom9,2025-02-25T12:26:01.482Z,"31 km SSE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-25T12:23:54.896Z,57.9805,-157.0828,9.4,1.5,ml,,,,0.76,ak,ak0252ktdom9,2025-02-26T07:42:23.440Z,"31 km SSE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-25T12:22:36.290Z,32.9108333,-116.2413333,7.76,0.96,ml,43,47,0.06803,0.19,ci,ci40193882,2025-02-25T12:27:32.256Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.7,0.116,15,automatic,ci,ci
 2025-02-25T12:22:10.340Z,38.81583404541,-122.82033538818,1.0599999427795,0.76,md,10,103,0.009804,0.01,nc,nc75138986,2025-02-25T13:22:18.585Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.629999995,0.46,10,automatic,nc,nc
 2025-02-25T12:10:12.479Z,63.5501,-150.7516,3.8,1.4,ml,,,,0.29,ak,ak0252ktat1h,2025-02-25T12:16:15.955Z,"48 km E of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -280,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T07:55:34.780Z,19.1858,-68.2343,9,3.8,md,13,222,0.6878,0.76,pr,pr2025056004,2025-02-25T11:26:58.991Z,"69 km NNE of Punta Cana, Dominican Republic",earthquake,2.96,4.67,0.16,11,reviewed,pr,pr
 2025-02-25T07:53:39.330Z,41.835666666667,-111.584,6.47,1.11,md,14,112,0.1398,0.11,uu,uu80102626,2025-02-25T14:29:29.410Z,"17 km WSW of Garden, Utah",earthquake,0.36,1.39,0.10681464111561,11,reviewed,uu,uu
 2025-02-25T07:44:27.940Z,44.762,-112.82866666667,3.94,0.47,ml,4,157,0.06721,0.05,mb,mb90073178,2025-02-25T15:30:23.520Z,"23 km NW of Lima, Montana",earthquake,0.83,3.43,0.10162372526659,2,reviewed,mb,mb
-2025-02-25T07:40:46.812Z,31.781,-101.995,8.8623,1.5,ml,17,83,0.1,0.1,tx,tx2025dxbw,2025-02-25T14:55:49.666Z,"25 km SSE of Midland, Texas",earthquake,0.39396263582433,1.0462734783733,0.2,34,reviewed,tx,tx
