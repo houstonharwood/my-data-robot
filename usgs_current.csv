@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-27T23:26:16.111Z,60.7578,-151.836,85.4,3.1,ml,,,,0.35,ak,ak0252ob0pfm,2025-02-27T23:30:56.424Z,"30 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-27T23:21:34.712Z,64.9632,-149.1602,13.6,1.5,ml,,,,1.01,ak,ak0252oazo9o,2025-02-27T23:24:17.851Z,"22 km SSE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-27T23:20:16.380Z,38.842998504639,-122.87633514404,2.25,0.95,md,13,111,0.006728,0.07,nc,nc75140206,2025-02-27T23:21:54.778Z,"13 km NW of The Geysers, CA",earthquake,0.43,0.629999995,0.16,15,automatic,nc,nc
 2025-02-27T23:03:16.380Z,38.829166412354,-122.81600189209,1.7999999523163,1.05,md,20,61,0.01604,0.01,nc,nc75140196,2025-02-27T23:22:16.684Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.389999986,0.1,20,automatic,nc,nc
@@ -14,8 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T22:04:17.260Z,38.829498291016,-122.81150054932,1.5099999904633,0.77,md,12,61,0.006195,0.02,nc,nc75140181,2025-02-27T22:22:16.294Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.850000024,0.14,12,automatic,nc,nc
 2025-02-27T21:58:20.690Z,36.215999603271,-120.18733215332,3.3900001049042,1.53,md,4,219,0.1611,0,nc,nc75140176,2025-02-27T22:00:24.538Z,"8 km WNW of Huron, CA",earthquake,1.6,1.80999994,0.12,3,automatic,nc,nc
 2025-02-27T21:53:22.470Z,37.3854,-117.1383,0,1.6,ml,26,119.6,0.129,0.34,nn,nn00894133,2025-02-27T21:55:45.031Z,"36 km SSE of Goldfield, Nevada",earthquake,,6.3,0.3,16,automatic,nn,nn
-2025-02-27T21:48:31.388Z,51.9181,-175.9887,132.3,4.6,ml,,,,0.21,ak,ak0252o9z9b7,2025-02-27T22:21:35.568Z,"44 km E of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2025-02-27T21:48:30.442Z,52.2176,-176.043,131.13,5,mww,136,93,0.124,1.06,us,us6000pvws,2025-02-27T23:07:11.976Z,"55 km NE of Adak, Alaska",earthquake,8.77,5.628,0.098,10,reviewed,us,us
+2025-02-27T21:48:30.442Z,52.2176,-176.043,131.13,5,mww,136,93,0.124,1.06,us,us6000pvws,2025-02-27T23:28:45.677Z,"55 km NE of Adak, Alaska",earthquake,8.77,5.628,0.098,10,reviewed,us,us
 2025-02-27T21:47:40.167Z,37.3771,-117.1375,1.5,1.5,ml,22,118.98,0.125,0.2964,nn,nn00894131,2025-02-27T21:50:23.386Z,"37 km SSE of Goldfield, Nevada",earthquake,,3.2,0.34,12,automatic,nn,nn
 2025-02-27T21:41:03.010Z,38.819999694824,-122.82316589356,2.3599998950958,0.76,md,11,125,0.009776,0.01,nc,nc75140166,2025-02-27T22:07:19.179Z,"7 km NW of The Geysers, CA",earthquake,0.77,0.649999976,0.08,11,automatic,nc,nc
 2025-02-27T21:37:45.700Z,33.4966667,-116.5111667,13.82,1.08,ml,39,57,0.0761,0.17,ci,ci41068184,2025-02-27T21:41:38.081Z,"16 km ESE of Anza, CA",earthquake,0.2,0.41,0.213,26,automatic,ci,ci
@@ -76,6 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T14:59:33.450Z,38.505666666667,-112.90683333333,3.04,0.88,md,13,74,0.01636,0.09,uu,uu80102771,2025-02-27T17:14:53.010Z,"15 km NE of Milford, Utah",earthquake,0.32,0.61,0.61774461614241,7,reviewed,uu,uu
 2025-02-27T14:54:37.188Z,-58.0325,-10.3798,10,5.5,mww,69,44,14.043,0.73,us,us6000pvty,2025-02-27T22:37:01.113Z,"east of the South Sandwich Islands",earthquake,9.13,1.761,0.093,11,reviewed,us,us
 2025-02-27T14:54:00.420Z,19.291166305542,-155.24116516113,0.40000000596046,1.76,ml,52,146,0.01847,0.189999998,hv,hv74624362,2025-02-27T14:57:13.280Z,"16 km S of Volcano, Hawaii",earthquake,0.3,0.219999999,1.01,4,automatic,hv,hv
+2025-02-27T14:52:44.590Z,47.606666666667,-122.60833333333,22.94,1.53,ml,27,54,0.104,0.19,uw,uw62078401,2025-02-27T23:29:28.170Z,"2 km NNW of Enetai, Washington",earthquake,0.33,0.71,0.17567807606947,18,reviewed,uw,uw
 2025-02-27T14:49:13.231Z,61.9591,-150.9225,66.1,1.6,ml,,,,0.5,ak,ak0252o5sq7v,2025-02-27T14:51:07.475Z,"25 km E of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-27T14:46:47.410Z,59.7435,-151.5198,39.4,1.9,ml,,,,0.43,ak,ak0252o5s5ph,2025-02-27T14:49:40.998Z,"7 km NNE of Diamond Ridge, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-02-27T14:43:41.960Z,36.062,-117.376,-0.66,1.55,ml,25,80,0.1865,0.2,ci,ci40195490,2025-02-27T17:03:37.981Z,"33 km N of Searles Valley, CA",earthquake,0.31,0.88,0.125,25,reviewed,ci,ci
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T23:58:50.820Z,35.9536667,-117.4955,2,1.08,ml,23,64,0.1258,0.15,ci,ci40195282,2025-02-27T17:06:46.373Z,"22 km NNW of Searles Valley, CA",earthquake,0.26,0.41,0.224,17,reviewed,ci,ci
 2025-02-26T23:37:03.890Z,38.785831451416,-122.76899719238,2.7400000095367,1.04,md,14,82,0.0153,0.03,nc,nc75139666,2025-02-26T23:38:40.954Z,"1 km NW of The Geysers, CA",earthquake,0.31,0.709999979,0.3,15,automatic,nc,nc
 2025-02-26T23:32:05.600Z,19.375,-154.96116666667,7.4,1.85,ml,11,224,0.01263,0.15,hv,hv74623917,2025-02-27T18:01:19.840Z,"11 km SSW of Leilani Estates, Hawaii",earthquake,0.83,0.95,0.14918660050865,7,reviewed,hv,hv
-2025-02-26T23:31:24.340Z,40.350333333333,-124.94516666667,12.05,3.82,mw,175,233,0.4649,0.22,nc,nc75139661,2025-02-27T18:43:14.361Z,"56 km WNW of Petrolia, CA",earthquake,0.67,0.97,,10,reviewed,nc,nc
