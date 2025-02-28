@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-28T14:42:17.131Z,61.8019,-150.4591,6.2,1.8,ml,,,,0.33,ak,ak0252ptal01,2025-02-28T14:44:04.662Z,"23 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-28T14:41:03.580Z,38.826000213623,-122.84116363525,1.1599999666214,0.9,md,7,127,0.00559,0.05,nc,nc75140516,2025-02-28T14:42:39.578Z,"9 km NW of The Geysers, CA",earthquake,0.44,1.10000002,0.13,8,automatic,nc,nc
-2025-02-28T14:35:24.690Z,34.1543333,-116.9926667,6.46,1.43,ml,59,28,0.07678,0.15,ci,ci41068592,2025-02-28T14:40:06.031Z,"12 km ESE of Running Springs, CA",earthquake,0.12,0.39,0.181,28,automatic,ci,ci
+2025-02-28T14:35:24.690Z,34.1543333,-116.9926667,6.46,1.43,ml,59,28,0.07678,0.15,ci,ci41068592,2025-02-28T14:46:25.450Z,"12 km ESE of Running Springs, CA",earthquake,0.12,0.39,0.181,28,automatic,ci,ci
 2025-02-28T14:17:00.990Z,38.768665313721,-122.73016357422,0.81999999284744,1.04,md,8,110,0.008189,0.03,nc,nc75140506,2025-02-28T14:32:15.738Z,"2 km SE of The Geysers, CA",earthquake,0.33,0.680000007,0.17,7,automatic,nc,nc
 2025-02-28T14:10:43.640Z,33.9996667,-116.7983333,16.4,0.96,ml,43,61,0.03625,0.16,ci,ci41068576,2025-02-28T14:14:54.632Z,"9 km N of Cabazon, CA",earthquake,0.17,0.43,0.167,26,automatic,ci,ci
 2025-02-28T14:02:10.250Z,19.4228,-68.0168,89,3.88,md,21,209,1.3163,0.52,pr,pr2025059002,2025-02-28T14:38:36.040Z,"101 km NNE of Punta Cana, Dominican Republic",earthquake,4.82,8.27,0.1,11,reviewed,pr,pr
@@ -177,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T17:32:33.390Z,58.1855,-155.28116666667,0.75,-0.52,ml,7,148,0.03495,0.04,av,av93034134,2025-02-28T09:06:59.260Z,"84 km NW of Karluk, Alaska",earthquake,0.18,0.93,0.26513009897411,7,reviewed,av,av
 2025-02-27T17:31:11.227Z,31.549,-104.193,4.1948,2,ml,17,73,0.1,0.4,tx,tx2025ebmk,2025-02-27T17:44:12.752Z,"46 km NW of Toyah, Texas",earthquake,0,1.3598580360413,0.3,13,automatic,tx,tx
 2025-02-27T17:28:54.990Z,37.971168518066,-122.05899810791,14.239999771118,1.7,md,9,85,0.0652,0.03,nc,nc75140076,2025-02-27T19:52:17.304Z,"2 km SE of Pacheco, CA",earthquake,0.41,1.10000002,0.14,8,automatic,nc,nc
-2025-02-27T17:18:59.077Z,32.355,-102.086,4.5187,1.4,ml,24,47,0,0.5,tx,tx2025ebly,2025-02-27T18:02:23.434Z,"37 km NW of Stanton, Texas",earthquake,0,1.0593791007996,0.2,16,automatic,tx,tx
+2025-02-27T17:18:59.430Z,32.353,-102.092,7.8613,1.5,ml,18,47,0,0.1,tx,tx2025ebly,2025-02-28T14:46:54.325Z,"37 km NW of Stanton, Texas",earthquake,0.56958751649416,0.5956800764807,0.1,12,reviewed,tx,tx
 2025-02-27T17:18:37.130Z,32.913,-116.2435,8.03,1.51,ml,47,46,0.06524,0.2,ci,ci40195594,2025-02-28T01:33:59.760Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.91,0.153,21,reviewed,ci,ci
 2025-02-27T17:12:23.175Z,61.1061,-150.8325,50.9,1.4,ml,,,,0.12,ak,ak0252o7d4b1,2025-02-27T17:14:41.156Z,"14 km ESE of Beluga, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-02-27T17:04:31.617Z,61.9313,-150.8474,60.7,1.6,ml,,,,0.32,ak,ak0252o7bf89,2025-02-27T17:13:24.257Z,"29 km ESE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -199,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T14:59:33.450Z,38.505666666667,-112.90683333333,3.04,0.88,md,13,74,0.01636,0.09,uu,uu80102771,2025-02-27T17:14:53.010Z,"15 km NE of Milford, Utah",earthquake,0.32,0.61,0.61774461614241,7,reviewed,uu,uu
 2025-02-27T14:54:37.188Z,-58.0325,-10.3798,10,5.5,mww,69,44,14.043,0.73,us,us6000pvty,2025-02-27T22:37:01.113Z,"east of the South Sandwich Islands",earthquake,9.13,1.761,0.093,11,reviewed,us,us
 2025-02-27T14:54:00.420Z,19.291166305542,-155.24116516113,0.40000000596046,1.76,ml,52,146,0.01847,0.189999998,hv,hv74624362,2025-02-27T14:57:13.280Z,"16 km S of Volcano, Hawaii",earthquake,0.3,0.219999999,1.01,4,automatic,hv,hv
-2025-02-27T14:52:44.590Z,47.606666666667,-122.60833333333,22.94,1.53,ml,27,54,0.104,0.19,uw,uw62078401,2025-02-27T23:29:28.170Z,"2 km NNW of Enetai, Washington",earthquake,0.33,0.71,0.17567807606947,18,reviewed,uw,uw
-2025-02-27T14:49:13.231Z,61.9591,-150.9225,66.1,1.6,ml,,,,0.5,ak,ak0252o5sq7v,2025-02-27T14:51:07.475Z,"25 km E of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-02-27T14:46:47.410Z,59.7435,-151.5198,39.4,1.9,ml,,,,0.43,ak,ak0252o5s5ph,2025-02-27T14:49:40.998Z,"7 km NNE of Diamond Ridge, Alaska",earthquake,,2.9,,,automatic,ak,ak
