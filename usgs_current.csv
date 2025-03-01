@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-01T16:30:58.002Z,61.0505,-141.0127,15.4,1.7,ml,,,,0.3,ak,ak0252rhyb9k,2025-03-01T16:32:58.887Z,"111 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-01T15:59:21.130Z,38.833000183105,-122.81983184815,1.7200000286102,0.25,md,9,83,0.01225,0.01,nc,nc75141071,2025-03-01T16:17:21.014Z,"8 km NNW of The Geysers, CA",earthquake,0.36,1.13999999,0.15,9,automatic,nc,nc
 2025-03-01T15:40:53.340Z,36.545833587646,-121.13899993897,1.9500000476837,2.44,md,41,56,0.04541,0.18,nc,nc75141061,2025-03-01T15:57:17.006Z,"2 km NNE of Pinnacles, CA",earthquake,0.24,0.889999986,0.12,41,automatic,nc,nc
 2025-03-01T15:38:05.781Z,61.9139,-151.831,8.3,2.2,ml,,,,0.85,ak,ak0252rhehcy,2025-03-01T15:39:57.456Z,"24 km WSW of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T14:43:30.650Z,47.611999511719,-122.61033630371,21.14999961853,2.266238451004,ml,18,78,,0.0900000036,uw,uw62078691,2025-03-01T14:58:39.174Z,"3 km NNW of Enetai, Washington",earthquake,0.43,1.05999994,0.23502333462238,10,automatic,uw,uw
 2025-03-01T14:19:38.613Z,40.2969,-120.1636,3.6,1.8,ml,8,296.51,0.353,0.0811,nn,nn00894203,2025-03-01T14:22:17.962Z,"17 km N of Herlong, California",earthquake,,4,0.46,4,automatic,nn,nn
 2025-03-01T14:19:01.640Z,17.912833333333,-66.799333333333,9.34,2.5,md,13,230,0.08843,0.09,pr,pr71474073,2025-03-01T14:29:26.660Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.43,0.68,0.26384843934213,9,reviewed,pr,pr
-2025-03-01T14:18:22.080Z,40.260166168213,-120.10800170898,5.8000001907349,2.29,md,12,115,0.3016,0.12,nc,nc75141031,2025-03-01T14:27:19.288Z,"21 km E of Honey Lake, CA",earthquake,0.4,1.62,0.16,4,automatic,nc,nc
+2025-03-01T14:18:22.080Z,40.260166168213,-120.10800170898,5.8000001907349,2.29,md,12,115,0.3016,0.12,nc,nc75141031,2025-03-01T16:32:18.104Z,"21 km E of Honey Lake, CA",earthquake,0.4,1.62,0.16,4,automatic,nc,nc
 2025-03-01T14:16:46.483Z,40.2717,-120.0983,8.692,2.7,ml,30,115,0.298,0.27,us,us6000pwaf,2025-03-01T16:17:21.096Z,"14 km NNE of Herlong, California",earthquake,1.64,8.471,0.036,102,reviewed,us,us
 2025-03-01T13:59:53.979Z,7.8935,126.6352,34.14,5,mb,48,79,1.329,0.76,us,us6000pwae,2025-03-01T14:17:37.040Z,"22 km NE of Taytayan, Philippines",earthquake,8.25,5.753,0.055,105,reviewed,us,us
 2025-03-01T13:52:09.240Z,38.828498840332,-122.81649780273,1.7400000095367,1.06,md,24,44,0.007152,0.02,nc,nc75141021,2025-03-01T16:07:19.022Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.360000014,0.11,25,automatic,nc,nc
@@ -225,10 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T16:51:22.460Z,35.25183333,-97.7855,5.57,-0.49,ml,14,129,0.01259752794,0.09,ok,ok2025edgo,2025-02-28T17:06:16.324Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.21,6,reviewed,ok,ok
 2025-02-28T16:43:43.470Z,46.832,-121.91333333333,10.36,0.39,ml,13,141,0.02626,0.07,uw,uw62078596,2025-02-28T19:33:13.920Z,"12 km NE of Ashford, Washington",earthquake,0.5,0.38,0.076180758241361,5,reviewed,uw,uw
 2025-02-28T16:42:45.359Z,35.25766667,-97.78066667,5.46,-0.18,ml,14,156,0.01439717478,0.1,ok,ok2025edgg,2025-02-28T16:52:54.337Z,"4 km SE of Tuttle, Oklahoma",earthquake,,0.6,0.22,6,reviewed,ok,ok
-2025-02-28T16:39:05.561Z,31.621,-104.188,4.676,2,ml,17,126,0.1,0.4,tx,tx2025edgc,2025-02-28T17:14:08.521Z,"50 km NW of Toyah, Texas",earthquake,0,1.3005380630493,0.2,13,automatic,tx,tx
-2025-02-28T16:37:33.060Z,51.905,178.4835,6.66,-0.57,ml,4,314,0.04667,0.33,av,av93034339,2025-03-01T02:25:08.770Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.84,3.38,0.089238762792129,3,reviewed,av,av
-2025-02-28T16:33:23.320Z,35.24233333,-97.79316667,5.47,-0.76,ml,12,229,0.01709664506,0.05,ok,ok2025edga,2025-02-28T16:57:10.848Z,"5 km W of Bridge Creek, Oklahoma",earthquake,,0.4,0.11,5,reviewed,ok,ok
-2025-02-28T16:33:18.070Z,35.2415,-97.795,5.45,-0.39,ml,12,234,0.01709664506,0.05,ok,ok2025edfz,2025-02-28T16:55:16.422Z,"5 km W of Bridge Creek, Oklahoma",earthquake,,0.4,0.13,6,reviewed,ok,ok
-2025-02-28T16:33:00.190Z,35.25416667,-97.78266667,6.34,-0.28,ml,14,142,0.01349735136,0.09,ok,ok2025edfy,2025-02-28T16:53:38.648Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.25,7,reviewed,ok,ok
-2025-02-28T16:32:21.370Z,33.9211667,-116.7218333,15.29,1.65,ml,60,25,0.0523,0.16,ci,ci41068656,2025-02-28T17:53:34.290Z,"6 km E of Cabazon, CA",earthquake,0.14,0.4,0.181,24,reviewed,ci,ci
-2025-02-28T16:30:41.509Z,35.2545,-97.782,5.71,0.21,ml,14,144,0.01349735136,0.07,ok,ok2025edfw,2025-02-28T16:51:32.626Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.4,0.2,6,reviewed,ok,ok
