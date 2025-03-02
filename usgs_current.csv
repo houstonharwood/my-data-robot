@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-02T16:49:29.760Z,38.819667816162,-122.84233093262,2.2200000286102,1.01,md,18,71,0.006662,0.02,nc,nc75141701,2025-03-02T16:51:06.312Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.449999988,0.27,20,automatic,nc,nc
 2025-03-02T16:44:24.950Z,33.1591667,-115.6483333,3.16,1.54,ml,42,42,0.03294,0.26,ci,ci41069928,2025-03-02T16:48:03.979Z,"13 km WNW of Calipatria, CA",earthquake,0.25,0.43,0.129,28,automatic,ci,ci
 2025-03-02T16:41:59.571Z,65.2094,-148.9378,17.9,1.1,ml,,,,0.39,ak,ak0252t5k0r9,2025-03-02T16:43:24.870Z,"20 km ENE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-02T16:32:54.240Z,34.0198333,-117.2146667,15.3,1.52,ml,76,31,0.08021,0.19,ci,ci41069920,2025-03-02T16:43:38.430Z,"5 km SW of Redlands, CA",earthquake,0.17,0.24,0.133,26,automatic,ci,ci
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-02T16:26:55.980Z,33.1541667,-115.658,2.64,2.36,ml,57,41,0.04246,0.25,ci,ci41069904,2025-03-02T16:30:28.781Z,"13 km NNW of Westmorland, CA",earthquake,0.21,0.4,0.171,26,automatic,ci,ci
 2025-03-02T16:22:00.228Z,61.8605,-149.2335,41,1.5,ml,,,,1,ak,ak0252t5ftkm,2025-03-02T16:23:48.804Z,"12 km N of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-02T16:21:54.170Z,33.1583333,-115.6508333,2.96,1.97,ml,51,41,0.03515,0.27,ci,ci41069896,2025-03-02T16:25:30.247Z,"13 km WNW of Calipatria, CA",earthquake,0.24,0.36,0.147,29,automatic,ci,ci
-2025-03-02T16:19:33.040Z,40.320499420166,-124.61949920654,0.97000002861023,3.33,ml,40,245,0.2142,0.25,nc,nc75141696,2025-03-02T16:42:16.593Z,"28 km W of Petrolia, CA",earthquake,3.14,4.82999992,0.21,9,automatic,nc,nc
+2025-03-02T16:19:33.040Z,40.320499420166,-124.61949920654,0.97000002861023,3.33,ml,40,245,0.2142,0.25,nc,nc75141696,2025-03-02T16:52:18.654Z,"28 km W of Petrolia, CA",earthquake,3.14,4.82999992,0.21,9,automatic,nc,nc
 2025-03-02T16:17:23.230Z,33.1553333,-115.6561667,2.61,2.73,ml,62,41,0.04053,0.27,ci,ci41069888,2025-03-02T16:21:49.735Z,"14 km NNW of Westmorland, CA",earthquake,0.21,0.41,0.177,27,automatic,ci,ci
 2025-03-02T16:16:52.160Z,33.151,-115.6545,2.05,2.12,ml,36,47,0.04194,0.26,ci,ci41069880,2025-03-02T16:20:38.392Z,"13 km NNW of Westmorland, CA",earthquake,0.29,0.59,0.199,27,automatic,ci,ci
 2025-03-02T16:11:54.190Z,38.791831970215,-122.78050231934,3.3499999046326,1.47,md,31,80,0.005949,0.03,nc,nc75141691,2025-03-02T16:47:19.622Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.439999998,0.15,30,automatic,nc,nc
@@ -234,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T17:14:35.150Z,16.8447,146.1594,96.79,4.9,mb,199,44,1.634,0.75,us,us6000pwaz,2025-03-01T20:30:17.509Z,"185 km NNE of Saipan, Northern Mariana Islands",earthquake,5.97,5.584,0.029,400,reviewed,us,us
 2025-03-01T17:08:17.250Z,33.9383333,-116.7226667,17,2.12,ml,101,19,0.05665,0.19,ci,ci41069440,2025-03-02T15:21:35.750Z,"6 km ENE of Cabazon, CA",earthquake,0.12,0.31,0.192,25,reviewed,ci,ci
 2025-03-01T17:04:35.210Z,38.830333709717,-122.81517028809,1.75,1.08,md,16,48,0.007991,0.01,nc,nc75141086,2025-03-01T19:12:19.166Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.529999971,0.27,16,automatic,nc,nc
-2025-03-01T16:54:12.220Z,33.1873333,-116.0006667,6.95,1.14,ml,27,63,0.02367,0.17,ci,ci41069424,2025-03-01T16:58:11.596Z,"13 km SSW of Salton City, CA",earthquake,0.24,0.45,0.199,26,automatic,ci,ci
-2025-03-01T16:54:11.860Z,37.826831817627,-122.01016998291,4.9499998092651,1.31,md,11,85,0.03484,0.07,nc,nc75141076,2025-03-01T18:27:15.864Z,"1 km NW of Danville, CA",earthquake,0.29,0.600000024,0.26,9,automatic,nc,nc
