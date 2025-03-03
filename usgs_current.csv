@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-03T05:43:25.982Z,32.363,-101.924,4.2179,1.2,ml,36,31,0,0.4,tx,tx2025ehxb,2025-03-03T05:52:20.591Z,"26 km SW of Ackerly, Texas",earthquake,0,0.86014330387115,0.2,25,automatic,tx,tx
-2025-03-03T05:25:57.530Z,38.835498809815,-122.80916595459,1.8500000238419,1.07,md,18,52,0.01211,0.02,nc,nc75141981,2025-03-03T05:27:31.431Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.600000024,0.34,19,automatic,nc,nc
+2025-03-03T05:25:57.530Z,38.835498809815,-122.80916595459,1.8500000238419,1.07,md,18,52,0.01211,0.02,nc,nc75141981,2025-03-03T05:57:18.838Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.600000024,0.34,19,automatic,nc,nc
 2025-03-03T05:24:10.850Z,34.147,-116.4415,8.12,1.21,ml,39,58,0.0578,0.17,ci,ci41070096,2025-03-03T05:27:57.131Z,"4 km NNW of Yucca Valley, CA",earthquake,0.18,0.52,0.165,26,automatic,ci,ci
 2025-03-03T05:20:07.330Z,60.1237,-151.0223,45,1.9,ml,,,,0.4,ak,ak0252umezj9,2025-03-03T05:22:35.359Z,"23 km ESE of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-03-03T05:05:28.664Z,17.7644,-82.3071,10,4.3,mb,46,54,4.565,1.18,us,us6000pwju,2025-03-03T05:17:03.040Z,"195 km SSW of George Town, Cayman Islands",earthquake,4.33,1.973,0.084,40,reviewed,us,us
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-03T03:48:40.788Z,31.636,-104.496,16.8128,1.6,ml,7,220,0,1.4,tx,tx2025ehtg,2025-03-03T04:22:27.534Z,"60 km S of Whites City, New Mexico",earthquake,0,8.10764503479,0.1,7,automatic,tx,tx
 2025-03-03T03:41:09.148Z,61.3786,-150.3653,15.4,1.4,ml,,,,0.38,ak,ak0252ulcmhu,2025-03-03T03:43:21.656Z,"19 km SSE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-03T03:33:08.120Z,38.835166931152,-122.80633544922,2.079999923706,0.63,md,8,85,0.01211,0.01,nc,nc75141916,2025-03-03T04:57:18.434Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.75,0.07,8,automatic,nc,nc
-2025-03-03T03:33:02.909Z,16.322,95.6218,10,4.5,mb,28,154,3.816,0.79,us,us6000pwjj,2025-03-03T05:28:24.885Z,"7 km WNW of Pyapon, Myanmar",earthquake,7.31,1.828,0.124,19,reviewed,us,us
+2025-03-03T03:33:02.909Z,16.322,95.6218,10,4.5,mb,28,154,3.816,0.79,us,us6000pwjj,2025-03-03T05:57:22.458Z,"7 km WNW of Pyapon, Myanmar",earthquake,7.31,1.828,0.124,19,reviewed,us,us
 2025-03-03T03:15:31.400Z,17.968833333333,-66.407666666667,10.32,2.35,md,9,202,0.1476,0.07,pr,pr71474263,2025-03-03T03:25:50.250Z,"0 km NW of Santa Isabel, Puerto Rico",earthquake,0.61,0.83,0.057954159011808,5,reviewed,pr,pr
 2025-03-03T03:12:37.447Z,60.0122,-139.3204,0,1.1,ml,,,,0.91,ak,ak0252ul6gvs,2025-03-03T03:15:10.355Z,"56 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-03T03:09:57.005Z,64.7921,-147.145,13.8,1.2,ml,,,,0.22,ak,ak0252ul5v9w,2025-03-03T03:11:15.134Z,"9 km N of Moose Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-02T06:23:30.397Z,28.3064,104.901,10,4.6,mb,60,68,4.466,0.72,us,us6000pwej,2025-03-02T09:12:11.040Z,"14 km W of Bowangshan, China",earthquake,9.96,1.884,0.071,59,reviewed,us,us
 2025-03-02T06:18:40.034Z,37.3852,-114.9606,13.8,1.9,ml,25,154.85,0.075,0.2194,nn,nn00894220,2025-03-02T06:21:24.431Z,"18 km E of Alamo, Nevada",earthquake,,0.4,0.33,18,automatic,nn,nn
 2025-03-02T06:04:28.857Z,31.636,-104.022,6.0283,1.8,ml,14,45,0,0.2,tx,tx2025egcf,2025-03-02T06:12:44.971Z,"40 km W of Mentone, Texas",earthquake,0,2.5104320049286,0.2,12,automatic,tx,tx
-2025-03-02T05:59:05.780Z,-22.3958,-68.6539,113.191,4.2,mb,22,56,0.706,0.76,us,us6000pweg,2025-03-02T08:56:19.040Z,"28 km ENE of Calama, Chile",earthquake,4.61,3.183,0.167,10,reviewed,us,us
