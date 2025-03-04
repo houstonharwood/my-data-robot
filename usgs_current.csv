@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-03T15:20:57.586Z,-9.9183,118.5139,35.236,4.7,mb,74,90,1.305,1.04,us,us6000pwms,2025-03-03T15:53:59.040Z,"96 km SW of Tambolaka, Indonesia",earthquake,5.44,5.866,0.089,38,reviewed,us,us
 2025-03-03T15:19:59.273Z,64.9304,-149.1894,14,1.1,ml,,,,0.46,ak,ak0252usd7vb,2025-03-03T15:22:09.792Z,"25 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-03T15:18:50.250Z,38.5065,-112.90533333333,2.84,0.63,md,13,112,0.01547,0.08,uu,uu80103106,2025-03-03T19:43:44.660Z,"15 km NE of Milford, Utah",earthquake,0.31,0.51,0.45536752013502,5,reviewed,uu,uu
-2025-03-03T15:18:28.742Z,-12.5493,-77.3915,10,4.6,mb,33,164,0.775,0.47,us,us6000pwn2,2025-03-04T03:28:31.362Z,"61 km SW of Santiago de Surco, Peru",earthquake,5.76,1.952,0.103,28,reviewed,us,us
+2025-03-03T15:18:28.742Z,-12.5493,-77.3915,10,4.6,mb,33,164,0.775,0.47,us,us6000pwn2,2025-03-04T04:54:36.932Z,"61 km SW of Santiago de Surco, Peru",earthquake,5.76,1.952,0.103,28,reviewed,us,us
 2025-03-03T15:18:04.678Z,11.0195,-86.8939,10,4.6,mb,55,122,1.288,0.6,us,us6000pwmg,2025-03-03T16:59:55.040Z,"94 km SSW of Masachapa, Nicaragua",earthquake,8.26,1.54,0.057,90,reviewed,us,us
 2025-03-03T15:16:57.289Z,61.5437,-146.4728,30.8,1.9,ml,,,,0.54,ak,ak0252usckkg,2025-03-03T15:18:24.576Z,"46 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-03T15:15:17.850Z,36.125999450684,-120.60883331299,6.9800000190735,1.39,md,11,155,0.05799,0.14,nc,nc75142136,2025-03-03T17:42:19.375Z,"23 km W of Coalinga, CA",earthquake,0.59,1.39999998,0.07,6,automatic,nc,nc
@@ -223,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-03T06:15:04.610Z,34.156,-118.3643333,16.24,1.46,ml,11,127,0.04291,0.06,ci,ci37541837,2025-03-03T20:05:25.570Z,"2 km SSE of North Hollywood, CA",earthquake,0.36,0.63,0.038,4,reviewed,ci,ci
 2025-03-03T06:14:56.380Z,34.1535,-118.3581667,15.39,1.65,ml,9,131,0.04246,0.07,ci,ci37541813,2025-03-03T19:01:52.262Z,"2 km NNW of Universal City, CA",earthquake,0.39,0.42,0.16,5,reviewed,ci,ci
 2025-03-03T06:14:51.520Z,34.1528333,-118.3568333,16.38,1.82,ml,16,82,0.02366,0.06,ci,ci41070128,2025-03-03T19:01:54.263Z,"2 km NNW of Universal City, CA",earthquake,0.26,0.27,0.14,9,reviewed,ci,ci
-2025-03-03T06:13:45.110Z,34.1615,-118.3533333,15.59,3.85,ml,181,21,0.01579,0.24,ci,ci41070112,2025-03-04T04:48:00.117Z,"2 km ESE of North Hollywood, CA",earthquake,0.12,0.18,0.156,411,reviewed,ci,ci
+2025-03-03T06:13:45.110Z,34.1615,-118.3533333,15.59,3.85,ml,181,21,0.01579,0.24,ci,ci41070112,2025-03-04T04:53:16.341Z,"2 km ESE of North Hollywood, CA",earthquake,0.12,0.18,0.156,411,reviewed,ci,ci
 2025-03-03T06:08:18.474Z,61.04,-152.3412,107.6,1.5,ml,,,,0.31,ak,ak0252umxvef,2025-03-03T06:10:22.942Z,"65 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-03T05:57:28.275Z,-23.5068,-175.5377,27.205,4.8,mb,29,110,6.116,1,us,us6000pwk3,2025-03-03T07:34:41.040Z,"247 km SSW of ‘Ohonua, Tonga",earthquake,13.56,6.288,0.111,25,reviewed,us,us
 2025-03-03T05:43:26.312Z,32.37,-101.922,7.5928,1.2,ml,22,69,0,0.1,tx,tx2025ehxb,2025-03-03T14:59:36.989Z,"26 km SW of Ackerly, Texas",earthquake,0.47598768272871,0.64520836045138,0.1,19,reviewed,tx,tx
@@ -235,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-03T05:05:40.350Z,44.655666666667,-114.35516666667,8.35,1.68,ml,13,93,0.3544,0.22,mb,mb90073403,2025-03-03T20:50:18.580Z,"19 km NNW of Challis, Idaho",earthquake,0.53,1.83,0.20208264863186,22,reviewed,mb,mb
 2025-03-03T05:05:28.664Z,17.7644,-82.3071,10,4.3,mb,46,54,4.565,1.18,us,us6000pwju,2025-03-04T03:38:25.951Z,"195 km SSW of George Town, Cayman Islands",earthquake,4.33,1.973,0.084,40,reviewed,us,us
 2025-03-03T04:58:44.670Z,17.960333333333,-66.409666666667,8.9,2.39,md,10,149,0.1336,0.07,pr,pr71474273,2025-03-03T05:22:41.190Z,"0 km SW of Santa Isabel, Puerto Rico",earthquake,0.36,0.99,0.062215934269448,5,reviewed,pr,pr
-2025-03-03T04:52:48.946Z,68.8552,-147.3127,0,1.7,ml,,,,0.57,ak,ak0252um0i22,2025-03-03T05:02:05.661Z,"108 km NW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-03T04:52:08.710Z,38.823501586914,-122.84600067139,2.0499999523163,0.7,md,16,105,0.008578,0.01,nc,nc75141976,2025-03-03T05:47:20.763Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.32,16,automatic,nc,nc
-2025-03-03T04:51:29.950Z,47.565833333333,-114.111,13.6,0,ml,5,108,0.09472,0.03,mb,mb90073413,2025-03-03T15:39:43.540Z,"3 km S of Pablo, Montana",earthquake,0.55,1.28,0.17396129686056,2,reviewed,mb,mb
