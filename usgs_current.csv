@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-05T08:46:41.930Z,38.811500549316,-122.78399658203,1.1000000238419,1.29,md,25,33,0.003127,0.03,nc,nc75143161,2025-03-05T08:48:16.648Z,"4 km NNW of The Geysers, CA",earthquake,0.18,0.300000012,0.21,26,automatic,nc,nc
+2025-03-05T08:42:10.720Z,38.792167663574,-122.77766418457,1.8200000524521,0.73,md,9,163,0.008076,0.02,nc,nc75143156,2025-03-05T08:43:45.559Z,"2 km NW of The Geysers, CA",earthquake,0.6,0.800000012,0.29,8,automatic,nc,nc
 2025-03-05T08:25:03.580Z,34.0131667,-116.715,7.96,1.02,ml,50,31,0.06116,0.16,ci,ci41071640,2025-03-05T08:30:03.601Z,"12 km NNE of Cabazon, CA",earthquake,0.16,0.47,0.176,27,automatic,ci,ci
 2025-03-05T08:01:21.520Z,33.6811667,-116.7181667,16.14,0.54,ml,31,60,0.03326,0.15,ci,ci41071632,2025-03-05T08:06:04.518Z,"6 km S of Idyllwild, CA",earthquake,0.22,0.41,0.314,13,automatic,ci,ci
 2025-03-05T07:43:49.197Z,39.5515,-119.8044,6.6,1.3,ml,16,57.63,0.018,0.1137,nn,nn00894314,2025-03-05T07:46:16.606Z,"2 km NNE of Reno, Nevada",earthquake,,0.4,0.24,7,automatic,nn,nn
@@ -140,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T20:46:38.210Z,33.3568333,-116.2161667,11.77,0.88,ml,28,55,0.07839,0.15,ci,ci41071072,2025-03-04T21:39:13.324Z,"16 km SW of Oasis, CA",earthquake,0.21,0.41,0.117,10,reviewed,ci,ci
 2025-03-04T20:46:27.880Z,34.1586667,-118.3705,16.96,1.28,ml,14,139,0.01986,0.07,ci,ci41071064,2025-03-04T21:24:17.899Z,"2 km SSE of North Hollywood, CA",earthquake,0.29,0.32,0.16,7,reviewed,ci,ci
 2025-03-04T20:45:45.041Z,64.722,-149.3697,14.8,1.1,ml,,,,1.08,ak,ak0252wj19wo,2025-03-04T20:47:58.079Z,"17 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-04T20:40:20.930Z,61.306333333333,-152.30983333333,1.35,-0.13,ml,10,121,0.05616,0.09,av,av93521536,2025-03-05T08:43:39.280Z,"68 km WNW of Beluga, Alaska",earthquake,0.25,0.95,0.16338464107313,10,reviewed,av,av
 2025-03-04T20:37:42.977Z,62.819,-151.67,6.4,1.6,ml,,,,1,ak,ak0252wizk0p,2025-03-04T20:39:29.371Z,"58 km NW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-04T20:32:11.800Z,36.41783333,-96.894,7.68,0.59,ml,20,76,0.05848852256,0.21,ok,ok2025ekvt,2025-03-04T20:49:45.220Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.6,0.17,10,reviewed,ok,ok
 2025-03-04T20:29:09.160Z,34.1376667,-118.5238333,7.72,1.53,ml,39,58,0.02345,0.18,ci,ci41071048,2025-03-05T07:46:29.145Z,"3 km SW of Encino, CA",earthquake,0.21,0.28,0.229,29,automatic,ci,ci
@@ -279,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T09:01:14.570Z,51.872833333333,-176.64333333333,1.19,1.96,ml,10,173,0.1106,0.12,av,av93521026,2025-03-05T03:41:52.950Z,"0 km W of Adak, Alaska",earthquake,0.56,0.85,0.24962600058615,10,reviewed,av,av
 2025-03-04T08:59:07.740Z,51.872833333333,-176.638,0.72,2.16,ml,12,160,0.1099,0.14,av,av93521016,2025-03-05T03:36:21.340Z,"0 km WSW of Adak, Alaska",earthquake,0.41,0.61,0.19339950631477,13,reviewed,av,av
 2025-03-04T08:56:23.310Z,48.608833333333,-122.79283333333,17.08,0.17,md,4,284,0.008034,0.06,uw,uw61503998,2025-03-04T17:57:42.620Z,"11 km E of Orcas, Washington",earthquake,0.62,1.12,0.096718031945389,3,reviewed,uw,uw
-2025-03-04T08:40:10.925Z,62.1048,-149.6025,52.7,1.5,ml,,,,0.94,ak,ak0252wbuxfo,2025-03-04T08:41:52.342Z,"14 km ESE of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
