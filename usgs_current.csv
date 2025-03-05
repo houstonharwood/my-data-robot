@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T11:13:08.809Z,61.8578,-149.3605,4,1.6,ml,,,,0.74,ak,ak0252y10s8w,2025-03-05T11:15:02.976Z,"14 km NNW of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-05T11:12:05.630Z,38.819332122803,-122.82266998291,2.289999961853,0.76,md,13,80,0.01037,0.01,nc,nc75143211,2025-03-05T11:37:14.836Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.579999983,0.35,13,automatic,nc,nc
 2025-03-05T11:10:38.050Z,38.797332763672,-122.76300048828,2.1199998855591,0.79,md,8,133,0.01991,0.01,nc,nc75143206,2025-03-05T11:27:17.775Z,"2 km  of The Geysers, CA",earthquake,0.47,1.99000001,0.06,8,automatic,nc,nc
-2025-03-05T11:03:01.870Z,35.2836685,-119.3330002,16.94,3.3,ml,93,51,0.1546,0.28,ci,ci41071720,2025-03-05T11:38:35.813Z,"18 km SE of Buttonwillow, CA",earthquake,0.26,0.87,0.381,19,automatic,ci,ci
+2025-03-05T11:03:01.870Z,35.2836685,-119.3330002,16.94,3.3,ml,93,51,0.1546,0.28,ci,ci41071720,2025-03-05T11:43:54.617Z,"18 km SE of Buttonwillow, CA",earthquake,0.26,0.87,0.381,19,automatic,ci,ci
 2025-03-05T10:55:54.346Z,61.4756,-146.6103,30.3,1.5,ml,,,,0.32,ak,ak0252y0og8a,2025-03-05T10:57:26.961Z,"40 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-05T10:53:38.183Z,42.0708,82.6633,10,4.9,mb,102,89,2.658,0.66,us,us6000px0n,2025-03-05T11:12:16.040Z,"45 km NNW of Kuqa, China",earthquake,8.2,1.866,0.06,89,reviewed,us,us
 2025-03-05T10:47:23.770Z,33.8898333,-117.903,9.02,1.61,ml,71,33,0.0243,0.23,ci,ci41071704,2025-03-05T10:58:10.610Z,"3 km ENE of Fullerton, CA",earthquake,0.19,0.42,0.174,27,automatic,ci,ci
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T06:14:39.428Z,61.3888,-149.9577,41.3,3.5,ml,,,,0.78,ak,ak0252xy1w8g,2025-03-05T10:23:23.267Z,"3 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-03-05T05:54:42.937Z,36.7615,-115.5371,5.7,0.2,ml,10,301.7,0.355,0.2152,nn,nn00894313,2025-03-05T05:56:44.667Z,"24 km NNE of Indian Springs, Nevada",earthquake,,1.7,0.33,3,automatic,nn,nn
 2025-03-05T05:54:00.020Z,32.878,-115.7743333,6.87,1.09,ml,30,99,0.04738,0.17,ci,ci41071576,2025-03-05T05:58:01.466Z,"19 km W of Imperial, CA",earthquake,0.22,0.52,0.185,13,automatic,ci,ci
-2025-03-05T05:46:42.056Z,58.1096,-156.3478,9.9,1.6,ml,,,,0.22,ak,ak0252xxnbt9,2025-03-05T06:35:26.219Z,"61 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-03-05T05:46:42.056Z,58.1096,-156.3478,9.9,1.6,ml,,,,0.22,ak,ak0252xxnbt9,2025-03-05T11:42:57.315Z,"61 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-05T05:46:02.160Z,38.817501068115,-122.7636642456,1.6799999475479,1.1,md,18,112,0.01384,0.02,nc,nc75143101,2025-03-05T08:22:16.516Z,"4 km W of Cobb, CA",earthquake,0.27,0.419999987,0.1,20,automatic,nc,nc
 2025-03-05T05:37:34.400Z,38.826667785645,-122.79699707031,2.9900000095367,0.75,md,8,152,0.01072,0.01,nc,nc75143096,2025-03-05T06:17:20.707Z,"6 km WNW of Cobb, CA",earthquake,0.73,1.52999997,0.3,10,automatic,nc,nc
 2025-03-05T05:36:39.070Z,38.826999664307,-122.797996521,3.0699999332428,0.8,md,9,153,0.0101,0.01,nc,nc75143091,2025-03-05T06:07:18.642Z,"7 km WNW of Cobb, CA",earthquake,0.67,1.09000003,0.15,10,automatic,nc,nc
@@ -284,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T11:51:52.060Z,61.284833333333,-152.34916666667,0.13,-0.79,ml,9,151,0.02812,0.21,av,av93034729,2025-03-05T06:31:40.090Z,"69 km WNW of Tyonek, Alaska",earthquake,0.66,3.07,0.24452817062391,9,reviewed,av,av
 2025-03-04T11:50:43.470Z,38.568832397461,-122.29516601562,3.1500000953674,1.39,md,8,93,0.0338,0.08,nc,nc75142631,2025-03-04T15:07:17.757Z,"13 km ESE of Angwin, CA",earthquake,0.41,1.35000002,0.14,6,automatic,nc,nc
 2025-03-04T11:46:33.100Z,39.417,-111.07,2.21,1.29,ml,12,93,0.1047,0.12,uu,uu80103211,2025-03-04T15:11:42.430Z,"9 km SW of Hiawatha, Utah",earthquake,0.53,31.61,0.13257909775784,4,reviewed,uu,uu
-2025-03-04T11:43:21.120Z,54.141666666667,-165.97316666667,1.22,-0.59,ml,7,90,0.02341,0.19,av,av93034724,2025-03-05T06:21:33.190Z,"12 km W of Akutan, Alaska",earthquake,0.22,0.83,0.34851718551382,7,reviewed,av,av
-2025-03-04T11:42:43.490Z,61.213666666667,-152.2585,6.74,-0.91,ml,9,127,0.0276,0.1,av,av93521131,2025-03-05T06:17:50.130Z,"62 km WNW of Tyonek, Alaska",earthquake,0.4,0.57,0.20208639902968,9,reviewed,av,av
