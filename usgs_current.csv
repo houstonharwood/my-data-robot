@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-07T22:30:11.140Z,38.80916595459,-122.82649993897,2.7799999713898,0.7,md,10,75,0.002113,0.02,nc,nc75144711,2025-03-07T22:31:47.094Z,"7 km NW of The Geysers, CA",earthquake,0.47,1.79999995,0.27,10,automatic,nc,nc
+2025-03-07T22:30:10.292Z,36.9882,-117.4926,3.8,2,ml,21,174.69,0.101,0.2439,nn,nn00894411,2025-03-07T22:32:41.249Z,"65 km NNE of Keeler, California",earthquake,,11.7,0.24,15,automatic,nn,nn
+2025-03-07T22:26:26.630Z,19.030500411987,-155.35150146484,14.680000305176,2.37,ml,51,215,0.1624,0.219999999,hv,hv74628897,2025-03-07T22:29:46.630Z,"23 km SE of Pāhala, Hawaii",earthquake,0.8,1.38999999,0.67,6,automatic,hv,hv
 2025-03-07T22:04:08.504Z,61.2769,-147.4698,9.9,1.4,ml,,,,0.37,ak,ak02531ilbf6,2025-03-07T22:05:58.694Z,"59 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-07T21:36:57.470Z,38.830501556396,-122.81666564941,1.9800000190735,1.09,md,17,49,0.008767,0.02,nc,nc75144696,2025-03-07T22:07:19.962Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.560000002,0.18,19,automatic,nc,nc
 2025-03-07T21:23:24.999Z,36.3836,-114.9224,0,2.2,ml,8,291.11,0.881,0.2819,nn,nn00894408,2025-03-07T21:25:56.829Z,"19 km NE of Nellis Air Force Base, Nevada",earthquake,,73.5,0.58,5,automatic,nn,nn
@@ -19,7 +22,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T20:07:50.280Z,37.828666687012,-121.96150207519,5.3600001335144,1.19,md,7,73,0.03892,0.06,nc,nc75144656,2025-03-07T22:17:21.039Z,"1 km SW of Diablo, CA",earthquake,0.47,0.930000007,0.14,7,automatic,nc,nc
 2025-03-07T20:04:35.213Z,64.0286,-148.7889,0,1.5,ml,,,,1.1,ak,ak02531hei4v,2025-03-07T20:07:04.186Z,"16 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-07T20:02:14.850Z,33.87,-117.505,1.36,1.03,ml,35,41,0.0724,0.22,ci,ci41074080,2025-03-07T20:09:36.925Z,"2 km ESE of Home Gardens, CA",earthquake,0.25,0.38,0.148,32,automatic,ci,ci
-2025-03-07T20:02:10.500Z,34.0125,-117.7536667,1.82,1.57,ml,23,86,0.09343,0.35,ci,ci41074072,2025-03-07T20:07:18.227Z,"2 km NNE of Chino Hills, CA",earthquake,1.03,1.95,0.226,3,automatic,ci,ci
 2025-03-07T19:58:18.578Z,31.597,-104.549,3.8081,1.7,ml,9,163,0.1,0.1,tx,tx2025eqhi,2025-03-07T20:35:03.845Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.1510181427002,0.1,7,automatic,tx,tx
 2025-03-07T19:56:55.755Z,31.627,-104.517,4.3517,1.9,ml,8,224,0,0.5,tx,tx2025eqhg,2025-03-07T20:00:18.630Z,"62 km SSW of Whites City, New Mexico",earthquake,0,2.7368040084839,0.1,7,automatic,tx,tx
 2025-03-07T19:50:43.728Z,31.606,-104.564,4.77,1.6,ml,8,171,0.1,0.5,tx,tx2025eqgy,2025-03-07T20:35:01.848Z,"65 km SSW of Whites City, New Mexico",earthquake,0,3.0143966674805,0.1,6,automatic,tx,tx
@@ -51,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T18:24:50.393Z,-41.4658,174.7974,29.668,4.4,mb,36,85,0.172,0.98,us,us6000pxhf,2025-03-07T20:29:30.526Z,"13 km S of Houghton Bay, New Zealand",earthquake,3.19,6.266,0.169,10,reviewed,us,us
 2025-03-07T18:23:03.020Z,35.27516667,-97.7845,5.13,0.06,ml,14,212,0.005398940544,0.09,ok,ok2025eqec,2025-03-07T18:29:45.388Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.21,6,reviewed,ok,ok
 2025-03-07T18:18:34.789Z,35.26416667,-97.79416667,5.23,-0.23,ml,12,118,0.006298763968,0.05,ok,ok2025eqdy,2025-03-07T18:24:14.132Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.3,0.25,6,reviewed,ok,ok
+2025-03-07T18:12:55.860Z,44.3075,-115.173,9.12,1.55,ml,11,69,0.3092,0.17,mb,mb90073703,2025-03-07T22:30:05.710Z,"21 km WNW of Stanley, Idaho",earthquake,0.45,1.44,0.21079423972409,12,reviewed,mb,mb
 2025-03-07T18:11:46.920Z,35.27716667,-97.782,4.96,-0.3,ml,14,237,0.007198587392,0.1,ok,ok2025eqds,2025-03-07T18:19:08.384Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.5,0.27,7,reviewed,ok,ok
 2025-03-07T18:09:44.189Z,35.26066667,-97.80316667,5.67,-0.35,ml,12,191,0.00449911712,0.09,ok,ok2025eqdq,2025-03-07T18:17:29.467Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.5,0.19,6,reviewed,ok,ok
 2025-03-07T18:08:25.989Z,35.27716667,-97.783,5.27,-0.13,ml,14,235,0.006298763968,0.08,ok,ok2025eqdp,2025-03-07T18:15:06.250Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.4,0.24,7,reviewed,ok,ok
@@ -102,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T15:03:49.619Z,35.27283333,-97.78516667,4.72,-0.07,ml,14,189,0.006298763968,0.1,ok,ok2025epxn,2025-03-07T15:08:38.628Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.25,7,reviewed,ok,ok
 2025-03-07T15:00:08.360Z,38.83150100708,-122.81749725342,1.4700000286102,0.68,md,10,81,0.009957,0.01,nc,nc75144491,2025-03-07T15:22:17.300Z,"8 km NNW of The Geysers, CA",earthquake,0.37,0.829999983,0.46,11,automatic,nc,nc
 2025-03-07T14:57:56.147Z,32.185,-100.97,8.7646,2.1,ml,18,77,0.3,0.1,tx,tx2025epxk,2025-03-07T15:32:45.919Z,"19 km SSE of Westbrook, Texas",earthquake,0.97291866144923,2.4113726455312,0.1,16,reviewed,tx,tx
+2025-03-07T14:57:42.530Z,33.4858333,-116.5325,10.09,0.46,ml,12,68,0.09409,0.17,ci,ci41073912,2025-03-07T22:34:27.216Z,"15 km ESE of Anza, CA",earthquake,0.33,1.1,0.139,5,reviewed,ci,ci
 2025-03-07T14:57:37.154Z,-20.7526,169.3815,35,4.3,mb,20,214,2.582,0.85,us,us6000pxeu,2025-03-07T15:34:20.040Z,"134 km S of Isangel, Vanuatu",earthquake,8.84,1.994,0.147,17,reviewed,us,us
 2025-03-07T14:56:44.619Z,35.27216667,-97.7865,4.67,0.3,ml,14,177,0.005398940544,0.09,ok,ok2025epxh,2025-03-07T15:06:45.184Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.25,7,reviewed,ok,ok
 2025-03-07T14:55:45.206Z,51.7058,-179.7087,96.903,2.8,ml,13,137,0.428,0.12,us,us6000pxex,2025-03-07T16:15:05.040Z,"212 km W of Adak, Alaska",earthquake,4.02,7.159,0.105,12,reviewed,us,us
@@ -195,6 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T07:23:40.060Z,38.817165374756,-122.82283020019,2.4900000095367,0.76,md,14,89,0.009656,0.02,nc,nc75144296,2025-03-07T07:47:17.300Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.939999998,0.35,15,automatic,nc,nc
 2025-03-07T07:21:52.360Z,38.792835235596,-122.7773361206,1.6200000047684,0.43,md,8,101,0.008276,0.01,nc,nc75144291,2025-03-07T07:42:19.265Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.819999993,0.28,7,automatic,nc,nc
 2025-03-07T07:19:54.600Z,35.96866607666,-121.452003479,6.0100002288818,1.52,md,15,208,0.0816,0.07,nc,nc75144286,2025-03-07T09:47:19.097Z,"12 km SE of Lopez Point, CA",earthquake,0.64,0.839999974,0.2,9,automatic,nc,nc
+2025-03-07T07:19:50.010Z,34.0293333,-117.2488333,16.8,0.85,ml,18,107,0.08593,0.12,ci,ci41073784,2025-03-07T22:31:09.498Z,"2 km SSE of Loma Linda, CA",earthquake,0.25,0.55,0.185,16,reviewed,ci,ci
 2025-03-07T07:09:34.463Z,31.33,-103.687,8.9709,1.6,ml,9,65,0.1,0.1,tx,tx2025ephw,2025-03-07T16:42:55.401Z,"10 km E of Toyah, Texas",earthquake,0.49791828403868,1.1196078872695,0.2,25,reviewed,tx,tx
 2025-03-07T06:58:41.205Z,32.405,-102.061,7.251,1.8,ml,36,47,0,0.1,tx,tx2025ephn,2025-03-07T14:54:03.637Z,"35 km WSW of Ackerly, Texas",earthquake,0.48868893634139,0.86494925697445,0.1,31,reviewed,tx,tx
 2025-03-07T06:57:16.380Z,38.833000183105,-122.83249664307,0.80000001192093,0.66,md,10,62,0.00605,0.02,nc,nc75144276,2025-03-07T07:27:17.169Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.649999976,0.48,9,automatic,nc,nc
@@ -281,4 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T22:49:40.490Z,33.9965,-117.1308333,17.09,0.72,ml,12,141,0.1481,0.15,ci,ci41073464,2025-03-07T22:21:27.230Z,"7 km W of Calimesa, CA",earthquake,0.46,1.16,0.148,8,reviewed,ci,ci
 2025-03-06T22:42:40.510Z,59.8141,-152.9437,104.3,4.3,ml,,,,0.61,ak,ak0252zva6il,2025-03-07T06:16:10.999Z,"62 km W of Anchor Point, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2025-03-06T22:41:49.900Z,37.592666666667,-122.46366666667,9.23,2.04,md,75,83,0.03121,0.09,nc,nc75144056,2025-03-07T07:39:24.222Z,"3 km SSE of Pacifica, CA",earthquake,0.14,0.17,0.104,60,reviewed,nc,nc
-2025-03-06T22:34:58.870Z,38.834331512451,-122.78983306885,2.2599999904633,0.67,md,8,87,0.004091,0.01,nc,nc75144051,2025-03-06T22:52:16.906Z,"6 km WNW of Cobb, CA",earthquake,0.54,1.47000003,0.41,8,automatic,nc,nc
