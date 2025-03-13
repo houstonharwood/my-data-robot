@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T21:59:08.400Z,38.838165283203,-122.79783630371,1.5700000524521,0.7,md,7,124,0.005856,0.01,nc,nc75148236,2025-03-13T22:17:18.873Z,"7 km WNW of Cobb, CA",earthquake,0.45,1.13999999,0.23,8,automatic,nc,nc
 2025-03-13T21:50:08.957Z,61.2841,-146.9114,13.5,1.7,ml,,,,0.74,ak,ak0253bfhtr3,2025-03-13T21:52:38.619Z,"34 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-13T21:44:26.870Z,33.305,-116.258,7.73,1.33,ml,40,70,0.07169,0.19,ci,ci41079136,2025-03-13T23:18:59.462Z,"12 km ENE of Borrego Springs, CA",earthquake,0.23,0.48,0.117,23,reviewed,ci,ci
-2025-03-13T21:20:11.181Z,33.0777,76.5809,56.996,5.1,mww,77,53,6.362,0.89,us,us6000pyp3,2025-03-13T23:06:11.975Z,"51 km SSW of Padam, India",earthquake,9.22,6.437,0.127,6,reviewed,us,us
+2025-03-13T21:20:11.181Z,33.0777,76.5809,56.996,5.1,mww,77,53,6.362,0.89,us,us6000pyp3,2025-03-13T23:29:13.499Z,"51 km SSW of Padam, India",earthquake,9.22,6.437,0.127,6,reviewed,us,us
 2025-03-13T20:53:40.401Z,60.6846,-147.4068,11,1.8,ml,,,,0.68,ak,ak0253bex3q0,2025-03-13T20:55:48.528Z,"44 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-13T20:32:46.187Z,61.6104,-150.2988,10.6,1.1,ml,,,,0.37,ak,ak0253besm4q,2025-03-13T22:11:06.432Z,"13 km ENE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-13T20:25:47.394Z,17.6112,120.716,10,4.6,mb,70,110,5.191,0.89,us,us6000pynw,2025-03-13T21:58:17.262Z,"4 km S of Dolores, Philippines",earthquake,11.12,1.919,0.067,67,reviewed,us,us
@@ -91,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T10:51:47.383Z,64.9922,-148.0294,29.2,2,ml,,,,0.23,ak,ak0253b8ycs2,2025-03-13T10:53:06.895Z,"16 km N of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-13T10:51:14.050Z,17.993166666667,-66.817,15,2.36,md,9,171,0.05303,0.07,pr,pr71475683,2025-03-13T11:04:55.260Z,"0 km ESE of Indios, Puerto Rico",earthquake,0.66,0.55,0.056035573915038,4,reviewed,pr,pr
 2025-03-13T10:44:41.552Z,60.8454,-150.2741,38.7,1.8,ml,,,,0.25,ak,ak0253b8wubf,2025-03-13T10:45:56.778Z,"24 km ESE of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-03-13T10:32:49.960Z,56.861833333333,-158.349,11.19,0.17,ml,4,184,0.07062,0.05,av,av93035764,2025-03-13T23:26:39.510Z,"62 km N of Chignik Lagoon, Alaska",earthquake,0.69,1.13,0.1401060810704,4,reviewed,av,av
 2025-03-13T10:23:56.552Z,31.681,-104.41,6.1511,1.6,ml,13,77,0,0.2,tx,tx2025fani,2025-03-13T14:12:44.068Z,"54 km S of Whites City, New Mexico",earthquake,0.75866829392666,0.52410006202956,0.2,11,reviewed,tx,tx
 2025-03-13T10:18:13.720Z,19.200834274292,-155.37933349609,29.930000305176,1.96,ml,53,171,0.04031,0.129999995,hv,hv74633037,2025-03-13T10:29:25.240Z,"10 km E of Pāhala, Hawaii",earthquake,0.39,0.49000001,0.4,3,automatic,hv,hv
 2025-03-13T10:16:06.020Z,17.961666666667,-66.807,15.45,2.44,md,7,206,0.05932,0.09,pr,pr71475678,2025-03-13T10:35:03.690Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.93,0.67,0.067895944959732,6,reviewed,pr,pr
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T23:53:34.078Z,-27.778,-66.6463,175.514,4.2,mb,17,108,3.318,1.04,us,us6000pyh5,2025-03-13T00:45:06.040Z,"39 km WSW of Andalgalá, Argentina",earthquake,7.91,13.42,0.176,9,reviewed,us,us
 2025-03-12T23:37:07.820Z,61.027,-152.38616666667,14.46,0,ml,9,154,0.1707,0.19,av,av93529931,2025-03-13T04:36:00.910Z,"67 km W of Tyonek, Alaska",earthquake,0.66,1.97,0.18244137366724,9,reviewed,av,av
 2025-03-12T23:32:51.925Z,1.6466,127.132,116.658,4.8,mb,46,135,0.9,1.11,us,us6000pyh0,2025-03-12T23:47:10.040Z,"98 km W of Tobelo, Indonesia",earthquake,4.75,7.001,0.087,41,reviewed,us,us
-2025-03-12T23:24:25.880Z,48.4085,-123.44283333333,10.94,0.97,ml,7,125,0.07858,0.04,uw,uw62080781,2025-03-13T00:03:10.570Z,"3 km SW of Esquimalt, Canada",earthquake,0.34,0.71,0.19427860754945,2,reviewed,uw,uw
