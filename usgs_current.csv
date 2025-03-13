@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-13T12:52:31.846Z,32.129,-102.205,5.3635,2.4,ml,54,56,0,0.3,tx,tx2025fase,2025-03-13T12:56:13.835Z,"18 km NW of Midland, Texas",earthquake,0,1.5771214962006,0.1,42,automatic,tx,tx
+2025-03-13T12:46:07.970Z,38.826499938965,-122.85500335693,2.3800001144409,1.04,md,17,112,0.001795,0.02,nc,nc75148101,2025-03-13T12:47:46.224Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.50999999,0.18,19,automatic,nc,nc
 2025-03-13T12:13:49.634Z,60.8623,-150.863,65.9,1.4,ml,,,,0.34,ak,ak0253b9x2yb,2025-03-13T12:16:24.072Z,"11 km SW of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-03-13T11:45:57.140Z,38.1937,-117.8706,9.9,1.5,ml,8,116.57,0.09,0.1278,nn,nn00894636,2025-03-13T11:48:45.169Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.39,4,automatic,nn,nn
 2025-03-13T11:41:10.740Z,17.940666666667,-65.8205,8.19,2.52,md,15,213,0.2069,0.19,pr,pr71475713,2025-03-13T12:11:53.440Z,"9 km SE of Emajagua, Puerto Rico",earthquake,0.61,0.8,0.10095325140957,7,reviewed,pr,pr
@@ -155,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T20:14:33.250Z,33.475,-116.4613333,11.94,0.71,ml,25,69,0.1194,0.17,ci,ci41078464,2025-03-12T22:09:56.565Z,"22 km ESE of Anza, CA",earthquake,0.21,0.66,0.12,12,reviewed,ci,ci
 2025-03-12T20:06:44.060Z,46.21,-122.18966666667,4.21,0.1,md,5,208,0.01022,0.11,uw,uw62080706,2025-03-12T20:53:45.000Z,"38 km NNE of Amboy, Washington",earthquake,1.44,0.93,0.5029221961724,5,reviewed,uw,uw
 2025-03-12T19:56:29.095Z,31.649,-104.484,6.5613,2.4,ml,22,67,0,0.1,tx,tx2025ezkr,2025-03-13T03:17:37.172Z,"59 km S of Whites City, New Mexico",earthquake,1.0825880964847,0.52785581136791,0.2,23,reviewed,tx,tx
+2025-03-12T19:56:13.699Z,34.91266667,-98.83133333,0,1.47,ml,16,105,0.1790648614,0.42,ok,ok2025ezkr,2025-03-13T12:31:46.319Z,"5 km NNE of Cooperton, Oklahoma",quarry blast,,1,0.22,8,reviewed,ok,ok
 2025-03-12T19:53:14.630Z,61.356833333333,-152.29166666667,1.8,-0.11,ml,10,143,0.1055,0.16,av,av93529751,2025-03-13T03:53:21.900Z,"69 km WNW of Beluga, Alaska",earthquake,0.54,1.32,0.14504467759304,10,reviewed,av,av
 2025-03-12T19:45:44.640Z,61.313666666667,-152.26733333333,2.12,-0.04,ml,8,123,0.07266,0.06,av,av93529746,2025-03-13T03:41:23.440Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,0.62,0.14685192839155,9,reviewed,av,av
 2025-03-12T19:36:44.135Z,12.9614,-88.916,35,4.1,mb,17,171,0.747,0.9,us,us6000pyfy,2025-03-12T20:34:12.040Z,"53 km SW of Puerto El Triunfo, El Salvador",earthquake,3.8,2.002,0.261,4,reviewed,us,us
@@ -244,7 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T13:09:47.900Z,61.277666666667,-152.2445,3.12,-1.28,ml,6,188,0.04493,0.08,av,av93529436,2025-03-13T01:58:11.590Z,"64 km WNW of Tyonek, Alaska",earthquake,0.5,0.78,0.23217784561245,6,reviewed,av,av
 2025-03-12T13:06:51.830Z,39.562999725342,-123.3690032959,6.1100001335144,1.84,md,9,118,0.08732,0.1,nc,nc75147586,2025-03-12T16:17:19.876Z,"13 km NNE of Brooktrails, CA",earthquake,0.49,1.38999999,0.06,6,automatic,nc,nc
 2025-03-12T13:04:12.750Z,34.1228333,-117.4486667,7.61,1.22,ml,58,45,0.02462,0.19,ci,ci41078064,2025-03-12T18:20:53.430Z,"3 km NNE of Fontana, CA",earthquake,0.18,0.46,0.146,43,reviewed,ci,ci
-2025-03-12T12:51:32.226Z,-7.197,129.0364,133.467,4.9,mww,61,68,2.794,0.78,us,us6000pyb2,2025-03-12T13:07:30.040Z,"268 km ENE of Lospalos, Timor Leste",earthquake,9.04,7.017,0.075,17,reviewed,us,us
-2025-03-12T12:44:12.770Z,61.8051,-150.616,34.7,1.5,ml,,,,0.5,ak,ak02539mkaso,2025-03-12T12:46:41.018Z,"29 km N of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-12T12:26:08.990Z,40.395832061768,-125.18766784668,4.6999998092651,3.17,ml,34,282,0.6548,0.39,nc,nc75147571,2025-03-13T04:58:05.040Z,"77 km WNW of Petrolia, CA",earthquake,5.75,9.88000011,0.094,4,automatic,nc,nc
-2025-03-12T12:24:34.331Z,61.226,-152.2961,114.6,1.6,ml,,,,0.44,ak,ak02539mg24l,2025-03-12T12:27:27.385Z,"64 km WNW of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
