@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-19T06:49:55.050Z,37.70316696167,-121.99166870117,9.1899995803833,1.42,md,15,92,0.06759,0.07,nc,nc75151482,2025-03-19T06:51:32.728Z,"5 km WNW of Dublin, CA",earthquake,0.29,0.529999971,0.18,8,automatic,nc,nc
-2025-03-19T06:44:30.880Z,34.0613327,-118.8966675,8.49,2,ml,46,128,0.06213,0.31,ci,ci41083184,2025-03-19T06:50:08.895Z,"10 km NW of Malibu, CA",earthquake,0.54,1.17,0.298,26,automatic,ci,ci
+2025-03-19T06:44:30.880Z,34.0613327,-118.8966675,8.49,2,ml,46,128,0.06213,0.31,ci,ci41083184,2025-03-19T07:00:31.835Z,"10 km NW of Malibu, CA",earthquake,0.54,1.17,0.298,26,automatic,ci,ci
 2025-03-19T06:43:12.860Z,34.0726662,-118.9016647,9.45,1.57,ml,16,117,0.05797,0.26,ci,ci41083168,2025-03-19T06:45:34.480Z,"11 km NW of Malibu, CA",earthquake,0.63,1.33,0.168,12,automatic,ci,ci
 2025-03-19T06:41:43.171Z,59.1576,-153.6825,87.7,2,ml,,,,0.31,ak,ak0253l3qju5,2025-03-19T06:43:41.890Z,"64 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-19T06:27:48.300Z,38.842834472656,-122.83233642578,1.25,0.56,md,8,95,0.004902,0.01,nc,nc75151467,2025-03-19T06:47:16.756Z,"10 km WNW of Cobb, CA",earthquake,0.73,1.11000001,0.25,6,automatic,nc,nc
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T21:29:12.460Z,48.466833333333,-123.54583333333,-0.33,0.02,md,3,189,0.1565,0.14,uw,uw62074772,2025-03-18T22:51:23.780Z,"3 km WNW of Langford, Canada",explosion,1.09,31.61,0.10262401975653,2,reviewed,uw,uw
 2025-03-18T21:27:21.580Z,36.587833404541,-121.22716522217,6.0999999046326,2.73,md,63,42,0.03727,0.26,nc,nc75151222,2025-03-19T04:12:56.204Z,"10 km NW of Pinnacles, CA",earthquake,0.3,1.00999999,0.13,73,automatic,nc,nc
 2025-03-18T21:24:40.140Z,47.773666666667,-122.49066666667,-0.07,1.24,ml,6,303,0.2149,0.35,uw,uw62074767,2025-03-18T22:44:23.170Z,"2 km SSE of Kingston, Washington",explosion,1.82,31.61,0.23513706569789,2,reviewed,uw,uw
-2025-03-18T21:24:20.412Z,43.7835,7.2915,10,3.1,ml,23,149,1.691,0.7,us,us6000pzn6,2025-03-19T06:51:07.533Z,"1 km ESE of Tourrette-Levens, France",earthquake,4.27,1.926,0.06,36,reviewed,us,us
+2025-03-18T21:24:20.412Z,43.7835,7.2915,10,3.1,ml,23,149,1.691,0.7,us,us6000pzn6,2025-03-19T07:03:55.290Z,"1 km ESE of Tourrette-Levens, France",earthquake,4.27,1.926,0.06,36,reviewed,us,us
 2025-03-18T21:17:48.683Z,-30.066,-71.294,67.875,5.3,mww,128,64,0.155,0.86,us,us6000pzn5,2025-03-18T23:44:05.185Z,"13 km SSE of Coquimbo, Chile",earthquake,4.72,3.582,0.068,21,reviewed,us,us
 2025-03-18T20:46:15.210Z,33.3103333,-116.2585,7.13,0.98,ml,30,41,0.06726,0.18,ci,ci41082808,2025-03-18T22:21:52.510Z,"12 km ENE of Borrego Springs, CA",earthquake,0.24,0.53,0.109,19,automatic,ci,ci
 2025-03-18T20:40:40.580Z,61.8625,-151.0032,93.9,1.5,ml,,,,1.07,ak,ak0253joj1wa,2025-03-18T20:43:34.595Z,"25 km SE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -211,7 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T07:19:51.840Z,45.333166666667,-121.70616666667,5.03,0.56,ml,10,127,0.003906,0.05,uw,uw62074507,2025-03-18T18:03:02.480Z,"5 km NE of Government Camp, Oregon",earthquake,0.27,0.4,0.10983806921849,5,reviewed,uw,uw
 2025-03-18T07:19:43.880Z,37.97200012207,-122.33200073242,1.5900000333786,1.75,md,11,89,0.02207,0.07,nc,nc75150892,2025-03-18T22:19:43.674Z,"1 km  of Rollingwood, CA",earthquake,0.37,0.430000007,0.28,8,automatic,nc,nc
 2025-03-18T07:14:49.972Z,61.051,-151.1775,68.4,1.5,ml,,,,0.25,ak,ak0253jgmv51,2025-03-18T07:16:49.434Z,"2 km SW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-03-18T07:08:17.596Z,60.999,-150.5636,17.7,1.8,ml,,,,0.15,ak,ak0253jglicf,2025-03-18T07:21:24.994Z,"10 km NE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-18T07:01:25.340Z,47.390833333333,-122.46433333333,21.43,1.41,ml,46,45,0.03306,0.11,uw,uw62074497,2025-03-18T20:08:35.690Z,"6 km S of Vashon, Washington",earthquake,0.29,0.49,0.18262825695773,29,reviewed,uw,uw
-2025-03-18T06:57:50.518Z,60.5841,-151.7841,71,1.3,ml,,,,0.54,ak,ak0253jgand7,2025-03-18T06:59:28.015Z,"25 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-03-18T06:54:34.240Z,38.833831787109,-122.83233642578,1.3400000333786,0.95,md,12,60,0.00535,0.02,nc,nc75150887,2025-03-18T09:12:15.759Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.709999979,0.25,14,automatic,nc,nc
