@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T23:34:17.390Z,38.815498352051,-122.81749725342,0.86000001430511,0.77,md,8,81,0.009788,0.02,nc,nc75152312,2025-03-20T23:35:53.070Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.699999988,0.18,9,automatic,nc,nc
 2025-03-20T23:29:48.110Z,33.296,-116.2831667,9.89,2.51,ml,95,16,0.06979,0.19,ci,ci40905655,2025-03-20T23:43:49.576Z,"10 km ENE of Borrego Springs, CA",earthquake,0.12,0.32,0.205,26,automatic,ci,ci
 2025-03-20T23:29:20.150Z,38.838165283203,-122.81099700928,2.079999923706,1.28,md,21,56,0.01477,0.02,nc,nc75152297,2025-03-20T23:47:20.564Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.469999999,0.13,26,automatic,nc,nc
-2025-03-20T23:27:30.753Z,31.72,-104.525,3.8551,2,ml,7,172,0,0.2,tx,tx2025fohr,2025-03-20T23:42:18.163Z,"52 km SSW of Whites City, New Mexico",earthquake,0,2.2247335910797,0.2,6,automatic,tx,tx
+2025-03-20T23:27:30.738Z,31.722,-104.513,4.3571,2,ml,7,155,0,0.2,tx,tx2025fohr,2025-03-20T23:53:25.236Z,"51 km SSW of Whites City, New Mexico",earthquake,0,2.0245845317841,0.1,7,automatic,tx,tx
 2025-03-20T23:22:37.937Z,62.2494,-152.322,124.8,1.9,ml,,,,0.58,ak,ak0253n1a6lt,2025-03-20T23:24:49.480Z,"56 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-20T23:13:16.462Z,-46.724,102.3707,10,4.9,mb,33,54,17.852,0.54,us,us7000plg4,2025-03-20T23:37:14.040Z,"southeast Indian Ridge",earthquake,12.72,1.892,0.1,31,reviewed,us,us
 2025-03-20T23:02:21.175Z,64.9829,-147.3769,6.9,1.4,ml,,,,0.43,ak,ak0253n15uzp,2025-03-20T23:04:53.009Z,"11 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -76,6 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T15:58:34.490Z,60.6175,-152.8385,9.72,-0.39,ml,6,242,0.03153,0.06,av,av93538406,2025-03-20T23:35:58.260Z,"83 km W of Salamatof, Alaska",earthquake,0.56,0.56,0.23511499124825,6,reviewed,av,av
 2025-03-20T15:46:03.260Z,33.665,-116.7593333,16.06,0.74,ml,30,33,0.06295,0.16,ci,ci40904959,2025-03-20T15:50:50.771Z,"9 km SSW of Idyllwild, CA",earthquake,0.23,0.41,0.236,27,automatic,ci,ci
 2025-03-20T15:40:36.810Z,38.806999206543,-122.77633666992,1.9900000095367,1.09,md,25,72,0.007114,0.04,nc,nc75152142,2025-03-20T17:07:17.727Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.349999994,0.11,24,automatic,nc,nc
+2025-03-20T15:39:49.110Z,51.9245,178.4415,3.75,0.66,ml,4,321,0.04937,0.33,av,av93538376,2025-03-20T23:51:48.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.69,4.29,0.21141681913564,3,reviewed,av,av
 2025-03-20T15:34:52.270Z,18.097666666667,-66.532666666667,22.87,2.1,md,6,170,0.04971,0.17,pr,pr71476838,2025-03-20T16:51:08.290Z,"3 km WNW of Guayabal, Puerto Rico",earthquake,0.81,1.37,0.12648632456231,5,reviewed,pr,pr
 2025-03-20T15:33:02.600Z,33.3786667,-116.8746667,6.24,0.56,ml,15,64,0.02694,0.21,ci,ci40904951,2025-03-20T20:01:40.574Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.37,0.85,0.247,7,reviewed,ci,ci
 2025-03-20T15:30:01.630Z,17.984333333333,-66.826666666667,15.55,2.04,md,6,191,0.0509,0.21,pr,pr71476833,2025-03-20T15:41:25.030Z,"1 km SW of Indios, Puerto Rico",earthquake,1.03,1.35,0.078627181135412,5,reviewed,pr,pr
@@ -312,4 +313,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T00:14:35.290Z,54.025166666667,-166.05066666667,16.46,0.8,ml,6,311,0.06902,0.09,av,av93036589,2025-03-20T18:51:36.730Z,"21 km SW of Akutan, Alaska",earthquake,1.26,1.09,0.43439556794953,7,reviewed,av,av
 2025-03-20T00:13:20.860Z,54.055166666667,-166.08516666667,17.23,0.88,ml,6,302,0.05539,0.09,av,av93036584,2025-03-20T18:45:39.060Z,"22 km WSW of Akutan, Alaska",earthquake,1.35,0.75,0.10459501078068,5,reviewed,av,av
 2025-03-20T00:04:09.460Z,19.327833175659,-155.18350219727,3.2699999809265,2.1,ml,24,91,0.05479,0.270000011,hv,hv74637157,2025-03-20T00:07:26.440Z,"13 km SSE of Volcano, Hawaii",earthquake,0.53,1.47000003,0.33,3,automatic,hv,hv
-2025-03-19T23:53:22.849Z,57.8067,-154.4978,64,1.6,ml,,,,0.19,ak,ak0253ldxg58,2025-03-19T23:55:26.925Z,"26 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
