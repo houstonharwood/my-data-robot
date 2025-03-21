@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-21T19:24:35.290Z,38.776332855225,-122.71949768066,1.2000000476837,1.38,md,15,88,0.01513,0.04,nc,nc75152772,2025-03-21T19:26:10.734Z,"2 km WNW of Anderson Springs, CA",earthquake,0.26,0.449999988,0.17,16,automatic,nc,nc
+2025-03-21T19:21:25.786Z,32.12,-102.189,4.9888,1.1,ml,14,119,0,0.5,tx,tx2025fpvi,2025-03-21T19:26:54.201Z,"17 km NW of Midland, Texas",earthquake,0,1.3133370876312,0.2,11,automatic,tx,tx
 2025-03-21T19:18:10.270Z,38.835666656494,-122.83316802978,1.0499999523163,0.69,md,8,82,0.003434,0.01,nc,nc75152767,2025-03-21T19:19:45.465Z,"9 km NW of The Geysers, CA",earthquake,0.34,1.17999995,0.29,8,automatic,nc,nc
 2025-03-21T19:06:26.225Z,61.6165,-149.759,24.5,1.4,ml,,,,0.43,ak,ak0253omccbi,2025-03-21T19:08:23.586Z,"3 km ESE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-21T19:06:05.164Z,32.112,-102.18,4.8865,1.3,ml,21,70,0,0.4,tx,tx2025fpur,2025-03-21T19:16:49.139Z,"15 km NW of Midland, Texas",earthquake,0,1.1980344057083,0.2,13,automatic,tx,tx
 2025-03-21T19:01:59.600Z,32.113,-102.191,3.7269,1.3,ml,23,72,0,0.4,tx,tx2025fpuo,2025-03-21T19:15:09.114Z,"16 km NW of Midland, Texas",earthquake,0,1.1737185716629,0.1,14,automatic,tx,tx
 2025-03-21T19:01:17.060Z,33.8705,-117.5045,0.41,1.02,ml,35,54,0.07248,0.24,ci,ci40906423,2025-03-21T19:06:26.284Z,"2 km ESE of Home Gardens, CA",earthquake,0.35,0.53,0.253,32,automatic,ci,ci
+2025-03-21T18:56:55.900Z,46.014666666667,-112.457,-2,1.37,ml,8,125,0.06776,0.08,mb,mb90075198,2025-03-21T19:26:12.480Z,"6 km ENE of Butte, Montana",quarry blast,0.39,31.61,0.14510697126794,9,reviewed,mb,mb
 2025-03-21T18:53:28.840Z,35.0556667,-118.3421667,0.28,1.19,ml,32,58,0.06492,0.18,ci,ci40906415,2025-03-21T18:59:52.256Z,"13 km SE of Tehachapi, CA",earthquake,0.24,0.49,0.153,28,automatic,ci,ci
 2025-03-21T18:49:53.040Z,40.360168457031,-125.03050231934,0.68000000715256,2.72,md,31,267,0.5308,0.27,nc,nc75152762,2025-03-21T18:57:17.691Z,"63 km WNW of Petrolia, CA",earthquake,3.42,12.8199997,0.12,7,automatic,nc,nc
 2025-03-21T18:34:37.192Z,31.09,-103.432,5.7515,1.6,ml,11,76,0.1,0.7,tx,tx2025fptn,2025-03-21T18:40:42.893Z,"32 km ENE of Balmorhea, Texas",earthquake,0,3.5874125957489,0.2,9,automatic,tx,tx
@@ -194,6 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T03:06:40.060Z,37.286833333333,-121.6545,3.4,0.87,md,19,55,0.03152,0.12,nc,nc75152427,2025-03-21T07:12:17.792Z,"16 km E of Seven Trees, CA",earthquake,0.2,0.44,0.148,17,reviewed,nc,nc
 2025-03-21T03:03:34.303Z,69.4849,-144.1619,0.2,3.2,ml,,,,0.7,ak,ak0253ocss4m,2025-03-21T04:37:17.626Z,"75 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-03-21T03:01:21.450Z,37.0289,-116.4088,9.3,0.5,ml,22,47.58,0.027,0.1555,nn,nn00894875,2025-03-21T14:26:31.316Z,"33 km ENE of Beatty, Nevada",earthquake,,1,0.35,8,reviewed,nn,nn
+2025-03-21T02:48:53.990Z,60.480833333333,-152.29733333333,31,0.39,ml,7,316,0.1966,0.28,av,av93036704,2025-03-21T19:26:03.690Z,"55 km WSW of Salamatof, Alaska",earthquake,3.92,3.67,0.12451723276374,6,reviewed,av,av
 2025-03-21T02:43:49.410Z,61.125333333333,-152.29866666667,3.88,-0.48,ml,9,256,0.0733,0.2,av,av93036699,2025-03-21T19:18:22.340Z,"62 km W of Tyonek, Alaska",earthquake,0.9,0.4,0.120743546214,8,reviewed,av,av
 2025-03-21T02:39:39.940Z,35.9261667,-117.7466667,3.99,1.84,ml,26,42,0.06212,0.14,ci,ci40905791,2025-03-21T18:18:03.029Z,"14 km E of Little Lake, CA",earthquake,0.16,0.4,0.195,20,reviewed,ci,ci
 2025-03-21T02:38:22.690Z,34.2921677,-118.0114975,1.44,1.32,ml,16,79,0.2092,0.29,ci,ci40905783,2025-03-21T02:43:18.713Z,"15 km NNE of Sierra Madre, CA",earthquake,0.65,4.42,0.309,13,automatic,ci,ci
@@ -299,5 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T19:36:04.359Z,-22.9465,172.3791,10,5.2,mww,36,134,4.564,1.29,us,us7000pled,2025-03-20T19:57:43.040Z,"southeast of the Loyalty Islands",earthquake,8.12,1.885,0.066,22,reviewed,us,us
 2025-03-20T19:35:11.726Z,39.1691,-119.0222,5.2,1.4,ml,12,118.43,0.013,0.1272,nn,nn00894860,2025-03-21T02:10:25.839Z,"23 km NNE of Yerington, Nevada",earthquake,,1.1,0.25,5,reviewed,nn,nn
 2025-03-20T19:30:56.805Z,36.7216,71.3072,188.832,4.8,mb,106,58,2.576,0.87,us,us7000plec,2025-03-20T21:54:48.579Z,"20 km WNW of Ashkāsham, Afghanistan",earthquake,6.47,6.485,0.039,201,reviewed,us,us
-2025-03-20T19:24:54.931Z,-41.8367,174.0872,10,4.9,mb,42,116,0.702,1.15,us,us7000plea,2025-03-20T22:32:48.535Z,"36 km SSE of Witherlea, New Zealand",earthquake,4.08,1.868,0.125,20,reviewed,us,us
-2025-03-20T19:23:49.280Z,37.001666666667,-119.81566666667,-0.15,1.84,md,16,97,0.08692,0.19,nc,nc75152197,2025-03-21T08:07:15.196Z,"6 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.77,31.61,0.173,13,reviewed,nc,nc
