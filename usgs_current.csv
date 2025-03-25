@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-25T21:31:24.580Z,32.7601662,-116.899498,4.79,1.55,ml,24,71,0.04367,0.15,ci,ci40910191,2025-03-25T21:38:42.219Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.43,1.1,0.2,8,automatic,ci,ci
+2025-03-25T21:31:24.560Z,32.7623333,-116.8995,4.28,1.25,ml,31,73,0.04492,0.2,ci,ci40910191,2025-03-25T21:45:15.110Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.22,0.72,0.198,22,automatic,ci,ci
 2025-03-25T21:31:14.073Z,62.7267,-151.1651,91.8,1.6,ml,,,,0.5,ak,ak0253v9txgv,2025-03-25T21:33:26.533Z,"32 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-25T21:27:28.320Z,35.9658318,-117.6488342,7.95,1.1,ml,11,140,0.01794,0.19,ci,ci40910183,2025-03-25T21:29:32.753Z,"23 km E of Little Lake, CA",earthquake,0.67,0.91,0.18,7,automatic,ci,ci
 2025-03-25T21:25:48.780Z,38.816333770752,-122.82516479492,2.4800000190735,0.3,md,7,208,0.008087,0.01,nc,nc75155237,2025-03-25T21:27:29.391Z,"7 km NW of The Geysers, CA",earthquake,0.82,1.76999998,0.14,9,automatic,nc,nc
-2025-03-25T21:25:38.990Z,38.761001586914,-122.73233032227,2.8399999141693,1.11,md,16,105,0.005869,0.03,nc,nc75155232,2025-03-25T21:27:25.739Z,"3 km SE of The Geysers, CA",earthquake,0.25,0.439999998,0.2,16,automatic,nc,nc
+2025-03-25T21:25:38.990Z,38.761001586914,-122.73233032227,2.8399999141693,1.11,md,16,105,0.005869,0.03,nc,nc75155232,2025-03-25T21:42:17.166Z,"3 km SE of The Geysers, CA",earthquake,0.25,0.439999998,0.2,16,automatic,nc,nc
 2025-03-25T21:23:55.157Z,62.6735,-152.2152,0,2,ml,,,,1.15,ak,ak0253v9satb,2025-03-25T21:27:11.994Z,"77 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-25T21:06:09.050Z,38.814666748047,-122.81783294678,0.56000000238419,0.78,md,18,62,0.01059,0.03,nc,nc75155222,2025-03-25T21:22:17.058Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.479999989,0.16,19,automatic,nc,nc
 2025-03-25T21:00:07.370Z,-38.0749,175.8766,278.989,4.2,mb,20,69,0.454,0.86,us,us7000pml0,2025-03-25T21:12:49.040Z,"17 km N of Tokoroa, New Zealand",earthquake,8.31,6.614,0.199,7,reviewed,us,us
@@ -120,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T10:07:15.653Z,63.2114,-149.1358,5.8,1.7,ml,,,,0.89,ak,ak0253v350r1,2025-03-25T10:09:10.852Z,"22 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-25T09:50:52.079Z,-6.2853,130.3843,141.743,5,mb,84,30,1.815,0.62,us,us7000pmgz,2025-03-25T10:11:23.040Z,"272 km WSW of Tual, Indonesia",earthquake,7.59,6.453,0.058,96,reviewed,us,us
 2025-03-25T09:49:19.580Z,17.987166666667,-66.836666666667,15.72,2.37,md,5,184,0.04229,0.07,pr,pr71477433,2025-03-25T10:54:55.180Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.59,0.73,0.093400950747071,5,reviewed,pr,pr
+2025-03-25T09:47:56.390Z,37.092833333333,-121.50416666667,4.04,0.69,md,13,68,0.04359,0.08,nc,nc75154912,2025-03-25T21:46:34.181Z,"9 km E of San Martin, CA",earthquake,0.3,0.99,0.1,11,reviewed,nc,nc
 2025-03-25T09:43:15.780Z,36.069499969482,-120.62833404541,3.829999923706,1.57,md,18,137,0.02606,0.08,nc,nc75154907,2025-03-25T11:42:18.212Z,"25 km E of San Ardo, CA",earthquake,0.39,0.649999976,0.22,8,automatic,nc,nc
 2025-03-25T09:37:38.830Z,34.0236667,-117.2655,16.78,1.79,ml,106,13,0.07152,0.19,ci,ci40909487,2025-03-25T14:21:20.000Z,"3 km S of Loma Linda, CA",earthquake,0.13,0.28,0.166,25,reviewed,ci,ci
 2025-03-25T09:12:13.764Z,-17.8454,-177.8833,585.337,4.5,mb,38,79,2.957,0.54,us,us7000pmgw,2025-03-25T12:12:20.040Z,"297 km E of Levuka, Fiji",earthquake,14.77,9.838,0.096,32,reviewed,us,us
@@ -177,6 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T04:04:21.740Z,38.799667358398,-122.7705001831,1.4099999666214,1.31,md,23,77,0.008484,0.03,nc,nc75154817,2025-03-25T06:52:18.280Z,"3 km NNW of The Geysers, CA",earthquake,0.21,0.340000004,0.17,22,automatic,nc,nc
 2025-03-25T03:58:39.590Z,44.414333333333,-115.2115,7.89,1.59,ml,16,60,0.4045,0.16,mb,mb90075808,2025-03-25T17:07:33.750Z,"30 km NW of Stanley, Idaho",earthquake,0.39,1.42,0.25511010090666,14,reviewed,mb,mb
 2025-03-25T03:52:31.200Z,38.898998260498,-122.68033599853,22.389999389648,1.21,md,13,204,0.09378,0.15,nc,nc75154812,2025-03-25T06:27:15.098Z,"6 km W of Lower Lake, CA",earthquake,3.47,2.70000005,0.18,6,automatic,nc,nc
+2025-03-25T03:34:52.080Z,61.0645,-152.31766666667,15.72,-0.19,ml,7,282,0.132,0.1,av,av93545071,2025-03-25T21:41:46.880Z,"63 km W of Tyonek, Alaska",earthquake,0.87,1,0.19201852597733,7,reviewed,av,av
 2025-03-25T03:34:17.820Z,37.676166534424,-122.53150177002,7.6300001144409,1.12,md,8,215,0.05948,0.01,nc,nc75154802,2025-03-25T06:07:18.963Z,"6 km W of Daly City, CA",earthquake,0.89,1.65999997,0.34,7,automatic,nc,nc
 2025-03-25T03:27:25.990Z,33.2266667,-116.0553333,9.36,1.54,ml,65,23,0.07893,0.21,ci,ci40909311,2025-03-25T16:13:59.453Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.16,0.47,0.178,27,automatic,ci,ci
 2025-03-25T03:26:25.430Z,17.987833333333,-66.842166666667,15.53,2.27,md,10,175,0.03752,0.15,pr,pr71477403,2025-03-25T03:34:55.320Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.56,0.79,0.06546486762924,5,reviewed,pr,pr
@@ -241,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T21:55:15.980Z,60.497333333333,-152.77433333333,0.09,-0.74,ml,8,74,0.0359,0.09,av,av93544636,2025-03-25T18:06:58.840Z,"78 km NW of Ninilchik, Alaska",earthquake,0.19,0.5,0.12388956433832,8,reviewed,av,av
 2025-03-24T21:50:12.370Z,33.3201667,-116.392,10.16,0.81,ml,39,43,0.05595,0.23,ci,ci40909111,2025-03-24T21:53:53.511Z,"7 km NNW of Borrego Springs, CA",earthquake,0.26,0.48,0.091,18,automatic,ci,ci
 2025-03-24T21:48:19.190Z,47.326,-122.67133333333,31.28,1.31,ml,16,129,0.03411,0.19,uw,uw62077057,2025-03-25T03:50:57.920Z,"1 km WSW of Rosedale, Washington",earthquake,0.55,0.85,0.078806318373906,7,reviewed,uw,uw
-2025-03-24T21:44:40.420Z,32.604,-116.9838333,2.98,1.13,ml,28,201,0.04543,0.15,ci,ci40909103,2025-03-25T21:17:07.232Z,"7 km ESE of Chula Vista, CA",earthquake,0.4,0.33,0.162,10,reviewed,ci,ci
-2025-03-24T21:41:58.640Z,63.292,-150.4436,30.2,1.6,ml,,,,1.58,ak,ak0253tmcti3,2025-03-24T21:44:20.121Z,"69 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-03-24T21:41:30.496Z,61.6562,-147.9796,16.2,0.9,ml,,,,1.12,ak,ak0253tmcreh,2025-03-24T21:43:25.040Z,"24 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
