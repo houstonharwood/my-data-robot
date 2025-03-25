@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-25T22:43:50.970Z,34.4406662,-117.93367,11.21,0.97,ml,13,81,0.01977,0.09,ci,ci40910279,2025-03-25T22:46:03.611Z,"8 km SSW of Pearblossom, CA",earthquake,0.41,0.78,0.207,8,automatic,ci,ci
+2025-03-25T22:43:51.040Z,34.4435,-117.9348333,10.53,1.04,ml,16,79,0.01785,0.11,ci,ci40910279,2025-03-25T22:48:56.789Z,"7 km SSW of Pearblossom, CA",earthquake,0.22,0.32,0.29,22,automatic,ci,ci
 2025-03-25T22:37:05.647Z,61.3858,-150.0751,35,2,ml,,,,0.36,ak,ak0253vagmpw,2025-03-25T22:38:57.491Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-25T22:28:51.820Z,38.792667388916,-122.8073348999,3.0999999046326,1.32,md,21,91,0.005468,0.03,nc,nc75155272,2025-03-25T22:30:30.408Z,"5 km WNW of The Geysers, CA",earthquake,0.28,0.540000021,0.24,21,automatic,nc,nc
 2025-03-25T22:24:04.305Z,36.4937,-113.9978,9.867,3.4,ml,48,29,0.796,0.55,us,us7000pmm0,2025-03-25T22:32:24.040Z,"33 km SSE of Bunkerville, Nevada",earthquake,2.62,1.459,0.026,196,reviewed,us,us
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T21:05:04.530Z,41.724833333333,-109.8575,-0.52,2.22,ml,10,155,0.0161,0.09,uu,uu80104426,2025-03-25T21:51:51.350Z,"17 km NNE of Granger, Wyoming",earthquake,0.6,0.44,0.16309065505093,5,reviewed,uu,uu
 2025-03-25T21:00:07.370Z,-38.0749,175.8766,278.989,4.2,mb,20,69,0.454,0.86,us,us7000pml0,2025-03-25T21:12:49.040Z,"17 km N of Tokoroa, New Zealand",earthquake,8.31,6.614,0.199,7,reviewed,us,us
 2025-03-25T20:57:30.450Z,35.6301651,-118.0110016,9.39,1.19,ml,15,81,0.1408,0.09,ci,ci40910135,2025-03-25T20:59:32.919Z,"18 km W of Inyokern, CA",earthquake,0.38,1.91,0.225,7,automatic,ci,ci
-2025-03-25T20:56:21.180Z,38.815498352051,-122.82216644287,2.2300000190735,2.3,md,43,67,0.008593,0.07,nc,nc75155212,2025-03-25T21:07:16.958Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.189999998,0.15,48,automatic,nc,nc
+2025-03-25T20:56:21.180Z,38.815498352051,-122.82216644287,2.2300000190735,2.3,md,43,67,0.008593,0.07,nc,nc75155212,2025-03-25T22:52:15.629Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.189999998,0.15,48,automatic,nc,nc
 2025-03-25T20:52:58.654Z,31.676,-104.404,3.9012,1.9,ml,17,69,0,0.4,tx,tx2025fxge,2025-03-25T20:59:38.871Z,"55 km S of Whites City, New Mexico",earthquake,0,1.306438088417,0.1,13,automatic,tx,tx
 2025-03-25T20:40:51.039Z,35.14466667,-97.81283333,6.23,2,ml,21,100,0.04049205408,0.34,ok,ok2025fxfq,2025-03-25T21:06:54.107Z,"6 km ESE of Amber, Oklahoma",earthquake,,1.9,0.24,9,reviewed,ok,ok
 2025-03-25T20:38:05.040Z,38.818332672119,-122.8065032959,3.329999923706,0.27,md,7,95,0.005773,0.01,nc,nc75155197,2025-03-25T20:57:17.890Z,"6 km NNW of The Geysers, CA",earthquake,0.93,1.80999994,0.05,8,automatic,nc,nc
@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T11:38:19.380Z,47.712,-113.80766666667,6.03,-0.41,ml,3,191,0.0833,0.02,mb,mb90075793,2025-03-25T15:44:26.900Z,"19 km E of Finley Point, Montana",earthquake,1.11,3.03,0.27608899967071,2,reviewed,mb,mb
 2025-03-25T11:36:55.810Z,47.7195,-113.79566666667,9.49,0.91,ml,12,122,0.07341,0.06,mb,mb90075788,2025-03-25T15:40:40.800Z,"20 km E of Finley Point, Montana",earthquake,0.39,0.87,0.41407199794874,6,reviewed,mb,mb
 2025-03-25T11:32:43.080Z,37.593,-118.83816666667,8.23,0.06,md,11,111,0.007783,0.04,nc,nc75154972,2025-03-25T22:21:16.075Z,"13 km ESE of Mammoth Lakes, CA",earthquake,1.07,1.49,0.341,8,reviewed,nc,nc
-2025-03-25T11:31:56.500Z,37.627,-119.04216666667,1.8,0.25,md,13,77,0.01897,0.06,nc,nc75154967,2025-03-25T22:19:15.052Z,"6 km W of Mammoth Lakes, CA",earthquake,0.31,0.44,0.097,8,reviewed,nc,nc
+2025-03-25T11:31:56.500Z,37.627,-119.04216666667,1.8,0.25,md,13,77,0.01897,0.06,nc,nc75154967,2025-03-25T22:52:16.629Z,"6 km W of Mammoth Lakes, CA",earthquake,0.31,0.44,0.097,8,reviewed,nc,nc
 2025-03-25T11:30:08.233Z,37.6471,-114.8993,5.5,1.8,ml,15,128.91,0.269,0.1732,nn,nn00895087,2025-03-25T18:27:59.557Z,"29 km E of Hiko, Nevada",earthquake,,1.9,0.25,10,reviewed,nn,nn
 2025-03-25T11:18:15.130Z,44.192833333333,-115.10866666667,2.45,1.49,ml,13,74,0.2076,0.23,mb,mb90075823,2025-03-25T17:29:14.890Z,"13 km WSW of Stanley, Idaho",earthquake,0.54,1.72,0.14092319977106,18,reviewed,mb,mb
 2025-03-25T11:15:05.550Z,37.651833333333,-121.66083333333,4.43,1.17,md,19,112,0.05243,0.07,nc,nc75154957,2025-03-25T22:47:20.594Z,"10 km ESE of Livermore, CA",earthquake,0.19,0.35,0.162,18,reviewed,nc,nc
