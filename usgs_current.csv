@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-26T13:41:30.289Z,39.0374,-119.0132,0,1.4,ml,12,154.65,0.133,0.2069,nn,nn00895161,2025-03-26T13:43:40.532Z,"14 km ENE of Yerington, Nevada",earthquake,,6.7,0.3,6,automatic,nn,nn
 2025-03-26T13:38:25.580Z,36.018,-117.7801667,1.12,1.04,ml,20,65,0.01406,0.13,ci,ci40910759,2025-03-26T13:41:46.482Z,"14 km NE of Little Lake, CA",earthquake,0.16,0.2,0.094,19,automatic,ci,ci
-2025-03-26T13:37:20.600Z,19.270999908447,-155.38850402832,30.85000038147,3.03,ml,58,109,0.03439,0.140000001,hv,hv74641822,2025-03-26T13:47:57.331Z,"12 km NE of Pāhala, Hawaii",earthquake,0.39,0.430000007,0.34,45,automatic,hv,hv
-2025-03-26T13:32:55.830Z,38.787166595459,-122.76816558838,2.7400000095367,0.83,md,15,81,0.01653,0.03,nc,nc75155552,2025-03-26T13:34:30.496Z,"1 km NNW of The Geysers, CA",earthquake,0.3,0.629999995,0.26,15,automatic,nc,nc
+2025-03-26T13:37:20.600Z,19.270999908447,-155.38850402832,30.85000038147,3.03,ml,58,109,0.03439,0.140000001,hv,hv74641822,2025-03-26T13:53:16.157Z,"12 km NE of Pāhala, Hawaii",earthquake,0.39,0.430000007,0.34,45,automatic,hv,hv
+2025-03-26T13:32:55.830Z,38.787166595459,-122.76816558838,2.7400000095367,0.83,md,15,81,0.01653,0.03,nc,nc75155552,2025-03-26T13:52:17.687Z,"1 km NNW of The Geysers, CA",earthquake,0.3,0.629999995,0.26,15,automatic,nc,nc
 2025-03-26T13:31:00.720Z,36.021,-117.7788333,1.42,0.88,ml,19,66,0.01178,0.13,ci,ci40910743,2025-03-26T13:34:31.427Z,"15 km NE of Little Lake, CA",earthquake,0.14,0.17,0.167,17,automatic,ci,ci
 2025-03-26T13:25:45.428Z,63.7573,-149.076,56.6,1.1,ml,,,,1.07,ak,ak0253wsklgr,2025-03-26T13:28:20.833Z,"8 km WNW of Denali Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-03-26T13:18:25.280Z,36.0203333,-117.78,1.45,2.33,ml,28,66,0.0129,0.16,ci,ci40910727,2025-03-26T13:21:53.359Z,"15 km NE of Little Lake, CA",earthquake,0.15,0.2,0.128,25,automatic,ci,ci
@@ -151,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T21:53:15.760Z,38.792499542236,-122.77966308594,3.2000000476837,1.26,md,20,79,0.006487,0.02,nc,nc75155252,2025-03-25T22:37:19.522Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.540000021,0.16,20,automatic,nc,nc
 2025-03-25T21:50:18.490Z,40.7956,84.1066,10,4,mb,27,122,3.723,0.57,us,us7000pmld,2025-03-26T01:51:27.040Z,"142 km SE of Kuqa, China",earthquake,9.56,1.938,0.144,13,reviewed,us,us
 2025-03-25T21:48:18.727Z,38.0989,-26.5156,10,4.3,mb,28,165,0.852,0.58,us,us7000pmqw,2025-03-26T13:37:46.450Z,"65 km WNW of Mosteiros, Portugal",earthquake,6.67,1.945,0.109,24,reviewed,us,us
-2025-03-25T21:41:18.875Z,31.68,-104.403,4.5565,1.9,ml,17,69,0,0.3,tx,tx2025fxhx,2025-03-25T21:56:00.454Z,"55 km S of Whites City, New Mexico",earthquake,0,1.4075862169266,0.2,12,automatic,tx,tx
+2025-03-25T21:41:18.622Z,31.686,-104.403,6.2537,2.1,ml,39,79,0,0.1,tx,tx2025fxhx,2025-03-26T13:51:44.719Z,"54 km S of Whites City, New Mexico",earthquake,0.60233552750917,0.58678430005656,0.1,36,reviewed,tx,tx
 2025-03-25T21:31:24.560Z,32.7623333,-116.8995,4.28,1.25,ml,31,73,0.04492,0.2,ci,ci40910191,2025-03-25T21:45:15.110Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.22,0.72,0.198,22,automatic,ci,ci
 2025-03-25T21:31:14.073Z,62.7267,-151.1651,91.8,1.6,ml,,,,0.5,ak,ak0253v9txgv,2025-03-25T21:33:26.533Z,"32 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-25T21:27:28.750Z,35.9455,-117.672,5.66,0.94,ml,14,71,0.01771,0.19,ci,ci40910183,2025-03-25T22:08:40.419Z,"21 km E of Little Lake, CA",earthquake,0.32,0.64,0.176,6,reviewed,ci,ci
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T14:21:07.650Z,33.7018333,-116.7156667,17.03,0.74,ml,30,37,0.01263,0.14,ci,ci40909695,2025-03-26T13:48:07.494Z,"4 km S of Idyllwild, CA",earthquake,0.19,0.36,0.177,19,reviewed,ci,ci
 2025-03-25T14:09:21.950Z,38.833499908447,-122.83333587647,1.0299999713898,0.66,md,10,64,0.005352,0.01,nc,nc75155032,2025-03-25T14:37:16.364Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.689999998,0.08,11,automatic,nc,nc
 2025-03-25T14:08:31.500Z,47.72,-113.81616666667,6.98,-0.26,ml,4,183,0.07855,0.05,mb,mb90075803,2025-03-25T15:50:03.630Z,"18 km E of Finley Point, Montana",earthquake,0.74,2.09,0.1744945546073,2,reviewed,mb,mb
-2025-03-25T13:52:40.460Z,38.838165283203,-122.83350372315,2.8399999141693,0.45,md,7,105,0.001606,0.07,nc,nc75155022,2025-03-25T15:12:17.593Z,"10 km NNW of The Geysers, CA",earthquake,1.02,1.22000003,0.18,6,automatic,nc,nc
