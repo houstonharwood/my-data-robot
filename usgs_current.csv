@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T11:29:28.040Z,33.6553333,-116.7791667,14.57,2.09,ml,98,17,0.08113,0.19,ci,ci40913527,2025-03-31T11:40:30.840Z,"11 km SSW of Idyllwild, CA",earthquake,0.11,0.2,0.195,26,automatic,ci,ci
 2025-03-31T11:20:16.441Z,62.6989,-152.4379,0,1.9,ml,,,,1,ak,ak0254511bos,2025-03-31T11:22:34.252Z,"88 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-31T11:12:21.559Z,-4.6394,139.4076,10,4.6,mb,36,90,0.707,1.35,us,us7000pp0e,2025-03-31T11:46:41.040Z,"173 km NE of Agats, Indonesia",earthquake,4.91,1.885,0.112,24,reviewed,us,us
-2025-03-31T11:10:35.186Z,25.6542,67.2568,10,4.6,mb,47,88,10.026,0.8,us,us7000pp0f,2025-03-31T11:48:28.130Z,"65 km ESE of Uthal, Pakistan",earthquake,11.17,1.64,0.065,71,reviewed,us,us
+2025-03-31T11:10:35.186Z,25.6542,67.2568,10,4.6,mb,47,88,10.026,0.8,us,us7000pp0f,2025-03-31T11:55:36.435Z,"65 km ESE of Uthal, Pakistan",earthquake,11.17,1.64,0.065,71,reviewed,us,us
 2025-03-31T11:02:58.058Z,61.9187,-149.8976,19.7,1.5,ml,,,,0.61,ak,ak025450xk0d,2025-03-31T11:05:38.483Z,"20 km NNE of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-03-31T10:43:51.906Z,58.4386,-137.1774,0,2.5,ml,,,,1.28,ak,ak025450kwae,2025-03-31T10:46:49.080Z,"55 km WNW of Elfin Cove, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-31T10:36:22.780Z,33.4963333,-116.5186667,14.46,0.66,ml,30,43,0.06982,0.17,ci,ci40913519,2025-03-31T10:40:32.179Z,"16 km ESE of Anza, CA",earthquake,0.22,0.46,0.136,16,automatic,ci,ci
@@ -99,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T23:41:48.327Z,-18.423,-71.3682,31.816,4,mwr,24,198,0.975,0.68,us,us7000pnxw,2025-03-31T00:47:10.040Z,"86 km S of Pacocha, Peru",earthquake,5.97,7.339,0.083,14,reviewed,us,us
 2025-03-30T23:34:01.260Z,34.1445,-118.3453333,14.13,1.32,ml,34,60,0.034,0.26,ci,ci40913295,2025-03-30T23:38:08.035Z,"1 km NE of Universal City, CA",earthquake,0.41,0.58,0.153,31,automatic,ci,ci
 2025-03-30T23:29:46.272Z,64.7746,-149.158,20.8,0.9,ml,,,,0.54,ak,ak02543kp67p,2025-03-30T23:32:15.586Z,"19 km N of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-03-30T23:28:00.970Z,38.784166666667,-122.75866666667,2.03,0.56,md,23,78,0.01452,0.03,nc,nc75157867,2025-03-31T11:53:51.446Z,"1 km  of The Geysers, CA",earthquake,0.16,0.41,0.182,18,reviewed,nc,nc
 2025-03-30T23:24:18.460Z,65.444,-148.2218,11.4,0.7,ml,,,,0.24,ak,ak02543ko1h2,2025-03-30T23:26:09.113Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-30T23:23:32.898Z,60.0878,-152.8445,110.7,1.5,ml,,,,0.24,ak,ak02543knuvd,2025-03-30T23:25:51.978Z,"63 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-03-30T23:14:43.850Z,38.789833333333,-122.73516666667,1.72,0.73,md,17,90,0.006698,0.03,nc,nc75157857,2025-03-31T11:48:19.557Z,"2 km ENE of The Geysers, CA",earthquake,0.26,0.32,0.272,13,reviewed,nc,nc
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T12:09:49.880Z,44.660833333333,-114.08983333333,5.02,1.63,ml,16,64,0.2801,0.21,mb,mb90076248,2025-03-30T14:15:43.480Z,"20 km NNE of Challis, Idaho",earthquake,0.47,3.51,0.16489559811749,24,reviewed,mb,mb
 2025-03-30T12:09:00.760Z,17.949166666667,-66.735333333333,7.24,2.27,md,9,222,0.1394,0.18,pr,pr71477963,2025-03-30T12:22:15.050Z,"5 km SSW of Tallaboa, Puerto Rico",earthquake,0.9,0.42,0.15581799611306,6,reviewed,pr,pr
 2025-03-30T12:05:45.387Z,39.1571,-119.0656,1.3,1.2,ml,9,77.18,0.024,0.2041,nn,nn00895368,2025-03-30T12:07:43.556Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.19,4,automatic,nn,nn
-2025-03-30T11:52:04.900Z,39.1563,-119.0463,15.7,2.4,ml,21,74.41,0.228,0.2367,nn,nn00895366,2025-03-30T11:54:27.700Z,"21 km NNE of Yerington, Nevada",earthquake,,0.9,0.26,10,automatic,nn,nn
