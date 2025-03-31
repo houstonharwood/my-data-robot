@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-31T21:41:51.990Z,38.812168121338,-122.82983398438,1.6100000143051,1.16,md,13,96,0.003335,0.02,nc,nc75158247,2025-03-31T21:43:28.822Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.569999993,0.31,13,automatic,nc,nc
+2025-03-31T22:13:34.770Z,38.587501525879,-122.69400024414,-0.81999999284744,0.91,md,7,150,0.1983,0.34,nc,nc75158262,2025-03-31T22:15:18.959Z,"10 km NE of Larkfield-Wikiup, CA",earthquake,4.64,7.13999987,,1,automatic,nc,nc
+2025-03-31T22:09:43.310Z,38.817001342773,-122.82233428955,1.7799999713898,0.78,md,8,81,0.009723,0.01,nc,nc75158257,2025-03-31T22:11:18.961Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.04999995,0.05,9,automatic,nc,nc
+2025-03-31T22:09:24.330Z,60.2713,-150.7517,41.8,1.6,ml,,,,0.29,ak,ak025457ir2p,2025-03-31T22:12:01.380Z,"25 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-03-31T22:06:03.484Z,32.439,-101.675,4.1742,1.3,ml,22,47,0.1,0.5,tx,tx2025giho,2025-03-31T22:11:45.686Z,"10 km SSE of Ackerly, Texas",earthquake,0,1.3647356033325,0.1,16,automatic,tx,tx
+2025-03-31T21:59:23.642Z,39.0429,-119.0204,5.2,1.5,ml,9,114.67,0.127,0.06,nn,nn00895456,2025-03-31T22:01:27.311Z,"13 km ENE of Yerington, Nevada",earthquake,,2,0.14,4,automatic,nn,nn
+2025-03-31T21:41:51.990Z,38.812168121338,-122.82983398438,1.6100000143051,1.16,md,13,96,0.003335,0.02,nc,nc75158247,2025-03-31T21:57:15.756Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.569999993,0.31,13,automatic,nc,nc
 2025-03-31T21:33:18.510Z,33.4718333,-116.4721667,7.79,1,ml,25,54,0.111,0.15,ci,ci40913911,2025-03-31T21:54:59.118Z,"21 km ESE of Anza, CA",earthquake,0.22,0.72,0.159,28,reviewed,ci,ci
 2025-03-31T21:21:58.130Z,44.353666666667,-116.091,9.52,1.14,ml,8,156,0.0507,0.13,mb,mb90076338,2025-03-31T21:38:20.100Z,"5 km N of Smiths Ferry, Idaho",earthquake,0.72,1.77,0.26121723585521,6,reviewed,mb,mb
 2025-03-31T20:51:15.771Z,63.074,-145.2655,7.7,1.6,ml,,,,0.37,ak,ak025456kva1,2025-03-31T20:53:40.408Z,"17 km E of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -14,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T19:55:58.340Z,36.260334014893,-121.43482971191,9.4300003051758,1.96,md,20,64,0.04126,0.1,nc,nc75158207,2025-03-31T20:37:15.211Z,"18 km W of Greenfield, CA",earthquake,0.33,0.689999998,0.18,19,automatic,nc,nc
 2025-03-31T19:53:29.570Z,38.819499969482,-122.7576675415,2.079999923706,1.18,md,10,217,0.01454,0.03,nc,nc75158197,2025-03-31T20:17:20.077Z,"3 km W of Cobb, CA",earthquake,0.99,1.44000006,0.31,10,automatic,nc,nc
 2025-03-31T19:45:29.606Z,32.445,-101.691,5.1834,1.4,ml,23,45,0.1,0.5,tx,tx2025gicz,2025-03-31T19:59:39.083Z,"9 km SSE of Ackerly, Texas",earthquake,0,1.5136631727219,0.2,16,automatic,tx,tx
+2025-03-31T19:35:27.395Z,41.2108,-116.7211,7.1,2,ml,5,160.9,0.324,0.1816,nn,nn00895457,2025-03-31T22:14:47.295Z,"57 km NE of Valmy, Nevada",earthquake,,3,0.12,3,reviewed,nn,nn
 2025-03-31T19:32:13.946Z,61.0643,-151.0736,64.1,1.4,ml,,,,0.22,ak,ak025455vcxe,2025-03-31T19:33:23.016Z,"3 km E of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-03-31T19:30:26.108Z,59.9465,-140.7581,8.6,1.8,ml,,,,0.84,ak,ak025455uyfm,2025-03-31T19:32:37.033Z,"73 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-31T19:23:57.712Z,32.193,-101.398,3.4432,1.4,ml,30,88,0.2,0.3,tx,tx2025gich,2025-03-31T19:31:58.640Z,"9 km NNW of Forsan, Texas",earthquake,0,1.1195776462555,0.1,19,automatic,tx,tx
@@ -134,7 +140,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T06:58:14.490Z,51.8618,178.4422,138.311,4.2,mb,204,84,0.123,0.53,us,us7000pnzd,2025-03-31T17:23:15.211Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.77,4.908,0.039,185,reviewed,us,us
 2025-03-31T06:56:04.230Z,38.81566619873,-122.81833648682,2.670000076294,1.81,md,35,50,0.01006,0.03,nc,nc75157982,2025-03-31T06:59:27.190Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.319999993,0.11,35,automatic,nc,nc
 2025-03-31T06:54:32.463Z,31.524,-104.016,7.4329,1.6,ml,29,61,0,0.1,tx,tx2025ghdl,2025-03-31T14:56:37.614Z,"31 km NW of Toyah, Texas",earthquake,0.62479139644774,0.53046826673122,0.1,17,reviewed,tx,tx
-2025-03-31T06:27:39.990Z,33.7663333,-118.8173333,-0.19,1.92,ml,22,197,0.2376,0.45,ci,ci40913431,2025-03-31T06:32:16.583Z,"26 km S of Malibu, CA",earthquake,1.19,1.61,0.149,27,automatic,ci,ci
+2025-03-31T06:27:45.980Z,33.7841667,-118.7685,7.11,1.97,ml,14,241,0.222,0.36,ci,ci37711996,2025-03-31T22:11:40.994Z,"25 km S of Malibu, CA",earthquake,1.45,3.78,0.135,10,reviewed,ci,ci
+2025-03-31T06:27:39.790Z,33.7806667,-118.7368333,0.66,1.91,ml,33,182,0.2307,0.22,ci,ci40913431,2025-03-31T22:07:20.968Z,"26 km SSE of Malibu, CA",earthquake,0.44,0.85,0.199,24,reviewed,ci,ci
 2025-03-31T06:24:37.605Z,63.1286,-144.3818,0,1.1,ml,,,,0.39,ak,ak02544y325s,2025-03-31T06:26:11.008Z,"38 km NW of Mentasta Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-31T06:18:17.580Z,18.01,-66.829833333333,15.65,2.25,md,8,153,0.05849,0.14,pr,pr71478048,2025-03-31T06:35:00.230Z,"2 km NNW of Indios, Puerto Rico",earthquake,0.46,1.04,0.0110721567053,5,reviewed,pr,pr
 2025-03-31T05:59:21.097Z,-17.7144,-69.6796,154.413,4.5,mb,60,103,0.907,0.68,us,us7000pnz7,2025-03-31T09:45:49.040Z,"30 km ENE of Palca, Peru",earthquake,7.51,7.157,0.076,50,reviewed,us,us
