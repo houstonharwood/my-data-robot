@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-11T05:47:38.600Z,35.3466667,-117.8063333,7.32,1.23,ml,18,113,0.1523,0.17,ci,ci40922215,2025-04-11T05:51:15.961Z,"16 km W of Johannesburg, CA",earthquake,0.31,1.38,0.062,9,automatic,ci,ci
+2025-04-11T05:47:11.110Z,35.3485,-117.8163333,0.5,1.54,ml,28,65,0.2396,0.23,ci,ci40922207,2025-04-11T05:50:54.960Z,"17 km W of Johannesburg, CA",earthquake,0.31,1.31,0.148,25,automatic,ci,ci
 2025-04-11T05:41:05.151Z,63.2655,-151.6912,0,1.4,ml,,,,0.9,ak,ak0254n4i0nn,2025-04-11T05:42:59.798Z,"30 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-11T05:37:32.120Z,38.792999267578,-122.77683258057,2.0499999523163,1.06,md,15,78,0.01539,0.02,nc,nc75163446,2025-04-11T05:39:10.273Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.540000021,0.25,15,automatic,nc,nc
 2025-04-11T05:32:42.330Z,38.791332244873,-122.77766418457,2.0699999332428,1.04,md,19,80,0.008223,0.02,nc,nc75163441,2025-04-11T05:34:18.930Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.449999988,0.24,19,automatic,nc,nc
@@ -48,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T01:51:17.120Z,38.817832946777,-122.82266998291,2.1400001049042,1.08,md,17,63,0.01029,0.02,nc,nc75163336,2025-04-11T02:07:18.204Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.19,17,automatic,nc,nc
 2025-04-11T01:38:43.680Z,33.1538333,-116.6516667,4.78,0.61,ml,30,41,0.04534,0.23,ci,ci40921975,2025-04-11T01:42:50.853Z,"10 km NNW of Julian, CA",earthquake,0.25,0.45,0.143,12,automatic,ci,ci
 2025-04-11T01:30:20.490Z,31.5106667,-115.6211667,11.45,2.12,ml,5,136,0.183,0.05,ci,ci40921967,2025-04-11T01:34:00.345Z,"90 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.22,1.16,0.195,10,automatic,ci,ci
+2025-04-11T01:26:49.947Z,61.1164,-151.9578,10.2,0.4,ml,,,,0.54,ak,ak0254n213xs,2025-04-11T05:45:07.202Z,"44 km W of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-04-11T01:23:49.750Z,38.821998596191,-122.76433563232,2.289999961853,0.92,md,11,120,0.009516,0.02,nc,nc75163326,2025-04-11T01:42:18.049Z,"4 km W of Cobb, CA",earthquake,0.37,0.629999995,0.24,14,automatic,nc,nc
 2025-04-11T01:17:47.970Z,34.1513333,-117.438,10.45,1.02,ml,37,49,0.07601,0.15,ci,ci40921959,2025-04-11T01:21:47.276Z,"6 km NNE of Fontana, CA",earthquake,0.22,0.29,0.379,29,automatic,ci,ci
 2025-04-11T01:09:01.916Z,31.739,-104.14,4.6437,1.8,ml,18,62,0,0.2,tx,tx2025haup,2025-04-11T01:20:02.003Z,"51 km W of Mentone, Texas",earthquake,0,1.2790986299515,0.2,12,automatic,tx,tx
@@ -330,5 +333,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T06:00:03.510Z,38.839668273926,-122.83499908447,1.3899999856949,0.72,md,17,84,0.001143,0.01,nc,nc75162791,2025-04-10T07:57:20.037Z,"10 km NNW of The Geysers, CA",earthquake,0.24,0.430000007,0.12,18,automatic,nc,nc
 2025-04-10T05:59:23.840Z,44.692333333333,-112.03516666667,5.05,0.14,ml,6,190,0.3464,0.23,mb,mb90077933,2025-04-10T22:53:07.410Z,"38 km NNE of Spencer, Idaho",earthquake,1.09,13.87,0.21405380714715,3,reviewed,mb,mb
 2025-04-10T05:55:58.840Z,61.273833333333,-152.24333333333,3.12,-0.56,ml,8,107,0.04349,0.08,av,av93568606,2025-04-11T00:48:25.510Z,"63 km WNW of Tyonek, Alaska",earthquake,0.32,0.4,0.24019449207394,9,reviewed,av,av
-2025-04-10T05:48:02.970Z,61.251166666667,-152.20316666667,30.76,-0.32,ml,9,99,0.02737,0.17,av,av93568601,2025-04-10T23:41:26.020Z,"60 km WNW of Tyonek, Alaska",earthquake,1.09,0.92,0.265014285553,9,reviewed,av,av
-2025-04-10T05:47:48.710Z,38.816833333333,-122.82266666667,2.18,0.32,md,26,48,0.009441,0.02,nc,nc75162786,2025-04-10T09:52:17.770Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.3,0.148,25,reviewed,nc,nc
