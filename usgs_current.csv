@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-11T19:08:36.660Z,17.969,-66.827166666667,15.02,2.24,md,6,206,0.04995,0.09,pr,pr71478918,2025-04-11T19:30:42.030Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.58,0.65,0.21500106751356,5,reviewed,pr,pr
+2025-04-11T19:08:36.660Z,17.969,-66.827166666667,15.02,2.24,md,6,206,0.04995,0.09,pr,pr71478918,2025-04-11T19:38:21.144Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.58,0.65,0.21500106751356,5,reviewed,pr,pr
 2025-04-11T19:06:17.010Z,38.130165100098,-122.13616943359,2.5,1.93,md,13,206,0.01264,0.23,nc,nc75163796,2025-04-11T19:22:16.189Z,"9 km E of Vallejo, CA",earthquake,1.44,0.579999983,0.15,9,automatic,nc,nc
 2025-04-11T19:05:08.760Z,32.3785,-117.0378333,7.25,1.67,ml,7,276,0.4073,0.22,ci,ci40923143,2025-04-11T19:09:01.996Z,"5 km N of Rosarito, B.C., MX",earthquake,2.52,15.14,0.245,11,automatic,ci,ci
 2025-04-11T19:03:09.600Z,46.008666666667,-112.46083333333,-2,1.64,ml,13,70,0.06521,0.09,mb,mb90078078,2025-04-11T19:27:24.950Z,"5 km E of Butte, Montana",quarry blast,0.34,31.61,0.26760356545237,19,reviewed,mb,mb
@@ -16,9 +16,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T17:54:10.130Z,33.2296667,-116.7323333,11.72,0.67,ml,24,56,0.02303,0.14,ci,ci40923039,2025-04-11T17:58:27.573Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.2,0.47,0.136,14,automatic,ci,ci
 2025-04-11T17:48:28.208Z,31.687,-104.404,5.1257,2,ml,32,73,0,0.3,tx,tx2025hcbp,2025-04-11T18:03:49.699Z,"54 km S of Whites City, New Mexico",earthquake,0.69090743257358,1.097328629188,0.2,28,reviewed,tx,tx
 2025-04-11T17:43:56.764Z,31.63,-104.437,6.1255,2.2,ml,18,96,0,0.4,tx,tx2025hcbm,2025-04-11T17:51:43.616Z,"60 km S of Whites City, New Mexico",earthquake,1.470263705093,1.1642549518321,0.2,14,reviewed,tx,tx
+2025-04-11T17:39:24.780Z,47.709,-113.82133333333,4.66,-0.14,ml,4,185,0.08991,0.03,mb,mb90078088,2025-04-11T19:33:51.710Z,"18 km E of Finley Point, Montana",earthquake,0.59,2.63,0.24694240134661,2,reviewed,mb,mb
 2025-04-11T17:30:41.590Z,35.3381667,-117.7991667,8.97,0.88,ml,21,96,0.1597,0.19,ci,ci40922983,2025-04-11T17:34:11.949Z,"15 km WSW of Johannesburg, CA",earthquake,0.29,1.03,0.154,17,automatic,ci,ci
 2025-04-11T17:27:41.700Z,35.13333333,-97.81233333,7.19,1.14,ml,22,102,0.05128993517,0.19,ok,ok2025hcaw,2025-04-11T18:02:40.875Z,"6 km ESE of Amber, Oklahoma",earthquake,,1.2,0.22,11,reviewed,ok,ok
-2025-04-11T17:24:34.268Z,55.5518,-158.2563,25.3,2.3,ml,,,,0.68,ak,ak0254nbjmzm,2025-04-11T17:26:18.788Z,"68 km SE of Perryville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-04-11T17:24:26.249Z,55.156,-157.4981,23.7,2.5,ml,,,,0.72,ak,ak0254nbjmzm,2025-04-11T19:33:33.049Z,"133 km SE of Perryville, Alaska",earthquake,,3.8,,,reviewed,ak,ak
 2025-04-11T17:22:59.553Z,63.9862,-150.2782,15.3,1.1,ml,,,,0.52,ak,ak0254nbj9ib,2025-04-11T17:24:43.718Z,"56 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-11T17:22:56.460Z,33.5313333,-116.7218333,5.89,0.61,ml,22,41,0.03635,0.16,ci,ci40922967,2025-04-11T17:26:57.575Z,"5 km WSW of Anza, CA",earthquake,0.2,0.48,0.142,16,automatic,ci,ci
 2025-04-11T17:22:25.200Z,35.8643333,-117.6496667,5.06,1.83,ml,31,44,0.08339,0.17,ci,ci40922959,2025-04-11T17:33:07.480Z,"24 km ESE of Little Lake, CA",earthquake,0.17,0.92,0.163,26,automatic,ci,ci
@@ -275,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T19:43:31.818Z,60.0356,-152.8133,108.6,1.5,ml,,,,0.53,ak,ak0254lpb84d,2025-04-10T19:45:44.164Z,"61 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-10T19:42:58.921Z,61.2079,-151.8646,83,0.8,ml,,,,0.94,ak,ak0254lpb2hw,2025-04-10T19:44:23.797Z,"42 km WNW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-10T19:39:40.900Z,33.1486667,-116.6561667,4.18,1.32,ml,60,26,0.0509,0.21,ci,ci40921623,2025-04-10T19:50:23.790Z,"9 km NNW of Julian, CA",earthquake,0.17,0.46,0.281,29,automatic,ci,ci
-2025-04-10T19:37:58.790Z,52.073666666667,-176.12383333333,-1.77,-0.63,ml,5,121,0.02199,0.3,av,av93038849,2025-04-11T06:30:47.250Z,"41 km ENE of Adak, Alaska",earthquake,0.65,1.19,0.2348188688815,5,reviewed,av,av
-2025-04-10T19:35:14.067Z,13.0658,-89.053,59.339,4.2,mb,25,157,0.653,0.93,us,us6000q57p,2025-04-10T20:37:11.907Z,"47 km S of El Rosario, El Salvador",earthquake,4.02,9.921,0.106,25,reviewed,us,us
