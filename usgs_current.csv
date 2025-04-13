@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-13T20:09:56.380Z,34.0755,-116.4658333,9.27,1.56,ml,56,28,0.06331,0.19,ci,ci40925215,2025-04-13T20:20:49.740Z,"5 km SW of Yucca Valley, CA",earthquake,0.14,0.5,0.146,28,automatic,ci,ci
 2025-04-13T20:08:16.857Z,31.726,-104.362,4.2747,1.7,ml,15,86,0.1,0.2,tx,tx2025hfxe,2025-04-13T20:21:29.065Z,"49 km S of Whites City, New Mexico",earthquake,0,1.3273233175278,0.2,13,automatic,tx,tx
 2025-04-13T20:07:35.200Z,36.717166900635,-121.14666748047,-0.5799999833107,1.96,md,29,67,0.06047,0.2,nc,nc75164781,2025-04-13T20:32:16.785Z,"17 km SE of Tres Pinos, CA",earthquake,0.33,1.84000003,0.22,28,automatic,nc,nc
-2025-04-13T20:03:22.700Z,-26.0294,-178.3209,271,6.5,mww,98,27,3.222,0.95,us,us6000q5tp,2025-04-13T20:47:06.040Z,"south of the Fiji Islands",earthquake,9.71,1.94,0.045,48,reviewed,us,us
+2025-04-13T20:03:22.700Z,-26.0294,-178.3209,271,6.5,mww,98,27,3.222,0.95,us,us6000q5tp,2025-04-13T20:53:03.605Z,"south of the Fiji Islands",earthquake,9.71,1.94,0.045,48,reviewed,us,us
 2025-04-13T20:03:00.000Z,-26.3,-177.8,174,6.5,Mi,14,291.599976672,8.982255,0.65,at,at00suoad0,2025-04-13T20:11:39.032Z,"south of the Fiji Islands",earthquake,0,0,,4,reviewed,at,at
 2025-04-13T20:02:39.130Z,38.793998718262,-122.75783538818,2.9300000667572,0.58,md,7,135,0.006777,0.01,nc,nc75164776,2025-04-13T20:22:18.715Z,"2 km N of The Geysers, CA",earthquake,0.55,2.01999998,0.24,7,automatic,nc,nc
 2025-04-13T20:02:29.685Z,19.8059,95.5564,7.649,4.7,mwr,48,91,1.516,0.98,us,us6000q5tq,2025-04-13T20:38:09.040Z,"22 km S of Taungdwingyi, Burma (Myanmar)",earthquake,5.31,4.359,0.073,18,reviewed,us,us
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-13T11:30:29.099Z,38.5049,-118.4794,0,1.5,ml,13,92.7,0.618,0.3339,nn,nn00896152,2025-04-13T11:33:35.960Z,"12 km E of Hawthorne, Nevada",earthquake,,7.4,0.5,6,automatic,nn,nn
 2025-04-13T11:29:11.420Z,33.0475,-116.4118333,7.46,0.76,ml,42,71,0.03706,0.19,ci,ci40924823,2025-04-13T13:49:28.388Z,"18 km E of Julian, CA",earthquake,0.21,0.63,0.141,18,reviewed,ci,ci
 2025-04-13T11:15:45.311Z,39.0566,-119.0342,12.1,0.7,ml,10,136.05,0.112,0.2575,nn,nn00896149,2025-04-13T11:17:44.696Z,"13 km NE of Yerington, Nevada",earthquake,,0.9,0.2,4,automatic,nn,nn
-2025-04-13T11:01:03.310Z,48.755833333333,-119.504,14.78,3.2,ml,32,171,0.05291,0.3,uw,uw62082962,2025-04-13T20:44:19.736Z,"7 km NW of Tonasket, Washington",earthquake,0.61,0.53,0.15669481492999,23,reviewed,uw,uw
+2025-04-13T11:01:03.310Z,48.755833333333,-119.504,14.78,3.2,ml,32,171,0.05291,0.3,uw,uw62082962,2025-04-13T20:49:43.274Z,"7 km NW of Tonasket, Washington",earthquake,0.61,0.53,0.15669481492999,23,reviewed,uw,uw
 2025-04-13T10:50:55.030Z,32.3843333,-115.2585,4.98,2.31,ml,26,82,0.0527,0.3,ci,ci40924807,2025-04-13T10:54:32.244Z,"7 km WNW of Delta, B.C., MX",earthquake,0.44,1.22,0.181,26,automatic,ci,ci
 2025-04-13T10:28:54.240Z,38.829666137695,-122.80583190918,1.3999999761581,1.26,md,22,40,0.007085,0.02,nc,nc75164546,2025-04-13T13:07:18.836Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.409999996,0.2,24,automatic,nc,nc
 2025-04-13T10:26:37.230Z,38.829334259033,-122.79433441162,7.3800001144409,0.66,md,7,137,0.009583,0.06,nc,nc75164536,2025-04-13T10:42:23.880Z,"6 km WNW of Cobb, CA",earthquake,1.37,7.53000021,0.09,8,automatic,nc,nc
@@ -211,8 +211,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-12T22:49:57.399Z,-31.5204,-71.4628,39.231,4.4,mb,39,143,0.506,0.8,us,us6000q5nv,2025-04-13T01:03:28.040Z,"30 km WNW of Illapel, Chile",earthquake,4.79,7.37,0.155,12,reviewed,us,us
 2025-04-12T22:46:00.930Z,36.10116667,-97.838,6.4,2.12,ml,75,41,0,0.17,ok,ok2025hegw,2025-04-13T01:25:15.959Z,"5 km E of Hennessey, Oklahoma",earthquake,,0.3,0.24,32,reviewed,ok,ok
 2025-04-12T22:39:13.409Z,64.9933,-147.4381,4.6,1.3,ml,,,,0.62,ak,ak0254p25bn0,2025-04-12T22:40:50.475Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-04-12T22:37:57.810Z,54.754,-163.98416666667,0.34,0.56,ml,5,108,0.04527,0.14,av,av93571951,2025-04-13T20:53:27.250Z,"38 km WSW of False Pass, Alaska",earthquake,0.54,0.43,0.39212555543806,5,reviewed,av,av
 2025-04-12T22:13:43.970Z,33.5416667,-116.7211667,4.31,0.54,ml,22,38,0.02724,0.12,ci,ci40924407,2025-04-12T22:17:04.613Z,"5 km WSW of Anza, CA",earthquake,0.16,0.25,0.123,18,automatic,ci,ci
 2025-04-12T21:53:29.880Z,38.835498809815,-122.79933166504,2.079999923706,0.77,md,11,69,0.007597,0.01,nc,nc75164291,2025-04-12T23:37:16.417Z,"7 km WNW of Cobb, CA",earthquake,0.34,1.37,0.14,11,automatic,nc,nc
 2025-04-12T21:53:13.610Z,18.5575,-65.03,22.99,2.91,md,7,226,0.2156,0.09,pr,pr71479028,2025-04-12T22:06:35.970Z,"26 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.88,2.95,0.11304946115565,6,reviewed,pr,pr
 2025-04-12T21:05:05.720Z,-4.6958,125.4891,450.62,4.3,mb,45,29,2.746,0.73,us,us6000q5nl,2025-04-13T00:50:28.040Z,"296 km S of Sanana, Indonesia",earthquake,12.28,9.63,0.09,35,reviewed,us,us
-2025-04-12T20:52:39.963Z,37.4112,-116.7352,13.8,0.6,ml,9,204.98,0.379,0.2381,nn,nn00896134,2025-04-12T20:54:42.052Z,"55 km SE of Goldfield, Nevada",earthquake,,4.7,0.4,6,automatic,nn,nn
