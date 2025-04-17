@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-17T17:31:57.010Z,33.0318333,-116.583,12.93,0.82,ml,22,53,0.05051,0.19,ci,ci40931351,2025-04-17T17:35:25.615Z,"6 km SSE of Julian, CA",earthquake,0.35,0.53,0.195,15,automatic,ci,ci
+2025-04-17T17:29:21.730Z,17.948833333333,-66.839166666667,7.8,2.36,md,8,210,0.04622,0.36,pr,pr71479328,2025-04-17T17:40:50.200Z,"5 km SSW of Indios, Puerto Rico",earthquake,1.52,0.93,0.10656991197809,5,reviewed,pr,pr
 2025-04-17T16:58:51.710Z,35.02216667,-97.80483333,7.85,1.51,ml,50,61,0.08908251897,0.24,ok,ok2025hmyy,2025-04-17T17:10:44.490Z,"12 km NNW of Alex, Oklahoma",earthquake,,0.7,0.2,24,reviewed,ok,ok
 2025-04-17T16:45:08.580Z,38.847499847412,-122.84666442871,0.95999997854233,0.98,md,15,149,0.01246,0.03,nc,nc75167106,2025-04-17T17:17:18.528Z,"11 km NW of The Geysers, CA",earthquake,0.29,0.460000008,0.25,17,automatic,nc,nc
 2025-04-17T16:38:05.680Z,19.445333333333,-154.902,6.79,2.03,ml,26,247,0.01865,0.14,hv,hv74655202,2025-04-17T17:01:26.720Z,"3 km SSE of Leilani Estates, Hawaii",earthquake,0.81,0.37,0.21878986861457,15,reviewed,hv,hv
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T15:48:36.455Z,65.5487,-149.8342,21.5,1.2,ml,,,,0.83,ak,ak0254x7q03h,2025-04-17T15:50:20.389Z,"16 km ENE of Rampart, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-04-17T15:46:06.343Z,31.625,-104.536,7.4841,2,ml,10,75,0.1,0.1,tx,tx2025hmwn,2025-04-17T16:32:54.766Z,"62 km SSW of Whites City, New Mexico",earthquake,1.1978400106062,0.7942262751006,0.1,13,reviewed,tx,tx
 2025-04-17T15:38:03.177Z,59.7376,-152.1027,75.734,2.6,ml,43,78,0.243,0.76,us,us6000q6r5,2025-04-17T15:52:59.040Z,"15 km WSW of Anchor Point, Alaska",earthquake,5.67,7.183,0.04,83,reviewed,us,us
-2025-04-17T15:32:02.620Z,38.836334228516,-122.80850219727,1.9400000572205,1.02,md,18,52,0.01298,0.02,nc,nc75167071,2025-04-17T16:07:17.062Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.660000026,0.31,21,automatic,nc,nc
+2025-04-17T15:32:02.620Z,38.836334228516,-122.80850219727,1.9400000572205,1.02,md,18,52,0.01298,0.02,nc,nc75167071,2025-04-17T17:42:17.720Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.660000026,0.31,21,automatic,nc,nc
 2025-04-17T14:36:34.670Z,38.83150100708,-122.80249786377,2.3199999332428,0.57,md,9,74,0.01003,0.03,nc,nc75167031,2025-04-17T16:07:16.061Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.02999997,0.36,10,automatic,nc,nc
 2025-04-17T13:44:52.220Z,60.0811,-152.8007,99.3,2.2,ml,,,,0.74,ak,ak0254x6ib8m,2025-04-17T13:57:42.455Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-17T13:38:51.810Z,38.811000823975,-122.77183532715,1.4500000476837,0.85,md,8,133,0.007272,0.03,nc,nc75167021,2025-04-17T14:37:17.450Z,"4 km  of The Geysers, CA",earthquake,0.49,0.920000017,0.16,9,automatic,nc,nc
@@ -206,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T17:59:12.390Z,46.6235,-119.80433333333,7.08,0.47,ml,6,247,0.03011,0.08,uw,uw62092226,2025-04-17T03:35:22.020Z,"10 km SE of Desert Aire, Washington",earthquake,0.4,0.28,0.14688502054349,6,reviewed,uw,uw
 2025-04-16T17:54:32.840Z,33.9376667,-116.0531667,6.64,0.37,ml,8,165,0.07764,0.14,ci,ci40930239,2025-04-16T20:50:12.051Z,"22 km S of Twentynine Palms, CA",earthquake,0.63,0.82,0.029,2,reviewed,ci,ci
 2025-04-16T17:52:02.109Z,61.8794,-149.6647,2.8,2.3,ml,,,,0.64,ak,ak0254vleb0y,2025-04-16T17:54:00.079Z,"24 km NE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-04-16T17:44:40.248Z,-33.9361,-179.4185,26.558,5.4,mww,81,79,4.064,0.94,us,us6000q6kn,2025-04-16T20:09:17.910Z,"south of the Kermadec Islands",earthquake,8.88,5.194,0.071,19,reviewed,us,us
-2025-04-16T17:41:28.360Z,38.836833953857,-122.80016326904,2.039999961853,0.23,md,12,87,0.007828,0.02,nc,nc75166416,2025-04-16T18:42:17.676Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.74000001,0.08,13,automatic,nc,nc
