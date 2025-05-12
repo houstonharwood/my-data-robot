@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-12T17:01:40.278Z,2.1083,126.7615,39.844,5.1,mb,101,73,1.459,1,us,us7000pyvj,2025-05-12T17:19:09.040Z,"145 km WNW of Tobelo, Indonesia",earthquake,6.27,6.558,0.045,159,reviewed,us,us
 2025-05-12T16:52:07.920Z,33.9081667,-117.0103333,14.25,1.13,ml,16,90,0.02804,0.36,ci,ci41151616,2025-05-12T16:55:40.615Z,"4 km SW of Beaumont, CA",earthquake,0.96,1.71,0.269,30,automatic,ci,ci
 2025-05-12T16:43:50.072Z,32.442,-102.125,2.9811,1,ml,11,178,0,0.5,tx,tx2025jgqd,2025-05-12T16:57:47.319Z,"36 km SSW of Los Ybanez, Texas",earthquake,0,1.5380166769028,0.2,8,automatic,tx,tx
 2025-05-12T16:35:14.440Z,32.9975,-116.2328333,10.07,1.21,ml,43,42,0.07312,0.2,ci,ci41151592,2025-05-12T16:46:49.157Z,"19 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.56,0.185,25,automatic,ci,ci
@@ -166,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T21:11:22.072Z,29.0505,87.6281,9,5.6,mww,146,40,2.415,0.66,us,us7000pyq7,2025-05-12T17:09:34.040Z,"124 km W of Rikaze, China",earthquake,8.36,1.799,0.103,9,reviewed,us,us
 2025-05-11T21:08:53.030Z,32.6568333,-115.8916667,8.15,1.98,ml,49,58,0.02744,0.26,ci,ci41151048,2025-05-11T21:19:44.350Z,"13 km SE of Ocotillo, CA",earthquake,0.28,0.6,0.277,28,automatic,ci,ci
 2025-05-11T20:52:11.920Z,38.480834960938,-122.21716308594,-0.31999999284744,1.62,md,11,84,0.04982,0.07,nc,nc75179946,2025-05-11T22:27:20.214Z,"15 km ENE of Yountville, CA",earthquake,0.26,1.20000005,0.07,10,automatic,nc,nc
-2025-05-11T20:48:42.960Z,33.3983333,-116.372,7.35,0.61,ml,23,90,0.06334,0.16,ci,ci41151040,2025-05-11T20:52:36.733Z,"16 km N of Borrego Springs, CA",earthquake,0.24,0.53,0.094,14,automatic,ci,ci
+2025-05-11T20:48:42.940Z,33.3983333,-116.3701667,7.6,0.63,ml,19,91,0.06209,0.12,ci,ci41151040,2025-05-12T17:19:54.245Z,"16 km N of Borrego Springs, CA",earthquake,0.19,0.54,0.104,10,reviewed,ci,ci
 2025-05-11T20:44:17.900Z,38.818000793457,-122.81016540527,3.2599999904633,1.07,md,28,44,0.005387,0.02,nc,nc75179941,2025-05-11T21:17:20.721Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.439999998,0.26,27,automatic,nc,nc
 2025-05-11T20:42:12.940Z,60.5074,-151.3617,40,1.4,ml,,,,0.71,ak,ak02560zk5v2,2025-05-11T20:44:00.951Z,"7 km SW of Kenai, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-05-11T20:41:51.890Z,38.818500518799,-122.80966949463,3.25,1.68,md,39,41,0.004898,0.03,nc,nc75179936,2025-05-11T22:07:19.184Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.310000002,0.14,39,automatic,nc,nc
@@ -191,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T18:05:07.540Z,35.799,-117.6225,8.93,0.68,ml,13,135,0.1161,0.15,ci,ci41150960,2025-05-11T20:28:52.575Z,"20 km W of Searles Valley, CA",earthquake,0.33,0.96,0.098,10,reviewed,ci,ci
 2025-05-11T17:50:40.564Z,62.6447,-148.7775,19,2.8,ml,,,,0.75,ak,ak02560xtmzn,2025-05-11T18:00:48.040Z,"71 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-05-11T17:38:36.561Z,-17.7043,168.0526,25.396,4.7,mb,31,181,2.388,0.53,us,us7000pypf,2025-05-11T22:10:22.167Z,"27 km W of Port-Vila, Vanuatu",earthquake,5.35,5.622,0.108,26,reviewed,us,us
-2025-05-11T17:28:19.870Z,35.0455,-97.82416667,12.51,1.17,ml,33,119,0.1070789874,0.15,ok,ok2025jevz,2025-05-12T13:51:55.093Z,"10 km E of Chickasha, Oklahoma",earthquake,,0.8,0.2,17,reviewed,ok,ok
-2025-05-11T17:24:34.231Z,31.668,-104.368,6.6125,1.8,ml,17,69,0.1,0.2,tx,tx2025jewh,2025-05-12T13:42:13.713Z,"56 km S of Whites City, New Mexico",earthquake,0.93783838772513,0.97352168487917,0.1,13,reviewed,tx,tx
-2025-05-11T17:24:06.613Z,60.1346,-152.6491,86.2,1.6,ml,,,,0.62,ak,ak02560xnzo5,2025-05-11T17:26:20.928Z,"55 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
