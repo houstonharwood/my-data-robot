@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-14T21:38:47.070Z,31.637,-104.439,4.884,1.7,ml,15,92,0,0.4,tx,tx2025jkqt,2025-05-14T21:51:46.552Z,"60 km S of Whites City, New Mexico",earthquake,0,1.610199213028,0.1,12,automatic,tx,tx
-2025-05-14T21:30:31.580Z,38.840831756592,-122.82216644287,1.5700000524521,0.76,md,14,64,0.01064,0.02,nc,nc75182092,2025-05-14T21:32:09.356Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.709999979,0.17,15,automatic,nc,nc
+2025-05-14T21:30:31.580Z,38.840831756592,-122.82216644287,1.5700000524521,0.76,md,14,64,0.01064,0.02,nc,nc75182092,2025-05-14T21:57:15.307Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.709999979,0.17,15,automatic,nc,nc
 2025-05-14T21:22:25.942Z,-6.0955,147.8939,62.567,4.5,mb,26,110,3.367,0.55,us,us7000pz99,2025-05-14T21:44:35.040Z,"51 km N of Finschhafen, Papua New Guinea",earthquake,8.21,9.928,0.115,22,reviewed,us,us
 2025-05-14T21:11:16.107Z,36.5428,-116.0436,5.9,1.2,ml,12,216.13,0.136,0.3419,nn,nn00897614,2025-05-14T21:13:16.859Z,"33 km W of Indian Springs, Nevada",earthquake,,1.7,0.63,10,automatic,nn,nn
 2025-05-14T21:07:18.410Z,38.789165496826,-122.75,0.43000000715256,1.08,md,17,84,0.01194,0.02,nc,nc75182082,2025-05-14T21:22:18.069Z,"1 km NE of The Geysers, CA",earthquake,0.19,0.379999995,0.18,15,automatic,nc,nc
@@ -43,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T17:29:20.256Z,32.422,-102.135,3.878,1.9,ml,44,75,0,0.4,tx,tx2025jkin,2025-05-14T17:41:18.018Z,"38 km SSW of Los Ybanez, Texas",earthquake,0,0.80962085723877,0.1,30,automatic,tx,tx
 2025-05-14T16:55:36.770Z,58.227,-154.9565,4.5,0.9,ml,,,,0.8,ak,ak02565vvawy,2025-05-14T18:27:46.704Z,"79 km NNW of Karluk, Alaska",earthquake,,5.4,,,reviewed,ak,ak
 2025-05-14T16:41:45.751Z,32.263,-101.838,4.9092,1.2,ml,8,86,0,0.5,tx,tx2025jkgz,2025-05-14T16:47:33.461Z,"15 km NNW of Stanton, Texas",earthquake,0,1.9566576480865,0.1,6,automatic,tx,tx
+2025-05-14T16:33:15.240Z,33.5992,140.5553,54.88,4.5,mb,62,114,0.786,0.7,us,us7000pz7x,2025-05-14T21:56:27.040Z,"166 km SSE of Tateyama, Japan",earthquake,7.24,7.344,0.087,39,reviewed,us,us
 2025-05-14T16:33:05.034Z,-56.7453,-140.8089,10,5.2,mb,39,87,27.53,1.24,us,us7000pz7y,2025-05-14T16:59:59.040Z,"Pacific-Antarctic Ridge",earthquake,9.89,1.846,0.102,32,reviewed,us,us
 2025-05-14T16:30:32.080Z,33.1673333,-116.3936667,6.75,1.23,ml,53,29,0.09726,0.2,ci,ci41152712,2025-05-14T20:22:18.090Z,"10 km S of Borrego Springs, CA",earthquake,0.16,0.59,0.155,26,reviewed,ci,ci
 2025-05-14T16:26:21.339Z,36.015,-97.926,5.84,1.85,ml,66,39,0.07918446131,0.18,ok,ok2025jkgl,2025-05-14T16:37:46.233Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.4,0.29,26,reviewed,ok,ok
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T22:07:44.874Z,-17.773,-178.5994,546.078,4.4,mb,47,103,2.33,0.67,us,us7000pz2m,2025-05-14T03:04:16.040Z,"223 km E of Levuka, Fiji",earthquake,13.1,7.888,0.1,29,reviewed,us,us
 2025-05-13T22:05:05.560Z,60.892,-152.64383333333,7.41,0.15,ml,12,162,0.3026,0.15,av,av93605766,2025-05-14T01:21:30.250Z,"77 km WNW of Nikiski, Alaska",earthquake,0.97,3.89,0.17793466939327,12,reviewed,av,av
 2025-05-13T22:00:02.690Z,37.055332183838,-121.46600341797,12.130000114441,1.26,md,9,191,0.04215,0.1,nc,nc75181657,2025-05-14T00:42:18.688Z,"11 km ENE of Gilroy, CA",earthquake,0.94,1.83000004,0.14,6,automatic,nc,nc
-2025-05-13T21:55:17.263Z,56.9524,-156.5276,29.5,1.8,ml,,,,0.27,ak,ak02564bb43m,2025-05-14T00:19:44.936Z,"81 km SE of Ugashik, Alaska",earthquake,,10,,,reviewed,ak,ak
