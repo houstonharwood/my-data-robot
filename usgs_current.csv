@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-20T21:22:26.973Z,61.357,-150.3478,46.6,2.2,ml,,,,0.4,ak,ak0256fvvgo9,2025-05-20T21:23:49.767Z,"19 km W of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-05-20T21:15:27.240Z,33.3738333,-116.8638333,8.63,0.76,ml,29,35,0.02019,0.18,ci,ci40971415,2025-05-20T21:19:06.386Z,"2 km N of Palomar Observatory, CA",earthquake,0.21,0.53,0.107,20,automatic,ci,ci
 2025-05-20T21:14:07.430Z,40.146167755127,-123.16649627685,43.95000076294,2.36,md,8,151,0.04608,0.1,nc,nc75184211,2025-05-20T21:15:46.405Z,"40 km NNE of Covelo, CA",earthquake,1.73,1.24000001,,3,automatic,nc,nc
 2025-05-20T21:13:28.000Z,38.7936668396,-122.75483703613,0.44999998807907,0.98,md,11,97,0.007924,0.02,nc,nc75184206,2025-05-20T21:15:06.211Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.439999998,0.16,11,automatic,nc,nc
 2025-05-20T21:09:18.680Z,36.579833984375,-121.10216522217,12.569999694824,0.98,md,7,170,0.05041,0.14,nc,nc75184201,2025-05-20T21:10:56.473Z,"6 km NE of Pinnacles, CA",earthquake,1.84,3.28999996,0.25,6,automatic,nc,nc
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T19:50:06.804Z,56.1555,-149.7465,10,3.3,ml,17,232,2.253,0.51,us,us7000q0f3,2025-05-20T20:14:13.040Z,"223 km SE of Chiniak, Alaska",earthquake,9.24,2.017,0.056,42,reviewed,us,us
 2025-05-20T19:48:45.860Z,18.7913,-68.6901,24,3.64,md,17,144,0.415,0.78,pr,pr2025140000,2025-05-20T20:20:20.627Z,"15 km N of Otra Banda, Dominican Republic",earthquake,2.47,10.6,0.13,14,reviewed,pr,pr
 2025-05-20T19:41:30.658Z,61.4139,-150.0987,40.2,1,ml,,,,0.47,ak,ak0256fusocp,2025-05-20T19:43:15.387Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-05-20T19:37:37.030Z,19.081166666667,-155.3615,32.44,4.18,ml,62,200,0.1204,0.11,hv,hv74676927,2025-05-20T20:56:43.859Z,"18 km SE of Pāhala, Hawaii",earthquake,0.35,0.52,0.14521086639801,48,reviewed,hv,hv
+2025-05-20T19:37:37.030Z,19.081166666667,-155.3615,32.44,4.18,ml,62,200,0.1204,0.11,hv,hv74676927,2025-05-20T21:26:51.490Z,"18 km SE of Pāhala, Hawaii",earthquake,0.35,0.52,0.14521086639801,48,reviewed,hv,hv
 2025-05-20T19:36:31.207Z,59.9965,-150.9381,60.1,1.6,ml,,,,0.37,ak,ak0256furltc,2025-05-20T19:38:04.596Z,"15 km N of Fox River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-20T19:28:23.533Z,31.717,-104.295,4.5591,1.6,ml,31,62,0.1,0.4,tx,tx2025jvmd,2025-05-20T19:31:04.685Z,"51 km S of Whites City, New Mexico",earthquake,0,0.94221615791321,0.2,25,automatic,tx,tx
 2025-05-20T19:24:23.610Z,38.813999176025,-122.82766723633,2.6900000572205,1.06,md,20,62,0.005258,0.02,nc,nc75184176,2025-05-20T19:57:16.977Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.550000012,0.21,21,automatic,nc,nc
@@ -76,7 +78,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T12:18:08.120Z,33.9358333,-116.7446667,12.68,1.11,ml,17,151,0.111,0.23,ci,ci41157192,2025-05-20T12:22:01.108Z,"4 km ENE of Cabazon, CA",earthquake,0.75,1.19,0.182,27,automatic,ci,ci
 2025-05-20T12:16:28.800Z,38.848667144775,-122.81783294678,0.34000000357628,0.71,md,10,91,0.007373,0.03,nc,nc75184066,2025-05-20T12:57:18.253Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.889999986,0.27,10,automatic,nc,nc
 2025-05-20T11:38:35.050Z,32.717,-115.4206667,17.09,1.7,ml,24,86,0.07347,0.26,ci,ci41157168,2025-05-20T17:52:33.991Z,"8 km ENE of Calexico, CA",earthquake,0.43,0.56,0.232,21,reviewed,ci,ci
-2025-05-20T11:29:57.850Z,32.7226667,-115.4161667,14.34,1.44,ml,15,117,0.072,0.25,ci,ci41157160,2025-05-20T21:10:47.115Z,"9 km ENE of Calexico, CA",earthquake,0.68,0.9,0.206,13,reviewed,ci,ci
+2025-05-20T11:30:02.640Z,32.696,-115.412,16.26,1.44,ml,18,153,0.0623,0.25,ci,ci37726236,2025-05-20T21:21:31.893Z,"7 km NE of Mexicali, B.C., MX",earthquake,0.68,0.55,0.181,20,reviewed,ci,ci
+2025-05-20T11:29:57.850Z,32.7226667,-115.4161667,14.34,1.44,ml,15,117,0.072,0.25,ci,ci41157160,2025-05-20T21:21:46.895Z,"9 km ENE of Calexico, CA",earthquake,0.68,0.9,0.206,13,reviewed,ci,ci
 2025-05-20T11:27:32.824Z,37.1946,-116.5075,0,1.1,ml,24,163.15,0.131,0.3197,nn,nn00897791,2025-05-20T11:29:15.818Z,"38 km NE of Beatty, Nevada",earthquake,,5.7,0.28,18,automatic,nn,nn
 2025-05-20T11:21:06.200Z,35.616,-117.5953333,8.92,0.79,ml,26,67,0.06345,0.12,ci,ci41157152,2025-05-20T13:11:17.022Z,"7 km E of Ridgecrest, CA",earthquake,0.16,0.45,0.144,15,reviewed,ci,ci
 2025-05-20T11:16:30.150Z,33.1755,-115.6306667,3.34,1.15,ml,26,93,0.0102,0.17,ci,ci41157144,2025-05-20T17:39:42.781Z,"12 km WNW of Calipatria, CA",earthquake,0.35,0.24,0.245,14,reviewed,ci,ci
@@ -149,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T03:44:07.123Z,59.289,-153.6962,104.6,1.8,ml,,,,0.5,ak,ak0256flac08,2025-05-20T03:46:53.891Z,"54 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-20T03:36:42.070Z,38.687999725342,-122.50183105469,6.1700000762939,1.56,md,8,100,0.06775,0.07,nc,nc75183931,2025-05-20T04:07:17.645Z,"12 km SE of Middletown, CA",earthquake,0.44,1.59000003,0.17,9,automatic,nc,nc
 2025-05-20T03:35:22.680Z,44.253666666667,-114.98333333333,5.2,1.5,ml,12,108,0.1772,0.21,mb,mb90087973,2025-05-20T13:44:43.930Z,"5 km NW of Stanley, Idaho",earthquake,0.54,2.2,0.17652504070606,15,reviewed,mb,mb
-2025-05-20T03:34:50.498Z,61.3217,-149.8825,26.2,2.5,ml,,,,0.41,ak,ak0256fl8a6x,2025-05-20T06:33:49.761Z,"6 km SE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-05-20T03:34:50.498Z,61.3217,-149.8825,26.2,2.5,ml,,,,0.41,ak,ak0256fl8a6x,2025-05-20T21:26:33.699Z,"6 km SE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-20T03:13:01.838Z,-21.1128,-68.5154,129.671,4.3,mb,22,83,0.91,0.91,us,us7000q09n,2025-05-20T03:43:21.040Z,"29 km WNW of Ollagüe, Chile",earthquake,5.95,7.989,0.168,10,reviewed,us,us
 2025-05-20T02:59:25.110Z,38.799667358398,-122.73867034912,1.3600000143051,2.09,md,40,54,0.01647,0.06,nc,nc75183921,2025-05-20T03:42:17.464Z,"3 km SW of Cobb, CA",earthquake,0.21,0.319999993,0.12,42,automatic,nc,nc
 2025-05-20T02:55:53.460Z,61.5348,-146.5984,32.7,1.5,ml,,,,0.23,ak,ak0256fkrcuq,2025-05-20T02:57:08.002Z,"46 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -208,7 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T21:36:08.182Z,-11.0263,111.1469,10,4.8,mww,55,63,3.902,0.51,us,us7000q08l,2025-05-19T22:27:34.040Z,"south of Java, Indonesia",earthquake,8.69,1.872,0.11,8,reviewed,us,us
 2025-05-19T21:34:48.250Z,35.6058333,-117.5948333,5.9,1.02,ml,25,64,0.06959,0.16,ci,ci41156704,2025-05-20T17:29:19.842Z,"8 km ESE of Ridgecrest, CA",earthquake,0.2,0.81,0.27,11,reviewed,ci,ci
 2025-05-19T21:34:07.650Z,35.3685,-118.7343333,6.48,1.77,ml,29,61,0.09798,0.19,ci,ci37544389,2025-05-20T18:01:26.056Z,"20 km NNE of Arvin, CA",earthquake,0.24,0.8,0.286,8,reviewed,ci,ci
-2025-05-19T21:29:59.940Z,46.318333333333,-111.61633333333,-2,1.41,ml,9,94,0.3201,0.17,mb,mb90087798,2025-05-19T23:35:01.630Z,"7 km W of Townsend, Montana",quarry blast,1.05,31.61,0.24209383526983,12,reviewed,mb,mb
-2025-05-19T21:26:33.330Z,38.829166412354,-122.85549926758,2.0999999046326,1.08,md,13,72,0.001942,0.01,nc,nc75183811,2025-05-19T21:42:19.077Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.519999981,0.18,15,automatic,nc,nc
-2025-05-19T21:23:30.140Z,36.183,-118.2685,5.25,1.87,ml,33,71,0.2981,0.21,ci,ci41156696,2025-05-20T19:45:15.367Z,"26 km WSW of Olancha, CA",earthquake,0.22,1.37,0.208,24,reviewed,ci,ci
-2025-05-19T21:22:38.326Z,38.6987,-117.0936,4.1,1.7,ml,9,185.55,0.536,0.3674,nn,nn00897767,2025-05-19T21:39:33.126Z,"56 km S of Kingston, Nevada",explosion,,1.3,0.34,7,automatic,nn,nn
