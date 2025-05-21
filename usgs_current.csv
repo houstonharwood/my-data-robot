@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-21T10:58:24.570Z,33.9753333,-116.7423333,15.9,0.67,ml,34,70,0.08072,0.16,ci,ci40971935,2025-05-21T11:01:55.003Z,"8 km NNE of Cabazon, CA",earthquake,0.24,0.53,0.241,15,automatic,ci,ci
-2025-05-21T10:55:46.360Z,38.820835113525,-122.79933166504,2.0599999427795,0.77,md,14,50,0.008772,0.02,nc,nc75184461,2025-05-21T11:17:19.156Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.75,0.19,15,automatic,nc,nc
+2025-05-21T10:55:46.360Z,38.820835113525,-122.79933166504,2.0599999427795,0.77,md,14,50,0.008772,0.02,nc,nc75184461,2025-05-21T11:42:17.258Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.75,0.19,15,automatic,nc,nc
 2025-05-21T10:13:58.910Z,18.0895,-66.037,15.13,1.69,md,6,152,0.07239,0.22,pr,pr71483068,2025-05-21T10:56:52.770Z,"7 km NNE of Yaurel, Puerto Rico",earthquake,1.18,1.58,0.10617181162455,4,reviewed,pr,pr
 2025-05-21T10:11:05.844Z,60.7657,-151.5249,68.5,0.9,ml,,,,0.27,ak,ak0256hcsn08,2025-05-21T10:13:16.547Z,"15 km WNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-05-21T10:03:43.890Z,34.1593333,-118.3638333,16.1,1.17,ml,17,76,0.04621,0.09,ci,ci40971927,2025-05-21T10:07:48.161Z,"2 km SE of North Hollywood, CA",earthquake,0.22,0.35,0.384,28,automatic,ci,ci
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-21T02:53:45.160Z,38.835834503174,-122.80783081055,1.8300000429153,0.71,md,11,106,0.01254,0.01,nc,nc75184321,2025-05-21T03:47:22.062Z,"7 km WNW of Cobb, CA",earthquake,0.4,0.730000019,0.24,10,automatic,nc,nc
 2025-05-21T02:35:40.760Z,61.309,-151.985,16.8,0.9,ml,,,,0.44,ak,ak0256h86e1o,2025-05-21T02:37:24.052Z,"51 km WNW of Beluga, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-05-21T02:31:34.670Z,35.9083333,-117.761,8.56,1.36,ml,26,55,0.06161,0.15,ci,ci40971647,2025-05-21T02:35:05.112Z,"14 km ESE of Little Lake, CA",earthquake,0.2,0.45,0.238,23,automatic,ci,ci
-2025-05-21T02:25:21.773Z,32.281,-101.212,2.7231,2,ml,50,108,0.1,0.4,tx,tx2025jvzf,2025-05-21T02:37:13.258Z,"9 km E of Coahoma, Texas",earthquake,0,0.91475337743759,0.1,34,automatic,tx,tx
+2025-05-21T02:25:22.127Z,32.282,-101.219,7.8857,2,ml,28,75,0.2,0.1,tx,tx2025jvzf,2025-05-21T11:40:44.308Z,"8 km E of Coahoma, Texas",earthquake,0.66467030126091,1.0221469972755,0.1,14,reviewed,tx,tx
 2025-05-21T02:13:56.870Z,38.833168029785,-122.80117034912,2.6900000572205,0.23,md,6,160,0.009944,0.02,nc,nc75184311,2025-05-21T02:47:21.682Z,"7 km WNW of Cobb, CA",earthquake,0.59,2.3599999,0.11,8,automatic,nc,nc
 2025-05-21T02:11:37.730Z,38.794166564941,-122.75900268555,3.6900000572205,1.03,md,16,75,0.006473,0.02,nc,nc75184306,2025-05-21T02:37:19.618Z,"2 km N of The Geysers, CA",earthquake,0.32,0.75,0.24,16,automatic,nc,nc
 2025-05-21T02:02:57.407Z,-28.6105,-71.3956,31.194,4.4,mwr,51,143,0.494,0.87,us,us7000q0gy,2025-05-21T02:19:55.040Z,"62 km W of Vallenar, Chile",earthquake,4.3,5.374,0.055,32,reviewed,us,us
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T12:18:07.830Z,33.9361667,-116.7383333,14.83,1.12,ml,27,95,0.04413,0.16,ci,ci41157192,2025-05-20T23:48:11.672Z,"5 km ENE of Cabazon, CA",earthquake,0.25,0.49,0.179,21,reviewed,ci,ci
 2025-05-20T12:18:06.270Z,33.9391667,-116.7231667,16.54,1.29,ml,12,101,0.1172,0.06,ci,ci37726252,2025-05-20T23:49:13.739Z,"6 km ENE of Cabazon, CA",earthquake,0.32,0.51,0.13,7,reviewed,ci,ci
 2025-05-20T12:16:28.800Z,38.848667144775,-122.81783294678,0.34000000357628,0.71,md,10,91,0.007373,0.03,nc,nc75184066,2025-05-20T12:57:18.253Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.889999986,0.27,10,automatic,nc,nc
-2025-05-20T11:38:35.050Z,32.717,-115.4206667,17.09,1.7,ml,24,86,0.07347,0.26,ci,ci41157168,2025-05-20T17:52:33.991Z,"8 km ENE of Calexico, CA",earthquake,0.43,0.56,0.232,21,reviewed,ci,ci
