@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-26T03:54:53.139Z,32.13,-101.485,4.1247,1.2,ml,9,92,0.2,0.2,tx,tx2025kfgd,2025-05-26T03:59:07.353Z,"11 km W of Forsan, Texas",earthquake,0,1.8649566173553,0.3,6,automatic,tx,tx
+2025-05-26T03:49:18.320Z,35.334,-117.812,5.26,1.15,ml,30,80,0.07196,0.19,ci,ci40976591,2025-05-26T03:52:48.021Z,"17 km WSW of Johannesburg, CA",earthquake,0.22,0.77,0.172,24,automatic,ci,ci
+2025-05-26T03:44:26.683Z,31.736,-104.119,3.5477,1.7,ml,37,44,0,0.4,tx,tx2025kffo,2025-05-26T03:47:46.751Z,"49 km W of Mentone, Texas",earthquake,0,0.85433703660965,0.2,26,automatic,tx,tx
 2025-05-26T03:29:52.076Z,61.5159,-150.8007,60.2,1.2,ml,,,,0.43,ak,ak0256pifap3,2025-05-26T03:32:16.495Z,"15 km WSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-26T02:41:40.140Z,38.803833007812,-122.77883148193,3.1800000667572,1.04,md,23,68,0.009523,0.03,nc,nc75186511,2025-05-26T03:22:15.717Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.540000021,0.3,23,automatic,nc,nc
 2025-05-26T02:25:01.100Z,35.3275,-117.81,6.81,1.74,ml,44,52,0.06672,0.18,ci,ci40976583,2025-05-26T02:28:46.454Z,"17 km WSW of Johannesburg, CA",earthquake,0.16,0.45,0.197,26,automatic,ci,ci
-2025-05-26T02:19:34.343Z,19.5833,-156.1462,10,3,ml,21,163,0.31,0.71,us,us7000q1gw,2025-05-26T03:41:37.733Z,"16 km WSW of Kailua-Kona, Hawaii",earthquake,0.87,2.003,0.051,50,reviewed,us,us
+2025-05-26T02:19:35.240Z,19.606166666667,-156.154,4.59,3.09,ml,56,239,0.1375,0.29,hv,hv74680617,2025-05-26T03:50:46.563Z,"16 km WSW of Kailua-Kona, Hawaii",earthquake,0.57,0.47,0.20231368030922,40,reviewed,hv,hv
 2025-05-26T02:15:46.125Z,61.9083,-151.029,66.3,1,ml,,,,0.56,ak,ak0256phqulw,2025-05-26T02:18:49.354Z,"21 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-26T02:10:07.240Z,35.3291667,-117.8106667,7.47,2.34,ml,52,35,0.06798,0.19,ci,ci40976567,2025-05-26T02:13:48.344Z,"17 km WSW of Johannesburg, CA",earthquake,0.15,0.51,0.141,25,automatic,ci,ci
 2025-05-26T02:07:16.806Z,60.1311,-153.5316,158.7,1.9,ml,,,,0.51,ak,ak0256php2n7,2025-05-26T02:15:54.040Z,"44 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -43,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-25T20:59:28.819Z,61.0819,-150.4488,32.4,1.1,ml,,,,0.38,ak,ak0256o56p69,2025-05-25T21:01:18.623Z,"21 km NE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-05-25T20:57:16.903Z,60.538,-152.4626,103.5,1,ml,,,,0.13,ak,ak0256o568tm,2025-05-25T20:58:41.062Z,"63 km W of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-25T20:50:09.902Z,60.3144,-150.1556,33.8,2.1,ml,,,,0.23,ak,ak0256o54q9q,2025-05-25T20:51:36.611Z,"26 km SW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-05-25T20:41:37.570Z,19.584167480469,-155.28565979004,23.760000228882,2.06,ml,48,60,0.1237,0.150000006,hv,hv74680532,2025-05-25T20:45:20.310Z,"16 km NNW of Volcano, Hawaii",earthquake,0.34,0.74000001,0.9,7,automatic,hv,hv
+2025-05-25T20:41:37.570Z,19.584167480469,-155.28565979004,23.760000228882,2.06,ml,48,60,0.1237,0.150000006,hv,hv74680532,2025-05-25T20:45:20.310Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.74000001,0.9,7,automatic,hv,hv
 2025-05-25T20:39:01.140Z,38.834331512451,-122.81316375732,2.0599999427795,0.76,md,11,98,0.01118,0.03,nc,nc75186396,2025-05-25T22:07:17.640Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.779999971,0.2,11,automatic,nc,nc
 2025-05-25T20:37:00.421Z,64.545,-147.8949,12.4,1,ml,,,,0.73,ak,ak0256o51x8a,2025-05-25T20:38:48.793Z,"29 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-25T20:31:47.318Z,31.361,-103.738,6.0757,2.1,ml,9,88,0.1,0.3,tx,tx2025kerb,2025-05-25T20:38:08.012Z,"7 km NE of Toyah, Texas",earthquake,0,4.1415767669678,0.1,7,automatic,tx,tx
@@ -205,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-25T04:22:32.453Z,67.6575,-145.4493,86.9,2.4,ml,,,,1.19,ak,ak0256nvfua5,2025-05-25T04:34:19.772Z,"52 km S of Arctic Village, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-05-25T04:16:48.180Z,34.5913333,-116.2825,3.69,1.54,ml,26,65,0.1415,0.18,ci,ci40975551,2025-05-25T04:20:14.848Z,"18 km SW of Ludlow, CA",earthquake,0.22,1.09,0.147,27,automatic,ci,ci
 2025-05-25T04:11:25.128Z,15.9446,-55.656,10,4.9,mb,59,96,4.694,0.75,us,us7000q1cl,2025-05-25T04:32:02.040Z,"North Atlantic Ocean",earthquake,9.37,1.89,0.029,365,reviewed,us,us
-2025-05-25T03:54:11.810Z,34.4543333,-117.9205,9.68,0.79,ml,17,69,0.02935,0.15,ci,ci40975543,2025-05-25T03:57:33.697Z,"6 km S of Pearblossom, CA",earthquake,0.26,0.46,0.25,23,automatic,ci,ci
-2025-05-25T03:50:03.273Z,60.6711,-151.4104,67.3,1.1,ml,,,,0.24,ak,ak0256nv0ch3,2025-05-25T03:51:59.240Z,"6 km WSW of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2025-05-25T03:47:48.629Z,63.0798,-151.342,0.2,1.7,ml,,,,0.81,ak,ak0256nuzstq,2025-05-25T03:49:54.179Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
