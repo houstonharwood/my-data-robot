@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T11:31:06.220Z,33.283,-116.2656667,10.32,0.95,ml,57,24,0.08729,0.2,ci,ci40982807,2025-06-02T11:34:40.704Z,"11 km ENE of Borrego Springs, CA",earthquake,0.17,0.39,0.181,25,automatic,ci,ci
 2025-06-02T11:27:15.450Z,37.59349822998,-118.82316589356,9.3999996185303,0.96,md,12,207,0.005856,0.04,nc,nc75189986,2025-06-02T11:28:51.940Z,"13 km WNW of Toms Place, CA",earthquake,1.2,1.66999996,0.11,11,automatic,nc,nc
 2025-06-02T11:07:39.803Z,60.6996,-152.0418,83.8,1.8,ml,,,,0.43,ak,ak025717tgak,2025-06-02T11:22:30.527Z,"40 km WNW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-06-02T10:54:36.970Z,19.264833450317,-155.38233947754,1.25,2.21000004,md,56,124,0.03073,0.209999993,hv,hv74686422,2025-06-02T10:58:18.610Z,"12 km NE of Pāhala, Hawaii",earthquake,0.33,0.550000012,0.189999998,7,automatic,hv,hv
+2025-06-02T10:54:37.060Z,19.2485,-155.37733333333,5.65,2.29,ml,42,159,0.02197,0.13,hv,hv74686422,2025-06-02T19:46:56.790Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.36,0.7,0.24817714504023,33,reviewed,hv,hv
 2025-06-02T10:48:34.383Z,64.4073,-146.6784,5.1,0.9,ml,,,,1.33,ak,ak025717gsmm,2025-06-02T10:50:23.612Z,"5 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-02T10:46:53.328Z,32.42,-102.074,5.3428,1.5,ml,49,53,0,0.5,tx,tx2025kson,2025-06-02T11:16:25.745Z,"35 km WSW of Ackerly, Texas",earthquake,0,0.9296008348465,0.2,32,automatic,tx,tx
 2025-06-02T10:41:45.447Z,-4.8731,102.2415,30.926,4.7,mb,42,163,0.875,1.35,us,us6000qhe7,2025-06-02T12:13:03.040Z,"118 km S of Bengkulu, Indonesia",earthquake,6.29,5.325,0.099,31,reviewed,us,us
@@ -209,7 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-01T23:57:23.710Z,34.645,-119.0565,2.5,1.28,ml,26,49,0.09624,0.2,ci,ci40982623,2025-06-02T16:40:05.697Z,"22 km SSW of Frazier Park, CA",earthquake,0.23,0.51,0.133,19,reviewed,ci,ci
 2025-06-01T23:52:30.970Z,38.833831787109,-122.78366851807,2.1099998950958,0.77,md,15,70,0.006933,0.02,nc,nc75189726,2025-06-02T00:17:18.849Z,"5 km WNW of Cobb, CA",earthquake,0.29,0.540000021,0.14,15,automatic,nc,nc
 2025-06-01T23:47:40.178Z,61.3939,-150.0111,44.4,3.1,ml,,,,0.44,ak,ak0256zrnvow,2025-06-02T06:33:57.745Z,"4 km NNW of Point MacKenzie, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2025-06-01T23:44:11.429Z,31.675,-104.395,4.1803,1.9,ml,32,69,0,0.2,tx,tx2025krsk,2025-06-01T23:47:02.450Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0197246074677,0.1,20,automatic,tx,tx
+2025-06-01T23:44:11.237Z,31.682,-104.387,5.6384,1.9,ml,41,68,0,0.1,tx,tx2025krsk,2025-06-02T19:47:33.903Z,"54 km S of Whites City, New Mexico",earthquake,0.68244541528845,0.60101665657365,0.2,40,reviewed,tx,tx
 2025-06-01T22:58:52.957Z,64.9592,-147.2906,0,1.5,ml,,,,1.09,ak,ak0256zr4tzj,2025-06-01T23:00:58.253Z,"15 km NW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-01T22:17:08.493Z,-27.6906,-178.2251,10,5.3,mww,41,69,1.57,1.42,us,us6000qhba,2025-06-01T22:43:43.040Z,"Kermadec Islands region",earthquake,12.61,1.878,0.075,17,reviewed,us,us
 2025-06-01T22:04:38.780Z,44.334166666667,-115.01366666667,5.98,2.81,ml,16,77,0.2576,0.13,mb,mb90091173,2025-06-02T16:44:39.160Z,"14 km NNW of Stanley, Idaho",earthquake,0.47,1.57,0.17637550289039,51,reviewed,mb,mb
@@ -222,7 +222,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-01T21:26:32.930Z,38.832666666667,-122.79566666667,2.9,0.25,md,17,47,0.007082,0.03,nc,nc75189706,2025-06-02T11:16:59.974Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.48,0.29,16,reviewed,nc,nc
 2025-06-01T21:17:39.090Z,33.703,-117.4463333,9.61,1.05,ml,8,100,0.05639,0.1,ci,ci40982591,2025-06-02T16:24:43.417Z,"12 km WNW of Lake Elsinore, CA",earthquake,0.31,0.45,0.402,5,reviewed,ci,ci
 2025-06-01T21:10:37.780Z,38.837333679199,-122.82933044434,2.0499999523163,0.72,md,15,74,0.004969,0.01,nc,nc75189691,2025-06-01T21:12:15.654Z,"9 km NNW of The Geysers, CA",earthquake,0.31,0.569999993,0.13,16,automatic,nc,nc
-2025-06-01T21:03:45.744Z,44.327,-115.0511,5.744,2.9,ml,44,33,0.265,0.59,us,us6000qhb1,2025-06-01T21:53:54.040Z,"15 km NW of Stanley, Idaho",earthquake,2.51,6.003,0.04,82,reviewed,us,us
+2025-06-01T21:03:45.744Z,44.327,-115.0511,5.744,2.9,ml,44,33,0.265,0.59,us,us6000qhb1,2025-06-02T19:52:47.850Z,"15 km NW of Stanley, Idaho",earthquake,2.51,6.003,0.04,82,reviewed,us,us
 2025-06-01T20:54:36.850Z,31.944,-103.369,7.4949,1.8,ml,16,56,0,0.4,tx,tx2025krne,2025-06-02T08:12:17.605Z,"25 km SW of Jal, New Mexico",earthquake,0,2.6247508525848,0.3,9,automatic,tx,tx
 2025-06-01T20:54:04.785Z,31.941,-103.365,6.0887,1.6,ml,6,141,0,0.2,tx,tx2025krnd,2025-06-02T08:12:11.603Z,"25 km SW of Jal, New Mexico",earthquake,0,4.7961320877075,0.3,6,automatic,tx,tx
 2025-06-01T20:48:58.101Z,44.3423,-115.0233,13.345,3,ml,30,60,0.268,0.53,us,us6000qhaw,2025-06-02T16:59:28.080Z,"15 km NNW of Stanley, Idaho",earthquake,1.83,8.365,0.04,82,reviewed,us,us
