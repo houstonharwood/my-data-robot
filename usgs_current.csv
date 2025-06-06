@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-06T14:57:15.570Z,33.6785011,-116.7268295,14.5,1.85,ml,70,25,0.03762,0.19,ci,ci41176992,2025-06-06T14:59:21.289Z,"7 km S of Idyllwild, CA",earthquake,0.2,0.38,0.312,27,automatic,ci,ci
 2025-06-06T14:50:59.508Z,65.5729,-147.9152,2,1.1,ml,,,,0.96,ak,ak02577w0ee6,2025-06-06T14:52:40.353Z,"29 km E of Livengood, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-06-06T14:43:10.840Z,33.3621667,-116.4521667,11.74,0.59,ml,14,114,0.2305,0.44,ci,ci41176968,2025-06-06T14:46:36.192Z,"14 km NNW of Borrego Springs, CA",earthquake,1.48,5.92,0.088,9,automatic,ci,ci
 2025-06-06T14:25:15.970Z,17.882666666667,-66.868166666667,12.31,2.38,md,6,241,0.09249,0.1,pr,pr71484918,2025-06-06T14:48:46.000Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.98,0.67,0.052818055542999,5,reviewed,pr,pr
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T02:42:29.288Z,31.677,-104.189,6.1127,2,ml,48,61,0.1,0.2,tx,tx2025kzfw,2025-06-06T12:00:07.660Z,"55 km NW of Toyah, Texas",earthquake,0.42655461237591,0.49124734612593,0.2,25,reviewed,tx,tx
 2025-06-06T02:36:06.132Z,44.2994,-115.0362,12.061,3.6,ml,18,64,0.236,0.56,us,us6000qic0,2025-06-06T04:47:26.463Z,"11 km NW of Stanley, Idaho",earthquake,1.6,3.979,0.035,108,reviewed,us,us
 2025-06-06T02:35:39.510Z,37.460666656494,-118.81300354004,2.5899999141693,1.28,md,13,141,0.1298,0.04,nc,nc75191586,2025-06-06T05:12:16.006Z,"16 km WSW of Toms Place, CA",earthquake,0.35,1.72000003,0.16,13,automatic,nc,nc
-2025-06-06T02:35:09.422Z,44.333,-115.0038,10,3.6,ml,27,59,0.253,0.69,us,us6000qibz,2025-06-06T04:47:32.466Z,"13 km NNW of Stanley, Idaho",earthquake,2.03,2.01,0.028,162,reviewed,us,us
+2025-06-06T02:35:09.422Z,44.333,-115.0038,10,3.6,ml,27,59,0.253,0.69,us,us6000qibz,2025-06-06T14:59:04.911Z,"13 km NNW of Stanley, Idaho",earthquake,2.03,2.01,0.028,162,reviewed,us,us
 2025-06-06T02:32:40.150Z,38.798831939697,-122.74600219727,1.4900000095367,0.53,md,9,102,0.01086,0.03,nc,nc75191581,2025-06-06T04:47:21.837Z,"3 km NNE of The Geysers, CA",earthquake,0.6,0.649999976,0.23,9,automatic,nc,nc
 2025-06-06T02:32:26.660Z,38.796001434326,-122.80249786377,1.4099999666214,0.8,md,19,50,0.007677,0.04,nc,nc75191576,2025-06-06T04:27:17.699Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.16,19,automatic,nc,nc
 2025-06-06T02:26:54.200Z,33.7826667,-118.0928333,12.75,1.48,ml,7,137,0.08167,0.2,ci,ci41176376,2025-06-06T02:30:28.863Z,"1 km WSW of Rossmoor, CA",earthquake,0.91,1.6,0.312,21,automatic,ci,ci
@@ -278,7 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T15:15:05.200Z,51.696666666667,-177.4285,11.84,1.05,ml,9,207,0.1366,0.13,av,av93628591,2025-06-06T02:33:25.180Z,"58 km WSW of Adak, Alaska",earthquake,0.79,1.03,0.24705938720815,11,reviewed,av,av
 2025-06-05T15:14:29.630Z,38.783164978027,-122.74749755859,1.1000000238419,0.74,md,9,86,0.00842,0.04,nc,nc75191366,2025-06-05T17:27:17.985Z,"1 km ENE of The Geysers, CA",earthquake,0.28,0.560000002,0.22,9,automatic,nc,nc
 2025-06-05T15:04:35.010Z,51.688,-177.42,11.45,0.43,ml,6,226,0.1365,0.1,av,av93628581,2025-06-06T02:20:54.610Z,"58 km WSW of Adak, Alaska",earthquake,0.95,1.16,0.23758510956644,6,reviewed,av,av
-2025-06-05T14:57:06.390Z,51.760833333333,-177.46016666667,-1.77,0.94,ml,9,181,0.1398,0.18,av,av93628576,2025-06-06T02:17:48.550Z,"58 km WSW of Adak, Alaska",earthquake,0.87,0.65,0.15386756284921,9,reviewed,av,av
-2025-06-05T14:56:49.450Z,51.754833333333,-177.46383333333,-1.77,0.55,ml,9,184,0.1423,0.18,av,av93628571,2025-06-06T02:14:57.650Z,"58 km WSW of Adak, Alaska",earthquake,1.04,0.7,0.17035150210807,9,reviewed,av,av
-2025-06-05T14:56:02.420Z,17.959166666667,-66.9415,8.4,1.96,md,5,203,0.06132,0.07,pr,pr71484638,2025-06-05T15:39:53.150Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.92,0.25157484381106,5,reviewed,pr,pr
-2025-06-05T14:54:11.747Z,31.672,-104.394,4.2736,1.5,ml,22,69,0,0.2,tx,tx2025kyir,2025-06-05T14:57:30.030Z,"55 km S of Whites City, New Mexico",earthquake,0,1.149085521698,0.1,15,automatic,tx,tx
