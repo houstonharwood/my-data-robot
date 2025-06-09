@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-09T19:03:08.120Z,38.833831787109,-122.80249786377,2.329999923706,1.01,md,18,53,0.01054,0.01,nc,nc75193376,2025-06-09T19:04:43.387Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.5,0.12,23,automatic,nc,nc
+2025-06-09T19:03:50.970Z,32.698,-117.1586667,9.63,1.16,ml,18,255,0.01159,0.14,ci,ci41180512,2025-06-09T19:07:20.068Z,"3 km ENE of Coronado, CA",earthquake,0.46,0.43,0.178,14,automatic,ci,ci
+2025-06-09T19:03:08.120Z,38.833831787109,-122.80249786377,2.329999923706,1.01,md,18,53,0.01054,0.01,nc,nc75193376,2025-06-09T19:11:28.421Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.5,0.12,23,automatic,nc,nc
 2025-06-09T19:01:57.159Z,62.2046,-148.1145,48.4,1.4,ml,,,,1.35,ak,ak0257cxb3mr,2025-06-09T19:03:56.206Z,"48 km NNE of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-09T18:58:43.450Z,34.9881667,-118.186,-0.85,1.39,ml,24,53,0.1277,0.26,ci,ci41180504,2025-06-09T19:02:07.548Z,"7 km S of Mojave, CA",earthquake,0.33,0.93,0.236,25,automatic,ci,ci
 2025-06-09T18:46:55.874Z,61.3445,-150.0913,39.8,1.7,ml,,,,0.31,ak,ak0257cwzb5f,2025-06-09T18:48:15.293Z,"6 km WSW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -137,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T04:36:31.809Z,31.585,-104.569,4.0496,1.5,ml,19,122,0.1,0.3,tx,tx2025lewo,2025-06-09T05:00:54.108Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.6794027090073,0.1,12,automatic,tx,tx
 2025-06-09T04:31:47.709Z,31.658,-104.335,4.5359,2.5,ml,40,69,0.1,0.4,tx,tx2025lewj,2025-06-09T04:56:45.040Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91767460107803,0.2,30,automatic,tx,tx
 2025-06-09T04:31:08.838Z,31.665,-104.346,10.0239,1.4,ml,8,179,0.1,0.8,tx,tx2025lewh,2025-06-09T04:33:45.426Z,"56 km S of Whites City, New Mexico",earthquake,0,5.6325612068176,0.5,5,automatic,tx,tx
-2025-06-09T04:30:11.740Z,38.011333333333,-122.31383333333,9.72,3.24,mw,190,16,0.03266,0.19,nc,nc75193041,2025-06-09T18:57:17.868Z,"2 km NW of Pinole, CA",earthquake,0.1,0.22,,6,reviewed,nc,nc
+2025-06-09T04:30:11.740Z,38.011333333333,-122.31383333333,9.72,3.24,mw,190,16,0.03266,0.19,nc,nc75193041,2025-06-09T19:19:18.285Z,"2 km NW of Pinole, CA",earthquake,0.1,0.22,,6,reviewed,nc,nc
 2025-06-09T04:27:55.830Z,38.014999389648,-122.30349731445,7.8200001716614,1.16,md,8,108,0.04964,0.04,nc,nc75193031,2025-06-09T11:06:12.691Z,"1 km  of Pinole, CA",earthquake,0.45,1.40999997,0.09,7,automatic,nc,nc
 2025-06-09T04:25:03.625Z,31.659,-104.337,4.2502,2,ml,39,69,0.1,0.4,tx,tx2025lewc,2025-06-09T04:31:11.028Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91977381706238,0.2,28,automatic,tx,tx
 2025-06-09T04:24:13.660Z,44.835666666667,-111.505,13.55,1.13,ml,17,89,0.05116,0.1,mb,mb90094928,2025-06-09T13:59:46.800Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,0.77,0.19793121622099,13,reviewed,mb,mb
@@ -219,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-08T19:42:40.500Z,38.825332641602,-122.85383605957,2.3099999427795,0.29,md,11,167,0.003242,0.01,nc,nc75192861,2025-06-08T19:44:19.359Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.810000002,0.17,13,automatic,nc,nc
 2025-06-08T19:37:12.611Z,31.651,-104.301,4.2422,1.7,ml,27,68,0,0.3,tx,tx2025lefc,2025-06-08T19:39:53.778Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0698888301849,0.1,21,automatic,tx,tx
 2025-06-08T19:36:55.070Z,44.2465,-114.07633333333,3.65,1.34,ml,6,114,0.1392,0.09,mb,mb90094818,2025-06-09T16:55:03.670Z,"25 km E of Clayton, Idaho",earthquake,0.61,1.63,0.1867187302058,14,reviewed,mb,mb
-2025-06-08T19:13:37.197Z,31.646,-104.304,3.8386,2.2,ml,42,69,0,0.3,tx,tx2025leej,2025-06-08T19:17:33.690Z,"59 km S of Whites City, New Mexico",earthquake,0,0.90888941287994,0.2,29,automatic,tx,tx
-2025-06-08T19:13:06.950Z,17.907166666667,-67.127833333333,10.55,2.41,md,6,294,0.1002,0.11,pr,pr71485278,2025-06-08T19:53:30.550Z,"9 km SE of Pole Ojea, Puerto Rico",earthquake,1.57,0.65,0.029148228881923,5,reviewed,pr,pr
-2025-06-08T19:10:11.150Z,47.401500701904,-122.40616607666,10.869999885559,1.5835003852844,ml,22,75,,0.100000001,uw,uw62125301,2025-06-08T19:12:55.500Z,"6 km W of Des Moines, Washington",earthquake,0.38,0.620000005,0.24267774820328,12,automatic,uw,uw
