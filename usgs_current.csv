@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T14:49:20.620Z,34.164,-117.6546667,10.16,1.63,ml,68,44,0.04533,0.19,ci,ci41181320,2025-06-10T15:00:26.680Z,"7 km N of Upland, CA",earthquake,0.16,0.3,0.253,25,automatic,ci,ci
 2025-06-10T14:35:18.408Z,61.9058,-151.0142,10.2,3,ml,,,,0.53,ak,ak0257ei2hg0,2025-06-10T16:42:20.027Z,"22 km ESE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-10T14:30:09.520Z,33.3663333,-116.6978333,10.45,1.15,ml,51,28,0.103,0.18,ci,ci41181288,2025-06-10T14:33:49.181Z,"11 km NNW of Warner Springs, CA",earthquake,0.15,0.33,0.098,27,automatic,ci,ci
-2025-06-10T14:26:49.360Z,32.9085,-115.4558333,8.27,1.42,ml,4,212,0.2833,0.12,ci,ci41181280,2025-06-10T14:30:12.457Z,"10 km SE of Brawley, CA",earthquake,1.95,10.55,0.396,13,automatic,ci,ci
+2025-06-10T14:26:47.850Z,32.541,-115.242,22.92,1.49,ml,15,100,0.1721,0.24,ci,ci41181280,2025-06-10T17:56:52.514Z,"11 km ESE of Puebla, B.C., MX",earthquake,0.5,1.32,0.271,6,reviewed,ci,ci
 2025-06-10T14:03:47.063Z,31.653,-104.297,4.4493,2.2,ml,41,68,0,0.3,tx,tx2025lhlb,2025-06-10T14:07:42.517Z,"58 km S of Whites City, New Mexico",earthquake,0,0.92565369606018,0.2,29,automatic,tx,tx
 2025-06-10T13:56:29.013Z,44.3207,-115.0159,13.052,2.8,ml,59,30,0.247,0.53,us,us6000qjct,2025-06-10T16:46:26.040Z,"13 km NNW of Stanley, Idaho",earthquake,1.94,7.422,0.03,142,reviewed,us,us
 2025-06-10T13:33:36.880Z,38.771667480469,-122.72450256348,1.1299999952316,0.8,md,6,82,0.01006,0.01,nc,nc75193701,2025-06-10T13:35:13.641Z,"3 km ESE of The Geysers, CA",earthquake,0.46,1.00999999,0.24,6,automatic,nc,nc
@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T12:34:36.659Z,60.3962,-141.3171,8.9,1.7,ml,,,,0.92,ak,ak0257egvfxt,2025-06-10T12:36:30.860Z,"129 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-10T12:33:39.870Z,19.345333099365,-155.10249328613,3.2000000476837,2.04,ml,53,132,0.04489,0.289999992,hv,hv74694082,2025-06-10T12:37:08.770Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.47,1.02999997,0.93,7,automatic,hv,hv
 2025-06-10T12:31:53.130Z,39.2975,-110.81716666667,4.72,0.83,md,11,90,0.1852,0.12,uu,uu80003648,2025-06-10T17:11:00.060Z,"6 km SSE of Cleveland, Utah",earthquake,0.3,3.49,0.32565304742776,8,reviewed,uu,uu
-2025-06-10T12:28:19.795Z,61.9075,-150.9539,15.2,4.1,ml,,,,0.93,ak,ak0257egu4bq,2025-06-10T17:41:29.995Z,"25 km ESE of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2025-06-10T12:28:19.795Z,61.9075,-150.9539,15.2,4.1,ml,,,,0.93,ak,ak0257egu4bq,2025-06-10T17:56:24.946Z,"25 km ESE of Skwentna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2025-06-10T12:18:32.385Z,31.647,-104.294,3.6266,2,ml,33,69,0,0.4,tx,tx2025lhhu,2025-06-10T12:26:11.142Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0166850090027,0.2,24,automatic,tx,tx
 2025-06-10T12:17:20.035Z,31.661,-104.291,7.9456,2.5,ml,39,67,0,0.3,tx,tx2025lhht,2025-06-10T13:03:41.039Z,"57 km S of Whites City, New Mexico",earthquake,0.5969166685534,0.76590892960067,0.2,25,reviewed,tx,tx
 2025-06-10T12:11:31.580Z,32.6813333,-115.6626667,11.06,1.72,ml,42,55,0.0625,0.28,ci,ci41181208,2025-06-10T12:21:44.870Z,"14 km NNW of Progreso, B.C., MX",earthquake,0.36,0.52,0.175,28,automatic,ci,ci
@@ -247,11 +247,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T18:15:51.560Z,53.907833333333,-166.68116666667,6.6,0.26,ml,10,121,0.02512,0.17,av,av93632871,2025-06-10T02:10:36.350Z,"9 km WNW of Dutch Harbor, Alaska",earthquake,0.55,0.35,0.19658113867621,10,reviewed,av,av
 2025-06-09T18:14:09.500Z,38.842498779297,-122.88050079346,2.5999999046326,0.72,md,11,98,0.004852,0.02,nc,nc75193366,2025-06-09T18:15:48.035Z,"13 km E of Cloverdale, CA",earthquake,0.52,0.680000007,0.11,11,automatic,nc,nc
 2025-06-09T18:12:47.166Z,4.9308,126.2131,86.384,4.4,mb,54,64,0.758,0.71,us,us6000qj7b,2025-06-09T18:43:22.040Z,"98 km ESE of Sarangani, Philippines",earthquake,7.13,6.246,0.085,40,reviewed,us,us
-2025-06-09T18:04:57.670Z,33.0401667,-114.9726667,3.13,1.46,ml,11,77,0.06791,0.12,ci,ci41180400,2025-06-09T18:12:26.124Z,"44 km NNW of Los Algodones, B.C., MX",earthquake,0.35,0.52,0.179,14,automatic,ci,ci
+2025-06-09T18:04:57.480Z,33.043,-114.9851667,5.37,1.41,ml,10,78,0.07084,0.13,ci,ci41180400,2025-06-10T17:55:23.708Z,"45 km NNW of Los Algodones, B.C., MX",earthquake,0.44,0.96,0.181,9,reviewed,ci,ci
 2025-06-09T18:04:50.360Z,38.840167999268,-122.83683013916,1.289999961853,0.56,md,8,125,0.001894,0.02,nc,nc75193361,2025-06-09T18:06:29.193Z,"10 km NNW of The Geysers, CA",earthquake,0.36,0.810000002,0.11,10,automatic,nc,nc
 2025-06-09T17:59:11.710Z,35.535,-96.7545,7.16,0.75,ml,15,61,0.01349735136,0.18,ok,ok2025lfwp,2025-06-10T12:58:27.858Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.23,5,reviewed,ok,ok
 2025-06-09T17:58:12.170Z,53.858666666667,-166.91883333333,4.24,-0.83,ml,5,219,0.05226,0.15,av,av93044089,2025-06-10T01:44:22.960Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.8,2.23,0.18419499627226,5,reviewed,av,av
 2025-06-09T17:58:04.320Z,53.866333333333,-166.93483333333,2.26,-0.13,ml,6,231,0.05842,0.08,av,av93632851,2025-06-10T01:40:21.660Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.54,1.83,0.23843731473196,6,reviewed,av,av
-2025-06-09T17:57:39.020Z,53.8675,-166.92883333333,0.62,-0.41,ml,6,228,0.0599,0.03,av,av93044084,2025-06-10T01:33:15.540Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.44,3.69,0.23564103471847,6,reviewed,av,av
-2025-06-09T17:57:24.650Z,53.867666666667,-166.929,1.86,-0.24,ml,6,228,0.06005,0.06,av,av93632846,2025-06-10T01:30:33.670Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.46,2,0.22742022312462,6,reviewed,av,av
-2025-06-09T17:53:19.403Z,63.4554,-151.3167,0,1.5,ml,,,,0.85,ak,ak0257cwfaqs,2025-06-09T17:55:14.866Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
