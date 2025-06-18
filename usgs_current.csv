@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-18T15:46:52.410Z,34.0501671,-117.2123337,12.72,1.16,ml,40,78,0.08039,0.2,ci,ci40997847,2025-06-18T15:48:54.925Z,"3 km WSW of Redlands, CA",earthquake,0.32,0.79,0.305,11,automatic,ci,ci
+2025-06-18T15:46:52.350Z,34.0488333,-117.2185,13.11,1.12,ml,56,31,0.0777,0.17,ci,ci40997847,2025-06-18T15:50:19.279Z,"3 km WSW of Redlands, CA",earthquake,0.16,0.42,0.222,26,automatic,ci,ci
 2025-06-18T15:46:13.710Z,38.780834197998,-122.72366333008,1.6399999856949,0.73,md,8,80,0.01049,0.01,nc,nc75197266,2025-06-18T15:47:49.322Z,"3 km WNW of Anderson Springs, CA",earthquake,0.32,0.850000024,0.35,7,automatic,nc,nc
-2025-06-18T15:45:45.200Z,34.0506668,-117.2138367,11.84,1.2,ml,38,78,0.07914,0.2,ci,ci40997839,2025-06-18T15:47:50.704Z,"3 km W of Redlands, CA",earthquake,0.3,0.85,0.33,13,automatic,ci,ci
+2025-06-18T15:45:45.140Z,34.0503333,-117.2175,12.7,1.32,ml,57,27,0.08851,0.17,ci,ci40997839,2025-06-18T15:49:14.947Z,"3 km W of Redlands, CA",earthquake,0.16,0.45,0.286,31,automatic,ci,ci
 2025-06-18T15:33:05.310Z,34.0845,-117.3095,16.66,1.22,ml,44,37,0.106,0.13,ci,ci40997831,2025-06-18T15:36:34.995Z,"1 km NNE of Colton, CA",earthquake,0.15,0.32,0.276,30,automatic,ci,ci
 2025-06-18T15:20:14.930Z,38.822334289551,-122.7851638794,1.7400000095367,1.6,md,32,37,0.009714,0.03,nc,nc75197251,2025-06-18T15:23:17.100Z,"5 km WNW of Cobb, CA",earthquake,0.17,0.289999992,0.15,32,automatic,nc,nc
 2025-06-18T15:18:15.110Z,33.4888333,-116.4886667,11.73,0.85,ml,29,62,0.09506,0.18,ci,ci40997807,2025-06-18T15:22:52.901Z,"19 km ESE of Anza, CA",earthquake,0.2,0.59,0.227,26,automatic,ci,ci
@@ -162,6 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T23:41:28.429Z,61.3734,-150.6104,8.7,1.4,ml,,,,0.83,ak,ak0257q884fe,2025-06-17T23:43:20.415Z,"19 km SSW of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-17T23:37:54.820Z,38.830501556396,-122.81649780273,1.789999961853,0.72,md,15,64,0.01625,0.02,nc,nc75196986,2025-06-17T23:39:29.534Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.660000026,0.07,15,automatic,nc,nc
 2025-06-17T23:36:31.780Z,51.861166666667,-177.85783333333,4.27,0.37,ml,5,214,0.05397,0.05,av,av93044829,2025-06-18T05:07:35.740Z,"84 km W of Adak, Alaska",earthquake,0.38,1,0.2722842784578,5,reviewed,av,av
+2025-06-17T23:36:09.480Z,37.0635,-112.35366666667,6,1.46,ml,6,170,0.3777,0.13,uu,uu80110476,2025-06-18T15:50:03.000Z,"15 km E of Kanab, Utah",earthquake,0.53,31.61,0.12581683317199,5,reviewed,uu,uu
 2025-06-17T23:27:37.128Z,61.8055,-150.0825,22.8,1.7,ml,,,,0.77,ak,ak0257q8552o,2025-06-17T23:30:08.187Z,"6 km NNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-17T23:16:35.864Z,65.468,-148.6851,14,0.9,ml,,,,0.69,ak,ak0257q82s3m,2025-06-17T23:18:36.350Z,"9 km SW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-17T23:13:38.964Z,-6.2692,129.0636,232.315,4.5,mb,62,51,4.599,0.62,us,us6000qkx7,2025-06-18T02:12:09.040Z,"Banda Sea",earthquake,8.61,7.611,0.088,38,reviewed,us,us
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T16:35:03.420Z,37.869666666667,-122.19833333333,8.54,0.72,md,14,81,0.009497,0.04,nc,nc75196851,2025-06-17T23:10:00.884Z,"2 km WSW of Orinda, CA",earthquake,0.32,0.42,0.267,3,reviewed,nc,nc
 2025-06-17T16:08:14.580Z,38.8245,-122.80766666667,2.51,0.33,md,18,68,0.00218,0.01,nc,nc75196846,2025-06-17T17:03:05.928Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.64,0.238,18,reviewed,nc,nc
 2025-06-17T16:06:23.850Z,36.6581,-116.2714,6.8,-0.3,ml,24,107.6,0.056,0.0901,nn,nn00899057,2025-06-17T22:05:17.041Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.36,5,reviewed,nn,nn
-2025-06-17T15:56:49.710Z,34.5518333,-119.1508333,0.28,1.77,ml,14,47,0.1096,0.17,ci,ci40996831,2025-06-18T13:41:12.521Z,"14 km NE of Ojai, CA",earthquake,0.26,0.51,0.431,31,reviewed,ci,ci
