@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T17:12:03.570Z,33.5355,-116.7196667,5.32,0.35,ml,16,45,0.03326,0.08,ci,ci40998903,2025-06-19T17:15:32.085Z,"5 km WSW of Anza, CA",earthquake,0.14,0.36,0.142,8,automatic,ci,ci
 2025-06-19T17:06:36.120Z,32.6815,-115.6716667,9.25,1.14,ml,19,115,0.0562,0.2,ci,ci40998895,2025-06-19T17:10:02.869Z,"14 km NW of Progreso, B.C., MX",earthquake,0.42,0.71,0.139,11,automatic,ci,ci
 2025-06-19T17:00:54.591Z,61.6097,-150.8436,62.4,1.1,ml,,,,0.28,ak,ak0257tfhhg3,2025-06-19T17:02:28.237Z,"19 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-06-19T16:54:22.014Z,41.7486,-81.0408,5,2.3,mb_lg,16,87,0.315,0.45,us,us6000ql9u,2025-06-19T21:24:01.666Z,"2 km SSE of Madison, Ohio",earthquake,1.62,1.958,0.132,15,reviewed,us,us
+2025-06-19T16:54:22.014Z,41.7486,-81.0408,5,2.3,mb_lg,16,87,0.315,0.45,us,us6000ql9u,2025-06-19T21:34:26.228Z,"2 km SSE of Madison, Ohio",earthquake,1.62,1.958,0.132,15,reviewed,us,us
 2025-06-19T16:42:46.740Z,38.8375,-122.78266666667,2.21,0.46,md,25,71,0.006064,0.02,nc,nc75197771,2025-06-19T18:57:17.580Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.27,0.107,20,reviewed,nc,nc
 2025-06-19T16:37:42.593Z,-6.2217,147.8534,37,5.5,mww,86,27,3.236,0.96,us,us6000ql8u,2025-06-19T19:12:29.435Z,"37 km N of Finschhafen, Papua New Guinea",earthquake,6.84,1.936,0.06,27,reviewed,us,us
 2025-06-19T16:34:12.063Z,32.069,-101.999,2.046,1.4,ml,7,155,0.1,0.6,tx,tx2025lzmrma,2025-06-19T17:00:35.714Z,"10 km NE of Midland, Texas",earthquake,0,3.1256244182587,0.1,6,automatic,tx,tx
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T10:26:38.240Z,44.336333333333,-114.9975,4.13,1.51,ml,16,64,0.03961,0.18,mb,mb90097523,2025-06-19T14:44:59.780Z,"14 km NNW of Stanley, Idaho",earthquake,0.41,1,0.38432460682134,17,reviewed,mb,mb
 2025-06-19T10:25:48.646Z,68.6823,-147.6252,0,1.8,ml,,,,0.78,ak,ak0257tbgsnk,2025-06-19T10:27:56.385Z,"105 km NW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-19T10:14:24.580Z,35.3585,-117.8076667,6.88,0.95,ml,30,73,0.09608,0.16,ci,ci40998583,2025-06-19T14:03:12.472Z,"16 km W of Johannesburg, CA",earthquake,0.2,0.55,0.185,11,reviewed,ci,ci
-2025-06-19T10:00:17.240Z,38.755666666667,-122.72716666667,2.04,0.31,md,12,198,0.006186,0.04,nc,nc75003753,2025-06-19T19:47:19.938Z,"3 km SE of The Geysers, CA",earthquake,0.74,0.71,0.101,8,reviewed,nc,nc
+2025-06-19T10:00:17.240Z,38.755666666667,-122.72716666667,2.04,0.31,md,12,198,0.006186,0.04,nc,nc75003753,2025-06-19T21:27:16.659Z,"3 km SE of The Geysers, CA",earthquake,0.74,0.71,0.101,8,reviewed,nc,nc
 2025-06-19T09:59:19.370Z,40.281,-124.54433333333,9.91,2,md,45,259,0.1545,0.17,nc,nc75197581,2025-06-19T19:47:20.938Z,"23 km W of Petrolia, CA",earthquake,0.36,0.53,0.135,23,reviewed,nc,nc
 2025-06-19T09:51:49.370Z,38.760334014893,-122.72799682617,1.8700000047684,1.1,md,11,108,0.002755,0.02,nc,nc75197576,2025-06-19T13:12:17.048Z,"3 km SE of The Geysers, CA",earthquake,0.6,0.330000013,0.42,9,automatic,nc,nc
 2025-06-19T09:49:51.150Z,38.730834960938,-122.72216796875,-0.21999999880791,1.58,md,16,219,0.02799,0.04,nc,nc75197571,2025-06-19T12:47:21.878Z,"6 km SW of Anderson Springs, CA",earthquake,0.61,0.479999989,0.23,20,automatic,nc,nc
@@ -277,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T21:56:44.330Z,47.316,-113.7655,7.56,0.51,ml,8,111,0.1995,0.15,mb,mb90097408,2025-06-18T22:27:54.090Z,"23 km S of Condon, Montana",earthquake,0.54,3.04,0.20697214426413,3,reviewed,mb,mb
 2025-06-18T21:54:28.460Z,38.821998596191,-122.76132965088,2,0.78,md,9,126,0.01079,0.02,nc,nc75197376,2025-06-18T21:56:05.033Z,"3 km W of Cobb, CA",earthquake,0.44,0.75,0.19,11,automatic,nc,nc
 2025-06-18T21:52:55.970Z,48.415333333333,-122.394,10.42,1.9,ml,28,47,0.04465,0.24,uw,uw62122542,2025-06-19T05:37:29.230Z,"4 km W of Mount Vernon, Washington",earthquake,0.39,0.87,0.13909877023229,20,reviewed,uw,uw
-2025-06-18T21:31:40.730Z,38.84383392334,-122.82499694824,2.0299999713898,0.71,md,12,75,0.009723,0.03,nc,nc75197371,2025-06-18T21:33:16.062Z,"9 km WNW of Cobb, CA",earthquake,0.32,0.75,0.49,12,automatic,nc,nc
-2025-06-18T21:27:21.080Z,38.8375,-122.8005,2.41,0.32,md,16,66,0.007983,0.02,nc,nc75197366,2025-06-18T22:00:42.166Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.6,0.196,16,reviewed,nc,nc
