@@ -1,12 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-25T20:49:19.740Z,38.828498840332,-122.80066680908,1.1900000572205,1.13,md,7,108,0.01276,0.02,nc,nc75200551,2025-06-25T20:50:58.573Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.88,0.19,8,automatic,nc,nc
+2025-06-25T20:47:36.288Z,63.398,-149.5659,2.1,2,ml,,,,0.48,ak,ak02583erwgs,2025-06-25T20:49:38.941Z,"30 km W of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-25T20:44:53.350Z,38.835666656494,-122.79533386231,1.9700000286102,1.09,md,15,58,0.004763,0.02,nc,nc75200546,2025-06-25T20:46:28.638Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.560000002,0.13,16,automatic,nc,nc
+2025-06-25T20:44:28.810Z,32.9031667,-116.9495,4.66,1.14,ml,29,65,0.0664,0.25,ci,ci41004271,2025-06-25T20:48:07.852Z,"6 km NNW of Lakeside, CA",earthquake,0.5,0.81,0.179,16,automatic,ci,ci
+2025-06-25T20:41:04.060Z,38.825164794922,-123.00616455078,3.7200000286102,1.26,md,13,118,0.05072,0.04,nc,nc75200536,2025-06-25T20:42:42.542Z,"2 km NE of Cloverdale, CA",earthquake,0.55,1.04999995,0.07,13,automatic,nc,nc
 2025-06-25T20:34:49.783Z,31.642,-104.367,4.275,2.2,ml,31,71,0.1,0.3,tx,tx2025mkvaad,2025-06-25T20:37:18.634Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0758140087128,0.2,21,automatic,tx,tx
 2025-06-25T20:31:31.191Z,32.295,-101.797,6.6279,1.5,ml,31,40,0,0.6,tx,tx2025mkuxfp,2025-06-25T20:34:18.733Z,"18 km N of Stanton, Texas",earthquake,0,1.3303825855255,0.2,22,automatic,tx,tx
-2025-06-25T20:23:06.630Z,31.476,-102.067,5,1.2,ml,6,156,0.3,0.2,tx,tx2025mkupzz,2025-06-25T20:25:17.669Z,"28 km ENE of Crane, Texas",earthquake,0,,0.4,5,automatic,tx,tx
 2025-06-25T20:17:28.958Z,31.65,-104.364,4.2612,2,ml,27,71,0.1,0.4,tx,tx2025mkuldq,2025-06-25T20:20:04.994Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1207808256149,0.1,19,automatic,tx,tx
 2025-06-25T20:12:12.510Z,38.820167541504,-122.81033325195,2.710000038147,1.09,md,27,42,0.01692,0.02,nc,nc75200531,2025-06-25T20:27:18.542Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.439999998,0.15,28,automatic,nc,nc
 2025-06-25T20:04:40.150Z,33.3485,-116.9343333,15.76,0.84,ml,41,30,0.06022,0.2,ci,ci41004231,2025-06-25T20:08:15.607Z,"7 km W of Palomar Observatory, CA",earthquake,0.21,0.51,0.181,20,automatic,ci,ci
 2025-06-25T19:44:33.360Z,46.317833333333,-111.628,-2,1.57,ml,8,138,0.3121,0.06,mb,mb90099118,2025-06-25T20:34:02.230Z,"8 km W of Townsend, Montana",quarry blast,0.56,31.61,0.34549261351408,12,reviewed,mb,mb
 2025-06-25T19:43:46.029Z,61.4107,-152.2992,10.6,0.5,ml,,,,0.23,ak,ak02583e5mqy,2025-06-25T19:45:12.575Z,"71 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-06-25T19:37:38.523Z,36.6209,-115.6402,10.8,0.3,ml,8,347.75,0.262,0.0319,nn,nn00899455,2025-06-25T20:45:55.685Z,"6 km NNE of Indian Springs, Nevada",earthquake,,15.6,0.14,2,reviewed,nn,nn
 2025-06-25T19:31:28.500Z,33.8821667,-116.892,12.15,0.96,ml,43,37,0.09246,0.13,ci,ci41004159,2025-06-25T19:36:20.695Z,"5 km SSW of Banning, CA",earthquake,0.15,0.46,0.135,28,automatic,ci,ci
 2025-06-25T19:24:10.940Z,33.5625,-117.501,1.44,1.04,ml,29,119,0.0476,0.15,ci,ci41004143,2025-06-25T19:28:21.557Z,"9 km ESE of Coto De Caza, CA",earthquake,0.19,0.34,0.139,28,automatic,ci,ci
 2025-06-25T19:06:29.909Z,64.5088,-151.2346,12.5,1,ml,,,,0.83,ak,ak02583dxo0e,2025-06-25T19:17:27.262Z,"61 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -267,5 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-24T21:18:26.930Z,36.0335,-117.7765,2.25,0.75,ml,10,120,0.01231,0.09,ci,ci41003071,2025-06-24T22:46:58.938Z,"16 km E of Coso Junction, CA",earthquake,0.21,0.17,0.106,8,reviewed,ci,ci
 2025-06-24T21:04:29.850Z,33.2911667,-116.2635,4.7,0.92,ml,23,149,0.08082,0.17,ci,ci41003039,2025-06-25T18:49:15.067Z,"11 km ENE of Borrego Springs, CA",earthquake,0.37,0.51,0.077,18,reviewed,ci,ci
 2025-06-24T20:59:23.605Z,31.88,-101.715,7.2754,1.1,ml,14,54,0,0.2,tx,tx2025mjacjh,2025-06-24T21:14:10.866Z,"22 km W of Garden City, Texas",earthquake,0.82376938757791,1.5933264058948,0.1,5,reviewed,tx,tx
-2025-06-24T20:49:48.520Z,35.6253333,-118.7411667,10.68,1.29,ml,24,69,0.1583,0.17,ci,ci41003015,2025-06-24T22:53:47.424Z,"23 km W of Bodfish, CA",earthquake,0.27,0.56,0.185,19,reviewed,ci,ci
-2025-06-24T20:43:29.223Z,60.0935,-152.9451,121.9,2.1,ml,,,,0.63,ak,ak02581r7okp,2025-06-24T20:45:43.890Z,"69 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
