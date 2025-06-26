@@ -81,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T10:35:18.834Z,36.724,-115.9996,4.6,0.1,ml,23,85.87,0.012,0.0803,nn,nn00899484,2025-06-26T14:08:07.618Z,"34 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.07,7,reviewed,nn,nn
 2025-06-26T10:28:38.139Z,63.0758,-149.7787,90.1,0.9,ml,,,,0.61,ak,ak02584w8ug5,2025-06-26T10:31:09.284Z,"54 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-26T10:28:06.665Z,36.7249,-116.0049,4.4,-0.1,ml,21,115.6,0.016,0.085,nn,nn00899482,2025-06-26T13:34:26.375Z,"34 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.3,5,reviewed,nn,nn
+2025-06-26T10:28:04.407Z,41.9335,-119.6239,9.2,1.5,ml,5,211.43,0.313,0.2502,nn,nn00899518,2025-06-26T17:54:50.145Z,"44 km E of Fort Bidwell, California",earthquake,,6.8,0.44,4,reviewed,nn,nn
 2025-06-26T10:24:06.230Z,46.844,-121.9245,11.02,0.6,ml,28,62,0.01688,0.08,uw,uw62127062,2025-06-26T17:18:23.290Z,"12 km NE of Ashford, Washington",earthquake,0.24,0.33,0.12130861657219,18,reviewed,uw,uw
 2025-06-26T10:21:21.860Z,43.553666666667,-110.61766666667,5.95,1.73,ml,11,112,0.05957,0.06,mb,mb90099218,2025-06-26T14:41:58.380Z,"7 km S of Kelly, Wyoming",earthquake,0.28,0.61,0.17229610324405,31,reviewed,mb,mb
 2025-06-26T10:17:32.690Z,43.553833333333,-110.61933333333,6.03,1.92,ml,10,117,0.05962,0.06,mb,mb90099213,2025-06-26T14:32:20.870Z,"7 km S of Kelly, Wyoming",earthquake,0.3,0.65,0.22691073328825,27,reviewed,mb,mb
@@ -186,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T23:52:36.770Z,38.787666320801,-122.77166748047,3.1400001049042,1.09,md,19,82,0.01384,0.03,nc,nc75200626,2025-06-26T00:42:16.382Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.75999999,0.05,20,automatic,nc,nc
 2025-06-25T23:52:20.410Z,38.787334442139,-122.77100372315,3.6600000858307,1.28,md,27,81,0.01445,0.03,nc,nc75200621,2025-06-26T03:07:20.421Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.469999999,0.1,28,automatic,nc,nc
 2025-06-25T23:45:17.230Z,34.5096667,-118.9393333,3.17,1.77,ml,49,27,0.03557,0.38,ci,ci41004439,2025-06-25T23:48:51.913Z,"12 km N of Fillmore, CA",earthquake,0.32,0.81,0.166,29,automatic,ci,ci
-2025-06-25T23:41:20.000Z,35.4973333,-118.4023333,5.67,1.09,ml,25,67,0.1751,0.14,ci,ci41004431,2025-06-25T23:44:58.611Z,"13 km SE of Bodfish, CA",earthquake,0.19,0.95,0.144,18,automatic,ci,ci
+2025-06-25T23:41:19.930Z,35.4981667,-118.404,4.33,1.06,ml,26,67,0.1739,0.14,ci,ci41004431,2025-06-26T17:50:58.619Z,"13 km SE of Bodfish, CA",earthquake,0.19,0.75,0.12,20,reviewed,ci,ci
 2025-06-25T23:10:44.828Z,61.7333,-148.2339,34.6,0.4,ml,,,,0.99,ak,ak02583gc895,2025-06-25T23:13:00.125Z,"13 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-25T23:03:15.467Z,61.3374,-145.7169,23.8,2,ml,,,,0.53,ak,ak02583gaq62,2025-06-25T23:05:02.801Z,"40 km NE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-25T22:25:20.305Z,31.739,-104.11,7.0099,1.6,ml,42,58,0,0.2,tx,tx2025mkyriw,2025-06-26T07:50:39.237Z,"48 km W of Mentone, Texas",earthquake,0.38743041447892,0.47986783204209,0.2,23,reviewed,tx,tx
@@ -242,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T18:00:39.150Z,33.8225,-117.0328333,14.91,0.79,ml,59,21,0.05597,0.17,ci,ci41004007,2025-06-25T18:05:11.471Z,"8 km WNW of San Jacinto, CA",earthquake,0.15,0.32,0.104,5,automatic,ci,ci
 2025-06-25T17:57:49.550Z,38.829334259033,-122.81616973877,2.1400001049042,0.77,md,8,124,0.01599,0.01,nc,nc75200496,2025-06-25T20:07:18.416Z,"8 km NNW of The Geysers, CA",earthquake,0.67,2.6500001,0.1,8,automatic,nc,nc
 2025-06-25T17:57:26.220Z,46.9415,-112.438,2.96,1.4,ml,11,140,0.08336,0.07,mb,mb90099103,2025-06-25T18:24:18.970Z,"18 km E of Lincoln, Montana",earthquake,0.35,0.68,0.11576581713498,15,reviewed,mb,mb
-2025-06-25T17:51:23.850Z,34.3376667,-116.8403333,-1.53,1.18,ml,38,40,0.01484,0.22,ci,ci41003999,2025-06-25T17:55:26.900Z,"8 km N of Big Bear City, CA",earthquake,0.26,0.6,0.157,31,automatic,ci,ci
