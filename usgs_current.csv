@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T07:27:09.046Z,36.7256,-116.0041,5.6,-0.3,ml,8,119,0.015,0.0621,nn,nn00899559,2025-06-27T07:29:07.530Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.39,5,automatic,nn,nn
 2025-06-27T07:22:21.250Z,17.958333333333,-66.751833333333,11.97,2.37,md,8,219,0.07203,0.11,pr,pr71487318,2025-06-27T07:30:56.370Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.75,0.5,0.086556029436929,4,reviewed,pr,pr
 2025-06-27T07:06:26.731Z,32.107,-101.932,4.0526,1.4,ml,55,34,0.1,0.5,tx,tx2025mnlrgr,2025-06-27T07:10:54.969Z,"13 km W of Stanton, Texas",earthquake,0,0.74419522285461,0.2,34,automatic,tx,tx
-2025-06-27T06:59:49.418Z,41.4088,19.5525,10,4.4,mb,46,56,0.242,1.41,us,us7000q91z,2025-06-27T07:35:58.593Z,"7 km N of Shijak, Albania",earthquake,4.33,1.83,0.105,26,reviewed,us,us
+2025-06-27T06:59:49.418Z,41.4088,19.5525,10,4.4,mb,46,56,0.242,1.41,us,us7000q91z,2025-06-27T07:48:30.091Z,"7 km N of Shijak, Albania",earthquake,4.33,1.83,0.105,26,reviewed,us,us
 2025-06-27T06:41:18.810Z,36.747,-90.915333333333,10.11,2.94,md,47,130,0.2691,0.21,nm,nm60609011,2025-06-27T07:28:54.444Z,"12 km SW of Grandin, Missouri",earthquake,0.57,0.81,0.022368333905028,31,reviewed,nm,nm
 2025-06-27T06:40:38.035Z,63.3121,-144.946,8.2,1.1,ml,,,,0.33,ak,ak02586hh13v,2025-06-27T06:42:34.733Z,"40 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-27T06:39:30.613Z,61.9382,-151.7022,14.6,1.2,ml,,,,0.34,ak,ak02586hgsth,2025-06-27T06:41:07.180Z,"16 km WSW of Skwentna, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -98,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T19:39:41.940Z,38.814167022705,-122.81600189209,2.9800000190735,0.79,md,13,58,0.01031,0.01,nc,nc75201006,2025-06-26T19:57:16.800Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.850000024,0.43,15,automatic,nc,nc
 2025-06-26T19:39:33.930Z,46.853,-121.75983333333,1.12,0.73,ml,26,73,0.02283,0.07,uw,uw62127382,2025-06-26T20:58:09.410Z,"23 km ENE of Ashford, Washington",earthquake,0.14,0.36,0.26093385377019,16,reviewed,uw,uw
 2025-06-26T19:30:43.780Z,35.057,-118.3381667,-1.11,0.89,ml,16,57,0.06631,0.15,ci,ci41005559,2025-06-26T20:23:30.836Z,"13 km SE of Tehachapi, CA",quarry blast,0.37,31.61,0.049,12,reviewed,ci,ci
+2025-06-26T19:29:54.640Z,51.987,178.48816666667,5.08,1.07,ml,4,322,0.0242,0.08,av,av93649221,2025-06-27T07:44:29.060Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.09,0.56,0.14709562855589,3,reviewed,av,av
 2025-06-26T19:29:50.610Z,19.344165802002,-155.41667175293,5.3400001525879,1.79,ml,32,113,0.03119,0.300000012,hv,hv74709407,2025-06-26T19:33:25.270Z,"16 km NNE of Pāhala, Hawaii",earthquake,0.46,1.12,0.09,3,automatic,hv,hv
 2025-06-26T19:29:43.060Z,33.0936667,-116.5498333,15.51,0.79,ml,32,55,0.04201,0.15,ci,ci41005551,2025-06-26T21:25:19.172Z,"5 km ENE of Julian, CA",earthquake,0.22,0.45,0.229,29,reviewed,ci,ci
 2025-06-26T19:26:27.269Z,31.687,-104.359,6.7664,1.8,ml,21,67,0.1,0.2,tx,tx2025mmolyf,2025-06-26T22:59:52.395Z,"54 km S of Whites City, New Mexico",earthquake,0.78511591935881,0.98344889195201,0.1,12,reviewed,tx,tx
@@ -277,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T07:54:46.383Z,-5.6855,154.3878,125.531,4.9,mb,81,82,2.667,0.8,us,us7000q8vy,2025-06-26T08:15:43.040Z,"140 km WNW of Panguna, Papua New Guinea",earthquake,10.08,6.578,0.041,184,reviewed,us,us
 2025-06-26T07:52:02.717Z,-15.1275,-172.8297,10,4.9,mb,39,109,1.58,0.65,us,us7000q8w0,2025-06-26T08:32:09.040Z,"138 km NE of Hihifo, Tonga",earthquake,10.34,1.898,0.036,246,reviewed,us,us
 2025-06-26T07:50:29.630Z,33.5286667,-116.7341667,5.52,0.21,ml,16,60,0.03673,0.1,ci,ci41004719,2025-06-26T13:01:25.577Z,"6 km WSW of Anza, CA",earthquake,0.19,0.37,0.02,6,reviewed,ci,ci
-2025-06-26T07:48:53.200Z,41.8965,-119.6291,5.9,1.6,ml,5,217.39,0.34,0.149,nn,nn00899528,2025-06-26T20:42:54.368Z,"43 km E of Fort Bidwell, California",earthquake,,2.7,0.43,4,reviewed,nn,nn
