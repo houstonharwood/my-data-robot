@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-27T15:16:36.810Z,38.81816482544,-122.80766296387,3.3199999332428,0.6,md,8,152,0.01403,0.02,nc,nc75201366,2025-06-27T15:18:11.884Z,"6 km NNW of The Geysers, CA",earthquake,0.74,2.25999999,0.15,9,automatic,nc,nc
+2025-06-27T15:16:36.810Z,38.81816482544,-122.80766296387,3.3199999332428,0.6,md,8,152,0.01403,0.02,nc,nc75201366,2025-06-27T15:37:24.281Z,"6 km NNW of The Geysers, CA",earthquake,0.74,2.25999999,0.15,9,automatic,nc,nc
 2025-06-27T15:10:21.170Z,33.9255,-116.2761667,5.48,1.9,ml,70,22,0.08545,0.16,ci,ci41006431,2025-06-27T15:21:20.000Z,"16 km NE of Thousand Palms, CA",earthquake,0.11,0.62,0.167,25,automatic,ci,ci
 2025-06-27T14:58:23.451Z,9.4747,93.8617,113.432,5,mb,50,105,5.211,0.75,us,us7000q938,2025-06-27T15:14:39.040Z,"271 km SSE of Port Blair, India",earthquake,11.21,8.259,0.056,102,reviewed,us,us
 2025-06-27T14:47:42.452Z,63.2823,-150.223,32.5,0.9,ml,,,,1.25,ak,ak02586ma0at,2025-06-27T14:50:19.732Z,"64 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T11:12:25.400Z,31.9623333,-116.2273333,11.68,2.03,ml,12,97,0.1513,0.21,ci,ci41006231,2025-06-27T11:21:07.593Z,"38 km ENE of Ensenada, B.C., MX",earthquake,0.49,2.27,0.131,25,automatic,ci,ci
 2025-06-27T11:04:35.710Z,40.611831665039,-122.39933013916,19.639999389648,2.09,md,9,104,0.1054,0.1,nc,nc75201266,2025-06-27T14:13:25.436Z,"5 km NNW of Redding, CA",earthquake,0.7,0.939999998,0.09,8,automatic,nc,nc
 2025-06-27T10:59:00.197Z,61.2384,-146.6197,16.5,1.3,ml,,,,0.69,ak,ak02586jyr7n,2025-06-27T11:01:13.689Z,"18 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-27T10:57:11.210Z,40.605166666667,-122.42,20.41,3.61,mw,36,38,0.0413,0.27,nc,nc75201261,2025-06-27T15:27:56.629Z,"5 km NW of Redding, CA",earthquake,0.32,0.31,,30,reviewed,nc,nc
+2025-06-27T10:57:11.210Z,40.605166666667,-122.42,20.41,3.61,mw,36,38,0.0413,0.27,nc,nc75201261,2025-06-27T15:38:11.653Z,"5 km NW of Redding, CA",earthquake,0.32,0.31,,30,reviewed,nc,nc
 2025-06-27T10:51:32.904Z,39.4311,-119.7635,8.8,0.4,ml,9,160.26,0.009,0.0962,nn,nn00899570,2025-06-27T13:59:56.627Z,"11 km S of Sparks, Nevada",earthquake,,1,0.1,4,reviewed,nn,nn
 2025-06-27T10:48:27.123Z,32.114,-101.478,8.374,1.1,ml,19,61,0.1,0.1,tx,tx2025mntaoi,2025-06-27T12:45:40.394Z,"10 km W of Forsan, Texas",earthquake,0.6100992227091,0.8440519585114,0.1,7,reviewed,tx,tx
 2025-06-27T10:29:30.060Z,32.9821667,-116.2413333,9.64,0.92,ml,44,37,0.05896,0.19,ci,ci41006207,2025-06-27T10:32:59.048Z,"21 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.52,0.328,19,automatic,ci,ci
@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T15:45:56.098Z,41.9373,-119.6242,0,1.2,ml,3,210.77,0.506,0.0087,nn,nn00899523,2025-06-26T18:49:52.584Z,"44 km E of Fort Bidwell, California",earthquake,,28.8,0.22,2,reviewed,nn,nn
 2025-06-26T15:43:54.934Z,41.8935,-119.6058,0,1.2,ml,3,218.5,0.353,0.2082,nn,nn00899522,2025-06-26T18:43:45.269Z,"45 km E of Fort Bidwell, California",earthquake,,0,0.46,3,reviewed,nn,nn
 2025-06-26T15:43:28.690Z,33.0573333,-115.0026667,-0.2,1.33,ml,10,148,0.08736,0.27,ci,ci41005111,2025-06-26T22:22:08.235Z,"45 km NE of Holtville, CA",quarry blast,1.05,31.61,0.067,7,reviewed,ci,ci
-2025-06-26T15:40:42.211Z,61.789,-149.8399,19.6,2.9,ml,,,,0.63,ak,ak02584zalf5,2025-06-26T18:04:00.263Z,"11 km ENE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-26T15:33:43.550Z,18.674833333333,-66.737833333333,78.84,2.73,md,16,236,0.2788,0.15,pr,pr71487273,2025-06-26T15:54:37.110Z,"22 km NNE of Carrizales, Puerto Rico",earthquake,0.8,0.74,0.049110481046095,7,reviewed,pr,pr
