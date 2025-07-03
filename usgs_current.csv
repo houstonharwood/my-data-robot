@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-03T07:07:03.040Z,38.82466506958,-122.79066467285,1.6699999570847,0.75,md,10,55,0.01373,0.02,nc,nc75203891,2025-07-03T07:08:36.573Z,"6 km WNW of Cobb, CA",earthquake,0.39,1.09000003,0.18,12,automatic,nc,nc
+2025-07-03T07:06:27.470Z,33.6993333,-116.7188333,17.28,0.82,ml,49,37,0.01582,0.16,ci,ci41013247,2025-07-03T07:10:01.565Z,"4 km S of Idyllwild, CA",earthquake,0.16,0.28,0.162,29,automatic,ci,ci
+2025-07-03T07:02:29.232Z,61.7853,-149.3692,35.5,2.2,ml,,,,0.43,ak,ak0258gf2dsb,2025-07-03T07:04:37.233Z,"8 km WNW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-07-03T06:41:59.500Z,33.3378333,-116.668,11.81,1.97,ml,23,59,0.0902,0.12,ci,ci41013239,2025-07-03T06:46:05.411Z,"7 km NNW of Warner Springs, CA",earthquake,0.21,0.59,0.314,14,automatic,ci,ci
 2025-07-03T06:41:00.190Z,33.8726667,-117.8286667,7.84,1.57,ml,78,31,0.03093,0.21,ci,ci41013223,2025-07-03T06:51:37.350Z,"2 km SW of Yorba Linda, CA",earthquake,0.17,0.3,0.169,29,automatic,ci,ci
 2025-07-03T06:21:49.240Z,33.6686667,-116.748,14.97,0.76,ml,35,58,0.0544,0.14,ci,ci41013215,2025-07-03T06:25:16.120Z,"8 km SSW of Idyllwild, CA",earthquake,0.19,0.32,0.165,20,automatic,ci,ci
@@ -11,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T05:58:01.000Z,38.795333862305,-122.81216430664,3.0899999141693,0.75,md,14,92,0.009974,0.02,nc,nc75203881,2025-07-03T05:59:37.399Z,"5 km NW of The Geysers, CA",earthquake,0.38,0.879999995,0.03,14,automatic,nc,nc
 2025-07-03T05:41:42.480Z,-21.2657,-67.2411,182.634,5.4,mww,66,46,1.89,1.27,us,us7000qad7,2025-07-03T06:34:01.063Z,"99 km SSW of Uyuni, Bolivia",earthquake,8.29,7.047,0.05,38,reviewed,us,us
 2025-07-03T05:39:53.552Z,31.862,-101.726,3.3387,1.4,ml,31,45,0,0.5,tx,tx2025myjdyt,2025-07-03T05:43:59.643Z,"23 km W of Garden City, Texas",earthquake,0,1.0172451734543,0.2,18,automatic,tx,tx
+2025-07-03T05:31:06.456Z,29.3026,129.5498,10,4.8,mb,51,109,2.333,0.66,us,us7000qad4,2025-07-03T07:09:37.040Z,"94 km N of Tatsugō, Japan",earthquake,6.56,1.875,0.044,162,reviewed,us,us
 2025-07-03T05:05:09.430Z,18.2425,-66.424833333333,38.09,2.63,md,14,82,0.096,0.1,pr,pr71488023,2025-07-03T06:10:57.250Z,"3 km WNW of Orocovis, Puerto Rico",earthquake,0.45,0.64,0.051587934603229,4,reviewed,pr,pr
 2025-07-03T04:53:16.538Z,-4.5719,125.3963,444.899,4.4,mb,48,38,2.667,1.1,us,us7000qacv,2025-07-03T05:07:45.040Z,"285 km SSW of Sanana, Indonesia",earthquake,10.38,9.25,0.082,43,reviewed,us,us
 2025-07-03T04:51:27.220Z,37.416168212891,-118.73650360107,13.319999694824,1.75,md,21,112,0.1885,0.05,nc,nc75203866,2025-07-03T05:47:20.304Z,"12 km WNW of Round Valley, CA",earthquake,0.52,2.48000002,0.09,15,automatic,nc,nc
@@ -254,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T07:17:56.798Z,29.316,129.3286,10,5,mb,45,89,2.392,1.38,us,us7000qa5i,2025-07-02T07:51:34.933Z,"99 km NNW of Tatsugō, Japan",earthquake,5.28,1.861,0.103,30,reviewed,us,us
 2025-07-02T07:15:26.089Z,-17.5875,-178.9662,515.379,5.6,mww,115,39,7.823,0.85,us,us7000qa5h,2025-07-02T09:43:38.982Z,"189 km ENE of Levuka, Fiji",earthquake,10.47,5.285,0.062,25,reviewed,us,us
 2025-07-02T07:13:44.111Z,32.123,-101.043,6.5186,1.7,ml,40,82,0.2,0.2,tx,tx2025mwqnxz,2025-07-02T09:31:26.840Z,"25 km S of Westbrook, Texas",earthquake,0.52820244552323,1.3688308696765,0.1,54,reviewed,tx,tx
-2025-07-02T07:09:44.900Z,38.817832946777,-122.76100158691,1.9099999666214,1.11,md,17,118,0.01441,0.02,nc,nc75203416,2025-07-02T07:42:17.772Z,"3 km W of Cobb, CA",earthquake,0.31,0.540000021,0.1,17,automatic,nc,nc
