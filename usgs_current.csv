@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-06T04:37:16.785Z,31.666,-104.192,4.1766,1.7,ml,38,62,0.1,0.3,tx,tx2025ndugok,2025-07-06T04:41:27.202Z,"54 km NW of Toyah, Texas",earthquake,0,0.90888071060181,0.2,25,automatic,tx,tx
+2025-07-06T04:30:55.416Z,62.1457,-148.5412,34.4,1.2,ml,,,,0.19,ak,ak0258lc26it,2025-07-06T04:32:17.843Z,"39 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-06T04:27:58.083Z,61.1725,-151.5367,69.4,2.2,ml,,,,0.29,ak,ak0258lc1jkw,2025-07-06T04:29:39.968Z,"24 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-06T04:21:48.330Z,33.7166667,-116.8341667,16.38,0.69,ml,29,45,0.08035,0.16,ci,ci41015295,2025-07-06T04:26:05.156Z,"6 km ESE of Valle Vista, CA",earthquake,0.27,0.43,0.144,13,automatic,ci,ci
 2025-07-06T04:00:34.700Z,38.822666168213,-122.76566314697,0.47999998927116,0.28,md,8,119,0.008471,0.02,nc,nc75206127,2025-07-06T04:02:08.561Z,"4 km WNW of Cobb, CA",earthquake,0.33,0.720000029,0.14,9,automatic,nc,nc
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-06T03:32:38.160Z,38.829833984375,-122.81549835205,0.99000000953674,0.69,md,11,89,0.0077,0.02,nc,nc75206122,2025-07-06T03:34:14.436Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.689999998,0.5,11,automatic,nc,nc
 2025-07-06T03:28:09.480Z,38.822334289551,-122.80716705322,2.7400000095367,0.76,md,13,60,0.01708,0.01,nc,nc75206112,2025-07-06T03:29:44.264Z,"7 km NNW of The Geysers, CA",earthquake,0.3,1.13999999,0.1,15,automatic,nc,nc
 2025-07-06T03:15:42.550Z,35.6445,-117.452,6.39,0.91,ml,29,57,0.03088,0.12,ci,ci41015287,2025-07-06T03:19:13.305Z,"14 km SSW of Searles Valley, CA",earthquake,0.17,0.32,0.172,11,automatic,ci,ci
-2025-07-06T03:15:23.590Z,38.68733215332,-122.49800109863,6.5300002098083,1.47,md,12,110,0.07009,0.06,nc,nc75206097,2025-07-06T03:32:17.940Z,"12 km SE of Middletown, CA",earthquake,0.32,1.15999997,0.09,11,automatic,nc,nc
+2025-07-06T03:15:23.590Z,38.68733215332,-122.49800109863,6.5300002098083,1.47,md,12,110,0.07009,0.06,nc,nc75206097,2025-07-06T04:32:18.385Z,"12 km SE of Middletown, CA",earthquake,0.32,1.15999997,0.09,11,automatic,nc,nc
 2025-07-06T03:07:23.733Z,-30.5011,-177.9362,35,5.1,mb,52,69,1.252,1.34,us,us7000qaxw,2025-07-06T03:27:40.040Z,"Kermadec Islands, New Zealand",earthquake,10.46,1.893,0.047,146,reviewed,us,us
 2025-07-06T03:05:43.030Z,38.685501098633,-122.49800109863,6.5,1.63,md,14,67,0.07154,0.08,nc,nc75206092,2025-07-06T04:07:19.214Z,"13 km SE of Middletown, CA",earthquake,0.28,1.01999998,0.08,15,automatic,nc,nc
 2025-07-06T03:04:29.090Z,32.8418333,-115.618,11.5,1.25,ml,28,78,0.07638,0.29,ci,ci41015279,2025-07-06T03:07:59.227Z,"5 km W of Imperial, CA",earthquake,0.44,0.56,0.254,14,automatic,ci,ci
@@ -219,8 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-05T05:03:24.220Z,61.308,-152.25033333333,3.06,-0.14,ml,9,142,0.06276,0.08,av,av93658116,2025-07-05T21:26:58.770Z,"65 km WNW of Beluga, Alaska",earthquake,0.35,0.49,0.17133403248788,10,reviewed,av,av
 2025-07-05T04:56:13.810Z,33.3718333,-116.692,15.52,0.28,ml,24,56,0.1111,0.15,ci,ci41014567,2025-07-05T04:59:36.824Z,"11 km NNW of Warner Springs, CA",earthquake,0.22,0.55,0.074,6,automatic,ci,ci
 2025-07-05T04:54:25.220Z,18.0146,-68.3781,92,3.6,md,14,219,0.4993,0.42,pr,pr2025186001,2025-07-05T05:59:39.429Z,"47 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.89,2.68,0.15,7,reviewed,pr,pr
-2025-07-05T04:53:23.680Z,38.785667419434,-122.77333068848,3.4400000572205,0.77,md,16,84,0.01365,0.02,nc,nc75205622,2025-07-05T04:54:59.433Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.639999986,0.36,17,automatic,nc,nc
-2025-07-05T04:49:07.756Z,62.6136,-153.0176,9.4,1.8,ml,,,,0.31,ak,ak0258jomsyf,2025-07-05T04:51:03.794Z,"82 km ESE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-05T04:43:30.750Z,33.3056667,-116.35,10.08,0.6,ml,34,82,0.02544,0.24,ci,ci41014535,2025-07-05T04:46:58.752Z,"6 km NNE of Borrego Springs, CA",earthquake,0.27,0.5,0.152,11,automatic,ci,ci
-2025-07-05T04:42:22.544Z,60.0197,-152.4478,84.7,1.4,ml,,,,0.39,ak,ak0258jolc32,2025-07-05T04:44:22.139Z,"40 km W of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-07-05T04:40:29.975Z,32.291,-101.258,3.4724,1,mlv,6,154,0.1,0.2,tx,tx2025nbyqmh,2025-07-05T11:12:55.563Z,"4 km E of Coahoma, Texas",earthquake,0,2.1814126968384,0.3,3,automatic,tx,tx
