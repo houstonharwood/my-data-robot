@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-09T22:49:52.678Z,38.6625,-118.5544,1.9,1.8,ml,16,72.36,0.413,0.2226,nn,nn00900342,2025-07-09T22:52:36.063Z,"16 km NNE of Hawthorne, Nevada",earthquake,,2.4,0.23,10,automatic,nn,nn
+2025-07-09T22:46:37.089Z,61.2921,-152.5066,2.5,1.5,ml,,,,0.74,ak,ak0258qlhexo,2025-07-09T22:48:20.706Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-09T22:45:01.060Z,34.8501667,-118.9645,13.25,1.61,ml,36,73,0.0748,0.22,ci,ci41018239,2025-07-09T22:53:56.156Z,"4 km NNW of Frazier Park, CA",earthquake,0.28,0.5,0.178,28,automatic,ci,ci
 2025-07-09T22:38:33.100Z,33.4085,-116.4395,15.3,0.71,ml,15,112,0.1412,0.26,ci,ci41018231,2025-07-09T22:42:01.495Z,"18 km NNW of Borrego Springs, CA",earthquake,0.71,1.45,0.13,11,automatic,ci,ci
 2025-07-09T22:21:06.040Z,38.790500640869,-122.74900054932,2.170000076294,2.08,md,55,44,0.01203,0.07,nc,nc75207672,2025-07-09T22:27:16.797Z,"2 km NE of The Geysers, CA",earthquake,0.17,0.280000001,0.16,49,automatic,nc,nc
-2025-07-09T22:12:57.153Z,-4.4733,35.1475,10,5,mb,77,42,3.573,0.69,us,us7000qbp5,2025-07-09T22:32:32.040Z,"13 km SSE of Basotu, Tanzania",earthquake,9.8,1.849,0.067,71,reviewed,us,us
+2025-07-09T22:12:57.153Z,-4.4733,35.1475,10,5,mb,77,42,3.573,0.69,us,us7000qbp5,2025-07-09T22:48:02.158Z,"13 km SSE of Basotu, Tanzania",earthquake,9.8,1.849,0.067,71,reviewed,us,us
 2025-07-09T22:03:03.589Z,3.4782,126.53,72.778,4.4,mb,18,138,1.629,0.61,us,us7000qbp1,2025-07-09T22:45:42.040Z,"243 km SSE of Sarangani, Philippines",earthquake,9.54,6.394,0.144,14,reviewed,us,us
 2025-07-09T22:00:55.970Z,46.848331451416,-121.75900268555,-0.75999999046326,0.360000014,md,11,105,,0.0299999993,uw,uw62137262,2025-07-09T22:02:26.330Z,"23 km ENE of Ashford, Washington",earthquake,0.31,0.949999988,,1,automatic,uw,uw
 2025-07-09T22:00:05.340Z,46.850498199463,-121.75533294678,-0.58999997377396,0.360000014,md,14,82,,0.0299999993,uw,uw62137257,2025-07-09T22:01:40.890Z,"23 km ENE of Ashford, Washington",earthquake,0.28,0.889999986,,1,automatic,uw,uw
@@ -70,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-09T15:48:52.905Z,58.3221,-154.5929,29.6,2,ml,,,,1.04,ak,ak0258qhbucq,2025-07-09T15:51:07.974Z,"84 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-09T15:47:59.110Z,33.975,-116.7286667,16.4,1.19,ml,49,36,0.08899,0.16,ci,ci41017943,2025-07-09T15:51:42.706Z,"8 km NE of Cabazon, CA",earthquake,0.16,0.47,0.134,26,automatic,ci,ci
 2025-07-09T15:38:38.450Z,40.283166666667,-124.5085,19.67,2.88,ml,64,247,0.127,0.14,nc,nc75207542,2025-07-09T22:12:54.040Z,"20 km W of Petrolia, CA",earthquake,0.48,0.21,0.198,17,reviewed,nc,nc
+2025-07-09T15:37:26.159Z,62.9497,-156.3281,9.62,2.9,ml,53,33,1.03,0.98,us,us7000qbkp,2025-07-09T22:50:35.040Z,"14 km WSW of Takotna, Alaska",earthquake,2.53,6.442,0.039,88,reviewed,us,us
 2025-07-09T15:31:15.760Z,33.427,-116.6538333,4.63,0.58,ml,22,61,0.03321,0.12,ci,ci41017927,2025-07-09T17:45:40.036Z,"14 km S of Anza, CA",earthquake,0.15,0.31,0.101,11,reviewed,ci,ci
 2025-07-09T15:25:45.468Z,53.6327,-150.2993,12,3.4,ml,,,,0.37,ak,ak0258qh78mo,2025-07-09T18:05:16.819Z,"south of Alaska",earthquake,,48,,,reviewed,ak,ak
 2025-07-09T15:19:17.380Z,38.830165863037,-122.87433624268,2.920000076294,1.24,md,21,72,0.01074,0.02,nc,nc75207532,2025-07-09T15:52:16.937Z,"12 km NW of The Geysers, CA",earthquake,0.27,0.479999989,0.14,25,automatic,nc,nc
@@ -298,5 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-08T22:56:25.140Z,37.320166666667,-122.14,6.76,2.61,md,133,48,0.01059,0.19,nc,nc75207257,2025-07-09T22:45:01.271Z,"5 km WSW of Loyola, CA",earthquake,0.15,0.25,0.128,113,reviewed,nc,nc
 2025-07-08T22:55:30.024Z,32.019,-101.77,6.4697,1.2,ml,13,83,0,0.1,tx,tx2025nivzrx,2025-07-08T23:47:38.844Z,"12 km S of Stanton, Texas",earthquake,0.80088417894771,1.7445201957681,0.2,27,reviewed,tx,tx
 2025-07-08T22:54:35.030Z,18.006666666667,-66.7375,11.94,2.32,md,15,137,0.0531,0.11,pr,pr71488623,2025-07-08T23:14:33.340Z,"2 km WNW of Tallaboa, Puerto Rico",earthquake,0.3,0.49,0.15518364899653,8,reviewed,pr,pr
-2025-07-08T22:50:56.220Z,46.850666666667,-121.7585,-0.53,0.91,ml,23,71,0.02308,0.07,uw,uw62135702,2025-07-09T03:46:59.390Z,"23 km ENE of Ashford, Washington",earthquake,0.13,0.55,0.15778926739375,15,reviewed,uw,uw
-2025-07-08T22:47:16.120Z,46.8495,-121.75966666667,-2.14,1.63,ml,35,44,0.02289,0.09,uw,uw62135697,2025-07-08T23:12:20.940Z,"23 km ENE of Ashford, Washington",earthquake,0.13,0.29,0.14087742632971,23,reviewed,uw,uw
