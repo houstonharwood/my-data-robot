@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-15T16:52:34.696Z,58.8707,-153.7656,113.6,3.9,ml,,,,0.68,ak,ak02590f6408,2025-07-15T16:55:57.354Z,"85 km SE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-15T16:52:18.717Z,60.1922,-153.125,140.7,2.4,ml,,,,0.27,ak,ak02590f657n,2025-07-15T16:53:42.834Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-07-15T16:39:10.212Z,54.7305,-162.2574,87.3,1.7,ml,,,,0.23,ak,ak02590f3cz2,2025-07-15T16:51:01.690Z,"36 km S of King Cove, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-07-15T16:35:01.690Z,38.2086,-114.0828,9.3,2.1,ml,11,102.09,0.371,0.1731,nn,nn00900660,2025-07-15T16:55:24.583Z,"27 km NNE of Ursine, Nevada",earthquake,,3.6,0.37,6,reviewed,nn,nn
+2025-07-15T16:22:31.380Z,59.6642,-152.9219,92.9,1.4,ml,,,,0.24,ak,ak02590ezp8n,2025-07-15T16:48:25.410Z,"62 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-07-15T16:11:19.875Z,60.7658,-151.8596,78.2,1.2,ml,,,,0.64,ak,ak02590excvn,2025-07-15T16:16:35.449Z,"32 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-07-15T16:00:44.705Z,56.4481,-156.3296,72.7,2.3,ml,,,,0.38,ak,ak02590ev1x2,2025-07-15T16:03:28.403Z,"129 km E of Chignik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-07-15T15:57:12.100Z,38.838165283203,-122.82099914551,0.43000000715256,0.78,md,14,58,0.01132,0.01,nc,nc75210282,2025-07-15T15:58:49.412Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.560000002,0.38,15,automatic,nc,nc
@@ -147,7 +152,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-15T04:07:35.460Z,38.818668365479,-122.8184967041,13.359999656677,0.36,md,6,134,0.01286,0.09,nc,nc75210042,2025-07-15T04:09:11.593Z,"7 km NW of The Geysers, CA",earthquake,3.14,10.3299999,0.19,8,automatic,nc,nc
 2025-07-15T03:58:03.926Z,37.2484,-117.6712,0.1,1.5,ml,26,143.52,0.268,0.1861,nn,nn00900622,2025-07-15T04:00:54.054Z,"55 km E of Big Pine, California",earthquake,,22.8,0.2,19,automatic,nn,nn
 2025-07-15T03:39:37.710Z,36.7853,-116.0795,2.9,0.9,ml,22,78.53,0.027,0.1161,nn,nn00900621,2025-07-15T04:26:09.812Z,"43 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.53,6,reviewed,nn,nn
-2025-07-15T03:27:57.250Z,46.845333099365,-121.77100372314,-1.4900000095367,0.930000007,md,25,54,,0.0599999987,uw,uw62142802,2025-07-15T03:29:36.480Z,"22 km ENE of Ashford, Washington",earthquake,0.2,1.85000002,0.460000008,3,automatic,uw,uw
+2025-07-15T03:31:37.400Z,46.848333333333,-121.77116666667,-0.37,0.42,ml,16,66,0.01516,0.07,uw,uw62142817,2025-07-15T16:55:32.390Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.46,0.11749230153809,11,reviewed,uw,uw
+2025-07-15T03:27:57.200Z,46.8475,-121.76966666667,-0.12,1.37,ml,19,65,0.01633,0.06,uw,uw62142802,2025-07-15T16:48:44.370Z,"22 km ENE of Ashford, Washington",earthquake,0.19,0.47,0.15712402759858,11,reviewed,uw,uw
 2025-07-15T03:23:21.530Z,46.852666666667,-121.76933333333,-0.52,0.29,ml,16,69,0.01631,0.06,uw,uw62142792,2025-07-15T16:03:36.670Z,"22 km ENE of Ashford, Washington",earthquake,0.23,0.71,0.072681132686624,9,reviewed,uw,uw
 2025-07-15T03:19:00.290Z,36.1743333,-118.0326667,2.25,1.19,ml,23,56,0.08934,0.15,ci,ci41022775,2025-07-15T03:22:30.008Z,"12 km SSW of Olancha, CA",earthquake,0.21,0.89,0.134,20,automatic,ci,ci
 2025-07-15T03:17:24.530Z,46.846833333333,-121.7685,0.26,0.2,ml,12,76,0.01726,0.08,uw,uw62142762,2025-07-15T15:52:03.290Z,"22 km ENE of Ashford, Washington",earthquake,0.27,0.51,0.039160166116625,3,reviewed,uw,uw
@@ -261,7 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T17:16:49.029Z,6.1785,-82.6807,10,6.2,mww,99,84,3.114,0.74,us,us7000qclp,2025-07-14T22:08:22.538Z,"206 km S of Burica, Panama",earthquake,6.87,1.874,0.035,79,reviewed,us,us
 2025-07-14T17:04:12.490Z,46.847333333333,-121.767,0.83,1.07,ml,19,66,0.01816,0.06,uw,uw62141912,2025-07-14T21:25:07.580Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.59,0.16125981232819,11,reviewed,uw,uw
 2025-07-14T16:57:27.745Z,64.0326,-148.8004,1.5,1.6,ml,,,,0.63,ak,ak0258yrnvxi,2025-07-14T16:59:18.463Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-07-14T16:56:36.179Z,35.58683333,-98.19033333,4.61,1.86,ml,25,116,0.08818269555,0.43,ok,ok2025nrtd,2025-07-14T17:11:11.506Z,"6 km WSW of Calumet, Oklahoma",earthquake,,2.1,0.27,22,reviewed,ok,ok
-2025-07-14T16:53:18.432Z,30.3071,140.8477,10,4.8,mb,78,100,2.935,0.79,us,us7000qcln,2025-07-14T17:52:05.040Z,"Izu Islands, Japan region",earthquake,8.68,1.855,0.043,169,reviewed,us,us
-2025-07-14T16:47:26.070Z,58.172166666667,-155.49316666667,10.16,-0.4,ml,5,157,0.02677,0.34,av,av93668381,2025-07-15T04:54:19.260Z,"89 km SE of King Salmon, Alaska",earthquake,1.31,2.1,0.34772998445007,5,reviewed,av,av
-2025-07-14T16:45:17.820Z,38.811332702637,-122.80599975586,2.789999961853,0.76,md,8,121,0.009007,0.01,nc,nc75209852,2025-07-14T16:46:56.059Z,"6 km NW of The Geysers, CA",earthquake,0.54,1.75,0.04,8,automatic,nc,nc
