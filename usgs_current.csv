@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-18T12:19:15.270Z,35.3181667,-117.8146667,7.84,1.01,ml,35,65,0.05668,0.17,ci,ci41025551,2025-07-18T12:22:40.072Z,"17 km WSW of Johannesburg, CA",earthquake,0.18,0.52,0.238,19,automatic,ci,ci
+2025-07-18T12:14:02.426Z,60.2937,-143.3163,2.2,1.4,ml,,,,0.95,ak,ak02595b69qq,2025-07-18T12:15:48.846Z,"128 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-18T12:10:52.520Z,38.824165344238,-122.80699920654,2.6400001049042,1.07,md,21,49,0.002522,0.01,nc,nc75211622,2025-07-18T12:12:27.551Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.469999999,0.22,23,automatic,nc,nc
 2025-07-18T11:36:36.200Z,46.845664978027,-121.7679977417,-0.17000000178814,0.360000014,md,23,64,,0.0500000007,uw,uw62145327,2025-07-18T11:38:12.550Z,"22 km ENE of Ashford, Washington",earthquake,0.24,0.720000029,0.349999994,2,automatic,uw,uw
 2025-07-18T11:27:33.505Z,-23.0024,172.0847,10,5.3,mww,76,107,4.297,0.78,us,us7000qdec,2025-07-18T11:46:46.040Z,"southeast of the Loyalty Islands",earthquake,10.07,1.882,0.068,21,reviewed,us,us
 2025-07-18T11:25:54.070Z,38.800498962402,-122.81632995606,3.0199999809265,1.04,md,18,78,0.01306,0.02,nc,nc75211607,2025-07-18T11:27:31.746Z,"6 km NW of The Geysers, CA",earthquake,0.31,0.699999988,0.21,21,automatic,nc,nc
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-18T10:45:12.440Z,35.8616667,-117.6905,6.59,0.45,ml,18,65,0.08038,0.08,ci,ci41025495,2025-07-18T10:48:40.295Z,"21 km ESE of Little Lake, CA",earthquake,0.12,0.31,0.123,9,automatic,ci,ci
 2025-07-18T10:40:37.716Z,32.36,-102.157,6.6895,0.6,ml,17,69,0,0.1,tx,tx2025oahaet,2025-07-18T11:46:27.831Z,"35 km E of McKinney Acres, Texas",earthquake,0.77861965617877,0.80948731009743,0.2,8,reviewed,tx,tx
 2025-07-18T10:35:19.840Z,33.7063333,-116.828,15.14,0.83,ml,45,47,0.0779,0.19,ci,ci41025487,2025-07-18T10:39:02.820Z,"8 km SE of Valle Vista, CA",earthquake,0.24,0.42,0.155,26,automatic,ci,ci
-2025-07-18T10:34:45.182Z,9.5193,-84.2444,10,4,mb,17,188,0.323,0.98,us,us7000qde5,2025-07-18T11:53:29.008Z,"8 km E of Parrita, Costa Rica",earthquake,3.02,1.937,0.183,8,reviewed,us,us
+2025-07-18T10:34:45.182Z,9.5193,-84.2444,10,4,mb,17,188,0.323,0.98,us,us7000qde5,2025-07-18T12:04:13.132Z,"8 km E of Parrita, Costa Rica",earthquake,3.02,1.937,0.183,8,reviewed,us,us
 2025-07-18T10:33:56.260Z,18.0525,-66.839333333333,12.33,2.17,md,6,146,0.08431,0.16,pr,pr71489603,2025-07-18T10:50:02.190Z,"2 km NNE of Yauco, Puerto Rico",earthquake,0.91,1.52,0.052338278736659,4,reviewed,pr,pr
 2025-07-18T10:31:12.347Z,63.1055,-150.8936,23.8,1.4,ml,,,,1.22,ak,ak02595a32gy,2025-07-18T10:33:30.253Z,"63 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-18T10:27:57.790Z,17.9675,-66.8165,17.64,2.37,md,7,207,0.04955,0.16,pr,pr71489593,2025-07-18T10:37:59.730Z,"2 km S of Indios, Puerto Rico",earthquake,0.96,0.59,0.016209342932471,4,reviewed,pr,pr
@@ -241,7 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T12:40:57.100Z,38.8125,-122.78483333333,1.4,0.34,md,20,45,0.003328,0.02,nc,nc75211087,2025-07-17T17:35:24.847Z,"5 km NNW of The Geysers, CA",earthquake,0.19,0.29,0.234,20,reviewed,nc,nc
 2025-07-17T12:40:19.040Z,35.3466667,-117.7961667,6.85,0.96,ml,30,78,0.08888,0.16,ci,ci41024711,2025-07-17T13:21:20.915Z,"15 km W of Johannesburg, CA",earthquake,0.19,0.48,0.13,18,reviewed,ci,ci
 2025-07-17T12:33:39.920Z,34.0063324,-117.2156677,17.32,1.04,ml,18,126,0.1334,0.19,ci,ci41024695,2025-07-18T07:00:41.358Z,"6 km SSW of Redlands, CA",earthquake,0.42,0.9,0.141,6,automatic,ci,ci
-2025-07-17T12:30:39.107Z,61.6419,-149.5265,32.1,1.2,ml,,,,0.66,ak,ak02593nqfja,2025-07-17T12:38:40.772Z,"4 km ENE of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-17T12:26:32.830Z,46.848666666667,-121.7585,0.25,0.9,ml,22,69,0.02183,0.06,uw,uw62144842,2025-07-17T15:04:37.810Z,"23 km ENE of Ashford, Washington",earthquake,0.14,0.44,0.18054737876098,14,reviewed,uw,uw
-2025-07-17T12:06:49.660Z,38.3998,-117.9813,9.4,1.4,ml,16,50.66,0.201,0.1653,nn,nn00900763,2025-07-18T02:06:16.702Z,"11 km E of Mina, Nevada",earthquake,,2,0.25,11,reviewed,nn,nn
-2025-07-17T12:02:37.410Z,54.754166666667,-164.14566666667,4.52,1.19,ml,6,187,0.02086,0.17,av,av93672301,2025-07-17T17:24:17.700Z,"48 km WSW of False Pass, Alaska",earthquake,0.6,0.8,0.25169982226598,6,reviewed,av,av
