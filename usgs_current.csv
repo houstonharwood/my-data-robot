@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-23T18:54:01.200Z,37.877334594727,-122.25499725342,8.8199996948242,1.34,md,14,73,0.004833,0.03,nc,nc75214057,2025-07-23T18:55:38.706Z,"2 km E of Berkeley, CA",earthquake,0.25,0.529999971,0.29,9,automatic,nc,nc
+2025-07-23T18:50:17.130Z,38.838165283203,-122.79750061035,1.4299999475479,0.27,md,7,124,0.005594,0.01,nc,nc75214052,2025-07-23T18:51:53.791Z,"7 km WNW of Cobb, CA",earthquake,0.49,1.23000002,0.17,8,automatic,nc,nc
+2025-07-23T18:43:40.330Z,35.061,-118.342,-0.98,1.02,ml,24,44,0.07024,0.18,ci,ci41030151,2025-07-23T18:47:33.138Z,"12 km SE of Tehachapi, CA",earthquake,0.29,0.7,0.14,18,automatic,ci,ci
 2025-07-23T18:36:22.190Z,32.444,-115.1581667,12.3,2,ml,23,69,0.04177,0.28,ci,ci41030135,2025-07-23T18:40:05.070Z,"10 km NNE of Delta, B.C., MX",earthquake,0.39,0.81,0.247,24,automatic,ci,ci
 2025-07-23T18:09:53.429Z,61.9263,-150.0616,30.8,1.4,ml,,,,0.58,ak,ak0259doen72,2025-07-23T18:12:20.622Z,"19 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-23T18:03:52.169Z,61.7788,-149.9998,35.7,1.4,ml,,,,0.74,ak,ak0259dodcsw,2025-07-23T18:06:09.326Z,"4 km NNE of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
@@ -219,6 +222,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-22T20:08:28.338Z,31.677,-104.403,6.3049,2,ml,24,86,0,0.1,tx,tx2025oiirvg,2025-07-22T20:37:38.394Z,"55 km S of Whites City, New Mexico",earthquake,0.70504908477547,0.61503377844241,0.2,30,reviewed,tx,tx
 2025-07-22T20:04:41.298Z,-8.9304,106.0263,10,4.9,mww,109,50,1.546,0.93,us,us6000qu8a,2025-07-22T20:29:30.040Z,"222 km SSW of Pelabuhanratu, Indonesia",earthquake,4.61,1.809,0.089,12,reviewed,us,us
 2025-07-22T19:48:45.550Z,38.79016494751,-122.75066375732,1.1499999761581,1.1,md,14,98,0.01261,0.04,nc,nc75213647,2025-07-22T20:22:17.716Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.5,0.15,13,automatic,nc,nc
+2025-07-22T19:47:13.670Z,61.343666666667,-152.3225,1.19,-0.5,ml,11,138,0.0882,0.16,av,av93683511,2025-07-23T18:59:32.790Z,"70 km WNW of Beluga, Alaska",earthquake,0.33,1.16,0.14094988828418,10,reviewed,av,av
 2025-07-22T19:47:04.920Z,35.3481667,-117.8053333,8.3,1.75,ml,44,36,0.0871,0.13,ci,ci41028967,2025-07-23T13:47:48.980Z,"16 km W of Johannesburg, CA",earthquake,0.13,0.42,0.098,25,reviewed,ci,ci
 2025-07-22T19:37:29.600Z,44.2825,-114.832,4.11,1.25,ml,10,79,0.1347,0.16,mb,mb90103103,2025-07-22T21:49:20.220Z,"11 km NE of Stanley, Idaho",earthquake,0.46,9.35,0.27923614835868,9,reviewed,mb,mb
 2025-07-22T19:36:12.980Z,38.838165283203,-122.82583618164,0.87000000476837,0.59,md,8,92,0.007549,0.01,nc,nc75213642,2025-07-22T19:37:47.846Z,"9 km NNW of The Geysers, CA",earthquake,0.83,1.79999995,0.35,8,automatic,nc,nc
@@ -228,7 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-22T19:08:06.860Z,19.157667160034,-155.49049377441,29.540000915527,1.85,ml,48,130,0.02692,0.129999995,hv,hv74732212,2025-07-22T19:12:14.020Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.55,0.689999998,0.16,3,automatic,hv,hv
 2025-07-22T19:01:41.180Z,62.8941,-150.7792,105.6,2.1,ml,,,,0.3,ak,ak0259c1ezmu,2025-07-22T19:03:42.920Z,"44 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-22T19:00:04.560Z,46.0155,-112.45983333333,-2,1.61,ml,10,109,0.06581,0.13,mb,mb90103138,2025-07-22T22:06:59.900Z,"5 km ENE of Butte, Montana",quarry blast,0.48,31.61,0.33037042211882,18,reviewed,mb,mb
-2025-07-22T18:59:28.350Z,61.4725,-152.02983333333,2.41,0.38,ml,11,131,0.09703,0.2,av,av93683436,2025-07-23T18:40:47.420Z,"62 km NW of Beluga, Alaska",earthquake,0.53,0.71,0.21111110547862,10,reviewed,av,av
-2025-07-22T18:58:19.670Z,46.870666666667,-121.748,-0.32,0.25,ml,19,93,0.01077,0.06,uw,uw62156746,2025-07-22T19:38:53.700Z,"24 km ENE of Ashford, Washington",earthquake,0.2,0.58,0.12447568051278,7,reviewed,uw,uw
-2025-07-22T18:57:43.260Z,35.839668273926,-120.5761642456,8.7299995422363,0.93,md,13,206,0.04208,0.03,nc,nc75213632,2025-07-22T20:06:32.545Z,"15 km ENE of San Miguel, CA",earthquake,0.57,0.920000017,0.07,4,automatic,nc,nc
-2025-07-22T18:47:39.010Z,35.0476667,-118.3256667,-0.95,1.48,ml,36,41,0.05841,0.19,ci,ci41028903,2025-07-22T21:17:14.229Z,"14 km W of Mojave, CA",quarry blast,0.29,31.61,0.185,38,reviewed,ci,ci
