@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-25T11:42:45.180Z,33.4838333,-116.5553333,10.52,0.7,ml,33,49,0.04064,0.17,ci,ci41031783,2025-07-25T11:46:59.473Z,"14 km SE of Anza, CA",earthquake,0.19,0.33,0.176,21,automatic,ci,ci
+2025-07-25T11:41:33.550Z,35.3068333,-118.586,4.02,1.34,ml,39,46,0.1131,0.22,ci,ci41031775,2025-07-25T11:45:00.464Z,"23 km NNW of Tehachapi, CA",earthquake,0.22,0.86,0.207,27,automatic,ci,ci
+2025-07-25T11:35:57.630Z,35.3178333,-117.807,7.4,0.79,ml,29,85,0.05948,0.17,ci,ci41031767,2025-07-25T11:40:12.303Z,"17 km WSW of Johannesburg, CA",earthquake,0.21,0.57,0.083,12,automatic,ci,ci
 2025-07-25T11:31:12.781Z,61.3029,-152.4472,0,1.9,ml,,,,0.84,ak,ak0259gvfxke,2025-07-25T11:33:06.349Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-25T11:30:17.670Z,35.8733333,-117.7185,10.03,0.48,ml,16,69,0.07482,0.1,ci,ci41031759,2025-07-25T11:33:47.240Z,"18 km ESE of Little Lake, CA",earthquake,0.18,0.4,0.089,7,automatic,ci,ci
+2025-07-25T11:22:02.591Z,-55.3106,146.459,10,6.2,mww,66,59,7.244,1.11,us,us6000qv1b,2025-07-25T11:47:13.819Z,"west of Macquarie Island",earthquake,10.02,1.858,0.052,35,reviewed,us,us
 2025-07-25T11:16:31.960Z,38.841999053955,-122.75583648682,1.789999961853,0.87,md,9,191,0.01592,0.05,nc,nc75214882,2025-07-25T11:18:07.031Z,"4 km NW of Cobb, CA",earthquake,0.64,0.639999986,0.35,9,automatic,nc,nc
 2025-07-25T11:13:01.488Z,52.7381,160.5338,10,5.2,mb,106,106,1.177,0.96,us,us6000qv1a,2025-07-25T11:31:01.040Z,"133 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.28,1.858,0.027,470,reviewed,us,us
-2025-07-25T11:08:49.495Z,59.6548,-151.6166,62,3.7,ml,,,,0.38,ak,ak0259gvb2cb,2025-07-25T11:36:40.489Z,"4 km WNW of Homer, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-25T11:08:50.199Z,59.6739,-151.6344,59.7,3.6,ml,,,,0.55,ak,ak0259gvb2cb,2025-07-25T11:41:06.803Z,"4 km W of Diamond Ridge, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-07-25T10:56:45.960Z,35.867,-119.035,17.81,1.07,ml,17,122,0.04804,0.2,ci,ci41031751,2025-07-25T11:00:12.806Z,"22 km ENE of Delano, CA",earthquake,0.47,0.73,0.282,8,automatic,ci,ci
 2025-07-25T10:56:19.300Z,32.106,-101.923,3.6726,2,ml,78,33,0.1,0.5,tx,tx2025ondpoi,2025-07-25T11:01:17.795Z,"12 km WSW of Stanton, Texas",earthquake,0,0.62431621551514,0.1,49,automatic,tx,tx
 2025-07-25T10:56:19.031Z,32.105,-101.928,4.5984,2,ml,37,62,0.1,0.3,tx,tx2025ondpwc,2025-07-25T11:00:16.099Z,"13 km WSW of Stanton, Texas",earthquake,0,0.92039477825165,0.1,29,automatic,tx,tx
@@ -238,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-24T12:14:43.566Z,31.895,-102.423,2.7832,1,ml,14,95,0.1,0.2,tx,tx2025olkmoe,2025-07-25T00:02:33.556Z,"7 km NW of Odessa, Texas",earthquake,0.89523459790357,1.580841162304,0.1,13,reviewed,tx,tx
 2025-07-24T12:03:31.568Z,32.359,-102.177,7.0557,1.1,ml,35,69,0,0.2,tx,tx2025olkczp,2025-07-24T12:38:37.509Z,"33 km E of McKinney Acres, Texas",earthquake,0.40475971686114,0.46253567659133,0.2,14,reviewed,tx,tx
 2025-07-24T12:02:48.844Z,-60.9349,-38.6482,10,4.9,mb,25,131,6.77,0.71,us,us6000qukx,2025-07-24T12:35:08.040Z,"Scotia Sea",earthquake,8.8,1.913,0.114,24,reviewed,us,us
-2025-07-24T11:41:58.000Z,38.760833740234,-122.73433685303,1.7799999713898,1.59,md,26,63,0.007447,0.04,nc,nc75214367,2025-07-24T12:12:19.115Z,"3 km SE of The Geysers, CA",earthquake,0.24,0.340000004,0.1,27,automatic,nc,nc
-2025-07-24T11:39:19.073Z,52.2686,160.3137,10,4.7,mb,59,121,1.265,1.18,us,us6000qukw,2025-07-24T12:00:25.040Z,"144 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.36,1.73,0.055,101,reviewed,us,us
