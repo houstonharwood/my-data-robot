@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-29T14:49:38.002Z,28.843,-98.977,5,1.8,ml,6,145,0.2,0.2,tx,tx2025ouugos,2025-07-29T14:52:37.017Z,"12 km ESE of Pearsall, Texas",earthquake,0,,0.1,6,automatic,tx,tx
+2025-07-29T14:48:22.854Z,40.3711,-119.4012,4.2,1.7,ml,10,211.44,0.323,0.1825,nn,nn00901396,2025-07-29T14:51:13.431Z,"23 km SSW of Empire, Nevada",earthquake,,1.3,0.18,5,automatic,nn,nn
 2025-07-29T14:32:38.700Z,40.398,-119.4702,13.4,2.3,ml,16,215.87,0.303,0.4295,nn,nn00901394,2025-07-29T14:35:36.814Z,"22 km SSW of Empire, Nevada",earthquake,,0.8,0.17,9,automatic,nn,nn
 2025-07-29T14:22:46.377Z,60.9825,-150.4981,43.6,1.3,ml,,,,0.19,ak,ak0259njbri5,2025-07-29T14:24:26.823Z,"12 km ENE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-07-29T14:19:30.160Z,32.9351667,-116.471,8.27,0.98,ml,41,51,0.06254,0.22,ci,ci41035463,2025-07-29T14:23:02.703Z,"14 km NNE of Pine Valley, CA",earthquake,0.22,0.71,0.163,17,automatic,ci,ci
@@ -111,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T02:28:22.110Z,34.6818333,-116.3056667,2.13,1.38,ml,28,50,0.1271,0.16,ci,ci41035103,2025-07-29T02:31:50.037Z,"14 km WSW of Ludlow, CA",earthquake,0.15,0.37,0.144,27,automatic,ci,ci
 2025-07-29T02:24:58.760Z,33.8815,-115.9933333,9.19,0.89,ml,27,69,0.1189,0.14,ci,ci41035095,2025-07-29T02:28:31.555Z,"27 km NE of Indio, CA",earthquake,0.18,0.6,0.206,10,automatic,ci,ci
 2025-07-29T02:21:27.534Z,-19.4644,-176.3783,292.468,4.5,mb,43,132,5.019,0.63,us,us6000qvv3,2025-07-29T02:44:26.040Z,"215 km W of Pangai, Tonga",earthquake,9.44,7.83,0.052,109,reviewed,us,us
+2025-07-29T02:13:47.549Z,31.526,-104.024,6.8689,1.2,ml,26,61,0,0.1,tx,tx2025otvfbi,2025-07-29T14:55:01.003Z,"32 km NW of Toyah, Texas",earthquake,0.71505176092826,0.58003225883171,0.2,26,reviewed,tx,tx
 2025-07-29T02:11:42.788Z,59.8455,-151.1141,34.6,2,ml,,,,0.52,ak,ak0259nc473a,2025-07-29T02:13:20.922Z,"8 km W of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-29T01:43:03.516Z,-31.7593,-69.7057,117.454,4.6,mb,40,60,0.908,0.88,us,us6000qvuz,2025-07-29T02:19:32.040Z,"54 km SSW of Calingasta, Argentina",earthquake,5.7,7.154,0.125,19,reviewed,us,us
 2025-07-29T01:38:41.040Z,46.979166666667,-114.07333333333,15.63,0.23,ml,13,92,0.08537,0.14,mb,mb90104143,2025-07-29T13:28:34.980Z,"4 km NE of Wye, Montana",earthquake,0.51,1.17,0.4516264534462,2,reviewed,mb,mb
@@ -256,7 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T15:11:21.150Z,59.359666666667,-153.437,-0.67,-0.44,ml,5,136,0.004921,0.14,av,av93692946,2025-07-29T01:57:37.100Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.2,0.24,0.23053831319163,5,reviewed,av,av
 2025-07-28T15:05:05.838Z,-18.3157,167.7527,10,4.9,mb,37,132,2.901,0.84,us,us6000qvms,2025-07-28T20:52:33.765Z,"87 km SW of Port-Vila, Vanuatu",earthquake,6.17,1.906,0.104,29,reviewed,us,us
 2025-07-28T15:00:50.180Z,35.0895,-119.0471667,10.44,1.76,ml,50,76,0.1818,0.24,ci,ci41034319,2025-07-28T15:04:20.114Z,"19 km NNW of Grapevine, CA",earthquake,0.22,0.6,0.212,26,automatic,ci,ci
-2025-07-28T14:56:24.920Z,37.31816482544,-121.68383026123,6.5900001525879,2.03,md,29,120,0.1613,0.06,nc,nc75216192,2025-07-28T15:37:19.550Z,"14 km SE of Alum Rock, CA",earthquake,0.24,0.74000001,0.17,19,automatic,nc,nc
-2025-07-28T14:55:05.560Z,61.310333333333,-152.49266666667,3.08,-0.06,ml,10,118,0.04894,0.1,av,av93692936,2025-07-29T01:50:20.950Z,"77 km WNW of Tyonek, Alaska",earthquake,0.42,0.45,0.26858916155333,12,reviewed,av,av
-2025-07-28T14:54:57.300Z,41.2532,-126.1607,10,2.7,ml,26,262,1.615,0.55,us,us6000qvml,2025-07-28T15:12:42.040Z,"170 km W of Big Lagoon, California",earthquake,4.13,2.016,0.033,118,reviewed,us,us
-2025-07-28T14:50:14.430Z,19.103333333333,-66.476666666667,31.08,3.08,md,16,253,0.6249,0.21,pr,pr71490853,2025-07-28T15:12:11.410Z,"71 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.86,5.88,0.036513305518523,10,reviewed,pr,pr
