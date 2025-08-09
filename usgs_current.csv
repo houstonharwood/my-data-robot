@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-09T08:21:28.650Z,33.9483337,-118.3388367,15.42,1.52,ml,16,177,0.004171,0.29,ci,ci41257096,2025-08-09T08:23:35.121Z,"1 km SSE of Inglewood, CA",earthquake,1.95,1.05,0.364,29,automatic,ci,ci
+2025-08-09T08:39:36.214Z,64.8327,-147.7514,6.5,0.8,ml,,,,0.87,ak,ak025a5mrlp1,2025-08-09T08:41:12.111Z,"1 km WSW of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-09T08:37:30.905Z,64.8369,-147.7657,0.3,1.7,ml,,,,0.84,ak,ak025a5mr5uq,2025-08-09T08:39:35.786Z,"2 km W of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-09T08:37:03.617Z,28.505,-99.013,4.2094,1.7,ml,7,156,0.4,0.3,tx,tx2025pomxew,2025-08-09T08:42:41.466Z,"19 km E of Gardendale, Texas",earthquake,0,5.0039587020874,0.4,7,automatic,tx,tx
+2025-08-09T08:21:29.670Z,33.9931667,-118.3518333,9.67,1.63,ml,48,38,0.02284,0.24,ci,ci41257096,2025-08-09T08:25:17.137Z,"0 km SW of View Park-Windsor Hills, CA",earthquake,0.27,0.51,0.218,27,automatic,ci,ci
 2025-08-09T08:17:29.174Z,59.2843,-153.5217,97,1.2,ml,,,,0.27,ak,ak025a5mmved,2025-08-09T08:19:19.027Z,"62 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-09T08:14:38.324Z,62.6566,-148.8526,51.7,1,ml,,,,0.61,ak,ak025a5mm8yg,2025-08-09T08:16:58.439Z,"68 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-09T08:01:39.815Z,51.6323,158.2418,64.156,5.2,mww,124,115,1.416,0.66,us,us6000qzfl,2025-08-09T08:18:03.040Z,"121 km E of Ozernovskiy, Russia",earthquake,4.77,6.291,0.098,10,reviewed,us,us
@@ -65,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T00:27:40.110Z,38.823665618896,-122.7996673584,3.0299999713898,0.35,md,8,133,0.008133,0.01,nc,nc75220922,2025-08-09T00:29:17.736Z,"6 km NNW of The Geysers, CA",earthquake,0.62,1.61000001,0.16,8,automatic,nc,nc
 2025-08-09T00:26:15.250Z,34.1053333,-117.4878333,3.67,1.37,ml,63,45,0.04112,0.22,ci,ci41256912,2025-08-09T00:37:02.850Z,"3 km WNW of Fontana, CA",earthquake,0.19,0.44,0.201,27,automatic,ci,ci
 2025-08-09T00:25:48.640Z,54.5098,-160.1,20.1,2.1,ml,,,,0.67,ak,ak025a5hx9zs,2025-08-09T06:24:35.409Z,"95 km SSE of Sand Point, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2025-08-09T00:12:56.150Z,37.175833333333,-121.57283333333,3.77,0.94,md,20,70,0.04457,0.07,nc,nc75220917,2025-08-09T08:33:31.344Z,"9 km ENE of Morgan Hill, CA",earthquake,0.26,0.38,0.279,17,reviewed,nc,nc
 2025-08-09T00:09:46.500Z,54.763,-156.8312,0,3.3,ml,,,,0.76,ak,ak025a5htq62,2025-08-09T00:12:22.583Z,"194 km SE of Perryville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-09T00:02:25.200Z,35.6881667,-117.5305,6.98,2.31,ml,43,50,0.08994,0.15,ci,ci41256880,2025-08-09T00:13:34.470Z,"14 km SW of Searles Valley, CA",earthquake,0.14,0.46,0.172,24,reviewed,ci,ci
 2025-08-08T23:54:14.926Z,62.3336,-149.0886,44.4,2.3,ml,,,,0.79,ak,ak025a488xck,2025-08-08T23:55:54.316Z,"44 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -253,7 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T08:51:18.780Z,33.1155,-116.4551667,11.91,0.44,ml,24,109,0.04067,0.16,ci,ci41256208,2025-08-08T20:23:38.928Z,"14 km ENE of Julian, CA",earthquake,0.32,0.66,0.172,14,reviewed,ci,ci
 2025-08-08T08:46:30.540Z,61.344333333333,-152.3575,-0.55,-0.1,ml,10,140,0.08583,0.08,av,av93707888,2025-08-08T21:50:44.830Z,"72 km WNW of Beluga, Alaska",earthquake,0.21,3.31,0.24619688580538,12,reviewed,av,av
 2025-08-08T08:44:14.682Z,31.655,-104.448,6.3049,1.5,ml,36,88,0,0.2,tx,tx2025pmrkml,2025-08-08T11:15:27.552Z,"58 km S of Whites City, New Mexico",earthquake,0.93539741683542,0.5622544245006,0.2,17,reviewed,tx,tx
-2025-08-08T08:39:38.780Z,61.3325,-152.3765,3.79,-0.2,ml,11,134,0.07369,0.26,av,av93047964,2025-08-08T22:02:23.350Z,"72 km WNW of Beluga, Alaska",earthquake,0.5,0.63,0.18795275324146,10,reviewed,av,av
-2025-08-08T08:39:03.346Z,49.4288,155.2205,85.1,4.8,mb,58,137,3.999,0.52,us,us6000qz28,2025-08-08T09:00:11.040Z,"153 km SSW of Severo-Kuril’sk, Russia",earthquake,10.19,7.287,0.03,332,reviewed,us,us
-2025-08-08T08:36:00.050Z,35.6146667,-117.546,9.35,0.95,ml,30,61,0.1116,0.12,ci,ci41256200,2025-08-08T19:38:35.601Z,"12 km E of Ridgecrest, CA",earthquake,0.17,0.4,0.174,18,reviewed,ci,ci
-2025-08-08T08:31:33.040Z,37.288333892822,-121.66766357422,1.460000038147,2.07,md,33,40,0.02962,0.07,nc,nc75220677,2025-08-08T15:14:06.410Z,"15 km E of Seven Trees, CA",earthquake,0.16,0.449999988,0.08,25,automatic,nc,nc
