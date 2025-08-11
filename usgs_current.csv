@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-11T10:23:26.820Z,38.755165100098,-122.72533416748,2.1900000572205,1.8,md,40,47,0.006429,0.06,nc,nc75221697,2025-08-11T10:25:00.828Z,"4 km WSW of Anderson Springs, CA",earthquake,0.24,0.340000004,0.18,38,automatic,nc,nc
+2025-08-11T10:30:30.091Z,61.5666,-146.4366,30.6,2.3,ml,,,,0.41,ak,ak025a8yz7z5,2025-08-11T10:31:53.755Z,"48 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-11T10:23:26.820Z,38.755165100098,-122.72533416748,2.1900000572205,1.8,md,40,47,0.006429,0.06,nc,nc75221697,2025-08-11T10:26:47.230Z,"4 km WSW of Anderson Springs, CA",earthquake,0.24,0.340000004,0.18,38,automatic,nc,nc
 2025-08-11T10:17:34.655Z,36.469,-116.5628,0,1,ml,23,102.88,0.139,0.2477,nn,nn00902404,2025-08-11T10:20:18.377Z,"26 km E of Furnace Creek, California",earthquake,,10.2,0.25,18,automatic,nn,nn
 2025-08-11T10:14:44.680Z,38.803665161133,-122.78050231934,3.1800000667572,0.27,md,9,83,0.009581,0.01,nc,nc75221692,2025-08-11T10:16:20.511Z,"4 km NNW of The Geysers, CA",earthquake,0.52,1.36000001,0.04,10,automatic,nc,nc
 2025-08-11T10:14:28.857Z,36.466,-116.5568,2.5,0.8,ml,23,104.62,0.145,0.2078,nn,nn00902402,2025-08-11T10:16:38.292Z,"26 km E of Furnace Creek, California",earthquake,,1.3,0.33,17,automatic,nn,nn
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T22:07:29.270Z,38.80916595459,-122.81966400147,3.6400001049042,0.76,md,6,150,0.007439,0.01,nc,nc75221517,2025-08-10T22:09:07.917Z,"7 km NW of The Geysers, CA",earthquake,1.28,1.03999996,0.08,9,automatic,nc,nc
 2025-08-10T22:02:41.960Z,32.41,-102.068,5.7526,1.1,mlv,21,104,0,0.5,tx,tx2025prjiha,2025-08-10T23:18:11.383Z,"35 km WSW of Ackerly, Texas",earthquake,0,1.4422560930252,0.3,15,automatic,tx,tx
 2025-08-10T21:49:45.028Z,13.5297,-92.4021,10,4.5,mb,38,203,1.312,0.92,us,us6000qzpn,2025-08-11T01:34:03.040Z,"99 km SSW of Champerico, Guatemala",earthquake,7.81,1.974,0.041,177,reviewed,us,us
-2025-08-10T21:19:28.238Z,31.611,-104.097,4.1736,1.6,ml,26,62,0,0.3,tx,tx2025prhwql,2025-08-10T21:22:43.560Z,"43 km NW of Toyah, Texas",earthquake,0,1.0275075435638,0.1,19,automatic,tx,tx
+2025-08-10T21:19:28.159Z,31.611,-104.096,1.9086,1.5,ml,34,63,0,0.2,tx,tx2025prhwql,2025-08-11T10:26:34.483Z,"43 km NW of Toyah, Texas",earthquake,0.22813546983518,0.4141336255097,0.2,24,reviewed,tx,tx
 2025-08-10T20:58:31.709Z,60.8332,-152.4846,127.1,1.7,ml,,,,0.44,ak,ak025a7hk7pe,2025-08-10T21:01:55.636Z,"67 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-10T20:41:47.000Z,37.324666666667,-122.2225,10.6,0.51,md,12,117,0.04178,0.07,nc,nc75221502,2025-08-11T06:53:51.403Z,"7 km S of Portola Valley, CA",earthquake,0.41,0.49,0.406,8,reviewed,nc,nc
 2025-08-10T20:37:50.211Z,13.6256,-92.3569,10,4.7,mb,51,163,1.21,1,us,us6000qzpg,2025-08-10T21:03:53.040Z,"88 km SSW of Champerico, Guatemala",earthquake,7.62,1.929,0.032,295,reviewed,us,us
@@ -175,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T11:11:41.890Z,35.6488333,-117.4718333,8.09,0.56,ml,20,75,0.04242,0.14,ci,ci41257824,2025-08-10T11:15:10.000Z,"14 km SSW of Searles Valley, CA",earthquake,0.29,0.66,0.173,7,automatic,ci,ci
 2025-08-10T10:53:40.710Z,47.355166666667,-122.412,17.23,1.07,ml,31,50,0.05663,0.14,uw,uw62168781,2025-08-10T21:04:11.000Z,"4 km NNE of Dash Point, Washington",earthquake,0.29,0.72,0.14647936405114,14,reviewed,uw,uw
 2025-08-10T10:47:37.800Z,52.5198,160.9472,10,4.9,mb,94,109,1.484,0.89,us,us6000qzln,2025-08-10T11:05:33.040Z,"167 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,6.38,1.867,0.024,534,reviewed,us,us
-2025-08-10T10:44:00.290Z,33.8056667,-116.1983333,6,0.65,ml,33,75,0.02124,0.19,ci,ci41257816,2025-08-10T10:47:54.925Z,"10 km N of Indio, CA",earthquake,0.28,0.69,0.084,10,automatic,ci,ci
