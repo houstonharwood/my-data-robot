@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T19:06:48.449Z,50.1894,158.0308,10,4.9,mb,50,181,2.864,0.79,us,us6000r06h,2025-08-12T20:04:52.040Z,"145 km ESE of Severo-Kuril’sk, Russia",earthquake,10.95,1.954,0.068,68,reviewed,us,us
 2025-08-12T19:02:45.788Z,50.9475,157.0047,74.99,4.9,mb,91,133,2.314,0.47,us,us6000r06d,2025-08-12T19:42:56.040Z,"68 km ENE of Severo-Kuril’sk, Russia",earthquake,10.48,7.182,0.031,320,reviewed,us,us
 2025-08-12T18:55:37.090Z,40.216333333333,-124.12666666667,13.92,1.18,md,23,82,0.03073,0.09,nc,nc75222367,2025-08-12T22:24:37.066Z,"18 km SE of Petrolia, CA",earthquake,0.26,0.35,0.231,9,reviewed,nc,nc
-2025-08-12T18:53:40.640Z,33.2436667,-118.0345,12.55,1.76,ml,20,125,0.2674,0.25,ci,ci41259352,2025-08-12T18:57:15.038Z,"29 km ESE of Avalon, CA",earthquake,0.59,4.61,0.294,33,automatic,ci,ci
+2025-08-12T18:53:40.370Z,33.231,-118.0231667,11.93,1.59,ml,28,128,0.2807,0.23,ci,ci41259352,2025-08-12T23:48:51.204Z,"31 km ESE of Avalon, CA",earthquake,0.44,2.35,0.206,20,reviewed,ci,ci
 2025-08-12T18:42:28.440Z,44.807333333333,-111.52616666667,11.92,0.63,ml,10,105,0.0254,0.18,mb,mb90107008,2025-08-12T19:47:11.800Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.51,0.67,0.18512390207088,6,reviewed,mb,mb
 2025-08-12T18:39:37.310Z,38.803001403809,-122.81416320801,2.8900001049042,0.91,md,15,68,0.01311,0.02,nc,nc75222362,2025-08-12T18:41:15.269Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.75,0.27,15,automatic,nc,nc
 2025-08-12T18:39:06.794Z,63.077,-150.4787,109.9,1.6,ml,,,,0.2,ak,ak025aarbwyf,2025-08-12T18:40:52.301Z,"66 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -190,6 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T06:33:10.584Z,59.317,-151.8876,75.4,1.6,ml,,,,0.68,ak,ak025aak5foy,2025-08-12T06:35:21.209Z,"4 km SSE of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-12T06:31:03.708Z,31.675,-104.371,6.0999,2.2,ml,36,72,0,0.2,tx,tx2025ptvxgc,2025-08-12T06:57:20.143Z,"55 km S of Whites City, New Mexico",earthquake,0.78051738195907,0.58294103237309,0.2,23,reviewed,tx,tx
 2025-08-12T06:30:51.740Z,35.7836667,-117.676,8.31,0.44,ml,13,93,0.07138,0.14,ci,ci41258976,2025-08-12T18:18:07.881Z,"18 km N of Ridgecrest, CA",earthquake,0.26,0.69,0.183,9,reviewed,ci,ci
+2025-08-12T06:29:56.940Z,61.984,-144.08216666667,9.23,0.05,ml,5,186,0.0714,0.2,av,av93048164,2025-08-12T23:44:50.110Z,"54 km ENE of Kenny Lake, Alaska",earthquake,0.97,0.58,0.38078317089769,5,reviewed,av,av
 2025-08-12T06:22:48.620Z,18.95,-67.464833333333,11.35,3.04,md,11,236,0.5854,0.2,pr,pr71492543,2025-08-12T06:42:12.220Z,"63 km NW of San Antonio, Puerto Rico",earthquake,1.47,2.36,0.083277035313065,8,reviewed,pr,pr
 2025-08-12T06:21:15.410Z,40.2311668396,-121.14766693115,-1,2.68,md,31,52,0.1877,0.23,nc,nc75222147,2025-08-12T06:42:17.864Z,"3 km NNE of Prattville, CA",earthquake,0.43,10.1099997,0.1,29,automatic,nc,nc
 2025-08-12T06:11:34.450Z,60.016,-153.0585,4.23,-0.7,ml,5,98,0.02009,0.19,av,av93713043,2025-08-12T23:19:52.570Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.99,1.8,0.20230148813151,5,reviewed,av,av
@@ -272,5 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T23:56:01.680Z,31.584,-104.242,7.3303,2.2,ml,15,75,0.1,0.2,tx,tx2025ptiuum,2025-08-12T00:20:13.738Z,"52 km NW of Toyah, Texas",earthquake,1.1114433055602,1.4274001075723,0.1,7,reviewed,tx,tx
 2025-08-11T23:55:28.303Z,57.6996,-155.137,66.3,1.2,ml,,,,0.14,ak,ak025a96v7lq,2025-08-11T23:56:51.587Z,"43 km WNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-11T23:50:30.270Z,33.28,-116.2768333,3.56,1.66,ml,64,29,0.08884,0.21,ci,ci41258856,2025-08-12T17:00:00.120Z,"10 km ENE of Borrego Springs, CA",earthquake,0.16,0.63,0.121,61,reviewed,ci,ci
-2025-08-11T23:48:48.050Z,46.847833333333,-121.763,-0.54,0.73,ml,13,67,0.02395,0.04,uw,uw62169641,2025-08-12T05:12:55.460Z,"22 km ENE of Ashford, Washington",earthquake,0.26,1.03,0.020329753134628,3,reviewed,uw,uw
-2025-08-11T23:45:41.721Z,51.1692,160.8654,10,4.5,mb,31,131,2.305,0.41,us,us6000qzzz,2025-08-12T03:12:20.040Z,"258 km SE of Vilyuchinsk, Russia",earthquake,8.71,1.916,0.067,66,reviewed,us,us
