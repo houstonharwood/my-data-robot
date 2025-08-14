@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-14T22:54:52.010Z,38.818000793457,-122.81199645996,2.7400000095367,0.89,md,12,109,0.005592,0.01,nc,nc75223872,2025-08-14T22:56:28.552Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.709999979,0.33,14,automatic,nc,nc
 2025-08-14T22:42:37.795Z,28.735,-98.861,10.4878,2.2,ml,9,178,0.2,0.4,tx,tx2025pytofm,2025-08-14T22:46:20.833Z,"20 km SW of Charlotte, Texas",earthquake,0,10.822651863098,0.1,7,automatic,tx,tx
 2025-08-14T22:35:24.650Z,35.6731667,-117.5476667,8.32,0.96,ml,26,48,0.1013,0.18,ci,ci41261016,2025-08-14T22:38:56.182Z,"13 km ENE of Ridgecrest, CA",earthquake,0.25,0.94,0.224,15,automatic,ci,ci
 2025-08-14T22:19:05.962Z,62.4658,-150.0787,25.5,1.8,ml,,,,0.74,ak,ak025ae4o1z8,2025-08-14T22:21:29.261Z,"2 km NNE of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -24,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T20:02:15.558Z,50.1733,158.6846,10,4.5,mb,45,170,2.854,0.8,us,us6000r0u0,2025-08-14T20:24:33.040Z,"190 km ESE of Severo-Kuril’sk, Russia",earthquake,5.48,1.954,0.078,48,reviewed,us,us
 2025-08-14T19:55:26.040Z,33.3571667,-116.2763333,10.04,0.78,ml,30,50,0.08185,0.17,ci,ci41260888,2025-08-14T19:59:13.300Z,"14 km NE of Borrego Springs, CA",earthquake,0.21,0.54,0.09,9,automatic,ci,ci
 2025-08-14T19:45:39.392Z,-1.9697,139.0521,10,4.6,mb,38,82,1.068,0.99,us,us6000r0tn,2025-08-14T20:15:26.040Z,"188 km WNW of Abepura, Indonesia",earthquake,6.03,1.871,0.098,31,reviewed,us,us
+2025-08-14T19:45:15.020Z,34.6373333,-117.119,-1.29,1.7,mh,17,63,0.2031,0.15,ci,ci41260880,2025-08-14T22:52:58.553Z,"16 km NNE of Apple Valley, CA",quarry blast,0.35,31.61,,0,reviewed,ci,ci
 2025-08-14T19:41:31.790Z,38.837333679199,-122.82299804688,0.51999998092651,0.99,md,14,82,0.009834,0.02,nc,nc75223822,2025-08-14T19:43:07.855Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.660000026,0.29,13,automatic,nc,nc
 2025-08-14T19:37:07.050Z,38.800498962402,-122.81733703613,2.6500000953674,1.66,md,32,64,0.01247,0.04,nc,nc75223817,2025-08-14T19:40:11.650Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.349999994,0.15,34,automatic,nc,nc
 2025-08-14T19:27:41.150Z,34.0691667,-117.2686667,17.63,1.08,ml,40,29,0.06635,0.15,ci,ci41260848,2025-08-14T22:34:02.465Z,"2 km NNW of Loma Linda, CA",earthquake,0.17,0.42,0.089,15,reviewed,ci,ci
@@ -310,5 +312,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T23:07:43.325Z,31.556,-104.155,6.1511,1.7,ml,34,71,0,0.2,tx,tx2025pwyqzx,2025-08-14T07:26:01.194Z,"43 km NW of Toyah, Texas",earthquake,0.80412469380548,0.53841188986287,0.2,21,reviewed,tx,tx
 2025-08-13T23:06:37.416Z,56.4157,-158.7586,56,2.3,ml,,,,1.09,ak,ak025achnf7h,2025-08-14T17:38:30.624Z,"17 km N of Chignik Lake, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-13T23:05:35.740Z,59.9106,-153.1568,116.7,3.5,ml,,,,0.69,ak,ak025achn778,2025-08-14T02:44:16.525Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2025-08-13T22:57:58.350Z,34.4655,-118.0688333,8.29,0.91,ml,17,47,0.04436,0.1,ci,ci41260368,2025-08-14T14:29:45.329Z,"6 km SE of Vincent, CA",earthquake,0.17,0.38,0.073,5,reviewed,ci,ci
-2025-08-13T22:57:54.280Z,34.273,-117.5296667,7.79,0.36,ml,19,58,0.0697,0.12,ci,ci37551101,2025-08-14T14:43:28.187Z,"3 km WNW of Lytle Creek, CA",earthquake,0.23,0.56,0.132,6,reviewed,ci,ci
