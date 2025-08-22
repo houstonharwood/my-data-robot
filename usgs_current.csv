@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T05:44:32.610Z,32.9656667,-116.394,6.11,0.73,ml,29,44,0.01527,0.16,ci,ci41271568,2025-08-22T05:48:37.512Z,"20 km NE of Pine Valley, CA",earthquake,0.22,0.36,0.19,11,automatic,ci,ci
 2025-08-22T05:40:06.541Z,51.3669,159.5078,24.74,4.6,mb,33,121,1.741,0.97,us,us6000r2za,2025-08-22T06:01:00.040Z,"189 km SSE of Vilyuchinsk, Russia",earthquake,11.48,5.898,0.088,39,reviewed,us,us
 2025-08-22T05:39:13.460Z,38.833667755127,-122.83950042725,12.460000038147,0.82,md,6,230,0.005829,0.05,nc,nc75227032,2025-08-22T05:40:51.803Z,"10 km NW of The Geysers, CA",earthquake,2.35,8.56999969,0.23,6,automatic,nc,nc
-2025-08-22T05:29:42.160Z,18.208,-68.7723,90,3.85,md,15,219,0.4964,0.51,pr,pr2025234000,2025-08-22T05:48:08.644Z,"25 km SW of Boca de Yuma, Dominican Republic",earthquake,4.04,2.61,0.1,10,reviewed,pr,pr
+2025-08-22T05:29:42.160Z,18.208,-68.7723,90,3.85,md,15,219,0.4964,0.51,pr,pr2025234000,2025-08-22T08:51:06.040Z,"25 km SW of Boca de Yuma, Dominican Republic",earthquake,4.04,2.61,0.1,10,reviewed,pr,pr
 2025-08-22T05:18:54.528Z,-60.2038,-62.0055,10,5,mb,41,99,4.684,0.71,us,us6000r2z8,2025-08-22T05:35:18.040Z,"Drake Passage",earthquake,10.63,1.885,0.076,55,reviewed,us,us
 2025-08-22T05:18:22.310Z,33.9675,-116.9466667,17.41,0.68,ml,36,31,0.1261,0.15,ci,ci41271560,2025-08-22T05:21:54.684Z,"5 km NNE of Beaumont, CA",earthquake,0.2,0.53,0.303,19,automatic,ci,ci
 2025-08-22T05:15:55.430Z,33.9683333,-116.9488333,17.31,0.69,ml,32,40,0.1254,0.12,ci,ci41271552,2025-08-22T05:20:06.362Z,"5 km NNE of Beaumont, CA",earthquake,0.17,0.47,0.185,19,automatic,ci,ci
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T02:45:43.500Z,47.131,-123.84366666667,36.56,1.73,ml,13,67,0.09208,0.19,uw,uw62174901,2025-08-22T03:01:33.970Z,"9 km NNW of Aberdeen Gardens, Washington",earthquake,0.67,1.02,0.29195432584272,9,reviewed,uw,uw
 2025-08-22T02:36:42.274Z,36.7631,-116.2524,6.4,0.8,ml,16,54.87,0.048,0.2659,nn,nn00902978,2025-08-22T02:38:49.736Z,"48 km ESE of Beatty, Nevada",earthquake,,1.1,0.24,8,automatic,nn,nn
 2025-08-22T02:26:43.435Z,62.4327,-151.3251,78.4,0.9,ml,,,,0.15,ak,ak025ar13qqf,2025-08-22T02:28:24.983Z,"29 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-08-22T02:16:19.202Z,-60.1859,-61.8206,10.843,7.5,mww,71,67,4.72,1.16,us,us6000r2xq,2025-08-22T07:06:47.441Z,"2025 Southern Drake Passage Earthquake",earthquake,9.55,4.257,0.055,32,reviewed,us,us
+2025-08-22T02:16:19.202Z,-60.1859,-61.8206,10.843,7.5,mww,71,67,4.72,1.16,us,us6000r2xq,2025-08-22T08:53:16.477Z,"2025 Southern Drake Passage Earthquake",earthquake,9.55,4.257,0.055,32,reviewed,us,us
 2025-08-22T02:07:15.990Z,35.3046667,-118.587,5.38,1.74,ml,45,33,0.111,0.2,ci,ci41271496,2025-08-22T02:10:47.948Z,"23 km NNW of Tehachapi, CA",earthquake,0.19,0.62,0.188,27,automatic,ci,ci
 2025-08-22T02:02:24.018Z,31.6507,-93.9605,5,2.6,mb_lg,17,123,0.607,0.92,us,us6000r2xj,2025-08-22T02:21:39.115Z,"14 km SSW of Huxley, Texas",earthquake,5.34,2.006,0.12,18,reviewed,us,us
 2025-08-22T01:57:27.713Z,56.8658,-155.8913,4.2,1.6,ml,,,,0.87,ak,ak025ar0ox43,2025-08-22T01:59:44.386Z,"105 km W of Akhiok, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -124,7 +124,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T19:52:00.620Z,33.4875,-116.4115,4.55,0.66,ml,22,88,0.1595,0.14,ci,ci41271192,2025-08-21T20:07:58.610Z,"22 km SSW of La Quinta, CA",earthquake,0.2,0.57,0.087,16,reviewed,ci,ci
 2025-08-21T19:51:29.880Z,44.806166666667,-111.5245,12.51,1.69,ml,14,80,0.02647,0.14,mb,mb90108403,2025-08-21T21:38:19.810Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.33,0.65,0.25978769698863,24,reviewed,mb,mb
 2025-08-21T19:40:18.148Z,51.1641,159.3815,10,4.9,mb,59,133,1.916,0.65,us,us6000r2u4,2025-08-21T20:06:54.040Z,"204 km ESE of Ozernovskiy, Russia",earthquake,10.73,1.904,0.062,80,reviewed,us,us
-2025-08-21T19:39:57.571Z,31.676,-104.435,4.244,1.5,mlv,19,54,0,0.4,tx,tx2025qljozy,2025-08-22T05:10:18.936Z,"55 km S of Whites City, New Mexico",earthquake,0,1.2564692497253,0.2,14,automatic,tx,tx
 2025-08-21T19:37:58.255Z,31.672,-104.429,6.9571,2.2,ml,23,91,0,0.1,tx,tx2025qljmzd,2025-08-21T21:05:47.323Z,"56 km S of Whites City, New Mexico",earthquake,0.7233483740816,0.49489583022501,0.1,26,reviewed,tx,tx
 2025-08-21T19:26:02.710Z,59.833,-153.28,121.8,1.9,ml,,,,0.3,ak,ak025apnoodr,2025-08-21T19:29:07.691Z,"46 km E of Pedro Bay, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-08-21T19:19:33.600Z,47.108666666667,-123.066,3.78,1.45,ml,14,120,0.07251,0.64,uw,uw62174671,2025-08-21T20:36:02.820Z,"12 km SSE of Shelton, Washington",earthquake,1.35,54.17,0.16915497818665,10,reviewed,uw,uw
@@ -263,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T08:59:07.100Z,19.174833333333,-155.48966666667,31.64,3.34,ml,59,95,0.03243,0.13,hv,hv74757017,2025-08-21T20:38:35.979Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.44,0.47,0.24440945998967,41,reviewed,hv,hv
 2025-08-21T08:57:21.322Z,-21.5995,-68.217,130.592,4.3,mb,19,68,0.973,0.61,us,us6000r2rc,2025-08-21T17:46:40.378Z,"41 km S of Ollagüe, Chile",earthquake,6.56,8.463,0.147,13,reviewed,us,us
 2025-08-21T08:56:27.400Z,44.803833333333,-110.85633333333,8.15,0.56,ml,15,112,0.1156,0.15,uu,uu80114296,2025-08-21T13:30:17.880Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.43,1.56,0.42908211482877,3,reviewed,uu,uu
-2025-08-21T08:51:46.610Z,38.506333333333,-112.894,2.12,1.41,md,15,64,0.004936,0.09,uu,uu80004563,2025-08-21T23:00:44.300Z,"15 km NE of Milford, Utah",earthquake,0.28,0.42,0.40909574467919,7,reviewed,uu,uu
-2025-08-21T08:44:58.910Z,38.832832336426,-122.80783081055,2.2300000190735,1.65,md,34,35,0.009585,0.03,nc,nc75226642,2025-08-21T08:48:13.090Z,"7 km WNW of Cobb, CA",earthquake,0.16,0.289999992,0.13,35,automatic,nc,nc
