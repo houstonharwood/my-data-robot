@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T08:15:37.320Z,35.834331512451,-121.32150268555,8.1800003051758,1.7,md,19,186,0.09498,0.08,nc,nc75227617,2025-08-23T08:17:12.614Z,"24 km NNW of San Simeon, CA",earthquake,0.5,1.03999996,0.14,14,automatic,nc,nc
 2025-08-23T08:00:43.918Z,69.5981,-144.9861,17.5,3.4,ml,,,,0.52,ak,ak025ass24e5,2025-08-23T17:24:02.259Z,"79 km SW of Kaktovik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-08-23T07:58:32.517Z,51.7265,160.0193,27.278,4.5,mb,20,126,1.547,1.55,us,us6000r3ak,2025-08-23T11:25:44.040Z,"173 km SE of Vilyuchinsk, Russia",earthquake,10.62,6.39,0.121,20,reviewed,us,us
-2025-08-23T07:52:25.290Z,36.0328333,-117.7818333,1.85,1.03,ml,27,51,0.01544,0.18,ci,ci41272264,2025-08-23T07:55:56.158Z,"15 km E of Coso Junction, CA",earthquake,0.19,0.17,0.201,24,automatic,ci,ci
+2025-08-23T07:52:25.260Z,36.034,-117.7796667,2.09,1.13,ml,28,52,0.01461,0.16,ci,ci41272264,2025-08-23T20:21:04.902Z,"15 km E of Coso Junction, CA",earthquake,0.16,0.16,0.226,17,reviewed,ci,ci
 2025-08-23T07:48:12.780Z,63.0042,-150.8095,105.2,1.8,ml,,,,0.4,ak,ak025asrqwn2,2025-08-23T07:50:33.079Z,"56 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-23T07:46:41.831Z,28.258,-98.46,7.4335,1.6,ml,5,155,0.4,0.3,tx,tx2025qodkcv,2025-08-23T07:50:00.216Z,"24 km SSE of Tilden, Texas",earthquake,0,15.825709342957,0.6,5,automatic,tx,tx
 2025-08-23T07:44:54.250Z,33.2271667,-116.7385,11.37,0.87,ml,51,21,0.01912,0.16,ci,ci41272256,2025-08-23T07:50:11.589Z,"3 km SE of Lake Henshaw, CA",earthquake,0.16,0.51,0.19,26,automatic,ci,ci
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T05:21:19.000Z,34.311333333333,-82.128833333333,0.31,2.03,md,11,83,0.1338,0.42,se,se60503968,2025-08-23T15:39:45.668Z,"6 km NNW of Coronaca, South Carolina",earthquake,0.94,4.57,0.044223783079455,8,reviewed,se,se
 2025-08-23T05:05:05.680Z,61.2605,-150.6539,44.2,1.3,ml,,,,0.52,ak,ak025asqat3c,2025-08-23T05:07:48.544Z,"26 km ENE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-23T05:03:39.940Z,38.828998565674,-122.813331604,1.4800000190735,0.71,md,7,190,0.006147,0.02,nc,nc75227577,2025-08-23T05:05:17.013Z,"8 km NNW of The Geysers, CA",earthquake,0.49,0.970000029,0.37,8,automatic,nc,nc
-2025-08-23T04:55:00.250Z,35.9093333,-117.7265,9.38,0.84,ml,26,46,0.07279,0.13,ci,ci41272168,2025-08-23T04:58:27.968Z,"16 km E of Little Lake, CA",earthquake,0.15,0.34,0.207,18,automatic,ci,ci
+2025-08-23T04:55:00.220Z,35.9091667,-117.7251667,9.59,0.86,ml,25,46,0.07196,0.12,ci,ci41272168,2025-08-23T20:11:14.632Z,"17 km E of Little Lake, CA",earthquake,0.16,0.38,0.227,16,reviewed,ci,ci
 2025-08-23T04:49:13.240Z,34.306666666667,-82.108666666667,0.05,1.89,md,10,86,0.1451,0.25,se,se60503978,2025-08-23T13:59:02.246Z,"5 km NNW of Coronaca, South Carolina",earthquake,0.85,4.07,0.048545017001524,9,reviewed,se,se
 2025-08-23T04:41:18.690Z,34.3045,-82.113,1.27,2.54,md,13,85,0.1409,0.3,se,se60503958,2025-08-23T18:46:53.641Z,"5 km NNW of Coronaca, South Carolina",earthquake,0.93,4.57,0.048167139033874,9,reviewed,se,se
 2025-08-23T04:38:55.800Z,31.604,-104.608,2.0364,1.7,ml,22,127,0.1,0.4,tx,tx2025qnxehv,2025-08-23T05:00:27.893Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.4998255968094,0.2,16,automatic,tx,tx
@@ -194,7 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T20:37:38.390Z,38.864166259766,-122.79816436768,8.8100004196167,0.4,md,7,228,0.02183,0.14,nc,nc75227312,2025-08-22T20:39:17.153Z,"8 km NW of Cobb, CA",earthquake,2.91,1.02999997,0.28,8,automatic,nc,nc
 2025-08-22T20:30:23.240Z,35.0001667,-118.8715,15.8,1.14,ml,20,131,0.09561,0.15,ci,ci41271944,2025-08-22T20:34:41.466Z,"8 km NE of Grapevine, CA",earthquake,0.25,0.48,0.205,25,automatic,ci,ci
 2025-08-22T20:28:58.685Z,61.9298,-150.4946,38.5,1.2,ml,,,,0.31,ak,ak025arbu08c,2025-08-22T20:31:09.791Z,"31 km NW of Willow, Alaska",earthquake,,3,,,automatic,ak,ak
-2025-08-22T20:21:46.320Z,38.83716583252,-122.82366943359,0.77999997138977,0.44,md,9,87,0.009338,0.01,nc,nc75227302,2025-08-22T20:23:22.882Z,"9 km NNW of The Geysers, CA",earthquake,0.35,0.860000014,0.24,9,automatic,nc,nc
-2025-08-22T20:19:48.480Z,18.149,-66.1495,14.59,2.83,md,11,71,0.03969,0.21,pr,pr71493353,2025-08-23T02:21:34.926Z,"2 km ENE of Parcelas Nuevas, Puerto Rico",earthquake,0.44,0.67,0.21732969059057,11,reviewed,pr,pr
-2025-08-22T20:18:01.180Z,38.846668243408,-122.83516693115,3,0.77,md,8,199,0.008071,0.02,nc,nc75227297,2025-08-22T20:19:36.674Z,"10 km WNW of Cobb, CA",earthquake,1.15,0.819999993,0.14,8,automatic,nc,nc
-2025-08-22T20:17:37.580Z,38.836666107178,-122.82166290283,0.75,1.05,md,18,75,0.01097,0.01,nc,nc75227292,2025-08-22T20:19:11.900Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.469999999,0.06,19,automatic,nc,nc
