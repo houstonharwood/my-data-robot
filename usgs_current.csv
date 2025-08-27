@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-27T19:25:57.610Z,38.783500671387,-122.74600219727,1.7200000286102,2.3,md,73,41,0.007256,0.08,nc,nc75229492,2025-08-27T19:27:33.081Z,"1 km ENE of The Geysers, CA",earthquake,0.14,0.219999999,0.11,69,automatic,nc,nc
 2025-08-27T19:17:54.882Z,36.9026,-115.4754,2.2,0.8,ml,13,301.72,0.435,0.2354,nn,nn00903237,2025-08-27T19:20:18.634Z,"40 km NNE of Indian Springs, Nevada",earthquake,,5.7,0.18,7,automatic,nn,nn
 2025-08-27T19:13:45.179Z,36.9089,-115.5095,1.4,0.8,ml,17,197.71,0.366,0.2084,nn,nn00903235,2025-08-27T19:15:59.296Z,"40 km NNE of Indian Springs, Nevada",earthquake,,19.5,0.21,13,automatic,nn,nn
 2025-08-27T19:12:37.201Z,63.5076,-148.7019,4.5,1.5,ml,,,,0.79,ak,ak025azkttzc,2025-08-27T19:15:17.688Z,"17 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -11,7 +12,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T17:57:11.640Z,33.378,-116.4456667,18.54,1.86,ml,11,235,0.2435,0.39,ci,ci41276720,2025-08-27T18:01:53.321Z,"15 km NNW of Borrego Springs, CA",earthquake,2.74,1.94,0.244,24,automatic,ci,ci
 2025-08-27T17:56:10.550Z,49.107666666667,-122.14166666667,-0.67,1.19,ml,7,261,0.1156,0.05,uw,uw62177141,2025-08-27T18:24:54.740Z,"9 km NE of Abbotsford, Canada",explosion,1.43,31.61,0.025834520249992,3,reviewed,uw,uw
 2025-08-27T17:51:59.695Z,58.1103,-154.696,81.8,1.5,ml,,,,0.13,ak,ak025azjvdfl,2025-08-27T17:53:10.878Z,"61 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
-2025-08-27T17:51:55.681Z,59.1024,-153.3231,130.3,2.5,ml,,,,0.6,ak,ak025azjvd4g,2025-08-27T17:54:36.818Z,"83 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-27T17:48:03.530Z,63.5112,-150.6974,9.7,2.4,ml,,,,0.58,ak,ak025azjuly9,2025-08-27T18:44:37.195Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-27T17:46:43.840Z,35.628,-98.029,5.18,1.7,ml,89,36,0.1619682163,0.4,ok,ok2025quex,2025-08-27T17:59:23.637Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.21,41,reviewed,ok,ok
 2025-08-27T17:32:20.260Z,35.31416667,-97.93666667,11.52,0.78,ml,28,86,0.07738481446,0.11,ok,ok2025quel,2025-08-27T17:49:13.136Z,"0 km ENE of Minco, Oklahoma",earthquake,,0.5,0.26,13,reviewed,ok,ok
@@ -69,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T11:38:30.320Z,44.81,-111.53133333333,11.47,0.87,ml,14,81,0.02231,0.21,mb,mb90108928,2025-08-27T15:06:52.520Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.43,0.66,0.24333803231813,9,reviewed,mb,mb
 2025-08-27T11:34:38.580Z,38.836833953857,-122.8004989624,1.8099999427795,0.69,md,13,64,0.008085,0.01,nc,nc75229342,2025-08-27T11:36:13.688Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.11000001,0.21,14,automatic,nc,nc
 2025-08-27T11:34:26.830Z,38.837001800537,-122.79866790772,1.9400000572205,1.05,md,20,69,0.006651,0.02,nc,nc75229337,2025-08-27T11:36:03.845Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.550000012,0.06,21,automatic,nc,nc
+2025-08-27T11:11:27.900Z,54.737666666667,-163.88183333333,8.95,0.96,ml,4,151,0.07263,0.29,av,av93736633,2025-08-27T19:26:05.960Z,"32 km WSW of False Pass, Alaska",earthquake,1.46,2.64,0.2124836123963,3,reviewed,av,av
 2025-08-27T11:07:20.420Z,34.2496667,-117.0271667,1.44,1.01,ml,54,26,0.01937,0.18,ci,ci41276384,2025-08-27T18:33:39.511Z,"9 km ENE of Running Springs, CA",earthquake,0.13,0.19,0.119,27,reviewed,ci,ci
 2025-08-27T10:52:58.340Z,39.504333333333,-110.343,-1.71,0.98,md,6,139,0.08132,0.05,uu,uu80004683,2025-08-27T16:04:14.330Z,"6 km SE of Sunnyside, Utah",earthquake,0.48,0.39,0.12979155726804,6,reviewed,uu,uu
 2025-08-27T10:46:45.160Z,46.444833333333,-122.3955,17.93,0.37,ml,9,213,0.1438,0.06,uw,uw62177001,2025-08-27T17:15:05.300Z,"11 km SE of Mossyrock, Washington",earthquake,0.49,0.93,0.17891604099341,6,reviewed,uw,uw
@@ -158,6 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T02:22:59.188Z,31.654,-104.442,5.946,2.7,ml,35,78,0,0.1,tx,tx2025qvborr,2025-08-27T02:35:47.719Z,"58 km S of Whites City, New Mexico",earthquake,1.0958140033955,0.49673193406396,0.1,50,reviewed,tx,tx
 2025-08-27T02:18:32.010Z,38.51,-112.8895,1.59,0.59,md,16,106,0.006609,0.09,uu,uu80004688,2025-08-27T15:10:46.720Z,"16 km NE of Milford, Utah",earthquake,0.29,0.38,0.3419675336555,6,reviewed,uu,uu
 2025-08-27T02:18:00.720Z,38.509333333333,-112.89033333333,1.71,0.74,md,17,65,0.006015,0.09,uu,uu80114781,2025-08-27T15:07:43.490Z,"16 km NE of Milford, Utah",earthquake,0.26,0.35,0.63571009328832,6,reviewed,uu,uu
+2025-08-27T02:12:04.140Z,38.506166666667,-112.88583333333,1.99,0.83,ml,17,57,0.004624,0.13,uu,uu80114776,2025-08-27T19:26:56.350Z,"16 km NE of Milford, Utah",earthquake,0.3,0.5,0.21211339509614,2,reviewed,uu,uu
 2025-08-27T02:04:46.220Z,38.770832061768,-122.72799682617,1.1200000047684,1.05,md,11,68,0.009546,0.03,nc,nc75229217,2025-08-27T02:06:21.289Z,"3 km ESE of The Geysers, CA",earthquake,0.28,0.340000004,0.29,11,automatic,nc,nc
 2025-08-27T01:54:27.039Z,35.6265,-98.0445,7.05,1.42,ml,87,52,0.1502705118,0.18,ok,ok2025qszn,2025-08-27T02:33:35.639Z,"7 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.24,37,reviewed,ok,ok
 2025-08-27T01:39:06.686Z,29.008,-97.909,8.4896,1.6,ml,21,57,0,0.2,tx,tx2025qvacwx,2025-08-27T10:56:13.250Z,"10 km ENE of Falls City, Texas",earthquake,0.64275935845114,0.92371498965476,0.2,12,reviewed,tx,tx
