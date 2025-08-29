@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T16:29:21.285Z,38.3686,142.1629,44.41,5.5,mww,51,100,2.562,0.86,us,us7000qrw3,2025-08-29T18:54:54.662Z,"63 km E of Onagawa Chō, Japan",earthquake,7.74,7.342,0.059,28,reviewed,us,us
 2025-08-29T16:17:24.040Z,33.8063333,-116.9493333,11.74,0.84,ml,31,102,0.01554,0.13,ci,ci41278456,2025-08-29T20:00:55.301Z,"3 km NNE of San Jacinto, CA",earthquake,0.19,0.41,0.106,15,reviewed,ci,ci
 2025-08-29T16:15:19.060Z,19.3713,-65.1461,30,3.57,md,18,264,1.0921,0.39,pr,pr2025241002,2025-08-29T18:37:08.040Z,"116 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.57,24.81,0.18,12,reviewed,pr,pr
+2025-08-29T16:01:33.060Z,38.503333333333,-112.89516666667,2.3,0.89,md,10,73,0.007188,0.06,uu,uu80115201,2025-08-29T20:40:37.610Z,"15 km NE of Milford, Utah",earthquake,0.29,0.47,0.59600844708741,7,reviewed,uu,uu
 2025-08-29T16:00:14.375Z,31.602,-104.098,3.8768,0.9,mlv,11,75,0,0.3,tx,tx2025qzuclb,2025-08-29T17:08:19.976Z,"43 km NW of Toyah, Texas",earthquake,0,1.8227932453156,0.4,9,automatic,tx,tx
 2025-08-29T15:49:28.210Z,33.4733333,-116.507,7.33,0.56,ml,25,57,0.08237,0.15,ci,ci41278432,2025-08-29T19:55:38.062Z,"18 km ESE of Anza, CA",earthquake,0.19,0.71,0.132,13,reviewed,ci,ci
 2025-08-29T15:44:27.880Z,35.3325,-117.8123333,8.45,0.93,ml,20,108,0.07047,0.14,ci,ci41278424,2025-08-29T18:22:47.322Z,"17 km WSW of Johannesburg, CA",earthquake,0.3,0.53,0.126,6,reviewed,ci,ci
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T10:50:21.640Z,34.2685,-116.4481667,8.36,1.04,ml,41,33,0.05896,0.12,ci,ci41278112,2025-08-29T16:47:20.627Z,"17 km N of Yucca Valley, CA",earthquake,0.13,0.31,0.189,27,reviewed,ci,ci
 2025-08-29T10:49:35.300Z,33.531,-116.7375,3.76,0.44,ml,16,60,0.03431,0.14,ci,ci41278104,2025-08-29T16:32:26.794Z,"6 km WSW of Anza, CA",earthquake,0.24,0.46,0.122,9,reviewed,ci,ci
 2025-08-29T10:48:55.123Z,32.757,-100.649,8.0811,1.1,ml,13,80,0.1,0.2,tx,tx2025qzjukv,2025-08-29T12:18:56.216Z,"17 km NE of Hermleigh, Texas",earthquake,0.82707164060731,1.2775039915298,0.1,11,reviewed,tx,tx
-2025-08-29T10:48:22.670Z,34.0368333,-117.2363333,16.42,1.13,ml,66,29,0.07854,0.18,ci,ci41278096,2025-08-29T10:52:11.089Z,"3 km ESE of Loma Linda, CA",earthquake,0.16,0.37,0.217,28,automatic,ci,ci
+2025-08-29T10:48:22.570Z,34.0376667,-117.2361667,16.87,1.08,ml,51,58,0.07789,0.17,ci,ci41278096,2025-08-29T20:43:57.027Z,"3 km ESE of Loma Linda, CA",earthquake,0.2,0.42,0.197,21,reviewed,ci,ci
 2025-08-29T10:45:28.111Z,61.8207,-149.3758,19.3,1.2,ml,,,,0.41,ak,ak025b2qqogb,2025-08-29T10:47:40.693Z,"11 km NW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-29T10:44:00.571Z,36.7732,-116.2508,8.6,-0.3,ml,19,74.37,0.039,0.0719,nn,nn00903382,2025-08-29T14:31:15.863Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.2,4,reviewed,nn,nn
 2025-08-29T10:42:23.560Z,44.576833333333,-112.21733333333,8.27,0.92,ml,17,86,0.1275,0.15,mb,mb90109453,2025-08-29T15:32:52.360Z,"24 km N of Spencer, Idaho",earthquake,0.34,1.66,0.15007691312473,17,reviewed,mb,mb
@@ -287,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T21:08:50.870Z,44.695166666667,-123.242,-0.34,1.24,ml,11,57,0.1184,0.45,uw,uw62177776,2025-08-28T23:34:29.470Z,"3 km NW of Adair Village, Oregon",explosion,0.77,31.61,0.067175310389005,6,reviewed,uw,uw
 2025-08-28T21:04:01.140Z,44.815833333333,-111.53116666667,11.69,0.54,ml,11,113,0.02461,0.23,mb,mb90109248,2025-08-28T22:26:06.350Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.46,0.77,0.11096269232747,6,reviewed,mb,mb
 2025-08-28T20:54:27.280Z,36.1766667,-118.0215,4.32,1.44,ml,26,49,0.1472,0.13,ci,ci41277656,2025-08-28T22:22:31.122Z,"12 km S of Olancha, CA",earthquake,0.2,1.28,0.183,28,reviewed,ci,ci
-2025-08-28T20:43:35.850Z,35.614,-98.04333333,6.73,1.82,ml,63,40,0.1556694523,0.18,ok,ok2025qwgg,2025-08-28T22:35:11.881Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.25,30,reviewed,ok,ok
-2025-08-28T20:43:33.536Z,63.4854,-151.1009,1,2.3,ml,,,,0.73,ak,ak025b1958zt,2025-08-28T20:54:47.024Z,"31 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
