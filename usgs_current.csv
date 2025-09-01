@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-01T15:30:55.520Z,34.0235,-117.587,4.81,1.02,ml,47,38,0.02828,0.18,ci,ci41280736,2025-09-01T15:34:19.211Z,"5 km SE of Ontario, CA",earthquake,0.17,0.4,0.126,27,automatic,ci,ci
 2025-09-01T15:26:58.690Z,38.826831817627,-122.82433319092,1.1399999856949,0.69,md,7,106,0.009142,0.02,nc,nc75231652,2025-09-01T15:28:36.747Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.05999994,0.48,9,automatic,nc,nc
 2025-09-01T15:24:58.470Z,19.169834136963,-155.48466491699,29.5,2.11,ml,49,99,0.0257,0.170000002,hv,hv74766111,2025-09-01T15:28:34.070Z,"3 km S of Pāhala, Hawaii",earthquake,0.59,0.660000026,0.07,4,automatic,hv,hv
 2025-09-01T15:19:33.770Z,33.0655,-115.5566667,11.33,1.27,ml,17,183,0.03878,0.19,ci,ci41280720,2025-09-01T15:22:55.326Z,"7 km ENE of Westmorland, CA",earthquake,0.54,0.49,0.23,19,automatic,ci,ci
@@ -65,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T08:55:35.178Z,39.4228,-120.3001,3.2,0.6,ml,10,161.61,0.073,0.0812,nn,nn00903616,2025-09-01T08:57:42.276Z,"13 km NNE of Soda Springs, California",earthquake,,1.3,0.33,6,automatic,nn,nn
 2025-09-01T08:51:25.570Z,38.798831939697,-122.75199890137,2.4100000858307,0.78,md,10,97,0.006287,0.02,nc,nc75231552,2025-09-01T10:07:17.876Z,"2 km NNE of The Geysers, CA",earthquake,0.37,0.99000001,0.09,11,automatic,nc,nc
 2025-09-01T08:49:24.220Z,34.4341667,-117.8321667,7.88,0.86,ml,35,80,0.02645,0.17,ci,ci41280560,2025-09-01T08:53:06.671Z,"8 km SSW of Llano, CA",earthquake,0.19,0.42,0.14,24,automatic,ci,ci
-2025-09-01T08:30:43.670Z,32.4710007,-115.128334,11.78,2.54,ml,32,65,0.02808,0.31,ci,ci41280552,2025-09-01T08:41:12.610Z,"14 km NNE of Delta, B.C., MX",earthquake,0.42,1.05,0.235,24,automatic,ci,ci
+2025-09-01T08:30:43.670Z,32.4710007,-115.128334,11.78,2.54,ml,32,65,0.02808,0.31,ci,ci41280552,2025-09-01T15:33:30.151Z,"14 km NNE of Delta, B.C., MX",earthquake,0.42,1.05,0.235,24,automatic,ci,ci
 2025-09-01T08:23:01.955Z,37.3648,-117.5495,3.4,1.1,ml,18,187.98,0.239,0.2255,nn,nn00903613,2025-09-01T08:25:43.491Z,"43 km S of Silver Peak, Nevada",earthquake,,9.7,0.32,8,automatic,nn,nn
 2025-09-01T08:21:18.585Z,60.6933,-151.82,71,1.4,ml,,,,0.61,ak,ak025b7o0osy,2025-09-01T08:23:05.148Z,"28 km WNW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-01T08:12:58.020Z,33.5336667,-116.7218333,5.92,0.65,ml,43,27,0.03418,0.17,ci,ci41280544,2025-09-01T08:16:32.919Z,"5 km WSW of Anza, CA",earthquake,0.16,0.37,0.181,19,automatic,ci,ci
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T15:54:27.870Z,38.810001373291,-122.79699707031,3.3399999141693,1.28,md,25,36,0.002424,0.02,nc,nc75231267,2025-08-31T15:56:04.701Z,"5 km NNW of The Geysers, CA",earthquake,0.24,0.460000008,0.21,27,automatic,nc,nc
 2025-08-31T15:47:51.730Z,35.12218094,-95.53702545,2.764710188,2.57,ml,11,86.79478455,0.2142445743,0.1909348734,ok,ok2025rbja,2025-09-01T03:54:08.830Z,"12 km E of Crowder, Oklahoma",earthquake,3.694970155,3.147927053,0.26,11,automatic,ok,ok
 2025-08-31T15:47:08.247Z,51.5238,-173.9222,35,3.8,mb,10,212,0.7,0.5,us,us7000qsty,2025-08-31T16:17:23.040Z,"77 km SSE of Atka, Alaska",earthquake,7.83,2.015,0.141,13,reviewed,us,us
-2025-08-31T15:38:50.117Z,-20.3806,-177.7114,495.29,4.4,mb,31,97,4.769,0.52,us,us7000qstv,2025-08-31T17:08:49.040Z,"265 km WNW of Houma, Tonga",earthquake,15.66,10.648,0.1,29,reviewed,us,us
-2025-08-31T15:37:15.490Z,19.6223,-64.3893,60,3.92,md,26,311,1.1319,0.51,pr,pr2025243002,2025-08-31T16:27:22.040Z,"149 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.1,21.55,0.2,21,reviewed,pr,pr
