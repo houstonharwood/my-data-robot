@@ -15,7 +15,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T20:04:46.730Z,-7.0391,150.2467,10,4.8,mb,40,143,3.412,0.9,us,us7000qtcp,2025-09-02T20:39:46.040Z,"120 km SE of Kandrian, Papua New Guinea",earthquake,10.91,1.89,0.083,45,reviewed,us,us
 2025-09-02T19:43:26.550Z,33.1905,-116.3405,13.29,0.47,ml,20,74,0.07257,0.17,ci,ci41281736,2025-09-02T20:54:55.466Z,"8 km SSE of Borrego Springs, CA",earthquake,0.29,0.63,0.093,7,reviewed,ci,ci
 2025-09-02T19:25:58.830Z,38.823665618896,-122.8570022583,2.289999961853,0.68,md,9,116,0.003875,0.02,nc,nc75232202,2025-09-02T20:17:20.095Z,"10 km NW of The Geysers, CA",earthquake,0.76,1.22000003,0.3,10,automatic,nc,nc
-2025-09-02T19:23:43.962Z,58.2881,-154.4008,38.2,1.2,ml,,,,1.08,ak,ak025b9i4acc,2025-09-02T19:25:04.469Z,"80 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-09-02T19:19:57.470Z,38.837833404541,-122.7988357544,1.539999961853,1.01,md,14,92,0.006657,0.03,nc,nc75232197,2025-09-02T19:21:35.188Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.610000014,0.17,15,automatic,nc,nc
 2025-09-02T19:15:22.840Z,38.825500488281,-122.79766845703,10.920000076294,0.73,md,7,167,0.009916,0.04,nc,nc75232192,2025-09-02T19:52:16.926Z,"6 km NNW of The Geysers, CA",earthquake,1.54,6.5999999,0.35,3,automatic,nc,nc
 2025-09-02T19:14:44.090Z,36.02616667,-96.5365,0,1.55,ml,77,78,0.1862634488,0.57,ok,ok2025rfgv,2025-09-02T19:21:38.945Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.4,0.22,38,reviewed,ok,ok
@@ -234,6 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T01:03:28.611Z,50.083,155.9222,85.088,4.4,mb,42,136,3.226,1,us,us7000qt5u,2025-09-02T01:24:14.040Z,"67 km SSW of Severo-Kuril’sk, Russia",earthquake,11.89,7.936,0.07,59,reviewed,us,us
 2025-09-02T01:03:06.869Z,64.7128,-149.4765,22.4,1.6,ml,,,,0.71,ak,ak025b97a49q,2025-09-02T01:04:50.422Z,"20 km NW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-02T00:48:02.260Z,38.787666320801,-122.7311630249,0.40999999642372,1.34,md,19,89,0.006201,0.05,nc,nc75231817,2025-09-02T02:57:17.321Z,"2 km ENE of The Geysers, CA",earthquake,0.23,0.389999986,0.12,19,automatic,nc,nc
+2025-09-02T00:43:15.050Z,38.493333333333,-112.895,2.42,1.34,md,17,71,0.00734,0.12,uu,uu80116186,2025-09-02T21:42:58.570Z,"14 km NE of Milford, Utah",earthquake,0.3,0.42,0.39549775576233,7,reviewed,uu,uu
 2025-09-02T00:42:08.470Z,38.825832366943,-122.80316925049,6.8099999427795,0.52,md,8,152,0.005917,0.03,nc,nc75231812,2025-09-02T01:07:19.584Z,"7 km NNW of The Geysers, CA",earthquake,1.16,6.01999998,0.25,11,automatic,nc,nc
 2025-09-02T00:32:46.880Z,65.7796,-155.1705,0,2,ml,,,,0.75,ak,ak025b96uzio,2025-09-02T00:34:48.829Z,"51 km SW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-02T00:24:50.220Z,36.1176667,-117.9161667,5.31,1.36,ml,31,81,0.04964,0.15,ci,ci41281080,2025-09-02T13:01:45.014Z,"9 km NNE of Coso Junction, CA",earthquake,0.19,0.5,0.196,26,reviewed,ci,ci
@@ -259,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T22:06:27.147Z,31.65,-104.385,6.0999,1.5,ml,26,71,0,0.2,tx,tx2025rftkxk,2025-09-02T10:28:22.166Z,"58 km S of Whites City, New Mexico",earthquake,1.058973544378,0.81868768267771,0.1,18,reviewed,tx,tx
 2025-09-01T21:58:49.080Z,33.386,-116.4156667,8.33,0.57,ml,22,65,0.07172,0.16,ci,ci41281032,2025-09-02T13:02:30.294Z,"15 km NNW of Borrego Springs, CA",earthquake,0.22,0.76,0.135,12,reviewed,ci,ci
 2025-09-01T21:52:10.060Z,32.7176667,-115.6458333,10.43,1.41,ml,23,146,0.05192,0.27,ci,ci41281016,2025-09-01T21:55:42.402Z,"11 km W of Heber, CA",earthquake,0.47,0.7,0.211,11,automatic,ci,ci
-2025-09-01T21:38:32.380Z,35.3611667,-117.8016667,7.1,0.92,ml,26,93,0.1003,0.16,ci,ci41281000,2025-09-01T21:41:59.322Z,"15 km W of Johannesburg, CA",earthquake,0.23,0.89,0.255,2,automatic,ci,ci
-2025-09-01T21:38:22.809Z,22.9887,-109.6191,10,4.8,mww,218,65,4.923,0.79,us,us7000qt5b,2025-09-02T18:14:58.759Z,"9 km SSE of La Playa, Mexico",earthquake,8.79,1.825,0.075,17,reviewed,us,us
