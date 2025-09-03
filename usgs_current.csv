@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-03T19:41:18.937Z,60.6773,-151.227,43.5,2.5,ml,,,,0.28,ak,ak025bb5rfsl,2025-09-03T19:42:41.138Z,"3 km ESE of Nikiski, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2025-09-03T19:34:47.930Z,33.9793333,-116.3633333,7.97,1.12,ml,38,38,0.05396,0.15,ci,ci41282488,2025-09-03T19:38:15.045Z,"13 km E of Desert Hot Springs, CA",earthquake,0.18,0.44,0.17,28,automatic,ci,ci
+2025-09-03T19:34:47.930Z,33.9793333,-116.3633333,7.97,1.12,ml,38,38,0.05396,0.15,ci,ci41282488,2025-09-03T19:47:21.084Z,"13 km E of Desert Hot Springs, CA",earthquake,0.18,0.44,0.17,28,automatic,ci,ci
 2025-09-03T19:31:09.350Z,19.4811668396,-155.48432922363,2.4000000953674,2.28,ml,52,35,0.04908,0.25999999,hv,hv74766567,2025-09-03T19:34:52.130Z,"26 km W of Volcano, Hawaii",earthquake,0.35,1.42999995,0.47,29,automatic,hv,hv
 2025-09-03T19:25:36.000Z,32.6066667,-116.9813333,3.08,1.42,ml,32,107,0.04318,0.17,ci,ci41282480,2025-09-03T19:29:04.200Z,"7 km ESE of Chula Vista, CA",earthquake,0.33,0.45,0.125,21,automatic,ci,ci
 2025-09-03T19:00:08.780Z,45.999,-112.47133333333,-2,1.65,ml,13,77,0.05941,0.07,mb,mb90110203,2025-09-03T19:13:51.060Z,"4 km E of Butte, Montana",quarry blast,0.31,31.61,0.12589915123092,21,reviewed,mb,mb
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T13:21:20.080Z,33.5256667,-116.7161667,2.43,0.97,ml,44,25,0.04338,0.21,ci,ci41282160,2025-09-03T18:28:32.300Z,"5 km SW of Anza, CA",earthquake,0.15,0.24,0.225,30,reviewed,ci,ci
 2025-09-03T13:20:10.630Z,33.4826667,-116.8156667,5.56,1.84,ml,92,16,0.02144,0.22,ci,ci41282152,2025-09-03T15:14:39.910Z,"6 km NE of Aguanga, CA",earthquake,0.13,0.43,0.147,90,reviewed,ci,ci
 2025-09-03T13:09:48.270Z,44.292,-114.81583333333,2.53,1.24,ml,13,81,0.1871,0.18,mb,mb90110088,2025-09-03T13:30:29.820Z,"12 km NE of Stanley, Idaho",earthquake,0.4,1.78,0.26424364802601,15,reviewed,mb,mb
-2025-09-03T12:57:20.790Z,33.532,-116.7265,6.47,0.66,ml,33,28,0.03451,0.16,ci,ci41282144,2025-09-03T13:00:52.985Z,"6 km WSW of Anza, CA",earthquake,0.16,0.37,0.14,17,reviewed,ci,ci
+2025-09-03T12:57:20.760Z,33.5316667,-116.725,6.47,0.65,ml,33,29,0.03518,0.15,ci,ci41282144,2025-09-03T19:47:26.375Z,"5 km WSW of Anza, CA",earthquake,0.16,0.35,0.142,15,reviewed,ci,ci
 2025-09-03T12:49:28.220Z,33.3731667,-116.9846667,15.31,0.69,ml,36,49,0.04252,0.21,ci,ci41282136,2025-09-03T16:36:56.907Z,"9 km E of Pala, CA",earthquake,0.24,0.56,0.178,18,reviewed,ci,ci
 2025-09-03T12:48:05.790Z,33.4836667,-116.884,11.44,0.44,ml,25,60,0.02298,0.14,ci,ci41282128,2025-09-03T12:51:29.977Z,"5 km NNW of Aguanga, CA",earthquake,0.19,0.47,0.096,12,automatic,ci,ci
 2025-09-03T12:42:59.720Z,38.501333333333,-112.89583333333,2.79,1.08,md,12,104,0.007217,0.07,uu,uu80116501,2025-09-03T13:48:13.190Z,"15 km NE of Milford, Utah",earthquake,0.23,0.48,0.57764754078971,6,reviewed,uu,uu
@@ -136,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T05:20:06.150Z,59.6954,-153.4986,116.4,1.8,ml,,,,0.35,ak,ak025baxauav,2025-09-03T05:21:47.664Z,"35 km ESE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-03T05:17:50.540Z,44.346666666667,-115.04016666667,8.45,1.6,ml,14,128,0.2778,0.19,mb,mb90110158,2025-09-03T15:33:28.300Z,"16 km NNW of Stanley, Idaho",earthquake,0.5,1.01,0.086497442049404,19,reviewed,mb,mb
 2025-09-03T05:16:18.780Z,18.041833333333,-66.808,15.7,1.94,md,7,137,0.09492,0.23,pr,pr71494543,2025-09-03T05:25:47.180Z,"3 km NW of Guayanilla, Puerto Rico",earthquake,0.7,1.91,0.21829495809774,6,reviewed,pr,pr
+2025-09-03T05:15:29.600Z,46.752166666667,-121.92933333333,3.54,0.34,ml,19,190,0.0148,0.07,uw,uw62181021,2025-09-03T19:46:00.270Z,"7 km E of Ashford, Washington",earthquake,0.35,0.47,0.16361035823849,5,reviewed,uw,uw
 2025-09-03T05:11:18.770Z,40.734333333333,-112.02916666667,9.77,1.23,ml,24,42,0.008968,0.14,uu,uu80116466,2025-09-03T15:06:51.740Z,"5 km NNW of West Valley City, Utah",earthquake,0.32,0.63,0.055973986394739,5,reviewed,uu,uu
 2025-09-03T05:05:26.606Z,31.621,-104.324,7.0227,1.5,ml,37,77,0.1,0.2,tx,tx2025ridavt,2025-09-03T07:07:14.804Z,"60 km NW of Toyah, Texas",earthquake,0.77367469747491,0.761834819232,0.2,18,reviewed,tx,tx
 2025-09-03T05:05:11.910Z,19.415333333333,-155.25483333333,3.52,1.86,ml,11,136,0.005752,0.07,hv,hv74766706,2025-09-03T18:17:21.250Z,"3 km SW of Volcano, Hawaii",earthquake,0.48,0.49,0.31973224927182,9,reviewed,hv,hv
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T20:13:40.670Z,32.339,-101.071,7.9346,1.6,ml,20,71,0.2,0.2,tx,tx2025rhlkpq,2025-09-03T14:19:34.702Z,"5 km WSW of Westbrook, Texas",earthquake,0.82305317232331,1.527104008193,0.1,16,reviewed,tx,tx
 2025-09-02T20:12:25.520Z,33.8675,-117.5136667,2.5,1.07,ml,34,54,0.07589,0.23,ci,ci41281744,2025-09-02T20:27:08.350Z,"1 km SSE of Home Gardens, CA",earthquake,0.29,0.37,0.21,29,automatic,ci,ci
 2025-09-02T20:04:46.730Z,-7.0391,150.2467,10,4.8,mb,40,143,3.412,0.9,us,us7000qtcp,2025-09-02T20:39:46.040Z,"120 km SE of Kandrian, Papua New Guinea",earthquake,10.91,1.89,0.083,45,reviewed,us,us
-2025-09-02T19:43:26.550Z,33.1905,-116.3405,13.29,0.47,ml,20,74,0.07257,0.17,ci,ci41281736,2025-09-02T20:54:55.466Z,"8 km SSE of Borrego Springs, CA",earthquake,0.29,0.63,0.093,7,reviewed,ci,ci
