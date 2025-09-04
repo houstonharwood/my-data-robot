@@ -121,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T09:18:48.500Z,33.1045,-116.515,10.29,0.68,ml,40,52,0.06995,0.2,ci,ci41282856,2025-09-04T12:54:17.070Z,"9 km ENE of Julian, CA",earthquake,0.2,0.43,0.201,11,reviewed,ci,ci
 2025-09-04T09:17:23.490Z,36.0233333,-117.8695,2.06,0.85,ml,29,48,0.02301,0.15,ci,ci41282848,2025-09-04T12:54:04.862Z,"8 km ESE of Coso Junction, CA",earthquake,0.16,0.17,0.193,17,reviewed,ci,ci
 2025-09-04T09:12:24.850Z,38.274833333333,-88.058333333333,24,2.12,md,12,72,0.1738,0.35,nm,nm60504058,2025-09-04T18:37:39.192Z,"5 km WNW of Grayville, Illinois",earthquake,0.83,0.88,0.20676940137354,9,reviewed,nm,nm
+2025-09-04T09:10:31.460Z,41.1483,-116.6864,11.9,1.7,ml,7,157.65,0.824,0.1613,nn,nn00903825,2025-09-04T20:40:50.759Z,"54 km NE of Valmy, Nevada",earthquake,,5.6,0.14,4,reviewed,nn,nn
 2025-09-04T08:51:05.580Z,36.108,-117.8581667,2.72,1.14,ml,32,43,0.009928,0.16,ci,ci41282840,2025-09-04T12:54:19.861Z,"11 km NE of Coso Junction, CA",earthquake,0.18,0.32,0.206,25,reviewed,ci,ci
 2025-09-04T08:50:53.127Z,31.668,-104.378,6.0999,2.5,ml,35,69,0,0.2,tx,tx2025rkgfxz,2025-09-04T12:28:13.397Z,"56 km S of Whites City, New Mexico",earthquake,0.841122690946,0.77838071962836,0.1,21,reviewed,tx,tx
 2025-09-04T08:43:13.383Z,39.0999,-118.068,10.5,0.2,ml,6,142.74,0.052,0.1021,nn,nn00903816,2025-09-04T19:02:43.909Z,"28 km NNW of Gabbs, Nevada",earthquake,,2.3,0.4,4,reviewed,nn,nn
@@ -128,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T08:36:23.676Z,31.88,-101.898,6.958,0.6,ml,8,78,0,0.1,tx,tx2025rkftip,2025-09-04T13:49:48.962Z,"21 km SE of Midland, Texas",earthquake,1.6375923248342,1.3644067413513,0.1,6,reviewed,tx,tx
 2025-09-04T08:31:55.620Z,35.931,-117.7155,2.92,1.2,ml,33,39,0.05547,0.16,ci,ci41282824,2025-09-04T12:54:36.079Z,"17 km E of Little Lake, CA",earthquake,0.16,0.56,0.181,26,reviewed,ci,ci
 2025-09-04T08:29:19.089Z,35.31516667,-97.92983333,6.63,1.55,ml,83,51,0.07558516761,0.28,ok,ok2025rico,2025-09-04T12:16:57.176Z,"1 km E of Minco, Oklahoma",earthquake,,0.4,0.23,41,reviewed,ok,ok
-2025-09-04T08:27:27.603Z,56.2156,-152.3277,10,3.5,ml,67,196,1.088,0.96,us,us7000qtqt,2025-09-04T08:36:18.040Z,"125 km SSE of Old Harbor, Alaska",earthquake,7.59,2.006,0.057,40,reviewed,us,us
+2025-09-04T08:27:30.955Z,56.1888,-152.2296,20.3,3.3,ml,,,,0.9,ak,ak025bcmo11k,2025-09-04T20:41:02.243Z,"130 km SSE of Old Harbor, Alaska",earthquake,,4.5,,,reviewed,ak,ak
 2025-09-04T08:23:10.870Z,38.79999923706,-122.7851638794,3.5,0.28,md,10,79,0.007142,0.02,nc,nc75232967,2025-09-04T08:57:17.950Z,"4 km NNW of The Geysers, CA",earthquake,0.5,1.5,0.06,11,automatic,nc,nc
 2025-09-04T08:22:11.460Z,67.3226,-156.6895,10,2.6,ml,28,123,0.466,0.64,us,us7000qtqr,2025-09-04T11:38:13.040Z,"47 km N of Kobuk, Alaska",earthquake,2.28,1.977,0.049,54,reviewed,us,us
 2025-09-04T08:15:31.280Z,47.807333333333,-122.8445,22.52,0.12,ml,6,172,0.02858,0.17,uw,uw62181726,2025-09-04T18:37:40.950Z,"2 km SE of Quilcene, Washington",earthquake,0.98,0.73,0.24501422674435,2,reviewed,uw,uw
@@ -268,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T20:51:08.660Z,46.211166666667,-122.15466666667,5.7,0.65,ml,16,150,0.0142,0.05,uw,uw62181426,2025-09-03T22:18:06.780Z,"39 km SSE of Morton, Washington",earthquake,0.35,0.49,0.15701599447515,9,reviewed,uw,uw
 2025-09-03T20:50:07.259Z,54.4356,-159.7571,21.266,3.9,mb,11,224,0.408,0.74,us,us7000qtlv,2025-09-04T01:52:43.663Z,"111 km SSE of Sand Point, Alaska",earthquake,5.22,5.115,0.23,5,reviewed,us,us
 2025-09-03T20:48:30.140Z,19.7463,-66.9026,40,3.93,md,26,216,1.2956,0.39,pr,pr2025246004,2025-09-03T21:30:11.040Z,"138 km N of Isabela, Puerto Rico",earthquake,1.87,15.29,0.12,16,reviewed,pr,pr
-2025-09-03T20:42:18.290Z,34.5438333,-120.5098333,3.75,1.88,ml,23,178,0.01076,0.27,ci,ci41282528,2025-09-04T13:30:19.399Z,"12 km SSW of Lompoc, CA",earthquake,0.71,0.48,0.105,24,reviewed,ci,ci
