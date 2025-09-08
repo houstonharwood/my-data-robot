@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T21:47:48.065Z,-20.9809,173.7581,10,6.4,mww,64,104,5.176,1.03,us,us7000quvp,2025-09-08T22:14:14.411Z,"Vanuatu region",earthquake,7.98,1.87,0.043,53,reviewed,us,us
 2025-09-08T21:32:16.150Z,33.8718333,-117.7718333,9.16,1.2,ml,28,49,0.04577,0.18,ci,ci41286488,2025-09-08T21:36:48.426Z,"4 km ESE of Yorba Linda, CA",earthquake,0.27,0.43,0.4,35,automatic,ci,ci
 2025-09-08T21:29:57.570Z,48.081666666667,-121.916,-1.09,1.44,ml,12,94,0.114,0.17,uw,uw62185131,2025-09-08T21:58:29.010Z,"3 km E of Granite Falls, Washington",explosion,0.28,31.61,0.06921091779404,6,reviewed,uw,uw
-2025-09-08T21:27:57.064Z,38.2747,24.1425,10,5.1,mwr,83,39,1.599,0.88,us,us7000quvk,2025-09-08T22:38:19.090Z,"12 km NNW of Néa Stíra, Greece",earthquake,4.19,1.007,0.053,34,reviewed,us,us
+2025-09-08T21:27:57.064Z,38.2747,24.1425,10,5.1,mwr,83,39,1.599,0.88,us,us7000quvk,2025-09-08T22:43:31.153Z,"12 km NNW of Néa Stíra, Greece",earthquake,4.19,1.007,0.053,34,reviewed,us,us
 2025-09-08T21:16:24.690Z,44.694833333333,-110.02216666667,13.34,1.98,ml,12,94,0.08046,0.15,uu,uu80116981,2025-09-08T21:53:09.320Z,"34 km S of Silver Gate, Montana",earthquake,0.42,0.7,0.21876422818977,4,reviewed,uu,uu
 2025-09-08T21:14:19.090Z,49.382833333333,-120.48333333333,-0.51,2.1,ml,16,204,0.5643,0.26,uw,uw62185126,2025-09-08T21:54:07.860Z,"8 km SSE of Princeton, Canada",explosion,1.5,31.61,0.11603087556051,14,reviewed,uw,uw
 2025-09-08T20:32:05.951Z,-17.8995,-178.5112,590.647,4.2,mb,53,85,2.47,0.78,us,us7000quvd,2025-09-08T20:47:30.040Z,"230 km E of Levuka, Fiji",earthquake,13.89,9.092,0.051,106,reviewed,us,us
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T11:39:52.328Z,7.7599,136.7296,10,4.7,mb,46,83,2.274,0.76,us,us7000quqp,2025-09-08T12:02:13.040Z,"224 km E of Kayangel, Palau",earthquake,10.73,1.896,0.087,40,reviewed,us,us
 2025-09-08T11:37:24.230Z,44.568166666667,-112.21833333333,4.91,1.27,ml,17,96,0.1282,0.1,mb,mb90110858,2025-09-08T15:55:03.180Z,"23 km N of Spencer, Idaho",earthquake,0.36,2.88,0.21651017912603,22,reviewed,mb,mb
 2025-09-08T11:32:31.947Z,52.5236,160.8244,10,5.2,mb,116,139,1.413,0.6,us,us7000quqk,2025-09-08T11:50:49.040Z,"159 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.83,1.9,0.028,421,reviewed,us,us
-2025-09-08T11:27:23.840Z,44.5655,-112.2165,8.36,2.19,ml,38,73,0.1301,0.18,mb,mb90110853,2025-09-08T15:46:56.130Z,"22 km N of Spencer, Idaho",earthquake,0.29,0.85,0.19685319932386,36,reviewed,mb,mb
+2025-09-08T11:27:23.840Z,44.566333333333,-112.21666666667,8.13,2.19,ml,40,73,0.1298,0.17,mb,mb90110853,2025-09-08T22:47:50.350Z,"22 km N of Spencer, Idaho",earthquake,0.28,0.84,0.19321130038818,37,reviewed,mb,mb
 2025-09-08T11:16:15.636Z,62.5456,-148.7583,33.9,2.5,ml,,,,0.92,ak,ak025bjajc8r,2025-09-08T11:17:46.883Z,"70 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-08T11:11:43.570Z,39.499833333333,-111.004,1.84,0.84,md,8,104,0.2061,0.21,uu,uu80004753,2025-09-08T16:33:07.260Z,"1 km NNE of Hiawatha, Utah",earthquake,0.76,31.61,0.2912143909415,6,reviewed,uu,uu
 2025-09-08T11:10:18.551Z,60.5958,-147.6026,17.1,1.6,ml,,,,0.39,ak,ak025bjai273,2025-09-08T11:12:29.181Z,"58 km WSW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T07:11:36.449Z,-8.4201,119.4621,171.906,4.4,mb,30,67,1.49,0.79,us,us7000qupn,2025-09-08T10:15:05.040Z,"19 km N of Komodo, Indonesia",earthquake,6.49,4.35,0.149,13,reviewed,us,us
 2025-09-08T07:07:44.080Z,35.264,-118.555,7.55,1.12,ml,34,63,0.1131,0.14,ci,ci41285936,2025-09-08T12:53:49.109Z,"18 km NNW of Tehachapi, CA",earthquake,0.17,0.68,0.292,25,reviewed,ci,ci
 2025-09-08T07:04:00.010Z,18.4798,-67.2661,97,3.68,md,24,288,0.1554,0.17,pr,pr2025251001,2025-09-08T13:59:44.040Z,"13 km WNW of Aguadilla, Puerto Rico",earthquake,1.44,0.77,0.07,19,reviewed,pr,pr
-2025-09-08T06:58:59.903Z,44.5399,-112.2477,9.851,3.9,mwr,45,36,0.293,0.47,us,us7000qup7,2025-09-08T18:09:13.150Z,"20 km NNW of Spencer, Idaho",earthquake,2.32,8.45,0.03,108,reviewed,us,us
+2025-09-08T06:58:59.903Z,44.5399,-112.2477,9.851,3.9,mwr,45,36,0.293,0.47,us,us7000qup7,2025-09-08T22:46:04.780Z,"20 km NNW of Spencer, Idaho",earthquake,2.32,8.45,0.03,108,reviewed,us,us
 2025-09-08T06:57:22.998Z,44.571,-112.2207,10,3.7,ml,32,67,0.306,0.47,us,us7000qup5,2025-09-08T19:06:20.570Z,"23 km N of Spencer, Idaho",earthquake,1.6,2.01,0.028,164,reviewed,us,us
 2025-09-08T06:36:50.660Z,38.58150100708,-122.78633117676,6.4000000953674,1.23,md,12,69,0.0662,0.07,nc,nc75234817,2025-09-08T08:07:20.213Z,"5 km NE of Windsor, CA",earthquake,0.38,0.879999995,0.1,8,automatic,nc,nc
 2025-09-08T06:35:35.930Z,35.8761667,-117.6983333,4.68,0.08,ml,13,83,0.08148,0.08,ci,ci41285928,2025-09-08T14:02:56.149Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.31,0.048,10,reviewed,ci,ci
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T23:07:31.800Z,45.367333333333,-121.70766666667,5.51,0.69,md,4,164,0.02792,0.05,uw,uw62184546,2025-09-08T21:18:08.990Z,"7 km NNE of Government Camp, Oregon",earthquake,1.64,0.91,0.033703353662597,3,reviewed,uw,uw
 2025-09-07T23:04:15.792Z,32.112,-101.483,8.667,1.5,ml,39,50,0.1,0.1,tx,tx2025rqvrzr,2025-09-08T07:35:27.914Z,"11 km W of Forsan, Texas",earthquake,0.38269468784117,0.82185115482861,0.1,23,reviewed,tx,tx
 2025-09-07T22:49:50.056Z,39.0986,-119.0117,2.9,1.7,ml,12,113.42,0.211,0.0807,nn,nn00903955,2025-09-07T22:52:08.033Z,"18 km NE of Yerington, Nevada",earthquake,,6,0.18,8,automatic,nn,nn
-2025-09-07T22:45:30.250Z,46.209166666667,-122.17583333333,6.65,0.1,ml,10,98,0.03516,0.08,uw,uw62184516,2025-09-08T19:57:25.150Z,"39 km NNE of Amboy, Washington",earthquake,0.39,0.58,0.12285919170565,5,reviewed,uw,uw
