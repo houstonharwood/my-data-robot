@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-10T20:42:40.650Z,33.7083333,-116.7261667,17.83,0.78,ml,21,82,0.05877,0.12,ci,ci41288504,2025-09-10T20:46:18.548Z,"4 km S of Idyllwild, CA",earthquake,0.28,0.52,0.157,14,automatic,ci,ci
 2025-09-10T20:27:45.440Z,36.532001495361,-121.15816497803,7.3699998855591,2.79,md,70,38,0.04529,0.23,nc,nc75236072,2025-09-10T20:37:31.868Z,"1 km WNW of Pinnacles, CA",earthquake,0.25,0.850000024,0.13,82,automatic,nc,nc
+2025-09-10T20:03:14.200Z,33.223,-116.0248333,4.53,0.72,ml,10,112,0.06322,0.21,ci,ci41288464,2025-09-10T20:47:52.555Z,"11 km SW of Salton City, CA",earthquake,0.57,1.04,0.208,5,reviewed,ci,ci
 2025-09-10T20:02:37.310Z,35.33416667,-97.93533333,9.66,1.01,ml,34,63,0.05848852256,0.13,ok,ok2025rtyl,2025-09-10T20:23:14.362Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.22,17,reviewed,ok,ok
 2025-09-10T19:58:17.770Z,44.363,-122.4475,-0.94,1.08,ml,8,83,0.09564,0.18,uw,uw62178472,2025-09-10T20:41:01.220Z,"4 km SE of Cascadia, Oregon",explosion,0.62,31.61,0.14658521932022,6,reviewed,uw,uw
 2025-09-10T19:57:05.240Z,35.3265,-97.941,8.4,0.87,ml,31,77,0.06658693337,0.23,ok,ok2025rtyg,2025-09-10T20:32:48.106Z,"1 km NNE of Minco, Oklahoma",earthquake,,1.1,0.24,15,reviewed,ok,ok
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T19:05:36.100Z,34.8506667,-118.7893333,-0.52,1.19,ml,27,74,0.07471,0.28,ci,ci41288408,2025-09-10T19:53:02.921Z,"7 km E of Lebec, CA",quarry blast,0.36,0.64,0.195,29,automatic,ci,ci
 2025-09-10T18:52:45.078Z,-8.163,-75.8666,10,4.9,mb,62,135,3.161,0.77,us,us7000qvan,2025-09-10T19:42:55.040Z,"72 km E of Tocache, Peru",earthquake,9.42,1.888,0.05,126,reviewed,us,us
 2025-09-10T18:50:30.830Z,38.798332214355,-122.78583526611,4.0799999237061,0.45,md,7,148,0.005397,0.01,nc,nc75236042,2025-09-10T19:32:17.039Z,"3 km NW of The Geysers, CA",earthquake,1.07,1.64999998,0.18,7,automatic,nc,nc
-2025-09-10T18:39:51.420Z,36.660167694092,-121.3176651001,4.0999999046326,1.69,md,22,43,0.04926,0.2,nc,nc75236037,2025-09-10T19:12:20.892Z,"14 km S of Tres Pinos, CA",earthquake,0.46,1.50999999,0.26,18,automatic,nc,nc
+2025-09-10T18:39:51.420Z,36.660167694092,-121.3176651001,4.0999999046326,1.69,md,22,43,0.04926,0.2,nc,nc75236037,2025-09-10T20:47:18.626Z,"14 km S of Tres Pinos, CA",earthquake,0.46,1.50999999,0.26,18,automatic,nc,nc
 2025-09-10T18:39:38.871Z,42.6682,-111.2522,5,2.8,ml,42,74,0.677,0.57,us,us7000qvag,2025-09-10T20:20:41.340Z,"22 km W of Fairview, Wyoming",earthquake,1.69,1.936,0.033,120,reviewed,us,us
 2025-09-10T18:36:29.961Z,15.0535,108.1503,10,4.6,mb,33,63,3.988,0.73,us,us7000qvah,2025-09-10T19:19:24.040Z,"32 km SSW of Trà My, Vietnam",earthquake,8.82,1.941,0.119,21,reviewed,us,us
 2025-09-10T18:33:57.920Z,36.655666351318,-121.31716918945,3.3699998855591,1.6,md,14,85,0.04476,0.13,nc,nc75236032,2025-09-10T20:22:19.433Z,"15 km S of Tres Pinos, CA",earthquake,0.41,1.38999999,0.19,10,automatic,nc,nc
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T20:50:25.640Z,47.703833333333,-120.33466666667,5.41,0.51,ml,7,114,0.08302,0.08,uw,uw62177782,2025-09-10T04:39:35.050Z,"9 km WNW of Entiat, Washington",earthquake,0.3,1.73,0.041199777252757,3,reviewed,uw,uw
 2025-09-09T20:48:52.742Z,61.4442,-149.8633,32.2,1.4,ml,,,,0.51,ak,ak025bl3mize,2025-09-09T20:50:49.370Z,"7 km WSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-09T20:48:32.390Z,38.840831756592,-122.76750183106,0.56999999284744,0.6,md,7,169,0.007169,0.01,nc,nc75235692,2025-09-09T21:07:18.256Z,"4 km NW of Cobb, CA",earthquake,0.39,0.699999988,0.12,8,automatic,nc,nc
-2025-09-09T20:44:54.690Z,32.142,-101.083,3.2279,1.8,mlv,23,101,0.2,0.3,tx,tx2025ruinob,2025-09-09T23:17:04.260Z,"24 km SSW of Westbrook, Texas",earthquake,0,1.2987220287323,0.1,13,automatic,tx,tx
