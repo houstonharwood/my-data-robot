@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T11:15:19.176Z,60.8976,-150.9084,15.1,1.4,ml,,,,0.25,ak,ak025bo956b1,2025-09-11T11:16:45.438Z,"12 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-11T11:06:45.128Z,61.8178,-150.7476,65.6,1.7,ml,,,,0.42,ak,ak025bo93av4,2025-09-11T11:08:44.046Z,"32 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-11T11:04:38.795Z,29.313,-97.339,10.236,1.6,ml,7,105,0.1,0.5,tx,tx2025rxgtkp,2025-09-11T11:06:29.141Z,"18 km W of Yoakum, Texas",earthquake,0,8.161961555481,0.1,7,automatic,tx,tx
-2025-09-11T11:00:25.330Z,40.337001800537,-124.81066894531,14.989999771118,2.93,md,59,236,0.3612,0.19,nc,nc75236307,2025-09-11T11:07:20.560Z,"45 km WNW of Petrolia, CA",earthquake,1.44,1.15999997,0.12,33,automatic,nc,nc
+2025-09-11T11:00:25.330Z,40.337001800537,-124.81066894531,14.989999771118,2.93,md,59,236,0.3612,0.19,nc,nc75236307,2025-09-11T11:37:17.763Z,"45 km WNW of Petrolia, CA",earthquake,1.44,1.15999997,0.12,33,automatic,nc,nc
 2025-09-11T10:52:00.160Z,33.9735,-116.7506667,10.03,0.54,ml,30,78,0.07767,0.12,ci,ci41288896,2025-09-11T10:59:48.665Z,"7 km NNE of Cabazon, CA",earthquake,0.18,0.34,0.122,13,automatic,ci,ci
 2025-09-11T10:40:40.533Z,51.3877,159.5975,36.118,4.9,mb,58,122,1.739,1.1,us,us7000qves,2025-09-11T11:06:56.040Z,"190 km SSE of Vilyuchinsk, Russia",earthquake,8.53,6.905,0.05,125,reviewed,us,us
 2025-09-11T10:23:41.435Z,63.2203,-150.7019,115.4,1.4,ml,,,,0.32,ak,ak025bo8li5b,2025-09-11T10:25:34.557Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T04:27:16.010Z,33.5875,-116.618,12.64,0.45,ml,28,42,0.02327,0.13,ci,ci41288712,2025-09-11T04:40:04.016Z,"6 km NE of Anza, CA",earthquake,0.18,0.29,0.268,10,automatic,ci,ci
 2025-09-11T04:23:42.900Z,35.1696667,-119.2335,23.73,2.47,ml,65,33,0.1542,0.25,ci,ci41288704,2025-09-11T04:43:49.661Z,"20 km NE of Maricopa, CA",earthquake,0.2,0.69,0.198,26,automatic,ci,ci
 2025-09-11T04:20:38.530Z,33.3351667,-116.146,6.92,1.1,ml,51,58,0.1396,0.23,ci,ci41288696,2025-09-11T04:29:56.879Z,"15 km SSW of Oasis, CA",earthquake,0.19,0.82,0.155,25,automatic,ci,ci
-2025-09-11T03:53:50.930Z,35.1811676,-119.2321701,13.38,3.56,mlr,126,55,0.1574,0.28,ci,ci41288688,2025-09-11T11:05:48.961Z,"20 km NE of Maricopa, CA",earthquake,0.23,0.75,0.239,15,reviewed,ci,ci
+2025-09-11T03:53:50.930Z,35.1811676,-119.2321701,13.38,3.56,mlr,126,55,0.1574,0.28,ci,ci41288688,2025-09-11T11:33:51.822Z,"20 km NE of Maricopa, CA",earthquake,0.23,0.75,0.239,15,reviewed,ci,ci
 2025-09-11T03:47:40.388Z,36.7008,-115.7056,9.2,1.4,ml,26,161.67,0.214,0.2754,nn,nn00904129,2025-09-11T03:51:47.938Z,"14 km NNW of Indian Springs, Nevada",earthquake,,1.2,0.28,18,automatic,nn,nn
 2025-09-11T03:35:12.298Z,51.5895,159.8937,10,5.2,mb,75,121,1.627,1.36,us,us7000qvdb,2025-09-11T03:53:12.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,8.42,1.869,0.029,386,reviewed,us,us
 2025-09-11T03:23:18.252Z,31.471,-103.881,4.7463,1.7,mlv,21,153,0.1,0.7,tx,tx2025rwrlwh,2025-09-11T05:06:36.859Z,"19 km NNW of Toyah, Texas",earthquake,0,1.2882627248764,0.1,15,automatic,tx,tx
@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T11:44:29.750Z,33.5396667,-116.7166667,5.41,0.27,ml,15,78,0.03091,0.15,ci,ci41287976,2025-09-10T18:45:27.429Z,"4 km WSW of Anza, CA",earthquake,0.29,0.51,0.087,7,automatic,ci,ci
 2025-09-10T11:43:49.240Z,35.363,-117.8041667,7.21,0.92,ml,28,118,0.1013,0.17,ci,ci41287968,2025-09-10T18:44:50.056Z,"15 km W of Johannesburg, CA",earthquake,0.27,1,0.139,18,automatic,ci,ci
 2025-09-10T11:41:44.280Z,38.79683303833,-122.78949737549,0.54000002145767,0.77,md,13,70,0.003852,0.02,nc,nc75235932,2025-09-10T13:22:16.283Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.33,13,automatic,nc,nc
-2025-09-10T11:38:16.778Z,56.9649,-155.3124,210.1,2.3,ml,,,,0.6,ak,ak025bmlqr3h,2025-09-10T11:40:40.977Z,"69 km W of Akhiok, Alaska",earthquake,,1.6,,,automatic,ak,ak
