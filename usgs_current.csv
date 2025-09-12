@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-12T22:51:29.650Z,33.337,-116.4076667,11.93,1.19,ml,55,23,0.03544,0.21,ci,ci41290280,2025-09-12T22:55:17.444Z,"10 km NNW of Borrego Springs, CA",earthquake,0.17,0.42,0.16,26,automatic,ci,ci
+2025-09-12T23:04:51.496Z,66.2205,-148.044,0,1.5,ml,,,,0.73,ak,ak025bq3rfod,2025-09-12T23:07:07.321Z,"32 km WSW of Beaver, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-12T22:51:29.650Z,33.337,-116.4076667,11.93,1.19,ml,55,23,0.03544,0.21,ci,ci41290280,2025-09-12T23:02:08.110Z,"10 km NNW of Borrego Springs, CA",earthquake,0.17,0.42,0.16,26,automatic,ci,ci
 2025-09-12T22:47:52.180Z,36.069499969482,-120.20866394043,7.8899998664856,1.08,md,5,228,0.08747,0.02,nc,nc75237067,2025-09-12T22:49:33.374Z,"10 km NNW of Avenal, CA",earthquake,1.42,0.810000002,0.18,3,automatic,nc,nc
+2025-09-12T22:45:24.800Z,18.9845,-65.013,48.35,3.08,md,11,255,0.6735,0.1,pr,pr71495478,2025-09-12T23:02:14.690Z,"71 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.6,3.69,0.063910473105754,5,reviewed,pr,pr
 2025-09-12T22:34:53.372Z,37.052,-117.6715,1.7,1.2,ml,21,173.86,0.25,0.2296,nn,nn00904241,2025-09-12T22:37:40.952Z,"54 km ENE of Independence, California",earthquake,,15,0.29,14,automatic,nn,nn
 2025-09-12T22:13:10.110Z,38.826332092285,-122.85182952881,1.6100000143051,0.39,md,8,91,0.004121,0.01,nc,nc75237057,2025-09-12T22:42:18.204Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.850000024,0.26,8,automatic,nc,nc
 2025-09-12T22:01:18.640Z,38.834331512451,-122.80117034912,2.0699999332428,1.09,md,23,57,0.009385,0.04,nc,nc75237052,2025-09-12T22:27:17.104Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.50999999,0.15,24,automatic,nc,nc
@@ -102,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T14:07:34.470Z,19.193833333333,-155.48966666667,29.92,2.86,ml,57,75,0.04625,0.11,hv,hv74774327,2025-09-12T18:25:19.090Z,"1 km SW of Pāhala, Hawaii",earthquake,0.45,0.54,0.20599297634545,45,reviewed,hv,hv
 2025-09-12T14:03:55.990Z,33.1826667,-115.6106667,2.58,2.06,ml,48,43,0.006652,0.23,ci,ci41289864,2025-09-12T21:49:21.910Z,"11 km SW of Niland, CA",earthquake,0.23,0.23,0.158,28,reviewed,ci,ci
 2025-09-12T14:03:48.881Z,32.11,-102.149,7.1045,1.2,ml,19,78,0,0.1,tx,tx2025rzikop,2025-09-12T14:51:39.364Z,"14 km NNW of Midland, Texas",earthquake,0.57023422773558,1.2644359387247,0.2,15,reviewed,tx,tx
+2025-09-12T14:03:48.508Z,32.104,-102.147,4.1512,1.3,mlv,31,47,0,0.5,tx,tx2025rzikkw,2025-09-12T23:13:57.030Z,"13 km NNW of Midland, Texas",earthquake,0,0.9790170788765,0.2,21,automatic,tx,tx
 2025-09-12T14:00:45.890Z,33.6833333,-116.731,14.91,0.53,ml,18,177,0.04983,0.13,ci,ci41289856,2025-09-12T18:31:50.005Z,"6 km S of Idyllwild, CA",earthquake,0.41,0.5,0.248,8,reviewed,ci,ci
 2025-09-12T13:32:59.295Z,61.8156,-149.5139,36.2,1.6,ml,,,,0.59,ak,ak025bpxz4a1,2025-09-12T13:35:01.559Z,"16 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-12T13:14:27.858Z,36.9949,-116.4973,3.6,0.2,ml,21,66.89,0.056,0.1255,nn,nn00904220,2025-09-12T18:30:07.777Z,"25 km ENE of Beatty, Nevada",earthquake,,1.7,0.48,6,reviewed,nn,nn
@@ -282,7 +285,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T00:42:10.130Z,51.5005,16.266,9.361,4.5,mb,66,47,1.152,0.89,us,us7000qvl9,2025-09-12T02:44:43.040Z,"1 km S of Rudna, Poland",earthquake,4.68,4.752,0.093,37,reviewed,us,us
 2025-09-12T00:41:18.127Z,63.2667,-150.4931,119.1,1.5,ml,,,,0.24,ak,ak025bpqabok,2025-09-12T00:43:59.565Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-09-12T00:39:52.080Z,38.78783416748,-122.76866912842,1.210000038147,0.74,md,14,81,0.01456,0.02,nc,nc75236677,2025-09-12T00:41:26.112Z,"2 km NNW of The Geysers, CA",earthquake,0.33,0.569999993,0.47,14,automatic,nc,nc
-2025-09-12T00:39:43.880Z,60.054166666667,-153.052,1.33,-0.58,ml,5,217,0.006638,0.14,av,av93049854,2025-09-12T22:54:06.500Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.14,0.34,0.22400558813383,5,reviewed,av,av
+2025-09-12T00:39:43.880Z,60.054166666667,-153.052,1.33,-0.58,ml,5,217,0.006638,0.14,av,av93049854,2025-09-12T23:04:34.670Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.14,0.34,0.22400558813383,5,reviewed,av,av
 2025-09-12T00:38:38.940Z,60.039333333333,-153.07483333333,-0.16,-0.23,ml,5,112,0.01894,0.08,av,av93761763,2025-09-12T22:45:48.120Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.33,1.29,0.37352554173826,5,reviewed,av,av
 2025-09-12T00:35:09.750Z,60.050833333333,-153.03766666667,1.62,-0.12,ml,5,227,0.01456,0.06,av,av93049849,2025-09-12T22:39:31.230Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.9,0.57,0.29761683514538,5,reviewed,av,av
 2025-09-12T00:33:07.730Z,60.042166666667,-153.05416666667,1.22,-0.15,ml,5,162,0.01595,0.14,av,av93761738,2025-09-12T22:30:33.450Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.1,0.55,0.2827433985488,5,reviewed,av,av
@@ -304,6 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T23:35:33.109Z,65.0042,-147.4971,0.1,1.3,ml,,,,0.61,ak,ak025bogeoym,2025-09-11T23:37:59.292Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-11T23:19:17.130Z,44.6205,-112.57133333333,9.09,0.59,ml,6,145,0.05199,0.02,mb,mb90111378,2025-09-12T22:04:41.900Z,"2 km SE of Lima, Montana",earthquake,0.43,0.45,0.15033736225499,5,reviewed,mb,mb
 2025-09-11T23:14:37.880Z,59.357,-153.4415,-0.01,0.5,ml,6,115,0.005852,0.11,av,av93761578,2025-09-12T02:35:05.130Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.19,0.16,0.13710091258556,6,reviewed,av,av
-2025-09-11T23:04:50.399Z,34.39366667,-97.46816667,5.14,1.65,ml,44,87,0.03059399641,0.26,ok,ok2025rvzy,2025-09-12T12:52:56.279Z,"7 km SSE of Ratliff City, Oklahoma",earthquake,,0.6,0.19,18,reviewed,ok,ok
-2025-09-11T23:04:35.333Z,31.41,-103.82,6.0999,2.2,ml,28,64,0.1,0.2,tx,tx2025ryepuk,2025-09-12T12:49:06.588Z,"10 km NNW of Toyah, Texas",earthquake,0.58406004024877,1.4133746383959,0.2,25,reviewed,tx,tx
-2025-09-11T22:59:11.516Z,32.37,-102.117,6.6162,0.9,ml,14,57,0,0.1,tx,tx2025ryeldq,2025-09-12T13:05:23.956Z,"39 km E of McKinney Acres, Texas",earthquake,0.65046681332409,0.66135161717068,0.2,12,reviewed,tx,tx
