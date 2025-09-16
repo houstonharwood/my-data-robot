@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T11:20:36.330Z,36.0831667,-117.6271667,2.21,0.68,ml,17,74,0.1147,0.13,ci,ci41292288,2025-09-16T11:26:26.913Z,"29 km E of Coso Junction, CA",earthquake,0.2,0.54,0.173,10,automatic,ci,ci
 2025-09-16T11:19:15.030Z,38.838165283203,-122.82250213623,1.9500000476837,1.37,md,14,90,0.01015,0.01,nc,nc75238362,2025-09-16T11:20:51.654Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.409999996,0.12,15,automatic,nc,nc
 2025-09-16T11:14:35.879Z,59.949,-153.6318,154.5,1.8,ml,,,,0.47,ak,ak025bwitqcj,2025-09-16T11:18:04.620Z,"32 km NE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-09-16T11:13:11.380Z,38.8235,-122.808,2.77,0.87,md,4,209,0.001623,0,nc,nc75238352,2025-09-16T11:43:37.668Z,"7 km NW of The Geysers, CA",earthquake,0.99,1.86,0.349,4,reviewed,nc,nc
+2025-09-16T11:13:11.380Z,38.8235,-122.808,2.77,0.87,md,4,209,0.001623,0,nc,nc75238352,2025-09-16T11:52:20.074Z,"7 km NW of The Geysers, CA",earthquake,0.99,1.86,0.349,4,reviewed,nc,nc
 2025-09-16T11:12:48.748Z,32.096,-101.477,4.0327,1.3,ml,5,155,0.1,0.1,tx,tx2025sglquj,2025-09-16T11:17:13.408Z,"10 km W of Forsan, Texas",earthquake,0,2.4993534088135,0.4,5,automatic,tx,tx
 2025-09-16T11:08:55.760Z,38.794166564941,-122.78566741943,3.039999961853,1.43,md,20,78,0.0157,0.04,nc,nc75238347,2025-09-16T11:42:17.993Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.5,0.12,19,automatic,nc,nc
 2025-09-16T10:58:53.940Z,38.814498901367,-122.79599761963,3.420000076294,1.02,md,16,100,0.006544,0.02,nc,nc75238342,2025-09-16T11:32:19.912Z,"5 km NNW of The Geysers, CA",earthquake,0.35,0.540000021,0.28,15,automatic,nc,nc
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T02:47:17.650Z,33.0985,-116.503,8.4,0.74,ml,43,51,0.05836,0.2,ci,ci41292104,2025-09-16T02:50:49.331Z,"10 km ENE of Julian, CA",earthquake,0.19,0.64,0.098,14,automatic,ci,ci
 2025-09-16T02:41:37.847Z,36.7567,-116.2662,5.4,-0.5,ml,13,81.43,0.052,0.2407,nn,nn00904414,2025-09-16T02:43:21.169Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.48,7,automatic,nn,nn
 2025-09-16T02:39:37.900Z,36.705833333333,-121.37216666667,2.67,1.28,md,20,69,0.02068,0.09,nc,nc75238227,2025-09-16T10:42:17.563Z,"10 km SSW of Tres Pinos, CA",earthquake,0.21,0.44,0.314,17,reviewed,nc,nc
-2025-09-16T02:39:29.320Z,36.708,-121.36716666667,3.09,1.18,md,22,65,0.01661,0.08,nc,nc75238222,2025-09-16T10:32:19.498Z,"10 km SSW of Tres Pinos, CA",earthquake,0.2,0.39,0.179,17,reviewed,nc,nc
+2025-09-16T02:39:29.320Z,36.708,-121.36716666667,3.09,1.18,md,22,65,0.01661,0.08,nc,nc75238222,2025-09-16T11:57:19.109Z,"10 km SSW of Tres Pinos, CA",earthquake,0.2,0.39,0.179,17,reviewed,nc,nc
 2025-09-16T02:31:18.560Z,32.7971667,-115.4488333,10.81,1.59,ml,34,41,0.008311,0.31,ci,ci41292096,2025-09-16T02:41:39.860Z,"7 km WSW of Holtville, CA",earthquake,0.39,0.57,0.232,28,automatic,ci,ci
 2025-09-16T02:04:08.840Z,17.978,-67.003833333333,6.66,2.24,md,8,167,0.03938,0.04,pr,pr71495773,2025-09-16T04:07:56.300Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.43,0.31,0.16024139120459,6,reviewed,pr,pr
 2025-09-16T01:59:09.570Z,33.1005,-116.5003333,7.96,0.53,ml,30,51,0.05706,0.18,ci,ci41292088,2025-09-16T02:02:36.171Z,"10 km ENE of Julian, CA",earthquake,0.2,0.57,0.106,10,automatic,ci,ci
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T12:09:35.960Z,35.8403333,-117.6775,10.09,2.61,ml,41,30,0.06948,0.14,ci,ci41291752,2025-09-15T20:41:26.150Z,"23 km ESE of Little Lake, CA",earthquake,0.13,0.3,0.249,26,reviewed,ci,ci
 2025-09-15T12:09:30.376Z,31.537,-104.132,8.5095,1.2,ml,24,69,0,0.1,tx,tx2025seruva,2025-09-15T17:38:54.757Z,"40 km NW of Toyah, Texas",earthquake,0.95454491292759,0.81039360790527,0.2,20,reviewed,tx,tx
 2025-09-15T12:07:08.923Z,61.2726,-146.8522,24.8,2,ml,,,,0.37,ak,ak025buvu9d8,2025-09-15T12:09:00.772Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-15T11:54:44.552Z,31.615,-104.097,7.42,2.2,ml,43,56,0,0.2,tx,tx2025sericp,2025-09-15T12:39:11.110Z,"44 km NW of Toyah, Texas",earthquake,0.4044746407263,0.36074689183646,0.2,31,reviewed,tx,tx
