@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-21T21:31:28.950Z,33.5320015,-116.722168,5.59,1.47,ml,47,27,0.03563,0.19,ci,ci40447658,2025-09-21T21:33:37.140Z,"5 km WSW of Anza, CA",earthquake,0.22,0.65,0.253,18,automatic,ci,ci
+2025-09-21T21:31:28.930Z,33.5301667,-116.7211667,5.73,1.37,ml,65,26,0.03764,0.19,ci,ci40447658,2025-09-21T21:34:58.850Z,"5 km WSW of Anza, CA",earthquake,0.12,0.36,0.184,27,automatic,ci,ci
 2025-09-21T21:30:18.430Z,38.767501831055,-122.75650024414,1.460000038147,1.18,md,11,125,0.007911,0.03,nc,nc75240347,2025-09-21T21:31:54.410Z,"1 km SSW of The Geysers, CA",earthquake,0.31,0.49000001,0.11,12,automatic,nc,nc
 2025-09-21T21:06:54.450Z,18.101666666667,-67.026666666667,10.75,2.84,md,21,84,0.02709,0.26,pr,pr71496228,2025-09-21T21:26:55.820Z,"2 km NE of San Germán, Puerto Rico",earthquake,0.31,0.75,0.13336265108641,14,reviewed,pr,pr
 2025-09-21T21:05:47.183Z,39.1455,28.1408,10,5.1,mww,37,44,0.964,0.82,us,us7000qxqv,2025-09-21T21:33:42.069Z,"11 km SSW of Sındırgı, Turkey",earthquake,2.74,1.881,0.075,17,reviewed,us,us
@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T10:01:46.590Z,44.8135,-111.53866666667,11.28,1.48,ml,27,78,0.01882,0.2,mb,mb90112748,2025-09-21T13:55:09.080Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.31,0.5,0.14922396813665,36,reviewed,mb,mb
 2025-09-21T09:50:24.270Z,32.8925,-116.5973333,7.98,0.85,ml,35,54,0.06764,0.19,ci,ci40447482,2025-09-21T13:19:59.561Z,"10 km NW of Pine Valley, CA",earthquake,0.2,0.61,0.19,10,reviewed,ci,ci
 2025-09-21T09:30:43.800Z,33.2666667,-116.611,16.72,1.19,ml,70,20,0.07388,0.2,ci,ci40447474,2025-09-21T09:34:20.973Z,"3 km SE of Warner Springs, CA",earthquake,0.15,0.41,0.206,26,automatic,ci,ci
-2025-09-21T09:30:27.882Z,51.2024,-178.0199,30,5.5,mww,147,42,0.559,1.08,us,us7000qxp1,2025-09-21T17:14:22.542Z,"121 km SW of Adak, Alaska",earthquake,3.97,1.809,0.046,46,reviewed,us,us
+2025-09-21T09:30:27.882Z,51.2024,-178.0199,30,5.5,mww,147,42,0.559,1.08,us,us7000qxp1,2025-09-21T21:40:33.179Z,"121 km SW of Adak, Alaska",earthquake,3.97,1.809,0.046,46,reviewed,us,us
 2025-09-21T09:25:55.950Z,33.2306667,-116.1033333,9.93,1.77,ml,76,32,0.09232,0.18,ci,ci40447466,2025-09-21T17:04:29.545Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.12,0.39,0.164,80,reviewed,ci,ci
 2025-09-21T09:23:29.940Z,33.2686667,-116.6065,17.09,0.99,ml,56,23,0.07729,0.2,ci,ci40447458,2025-09-21T09:27:04.755Z,"3 km ESE of Warner Springs, CA",earthquake,0.17,0.43,0.213,27,automatic,ci,ci
 2025-09-21T09:13:51.660Z,38.81583404541,-122.8184967041,2.2200000286102,1.08,md,14,55,0.01001,0.02,nc,nc75240187,2025-09-21T11:07:17.786Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.639999986,0.16,15,automatic,nc,nc
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T22:04:30.553Z,63.1142,-149.1881,67.4,1.7,ml,,,,0.52,ak,ak025c3bgqen,2025-09-20T22:11:59.681Z,"33 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-20T21:55:37.800Z,38.833667755127,-122.81700134277,1.6599999666214,1.61,md,26,72,0.0116,0.03,nc,nc75239992,2025-09-21T00:42:19.290Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.310000002,0.13,25,automatic,nc,nc
 2025-09-20T21:43:31.230Z,36.021499633789,-120.5830001831,3,1.3,md,12,119,0.03949,0.06,nc,nc75239987,2025-09-21T00:17:20.112Z,"19 km NNW of Parkfield, CA",earthquake,0.33,0.660000026,0.33,4,automatic,nc,nc
-2025-09-20T21:38:48.700Z,35.61216667,-98.04816667,7.73,1.53,ml,88,69,0.1529699821,0.2,ok,ok2025smiq,2025-09-20T23:01:13.459Z,"6 km E of Calumet, Oklahoma",earthquake,,0.4,0.25,42,reviewed,ok,ok
-2025-09-20T21:38:04.170Z,39.817333333333,-123.36116666667,-1.01,1.84,md,38,48,0.08985,0.25,nc,nc75239982,2025-09-21T21:07:17.187Z,"10 km WNW of Covelo, CA",earthquake,0.24,0.81,0.194,26,reviewed,nc,nc
