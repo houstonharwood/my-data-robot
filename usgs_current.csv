@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-23T11:20:55.990Z,37.857666015625,-122.24566650391,7.3600001335144,1.99,md,58,35,0.01503,0.11,nc,nc75240872,2025-09-23T11:23:43.902Z,"3 km SE of Berkeley, CA",earthquake,0.16,0.349999994,0.2,46,automatic,nc,nc
-2025-09-23T11:20:50.670Z,37.85599899292,-122.24349975586,7.0599999427795,2.3,md,18,65,0.02114,0.04,nc,nc75240867,2025-09-23T11:23:17.985Z,"3 km SE of Berkeley, CA",earthquake,0.23,0.449999988,0.19,14,automatic,nc,nc
+2025-09-23T11:27:08.860Z,35.4598351,-119.3280029,26.52,1.8,ml,29,99,0.1303,0.25,ci,ci40448698,2025-09-23T11:29:46.750Z,"7 km SW of Shafter, CA",earthquake,0.51,0.81,0.358,22,automatic,ci,ci
+2025-09-23T11:20:55.990Z,37.857666015625,-122.24566650391,7.3600001335144,1.99,md,58,35,0.01503,0.11,nc,nc75240872,2025-09-23T11:30:36.542Z,"3 km SE of Berkeley, CA",earthquake,0.16,0.349999994,0.2,46,automatic,nc,nc
+2025-09-23T11:20:50.670Z,37.85599899292,-122.24349975586,7.0599999427795,2.3,md,18,65,0.02114,0.04,nc,nc75240867,2025-09-23T11:28:33.835Z,"3 km SE of Berkeley, CA",earthquake,0.23,0.449999988,0.19,14,automatic,nc,nc
 2025-09-23T11:17:35.130Z,33.7043343,-116.8170013,15.66,1.2,ml,34,44,0.0907,0.19,ci,ci40448682,2025-09-23T11:19:38.394Z,"9 km SE of Valle Vista, CA",earthquake,0.29,0.6,0.288,9,automatic,ci,ci
 2025-09-23T11:06:48.200Z,33.9718323,-116.6776657,12.52,0.97,ml,20,123,0.07095,0.14,ci,ci40448674,2025-09-23T11:08:51.428Z,"12 km ENE of Cabazon, CA",earthquake,0.46,1.14,0.421,4,automatic,ci,ci
 2025-09-23T10:48:09.000Z,39.107,-119.0661,3.8,1.2,ml,14,75.4,0.182,0.1523,nn,nn00904854,2025-09-23T10:50:31.111Z,"15 km NNE of Yerington, Nevada",earthquake,,13.5,0.26,9,automatic,nn,nn
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T03:21:44.080Z,38.786167144775,-122.76750183106,2.829999923706,0.89,md,9,101,0.01548,0.03,nc,nc75240742,2025-09-23T04:17:19.766Z,"1 km NNW of The Geysers, CA",earthquake,0.41,1.12,0.43,8,automatic,nc,nc
 2025-09-23T03:04:39.423Z,63.336,-145.4389,7.1,1.7,ml,,,,0.51,ak,ak025c7yrk2v,2025-09-23T03:07:47.008Z,"28 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-23T03:03:12.800Z,33.1466675,-115.9953308,5.72,1.45,ml,67,35,0.03055,0.27,ci,ci40448498,2025-09-23T03:05:29.825Z,"13 km E of Ocotillo Wells, CA",earthquake,0.23,0.64,0.31,14,automatic,ci,ci
-2025-09-23T03:01:06.516Z,28.813,-99.072,9.83,1.6,ml,7,103,0.3,0.3,tx,tx2025ssrlhu,2025-09-23T03:04:00.719Z,"9 km SSE of Pearsall, Texas",earthquake,0,8.0392799377441,0.4,6,automatic,tx,tx
+2025-09-23T03:01:03.956Z,28.786,-99.048,3.235,1.5,ml,16,59,0.1,0.4,tx,tx2025ssrlhu,2025-09-23T11:27:24.478Z,"12 km SSE of Pearsall, Texas",earthquake,1.8754632630408,2.0488372023213,0.1,9,reviewed,tx,tx
 2025-09-23T02:58:43.003Z,63.2585,-150.5594,120.6,1.8,ml,,,,0.3,ak,ak025c7yhpf0,2025-09-23T03:01:20.095Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-23T02:32:36.560Z,37.0424,-116.4275,9.3,0.7,ml,17,79.23,0.042,0.2537,nn,nn00904839,2025-09-23T02:34:47.831Z,"33 km ENE of Beatty, Nevada",earthquake,,0.8,0.37,10,automatic,nn,nn
 2025-09-23T02:23:51.646Z,38.6743,-97.4972,10.984,2.9,mb_lg,35,94,0.728,0.57,us,us6000rc7j,2025-09-23T03:37:18.948Z,"6 km WSW of Gypsum, Kansas",earthquake,2.18,8.618,0.05,106,reviewed,us,us
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T11:56:33.340Z,10.7273,-86.4702,10,4.6,mb,135,170,1.133,0.84,us,us7000qxte,2025-09-22T12:22:05.040Z,"83 km NW of Tamarindo, Costa Rica",earthquake,7.38,1.927,0.042,168,reviewed,us,us
 2025-09-22T11:45:40.319Z,62.3649,-150.0776,14.6,1.4,ml,,,,0.55,ak,ak025c6g8gun,2025-09-22T11:47:24.175Z,"4 km NNE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-22T11:31:12.034Z,63.3439,-145.5399,10.8,1.4,ml,,,,0.32,ak,ak025c6g5en7,2025-09-22T11:32:43.454Z,"28 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-22T11:30:25.960Z,-15.6773,-69.2872,261.909,4.5,mb,152,116,1.267,0.68,us,us7000qxtc,2025-09-22T11:52:16.040Z,"27 km SE of Putina, Peru",earthquake,9.72,6.632,0.03,333,reviewed,us,us
