@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-23T22:06:57.780Z,38.7936668396,-122.75316619873,0.62999999523163,1.08,md,8,104,0.008628,0.01,nc,nc75241122,2025-09-23T22:08:31.639Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.589999974,0.18,7,automatic,nc,nc
+2025-09-23T22:06:57.780Z,38.7936668396,-122.75316619873,0.62999999523163,1.08,md,8,104,0.008628,0.01,nc,nc75241122,2025-09-23T22:32:19.675Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.589999974,0.18,7,automatic,nc,nc
 2025-09-23T22:06:46.560Z,38.802665710449,-122.77983093262,0.80000001192093,0.75,md,10,112,0.0106,0.02,nc,nc75241117,2025-09-23T22:22:16.593Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.709999979,0.4,11,automatic,nc,nc
 2025-09-23T22:03:50.995Z,3.8617,127.1634,43.606,4.5,mb,23,171,1.89,0.29,us,us6000rcf7,2025-09-23T22:24:37.040Z,"253 km NNW of Tobelo, Indonesia",earthquake,8.9,10.413,0.14,15,reviewed,us,us
 2025-09-23T21:54:01.254Z,32.411,-102.048,3.952,1,ml,18,83,0.1,0.5,tx,tx2025suczof,2025-09-23T22:00:42.782Z,"33 km WSW of Ackerly, Texas",earthquake,0,1.1838845014572,0.2,12,automatic,tx,tx
@@ -210,7 +210,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T01:30:44.490Z,46.200833333333,-122.19816666667,7.3,-0.15,ml,10,100,0.00882,0.11,uw,uw62192896,2025-09-23T04:01:53.700Z,"37 km NNE of Amboy, Washington",earthquake,0.43,0.53,0.08225985372332,3,reviewed,uw,uw
 2025-09-23T01:23:42.360Z,38.825832366943,-122.81800079346,1.3099999427795,1.25,md,8,73,0.006653,0.01,nc,nc75240722,2025-09-23T03:27:17.423Z,"8 km NNW of The Geysers, CA",earthquake,0.36,0.949999988,0.38,8,automatic,nc,nc
 2025-09-23T01:22:51.710Z,33.6638333,-116.717,15.85,0.38,ml,18,83,0.03638,0.15,ci,ci40448442,2025-09-23T16:13:32.036Z,"8 km S of Idyllwild, CA",earthquake,0.39,0.55,0.063,9,automatic,ci,ci
-2025-09-23T01:21:57.600Z,37.858001708984,-122.24466705322,7.0799999237061,2.96,md,83,29,0.01499,0.08,nc,nc75240717,2025-09-23T20:21:41.513Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.25,0.15,124,automatic,nc,nc
+2025-09-23T01:21:57.600Z,37.858001708984,-122.24466705322,7.0799999237061,2.96,md,83,29,0.01499,0.08,nc,nc75240717,2025-09-23T22:36:10.814Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.25,0.15,124,automatic,nc,nc
 2025-09-23T01:20:38.285Z,2.911,95.4023,21.418,5.1,mb,77,53,2.695,0.51,us,us6000rc7c,2025-09-23T01:51:25.040Z,"118 km WNW of Sinabang, Indonesia",earthquake,8.91,4.097,0.064,80,reviewed,us,us
 2025-09-23T01:19:14.311Z,2.958,95.5549,27.323,4.4,mb,19,159,2.603,0.45,us,us6000rc7f,2025-09-23T01:47:32.040Z,"105 km WNW of Sinabang, Indonesia",earthquake,7.52,7.209,0.139,15,reviewed,us,us
 2025-09-23T01:03:16.210Z,38.816501617432,-122.79533386231,2.4100000858307,1.26,md,22,44,0.008521,0.02,nc,nc75240702,2025-09-23T02:47:21.127Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.400000006,0.14,21,automatic,nc,nc
@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T23:02:59.809Z,64.7965,-149.0477,18.4,0.9,ml,,,,0.13,ak,ak025c6n4hto,2025-09-22T23:04:25.503Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-22T22:57:57.650Z,37.743000030518,-122.54183197022,13,1.02,md,9,194,0.07438,0.03,nc,nc75240672,2025-09-23T01:57:58.994Z,"4 km WNW of San Francisco Zoo, CA",earthquake,1.74,2.4000001,0.24,5,automatic,nc,nc
 2025-09-22T22:42:34.100Z,35.626,-117.4678333,7.37,1.18,ml,39,48,0.05305,0.15,ci,ci40448346,2025-09-23T15:49:07.872Z,"17 km SSW of Searles Valley, CA",earthquake,0.15,0.51,0.147,23,automatic,ci,ci
-2025-09-22T22:33:31.875Z,59.7715,-152.3173,12.6,1.3,ml,,,,1.07,ak,ak025c6mpn9f,2025-09-22T22:35:19.748Z,"27 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
