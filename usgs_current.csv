@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T07:15:47.279Z,63.4952,-148.0136,3.9,1.8,ml,,,,0.8,ak,ak025cbcacuq,2025-09-25T07:18:57.259Z,"48 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T06:57:02.750Z,34.3365,-116.8618333,1.2,1.63,ml,67,26,0.03067,0.16,ci,ci41097263,2025-09-25T07:00:38.539Z,"8 km N of Big Bear City, CA",earthquake,0.11,0.2,0.144,27,automatic,ci,ci
 2025-09-25T06:55:55.585Z,31.527,-104.022,4.0936,1.8,ml,37,116,0,0.4,tx,tx2025swqrif,2025-09-25T07:01:14.656Z,"32 km NW of Toyah, Texas",earthquake,0,0.96841824054718,0.2,27,automatic,tx,tx
-2025-09-25T06:55:38.603Z,9.894,-70.6699,10,5.8,mb,170,30,1.004,0.69,us,us6000rcrj,2025-09-25T07:33:07.647Z,"28 km E of Mene Grande, Venezuela",earthquake,6.56,1.832,0.021,803,reviewed,us,us
+2025-09-25T06:55:38.603Z,9.894,-70.6699,10,5.8,mb,170,30,1.004,0.69,us,us6000rcrj,2025-09-25T07:38:08.748Z,"28 km E of Mene Grande, Venezuela",earthquake,6.56,1.832,0.021,803,reviewed,us,us
 2025-09-25T06:46:42.430Z,33.5851667,-116.6225,12.7,0.34,ml,16,94,0.01964,0.13,ci,ci41097255,2025-09-25T06:51:55.486Z,"6 km NE of Anza, CA",earthquake,0.28,0.4,0.079,5,automatic,ci,ci
 2025-09-25T06:46:31.850Z,33.5681667,-116.6471667,11.32,0.05,ml,10,158,0.01395,0.16,ci,ci41097247,2025-09-25T06:51:10.483Z,"3 km ENE of Anza, CA",earthquake,1.03,0.7,0.216,4,automatic,ci,ci
 2025-09-25T06:44:36.000Z,33.5781667,-116.6255,12.35,0.67,ml,38,43,0.01222,0.16,ci,ci41097239,2025-09-25T06:49:11.180Z,"5 km ENE of Anza, CA",earthquake,0.18,0.32,0.173,22,automatic,ci,ci
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T04:19:43.137Z,36.7982,-116.0702,6.3,0.2,ml,14,120.35,0.047,0.1179,nn,nn00904973,2025-09-25T04:21:42.241Z,"43 km NW of Indian Springs, Nevada",earthquake,,1,0.3,7,automatic,nn,nn
 2025-09-25T03:54:23.097Z,-9.9124,154.9742,10,5,mww,29,93,6.331,0.76,us,us6000rcqx,2025-09-25T04:27:42.040Z,"286 km SW of Gizo, Solomon Islands",earthquake,8.29,1.834,0.098,10,reviewed,us,us
 2025-09-25T03:51:59.170Z,34.839,-116.4095,1.91,2.72,ml,34,66,0.06203,0.15,ci,ci41096983,2025-09-25T04:35:38.040Z,"26 km WNW of Ludlow, CA",earthquake,0.16,0.31,0.143,25,automatic,ci,ci
-2025-09-25T03:51:39.731Z,9.9272,-70.6916,14,6.3,mww,107,24,1.038,1.09,us,us6000rcqw,2025-09-25T07:27:15.480Z,"27 km ENE of Mene Grande, Venezuela",earthquake,7.35,1.724,0.027,130,reviewed,us,us
+2025-09-25T03:51:39.731Z,9.9272,-70.6916,14,6.3,mww,107,24,1.038,1.09,us,us6000rcqw,2025-09-25T07:41:41.259Z,"27 km ENE of Mene Grande, Venezuela",earthquake,7.35,1.724,0.027,130,reviewed,us,us
 2025-09-25T03:50:50.830Z,33.577,-116.6303333,12.58,0.96,ml,47,39,0.0103,0.19,ci,ci41096975,2025-09-25T03:54:39.473Z,"5 km ENE of Anza, CA",earthquake,0.19,0.34,0.147,28,automatic,ci,ci
 2025-09-25T02:59:14.281Z,56.8532,-157.5889,124.3,2.2,ml,,,,0.57,ak,ak025cb9kjwk,2025-09-25T03:01:45.067Z,"74 km S of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-25T02:46:59.379Z,32.203,-102.143,3.5309,1.3,ml,31,69,0.1,0.5,tx,tx2025swikxd,2025-09-25T02:50:34.314Z,"23 km NNW of Midland, Texas",earthquake,0,0.96227997541428,0.1,19,automatic,tx,tx
@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T08:34:40.926Z,37.998,-118.5064,7.4,2.4,ml,20,47.81,0.254,0.2212,nn,nn00904917,2025-09-24T16:11:49.082Z,"20 km N of Benton, California",earthquake,,1.9,0.36,10,reviewed,nn,nn
 2025-09-24T08:23:32.750Z,45.976333333333,-122.54666666667,16.59,1.44,ml,28,75,0.09908,0.16,uw,uw62193411,2025-09-24T17:45:38.170Z,"10 km NW of Amboy, Washington",earthquake,0.32,0.62,0.1261588265764,17,reviewed,uw,uw
 2025-09-24T07:44:34.556Z,31.716,-104.266,6.8176,1.5,ml,27,52,0,0.1,tx,tx2025suwokw,2025-09-24T14:50:36.878Z,"52 km SSE of Whites City, New Mexico",earthquake,0.65820335112495,0.65119359458719,0.1,26,reviewed,tx,tx
-2025-09-24T07:41:43.960Z,39.613166666667,-111.31483333333,9.64,1.57,ml,22,93,0.08987,0.17,uu,uu80117986,2025-09-24T13:12:13.550Z,"10 km E of Fairview, Utah",earthquake,0.41,0.96,0.18021739999025,5,reviewed,uu,uu
-2025-09-24T07:41:28.960Z,39.611333333333,-111.315,9.8,0.79,md,20,79,0.09056,0.15,uu,uu80117981,2025-09-24T13:31:21.550Z,"10 km E of Fairview, Utah",earthquake,0.4,0.82,0.16282656070903,12,reviewed,uu,uu
