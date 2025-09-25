@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T07:15:47.279Z,63.4952,-148.0136,3.9,1.8,ml,,,,0.8,ak,ak025cbcacuq,2025-09-25T07:18:57.259Z,"48 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T06:57:02.750Z,34.3365,-116.8618333,1.2,1.63,ml,67,26,0.03067,0.16,ci,ci41097263,2025-09-25T07:00:38.539Z,"8 km N of Big Bear City, CA",earthquake,0.11,0.2,0.144,27,automatic,ci,ci
 2025-09-25T06:55:55.585Z,31.527,-104.022,4.0936,1.8,ml,37,116,0,0.4,tx,tx2025swqrif,2025-09-25T07:01:14.656Z,"32 km NW of Toyah, Texas",earthquake,0,0.96841824054718,0.2,27,automatic,tx,tx
-2025-09-25T06:55:38.603Z,9.894,-70.6699,10,5.8,mb,170,30,1.004,0.69,us,us6000rcrj,2025-09-25T07:25:10.605Z,"28 km E of Mene Grande, Venezuela",earthquake,6.56,1.832,0.021,803,reviewed,us,us
+2025-09-25T06:55:38.603Z,9.894,-70.6699,10,5.8,mb,170,30,1.004,0.69,us,us6000rcrj,2025-09-25T07:33:07.647Z,"28 km E of Mene Grande, Venezuela",earthquake,6.56,1.832,0.021,803,reviewed,us,us
 2025-09-25T06:46:42.430Z,33.5851667,-116.6225,12.7,0.34,ml,16,94,0.01964,0.13,ci,ci41097255,2025-09-25T06:51:55.486Z,"6 km NE of Anza, CA",earthquake,0.28,0.4,0.079,5,automatic,ci,ci
 2025-09-25T06:46:31.850Z,33.5681667,-116.6471667,11.32,0.05,ml,10,158,0.01395,0.16,ci,ci41097247,2025-09-25T06:51:10.483Z,"3 km ENE of Anza, CA",earthquake,1.03,0.7,0.216,4,automatic,ci,ci
 2025-09-25T06:44:36.000Z,33.5781667,-116.6255,12.35,0.67,ml,38,43,0.01222,0.16,ci,ci41097239,2025-09-25T06:49:11.180Z,"5 km ENE of Anza, CA",earthquake,0.18,0.32,0.173,22,automatic,ci,ci
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T18:16:46.840Z,44.597,-123.41633333333,-0.51,1.49,ml,9,105,0.09835,0.26,uw,uw62193571,2025-09-25T03:17:31.670Z,"7 km NNW of Philomath, Oregon",explosion,0.75,31.61,0.050940655236824,2,reviewed,uw,uw
 2025-09-24T18:14:01.056Z,60.7921,-151.7311,77.5,1.4,ml,,,,0.16,ak,ak025c9vaguh,2025-09-24T18:15:32.513Z,"26 km WNW of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-09-24T18:03:16.297Z,38.9527,142.1281,55.164,4.6,mb,68,141,2.009,0.71,us,us6000rcm8,2025-09-24T20:15:49.040Z,"38 km ESE of Ōfunato, Japan",earthquake,8.72,6.94,0.077,51,reviewed,us,us
-2025-09-24T18:03:02.073Z,35.1481,-82.9319,9.647,1.9,mb_lg,15,49,0.155,0.41,us,us6000rcr2,2025-09-25T05:10:10.318Z,"10 km W of Rosman, North Carolina",earthquake,1.64,2.763,0.193,7,reviewed,us,us
+2025-09-24T18:03:02.073Z,35.1481,-82.9319,9.647,1.9,mb_lg,15,49,0.155,0.41,us,us6000rcr2,2025-09-25T07:33:28.404Z,"10 km W of Rosman, North Carolina",earthquake,1.64,2.763,0.193,7,reviewed,us,us
 2025-09-24T17:54:51.560Z,46.651333333333,-121.93166666667,4.92,0.54,ml,16,126,0.08926,0.1,uw,uw62193551,2025-09-25T00:47:01.420Z,"14 km SSE of Ashford, Washington",earthquake,0.33,0.93,0.059194075493581,5,reviewed,uw,uw
 2025-09-24T17:39:16.630Z,31.526,-104.014,7.4329,1.8,ml,21,113,0,0.1,tx,tx2025svqgxj,2025-09-24T18:09:58.875Z,"31 km NW of Toyah, Texas",earthquake,0.94031414349098,0.68156771416805,0.1,17,reviewed,tx,tx
 2025-09-24T17:35:59.801Z,-21.5553,-66.4828,226.641,4.1,mb,25,119,2.098,1.16,us,us6000rcm3,2025-09-24T19:46:14.040Z,"73 km SSW of Atocha, Bolivia",earthquake,4.89,14.873,0.3,3,reviewed,us,us
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T07:44:34.556Z,31.716,-104.266,6.8176,1.5,ml,27,52,0,0.1,tx,tx2025suwokw,2025-09-24T14:50:36.878Z,"52 km SSE of Whites City, New Mexico",earthquake,0.65820335112495,0.65119359458719,0.1,26,reviewed,tx,tx
 2025-09-24T07:41:43.960Z,39.613166666667,-111.31483333333,9.64,1.57,ml,22,93,0.08987,0.17,uu,uu80117986,2025-09-24T13:12:13.550Z,"10 km E of Fairview, Utah",earthquake,0.41,0.96,0.18021739999025,5,reviewed,uu,uu
 2025-09-24T07:41:28.960Z,39.611333333333,-111.315,9.8,0.79,md,20,79,0.09056,0.15,uu,uu80117981,2025-09-24T13:31:21.550Z,"10 km E of Fairview, Utah",earthquake,0.4,0.82,0.16282656070903,12,reviewed,uu,uu
-2025-09-24T07:34:44.788Z,36.797,-116.0758,6.7,-0.5,ml,4,280.31,0.044,0.0119,nn,nn00904929,2025-09-24T12:49:57.140Z,"44 km NW of Indian Springs, Nevada",earthquake,,3.3,0,1,reviewed,nn,nn
-2025-09-24T07:29:14.999Z,58.1696,-155.3976,1.1,0.8,ml,,,,0.19,ak,ak025c9oty0b,2025-09-24T07:31:17.172Z,"87 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
