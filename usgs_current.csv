@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-01T18:34:48.379Z,38.3089,-116.8143,11.2,1.6,ml,8,210.95,0.924,0.1235,nn,nn00905270,2025-10-01T18:37:42.149Z,"45 km NE of Tonopah, Nevada",earthquake,,1.4,0.28,3,automatic,nn,nn
-2025-10-01T18:34:24.370Z,38.820835113525,-122.8056640625,2.25,0.8,md,9,146,0.00429,0.02,nc,nc75243571,2025-10-01T18:36:01.435Z,"6 km NW of The Geysers, CA",earthquake,0.57,0.699999988,0.22,9,automatic,nc,nc
+2025-10-01T18:34:24.370Z,38.820835113525,-122.8056640625,2.25,0.8,md,9,146,0.00429,0.02,nc,nc75243571,2025-10-01T18:52:18.076Z,"6 km NW of The Geysers, CA",earthquake,0.57,0.699999988,0.22,9,automatic,nc,nc
 2025-10-01T18:33:11.106Z,63.2521,-150.6785,32.1,1.6,ml,,,,1.4,ak,ak025clg5zom,2025-10-01T18:35:57.225Z,"61 km ESE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-10-01T18:23:15.322Z,28.832,-98.959,11.1837,1.7,ml,6,103,0.4,0.4,tx,tx2025tinuyv,2025-10-01T18:40:35.407Z,"14 km ESE of Pearsall, Texas",earthquake,0,7.4666118621826,0.2,6,automatic,tx,tx
 2025-10-01T18:23:14.410Z,46.079833333333,-118.77533333333,14.33,1.86,ml,11,94,0.1154,0.18,uw,uw62188197,2025-10-01T18:40:45.540Z,"9 km WNW of Touchet, Washington",earthquake,0.47,1.24,0.15267564668025,6,reviewed,uw,uw
@@ -9,8 +9,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T18:08:23.530Z,33.0285,-116.2941667,6.92,1.44,ml,60,40,0.0741,0.19,ci,ci41101383,2025-10-01T18:12:02.978Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.15,0.54,0.203,27,automatic,ci,ci
 2025-10-01T17:57:17.160Z,38.807334899902,-122.79666900635,3.3499999046326,1.06,md,23,48,0.00124,0.02,nc,nc75243566,2025-10-01T18:27:18.991Z,"5 km NW of The Geysers, CA",earthquake,0.28,0.5,0.1,23,automatic,nc,nc
 2025-10-01T17:57:00.345Z,60.0188,-140.9951,19.4,1.2,ml,,,,0.9,ak,ak025clfpofm,2025-10-01T17:59:09.843Z,"88 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-01T17:48:51.780Z,38.753833770752,-122.69966888428,1.2300000190735,1.21,md,10,132,0.01433,0.02,nc,nc75243561,2025-10-01T18:12:17.796Z,"2 km SSW of Anderson Springs, CA",earthquake,0.35,0.360000014,0.09,9,automatic,nc,nc
-2025-10-01T17:30:15.050Z,33.7493333,-117.101,1.87,1.14,ml,31,39,0.0481,0.2,ci,ci41101367,2025-10-01T17:33:57.586Z,"3 km WNW of Green Acres, CA",earthquake,0.23,0.35,0.245,37,automatic,ci,ci
+2025-10-01T17:48:51.780Z,38.753833770752,-122.69966888428,1.2300000190735,1.21,md,10,132,0.01433,0.02,nc,nc75243561,2025-10-01T18:52:18.173Z,"2 km SSW of Anderson Springs, CA",earthquake,0.35,0.360000014,0.09,9,automatic,nc,nc
+2025-10-01T17:30:14.740Z,33.7613333,-117.101,-0.52,0.99,ml,30,45,0.05265,0.21,ci,ci41101367,2025-10-01T18:53:47.593Z,"3 km NW of Green Acres, CA",quarry blast,0.45,31.61,0.124,20,reviewed,ci,ci
 2025-10-01T17:22:57.650Z,35.5371667,-118.4751667,7.11,1.18,ml,27,43,0.1869,0.1,ci,ci41101359,2025-10-01T17:56:22.128Z,"6 km SSE of Bodfish, CA",earthquake,0.17,0.62,0.235,18,reviewed,ci,ci
 2025-10-01T17:13:57.810Z,38.844501495361,-122.83450317383,0.15999999642372,1.05,md,14,117,0.005954,0.04,nc,nc75243536,2025-10-01T18:07:18.899Z,"10 km WNW of Cobb, CA",earthquake,0.25,0.449999988,0.12,15,automatic,nc,nc
 2025-10-01T17:07:35.719Z,61.0083,-150.0977,40,1.2,ml,,,,0.53,ak,ak025clff1cz,2025-10-01T17:09:43.174Z,"25 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -87,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T09:35:51.616Z,55.8554,-158.6722,48.6,1.9,ml,,,,0.21,ak,ak025clatlsp,2025-10-01T09:38:03.662Z,"30 km ESE of Perryville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-10-01T09:21:21.020Z,34.52,-119.0888333,16.99,2.06,ml,79,29,0.09211,0.31,ci,ci41101255,2025-10-01T14:47:57.011Z,"16 km ENE of Ojai, CA",earthquake,0.21,0.61,0.155,110,reviewed,ci,ci
 2025-10-01T09:21:08.740Z,41.101666666667,-111.617,7.94,0.6,md,11,123,0.06654,0.1,uu,uu80004978,2025-10-01T13:45:40.180Z,"8 km NE of Morgan, Utah",earthquake,0.4,0.88,0.23206177351917,4,reviewed,uu,uu
+2025-10-01T09:11:09.640Z,59.358,-153.43883333333,-0.08,-0.87,ml,5,155,0.005507,0.09,av,av93799978,2025-10-01T18:48:44.970Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.25,0.17,0.16888998905451,5,reviewed,av,av
 2025-10-01T09:08:33.216Z,-8.7962,123.6369,109.174,4.3,mb,15,153,1.138,0.52,us,us6000rdym,2025-10-01T12:47:42.040Z,"89 km N of Naisano Dua, Indonesia",earthquake,7.88,9.558,0.142,14,reviewed,us,us
 2025-10-01T09:00:56.797Z,32.118,-102.192,5.542,0.6,ml,13,80,0,0.2,tx,tx2025thvekg,2025-10-01T15:53:01.014Z,"17 km NW of Midland, Texas",earthquake,0.8232509844103,0.83234681013018,0.1,7,reviewed,tx,tx
 2025-10-01T09:00:25.069Z,52.9125,160.3129,54.112,4.4,mb,13,187,1.012,1.17,us,us6000rdyl,2025-10-01T09:13:24.040Z,"114 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,16.17,8.754,0.144,14,reviewed,us,us
@@ -236,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T19:20:08.526Z,31.566,-104.136,6.0999,2.3,ml,51,67,0,0.2,tx,tx2025tgtzct,2025-09-30T19:47:11.360Z,"42 km NW of Toyah, Texas",earthquake,0.50179091755366,0.36477609159798,0.1,29,reviewed,tx,tx
 2025-09-30T19:12:31.770Z,38.838001251221,-122.87966918945,2.1800000667572,1.02,md,13,127,0.002963,0.05,nc,nc75243146,2025-09-30T19:52:21.268Z,"12 km ENE of Cloverdale, CA",earthquake,0.37,0.479999989,0.08,14,automatic,nc,nc
 2025-09-30T19:01:01.538Z,58.5696,-155.1139,10.1,0.9,ml,,,,0.23,ak,ak025cjt1755,2025-10-01T06:33:30.990Z,"90 km E of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-30T18:46:37.841Z,60.6877,-147.7168,20.8,1.5,ml,,,,0.55,ak,ak025cjsphk8,2025-09-30T18:48:40.093Z,"53 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-30T18:46:13.910Z,33.1028333,-116.6151667,5.85,0.72,ml,23,61,0.02634,0.19,ci,ci41101039,2025-09-30T20:41:33.743Z,"3 km NNW of Julian, CA",earthquake,0.28,0.61,0.157,12,reviewed,ci,ci
-2025-09-30T18:45:36.490Z,36.555999755859,-121.13033294678,1.0599999427795,1.57,md,19,66,0.04702,0.24,nc,nc75243131,2025-09-30T19:27:18.084Z,"3 km NNE of Pinnacles, CA",earthquake,0.69,3.19000006,0.21,13,automatic,nc,nc
