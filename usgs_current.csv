@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-05T14:29:09.920Z,34.322,-116.8551667,6.54,1.41,ml,59,39,0.03463,0.15,ci,ci41103079,2025-10-05T14:32:40.938Z,"7 km N of Big Bear City, CA",earthquake,0.13,0.35,0.179,26,automatic,ci,ci
+2025-10-05T14:29:09.920Z,34.322,-116.8551667,6.54,1.41,ml,59,39,0.03463,0.15,ci,ci41103079,2025-10-05T14:40:01.810Z,"7 km N of Big Bear City, CA",earthquake,0.13,0.35,0.179,26,automatic,ci,ci
 2025-10-05T14:09:56.110Z,34.3206667,-116.8548333,6.29,1.45,ml,66,25,0.03547,0.15,ci,ci41103063,2025-10-05T14:20:54.390Z,"7 km N of Big Bear City, CA",earthquake,0.11,0.3,0.16,28,automatic,ci,ci
 2025-10-05T13:55:09.903Z,31.614,-104.35,4.1825,1.8,ml,33,79,0.1,0.3,tx,tx2025tpnvmk,2025-10-05T13:59:54.260Z,"62 km S of Whites City, New Mexico",earthquake,0,1.0630524158478,0.2,24,automatic,tx,tx
 2025-10-05T13:42:30.422Z,62.0365,-150.6091,14.2,1.8,ml,,,,0.29,ak,ak025crze6ki,2025-10-05T13:44:32.364Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T13:35:23.880Z,34.3206667,-116.8536667,6.37,1.28,ml,63,26,0.03486,0.16,ci,ci41103047,2025-10-05T13:46:26.400Z,"7 km N of Big Bear City, CA",earthquake,0.12,0.31,0.156,29,reviewed,ci,ci
 2025-10-05T13:29:27.384Z,30.3314,66.2694,10,4.9,mb,44,104,4.823,0.49,us,us6000reyk,2025-10-05T14:13:09.040Z,"67 km SSW of Chaman, Pakistan",earthquake,10.58,1.894,0.068,68,reviewed,us,us
 2025-10-05T13:28:51.870Z,36.094333648682,-120.66916656494,0.89999997615814,1.24,md,9,176,0.06437,0.06,nc,nc75245141,2025-10-05T13:47:20.288Z,"23 km ENE of San Ardo, CA",earthquake,0.69,7.21000004,0.2,5,automatic,nc,nc
-2025-10-05T13:27:46.770Z,19.332332611084,-155.19799804688,0.62999999523163,2.4,ml,56,82,0.04442,0.230000004,hv,hv74793652,2025-10-05T13:33:12.050Z,"12 km SSE of Volcano, Hawaii",earthquake,0.24,0.289999992,0.44,16,automatic,hv,hv
+2025-10-05T13:27:46.770Z,19.332332611084,-155.19799804688,0.62999999523163,2.4,ml,56,82,0.04442,0.230000004,hv,hv74793652,2025-10-05T14:36:38.040Z,"12 km SSE of Volcano, Hawaii",earthquake,0.24,0.289999992,0.44,16,automatic,hv,hv
 2025-10-05T13:26:32.580Z,33.935,-116.8186667,17.95,0.89,ml,47,40,0.1003,0.15,ci,ci41103039,2025-10-05T13:46:30.000Z,"4 km NW of Cabazon, CA",earthquake,0.15,0.37,0.266,29,reviewed,ci,ci
 2025-10-05T13:23:55.540Z,17.986333333333,-66.835333333333,17.64,2.03,md,9,139,0.03431,0.09,pr,pr71497063,2025-10-05T14:12:23.190Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.41,0.59,0.10768422174976,5,reviewed,pr,pr
 2025-10-05T13:20:09.820Z,34.3208333,-116.8555,6.47,2.6,ml,107,25,0.03569,0.14,ci,ci41103031,2025-10-05T14:31:36.040Z,"7 km N of Big Bear City, CA",earthquake,0.09,0.34,0.152,25,automatic,ci,ci
@@ -230,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T14:45:47.760Z,18.799833333333,-65.578333333333,6.25,3.08,md,20,207,0.4678,0.42,pr,pr71496993,2025-10-04T15:59:55.040Z,"49 km NNE of Vieques, Puerto Rico",earthquake,1.17,1.38,0.1316982184164,20,reviewed,pr,pr
 2025-10-04T14:42:27.850Z,38.822334289551,-122.84183502197,2.2999999523163,1.19,md,11,80,0.005373,0.01,nc,nc75244721,2025-10-04T16:07:16.968Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.949999988,0.26,12,automatic,nc,nc
 2025-10-04T14:42:10.660Z,38.836498260498,-122.80833435059,2.2599999904633,0.21,md,8,78,0.01315,0.01,nc,nc75244716,2025-10-04T15:37:18.762Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.90999997,0.09,8,automatic,nc,nc
-2025-10-04T14:40:52.821Z,32.115,-102.184,4.7352,1.3,mlv,34,78,0,0.5,tx,tx2025tntpyr,2025-10-04T23:31:37.000Z,"16 km NW of Midland, Texas",earthquake,0,0.89027607440948,0.2,25,automatic,tx,tx
-2025-10-04T14:40:51.910Z,38.823001861572,-122.84300231934,1.9500000476837,0.65,md,8,83,0.01777,0.01,nc,nc75244711,2025-10-04T15:12:19.574Z,"9 km NW of The Geysers, CA",earthquake,0.33,1.05999994,0.42,8,automatic,nc,nc
-2025-10-04T14:37:54.380Z,32.118,-102.192,6.958,1.7,ml,48,63,0,0.1,tx,tx2025tntnkv,2025-10-05T09:43:46.019Z,"17 km NW of Midland, Texas",earthquake,0.40683767177645,0.60029173161543,0.2,37,reviewed,tx,tx
