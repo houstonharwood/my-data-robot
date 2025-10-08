@@ -35,12 +35,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T18:27:19.180Z,35.9481667,-117.6675,3.26,0.78,ml,21,51,0.01389,0.13,ci,ci41105287,2025-10-08T18:31:00.714Z,"22 km E of Little Lake, CA",earthquake,0.17,0.31,0.091,15,automatic,ci,ci
 2025-10-08T18:26:26.110Z,38.789165496826,-122.76782989502,1.8600000143051,0.99,md,11,105,0.0162,0.03,nc,nc75246656,2025-10-08T19:07:18.440Z,"2 km NW of The Geysers, CA",earthquake,0.34,0.649999976,0.27,10,automatic,nc,nc
 2025-10-08T18:09:34.419Z,31.605,-104.277,3.9908,1.6,ml,27,93,0.1,0.3,tx,tx2025tvjkre,2025-10-08T18:13:03.985Z,"56 km NW of Toyah, Texas",earthquake,0,1.1590158939362,0.2,19,automatic,tx,tx
-2025-10-08T18:07:04.546Z,28.752,-98.479,7.2984,2.1,ml,14,51,0,0.4,tx,tx2025tvjjem,2025-10-08T19:01:07.887Z,"4 km SSE of Christine, Texas",earthquake,0,2.793110370636,0.1,12,automatic,tx,tx
+2025-10-08T18:07:04.325Z,28.75,-98.504,8.4202,2,mlv,18,100,0,0.5,tx,tx2025tvjjem,2025-10-08T22:16:01.072Z,"4 km S of Christine, Texas",earthquake,0,2.8190946578979,0.2,13,automatic,tx,tx
 2025-10-08T17:46:35.000Z,28.749,-98.464,8.7906,1.2,ml,11,80,0.1,0.1,tx,tx2025tvirmq,2025-10-08T20:02:38.979Z,"5 km SE of Christine, Texas",earthquake,0.47748776889087,0.68160369721316,0.2,6,reviewed,tx,tx
 2025-10-08T17:40:39.230Z,38.830833435059,-122.82083129883,1.960000038147,0.21,md,7,108,0.01382,0.01,nc,nc75246641,2025-10-08T18:07:18.035Z,"8 km NW of The Geysers, CA",earthquake,0.59,2.3900001,0.08,8,automatic,nc,nc
 2025-10-08T17:35:34.410Z,38.78150177002,-122.72283172607,1.5599999427795,1.44,md,15,82,0.011,0.04,nc,nc75246636,2025-10-08T18:42:19.286Z,"3 km WNW of Anderson Springs, CA",earthquake,0.27,0.5,0.13,14,automatic,nc,nc
 2025-10-08T17:33:01.304Z,39.5546,-118.2525,10,1.6,ml,10,102.88,0.265,0.145,nn,nn00905663,2025-10-08T17:54:57.863Z,"42 km ENE of Fallon Station, Nevada",earthquake,,1.9,0.18,7,reviewed,nn,nn
-2025-10-08T17:23:53.400Z,20.027833333333,-155.81083333333,23.26,3.35,ml,60,136,0.102,0.13,hv,hv74798307,2025-10-08T21:37:54.525Z,"6 km NNE of Puako, Hawaii",earthquake,0.46,0.85,0.19555149892231,48,reviewed,hv,hv
+2025-10-08T17:23:53.400Z,20.027833333333,-155.81083333333,23.26,3.35,ml,60,136,0.102,0.13,hv,hv74798307,2025-10-08T22:19:18.074Z,"6 km NNE of Puako, Hawaii",earthquake,0.46,0.85,0.19555149892231,48,reviewed,hv,hv
 2025-10-08T17:23:38.630Z,19.334666666667,-155.01566666667,3.84,0.79,md,15,255,0.0877,0.12,hv,hv74798302,2025-10-08T21:08:45.508Z,"18 km SW of Leilani Estates, Hawaii",earthquake,0.74,31.61,0.1374444830201,4,reviewed,hv,hv
 2025-10-08T17:22:47.974Z,-24.2533,-67.0237,167.18,4.2,mb,40,62,1.673,0.81,us,us6000rfmt,2025-10-08T17:43:00.040Z,"71 km W of San Antonio de los Cobres, Argentina",earthquake,8.62,8.703,0.128,17,reviewed,us,us
 2025-10-08T16:52:39.586Z,28.478,-98.131,11.4204,1.9,ml,5,193,0.1,0.4,tx,tx2025tvgxbp,2025-10-08T16:56:29.523Z,"5 km ENE of Three Rivers, Texas",earthquake,0,9.4594383239746,0.4,5,automatic,tx,tx
@@ -75,9 +75,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T13:38:18.640Z,19.392499923706,-155.39916992188,11.170000076294,1.88,ml,7,138,0.05846,0.0900000036,hv,hv74798097,2025-10-08T13:41:22.240Z,"18 km WSW of Volcano, Hawaii",earthquake,0.91,0.74000001,0.15,4,automatic,hv,hv
 2025-10-08T13:30:57.990Z,44.7965,-110.926,5.63,0.34,md,10,171,0.05438,0.19,uu,uu80118991,2025-10-08T14:22:49.540Z,"20 km NE of West Yellowstone, Montana",earthquake,0.57,1.08,0.11982786544475,5,reviewed,uu,uu
 2025-10-08T13:20:35.607Z,39.1501,-119.0683,8.8,1.5,ml,14,75.48,0.212,0.1194,nn,nn00905653,2025-10-08T13:23:01.558Z,"19 km NNE of Yerington, Nevada",earthquake,,1.7,0.17,9,automatic,nn,nn
+2025-10-08T13:16:56.420Z,58.158,-155.3275,0.95,0.92,ml,13,68,0.05252,0.06,av,av93810798,2025-10-08T22:16:33.850Z,"83 km NW of Karluk, Alaska",earthquake,0.15,0.64,0.37907762823452,13,reviewed,av,av
 2025-10-08T13:01:36.518Z,28.758,-98.459,8.2799,1.6,ml,13,59,0,0.1,tx,tx2025tuzfyi,2025-10-08T14:28:10.023Z,"5 km SE of Christine, Texas",earthquake,0.5753010764923,0.74568415862224,0.1,8,reviewed,tx,tx
 2025-10-08T12:44:09.950Z,38.837001800537,-122.83616638184,1.4199999570847,0.99,md,16,101,0.001671,0.01,nc,nc75246486,2025-10-08T13:22:16.983Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.11,16,automatic,nc,nc
 2025-10-08T12:28:36.010Z,34.0091667,-116.4056667,7.06,2.59,ml,93,22,0.0614,0.15,ci,ci41105143,2025-10-08T21:35:46.240Z,"10 km ENE of Desert Hot Springs, CA",earthquake,0.1,0.34,0.156,200,reviewed,ci,ci
+2025-10-08T11:59:53.560Z,55.051666666667,-162.24366666667,1.34,1.4,ml,6,146,0.05925,0.14,av,av93810758,2025-10-08T22:06:05.750Z,"4 km ESE of King Cove, Alaska",earthquake,0.38,1.22,0.35590158557429,6,reviewed,av,av
 2025-10-08T11:58:02.957Z,13.8993,-92.068,10,4.6,mb,41,177,0.823,0.68,us,us6000rfl9,2025-10-08T12:09:40.040Z,"46 km SSW of Champerico, Guatemala",earthquake,10.29,1.965,0.036,231,reviewed,us,us
 2025-10-08T11:52:35.178Z,62.5127,-150.8738,59.9,2.1,ml,,,,0.82,ak,ak025cwwvicb,2025-10-08T11:56:27.736Z,"5 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-08T11:50:06.548Z,36.6553,-115.615,11.4,0.6,ml,9,159.32,0.279,0.0833,nn,nn00905651,2025-10-08T11:52:08.608Z,"10 km NNE of Indian Springs, Nevada",earthquake,,5.2,0.29,3,automatic,nn,nn
@@ -95,8 +97,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T10:33:19.328Z,28.75,-98.463,8.3309,1.4,ml,18,79,0.1,0.1,tx,tx2025tuuiec,2025-10-08T12:50:44.307Z,"5 km SE of Christine, Texas",earthquake,0.57398023040214,0.81319690961411,0.2,11,reviewed,tx,tx
 2025-10-08T10:18:43.414Z,38.4385,-116.4841,7.3,1.9,ml,9,112.71,0.502,0.1691,nn,nn00905642,2025-10-08T17:48:47.640Z,"77 km ENE of Tonopah, Nevada",earthquake,,3.5,0.25,4,reviewed,nn,nn
 2025-10-08T10:16:19.532Z,13.7168,-92.1134,21.584,5,mww,45,159,0.997,1.57,us,us6000rfkv,2025-10-08T10:36:03.040Z,"67 km SSW of Champerico, Guatemala",earthquake,9.03,6.7,0.071,19,reviewed,us,us
+2025-10-08T10:12:23.922Z,28.751,-98.488,7.3883,1.6,mlv,16,91,0,0.5,tx,tx2025tutqek,2025-10-08T22:15:33.067Z,"4 km SSE of Christine, Texas",earthquake,0,2.8689346313477,0.2,12,automatic,tx,tx
 2025-10-08T10:12:23.310Z,61.8614,-148.8153,24.2,1.4,ml,,,,0.34,ak,ak025cww1h7f,2025-10-08T10:13:55.933Z,"9 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-08T10:12:23.062Z,28.752,-98.454,9.904,2,ml,5,173,0.1,0.2,tx,tx2025tutqek,2025-10-08T10:14:04.997Z,"5 km SE of Christine, Texas",earthquake,0,7.1249027252197,0.1,5,automatic,tx,tx
 2025-10-08T10:11:37.240Z,33.5361667,-116.7216667,5.4,0.45,ml,30,42,0.03195,0.12,ci,ci41105119,2025-10-08T13:58:19.200Z,"5 km WSW of Anza, CA",earthquake,0.14,0.36,0.148,14,reviewed,ci,ci
 2025-10-08T10:09:56.830Z,33.4306667,-116.6165,8.9,0.48,ml,36,38,0.06497,0.13,ci,ci41105111,2025-10-08T13:59:21.640Z,"15 km SSE of Anza, CA",earthquake,0.16,0.4,0.211,14,reviewed,ci,ci
 2025-10-08T10:08:03.140Z,36.578666687012,-121.20666503906,4.7199997901917,1.25,md,11,83,0.01847,0.08,nc,nc75246461,2025-10-08T11:22:20.083Z,"8 km NW of Pinnacles, CA",earthquake,0.41,0.939999998,0.2,8,automatic,nc,nc
@@ -171,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T04:16:22.715Z,32.506,-101.247,7.1533,1.2,ml,22,78,0,0.2,tx,tx2025tuhvje,2025-10-08T09:05:39.225Z,"23 km NNE of Coahoma, Texas",earthquake,0.52774681623964,0.69015674931566,0.1,13,reviewed,tx,tx
 2025-10-08T04:14:53.850Z,60.5867,-147.5723,15.9,2.5,ml,,,,0.67,ak,ak025cwshdd8,2025-10-08T04:27:03.777Z,"57 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-08T04:14:33.281Z,37.2964,-116.5354,13.1,-0.3,ml,8,287.81,0.184,0.3126,nn,nn00905622,2025-10-08T04:16:35.955Z,"47 km NNE of Beatty, Nevada",earthquake,,1.4,0.24,2,automatic,nn,nn
-2025-10-08T04:06:25.206Z,37.8117,-116.3273,0,1.3,ml,10,206.82,0.601,0.4529,nn,nn00905620,2025-10-08T04:09:06.385Z,"54 km WNW of Rachel, Nevada",earthquake,,51.3,0.56,5,automatic,nn,nn
+2025-10-08T04:06:13.896Z,38.445,-116.4919,9.9,1.2,ml,5,160.09,0.499,0.0351,nn,nn00905620,2025-10-08T22:18:29.334Z,"77 km ENE of Tonopah, Nevada",earthquake,,7.2,0.09,3,reviewed,nn,nn
 2025-10-08T04:04:29.280Z,19.196166666667,-155.44416666667,6.86,1.01,md,13,151,0.04394,0.09,hv,hv74797527,2025-10-08T21:17:03.900Z,"3 km ESE of Pāhala, Hawaii",earthquake,0.35,0.79,0.026161211444365,4,reviewed,hv,hv
 2025-10-08T04:03:05.900Z,39.0005,-111.40083333333,-0.61,1.05,md,8,82,0.03281,0.05,uu,uu80118971,2025-10-08T14:04:10.890Z,"15 km WNW of Emery, Utah",earthquake,0.6,0.35,0.3949593564465,7,reviewed,uu,uu
 2025-10-08T04:00:00.820Z,35.541,-96.74783333,6.42,1.18,ml,78,49,0.009898057663,0.19,ok,ok2025trwu,2025-10-08T12:12:27.472Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.22,32,reviewed,ok,ok
@@ -191,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T03:00:38.408Z,28.754,-98.457,8.8897,1.2,ml,9,77,0.1,0.1,tx,tx2025tuficf,2025-10-08T12:25:10.143Z,"5 km SE of Christine, Texas",earthquake,0.887230941131,0.89638746791783,0.1,7,reviewed,tx,tx
 2025-10-08T02:55:53.360Z,44.799833333333,-110.8475,4.68,0.9,ml,18,109,0.0117,0.13,uu,uu80118961,2025-10-08T13:28:35.380Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.3,0.36,0.5257025830243,2,reviewed,uu,uu
 2025-10-08T02:54:38.460Z,34.9903333,-119.0011667,17.49,0.87,ml,22,113,0.08498,0.14,ci,ci41104959,2025-10-08T21:53:22.760Z,"8 km NW of Grapevine, CA",earthquake,0.31,0.57,0.155,23,reviewed,ci,ci
-2025-10-08T02:53:16.619Z,38.4547,-116.5203,8.3,1.1,ml,5,212.73,0.483,0.1586,nn,nn00905618,2025-10-08T20:58:50.117Z,"75 km NE of Tonopah, Nevada",earthquake,,3.3,0.09,3,reviewed,nn,nn
+2025-10-08T02:53:16.089Z,38.4345,-116.4829,5.7,1.2,ml,7,150.24,0.501,0.1678,nn,nn00905618,2025-10-08T21:59:59.799Z,"77 km ENE of Tonopah, Nevada",earthquake,,4.6,0.09,3,reviewed,nn,nn
 2025-10-08T02:40:54.709Z,61.2383,-147.5534,13.3,1.3,ml,,,,0.68,ak,ak025cwrg2ux,2025-10-08T02:44:16.248Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-08T02:38:43.351Z,-22.0781,-179.6695,609.832,4.3,mb,45,130,4.814,0.44,us,us6000rfit,2025-10-08T02:59:40.040Z,"south of the Fiji Islands",earthquake,13.02,8.063,0.064,69,reviewed,us,us
 2025-10-08T02:12:14.600Z,38.845832824707,-122.81300354004,1.5700000524521,1.41,md,22,91,0.01196,0.02,nc,nc75246366,2025-10-08T03:12:18.508Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.319999993,0.13,23,automatic,nc,nc
@@ -242,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T22:34:41.820Z,38.821998596191,-122.81283569336,2.960000038147,0.88,md,10,68,0.01737,0.01,nc,nc75246311,2025-10-07T22:52:17.601Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.879999995,0.26,9,automatic,nc,nc
 2025-10-07T22:30:26.280Z,35.474,-115.5331667,-1.27,2.64,ml,13,145,0.01933,0.2,ci,ci41104895,2025-10-08T14:38:54.500Z,"20 km SW of Primm, NV",earthquake,0.6,1.12,0.126,112,reviewed,ci,ci
 2025-10-07T22:23:30.071Z,38.4443,-116.4855,9.5,2,ml,7,151.57,0.504,0.1427,nn,nn00905599,2025-10-08T02:11:12.825Z,"77 km ENE of Tonopah, Nevada",earthquake,,2.9,0.11,3,reviewed,nn,nn
-2025-10-07T22:17:56.875Z,28.756,-98.455,8.8911,1.4,ml,12,76,0.1,0.1,tx,tx2025ttvyni,2025-10-08T13:23:51.539Z,"5 km SE of Christine, Texas",earthquake,0.5439848294127,0.8111676735465,0.1,7,reviewed,tx,tx
-2025-10-07T22:09:35.890Z,18.1625,-67.094833333333,34.81,2.22,md,7,172,0.01571,0.15,pr,pr71497433,2025-10-07T22:16:18.100Z,"4 km NE of Hormigueros, Puerto Rico",earthquake,0.77,1.11,0.1545887870682,7,reviewed,pr,pr
-2025-10-07T22:00:19.550Z,34.37733333,-97.00016667,0,1.2,ml,39,121,0.3113389047,0.38,ok,ok2025trkx,2025-10-08T12:47:36.377Z,"5 km ESE of Dougherty, Oklahoma",quarry blast,,0.6,0.18,16,reviewed,ok,ok
