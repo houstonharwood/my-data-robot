@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-10T14:15:19.020Z,38.770999908447,-122.72566986084,1.1100000143051,0.74,md,5,132,0.009414,0.01,nc,nc75247366,2025-10-10T14:16:53.198Z,"3 km ESE of The Geysers, CA",earthquake,1.44,2.77999997,0.08,7,automatic,nc,nc
+2025-10-10T14:15:19.020Z,38.770999908447,-122.72566986084,1.1100000143051,0.74,md,5,132,0.009414,0.01,nc,nc75247366,2025-10-10T14:32:17.110Z,"3 km ESE of The Geysers, CA",earthquake,1.44,2.77999997,0.08,7,automatic,nc,nc
 2025-10-10T14:06:16.450Z,33.3453333,-116.8183333,5.39,0.55,ml,23,70,0.038,0.23,ci,ci41106143,2025-10-10T14:10:19.050Z,"4 km ESE of Palomar Observatory, CA",earthquake,0.39,0.83,0.147,13,automatic,ci,ci
 2025-10-10T14:01:27.830Z,57.6302,-155.3549,22.2,1.4,ml,,,,0.18,ak,ak025d09fk33,2025-10-10T14:03:09.944Z,"54 km W of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2025-10-10T13:54:02.120Z,38.798667907715,-122.74816894531,1.1000000238419,0.98,md,11,101,0.01782,0.02,nc,nc75247361,2025-10-10T13:55:38.051Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.860000014,0.17,11,automatic,nc,nc
+2025-10-10T13:54:02.120Z,38.798667907715,-122.74816894531,1.1000000238419,0.98,md,11,101,0.01782,0.02,nc,nc75247361,2025-10-10T14:22:19.050Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.860000014,0.17,11,automatic,nc,nc
 2025-10-10T13:51:54.966Z,68.7489,-145.6679,0,3.1,ml,,,,0.95,ak,ak025d094w8y,2025-10-10T14:07:30.958Z,"69 km N of Arctic Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-10T13:48:44.850Z,37.267333984375,-122.03883361816,4.0999999046326,1.45,md,8,168,0.01891,0.06,nc,nc75247356,2025-10-10T14:07:17.939Z,"1 km WNW of Saratoga, CA",earthquake,0.48,0.479999989,0.2,8,automatic,nc,nc
+2025-10-10T13:48:44.850Z,37.267333984375,-122.03883361816,4.0999999046326,1.45,md,8,168,0.01891,0.06,nc,nc75247356,2025-10-10T14:22:20.050Z,"1 km WNW of Saratoga, CA",earthquake,0.48,0.479999989,0.2,8,automatic,nc,nc
 2025-10-10T13:44:25.543Z,57.9737,-152.9518,25.9,1.8,ml,,,,0.72,ak,ak025d093c3e,2025-10-10T13:57:14.354Z,"9 km SSW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-10T13:39:24.188Z,28.693,-98.233,13.1237,1.6,ml,4,156,0.1,0,tx,tx2025tyryhm,2025-10-10T13:42:46.777Z,"22 km W of Pawnee, Texas",earthquake,0,9.3121099472046,0.2,4,automatic,tx,tx
 2025-10-10T13:33:31.680Z,18.059833333333,-66.090333333333,17.66,1.23,md,4,134,0.07498,0.13,pr,pr71497688,2025-10-10T13:53:46.760Z,"5 km NW of Yaurel, Puerto Rico",earthquake,1.05,0.75,0.24181401881658,3,reviewed,pr,pr
@@ -181,6 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T20:06:54.260Z,35.431,-118.528,4.71,1.38,ml,37,54,0.1646,0.19,ci,ci41105871,2025-10-09T20:10:24.896Z,"18 km S of Bodfish, CA",earthquake,0.2,0.9,0.176,28,automatic,ci,ci
 2025-10-09T20:04:45.901Z,41.195,-116.7188,8.2,2.8,ml,8,254.34,0.313,0.1355,nn,nn00905722,2025-10-10T00:16:25.801Z,"56 km NE of Valmy, Nevada",earthquake,,4.8,0.24,3,reviewed,nn,nn
 2025-10-09T19:55:00.939Z,64.756,-146.9448,9.1,2.9,ml,,,,0.72,ak,ak025cyp6w7a,2025-10-09T22:22:16.962Z,"10 km ENE of Moose Creek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2025-10-09T19:35:52.360Z,46.0075,-112.46716666667,-2,1.77,ml,14,71,0.0609,0.08,mb,mb90116173,2025-10-10T14:36:53.020Z,"5 km E of Butte, Montana",quarry blast,0.28,31.61,0.24900900721883,18,reviewed,mb,mb
 2025-10-09T19:32:50.416Z,60.859,-149.1201,13.1,1.1,ml,,,,0.36,ak,ak025cyp22k1,2025-10-09T19:34:43.555Z,"9 km SSE of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-09T19:29:49.500Z,62.3418,-148.5012,38,1.2,ml,,,,0.28,ak,ak025cyp1fc6,2025-10-09T19:31:44.150Z,"60 km N of Chickaloon, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-10-09T19:27:18.840Z,38.831665039062,-122.81349945068,1.9500000476837,1.15,md,23,49,0.008681,0.02,nc,nc75247076,2025-10-09T20:47:19.447Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.360000014,0.18,23,automatic,nc,nc
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T14:46:09.644Z,31.595,-104.206,6.0999,1.5,ml,31,69,0.1,0.1,tx,tx2025twykyr,2025-10-09T17:57:43.335Z,"50 km NW of Toyah, Texas",earthquake,0.5151743133717,0.72065721661207,0.1,17,reviewed,tx,tx
 2025-10-09T14:45:06.944Z,-52.0044,14.604,10,5.2,mb,69,65,20.128,0.6,us,us6000rfux,2025-10-09T17:23:45.040Z,"southwest of Africa",earthquake,9.78,1.801,0.088,42,reviewed,us,us
 2025-10-09T14:41:21.686Z,63.1584,-147.6852,3.2,1.7,ml,,,,1,ak,ak025cym4rrb,2025-10-09T14:46:20.499Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-09T14:35:05.294Z,28.676,-98.226,7.8013,1.4,ml,13,63,0.2,0.2,tx,tx2025twybkf,2025-10-09T19:16:48.862Z,"21 km W of Pawnee, Texas",earthquake,0.73806945656228,3.7743424283677,0.1,9,reviewed,tx,tx
