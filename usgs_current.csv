@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T11:28:54.990Z,34.0165,-117.2106667,13.51,1.02,ml,59,26,0.07579,0.16,ci,ci41112175,2025-10-21T11:32:56.646Z,"5 km SSW of Redlands, CA",earthquake,0.14,0.33,0.268,27,automatic,ci,ci
 2025-10-21T11:25:17.623Z,62.9865,-150.4887,93.6,1.8,ml,,,,0.51,ak,ak025diep73m,2025-10-21T11:27:36.216Z,"56 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-10-21T11:20:10.220Z,32.9755,-115.5338333,10.51,1.35,ml,37,40,0.07721,0.29,ci,ci41112167,2025-10-21T11:23:35.185Z,"0 km SW of Brawley, CA",earthquake,0.3,0.71,0.262,26,automatic,ci,ci
+2025-10-21T11:20:10.220Z,32.9755,-115.5338333,10.51,1.35,ml,37,40,0.07721,0.29,ci,ci41112167,2025-10-21T11:30:38.320Z,"0 km SW of Brawley, CA",earthquake,0.3,0.71,0.262,26,automatic,ci,ci
 2025-10-21T11:11:45.860Z,33.6546667,-116.7456667,13.33,0.57,ml,25,62,0.0616,0.15,ci,ci41112159,2025-10-21T11:15:24.125Z,"10 km SSW of Idyllwild, CA",earthquake,0.22,0.44,0.232,14,automatic,ci,ci
 2025-10-21T11:00:27.872Z,38.411,-119.5542,9.1662,1.52,ml,12,86,0.109,0.1632,nn,nn00906180,2025-10-21T11:03:16.374Z,"13 km SSW of Walker, California",earthquake,,0.8628,,,automatic,nn,nn
 2025-10-21T10:53:15.500Z,63.5399,-147.7453,1.9,1.8,ml,,,,0.79,ak,ak025die9rdk,2025-10-21T10:56:49.495Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-21T08:07:46.584Z,60.4165,-151.6407,58.8,1.8,ml,,,,0.34,ak,ak025dict3r7,2025-10-21T08:16:24.363Z,"19 km WNW of Cohoe, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-10-21T08:02:36.663Z,30.2273,52.0003,10,5,mb,69,90,6.449,1.1,us,us6000rieu,2025-10-21T09:39:07.241Z,"47 km ENE of Nūrābād, Iran",earthquake,8.38,1.858,0.075,57,reviewed,us,us
 2025-10-21T07:45:50.730Z,38.801166534424,-122.76950073242,1.0700000524521,0.56,md,7,127,0.01491,0.03,nc,nc75252231,2025-10-21T08:27:18.302Z,"3 km NNW of The Geysers, CA",earthquake,0.4,1.02999997,0.2,8,automatic,nc,nc
-2025-10-21T07:39:47.320Z,18.8275,-65.2176,73,4,md,8,313,0.8034,0.3,pr,pr2025294000,2025-10-21T08:05:42.364Z,"58 km N of Culebra, Puerto Rico",earthquake,8.64,12.53,0.11,5,reviewed,pr,pr
+2025-10-21T07:39:47.320Z,18.8275,-65.2176,73,4,md,8,313,0.8034,0.3,pr,pr2025294000,2025-10-21T11:28:35.869Z,"58 km N of Culebra, Puerto Rico",earthquake,8.64,12.53,0.11,5,reviewed,pr,pr
 2025-10-21T06:44:43.187Z,62.8337,-150.2758,79.8,1.8,ml,,,,0.5,ak,ak025dibu5ni,2025-10-21T06:46:36.893Z,"43 km NNW of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-21T06:38:38.549Z,32.408,-101.397,3.0432,1.2,ml,17,94,0,0.4,tx,tx2025usizjf,2025-10-21T11:25:45.269Z,"14 km NNW of Sand Springs, Texas",earthquake,0,1.2412924766541,0.2,12,automatic,tx,tx
 2025-10-21T06:38:33.200Z,33.4175,-116.3688333,12.2,0.84,ml,52,38,0.07402,0.18,ci,ci41112111,2025-10-21T06:42:02.192Z,"18 km N of Borrego Springs, CA",earthquake,0.17,0.45,0.141,28,automatic,ci,ci
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T12:00:28.653Z,62.097,-151.2552,81.9,2.5,ml,,,,0.49,ak,ak025dgrly5z,2025-10-20T12:54:16.040Z,"14 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-20T11:49:01.500Z,33.1898333,-116.3896667,13.36,0.83,ml,49,34,0.08148,0.18,ci,ci41111623,2025-10-20T14:00:38.750Z,"8 km S of Borrego Springs, CA",earthquake,0.19,0.45,0.164,19,reviewed,ci,ci
 2025-10-20T11:40:09.710Z,38.833999633789,-122.80750274658,2.1600000858307,0.72,md,9,68,0.01411,0.01,nc,nc75251946,2025-10-20T13:27:19.525Z,"7 km W of Cobb, CA",earthquake,0.37,1.25999999,0.1,11,automatic,nc,nc
-2025-10-20T11:35:51.115Z,6.9405,127.3427,10,5.8,mww,90,51,1.755,1.31,us,us6000ri9x,2025-10-20T22:23:38.272Z,"93 km ESE of Santiago, Philippines",earthquake,6.95,1.853,0.044,50,reviewed,us,us
