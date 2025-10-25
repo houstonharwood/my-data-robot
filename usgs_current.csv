@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T12:17:43.140Z,17.994333333333,-66.3075,12.62,2.12,md,6,191,0.1884,0.05,pr,pr71498768,2025-10-25T12:27:01.580Z,"1 km NE of Las Ochenta, Puerto Rico",earthquake,0.73,0.54,0.045539123871571,4,reviewed,pr,pr
 2025-10-25T12:07:09.919Z,65.2602,-144.5842,0,1.4,ml,,,,0.62,ak,ak025dp1c57k,2025-10-25T12:16:35.028Z,"36 km SSE of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-25T12:03:35.630Z,38.808498382568,-122.78033447266,2.2400000095367,3.09,ml,79,33,0.004762,0.09,nc,nc75254401,2025-10-25T13:29:14.841Z,"4 km NNW of The Geysers, CA",earthquake,0.11,0.189999998,0.179,13,automatic,nc,nc
-2025-10-25T11:57:05.290Z,38.801166534424,-122.8201675415,2.6300001144409,1.07,md,13,80,0.01043,0.02,nc,nc75254391,2025-10-25T12:17:21.033Z,"6 km WNW of The Geysers, CA",earthquake,0.32,0.75,0.08,14,automatic,nc,nc
+2025-10-25T11:57:05.290Z,38.801166534424,-122.8201675415,2.6300001144409,1.07,md,13,80,0.01043,0.02,nc,nc75254391,2025-10-25T13:47:19.619Z,"6 km WNW of The Geysers, CA",earthquake,0.32,0.75,0.08,14,automatic,nc,nc
 2025-10-25T11:55:53.520Z,39.0149,-116.8573,1.289,2.49,ml,15,213,1.231,0.3262,nn,nn00906335,2025-10-25T11:59:25.673Z,"28 km SE of Kingston, Nevada",earthquake,,8.1483,0.2,11,automatic,nn,nn
 2025-10-25T11:52:06.172Z,65.2406,-144.6112,0,2.7,ml,,,,0.6,ak,ak025dp10cg6,2025-10-25T11:54:59.681Z,"38 km SSE of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-25T11:45:23.124Z,43.0788,131.0017,561.686,5.2,mb,95,30,1.33,0.51,us,us6000rjf6,2025-10-25T12:56:28.501Z,"39 km NW of Slavyanka, Russia",earthquake,10.22,7.854,0.021,742,reviewed,us,us
@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T19:28:45.166Z,32.332,-101.234,2.7421,1.4,ml,16,95,0,0.4,tx,tx2025uyvrqy,2025-10-24T19:31:33.083Z,"7 km ENE of Coahoma, Texas",earthquake,0,1.517597079277,0.1,11,automatic,tx,tx
 2025-10-24T19:26:59.088Z,32.001,-102.23,5.1829,2,ml,9,113,0,0.7,tx,tx2025uyvpyq,2025-10-24T19:28:51.721Z,"14 km E of Gardendale, Texas",earthquake,0,4.1673250198364,0.3,7,automatic,tx,tx
 2025-10-24T19:19:16.680Z,51.9995,178.56383333333,4.27,0.55,ml,4,307,0.04282,0.12,av,av93051329,2025-10-25T01:59:43.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.74,1.91,0.26555904031359,4,reviewed,av,av
-2025-10-24T19:05:16.572Z,58.363,-153.764,72.1,3,ml,,,,0.49,ak,ak025dnhyf2g,2025-10-24T19:18:19.919Z,"60 km WNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-24T19:05:16.572Z,58.363,-153.764,72.1,3,ml,,,,0.49,ak,ak025dnhyf2g,2025-10-25T13:48:37.040Z,"60 km WNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-24T19:04:14.944Z,12.2331,144.1975,30.453,5.1,mww,85,55,1.498,0.84,us,us6000rj9z,2025-10-25T13:14:20.638Z,"125 km SSW of Merizo Village, Guam",earthquake,7.28,4.563,0.11,8,reviewed,us,us
 2025-10-24T18:46:39.640Z,38.80033493042,-122.81800079346,2.4100000858307,1.49,md,26,64,0.0122,0.03,nc,nc75254031,2025-10-24T21:07:17.884Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.370000005,0.15,27,automatic,nc,nc
 2025-10-24T18:44:09.421Z,38.1939,134.1876,420.278,4,mb,94,36,3.597,0.62,us,us6000rj9v,2025-10-24T21:48:15.040Z,"252 km NNE of Ama, Japan",earthquake,10.42,7.738,0.059,86,reviewed,us,us
@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T15:10:36.521Z,32.405,-102.046,6.8604,1.1,ml,12,66,0,0.1,tx,tx2025uyndfc,2025-10-24T15:23:16.953Z,"33 km WSW of Ackerly, Texas",earthquake,0.67966604025398,1.0939525027502,0.2,10,reviewed,tx,tx
 2025-10-24T14:34:03.871Z,54.5889,-159.8095,35,4.8,mb,39,166,0.274,0.85,us,us6000rj5m,2025-10-24T14:49:32.075Z,"94 km SSE of Sand Point, Alaska",earthquake,4.81,1.957,0.118,25,reviewed,us,us
 2025-10-24T14:03:07.370Z,19.44366645813,-155.26449584961,1.3799999952316,1.95,ml,9,303,0.01677,0.150000006,hv,hv74814046,2025-10-24T14:05:59.130Z,"3 km W of Volcano, Hawaii",earthquake,0.7,0.460000008,0.23,11,automatic,hv,hv
-2025-10-24T13:43:13.100Z,35.7858333,-117.6115,7.1,0.95,ml,24,53,0.03194,0.13,ci,ci41113583,2025-10-24T14:16:34.025Z,"19 km W of Searles Valley, CA",earthquake,0.16,0.42,0.116,15,reviewed,ci,ci
