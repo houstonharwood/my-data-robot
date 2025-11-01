@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-01T20:48:02.360Z,34.2903333,-116.8426667,6.78,1.66,ml,75,24,0.05891,0.17,ci,ci41324048,2025-11-01T20:51:37.497Z,"3 km N of Big Bear City, CA",earthquake,0.11,0.41,0.121,28,automatic,ci,ci
+2025-11-01T20:48:02.360Z,34.2903333,-116.8426667,6.78,1.66,ml,75,24,0.05891,0.17,ci,ci41324048,2025-11-01T20:58:48.750Z,"3 km N of Big Bear City, CA",earthquake,0.11,0.41,0.121,28,automatic,ci,ci
 2025-11-01T20:35:15.830Z,38.833332061768,-122.81183624268,2.2000000476837,0.21,md,7,79,0.01753,0.01,nc,nc75257731,2025-11-01T20:36:53.770Z,"8 km W of Cobb, CA",earthquake,0.44,2.11999989,0.12,8,automatic,nc,nc
 2025-11-01T20:31:33.569Z,61.5066,-146.5149,27.6,2,ml,,,,0.68,ak,ak025e0r08i4,2025-11-01T20:33:36.949Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-01T20:18:51.423Z,60.8939,-148.9079,20,2.2,ml,,,,0.72,ak,ak025e0qxhjq,2025-11-01T20:31:05.068Z,"15 km ESE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T19:03:56.098Z,37.3514,70.0035,10,4.9,mb,74,58,1.464,0.73,us,us6000rkyf,2025-11-01T19:21:19.040Z,"29 km NNE of Rustāq, Afghanistan",earthquake,5.55,1.861,0.053,111,reviewed,us,us
 2025-11-01T18:54:58.783Z,61.0703,-152.4056,25.4,0.6,ml,,,,1.97,ak,ak025e0pyfza,2025-11-01T18:57:52.523Z,"68 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-01T18:47:50.420Z,33.4953333,-116.5365,10.84,0.43,ml,21,65,0.0549,0.17,ci,ci41323976,2025-11-01T18:51:20.737Z,"14 km ESE of Anza, CA",earthquake,0.28,0.53,0.12,14,automatic,ci,ci
+2025-11-01T18:47:34.185Z,38.4879,-116.4746,14.095,2.6,ml,39,45,0.652,0.67,us,us6000rkyb,2025-11-01T20:55:26.040Z,"80 km NE of Tonopah, Nevada",earthquake,3.31,7.24,0.031,134,reviewed,us,us
 2025-11-01T18:41:05.581Z,61.3572,-147.8034,20,2.1,ml,,,,1.1,ak,ak025e0pvgam,2025-11-01T18:43:26.701Z,"50 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-01T18:33:01.760Z,38.822166442871,-122.83999633789,1.9900000095367,0.67,md,8,145,0.003994,0.01,nc,nc75257661,2025-11-01T18:57:19.171Z,"9 km NW of The Geysers, CA",earthquake,0.6,1.16999996,0.06,9,automatic,nc,nc
 2025-11-01T18:18:08.640Z,38.82149887085,-122.84216308594,2.539999961853,1.34,md,23,103,0.005801,0.02,nc,nc75257656,2025-11-01T20:37:19.875Z,"9 km WNW of The Geysers, CA",earthquake,0.24,0.379999995,0.1,22,automatic,nc,nc
@@ -164,5 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T21:07:53.620Z,44.794666666667,-110.8475,4.31,0.86,ml,16,108,0.006687,0.13,uu,uu80120916,2025-10-31T22:18:41.140Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.36,0.43,0.46338681820672,3,reviewed,uu,uu
 2025-10-31T21:07:07.670Z,35.8373333,-117.7028333,8.65,0.6,ml,16,83,0.05803,0.11,ci,ci41323448,2025-10-31T23:13:31.589Z,"21 km ESE of Little Lake, CA",earthquake,0.22,0.53,0.145,9,reviewed,ci,ci
 2025-10-31T21:04:21.770Z,35.982498168945,-120.53816986084,2.789999961853,1.47,md,17,90,0.02689,0.05,nc,nc75257291,2025-10-31T23:27:17.359Z,"13 km NW of Parkfield, CA",earthquake,0.3,0.689999998,0.37,6,automatic,nc,nc
-2025-10-31T20:54:16.820Z,38.787334442139,-122.72883605957,0.89999997615814,0.8,md,7,121,0.0074,0.01,nc,nc75257286,2025-10-31T23:07:17.233Z,"3 km ENE of The Geysers, CA",earthquake,0.53,0.589999974,0.12,6,automatic,nc,nc
-2025-10-31T20:53:24.708Z,-45.3029,96.8721,10,5.9,mww,288,28,18.48,0.54,us,us6000rktg,2025-11-01T17:09:06.856Z,"southeast Indian Ridge",earthquake,9.41,1.688,0.054,33,reviewed,us,us
