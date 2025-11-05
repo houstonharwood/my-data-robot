@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-05T20:50:50.087Z,32.277,-101.929,4.0086,1.1,ml,18,49,0,0.4,tx,tx2025vuzcyy,2025-11-05T20:53:50.646Z,"21 km NW of Stanton, Texas",earthquake,0,1.2072281837463,0.2,11,automatic,tx,tx
 2025-11-05T20:38:30.068Z,32.281,-101.928,3.2151,1.2,ml,36,41,0,0.7,tx,tx2025vuyshi,2025-11-05T20:41:48.553Z,"21 km NW of Stanton, Texas",earthquake,0,0.8655172586441,0.2,21,automatic,tx,tx
 2025-11-05T20:24:02.350Z,32.6078333,-116.9808333,3.16,1.27,ml,36,123,0.04274,0.18,ci,ci40481570,2025-11-05T20:38:38.154Z,"7 km ESE of Chula Vista, CA",earthquake,0.58,0.38,0.077,16,automatic,ci,ci
 2025-11-05T20:17:19.285Z,60.5182,-151.5175,57,2,ml,,,,0.31,ak,ak025e7d2lco,2025-11-05T20:19:05.341Z,"14 km WSW of Kenai, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-11-05T20:01:20.300Z,17.8655,-66.855833333333,7.78,2.14,md,9,247,0.107,0.06,pr,pr71499663,2025-11-05T20:13:42.050Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.2,0.10359983063277,6,reviewed,pr,pr
 2025-11-05T19:44:09.410Z,39.561332702637,-123,1.8300000429153,1.71,md,5,129,0.06567,0.01,nc,nc75259576,2025-11-05T20:07:16.892Z,"17 km NNW of Lake Pillsbury, CA",earthquake,1.78,6.55999994,0.56,4,automatic,nc,nc
 2025-11-05T19:43:32.111Z,32.107,-101.952,4.1356,1.2,ml,30,55,0,0.3,tx,tx2025vuwwyt,2025-11-05T20:00:45.171Z,"15 km W of Stanton, Texas",earthquake,0,0.99175018072128,0.2,22,automatic,tx,tx
-2025-11-05T19:41:21.880Z,32.6538333,-116.6566667,9.02,1.39,ml,5,206,0.3108,0.18,ci,ci40481562,2025-11-05T19:44:53.496Z,"10 km NNW of Tecate, B.C., MX",earthquake,2.33,15.13,0.159,18,automatic,ci,ci
 2025-11-05T19:27:22.120Z,32.9271667,-115.5263333,9.92,1.75,ml,38,37,0.03864,0.28,ci,ci40481554,2025-11-05T19:30:59.759Z,"6 km S of Brawley, CA",earthquake,0.3,0.64,0.187,28,automatic,ci,ci
 2025-11-05T19:22:46.690Z,38.786499023438,-122.76683044434,2.0599999427795,1.01,md,14,79,0.01516,0.03,nc,nc75259566,2025-11-05T19:47:21.737Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.540000021,0.13,13,automatic,nc,nc
 2025-11-05T19:14:38.671Z,32.345,-101.931,8.9111,1.6,ml,32,59,0.1,0.1,tx,tx2025vuvxzd,2025-11-05T20:39:23.504Z,"27 km NNW of Stanton, Texas",earthquake,0.37594692352393,0.51096501578566,0.1,23,reviewed,tx,tx
@@ -51,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T13:16:55.880Z,38.829498291016,-122.81883239746,1.7000000476837,1.37,md,17,61,0.01417,0.02,nc,nc75259461,2025-11-05T14:47:19.768Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.449999988,0.16,16,automatic,nc,nc
 2025-11-05T13:15:11.466Z,31.676,-104.402,6.5613,1.8,ml,32,69,0,0.2,tx,tx2025vukagt,2025-11-05T14:38:54.072Z,"55 km S of Whites City, New Mexico",earthquake,0.85680344549136,0.66719137465591,0.1,18,reviewed,tx,tx
 2025-11-05T12:56:44.259Z,63.3462,-151.4574,3.1,1.5,ml,,,,0.77,ak,ak025e78jjd5,2025-11-05T12:58:42.734Z,"25 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-11-05T12:54:13.940Z,54.754333333333,-163.98666666667,5.01,0.63,ml,4,106,0.04538,0.29,av,av93870566,2025-11-05T20:50:39.880Z,"38 km WSW of False Pass, Alaska",earthquake,0.94,2.56,0.21302916423158,4,reviewed,av,av
 2025-11-05T12:48:17.617Z,32.345,-101.931,7.8857,1,ml,29,46,0.1,0.1,tx,tx2025vujddc,2025-11-05T17:33:38.287Z,"27 km NNW of Stanton, Texas",earthquake,0.33971348357465,0.67643433932614,0.1,30,reviewed,tx,tx
 2025-11-05T12:46:08.479Z,62.7684,-150.7884,78.4,1.9,ml,,,,0.87,ak,ak025e78hbeg,2025-11-05T12:49:14.160Z,"30 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-05T12:33:41.120Z,38.818668365479,-122.76333618164,2.1099998950958,1.45,md,15,115,0.01286,0.03,nc,nc75259456,2025-11-05T14:22:20.509Z,"4 km W of Cobb, CA",earthquake,0.28,0.569999993,0.21,15,automatic,nc,nc
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-04T21:05:57.874Z,39.3826,143.6726,10,4.5,mb,31,148,2.445,0.93,us,us6000rli3,2025-11-05T02:39:13.040Z,"148 km E of Yamada, Japan",earthquake,7.93,1.884,0.121,20,reviewed,us,us
 2025-11-04T21:05:10.287Z,63.0869,-148.4202,65.3,1.1,ml,,,,0.48,ak,ak025e5q2361,2025-11-04T21:07:14.833Z,"43 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-04T21:00:54.400Z,38.80033493042,-122.78416442871,3.1800000667572,0.74,md,17,68,0.007724,0.01,nc,nc75259136,2025-11-04T21:52:19.782Z,"4 km NW of The Geysers, CA",earthquake,0.3,0.680000007,0.07,17,automatic,nc,nc
-2025-11-04T20:55:33.263Z,61.3739,-146.7139,10,1.3,ml,,,,1.01,ak,ak025e5prdoq,2025-11-04T20:57:48.219Z,"33 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
