@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-08T06:45:42.451Z,30.906,-103.532,5,1.5,ml,7,259,0.4,0.8,tx,tx2025vzkhii,2025-11-08T06:48:18.548Z,"22 km ESE of Balmorhea, Texas",earthquake,0,,0.1,6,automatic,tx,tx
 2025-11-08T06:00:30.890Z,38.83466720581,-122.81500244141,0.68999999761581,0.71,md,13,79,0.01647,0.06,nc,nc75260441,2025-11-08T06:17:20.682Z,"8 km W of Cobb, CA",earthquake,0.24,0.660000026,0.06,13,automatic,nc,nc
 2025-11-08T05:49:07.829Z,54.7849,164.1686,10,4.5,mb,58,110,4.175,0.73,us,us6000rm8d,2025-11-08T06:20:28.040Z,"192 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,6.88,1.802,0.065,70,reviewed,us,us
 2025-11-08T05:23:18.204Z,-32.1822,-70.2097,102.502,4,mb,23,93,0.647,0.5,us,us6000rm85,2025-11-08T05:46:16.040Z,"79 km NE of San Felipe, Chile",earthquake,3.71,7.715,0.212,6,reviewed,us,us
@@ -152,9 +153,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T11:48:32.080Z,46.503166666667,-122.40266666667,22.56,1.02,ml,30,69,0.1256,0.11,uw,uw62203192,2025-11-07T17:00:39.930Z,"6 km ESE of Mossyrock, Washington",earthquake,0.21,0.47,0.11888666718147,9,reviewed,uw,uw
 2025-11-07T11:16:13.240Z,35.59583333,-98.05716667,7.51,1.04,ml,24,74,0.1529699821,0.35,ok,ok2025vvgg,2025-11-07T16:46:49.353Z,"5 km E of Calumet, Oklahoma",earthquake,,1.3,0.27,13,reviewed,ok,ok
 2025-11-07T11:09:03.770Z,33.8396667,-117.1231667,7.8,1.55,ml,86,22,0.07177,0.21,ci,ci40482226,2025-11-07T16:50:55.770Z,"5 km NNE of Nuevo, CA",earthquake,0.15,0.58,0.243,26,reviewed,ci,ci
+2025-11-07T11:06:34.650Z,52.1415,-176.18533333333,9.71,1.16,ml,6,307,0.04826,0.33,av,av93874281,2025-11-08T06:47:32.990Z,"42 km NE of Adak, Alaska",earthquake,1.76,2.15,0.31021537544068,6,reviewed,av,av
 2025-11-07T11:00:11.026Z,11.3099,124.3598,10,4.6,mb,34,121,8.411,1.7,us,us6000rm2n,2025-11-07T11:42:01.040Z,"1 km W of Tabango, Philippines",earthquake,12.16,1.901,0.109,25,reviewed,us,us
 2025-11-07T10:49:16.390Z,51.969166666667,178.3885,9.08,0.33,ml,4,341,0.07815,0.25,av,av93874261,2025-11-08T06:27:30.590Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.06,2.55,0.35922591504735,4,reviewed,av,av
 2025-11-07T10:45:39.200Z,38.832164764404,-122.81600189209,1.8700000047684,1.07,md,14,70,0.01651,0.02,nc,nc75260126,2025-11-07T11:07:20.884Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.519999981,0.28,14,automatic,nc,nc
+2025-11-07T10:40:48.610Z,51.8625,-177.87416666667,7.71,0.28,ml,4,203,0.06068,0.05,av,av93051989,2025-11-08T06:44:01.550Z,"85 km W of Adak, Alaska",earthquake,0.52,1,0.26803598719843,4,reviewed,av,av
 2025-11-07T10:32:30.030Z,38.83466720581,-122.79866790772,1.9099999666214,1.77,md,27,70,0.007498,0.03,nc,nc75260121,2025-11-07T12:57:18.657Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.349999994,0.14,28,automatic,nc,nc
 2025-11-07T10:25:24.525Z,17.6916,122.9498,10,4.5,mb,27,139,5.393,0.89,us,us6000rm2j,2025-11-07T11:37:24.040Z,"88 km NE of Dicabisagan, Philippines",earthquake,11.04,1.597,0.136,16,reviewed,us,us
 2025-11-07T10:03:49.100Z,54.764166666667,-163.91883333333,7.87,0.97,ml,4,152,0.06613,0.26,av,av93874201,2025-11-07T20:47:29.020Z,"34 km WSW of False Pass, Alaska",earthquake,1.09,2.43,0.35095031502343,4,reviewed,av,av
@@ -195,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T06:54:30.660Z,33.0766667,-115.5746667,10.86,1.36,ml,37,41,0.04248,0.24,ci,ci40482170,2025-11-07T06:58:03.272Z,"6 km NE of Westmorland, CA",earthquake,0.24,0.42,0.181,23,automatic,ci,ci
 2025-11-07T06:54:19.930Z,38.826332092285,-122.79467010498,2.8399999141693,0.89,md,10,104,0.01252,0.01,nc,nc75260041,2025-11-07T08:07:18.636Z,"6 km W of Cobb, CA",earthquake,0.44,0.75,0.29,10,automatic,nc,nc
 2025-11-07T06:53:50.500Z,33.0746667,-115.5738333,10.57,1.29,ml,33,40,0.0429,0.24,ci,ci40482162,2025-11-07T06:57:18.619Z,"6 km NE of Westmorland, CA",earthquake,0.26,0.41,0.126,24,automatic,ci,ci
-2025-11-07T06:45:44.759Z,34.71916667,-96.07433333,16.88,1.88,ml,65,163,0.2645480866,0.29,ok,ok2025vuxi,2025-11-07T14:26:06.492Z,"5 km S of Ashland, Oklahoma",earthquake,,1.4,0.25,24,reviewed,ok,ok
