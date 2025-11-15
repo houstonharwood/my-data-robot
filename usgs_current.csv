@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-15T21:10:29.360Z,38.837333679199,-122.7825012207,2.8099999427795,0.77,md,8,185,0.006218,0.02,nc,nc75263776,2025-11-15T21:12:05.040Z,"5 km WNW of Cobb, CA",earthquake,1.01,1.79999995,0.2,8,automatic,nc,nc
-2025-11-15T21:08:49.933Z,36.96111679,-100.3062439,5,3.03,ml,15,195.385025,0.3523758054,0.9768159297,ok,ok2025wkpv,2025-11-15T21:10:37.659Z,"13 km NW of Knowles, Oklahoma",earthquake,5.581198785,,0.24,8,automatic,ok,ok
+2025-11-15T21:10:20.080Z,19.190166473389,-155.37533569336,30.540000915527,2.72,md,55,175,0.05154,0.129999995,hv,hv74831367,2025-11-15T21:14:38.530Z,"10 km E of Pāhala, Hawaii",earthquake,0.4,0.419999987,0.21047729212929,15,automatic,hv,hv
+2025-11-15T21:08:50.254Z,36.94532394,-100.2983017,5,3.03,ml,19,162.1031036,0.3457820117,0.9933959671,ok,ok2025wkpv,2025-11-15T21:13:51.040Z,"12 km NW of Knowles, Oklahoma",earthquake,4.216160649,,0.24,8,automatic,ok,ok
 2025-11-15T21:02:10.538Z,31.502,-104.001,7.2543,1.1,ml,8,111,0.1,0.5,tx,tx2025wnitnq,2025-11-15T21:04:31.284Z,"28 km NW of Toyah, Texas",earthquake,0,2.7497322559357,0.2,6,automatic,tx,tx
 2025-11-15T21:00:54.077Z,57.8199,-156.3423,122.1,2,ml,,,,0.5,ak,ak025enwxwo2,2025-11-15T21:05:13.077Z,"71 km ENE of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-15T20:40:13.942Z,60.2673,-152.1862,93.6,3.2,ml,,,,0.48,ak,ak025enwkzcz,2025-11-15T20:52:36.247Z,"37 km NW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-15T18:09:52.000Z,38.769332885742,-122.73733520508,0.10999999940395,0.79,md,7,90,0.01244,0.01,nc,nc75263706,2025-11-15T18:42:19.340Z,"2 km ESE of The Geysers, CA",earthquake,0.35,1.01999998,0.37,6,automatic,nc,nc
 2025-11-15T18:06:22.756Z,39.7006,143.1899,25.681,4.7,mb,89,92,1.957,0.49,us,us6000rnhi,2025-11-15T18:59:54.040Z,"107 km E of Miyako, Japan",earthquake,6.29,5.253,0.064,80,reviewed,us,us
 2025-11-15T18:05:40.785Z,60.3836,-143.4463,3.2,1.9,ml,,,,0.65,ak,ak025env6o5a,2025-11-15T18:07:39.577Z,"120 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-15T18:02:42.880Z,37.77233505249,-122.18650054932,4.0500001907349,1.98,md,39,44,0.01165,0.09,nc,nc75263701,2025-11-15T19:37:16.712Z,"4 km SE of Oakland, CA",earthquake,0.16,0.409999996,0.27,31,automatic,nc,nc
+2025-11-15T18:02:42.880Z,37.77233505249,-122.18650054932,4.0500001907349,1.98,md,39,44,0.01165,0.09,nc,nc75263701,2025-11-15T21:22:48.093Z,"4 km SE of Oakland, CA",earthquake,0.16,0.409999996,0.27,31,automatic,nc,nc
 2025-11-15T17:39:51.435Z,37.2699,-114.6813,14.3892,2.28,ml,20,140,0.324,0.4253,nn,nn00907332,2025-11-15T17:43:26.377Z,"41 km SSW of Caliente, Nevada",earthquake,,0.5718,0.5,11,automatic,nn,nn
 2025-11-15T17:32:21.770Z,38.835834503174,-122.81600189209,0.85000002384186,1.13,md,8,172,0.01326,0.03,nc,nc75263691,2025-11-15T18:42:20.340Z,"8 km W of Cobb, CA",earthquake,0.53,0.430000007,0.2,7,automatic,nc,nc
 2025-11-15T17:30:24.161Z,37.3344,-114.6707,3.6773,1.6,ml,10,141,0.311,0.2221,nn,nn00907329,2025-11-15T17:33:19.328Z,"34 km SSW of Caliente, Nevada",earthquake,,11.4835,0.76,6,automatic,nn,nn
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-14T21:47:19.500Z,46.970833333333,-122.205,-0.38,1.17,ml,24,67,0.01863,0.12,uw,uw62204652,2025-11-15T04:05:07.980Z,"2 km SE of Kapowsin, Washington",explosion,0.29,31.61,0.14279587734744,10,reviewed,uw,uw
 2025-11-14T21:28:59.450Z,36.291666666667,-89.522833333333,6.52,1.68,md,12,118,0.03686,0.06,nm,nm60615541,2025-11-15T15:19:00.590Z,"4 km NW of Ridgely, Tennessee",earthquake,0.43,0.53,0.036379735447721,9,reviewed,nm,nm
 2025-11-14T21:28:50.032Z,65.2978,-149.0243,9.9,1.7,ml,,,,0.51,ak,ak025em9kknf,2025-11-14T21:31:00.007Z,"22 km NE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-11-14T21:22:35.713Z,65.2913,-148.952,0.8,2.4,ml,,,,0.4,ak,ak025em9j98z,2025-11-14T21:24:56.170Z,"24 km NE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
