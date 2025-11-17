@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-17T22:27:53.250Z,32.953998565674,-115.52283477783,6.3600001335144,1.6482471766569,ml,18,89,0.06131,0.209999993,ci,ci41123231,2025-11-17T22:29:56.272Z,"3 km SSE of Brawley, CA",earthquake,0.59,1.47000003,0.24929252266884,12,automatic,ci,ci
+2025-11-17T22:36:19.242Z,32.118,-102.188,9.45,1.2,ml,14,79,0,0.5,tx,tx2025wrdikx,2025-11-17T22:41:05.405Z,"16 km NW of Midland, Texas",earthquake,0,2.414534330368,0.3,6,automatic,tx,tx
+2025-11-17T22:27:53.250Z,32.953998565674,-115.52283477783,6.3600001335144,1.44,ml,18,89,0.06131,0.209999993,ci,ci41123231,2025-11-17T22:31:39.788Z,"3 km SSE of Brawley, CA",earthquake,0.59,1.47000003,0.18364150098256,21,automatic,ci,ci
 2025-11-17T22:08:22.250Z,38.833332061768,-122.78600311279,2.2699999809265,0.58,md,10,124,0.006099,0.04,nc,nc75264891,2025-11-17T22:27:18.295Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.600000024,0.35,11,automatic,nc,nc
 2025-11-17T22:05:53.391Z,32.109,-102.21,5.0424,1.2,ml,13,120,0,0.7,tx,tx2025wrchzs,2025-11-17T22:09:21.899Z,"17 km NW of Midland, Texas",earthquake,0,1.7708728313446,0.3,6,automatic,tx,tx
 2025-11-17T22:00:13.710Z,37.87483215332,-123.12449645996,5.0900001525879,2.46,md,9,234,0.6091,0.2,nc,nc75264886,2025-11-17T22:17:21.228Z,"18 km SW of Point Reyes, CA",earthquake,12.76,7.1500001,,1,automatic,nc,nc
@@ -33,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T18:19:37.219Z,38.0915,-115.9429,6.8629,3.16,ml,18,138,0.381,0.1543,nn,nn00907391,2025-11-17T19:42:32.040Z,"52 km NNW of Rachel, Nevada",earthquake,,5.2909,0.33,10,reviewed,nn,nn
 2025-11-17T18:11:12.140Z,33.5443333,-116.413,4.02,1.79,ml,77,35,0.1074,0.17,ci,ci40486338,2025-11-17T18:15:00.148Z,"16 km SW of La Quinta, CA",earthquake,0.11,0.41,0.215,26,automatic,ci,ci
 2025-11-17T17:52:35.010Z,34.8493333,-118.9011667,11.49,1.5,ml,32,65,0.04988,0.19,ci,ci40486306,2025-11-17T17:56:09.025Z,"3 km WNW of Lebec, CA",earthquake,0.22,0.46,0.276,27,automatic,ci,ci
+2025-11-17T17:46:39.950Z,36.889333333333,-112.491,18.72,1.61,md,6,146,0.294,0.17,uu,uu80122676,2025-11-17T22:34:45.150Z,"6 km SSE of Fredonia, Arizona",earthquake,0.75,2.49,0.17759994582705,5,reviewed,uu,uu
 2025-11-17T17:39:53.037Z,62.2194,-150.6436,42.1,2.2,ml,,,,0.67,ak,ak025er5v8s1,2025-11-17T17:52:07.070Z,"23 km WSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-17T17:34:11.618Z,31.656,-104.39,6.0999,2.3,ml,49,70,0,0.2,tx,tx2025wqthwc,2025-11-17T18:07:38.514Z,"57 km S of Whites City, New Mexico",earthquake,0.67216218933499,0.50386432922688,0.1,25,reviewed,tx,tx
 2025-11-17T17:23:03.682Z,12.1277,-86.4514,128.024,5.3,mww,66,126,0.793,1.18,us,us6000rnrz,2025-11-17T21:01:48.594Z,"12 km WSW of Ciudad Sandino, Nicaragua",earthquake,7.91,5.336,0.056,31,reviewed,us,us
@@ -203,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T01:11:31.470Z,33.4596667,-116.4461667,2.46,1.35,ml,68,34,0.135,0.23,ci,ci40485890,2025-11-17T14:21:56.771Z,"24 km ESE of Anza, CA",earthquake,0.17,0.46,0.159,27,reviewed,ci,ci
 2025-11-17T01:09:25.623Z,63.2086,-151.3493,0,2.1,ml,,,,1.02,ak,ak025eqw5tj4,2025-11-17T01:22:25.045Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-17T01:08:05.590Z,47.691166666667,-121.40833333333,10.56,1.46,ml,28,45,0.03619,0.17,uw,uw62205097,2025-11-17T16:44:11.770Z,"4 km WSW of Skykomish, Washington",earthquake,0.22,0.41,0.10618187449018,11,reviewed,uw,uw
-2025-11-17T00:59:51.387Z,62.2339,-151.0924,90,1.7,ml,,,,0.4,ak,ak025eqvv5qa,2025-11-17T01:02:06.909Z,"31 km NNE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-11-17T00:59:51.387Z,62.2339,-151.0924,90,1.7,ml,,,,0.4,ak,ak025eqvv5qa,2025-11-17T01:02:06.909Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-11-17T00:58:40.150Z,33.4556667,-116.6161667,9.33,0.6,ml,20,143,0.02374,0.14,ci,ci40485882,2025-11-17T01:02:09.606Z,"12 km SSE of Anza, CA",earthquake,0.32,0.42,0.165,17,automatic,ci,ci
 2025-11-17T00:55:51.790Z,38.831665039062,-122.81383514404,1.9700000286102,0.95,md,8,86,0.01827,0.01,nc,nc75264461,2025-11-17T01:17:19.806Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.79999995,0.23,10,automatic,nc,nc
 2025-11-17T00:48:24.830Z,33.0121667,-116.3736667,9.57,0.79,ml,29,40,0.05085,0.18,ci,ci40485874,2025-11-17T00:51:55.787Z,"22 km ESE of Julian, CA",earthquake,0.22,0.49,0.206,11,automatic,ci,ci
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-16T23:18:16.128Z,62.9987,-151.0015,110.4,1.9,ml,,,,0.52,ak,ak025eplrx2k,2025-11-16T23:20:22.227Z,"57 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-11-16T23:07:30.500Z,38.755165100098,-122.70999908447,1.4299999475479,1.32,md,6,125,0.01327,0.02,nc,nc75264396,2025-11-17T01:27:17.878Z,"3 km SW of Anderson Springs, CA",earthquake,0.43,0.610000014,0.23,5,automatic,nc,nc
 2025-11-16T23:06:45.428Z,32.099,-102.124,6.958,0.5,ml,13,84,0,0.2,tx,tx2025wpiprx,2025-11-17T14:24:54.699Z,"12 km NNW of Midland, Texas",earthquake,0.79549763218276,0.95809984177679,0.1,7,reviewed,tx,tx
-2025-11-16T22:41:21.890Z,38.833999633789,-122.77983093262,1.210000038147,1.52,md,17,133,0.00851,0.05,nc,nc75264386,2025-11-17T01:07:17.728Z,"5 km WNW of Cobb, CA",earthquake,0.27,0.600000024,0.17,20,automatic,nc,nc
-2025-11-16T22:39:34.470Z,38.78783416748,-122.74883270264,3.1500000953674,1.25,md,16,83,0.01052,0.04,nc,nc75264381,2025-11-17T00:37:20.537Z,"1 km NNE of The Geysers, CA",earthquake,0.36,0.629999995,0.16,15,automatic,nc,nc
