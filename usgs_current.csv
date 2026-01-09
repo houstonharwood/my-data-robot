@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-09T23:21:00.888Z,32.423,-102.063,2.6004,1.1,ml,5,157,0,0.4,tx,tx2026aqmgil,2026-01-09T23:24:23.804Z,"34 km WSW of Ackerly, Texas",earthquake,0,2.4021599292755,0.3,3,automatic,tx,tx
+2026-01-09T23:19:35.796Z,-13.7751,166.6463,35,5.6,mww,51,68,1.747,1.41,us,us7000rnsp,2026-01-09T23:38:55.040Z,"98 km W of Sola, Vanuatu",earthquake,9.22,1.898,0.065,23,reviewed,us,us
 2026-01-09T22:58:48.260Z,33.1755,-116.42983333333,13.85,1.32,ml,53,31,0.09306,0.21,ci,ci41154927,2026-01-09T23:09:34.040Z,"10 km SSW of Borrego Springs, CA",earthquake,0.19,0.49,0.21479446988679,26,automatic,ci,ci
 2026-01-09T22:38:59.740Z,34.338333333333,-116.883,1.71,1.26,ml,7,113,0.04695,0.17,ci,ci41154919,2026-01-09T22:42:41.886Z,"9 km NNW of Big Bear City, CA",earthquake,0.8,0.74,0.18600462323682,30,automatic,ci,ci
 2026-01-09T22:32:34.990Z,34.031333333333,-117.7275,0.74,1.07,ml,6,124,0.1806,0.19,ci,ci41154911,2026-01-09T22:36:17.425Z,"4 km WNW of Chino, CA",earthquake,1.15,1.66,0.45246068777528,11,automatic,ci,ci
@@ -162,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-09T02:32:15.241Z,37.2348,-114.6251,1.2892,1.63,ml,6,141,0.652,0.1318,nn,nn00909359,2026-01-09T17:43:58.231Z,"43 km SSW of Caliente, Nevada",earthquake,,5.0251,0.41,2,reviewed,nn,nn
 2026-01-09T02:08:24.906Z,32.747,-100.659,8.4717,1.4,ml,17,80,0.1,0.2,tx,tx2026aowbsf,2026-01-09T14:00:51.061Z,"15 km NE of Hermleigh, Texas",earthquake,0.76575827481193,1.4787607663544,0.1,13,reviewed,tx,tx
 2026-01-09T01:50:30.305Z,60.609,-150.754,11.6,1.8,ml,34,52,0.3,0.8,ak,ak2026aovmgv,2026-01-09T01:52:21.713Z,"8 km N of Sterling, Alaska",earthquake,0,1.7929,0.1,5,automatic,ak,ak
+2026-01-09T01:47:00.520Z,60.027333333333,-153.10683333333,1.2,-0.77,ml,5,131,0.03587,0.05,av,av93988166,2026-01-09T23:33:08.760Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.22,0.39,0.36156859214089,5,reviewed,av,av
 2026-01-09T01:32:43.971Z,60.5701,-139.9803,5,2.6,ml,12,110,0.495,0.68,us,us7000rnkz,2026-01-09T01:48:55.040Z,"114 km N of Yakutat, Alaska",earthquake,2.81,2.004,0.071,26,reviewed,us,us
 2026-01-09T01:32:00.090Z,60.059666666667,-153.04866666667,2.77,-0.76,ml,5,250,0.007843,0.24,av,av93988151,2026-01-09T23:15:37.870Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.78,0.93,0.39727921678437,5,reviewed,av,av
 2026-01-09T01:27:23.330Z,17.983666666667,-66.1485,16.55,1.81,md,14,156,0.03477,0.16,pr,pr71504668,2026-01-09T01:45:56.910Z,"3 km NNE of Jobos, Puerto Rico",earthquake,0.49,0.34,0.0338580106945,3,reviewed,pr,pr
@@ -180,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-08T23:45:28.600Z,34.2355,-117.62416666667,4.73,1.6,ml,67,28,0.02866,0.21,ci,ci41154607,2026-01-09T16:12:51.050Z,"12 km WSW of Lytle Creek, CA",earthquake,0.18,0.31,0.20651743084701,30,reviewed,ci,ci
 2026-01-08T23:44:45.880Z,60.0715,-153.1205,2.26,-0.92,ml,4,258,0.01527,0.18,av,av93054269,2026-01-09T08:57:30.370Z,"63 km ENE of Pedro Bay, Alaska",earthquake,1.05,1.01,0.19410129661283,4,reviewed,av,av
 2026-01-08T23:44:27.280Z,60.009,-153.13716666667,1.05,-1.11,ml,5,173,0.02602,0.12,av,av93988041,2026-01-09T08:54:00.100Z,"59 km ENE of Pedro Bay, Alaska",earthquake,0.4,1.14,0.26441615858743,5,reviewed,av,av
-2026-01-08T23:40:26.938Z,55.32,-160.152,54.4,3.1,ml,30,212,0.8,0.4,ak,ak2026aoremj,2026-01-09T04:25:41.145Z,"22 km E of Sand Point, Alaska",earthquake,0,7.7391,0.2,17,reviewed,ak,ak
-2026-01-08T23:39:17.360Z,60.049666666667,-153.03883333333,1.41,-0.68,ml,5,221,0.01462,0.06,av,av93988031,2026-01-09T08:31:29.010Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.8,0.21,0.31378831953014,5,reviewed,av,av
