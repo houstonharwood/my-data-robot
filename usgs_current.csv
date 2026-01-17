@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-17T05:38:23.738Z,31.53,-104.018,5.0991,1.7,ml,37,58,0,0.3,tx,tx2026bduvqk,2026-01-17T05:42:23.595Z,"32 km NW of Toyah, Texas",earthquake,0,1.8415316343307,0.2,25,automatic,tx,tx
 2026-01-17T05:31:33.580Z,38.81600189209,-122.81600189209,2.7200000286102,1.09,md,22,51,0.01252,0.02,nc,nc75296856,2026-01-17T05:33:11.992Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.15,23,automatic,nc,nc
 2026-01-17T05:30:20.350Z,38.839168548584,-122.78466796875,1.5900000333786,0.48,md,8,92,0.004497,0.01,nc,nc75296851,2026-01-17T05:31:56.705Z,"6 km WNW of Cobb, CA",earthquake,0.6,1.32000005,0.25,8,automatic,nc,nc
 2026-01-17T05:26:23.250Z,38.794498443604,-122.77016448975,3.4800000190735,1.05,md,20,74,0.0102,0.02,nc,nc75296846,2026-01-17T05:28:03.125Z,"2 km NNW of The Geysers, CA",earthquake,0.31,0.620000005,0.07,19,automatic,nc,nc
@@ -17,9 +18,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-17T03:40:30.870Z,36.090667724609,-120.18783569336,9.539999961853,2.66,md,39,71,0.06619,0.07,nc,nc75296806,2026-01-17T04:07:21.151Z,"11 km NNW of Avenal, CA",earthquake,0.2,0.360000014,0.14,65,automatic,nc,nc
 2026-01-17T03:36:09.460Z,17.872666666667,-66.8465,14.17,2.52,md,9,245,0.1013,0.12,pr,pr71505328,2026-01-17T03:52:37.030Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.58,0.53,0.047681712059842,3,reviewed,pr,pr
 2026-01-17T03:34:02.525Z,-30.5065,-178.2309,70.079,5.2,mb,46,61,7.601,1.45,us,us7000rq8y,2026-01-17T04:16:36.040Z,"Kermadec Islands, New Zealand",earthquake,12.88,5.665,0.085,46,reviewed,us,us
+2026-01-17T03:15:52.326Z,59.957,-141.113,0,2.3,ml,14,188,0.5,1.1,ak,ak2026bdqcxi,2026-01-17T05:43:40.947Z,"90 km WNW of Yakutat, Alaska",earthquake,7.4,0,0.3,4,reviewed,ak,ak
 2026-01-17T03:05:25.390Z,32.782,-115.4515,9.7,1.45,ml,20,71,0.02359,0.22,ci,ci41160143,2026-01-17T03:09:12.400Z,"7 km WSW of Holtville, CA",earthquake,0.32,0.81,0.24518581532983,21,automatic,ci,ci
 2026-01-17T02:57:11.446Z,37.1231,-105.0136,10,2.5,ml,11,98,0.538,1.21,us,us7000rq8s,2026-01-17T03:28:27.040Z,"3 km SE of Stonewall Gap, Colorado",earthquake,2.73,2.008,0.074,24,reviewed,us,us
-2026-01-17T02:50:06.165Z,61.334,-149.929,19.5,2.4,ml,46,31,0.3,0.8,ak,ak2026bdpgre,2026-01-17T02:51:39.735Z,"3 km SE of Point MacKenzie, Alaska",earthquake,2.8,3.0001,0.5,3,automatic,ak,ak
+2026-01-17T02:50:07.347Z,61.335,-149.975,8.6,2.6,ml,82,33,0.2,1.2,ak,ak2026bdpgre,2026-01-17T05:40:11.937Z,"2 km S of Point MacKenzie, Alaska",earthquake,2,1.7674,0.4,31,reviewed,ak,ak
 2026-01-17T02:43:48.640Z,19.120666503906,-155.36849975586,27.950000762939,1.93,md,26,243,0.09501,0.119999997,hv,hv74878077,2026-01-17T02:47:25.250Z,"14 km SE of Pāhala, Hawaii",earthquake,0.69,0.699999988,0.097958345216155,15,automatic,hv,hv
 2026-01-17T02:43:23.100Z,33.443333333333,-116.9765,5.77,1.14,ml,50,25,0.06658,0.25,ci,ci41160135,2026-01-17T02:47:05.181Z,"10 km W of Aguanga, CA",earthquake,0.2,0.67,0.26593527318658,26,automatic,ci,ci
 2026-01-17T02:40:02.090Z,17.973833333333,-66.833166666667,15.91,1.85,md,7,196,0.03348,0.09,pr,pr71505318,2026-01-17T02:50:07.680Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.65,0.47,0.13833106339358,5,reviewed,pr,pr
@@ -47,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-17T00:27:29.590Z,32.805333333333,-116.63466666667,17.53,1.05,ml,21,91,0.09043,0.12,ci,ci41160087,2026-01-17T00:31:11.735Z,"10 km W of Pine Valley, CA",earthquake,0.24,0.54,0.3209582544292,16,automatic,ci,ci
 2026-01-17T00:21:43.080Z,32.806666666667,-116.6425,17.21,1.53,ml,53,43,0.09668,0.17,ci,ci41160079,2026-01-17T00:32:33.020Z,"11 km W of Pine Valley, CA",earthquake,0.16,0.42,0.32791904369642,27,automatic,ci,ci
 2026-01-17T00:19:20.300Z,40.770000457764,-122.10717010498,10.359999656677,1.67,md,8,122,0.05733,0.03,nc,nc75296746,2026-01-17T00:20:55.117Z,"14 km WSW of Round Mountain, CA",earthquake,0.45,0.74000001,0.11,3,automatic,nc,nc
+2026-01-17T00:17:02.070Z,46.205333333333,-122.19,6.69,0.26,ml,10,95,0.03128,0.11,uw,uw62223201,2026-01-17T05:36:58.400Z,"38 km NNE of Amboy, Washington",earthquake,0.4,0.72,0.14583798566096,6,reviewed,uw,uw
 2026-01-17T00:16:17.005Z,29.971,142.2037,10,5,mb,45,119,3.74,0.76,us,us7000rq8a,2026-01-17T00:32:41.040Z,"Izu Islands, Japan region",earthquake,8.12,1.716,0.08,50,reviewed,us,us
 2026-01-17T00:10:23.422Z,31.661,-104.367,6.6382,1.8,ml,30,69,0.1,0.1,tx,tx2026bdjzat,2026-01-17T04:25:07.164Z,"57 km S of Whites City, New Mexico",earthquake,0.69255184726187,0.78227869068661,0.1,18,reviewed,tx,tx
 2026-01-17T00:01:59.073Z,36.2597,-115.294,2.6071,1.72,ml,14,122,0.269,0.3312,nn,nn00909598,2026-01-17T00:06:17.624Z,"16 km NNE of Summerlin South, Nevada",earthquake,,16.5258,0.35,9,automatic,nn,nn
@@ -213,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T06:12:22.206Z,61.866,-149.923,20,1.6,ml,7,157,0.5,0.1,ak,ak2026bcagce,2026-01-16T06:13:53.133Z,"14 km NNE of Willow, Alaska",earthquake,8.2,6.3908,0,1,automatic,ak,ak
 2026-01-16T06:08:45.198Z,15.7817,-88.1941,6.867,5.2,mww,76,58,2.179,1.14,us,us7000rq11,2026-01-16T18:54:00.410Z,"12 km N of Cuyamel, Honduras",earthquake,6.66,4.641,0.058,29,reviewed,us,us
 2026-01-16T05:50:36.870Z,38.829833984375,-122.8253326416,1.3600000143051,0.4,md,9,69,0.01012,0.03,nc,nc75296416,2026-01-16T05:52:12.602Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.810000002,0.3,9,automatic,nc,nc
-2026-01-16T05:36:54.741Z,60.4523,-139.4742,5,2.9,ml,16,128,0.528,0.47,us,us7000rq0w,2026-01-16T09:07:25.040Z,"101 km N of Yakutat, Alaska",earthquake,2.59,2.004,0.064,32,reviewed,us,us
